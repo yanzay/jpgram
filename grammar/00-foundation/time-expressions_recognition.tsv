@@ -1,0 +1,31 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::00 - Foundation::Recognition
+#
+今日は月曜日です。	きょうはげつようびです。	Today is Monday.	今日	day	present day reference	kyō = today	明日 (tomorrow) vs 昨日 (yesterday)	[sound:45735ddbdcdd.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+明日は火曜日です。	あしたはかようびです。	Tomorrow is Tuesday.	明日	day	next day reference	ashita = tomorrow	今日 (today) vs 昨日 (yesterday)	[sound:2f49c544707f.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+昨日は日曜日でした。	きのうはにちようびでした。	Yesterday was Sunday.	昨日	day	previous day reference	kinō = yesterday	今日 (today) vs 明日 (tomorrow)	[sound:2daac0ccbda7.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+今週は忙しいです。	こんしゅうはいそがしいです。	This week is busy.	今週	week	present week	konshū = this week	来週 (next) vs 先週 (last)	[sound:d07cd822395a.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+来週は休みです。	らいしゅうはやすみです。	Next week is a break.	来週	week	following week	raishū = next week	今週 (this) vs 先週 (last)	[sound:31d6ef6a01b9.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+先週は楽しかった。	せんしゅうはたのしかった。	Last week was fun.	先週	week	previous week	senshū = last week	今週 (this) vs 来週 (next)	[sound:330aefbea892.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+今月の売上は？	こんげつのうりあげは？	How are this month's sales?	今月	month	present month	kongetsu = this month	来月 (next) vs 先月 (last)	[sound:4abf7a1f7df7.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+来月から新しい。	らいげつからあたらしい。	From next month it's new.	来月	month	following month	raigetsu = next month	今月 (this) vs 先月 (last)	[sound:25d06d904f22.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+先月は寒かった。	せんげつはさむかった。	Last month was cold.	先月	month	previous month	sengetsu = last month	今月 (this) vs 来月 (next)	[sound:de66a34f68d2.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+今年は2026年です。	ことしはにせんにじゅうろくねんです。	This year is 2026.	今年	year	present year	kotoshi = this year	来年 (next) vs 去年 (last)	[sound:f76ca9d199c6.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+来年は東京へ行く。	らいねんはとうきょうへいく。	Next year I'll go to Tokyo.	来年	year	following year	rainen = next year	今年 (this) vs 去年 (last)	[sound:e029059d188c.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+去年は大変だった。	きょねんはたいへんだった。	Last year was tough.	去年	year	previous year	kyonen = last year	今年 (this) vs 来年 (next)	[sound:715446521403.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+午前9時に来ました。	ごぜんくじにきました。	I came at 9 AM.	午前	period	morning (before noon)	gozen = AM	午後 (afternoon/PM)	[sound:1dbd0c0fd93f.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+午後3時に会いましょう。	ごごさんじにあいましょう。	Let's meet at 3 PM.	午後	period	afternoon/evening	gogo = PM	午前 (morning/AM)	[sound:6b2097364ad6.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+一時二十五分です。	いちじにじゅうごぶです。	It's 1:25.	一時二十五分	time	specific time	1-jikan + 25-fun	半 (30 min exactly)	[sound:546b26236842.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+今、3時半です。	いま、さんじはんです。	It's 3:30 now.	半	time	exactly 30 minutes	han = 30-minute mark	arbitrary minutes (e.g., 25-fun)	[sound:eaea5bc1bfbc.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+平日に仕事します。	へいじつにしごとします。	I work on weekdays.	平日	day-type	Monday-Friday	heijitsu = business day	週末 (weekend)	[sound:21c5ef80f24b.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+週末は何をする？	しゅうまつはなにをする？	What do you do on weekends?	週末	day-type	Saturday-Sunday	shūmatsu = weekend	平日 (weekday)	[sound:5922d1f660d2.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+朝6時に起きます。	あさろくじにおきます。	I wake up at 6 AM.	朝	daytime	early morning	asa = dawn/early AM	昼/夕方/夜	[sound:e3423fcc8685.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+昼間にラーメン食べた。	ひるまにらーめんたべた。	I ate ramen in the daytime.	昼	daytime	midday/daytime	hiru = noon/day	朝/夕方/夜	[sound:4af06c19d755.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+夕方は暗くなります。	ゆうがたはくらくなります。	It gets dark in the evening.	夕方	daytime	early evening	yūgata = dusk	朝/昼/夜	[sound:ca95bc5ed939.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+夜9時に寝ます。	よるくじにねます。	I sleep at 9 PM.	夜	daytime	nighttime	yoru = night	朝/昼/夕方	[sound:d960c73df2a6.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+今、雨です。	いま、あめです。	Right now it's raining.	今	time	present/now	ima = now	past vs future tense	[sound:f1d02b015bec.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+さっき何があった？	さっきなにがあった？	What happened just now?	さっき	time	moments ago	sakki = a while ago	今 (right now)	[sound:b02e1e385451.mp3]	module:00-foundation jlpt:n5 point:time-expressions
+今朝は冷たいです。	いまあさはつめたいです。	This morning is cold.	朝	daytime	early morning (keasa)	keasa = this morning	昨朝 (yesterday morning)	[sound:e4fc02911cb4.mp3]	module:00-foundation jlpt:n5 point:time-expressions

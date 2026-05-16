@@ -1,0 +1,4629 @@
+{
+  "version": 1,
+  "entries": {
+    "0010356f6c61": {
+      "text": "そこに本がありますか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "10fffdc1aa8e16e52d5adc932902ea71744b0ab4c384b3806d78af605e411e7b",
+      "size": 16512
+    },
+    "0019768599ca": {
+      "text": "えんぴつ3本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2b8d43f8b1a9af31a9fcbc0f2e0138420779b9fcf90fca19b284951502456399",
+      "size": 15360
+    },
+    "007b2b8955ab": {
+      "text": "どんな仕事をしていますか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6f003b7b88bce91504bef8c7ef9f67341f5782bcc3a8d1e030ae3d60855266a3",
+      "size": 17664
+    },
+    "00859a61c08f": {
+      "text": "レ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "426a7370067beac7d82b4b7f213cf07987386d85311e75065d7f81653372d733",
+      "size": 4032
+    },
+    "00ed9f08e29e": {
+      "text": "カ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e66f4826ef5da5b2c456b89023d52c27546a4e72603591afb77334f650e1f531",
+      "size": 4032
+    },
+    "01163a901441": {
+      "text": "私は毎日映画を見ます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "846943de4ccbce6d7cbbea40fa9cfc69c5dc9f10f7cbc1731597a19f050d6b0c",
+      "size": 21504
+    },
+    "01e5fbc989c1": {
+      "text": "100人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fa34549e4d3755b641868c9bfb3cff10f339133fd25cba5b6de0577104bbe72a",
+      "size": 12480
+    },
+    "022dd77d5cf1": {
+      "text": "犬",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cedf411263fc5427a069a33f021526eae2780c6256c5c6c416332d02a34b607c",
+      "size": 5760
+    },
+    "027f4f77a3fc": {
+      "text": "車7台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "df927aa42cac115cfa40d37a3136974501da52c37548d7f338183dcc2caa3d6b",
+      "size": 15744
+    },
+    "02952f8d8cff": {
+      "text": "魚10000匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ea276c1ea87d856f432f5ca23ccba6381e2b0a5888210fa58e6ffd9005815fdd",
+      "size": 17280
+    },
+    "03cdcf068c9e": {
+      "text": "どれが好きですか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "be51aa89a0a58212bdaa01d1f9d1fad673a8f8d10553b69591ec92aba9bb0f33",
+      "size": 13056
+    },
+    "03f65015f9e6": {
+      "text": "忙しい",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "edb70de98296b228a1696e726eb52d2131f875d70a6bcd264bc2f3a96d0e1ead",
+      "size": 8832
+    },
+    "047a10546d70": {
+      "text": "8人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "28b5684bfbd017c47c4645c0ea03ea44fa2f2de11252ba37c028b1274244ba35",
+      "size": 12480
+    },
+    "056cfad24eb2": {
+      "text": "タ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "579124b7b07c5ee21f308e8ad79c06f2bac22aac81a60329f8d10b61ba099d3c",
+      "size": 4032
+    },
+    "06175c7694d0": {
+      "text": "田中さんは先生です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "07b687c5485e9a74a912ea8697492f965ca0f53627c12ae40e5f590770891d5b",
+      "size": 16896
+    },
+    "0627f890934c": {
+      "text": "ひょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "be0974e79b6edd9e63d8d7f99a0399cba1cbbdbe44cab38944832d480acb1c03",
+      "size": 4416
+    },
+    "062957be362f": {
+      "text": "ちゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8e0954c6ed5bb12e378eb925cb3f832243c161ae8517ec470741e3d28593513c",
+      "size": 4416
+    },
+    "0634ffc8add8": {
+      "text": "今度",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0e76ee8dead599ba6dfa2f024ae52637618fe4a060c746784649e2a729138be1",
+      "size": 6528
+    },
+    "065ebce83a18": {
+      "text": "ヌ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6a2ffce60d55703d9eea1a80159c278dc4bddd3162ec02e2a96777bc0122276c",
+      "size": 4224
+    },
+    "06716d34cc81": {
+      "text": "オ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2ea86cceba5431e308fbcb27e8b238ff3b61daaa47344f7b028fbf7e09e3816e",
+      "size": 3840
+    },
+    "06b58547dc73": {
+      "text": "ぽ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0a179d9bce32c5440190ae500e084ff8095eb44c54483194a0709a95735bba72",
+      "size": 4032
+    },
+    "07465769240b": {
+      "text": "猫も犬も好きです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "93bc24d3c514976aaa1f22c72dc69d23fdc8674eb0f10945c8a587d667e3cb93",
+      "size": 15552
+    },
+    "0764018f8c1f": {
+      "text": "先生と言いました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8e91b654534d6c246b53ea4ae5511d2b0159729f45c17bf432633dca0b61d397",
+      "size": 14784
+    },
+    "082572f0e93a": {
+      "text": "That is red. [polite i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ebb467f17ed9b5d8c242eb52683756166d4e4c687fcd5dbedc197f0b4461ec63",
+      "size": 27456
+    },
+    "08831cb24c9b": {
+      "text": "ぎょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a1b71476a12c13317948836a9796adc6a99249b44f3d71411826221145c59c58",
+      "size": 4416
+    },
+    "089cdc29f1a4": {
+      "text": "こんな犬を飼いたいです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "72007f8f13ef8e778fb4d1b8d72af07a0e1a5b0347124584f9b8d65c0eedd392",
+      "size": 16896
+    },
+    "0954bcc57525": {
+      "text": "にょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "49e19d106642cb0e49631bcd9c052d3315bff86880409f4084fd0b96031200a5",
+      "size": 4416
+    },
+    "098004d0abc9": {
+      "text": "えんぴつ2本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "49141875a7af427075c2d0deb8e3078b445b37495c44489cb141ff07a0ca724a",
+      "size": 14016
+    },
+    "0a1cc845facd": {
+      "text": "びょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a367071d87c39f747b30a477b3e5e5a451861ae021c48ad6291ae1a7d2d5f63c",
+      "size": 4416
+    },
+    "0a6db11d160a": {
+      "text": "一日7回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "be6196123cba04d0398cbecc9db9152547c3a5ac6497c1959ce9d844cb7052a4",
+      "size": 15936
+    },
+    "0b0c66f803a4": {
+      "text": "私は毎日走ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a0e57a4400a79ed8b5755b06ce9122fa61139ee2c9307b05b5df7b52b2fb968c",
+      "size": 18624
+    },
+    "0b444d225296": {
+      "text": "紙5枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4d17f24994b2f1c42e894cf9ec8abb7bc214e189deb661cdb0a4f69374ec168e",
+      "size": 13248
+    },
+    "0bff8ea256e3": {
+      "text": "車8台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9b3d723807ec776e3a812b8b6110192dfd90e36e49607a2a6942cbf2d39cbb97",
+      "size": 15744
+    },
+    "0c031ce2b91b": {
+      "text": "私は行きません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ec3df8b68565632f9d49c6d56512b9d0136b7fd7035bb41ae1419aa9506eb215",
+      "size": 14592
+    },
+    "0c414c812bd8": {
+      "text": "つ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b84b5067b75fc8edd701e47dae990d6d0427a58e0fd0c10890681cd82c62769f",
+      "size": 4800
+    },
+    "0c4d5d8cccfb": {
+      "text": "父は毎日死にます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3177609799f0799c8ba754fdccda8cb17113d554e1783b2cd6aac00455a99374",
+      "size": 16320
+    },
+    "0c5229f0adec": {
+      "text": "上げる",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0043b404db22c8a6a9017d6be56b377c5c3d6f013401c907f1a3da3e48c0814d",
+      "size": 6336
+    },
+    "0cc2205d6c07": {
+      "text": "電車で行く。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4b5db9d23518e27e72dedc3cb7ecb0a9bad74e5134053c4856919aecb7e21ddf",
+      "size": 9984
+    },
+    "0db3e4c3e31f": {
+      "text": "彼が来たら電話します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7f3ca4258a49c4bafa61e6318ef4e2f690cd00afad4ad39eff6c2861ba045abd",
+      "size": 16704
+    },
+    "0e5388f6023b": {
+      "text": "魚5匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "10e7acaa3837a042aa318c529554d2faa23333b71c3b0e961cf02522763d832e",
+      "size": 13248
+    },
+    "0e6c5021099b": {
+      "text": "一日9回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "92c8c4cbdc290bedefb925a091d106ee5f1155204e30e30aa80b33665c172ffd",
+      "size": 16320
+    },
+    "0eb0633f6c68": {
+      "text": "みゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "80c153e5e5ab8e169c9a251142219809c660ee5ed8fd7d8e48cdaea73c271eea",
+      "size": 4416
+    },
+    "1058a3faa3d5": {
+      "text": "私は彼を友達だと思っています。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "81aa94fc0dc4aad1d45663d033f1ac98f78d008b2a48f05d560bc4f2160c0872",
+      "size": 25536
+    },
+    "115759838422": {
+      "text": "じょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "197570bdbf52899bf071a1ff64887ef7818cf0a369c8cc43331ef7be48112773",
+      "size": 4224
+    },
+    "119daf93eeb9": {
+      "text": "開く",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6f2c4c1d631f411c094256fe2c4219390776286b327f13f227d72d310117f2ed",
+      "size": 6912
+    },
+    "1254f39583e2": {
+      "text": "私は毎日京都へ行きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3b329a8bcf9fe794c869d4e7707ad4d2f247ff74fbd1aa5b00963c618b162c6d",
+      "size": 21888
+    },
+    "1374d323a8d5": {
+      "text": "兄は毎日新聞を読みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7836a2ee65a2f290722d3bb3ff429ab68f2b4e47a52f22636013edf86d7e21c5",
+      "size": 20544
+    },
+    "1391f4a4c627": {
+      "text": "色",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7e10804578f015c4859b7b3934150a03322e23c205f8ff8322fca0a1fad891a8",
+      "size": 5184
+    },
+    "14346a679817": {
+      "text": "紙3枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7dee5fa906f3bb4cd7522cdbc089ce9b75847900a1d48c05b05e5597bf5649e5",
+      "size": 13632
+    },
+    "14890280c401": {
+      "text": "柔らかい",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1d19ed71e56b7cf5d4cfa3f619bf5e0df3417db8289184505fa2279abe207ed9",
+      "size": 8064
+    },
+    "1520760dd33d": {
+      "text": "えんぴつ8本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bf8256f4ec1531ff524326fae73d0fd804ba74eed69e23819682ce374b2c0ccf",
+      "size": 15360
+    },
+    "156efeaf0de7": {
+      "text": "有る",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c5e71ddc9febb5e7f1481ced078d0cb715badb89ae4f23471656abba098471a7",
+      "size": 5184
+    },
+    "158f3ab3dedd": {
+      "text": "私は学生で、兄は会社員だ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a9ba2593b35474fcf82bdcde8b70b49888ec5da75f1ae40e35cdf6582722c756",
+      "size": 26688
+    },
+    "15901a60a347": {
+      "text": "ク",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "af50729f1d5e0e328fdb42ed61818f0e66eddc4b787d98a0eb6911d3eee2cb33",
+      "size": 4416
+    },
+    "16f43921b038": {
+      "text": "どこへ行きますか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "17fc7443af66700b1f9fb5568a6a060b66de4bb3de8232106490b6f6cc5977c9",
+      "size": 13824
+    },
+    "16ff838c68fa": {
+      "text": "魚3匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3d786580130017720ce9bef6ffc6f115adedc8ff7101c01ba68b6ba36544222e",
+      "size": 14976
+    },
+    "17af7fc50b1d": {
+      "text": "先生に聞きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cc78abb4d5be363dc6f930a9a74733f9528833e7c0c61bca642454a7d932ba73",
+      "size": 12864
+    },
+    "184fbe1b42e0": {
+      "text": "図書館で勉強します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8169e25d4aa077263329ec978b8c174cea0c7baf945e9e101a18d99b43f9538c",
+      "size": 16320
+    },
+    "18d384c0bea8": {
+      "text": "私は毎日来ます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "de404d1665c082408e0466a8a98316037e9a44f223136b1546a9f8a0c220cf2a",
+      "size": 16512
+    },
+    "18fa3c1db17d": {
+      "text": "本を読みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "94313c07dc9b14a408725db1c6ddf66c2167b552fe47fc0b35e7d18e21a3b8ae",
+      "size": 11136
+    },
+    "1ab62bb6d7b6": {
+      "text": "りょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "11155d37dd7efc6218ef87f0d8d4fea1790607bbb8215fc593c483fddd42b382",
+      "size": 4416
+    },
+    "1ab95acb3806": {
+      "text": "こちらは部長でございます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1996d9a9341de4c090fdf5adf52bdcb9bf1bc46bdfc5f97ca077daac71f70d59",
+      "size": 17664
+    },
+    "1afad7703773": {
+      "text": "シ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3a0e7251619ef938398f6805bd3fcdbfe025861baa87b9d87833c807b5a18170",
+      "size": 4800
+    },
+    "1b4c4cc65ff2": {
+      "text": "ア",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "379d0b243a35f746dc50561f4c03b70aa19e8b58278484efc4a3bdbd8e718846",
+      "size": 3840
+    },
+    "1b4f72f21e69": {
+      "text": "私は毎日話して勉強します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c7d4ce473afa2d097bb3dd6b5915638262ca19910b9a48f2828ddeb7a31e2c4e",
+      "size": 24576
+    },
+    "1b60f62fba6e": {
+      "text": "兄",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6924dc6242f0f1c72e61feb5156528b142ae5fce55a8bab0e4c92581cc46e02d",
+      "size": 5184
+    },
+    "1b9529268184": {
+      "text": "五月まで待ちます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "482332915d207b5f384bae439597fbcdaa6f54b9504fd71d6db542aadcb271d9",
+      "size": 12864
+    },
+    "1c5425dae8c9": {
+      "text": "み",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c078ba4e2b6e2b86a32394f85476c92b9fa4736dbb69b2b4f8b098ca44f17dc0",
+      "size": 4032
+    },
+    "1c60ef8e7139": {
+      "text": "英語を話します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6e6768b901deccf4fc9bf26d506d62346ededba017b272298836c1d8c2c42959",
+      "size": 12672
+    },
+    "1c6cc033d32b": {
+      "text": "学校へ行きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d410a1e36748230d3888371e9080e00676f43c732774772c1639f61859e22a4e",
+      "size": 13248
+    },
+    "1d59ea7cbbee": {
+      "text": "点",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fc5ea1e82d53cd33a913aeba3ac5cb512fee1cf07d1e319a176991052944d5d3",
+      "size": 5376
+    },
+    "1d672f91e3ff": {
+      "text": "ル",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b23dc81059ca9f0fbab431546ea1e1fefe5ca00b6a5bf051b016548a678c5920",
+      "size": 4224
+    },
+    "1dbd0c0fd93f": {
+      "text": "午前9時に来ました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c27a8fa484b3b8f0146cdbec5dd439db564c3e774c4d4f27d45134515b161d88",
+      "size": 16128
+    },
+    "1e4afc25edf2": {
+      "text": "これが欲しいです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "be9189ba803b117def1101807852184fb2d59a94f17cc567ef5fc8381daeec6b",
+      "size": 12480
+    },
+    "1f0f74cf3efc": {
+      "text": "私は学生だった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5da739b6f76a717390f484d6fafae5fd923b7177a2b532baf65214ebc3271eb4",
+      "size": 17088
+    },
+    "1fa0519cfd09": {
+      "text": "は",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2e886b676353e507917e1b281ca84aa4f70fb0599422e462f947d633612edbc7",
+      "size": 4224
+    },
+    "202a6b25e725": {
+      "text": "コ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "87f6288957ec47e683b10e7712210d976f1c05c222c260768c279569ac3b9470",
+      "size": 4224
+    },
+    "2037a7509df3": {
+      "text": "5つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1c576d1123748243a399c1708623bca523bff0f8792c973db26ff554276db0d8",
+      "size": 10560
+    },
+    "2083aa096d7e": {
+      "text": "ピ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8cd73a0eb083fe32dc9255304f53325b0434ed692790735ec66ae4f1aab95c53",
+      "size": 4032
+    },
+    "21c5ef80f24b": {
+      "text": "平日に仕事します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cd823d8117ef3c28002ff8050c2253251972cc38d9a17e6faacf900e5de49bdf",
+      "size": 16128
+    },
+    "220216f18a88": {
+      "text": "ぴょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "89ee4066ec6e736aac8d14185fe9ce74a75176525d7810cc62ee83b0a1ec40a3",
+      "size": 4224
+    },
+    "224fecb16293": {
+      "text": "ぷ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fe513e732b836f5e6c94aed6943514456d910d0147d625e183f64c3021271f2c",
+      "size": 4032
+    },
+    "22a3ed6a5bee": {
+      "text": "その物は遠い。両者から遠い。「あれ」。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d180f7a096ca3369cbd12b3ba535315589a581a0c24845bb315a20a61563d852",
+      "size": 28608
+    },
+    "23239011ca96": {
+      "text": "ポ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4216b100a26cd24724a846e370af0b4f80f9c2dc9ea0399f192a8d8d3e4db89d",
+      "size": 4032
+    },
+    "24c2ff22d918": {
+      "text": "彼は学者でもあります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f784701569eda4de806c22a96b7c8db7514731dc114347a0aa55f9e7b740f60b",
+      "size": 16512
+    },
+    "25176a6320b2": {
+      "text": "この本は面白くありません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4fdec18735f94fec5632a57fe761d1e45e681b49c1cfb2c19f3354eafbf8ce03",
+      "size": 20352
+    },
+    "2545f47b51fd": {
+      "text": "建て",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4296b15102de99b68b3f3a33083d117d037c0918c02e0c2cb5c6e378177ae231",
+      "size": 5568
+    },
+    "25d06d904f22": {
+      "text": "来月から新しい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "805393f395b6803705cb37b228a739911b058831c061809d476de1df0e628f98",
+      "size": 14784
+    },
+    "26d422ba410c": {
+      "text": "車10台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "55c78c7f346bf400a69801d8b26191900d65cd919417713f2d51da1d5eff1317",
+      "size": 16512
+    },
+    "276330ed9702": {
+      "text": "弟",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ad94bf6349958e7a63b840efdccd3238e6233166777091c401d6cc3393d367eb",
+      "size": 7680
+    },
+    "2768d02f9098": {
+      "text": "バ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6e23ac8106c1194f204c01d887ac0e75ecd03177c0834c5cdd3a16ea30831a1e",
+      "size": 4224
+    },
+    "277d9f1bd46b": {
+      "text": "私は毎日8時に寝ます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "39157f4ce60fa73ede2a54e29523ee0facc5eb5ec4e970864c40b5f3ca8aab3d",
+      "size": 21504
+    },
+    "27a87259d93f": {
+      "text": "ご",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a004e354eeb4fd333e33393d5b8bf26bcb2dce7d740d65825fcc3187302a862c",
+      "size": 4224
+    },
+    "27acc76c0055": {
+      "text": "き",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "73429e9707e0bf8246a3274d5972c832b41b030bfcd7fc69e3f601d3078bc7e0",
+      "size": 4224
+    },
+    "287a06131f4d": {
+      "text": "鍵",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "524bbd4be1e697a0b5003a7395c2f29c7b726eb365290d75bd2736d4897fef03",
+      "size": 5952
+    },
+    "288c9e077190": {
+      "text": "か",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b8d63a9060a61cbe637d43ef9a038b867b5fb183ca679693a7e71d15855a9cbe",
+      "size": 4224
+    },
+    "28c4fffab206": {
+      "text": "明日の朝。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7d35f1f7a046e992b18657c1b808d78e6b233dcf14ca35a3795dc8a6b3aa3585",
+      "size": 10176
+    },
+    "2948512b7b39": {
+      "text": "その映画を見ましたか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9d25045fa7d56788b929a31931357c36417239fe64d728edde02489e27968bda",
+      "size": 16128
+    },
+    "298ab383a42d": {
+      "text": "きゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1672c13cc0e97155142dd5a30bea87fb4be9f61415a945b0cbf777ece3ce5176",
+      "size": 4608
+    },
+    "2995b69f5a42": {
+      "text": "親",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4af9c6500539e31512fc3e3adfa05c8b6ee1e392d0c2bef56201efa471d4aa83",
+      "size": 5184
+    },
+    "2be15dff939f": {
+      "text": "弟は毎日4時に帰ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "669ce47d5176acf5adec8b8df6dd5d16a9db5561a4746cf9cd2e7a4559ce96ea",
+      "size": 22464
+    },
+    "2c8d01873f7b": {
+      "text": "友達と話します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "41598b2eac56d10e3ce5ab8e658beb9e6907189203430d42e862837a70f36705",
+      "size": 14976
+    },
+    "2c96412e9ee8": {
+      "text": "一日3回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ee5699ce1b0950e1ddc15d0511fe4c200ee60b0c19f344068a8bfa954934f61c",
+      "size": 15936
+    },
+    "2cc2d3c50ed6": {
+      "text": "5人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "10ac76cad5a2318e042b5009f0640985715c1c5640f7018960ce6e65dfff4db7",
+      "size": 11520
+    },
+    "2cd30084b5db": {
+      "text": "五時も十時も遅いです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6323371ed5fed5abd58a5ecb99bace8127b231f07e644fb1fd5f12bacc77233a",
+      "size": 17856
+    },
+    "2cde37f47f5c": {
+      "text": "病気で休みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1e7848ed898d6c7ae68b724aa1571c547b175503364a6f65aaa90588c9e9bbf4",
+      "size": 12864
+    },
+    "2cf8934dec55": {
+      "text": "ガ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b0f3217a748562c908b5d7767f473e1749e26e7b11cdd65eb94bd308d9e95c5f",
+      "size": 4224
+    },
+    "2d5c3abff76c": {
+      "text": "えんぴつ10本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "856769f42c9dc554baec4ca1131d3fda8aeaa195f7aaa9f3b6bfa090a3938ab0",
+      "size": 14592
+    },
+    "2d7d31a9ab4e": {
+      "text": "痛い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0bd0da65835d205ff2655984ad9591274bcd6062e454cbd62ae900ac7f693352",
+      "size": 5952
+    },
+    "2daac0ccbda7": {
+      "text": "昨日は日曜日でした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f31ef7a747602e44b18fcc91f3ca599ff949b158dc9c89f23ec2721b34bccd8d",
+      "size": 17280
+    },
+    "2e824838874a": {
+      "text": "橋",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5a25801d398b629ddeab895927b81397ab2a54e8eb38c4ba5420c08985520acd",
+      "size": 6336
+    },
+    "2e9c5afd29ff": {
+      "text": "方",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2c883ae9bec462a253d493a862f3afb1b8c036e7ea5f301182532c9f92ea6857",
+      "size": 5568
+    },
+    "2f49c544707f": {
+      "text": "明日は火曜日です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "023a413b41fc31f9627faf2571a70a88c798eec0ecc68584afbfe53b2df6df40",
+      "size": 14400
+    },
+    "2f7806f919a5": {
+      "text": "暑い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "69540e362ea51bd02356203fa6187c5f98c19382c689340adba821e376a83450",
+      "size": 6720
+    },
+    "301ddde50a3b": {
+      "text": "Coffee is hot. [polite i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9ba553261d9dca4ee3f5be378f50c6f19de983d70797cb19b08a71e65fa7a59a",
+      "size": 28416
+    },
+    "314de1bca77e": {
+      "text": "大抵",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ed8380c306dcb108c23156465c68512c5004a7b3a47e37e073105145fcf92559",
+      "size": 7296
+    },
+    "31b8cd1aa9b2": {
+      "text": "駅まで一時間かかります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ae214d2b1132f1eda37eb9b05b2c9425c11b6cf362e22edd3d43c78bf601414a",
+      "size": 18624
+    },
+    "31d6ef6a01b9": {
+      "text": "来週は休みです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "26a359d44237586916d74c36643c296557b4993655ea02e990f20423cbdf5e47",
+      "size": 14784
+    },
+    "330aefbea892": {
+      "text": "先週は楽しかった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ae9adfea87f15472db94145803d50ceef1375e6ff52786ab375b93bff43dc49c",
+      "size": 15936
+    },
+    "33b6cccfb7f4": {
+      "text": "学生なら、図書館が使える。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "138c5ce664ce294d740206fbaec0840398eada95d39321db55008446b126add7",
+      "size": 23040
+    },
+    "33dda9d445d7": {
+      "text": "池",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ffd37880914188984ff3b2f1c6c71c08c13733fa9e18cccfbb1db0a537b59c40",
+      "size": 5568
+    },
+    "3444a0783326": {
+      "text": "彼女は医者だ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a8cb56930d1ac90179b50c8b6f430de4afe3784658faeed730efe8249fa144fe",
+      "size": 10944
+    },
+    "34b52c062f97": {
+      "text": "ここに座ってください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1608f26d66e9b9bcc916dd415ca22c59293cbf744c0a2b49b556ad1f3c8d4212",
+      "size": 15744
+    },
+    "34b78f606779": {
+      "text": "折る",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "776ad41a27e7a5b40b77c819e82e486e608a6ee68e33aa8cc8268f119a5ccc9e",
+      "size": 5184
+    },
+    "35104655d4d6": {
+      "text": "ハ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2a74833190b2fc86edbe5977709fec9f9944d204bc2f78ab4a7e680cbaba23b5",
+      "size": 4224
+    },
+    "3707bab0c47b": {
+      "text": "エ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "eb814ec7148d28ac2398a9e58ed84e25d15047635296e25f835497088af657b8",
+      "size": 3840
+    },
+    "3735c2871650": {
+      "text": "一日2回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8ad95c06c49db0c5a62429374fec08a2d16e8ce9a82357e11f080617a77f08a0",
+      "size": 15168
+    },
+    "37703e1c6341": {
+      "text": "私は学生だ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b7eadbbf2e09572535319a7a321ce47177b9af82e33f7f4f2f099c75b77e717d",
+      "size": 14400
+    },
+    "378e5284aa93": {
+      "text": "7人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b3789de420e555063afb851d2cafec34fa2ab744090447dcb965a5b2461beb58",
+      "size": 12480
+    },
+    "37f4e3d32a37": {
+      "text": "生きる",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "aef9e23485619d84ba0aa37f0e7a6c61afe1eeac006b5b9fe6f763e60d14eca2",
+      "size": 6336
+    },
+    "382a438fd4c5": {
+      "text": "ふ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ff7ec0d65f4b64f5d7d9711ea30ded5bcb33b5c0c9dcd81860b21a71d48e0b52",
+      "size": 4800
+    },
+    "388d1f249db2": {
+      "text": "これは辞書です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bf9353752cfc639f2e609819810d9a13086bd3a0c708ef493e3acf4e9261d532",
+      "size": 10944
+    },
+    "38d064916ce9": {
+      "text": "私は毎日選びます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d9e19ee88fdeaa5a812fba307e198fe0ad1a0192966acd6d153bfd16de4be514",
+      "size": 18624
+    },
+    "3a104bbe569e": {
+      "text": "ね",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dfcbeb060ffbedef9057df66a0da59a2e352507c8beb4b5af202e37c62ad1c63",
+      "size": 4224
+    },
+    "3a3857bfa3f6": {
+      "text": "歌",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fbeb67b6c8f629aa8068de6dbcce1bd88ff23c2107f0b4954e0ccd2cd6836b8d",
+      "size": 4032
+    },
+    "3b14295dd170": {
+      "text": "えんぴつ9本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f185d77793c8681f9fdbec5a0de0161eb17849ca9a6413156f6bd327666e012f",
+      "size": 15168
+    },
+    "3b358e1ad3ba": {
+      "text": "このクラスだけ私です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8236b45cf17ad43b1d45f0bc5e9944fc191a14ab3d36026d9a19b2aaeb7ba1ac",
+      "size": 16896
+    },
+    "3b3ec6d0a05f": {
+      "text": "日本の文化。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c839d9398177a0a9dd56c624e3522744253bebcbc670d2bfc5f44ebbe318c2ba",
+      "size": 12096
+    },
+    "3c01c77f19cd": {
+      "text": "い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f1b6b4b951d53d9be5a29eef4f28303224b530a1d65073fb5edf41cfb743f67b",
+      "size": 4032
+    },
+    "3c1a103b5b4f": {
+      "text": "ズ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dad80a33b29a7e22982dbb6a8757a3a4ba301364ce6bea565b9d2cc702b99de2",
+      "size": 4416
+    },
+    "3c6945772d72": {
+      "text": "も",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2b0ff3d5cb6c681cbc39528b42c36ff3a262d565fdbaad8c3145b5e959d58190",
+      "size": 4032
+    },
+    "3dc526b3311b": {
+      "text": "えんぴつ5本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "08fdd1e0a17292b65dad033d5608659bc8f24cf372cba1eb670115b9fc9c543f",
+      "size": 14400
+    },
+    "3ea11857b820": {
+      "text": "一年かかりますに東京。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "188002737a511b2fa72990e402d37b99872a67913194bfd4827cb3416fc66330",
+      "size": 18816
+    },
+    "3ff5a3bc3aaa": {
+      "text": "It was interesting. [polite past i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "39fdd0f0af60395e406628675cb4e743952476da0be9eb5073eb83f79742eaa5",
+      "size": 35136
+    },
+    "400805e5a9e2": {
+      "text": "ま",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fa44652dbce5fbec1d8b69c63d49f880e02f74e53edcae51ab90b7a1cb20710d",
+      "size": 4032
+    },
+    "40613d472fe5": {
+      "text": "毎日の勉強。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "93d1a80455905158ad1f712cf63de1ab03560c4dfab5f3d654c1b7bccd993421",
+      "size": 13248
+    },
+    "408ae436f0e0": {
+      "text": "キ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "85556a0546939d285308139b8d30dc7b17e740d34a81ff673003349bc6042169",
+      "size": 4416
+    },
+    "41a11f66f540": {
+      "text": "ホ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5ae8b71353f53d75c6b0deb98a3344d6d96b6ae11557a0185be7919e1a992834",
+      "size": 4416
+    },
+    "41e21fd61f5c": {
+      "text": "猫や犬を飼っています。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9aad31057865c4c2890890d381224a10dd8dcb15edd7e33ef20ed44b4dab31a5",
+      "size": 16896
+    },
+    "41f11fe610d4": {
+      "text": "じ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "81966bd98af3964eb2346a5040ff6959c6fd0935ac73e904c307f9f3df2f855f",
+      "size": 4416
+    },
+    "41f7f51b8b17": {
+      "text": "それは何ですか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f3bff914676ca5a90656deb475e34074c8d36c460ba9b518975a02c2ebb005bf",
+      "size": 13248
+    },
+    "4204447274de": {
+      "text": "学校に行きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "49c81518b1933a41b72dd39a5b73cd85f4eafe739d85620dd57f458e42b5dff4",
+      "size": 13056
+    },
+    "44180d9e2486": {
+      "text": "怒る",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f7706a01010f5622810f87d374427bc003272d4eb17563ba49f4b7f04b968efe",
+      "size": 6336
+    },
+    "44567171f335": {
+      "text": "ゆ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1daf041a348c0d0773667d98d78eec03648694d783e63f55f1ee718951a0b240",
+      "size": 4224
+    },
+    "45735ddbdcdd": {
+      "text": "今日は月曜日です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9d2979b374f2a08e5938ff2049da8b513e1610e85c551b1d819f1af1c7680413",
+      "size": 14400
+    },
+    "45794015d5f3": {
+      "text": "鳴る",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "04da722d51d89589189fdfc90e412a2c36d92157adf94f3dc786356f44ec4a2b",
+      "size": 5760
+    },
+    "45848c207624": {
+      "text": "本1冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9ee310eb4a7eb49ede2f6e9e630b9eb17bcfc8b80d96433d6ad33925b55d8b14",
+      "size": 16128
+    },
+    "4616e1499f9d": {
+      "text": "6つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "031f2cec84d1da63d0ad0844e23e6c3010154e94b84b581ac31135533dea909a",
+      "size": 9984
+    },
+    "469e92c9cf65": {
+      "text": "ひ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ca48531171debe0c1846e25bd947f6ca6a9380be4d6252529c9ab3fe0da15f06",
+      "size": 4608
+    },
+    "46f5880ccb0c": {
+      "text": "彼は学者なり。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9c6b1c7d24f17f6d1c5d6d42750c4154e1aef7a70ef78d9058b0871eb14a0471",
+      "size": 12288
+    },
+    "4772028c2ed1": {
+      "text": "僕は学生ではありませんでした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "28248ca606c50dbc7ae47302e2855efab8f2355b7b4fb34650ec85298adb1cad",
+      "size": 21312
+    },
+    "478d2f9eb192": {
+      "text": "な",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d456767d19a6d39516e18fc30bf63a4148f0013f27cfda2f862bcf36eae0b23b",
+      "size": 4224
+    },
+    "4811d56f78c9": {
+      "text": "It is not beautiful. [polite negative na-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "da4439a21a5a83d84986f6b60f7c07d06b5e07ac6031b02a87b0a46b1650dab7",
+      "size": 34560
+    },
+    "48a866bfdaf9": {
+      "text": "ん",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cad1177ff74ad36b90fc3dd7ccd705b6949d4cf6c025fc3b850ec47a899d64a1",
+      "size": 3840
+    },
+    "48e0680c307c": {
+      "text": "去年は難しい年だった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4d79656cb0725b70fe0cfe8d4c4579e338fc199b8b0496add1c51d488bedccc7",
+      "size": 19392
+    },
+    "4abf7a1f7df7": {
+      "text": "今月の売上は？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b6ba1112a3b4ade52c43a7fa0f3f79c25156149af84cb6b5344d59ee8e15f10c",
+      "size": 14592
+    },
+    "4af06c19d755": {
+      "text": "昼間にラーメン食べた。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "14778629aa150477d659382987ab30de99b02faab54d80a07a1846efc16061dd",
+      "size": 15936
+    },
+    "4b0df043e3ef": {
+      "text": "えんぴつ10000本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4dc3a7f3d362407964d2967e36bd8dd295575f8b46ae1a62ecf87185451a50a7",
+      "size": 18816
+    },
+    "4b68bd39367a": {
+      "text": "4つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1b3acf29c59b39da64661c9f66730ea4af8707532a6dc9e4c1fb5b1a66de3fec",
+      "size": 10176
+    },
+    "4b7f2dadec29": {
+      "text": "3つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7c62acb1c5dd1bf0c86f4cdf313bdc906726a6173b70f2fe7e02bd6e613fedbd",
+      "size": 9984
+    },
+    "4c1fe526f363": {
+      "text": "ロ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7dcb2de4f1d93164ec497c8d2aaa1eda76e7feb95c9f8a354aa1fcdcbd4be959",
+      "size": 4224
+    },
+    "4c8779cd95cd": {
+      "text": "紙100枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d4ee5c96322646c2122d578f8087161f254b2020ef9432f67bac73221c5da884",
+      "size": 14400
+    },
+    "4c9016177165": {
+      "text": "田中さんは営業ではありません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d27605c5e677ef6ce9edcb7c70d297652d59584bb049ccb8bd9d54ac59e54c08",
+      "size": 20928
+    },
+    "4d41d05c14da": {
+      "text": "食べる → 食べ + ます",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "99fe1883574396685a74fe688a05d76fa2c118172d2ad992ca298afd20e93dc7",
+      "size": 17280
+    },
+    "4d63215de7f6": {
+      "text": "魚4匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "789fff8eaee89b2f4fe9a5e2a8f86c701b08e3c16514b25ce39794138794f992",
+      "size": 13440
+    },
+    "4d8780b09f52": {
+      "text": "びゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "710f1030a87c2d5c6d6c714c58a4164fde5f3aa95c23b154f692d3478425fed4",
+      "size": 4416
+    },
+    "4def51326a2d": {
+      "text": "ちょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "85bfe0b813047c1609e99ac357c92a927fcb3ee5fc91392ee619097b986a0559",
+      "size": 4416
+    },
+    "4df8398708ab": {
+      "text": "ス",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "be659693410096a28996bfd7bca03014b7d87466786644cf77c3cdba0a94298c",
+      "size": 4608
+    },
+    "4e0d1a774877": {
+      "text": "遊ぶ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2e3b1cda9c94698265577987f17055d4d2968e826ad1cc9233499596a624fea6",
+      "size": 6528
+    },
+    "4ee309326b2d": {
+      "text": "聞き手はそこ。その物がそこなら「それ」。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fc4d42cadd5798d1ad55b5d73b86cc7cd56494d6c5678e6cf629b860cf548889",
+      "size": 26688
+    },
+    "4fcc92d4a268": {
+      "text": "兄は医者で、弟は学生だ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6e2543d86d4e3e7205d22fbc2b7b679fec63b330d407fca36289b5a0ed2895f0",
+      "size": 24192
+    },
+    "4ff7cff87785": {
+      "text": "水ばかり飲みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5c4f89d37a20a30ebd48fb79b967c28dbf8af9f9d80f369aa5866cb6a550c4b7",
+      "size": 12480
+    },
+    "50029791cb9f": {
+      "text": "む",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "efa7f1098909e3777c9f859b91c53da014af4af3324cadd12e48323ec0319273",
+      "size": 4224
+    },
+    "50234c32cf57": {
+      "text": "彼女は犯人ではなかった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ce040e0368abb972196cff9d380a874564e9834c180156a130fbe94069decbe6",
+      "size": 20352
+    },
+    "50623359dcfa": {
+      "text": "子供に教える。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "90ae5e9e5489cc7328415c28ab88574b7b7279953e8eca545f2fd0f8cbc35a1e",
+      "size": 12864
+    },
+    "51782b32a406": {
+      "text": "10つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "37b4776865344d0479a6b5425e122ede3cbd9c78d8d97e2b78744c6749183c42",
+      "size": 10176
+    },
+    "51b6a9d558e0": {
+      "text": "あんな映画は見たくありません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d0f31dd7b6caba0feffbdc9216f9527fa35991134cfaea180bf2073f21d033e9",
+      "size": 19776
+    },
+    "51bcc9d34833": {
+      "text": "熱い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d087ad3a7089385bebff8fff88dc6f0b6f0282b61415746aa28c2077873e071c",
+      "size": 6720
+    },
+    "5208259ec277": {
+      "text": "日本語が上手です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7abaecc37f4e9942900e334fd2c81e520dbc98f803f0f154043c7eecbfdb9ae2",
+      "size": 15360
+    },
+    "532e16758380": {
+      "text": "ペンで手紙を書きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "da638cfdcf3363b1590ed68762f15e32da1bd0b65b969119630f29fb11aa91dd",
+      "size": 16128
+    },
+    "546b26236842": {
+      "text": "一時二十五分です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9f98ce8851c7a77c67888ea653b20170b96641f0cb48fdb5759ff03d09ea770a",
+      "size": 16128
+    },
+    "552861813ca1": {
+      "text": "Today is Monday. [polite]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0b8ec063f572aae375393b999e6b48f81112dab510e7fec4b57b2fe9ab9737cf",
+      "size": 19776
+    },
+    "5557476f11b1": {
+      "text": "車9台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3a66231d20f8c6596c5d0637f476daf221ec34e96ee7ba289653a7699aa72b26",
+      "size": 17280
+    },
+    "556ca1263f0e": {
+      "text": "猫が部屋に います。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "77a3531ed98e38b51dfc44a703c71cabd5ab0fc31fbd10016793fc4a8b987693",
+      "size": 14592
+    },
+    "55d42f593ce9": {
+      "text": "マ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d31294bf1289c171d187bafa6ef8189a8e89aba22ce9c4e7ff320296493e81f9",
+      "size": 4032
+    },
+    "56377d14d4ef": {
+      "text": "の",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c5c7005626e465dc193d3138f8ee78923bef0f1f1cf6bca436c969e393984316",
+      "size": 4224
+    },
+    "5640932ec5c5": {
+      "text": "そうですね。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b71fc075ce531f01e8852fe5ef560256f3ff7788959d9f9223b969481f033a79",
+      "size": 8640
+    },
+    "567ca1db796e": {
+      "text": "じゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "326d3436ceaf6b88c97ac7d7ef65940c3b98cfc684a3acff9c60d04cbb305272",
+      "size": 4416
+    },
+    "56c35c37128e": {
+      "text": "ゼ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a5bda55d713dbea827c68a0685e12cacb30995f3483128e95693ced918770d9a",
+      "size": 4224
+    },
+    "56cb721117e2": {
+      "text": "リ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5468eb2109747c4fa3826161c996dc0aabda9cf06525504ca5af2b7060d4d411",
+      "size": 4032
+    },
+    "574d5398a21e": {
+      "text": "誰も彼しか来ません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2d5b8d27069afca7564a81be8c5aac1593562765073adc69295202564229093e",
+      "size": 16512
+    },
+    "577210255a86": {
+      "text": "モ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "821cf895ff72710e8381c9f374cdd884a533d4155956c6b3ae71af62308d975f",
+      "size": 4032
+    },
+    "5775809a51a8": {
+      "text": "魚9匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "36bfba6a9116a4e7f3cf4b37c7c8f51a4ca030ef69ad27c2da2af8438d81ac9b",
+      "size": 13824
+    },
+    "587b56ba7873": {
+      "text": "車6台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a0ed1602e1a290d2364cd9c8e68b904494e7d572cd41c54a55b2179b74bcb090",
+      "size": 15744
+    },
+    "5922d1f660d2": {
+      "text": "週末は何をする？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3abad1f2f84041bb5a20bb43287d90302710e7ee557cf9730aba01ed4596c408",
+      "size": 16704
+    },
+    "59a3a516a6fb": {
+      "text": "彼ばかり勉強しています。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "57f0cadfa717f167df87868826e5f920ef5420c5b1016ad686fd0e92defd4038",
+      "size": 17856
+    },
+    "59e672813b33": {
+      "text": "一日8回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ab9b1f46b18fecf37128b573af736d5c60564ee91d78a0c789658c42e79e510f",
+      "size": 16320
+    },
+    "5a340fe4758d": {
+      "text": "ほ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4a01002832ea41111ca46e026f4c1247cbb9e7aa10738cd387ed22380f441ad7",
+      "size": 4608
+    },
+    "5a6fd95747fe": {
+      "text": "車100台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5c86196f04555b3aa72539d953ac6dd3c9832370e49424ec024c283ba8876697",
+      "size": 16128
+    },
+    "5a8c02f583bc": {
+      "text": "Cats are cute. [polite i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "76b1059498be7955d8616f753b0b6ddbb4a87aac425b4c2c4abf8d53b2aab3af",
+      "size": 26688
+    },
+    "5ab92c860989": {
+      "text": "彼女に手紙を送ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dc07e688d726431a6763f16dd575e554e8d5041d0e59e30803f77410eb0f123c",
+      "size": 17664
+    },
+    "5b8252a1e93f": {
+      "text": "す",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "38731aadf54a605d941bebf0ffae25c584602f5e5bba1329f11871b0bf2d1010",
+      "size": 4608
+    },
+    "5b8bf4a2d801": {
+      "text": "私は毎日見て考えます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5dc5d67b47e8019b88bc61bf26780c3f4c0c7a507e255e274cbcf59984b1e6c1",
+      "size": 21504
+    },
+    "5bbbbf8a5aff": {
+      "text": "ギ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "20339373e57d9270ead851b75c169b463bb01dfaff823e2f9bee0c571e98f9e4",
+      "size": 4416
+    },
+    "5bd384349a78": {
+      "text": "みゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d3e447b6d7d5f2fe82d4a8ff22743d2acb9da2079405ca0d0acb841cbeba815e",
+      "size": 4608
+    },
+    "5cab33e8b105": {
+      "text": "私は学生でして、毎日勉強しています。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6455cd4e394b6e3500b6c4ae846f40fe08421952966ca079a7eddad33355c6b2",
+      "size": 33024
+    },
+    "5cf428be4474": {
+      "text": "ヘ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "589862017234e6dadeb66b7b3a318684c3a77de324dc95f5352167a057014f44",
+      "size": 4224
+    },
+    "5d7b2e704ec1": {
+      "text": "私は毎日話します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "48c4ae02ffbb1fa673bf41e310a7fada364f112c84ce57beff4cc45c8a8ed859",
+      "size": 19392
+    },
+    "5dc5d5b8abb3": {
+      "text": "デ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "68fd691ae388173ec6078005dd9fde758732f0360cb76d06b200f79629aa1a95",
+      "size": 4032
+    },
+    "5dff0a396b62": {
+      "text": "友達まで参加しました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8e543458b800916e49cf1a5ce7b0156de1092c96bf54cc04b312bea454785f19",
+      "size": 17280
+    },
+    "5e9a303b15e7": {
+      "text": "本4冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "da9e75cf09c4753516e14b61f3e873d2e2afec5b12ab81ddc9c8214bfbb2e3a0",
+      "size": 15936
+    },
+    "5fb5aba49978": {
+      "text": "び",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a6b3f34bb996ed3694a291eb7229483f5febaa266eb668c958ce8174239a6a49",
+      "size": 4224
+    },
+    "5fd39e7195dc": {
+      "text": "東京から来ました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5cdaa9e1513df76ccb6606c21ceeea628218e7a63694760b5b39bb3b593029fb",
+      "size": 14016
+    },
+    "5feeab12ccec": {
+      "text": "本9冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b465653f5a03421d7b3ade74bf232459b0dae038300c46ed32db4c6bf9c1bcaa",
+      "size": 16320
+    },
+    "600decef3e39": {
+      "text": "紙6枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ac8805c525dec62929b301353953ce3fae6a7b11cb43c5986522974570191dc9",
+      "size": 14208
+    },
+    "601557ae839a": {
+      "text": "彼女は犯人ではありませんでした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b45573238fb5bd1ef05ed140c14af84434e848602d1e81b93162bee83ff286ea",
+      "size": 22464
+    },
+    "602d16044a5e": {
+      "text": "えんぴつ4本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d3abdfe4a47bc6d4958dba1146fb65d297951f3c9434dbacd55d9d2b4e34fc33",
+      "size": 14784
+    },
+    "60e1e8f098d2": {
+      "text": "私の家。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e6ecce2c9b50e9d80e4784d32ea0e1c954eba8922396196e16072a4d6dd846ad",
+      "size": 10176
+    },
+    "616c706be58a": {
+      "text": "田中さんに電話しました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "01d8e2262423e0980c8b63e4515b345fb96bab387bab385137996f16eec670e2",
+      "size": 17088
+    },
+    "6188849bbec2": {
+      "text": "苦い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5abc7b95de727d97d79c3687082595f28ca84c76e7217c81132993c882e52c02",
+      "size": 6336
+    },
+    "619fdc4f9348": {
+      "text": "ちゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2dd3dc77dac576aa79b40c8326049a94c92d06005a4c053816a32c1fc3beb2f8",
+      "size": 4992
+    },
+    "627eca9863ad": {
+      "text": "そんなことは言わないで下さい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "665931807417c8008b5e813a999cff94da73e06a6d7a2fbddb79d39436135f68",
+      "size": 20352
+    },
+    "6284b768f0f4": {
+      "text": "1人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "168252ecca1609831a9c25c43bedb0d4c4cb1b80da32640f2d5a9644672747e7",
+      "size": 11136
+    },
+    "634540f05d98": {
+      "text": "め",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4101d7339b9179f8ac1b662905d50d7ae6d3186d876057b640d1169ec2a844be",
+      "size": 4032
+    },
+    "6466f5f2a69c": {
+      "text": "兄より背が高いです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3638e0c47de2edae4970d1d3facde0cec9b4cb28767f2034d517f7ba3097aade",
+      "size": 16512
+    },
+    "64732fc671ad": {
+      "text": "10人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "448a00b7e2774965f2f5354d42e44a9937a28933875d6e149c7b3aee4def9722",
+      "size": 12096
+    },
+    "64d073703829": {
+      "text": "しゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e060a0083bbbb66940a907cb6de65b7ef4ba6f97dbee82975f5887a17f1611f0",
+      "size": 4992
+    },
+    "651d85849d50": {
+      "text": "ミ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "26f5edfcceb1a7b59f4edba1d5dbe0eb41ec19e802d3abfe699554b369556f6b",
+      "size": 4032
+    },
+    "65429ee5e7b4": {
+      "text": "グ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a430aa8d2fdd170cfcc717081121625101404599695faa1879a350e7d8537645",
+      "size": 4224
+    },
+    "658da3d97ec6": {
+      "text": "にゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d9763b424823308f55e3beaecdd573c07588ee134753a96b60162c59be22c6d4",
+      "size": 4608
+    },
+    "65f62d2af907": {
+      "text": "何を指しているかわからない。「ど」系。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "80262bd55580fc6b18a0d036b15352b1784e2ed2dddd1e78018441e83b96b639",
+      "size": 24960
+    },
+    "6617e33d9583": {
+      "text": "みょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "90f9e8d3c695f146262dabc225c61ad4362f460355bc627da845fa7f061a01b4",
+      "size": 4416
+    },
+    "661cf28cf5e9": {
+      "text": "歩く",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "312abc7316fee0caf2d8cd0356aaa7beab9cec818af3864473893d7b08a1aacc",
+      "size": 6720
+    },
+    "692fc057a2cc": {
+      "text": "箸",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7de7461c7463a4e7757a5a9e5da68d2a9ebe1bf6f334874fe95f7702ed86cafb",
+      "size": 6144
+    },
+    "695aad811ab9": {
+      "text": "朝",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6e5e70406e3d8128afe3abe5113bc2cfc3211df9394f47e773e56a9676b517ff",
+      "size": 5568
+    },
+    "6a0b30d36103": {
+      "text": "漫画",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fcef60c9f794949e460b13b27ea59fa45a4a6d4d32f87ea154241e6de6bfee77",
+      "size": 6720
+    },
+    "6a954390e365": {
+      "text": "表",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "29ff2d84ecc6e6d7486f4cffb34950ec554c71035260e3c48ebccdfd91cc4752",
+      "size": 6720
+    },
+    "6ad7ee833add": {
+      "text": "ン",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "393cf0a55997e37bef1442b95e18dc66dac3420e281d87778e95d764f150cdca",
+      "size": 4032
+    },
+    "6b2097364ad6": {
+      "text": "午後3時に会いましょう。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ca3c8e03445f6a08f307670a76befb629923b0572240c854f38204de289fd7df",
+      "size": 17664
+    },
+    "6b9aebf4601a": {
+      "text": "山田さんも来ました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f0b07810016ab1abde0ff267ccd036ae9a26c915bf33c2fec567078483a70f56",
+      "size": 14592
+    },
+    "6c807d0ae2cd": {
+      "text": "ノ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "107877879448ac12340cd81c9898b26291aa73272d83781b61aa1edb97e036ca",
+      "size": 4224
+    },
+    "6d08b094b141": {
+      "text": "朝御飯",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "58d038a26c40eb8260256942d98cf324272e8021d9c2ce4dbd28c332f14aa86a",
+      "size": 8256
+    },
+    "6d1142468f08": {
+      "text": "沸く",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dda63dab2efe97ed7c9b01b914bba8d94a06a50d4dc81e8a4a49503da578e4ac",
+      "size": 6144
+    },
+    "6da49e7a0ab8": {
+      "text": "私は毎日勉強します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fda81d2459fbfb775e2eaabfa7555c3d09719479363fcf5b30edc9da94ac35d7",
+      "size": 20352
+    },
+    "6decd84dd371": {
+      "text": "1000つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dcc996cedb430195f625f1c2ad36dce76ca004e33f1e48aa50335ec6919b427e",
+      "size": 10176
+    },
+    "6e159a91b7ce": {
+      "text": "ぐ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "40df8c57c3dbff56cfb12c1d19114a26cfaad3a818ed3dba986bbb46b242d23f",
+      "size": 4224
+    },
+    "6e45869479d5": {
+      "text": "あの人は有名な俳優です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "924449be45506922b910b78c4f3de9ad065f89bbd652e248c83e7766db9a3930",
+      "size": 20352
+    },
+    "6f0875caaa1a": {
+      "text": "ああして成功しました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a9370ddda45d39dee1d155f6ba42844b42d9e5ff21762efc07c7573327233c00",
+      "size": 15360
+    },
+    "6f0fc75b07e6": {
+      "text": "止む",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6860224204a4b0ad495192bb40c102b70a0fbdc62077d1813ff593575c238901",
+      "size": 5760
+    },
+    "6f46f7d4a286": {
+      "text": "よ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fa0cabce30b32309c7d07083558e02173a8ddb22ac611ad359a2d886ee2e7c42",
+      "size": 4032
+    },
+    "6fbcf4d359cd": {
+      "text": "It was easy. [polite past na-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "67ac8a38eeb5679f01a83ebbc2bfd1bba52f77bc2b11513518eefccdf5931353",
+      "size": 30528
+    },
+    "7026843dcbf7": {
+      "text": "私は毎日書いて練習します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "75fcf12a1008c93444b489b1e2b470ff7ed31ed9608807081b88fc4f32f21003",
+      "size": 22464
+    },
+    "715446521403": {
+      "text": "去年は大変だった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9a432b7a9b2dff349e719e01328942601e83f60a570d6a7656e25d8ae1fc528c",
+      "size": 15744
+    },
+    "71d1c63e507f": {
+      "text": "り",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8c0922735502fae5e8cf8d2ad6b0b844ac91afa501604ddfb1d929d2484a5e87",
+      "size": 4224
+    },
+    "72776ab68f81": {
+      "text": "赤",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6659a690776c23f88c72d23cf40d4fcfe80ba45c663ecd43d52e5f54ef6095c6",
+      "size": 5376
+    },
+    "72b2bfa95fa7": {
+      "text": "本7冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ff10b4c8df3af659d813e6de37fa7baf3dddb853191e2649432eef770d8bd3cf",
+      "size": 15552
+    },
+    "72c746d609d4": {
+      "text": "へ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3688e236640c00a66a96107ba5f8eded46a047ee6c92053e52d90e7b97ca9d62",
+      "size": 4224
+    },
+    "731bfe4a03bf": {
+      "text": "一人でできる。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "963c24b738fb0e03807cc50485178998560eb5b4cb0632c30e8609dc83c69a06",
+      "size": 10176
+    },
+    "7350618fcec3": {
+      "text": "で",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f29ceb3969435da5c54fa5837c8b75d2e497eb899956227d29e05fa0546f7d9d",
+      "size": 4032
+    },
+    "7394858d1c1b": {
+      "text": "ソ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4bad5beb0de7db74b417059172fab5836f01db438cfe26a1a0c6ffb1d124cbe1",
+      "size": 4416
+    },
+    "73c41f0e483e": {
+      "text": "りゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bc8bde673157ee900d7afe05bedd21fdecc52d607c59c5e969508fa8afe9c450",
+      "size": 4608
+    },
+    "747dbd8ebca5": {
+      "text": "びゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "40450954ad06e6e3e7dcc0134a989fc1a1eeee697eade62a5b0cb09cf13b9357",
+      "size": 4608
+    },
+    "749766f43a50": {
+      "text": "ぴ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6d344c1c129a0a8b3df3654114966d997fe3e2e13520252a196af103091218c1",
+      "size": 4032
+    },
+    "762ffcba27ad": {
+      "text": "明日",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "696c6ecd70fc683d78cfae46e39b92fb1b41312af603875421a503c8d74be257",
+      "size": 6528
+    },
+    "76504d613664": {
+      "text": "ど",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7eaf405ac5f859d09ea5f466efa14a7576196f474f22854071a50019083047c9",
+      "size": 4032
+    },
+    "768df1b2712e": {
+      "text": "郊外",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cceee28f96bb6a43830cb56c4261321fae9ea689159535d0a37d82ee773f8a2f",
+      "size": 6720
+    },
+    "76b0003d364a": {
+      "text": "東京まで行きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6955042b4df1c53f9e7717687b00fe26da1ef6edbdefa2dc1d2f84f0f630a4e8",
+      "size": 13248
+    },
+    "773ef9c004c4": {
+      "text": "8つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e36668b33fdd66dbb6daf55a3879e4f5f4ed5aab70d01ba3953ee0b0ff925894",
+      "size": 9984
+    },
+    "7797100cc0f2": {
+      "text": "ゾ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e974add3a25fe13389c05ba60aa2e3a72343157cfb14b77ef083e4972da7d6af",
+      "size": 4224
+    },
+    "7905abb96ea3": {
+      "text": "新しい",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "17604e88c282e08b8f4b410510c7bf71bd1054ea2c724094c14454eeae418608",
+      "size": 8640
+    },
+    "7a4faed063b6": {
+      "text": "さ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9f7fcb703f62ce2e6bba4d2754516fecea1cbdd8e7b9b052a6ffe558d45970a7",
+      "size": 4416
+    },
+    "7a5aea55155b": {
+      "text": "しょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d1b439a8d967238b7e2d96cd50a1fa0ac9b549880d17b2553c66ed7a79abaa4f",
+      "size": 4800
+    },
+    "7b59b16db1db": {
+      "text": "嫌",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5e4dbdd1fb9c183b58254d4c7bc7bf347a3a5d3442dfdf4c6ecc8ab89101c7f4",
+      "size": 5376
+    },
+    "7d0cb86a1dc5": {
+      "text": "This is not a pen. [polite negative]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f9041ab4c65f9e10034128a7e8f27e15dc41ee4b39e2fe7ffdbd6bf9d1cc0cd7",
+      "size": 28800
+    },
+    "7de8177ce74b": {
+      "text": "家",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e43050b1c9bb0f1f3347f3d15eba5643925342cc231074b7a10f7115503778e4",
+      "size": 5184
+    },
+    "7e2a65748ee9": {
+      "text": "運転手",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "730499b936c443fc63ce33c4e99525727031afcea88ffeb02b231523917d4c7a",
+      "size": 8832
+    },
+    "7e62c71ff6cf": {
+      "text": "チ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6d207fee3b9689dbefc31aaca4a6ed737241d6f57e10a7976ecd309d8b0fca1c",
+      "size": 4608
+    },
+    "7e970727206a": {
+      "text": "機械を修理しました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b2bb0914319ae2415e523074b89c732833f79c11c949a4c7c1865e086c1fd1dc",
+      "size": 15744
+    },
+    "7ebddc850724": {
+      "text": "ぼ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4d410a3131c8b35267b212bb8c35a74329ef7adf36285b29986ee2fb86d3248b",
+      "size": 4032
+    },
+    "7f06ab113909": {
+      "text": "9つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a69ab266550de23abc10cb5554612bb2c4e124c4485212366012f38ea85b3141",
+      "size": 11136
+    },
+    "7f25a21ec2bf": {
+      "text": "床屋",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bb5ca4fa090fe6fb223abe8b8a1c7419046eaff758108ba5749b79070f0f2a0b",
+      "size": 6720
+    },
+    "7f2d88cadd97": {
+      "text": "水を飲む。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "79124d8d907dd432af88cc85b8704ffc987a2c7fa59f1119c851f66565d46586",
+      "size": 9984
+    },
+    "81223f8ee527": {
+      "text": "ぱ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bbf5c59da405fcef4bc83f566561dd5d72c2d357621e0d8914a167c25ccd1221",
+      "size": 4032
+    },
+    "812f45bfcf7e": {
+      "text": "し",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9760632ac4b6305d2027d2fe9ccf173bfa734064270ce9199e52d5247aa9259b",
+      "size": 4608
+    },
+    "81a5e9e8a034": {
+      "text": "ぎゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7c6143c3b858d75c6ed649a087ddcaa4c6c94d60f156dc3da5f6a2d506161702",
+      "size": 4608
+    },
+    "81cbaf5fcbca": {
+      "text": "魚100匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7709a0b4bee958284ef1eceee5a7a453f04a3005fe7369d4b4ed2a44197b0e50",
+      "size": 14208
+    },
+    "825cec98c430": {
+      "text": "セ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "82e3ed816046b833b522622f1512ddf64d3073bb96f86118e0691a1b47fdb71b",
+      "size": 4224
+    },
+    "82954aec84cc": {
+      "text": "I am a student. [plain/casual]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "96f5d578aac7d6085337b9ac138641820ad3d53a31ba3f148942b6536dc31430",
+      "size": 26304
+    },
+    "82b3fbb77164": {
+      "text": "ぶ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7964c113280961f53364e18a21f8f5145c51724d4cc1c9661121beba2e09ce51",
+      "size": 4224
+    },
+    "82ed3f2dfc72": {
+      "text": "私は学生です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "15e55256c1eb736361cd7f60f2b50cec2f357b061620fcfa32b6863ccdb4f4a2",
+      "size": 15168
+    },
+    "843834c0f36a": {
+      "text": "本100冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d4a1ef71cbb125c24deba15280a7dfe612abd7cb808caeeee134efd3e7352df6",
+      "size": 16320
+    },
+    "845d1da87f89": {
+      "text": "青",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2e585c250025ace187e6c90fa0bd8c7825093e795d46aea5139e1f9d0fc9de7b",
+      "size": 4608
+    },
+    "848921dea97e": {
+      "text": "会う",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ba6581c5f7416bd68b8988b0fd981dfc102857efd83991418e4c23a1b8f14fd5",
+      "size": 4992
+    },
+    "848ce7ca1e32": {
+      "text": "日本人なら、知っているはずだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3de35f384c786965e426012b771ef13a69395a51faf2ca09a4cd39663ffa2a31",
+      "size": 21504
+    },
+    "857265f4ac88": {
+      "text": "在る",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d69f52389236b69af0f5682b24d8be70ce9edc72b6c350c141736ff0ffa042a3",
+      "size": 5184
+    },
+    "86686c311378": {
+      "text": "ウ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4fd56db27983c2e8aede79ee6f34a2f25658f50a478900ab21a94f450a0e6e77",
+      "size": 3840
+    },
+    "86cc2bb01330": {
+      "text": "雨が降っています。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e900fbb543bb03425518dced26734b86570cafbed2da64a963d8a849fe2400ce",
+      "size": 13248
+    },
+    "8759dfeb913a": {
+      "text": "ぜ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "80d894fe24f468771d7d9f07c21d46b920010fa61150359ba685062ac94a9ad0",
+      "size": 4224
+    },
+    "879a55703c20": {
+      "text": "彼女へ手紙を書きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3e5285c4c772e99c4582d3b6811eb1469fbb8f609a60a87c89f931c412a005cf",
+      "size": 17280
+    },
+    "8848604d0046": {
+      "text": "彼女は毎日働きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b4f3ed110947f1321190917e5295dd80464976497d0c0a13c0d0ad79010810e4",
+      "size": 18624
+    },
+    "8940dd82b056": {
+      "text": "鼻",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "645cf0ed053e07ab22f4b7f320244ca2772d292ad2711cc0a5b29d332a32ca3b",
+      "size": 5760
+    },
+    "897ca5ef249e": {
+      "text": "紙10枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4a0afcb67c63a1d78b3407c3dcdc99188b5661e56d0c288c5d2efa420fd4e0d5",
+      "size": 14016
+    },
+    "8995b8979971": {
+      "text": "雨",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "65ba8869cec0e7cc36ef50dfb13152d9d0a2eba04075f4c01351ee3339f40854",
+      "size": 4032
+    },
+    "8996011e5796": {
+      "text": "テ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "def6c52275489b1918ff6d00d23869a4c7509dca379164a971ac47dbc789d616",
+      "size": 4032
+    },
+    "89d936ef4698": {
+      "text": "未来へ進みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2488c933360f42b4d9b698c82f1e2c0eaae02e09edd6c75334f145dd1c5864ef",
+      "size": 12672
+    },
+    "8a51f56f5caf": {
+      "text": "飲めないから行きません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d4e2f345c83c1326f38bb33268149df38492914d45f8edef240fdb9d3424df92",
+      "size": 15360
+    },
+    "8a8021085114": {
+      "text": "ペ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bdb662839a5e27bc00ed3e6a69ce1eeee19f28e4a8c8287d364eb7a774f11d90",
+      "size": 4032
+    },
+    "8a8edeac7df3": {
+      "text": "私も学生です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e67c43df3b144c540e9bc24454fe234a73ed373a3ebc546121dd2ef06aa636c7",
+      "size": 14784
+    },
+    "8af1d7356c76": {
+      "text": "日本語と英語と勉強します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a8384ab81ef3eee26e7ce950e1c17edd8d8d76affcaa40d02fee78b9f2327a81",
+      "size": 21696
+    },
+    "8b6065253001": {
+      "text": "魚10匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "050a18a04cc817c4f7dae27292e17218261b7df495f4a0774273f7715c33f6c9",
+      "size": 13056
+    },
+    "8bf0d20ac656": {
+      "text": "雨だと思います。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f2a807e79fb720e5007d7e82c6f191a556664d1ac7e465ac8fa5a134b410d47f",
+      "size": 13632
+    },
+    "8d14dbb87ccc": {
+      "text": "魚1000匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e30bcdb73ad076522b63409bf573193f39384b35988783e92664317dab4d5154",
+      "size": 14784
+    },
+    "8d2086f34297": {
+      "text": "開ける",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3763bf0fd04ae70131d74f2d160f544f25e3076536d5ae15b66537211dbe0099",
+      "size": 6336
+    },
+    "8d48a57dc8f6": {
+      "text": "本8冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b6874569042000fc2423d7e2db589f32c57ce804574c36b4ca5fe615ff30c47e",
+      "size": 15936
+    },
+    "8d8f4aeca850": {
+      "text": "秋",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "03abb051419bee0246136a9b1abf394e286f3cbb0b399faa20af06340a2e0d24",
+      "size": 5760
+    },
+    "8d94d31e6e43": {
+      "text": "正月",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2d19a63645dd3346c8b3ee557925449eaeaab283dbd698bc2616b5269c8a94d0",
+      "size": 8448
+    },
+    "8db7a73b8fbc": {
+      "text": "えんぴつ7本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2bd63d24dbbaf5c5e2b3b11d4ac07d667c5099818a7c8b3691a9a0fcc5e27cb7",
+      "size": 15168
+    },
+    "8dd4f5c4e7ca": {
+      "text": "6人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "818d70572478610b0a0c447dd61ea5df52d609083f890a724bc9f22463d215b7",
+      "size": 12288
+    },
+    "8e621f06c443": {
+      "text": "ヤ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b3ff5d68572675a5dc49b4f55070e760151d0d556387aa2d2c640e0dcb46c4d0",
+      "size": 4032
+    },
+    "8f67916a925b": {
+      "text": "ナ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b683f575bd895d20f7650b883dc1ff958577329668b14e17effe75d087f6ff83",
+      "size": 4032
+    },
+    "8f80fcba1935": {
+      "text": "紙4枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "aa2476d87632afb8ac36e2cef19cd69df8323ad3d479c4c21c5ace560408b375",
+      "size": 13248
+    },
+    "90d3592037a6": {
+      "text": "車10000台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3e1645697fd6eef3a8ee60339f6f57648794d811b0dbfc6aa04dbd1e875c1ebc",
+      "size": 18240
+    },
+    "9167af511d53": {
+      "text": "げ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6684e62f0cf74b672419cafa0a92492c13ce20d106a9ea850639d458f090bf1f",
+      "size": 4224
+    },
+    "91714b00e5a3": {
+      "text": "こ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d005f81dfa7831be961efa6639574d7fc251be1622b63d620b6aa1bb224eba51",
+      "size": 4032
+    },
+    "919e596fb58d": {
+      "text": "ダ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a2d7e5ba3c9cb192c670143aa51f3604a8679a15c166c53fc87a1cc1c26089e2",
+      "size": 4224
+    },
+    "91fc3c852f75": {
+      "text": "100つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4b44d294b5eef49b7cf1dc3f12005985c5160d7590889c2fa6242d5c20941d37",
+      "size": 9984
+    },
+    "9255e7779f4a": {
+      "text": "私は毎日牛乳を飲みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5c4de9484e8dee908eef1e5657ec0aee04b18be3749fd0d48ed99b2d054914ae",
+      "size": 22464
+    },
+    "92a21bb184ea": {
+      "text": "道を歩きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bd21f09591a7a064cd00395c20d238333ab3aa56b78e4e8420b24f7ba96800ba",
+      "size": 12672
+    },
+    "938934c1d66b": {
+      "text": "彼は毎日本を書きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5910fae37503d4c4f0afdc6d8a4496e168623c27a1bb83c25285124dc72422ee",
+      "size": 19200
+    },
+    "9541aa51a00d": {
+      "text": "魚がいます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "34181b2a35fab5f15f0d891018994b76685ec6edf769c7b3e9edc882a76a39ee",
+      "size": 10560
+    },
+    "95e3d0ad8f6f": {
+      "text": "ぎゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ce4b88a06c33a028da651ac15dbe021ec4a141d6aed307ea3d70a78fff156ba3",
+      "size": 4416
+    },
+    "96471ce6fd11": {
+      "text": "車3台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7a82996379679b26303dad4485621e17b719d9915983e42559cf7ab3943b0fee",
+      "size": 16896
+    },
+    "96afee7bd876": {
+      "text": "五月までに着きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8b5b12de9884e14491cf112345aadb1747aa57ebf94766a8a173fa646dff32cd",
+      "size": 14592
+    },
+    "984576b5cea2": {
+      "text": "ぴゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9a55c72aa81ab9e2e1cc85fa66fec225886456e7c8ab8d98a66ea291f87bb766",
+      "size": 4416
+    },
+    "984fed064e18": {
+      "text": "1000人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b0ba2e98d253e7befa23e74e16ce157c1daab1ec3d351ce47f3a20f579a485de",
+      "size": 12288
+    },
+    "98c358f7050a": {
+      "text": "魚1匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "18ea45c972ec29ec3232b307718069196341d011ca5aacc01ba8523da8335021",
+      "size": 13824
+    },
+    "98f23c5bf294": {
+      "text": "紙10000枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7bf4455994601181aec25276f69872cbcc421cd7203c57b83fd7af38b636a292",
+      "size": 16704
+    },
+    "98fdfc0a7426": {
+      "text": "あ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "929da591829a81efc8221c8c88f8560183dbaccb33aaa068846f3b791a8f6c2c",
+      "size": 3648
+    },
+    "9a77c2df496e": {
+      "text": "ぎ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "924be0e864221741c1c4b5b1f520801b3df9c882852bb781fe31c0e015d25e32",
+      "size": 4416
+    },
+    "9be21018f148": {
+      "text": "本1000冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c5be61b5b30160ba17c9156041d08caae22386156cde1c609713faeaedf16835",
+      "size": 16128
+    },
+    "9be4611e164b": {
+      "text": "花",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7e1b0d6808ce59a7552bb12acb2464a7a0a85c76e1c91bc1de4bc52670a644be",
+      "size": 5952
+    },
+    "9c123be3ddcb": {
+      "text": "盗む",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f7231079692efa02d280727d89f134c3eb17bb595a5339907e723b0767459f18",
+      "size": 7104
+    },
+    "9c972751cd9d": {
+      "text": "猫に部屋にいます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b88d2c05adf31b72783f8816e460758dafe665b1227733dd6dcc0e99014e1a6d",
+      "size": 14592
+    },
+    "9d52ee838f71": {
+      "text": "あそこは大きい図書館です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fce60e08496f87d22a21cf63e411ad61aa580d85c0a7220e202d31a01d609f70",
+      "size": 18816
+    },
+    "9da359d5199d": {
+      "text": "ヒ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ea2b55269b0355f0e06caab784e491b396adf540c6c97a363ff99253c40378c5",
+      "size": 4608
+    },
+    "9db17476cad8": {
+      "text": "彼女は有名でした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f3f0aaaee2e8af982600e4b7dbd7a374cd71f36283d06987748192207199c4f7",
+      "size": 15168
+    },
+    "9e8a15d796bf": {
+      "text": "去年は難しい年でした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2107aabfa04e36e1c7a1faf7ada633e60e9508814c84b11c9ad54e52c008c370",
+      "size": 19200
+    },
+    "9f41bbaeee7b": {
+      "text": "彼と先生だと言いました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bf9696a777b6a0f6cd4885917f8696bd9bb57d89216866818197c0d622ea052a",
+      "size": 18432
+    },
+    "9f4ff6cf5689": {
+      "text": "誰が来ましたか。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b75d3c83c4886b64a8029fa00dd8b7dca8d05e64b91dac6ff20063e47564560d",
+      "size": 12480
+    },
+    "a021c3e0b885": {
+      "text": "私に手紙をくれた。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "158698dd416f3c2044bd7a123200e20f9e54e36d3bb2aa88ac33a8aca67e9ce0",
+      "size": 17088
+    },
+    "a079eab46960": {
+      "text": "紙7枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4eb14db85892c3057be4343ae275654e70285b0b1b9745ec409309a59d12c8c9",
+      "size": 13824
+    },
+    "a102b13e22a5": {
+      "text": "厚い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3fffccb062b1eab4f667ea98220e344e8ce168b94297eee36631bacc3f31437c",
+      "size": 6528
+    },
+    "a142816563b3": {
+      "text": "が",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d6d865a7941adb3ffc1c6e65ba6328a7871e84d84d49901f1bb17d3b24cb4a49",
+      "size": 4416
+    },
+    "a18d39bb05c6": {
+      "text": "意見",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f1d5f395a66dd33461bda9cf42edb008436b74324f364489b74049ddce8181b3",
+      "size": 5952
+    },
+    "a1a8cfd1dec3": {
+      "text": "後",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "08b675010a91a94bb14b48990a0189e3beacf35e356c8bfed060af386e3d3c11",
+      "size": 4416
+    },
+    "a1ce32b01bc1": {
+      "text": "私は毎日踴ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a42499e8af5a812e832123f9537a84b2578d6aa66cd7914f1e751826e161044c",
+      "size": 19200
+    },
+    "a2fbf25469bc": {
+      "text": "ワ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "60ee7e2c85ed94d2a05079d71a73f6dfe88fd8b4673d527652184a18eedbb4fc",
+      "size": 4032
+    },
+    "a353b039ed17": {
+      "text": "えんぴつ1000本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "eff4d7ba5dc8086f19bf341372beacb2799ad436b1568c658cb6abdf2eecf806",
+      "size": 14976
+    },
+    "a3b8f9e1263b": {
+      "text": "プ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0624cbe7f8398b8cac2c7be63d37a4c11a29bfc9bb19f44860ccdb2c76e7ce55",
+      "size": 4224
+    },
+    "a589674c4f9e": {
+      "text": "水を飲みました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fa0bf301118937b11dbf11414b8d59687a6289f946dffac288cfb0c4a85fc351",
+      "size": 13056
+    },
+    "a5e5e3111ea4": {
+      "text": "五人で会議します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4265dc51aaccb0ee182d06bb4a36ddc2e606bebb99b2521fb574390e0edb3c29",
+      "size": 14976
+    },
+    "a60311a2fc88": {
+      "text": "え",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0636e59d655e6e24221840141bff33e5799c1dd1fd8cc1f987e58838ca34cca5",
+      "size": 3840
+    },
+    "a6cc87bb4042": {
+      "text": "兄と妹。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "57c4240e3ece24927856bbf1877ca4e412406c9e91f1a67ec7629a44787eb311",
+      "size": 11136
+    },
+    "a719b51ee1f6": {
+      "text": "The weather is pretty. [polite na-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "084c92cdb4df89bfa35fedba5d8839e3df9635f0b541df71d7e761a498b76356",
+      "size": 28416
+    },
+    "a726650f2f7f": {
+      "text": "何を食べたい？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cb715567b32626136c55d4a3d8919959fbe1cab008afd4a3ad5a5b121649f5bb",
+      "size": 12096
+    },
+    "a7f0144bb50a": {
+      "text": "4人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2278e74446f01edd1dd7b6680202b1006ab9299d29456f58657f6945f8985e72",
+      "size": 11328
+    },
+    "a81c2ab80e37": {
+      "text": "力",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "629bbd853e988f5d734c755fb0ae6b0e3f65cdce4c58ac937acefb74aa3ec26c",
+      "size": 6528
+    },
+    "a81c44f86c62": {
+      "text": "僕は医者じゃない。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5bf93f68fb4e0320412d11937317d15df328d4b46f1ef1b9a5209461950da88f",
+      "size": 13824
+    },
+    "a92aa6f133d2": {
+      "text": "私も行きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "aef33d8751c04e626191ef8400b7d2a291e6e4efd156852df9f79a311fcac046",
+      "size": 12480
+    },
+    "a97586cc27ce": {
+      "text": "車2台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d17817ab9fba4448cbe24702c76e409235573adf6320677ca336ddaf978547b0",
+      "size": 14784
+    },
+    "a986a7bc9e03": {
+      "text": "と",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6b65d344070a326a058505b8b3fb32c2aae253935a406c36bee9225bc6fd53ad",
+      "size": 3840
+    },
+    "a996cebde60b": {
+      "text": "学校にいます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "01b4ade08e5114db62651ac728188b5964df1002f1df63b71a32c989145882f6",
+      "size": 11904
+    },
+    "a9a84e4c1845": {
+      "text": "ド",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "debff9b4d53689b4646059a949e9db9ee2aca1a5d9a0299517cfac1d611bbc1b",
+      "size": 4224
+    },
+    "ac6bc7de7112": {
+      "text": "お",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bb875bfe8f1c45d55198dded75b790ab818c2ffd6ffbd08eec7eb8f818fc03e1",
+      "size": 3840
+    },
+    "ac94e112183c": {
+      "text": "く",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "229fb4fe1d03a19281e001d1e017db05f61e7c7836cfd05dd5a665cd37cb44fa",
+      "size": 4224
+    },
+    "acd80cc7be1f": {
+      "text": "五人で会議をします。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ad6117081cd1612490dcdf68ecf1d6280db45855c509fa146d57a70a20ff89d7",
+      "size": 16512
+    },
+    "acfab9bcbbc5": {
+      "text": "話す → 話し + ます",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6d6a3de710d9acc7d823cd9b08e4155a2e3c389f3c89e64d8fa05ade09c6277d",
+      "size": 19392
+    },
+    "ad142ed0573d": {
+      "text": "ぬ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "356ed5d51e1074bc89704e26b67190dbee842cabead94ae1d2609261a3912557",
+      "size": 4224
+    },
+    "ad73452fca96": {
+      "text": "私は毎日入ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dd17e842381c85085fb653f6b84920a02cf6b271891ced54436b505f4f80aab8",
+      "size": 18624
+    },
+    "af2b29a995c7": {
+      "text": "う",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "85d4537afd773ed849c8f3ab50b157aa924c1856c480194abf8085ec7d6a4dc9",
+      "size": 3840
+    },
+    "af52a806387d": {
+      "text": "私は毎日6時に起きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b287d1c57567b465041bbc436bd264b711ea0e74fee0f4fdac510968d8025b8e",
+      "size": 22848
+    },
+    "af591120ebdd": {
+      "text": "I am a student. [polite]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8ffa1a60e1e3eeab96d0c3be98679c9c984ddbb75a9370d0e4c8692005ea2ce8",
+      "size": 22656
+    },
+    "afe6380cd9ec": {
+      "text": "鉛筆で書きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "793bca4ed1e1f805002a1e51ef7e3613d2095907c24189e9a1f3c12c15f6ca37",
+      "size": 12096
+    },
+    "b02e1e385451": {
+      "text": "さっき何があった？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "237c0e397f59fc083cbcc2f9d21fed71059c86735c7efcbe90a920d8c480769b",
+      "size": 14592
+    },
+    "b065bcc86961": {
+      "text": "This place is quiet. [polite na-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bb1afc01f3f629b4101f37ae3f3c402d6ad4a1e860d67b5e40fe94aa3180fab1",
+      "size": 32064
+    },
+    "b11ea432fad8": {
+      "text": "田中さんは営業です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "247a46e48d03b8ebfb0ed605f8d2f3a4e113a4e16ff7da73b81e4139f4e330bd",
+      "size": 16320
+    },
+    "b12a14c49b4d": {
+      "text": "私は昨日話しました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "44ceb8f788e187a78dccf2e4a5d8d4c7bffc01ad7c04d937d55a7e654e013a74",
+      "size": 18624
+    },
+    "b1a3afebdb30": {
+      "text": "姉",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "268425c5551f022f58b0d6616398c415951c6b51d414564f4d186eb5722cd2c6",
+      "size": 5376
+    },
+    "b1eeb4d3b210": {
+      "text": "一日4回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "247d2c4f09d6452f5a64a7fb346daf4d501602c63afe77fb4cb5b4b78d17dafe",
+      "size": 15744
+    },
+    "b2310d9143b9": {
+      "text": "壊す",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fbca2c697bc6f53155870ad62c8d32e39b126d121a843a19118dae84a673cb1a",
+      "size": 7296
+    },
+    "b24dad037be7": {
+      "text": "本6冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "13b3d356d9c8b80467758b7fe631a85caf2079776b7df9aef68901ad8c6c811c",
+      "size": 15552
+    },
+    "b284de61340b": {
+      "text": "イ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0e00031a5ebf8e69c9f28002218af4649b8c53876b1eaa7c645aa61d0418330b",
+      "size": 3840
+    },
+    "b2b7e45bf39e": {
+      "text": "きゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "46685ec0d94346a4a814585c121de38bb852313ebb965f12465d6d8459b82ea2",
+      "size": 4224
+    },
+    "b326b5a0ad63": {
+      "text": "It was a good day. [polite past]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "10c970dfc44cb30400da025bf4138d8ff4d2075a4c1ca47b9f0e54c9b39a7e9c",
+      "size": 28992
+    },
+    "b345d8cc8368": {
+      "text": "そ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "66de11a29e7472c5a93d9ffa5e8e9ecf07258ccfcf099d5deb602d3f0060fd73",
+      "size": 4416
+    },
+    "b34f2e9bf01a": {
+      "text": "Apples are red. [polite i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "aa82fb5e336f695eb0a7d0214ab47b3f1b5eeb5551fcebfe7d716b67a4562014",
+      "size": 27840
+    },
+    "b3d236275fac": {
+      "text": "だ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dd9d9c5a361b98b3d781f42182ea929f8ca70b46ee5b784266ad635052699f5f",
+      "size": 4032
+    },
+    "b40c5f345cb9": {
+      "text": "ヲ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9aefeab2620d7833831814f87440745b0eba2ae6597847914bdca840c772475d",
+      "size": 3840
+    },
+    "b42df6a8e091": {
+      "text": "紙1枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7191bb7a5ae16472b3ea9d16fac1f876baf8548baf463f6481d5546d6b1643e8",
+      "size": 14592
+    },
+    "b50e4b46f608": {
+      "text": "ケ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "61a9b10dfde339484f76b61de9f4fcb46a99eec8574698d2b7d7aee1c61aa2b9",
+      "size": 4224
+    },
+    "b55eacecb5b3": {
+      "text": "これは私のペンです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c6782d97491188f3b8e111ed55f6a306bee92ffb5dd3e0a9a382653d0aa679e3",
+      "size": 16704
+    },
+    "b6363730e53b": {
+      "text": "私は毎日切ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e315b6d3b1bfc5036a9fc60562719c8fdd05dedb4b0f0d82af770c3c6fa2338b",
+      "size": 17664
+    },
+    "b6e3f9666c7a": {
+      "text": "しゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d0fa6d90dc17394a729fb3295c417f73eae497c6fe6b50a0aa45cce541c6be14",
+      "size": 4608
+    },
+    "b6fd4bbd02b3": {
+      "text": "田中さんは医者で、患者さんとお知り合いです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2546343974b7b054c22294b1007bbf8cada6d747055b4655153869d30d2c82ff",
+      "size": 31872
+    },
+    "b980affb8f60": {
+      "text": "一日5回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "181325eda29c52cf2681199b2166600a508de3e17fe5fbfa68d8e4e3f90642cf",
+      "size": 14976
+    },
+    "b9e5f9eea82a": {
+      "text": "赤い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ddd477d61224e3e86c757587854f407fcf0181e36f863eaa2dbedaa44971b57d",
+      "size": 5952
+    },
+    "ba7526a5c03f": {
+      "text": "ら",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "88f01fddc376f72f611ac51d7b5569db9c949e44cb82fb0193d7ef26dbaaaca0",
+      "size": 4032
+    },
+    "bad314622d68": {
+      "text": "ぞ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "627d41abd03ddbb30fffa0f24abe3c489245c73a893111446280d79e91f99c1c",
+      "size": 4224
+    },
+    "bad670d2cb1b": {
+      "text": "飴",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ad1f8d3c9347c497966763b705aef554adadbd8a2d5bc7bf5293a2b97c44f001",
+      "size": 5568
+    },
+    "bb15e1db0fca": {
+      "text": "一生懸命",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b844f86018e296adcbe920294ccd9571315b6e43e9b1657f5513ceae39c8173f",
+      "size": 11328
+    },
+    "bd0a9b606c41": {
+      "text": "本5冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7dfdfe1d2551ffd49aaedaf3ef3baccbe91bcda55266fbc6b18b0ce99e6df84c",
+      "size": 14784
+    },
+    "bd1d8044336d": {
+      "text": "ぺ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e020ef8022596d6045ddfeab3d734bbf712c19f3dab348fa9bb674ebc8be9ab5",
+      "size": 4032
+    },
+    "bd25f1beec1c": {
+      "text": "冷たいか温かいか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7684d8f48f1d687538c9cf0b43a50d28a05f1509cd4635802512f7ddf51f54ce",
+      "size": 15744
+    },
+    "bd38bfe895a7": {
+      "text": "水を飲みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "389b4b094711f5f7250efaa720b09609b3a1ed4bbe630cf664185c9b6f11c510",
+      "size": 11328
+    },
+    "bd3d2c3cfcf4": {
+      "text": "えんぴつ1本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b8f4c84edfe4b5cafb76ce654c45b2c6d98e5efeefcd688bf4093658b2cae79b",
+      "size": 14976
+    },
+    "bdab1b17397d": {
+      "text": "や",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c45b690177e263dc19c05021f70f4c9d3a1e9dae11a30945381662a51ec7bef5",
+      "size": 4032
+    },
+    "bde673b44384": {
+      "text": "必ず",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "22bf2117caaacfa73e81e9b63be1da618ac63fd448fad14a7b9fe739b5d1117d",
+      "size": 7872
+    },
+    "bdf380ec22e5": {
+      "text": "ザ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "49b970131e3ec20dc172cb0a4e99b63bb5c6e030f7059cdd067204565f8be555",
+      "size": 4224
+    },
+    "be4c29664dfd": {
+      "text": "にゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1d23716679667284cc46a11b03a9a2c17f47f7d2bc6b31b6f1d5b2e79de77863",
+      "size": 4416
+    },
+    "bf2cbaccbc43": {
+      "text": "サ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "885a7860d2ac120941a4a9d7b86747c4da2616e12bbb6be40df77747d419338c",
+      "size": 4416
+    },
+    "bf6c01f2cef8": {
+      "text": "友達と遊ぶ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "eca070ecb717195de79d8ccd59de8053859a13dba19f7e3bcfcd582170238095",
+      "size": 12288
+    },
+    "bfb065350e62": {
+      "text": "去年は行きませんでした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b8d09f067b1488c4cc3fecbf01f60bc297594c96fc93cb16e548fefd9e9a5a71",
+      "size": 16512
+    },
+    "c0088e8775d9": {
+      "text": "先生に質問する。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8d6de1505a53f754e28e83cf06d2067f77189549168dd390a4590f2b220dc667",
+      "size": 14784
+    },
+    "c0517d52971a": {
+      "text": "7つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "02dff91fbc1e99ce9948542fe7c98e85b4f2b1bc04dda55cfb4b0fbad37f1e69",
+      "size": 10368
+    },
+    "c0e370345cca": {
+      "text": "外へ出ます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0f8fdb6bc976170e8e65a0819264b9077491caa9f17a0d4a0619bd4372118c28",
+      "size": 10368
+    },
+    "c11cd8dd4563": {
+      "text": "ブ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "975833cffe7c2a2ce26f2b4f7bdc3d6f7282952934d89c2ac4e708621ccf22b2",
+      "size": 4224
+    },
+    "c141850f9e8a": {
+      "text": "暖かい",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c73a6e6e20d31f6b7382c65eb990f99c3a4214b4c6916afdd8b0d453e3636594",
+      "size": 7872
+    },
+    "c2fa87c3ddd2": {
+      "text": "フ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d80e9d5185ccf3a04db31bf106237ca3f6b710f4557acb0282288d78ae1fec28",
+      "size": 4608
+    },
+    "c39b5f67674b": {
+      "text": "あれは誰ですか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "96c953892c9bfbc4a31f47b90ced018deadc4dc0cc36d9cba9660461b9f38def",
+      "size": 12480
+    },
+    "c3d09aae5392": {
+      "text": "この本は面白い。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ba884424b9b81cb494ad0743c80f69dc43f18da47f854d469c6cbb50002e9564",
+      "size": 14592
+    },
+    "c51713eb15a2": {
+      "text": "私は毎日米を食べます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "afcafb0ffca94a63d3e5c3a2519a492202eac6452b5463e59be15e68279a1756",
+      "size": 20544
+    },
+    "c664873dbc35": {
+      "text": "五つ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0fa577fda515f1ad762766dfb5d24d44bb1bad8d58645cef821b9d30b853c389",
+      "size": 7104
+    },
+    "c6abfe263593": {
+      "text": "ム",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a3c77c5d4dd83d4948ed87f5b039d81467c3d00301d7e68923bf39b7aae854c0",
+      "size": 4032
+    },
+    "c6ae5797b9b3": {
+      "text": "青い",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3adb15faf9ff6290bf594d5dac6dc86b505033b9eaa4b122b1734429eb5addb4",
+      "size": 6144
+    },
+    "c6be80a62e61": {
+      "text": "ボ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f3e2f0ae5ad3a39a14af14c465847b25d16cf5c5e17288eb43162c233fd89825",
+      "size": 4032
+    },
+    "c71de8569849": {
+      "text": "これは猫ではない。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "00cd5105cdcc8d62700fcebfae70c3be18bd2ce7bb7f656fa70a5840b54a63f9",
+      "size": 14208
+    },
+    "c7433bf95fb8": {
+      "text": "私はすごく忙しいです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "53e1b55b4849601087cf9b734e8d98a90b253570b43d0795f58afb74c87180db",
+      "size": 19968
+    },
+    "c791a84c804c": {
+      "text": "朝六時に起きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1208c26849378669ef8aeab86f234b8bd9ea4c1e514f6b38825b236491b68585",
+      "size": 15168
+    },
+    "c875e09ffdc5": {
+      "text": "学生でしたら、割引が受けられます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e63b3704ad27321f174a9b6eec9c99e5298335141fae3097690e3119e0c0284f",
+      "size": 25536
+    },
+    "c899fb51e356": {
+      "text": "紙",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3880d6e7bb4f3e8c6d5c2608314b36ad06631e8953bcd251587662f9f35e078c",
+      "size": 4800
+    },
+    "c98c6cf1503d": {
+      "text": "本3冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a80a33eff8c9c9e653198e4b083636b2c6ac15debbbc5b48161d801985522501",
+      "size": 15936
+    },
+    "c9a9ae07ccf0": {
+      "text": "I am not a doctor. [polite negative]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c28acceaf41cabe1dd333e89df6a000979fb8b92ea27dea0d925c6c67ebe6cb3",
+      "size": 27264
+    },
+    "ca95bc5ed939": {
+      "text": "夕方は暗くなります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fe5b1afa0bb2e6165567c691190b4194021dde75468e265c6edf930991c4ef3b",
+      "size": 17472
+    },
+    "cab2f683c9c8": {
+      "text": "3人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b91a4ba173221caa3972f5a0bb3c7587569882a7269203af7296ef09f0c6b22d",
+      "size": 12096
+    },
+    "cb768ad46ec2": {
+      "text": "えんぴつ100本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0d7cbe06cce0fc2cd6dc0b57414a772d937fa229f8106d5bc1addc63730e6026",
+      "size": 15360
+    },
+    "cb853a3dc807": {
+      "text": "踏む",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9b552b3edd7f0102666c87c0914158dec3fed797820c7a9239602da8079f8043",
+      "size": 5568
+    },
+    "cef99300323c": {
+      "text": "猫は動物です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5fa64db9c9b52fd35c069cb64e0635269f96a16cc35281295a33f0590a04dae8",
+      "size": 12864
+    },
+    "cf4d17f99d10": {
+      "text": "た",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c8d990d9164d48d30e70ae639c4d5e6bec91a2f691088436a6151dfea538c549",
+      "size": 4032
+    },
+    "cf66b78ff694": {
+      "text": "本10000冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8c390753a45883f7faae4fb09d3ce58a83d0a37d313bef3903f24e0672faf872",
+      "size": 18240
+    },
+    "cfc3325ef061": {
+      "text": "メ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0f572d1e6a5cbe9af10f608dc4cd06f110fcad102f38d117398ca5148ebcf0a9",
+      "size": 4032
+    },
+    "d0043d6fc0b4": {
+      "text": "That book is interesting. [polite i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dcc028c58473151a5babdc39021c00c85679009a44932b123d50ff17a7804996",
+      "size": 35520
+    },
+    "d07cd822395a": {
+      "text": "今週は忙しいです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "dd2cfba74643b4b239cd649b39d5962bd68ce67f8b3e0632f21b41f3eff8d56e",
+      "size": 16128
+    },
+    "d08b42329511": {
+      "text": "ざ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9a93da1dea328343588af41600ea1edd43e2df222b5a8babd37bc4a677149c9e",
+      "size": 4416
+    },
+    "d17de9e40f61": {
+      "text": "どうしますか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "961f26142165a0bf43c9697dabb9a6e2abbf56f5635c4c777688e026444ea734",
+      "size": 9984
+    },
+    "d193f69c03f5": {
+      "text": "一日",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a23e44bf3c2d2450f57bf54b4978d6826ecfff25c114d7d636bc20019f612acb",
+      "size": 8064
+    },
+    "d2130d70a08e": {
+      "text": "今",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0691273f7d91ba6a82bdaf754d3d6d0cb92e9590ce04ed6dc52617bb8d99963a",
+      "size": 5184
+    },
+    "d274eee8a175": {
+      "text": "一",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2bd51d1b7104e57222c43df95c8d115fdfddbd251e5c2728a29b85dbc151653a",
+      "size": 6144
+    },
+    "d32afeb0abe6": {
+      "text": "け",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6d102a95d4122f6086e80361b07c273976c31e2080704f2544a9b40fc3afdfb3",
+      "size": 4032
+    },
+    "d3b4b2e4fd62": {
+      "text": "私は田中でございます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "24c71ebe692bdfd5618d79bfff269be161e2c3e26431e62052bed0c7a9337da6",
+      "size": 18048
+    },
+    "d40a36de569b": {
+      "text": "車5台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "00a5091bf27cb02bae114c8aa9a5d7cd7028e0c51194204fdc94bccf6089bbbc",
+      "size": 15168
+    },
+    "d4b3205a3173": {
+      "text": "10000つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1fc429e520f6e4bba8d43076132afa3e24feaed0eda271867b9ca07d5724b74d",
+      "size": 20544
+    },
+    "d4bf8b1abda9": {
+      "text": "1つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "31265f88054da8b33f454a86c2700f46409f624ecf1a916994e08f0eb11f2152",
+      "size": 10368
+    },
+    "d4c65564c4ad": {
+      "text": "パ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9b97109782fc450126d361e0e5a91c6e3ab09500a6c5d545587602381ff0fe28",
+      "size": 4032
+    },
+    "d50309a25593": {
+      "text": "聞こえる",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1fdbca0f2591660ef4307fde3b9d735def51066c2287156c706027ac3f266051",
+      "size": 7872
+    },
+    "d509f2889c23": {
+      "text": "紙1000枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4a36cc758ecd945cec012cd41b3b999a01f9ad7ef692b4fb7060ee61fba51b90",
+      "size": 14592
+    },
+    "d5725b2f8d16": {
+      "text": "ビ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c9d226c17c25df217b62ba42a72ba14b5691682dcc2a4afc98c0adcf489540a8",
+      "size": 4224
+    },
+    "d5d3ea280b3f": {
+      "text": "運動",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ad4747ae9a4c7eba37937354ccbfadddd3c4740234f074df332ea7f0fcd34a33",
+      "size": 7296
+    },
+    "d5f1ca173fcd": {
+      "text": "ラ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "474fd61674bf3a7a322328ba9ec4094b3f2795cc25f60b12c0502e5560a46b5e",
+      "size": 4032
+    },
+    "d729bd2b2767": {
+      "text": "ト",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "179df694b6a32bc6dbfbdc01348926b90d0df99f688ff24b606a92c378b11d8f",
+      "size": 4032
+    },
+    "d821dda8d852": {
+      "text": "私も兄も来ました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1475797517d4e7dc17504c5e0f79d8737d93a929053dc9da6cca1edbbf70a33d",
+      "size": 16896
+    },
+    "d8867fb0c04e": {
+      "text": "りんごとみかん。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5d1dfe253d5ed311bc4fd2be7b33d29022774caeb7647107475a94c1bee46e33",
+      "size": 10944
+    },
+    "d8a8e4205aa7": {
+      "text": "ニ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ede3334ab5d111663310143b3dd18bf8af89c8cc5d67151ab6b6699eae010b87",
+      "size": 4224
+    },
+    "d8c158e0a2d1": {
+      "text": "ば",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6e6b2642361fb0aa3a66b6cd699cd59cdd65c123c64eb5250b0e2d6cc6c0946f",
+      "size": 4224
+    },
+    "d91490197bd6": {
+      "text": "じゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3cc7eff4a905d4493ee546d736170931d98c685cdedcea3ec71ce6eba3befd92",
+      "size": 4416
+    },
+    "d9413bcc2fa1": {
+      "text": "どの季節が一番好きですか？",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "296d40793b208d1571499fbd2df36c96ce9b4a8a6681f14af57b74683b4563a2",
+      "size": 20352
+    },
+    "d960c73df2a6": {
+      "text": "夜9時に寝ます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5ce6254780bfecc8d027774d2f76f91db973147715088e78fc0dfffa4ed5072f",
+      "size": 13824
+    },
+    "d9b58894b25e": {
+      "text": "僕",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "89ce5f5eb3b02872cb195e0d052c6b8d01fdfcc805d1b31cf815e70d4a785ae5",
+      "size": 6144
+    },
+    "d9c83f81a614": {
+      "text": "紙2枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c4a4e99f6a00dba2b686271e4bb799db0de9f0779d5f5179de5bdcb60849d516",
+      "size": 13056
+    },
+    "d9ee3c16a677": {
+      "text": "きょ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3ece43a2966f58ae9f7e1de10af557836084758fbae2af431fab84d95c14d03d",
+      "size": 4416
+    },
+    "da6c6a6baf77": {
+      "text": "ヨ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "65818041da01ef3a24b8f639f2496a14ae60e1d54d0ab7671d91a848823ab9eb",
+      "size": 4224
+    },
+    "da9fadbbb08a": {
+      "text": "日本語と英語を勉強します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "147555c0108dc30beb3cea5925806294a5ea35f82820d2e08bab30c3fb020138",
+      "size": 21312
+    },
+    "daba9c25d9c0": {
+      "text": "紙9枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "413fcfd7279b08804b7de4b901d15f7ba6f0054c14391bab3268de173669b600",
+      "size": 13440
+    },
+    "db7ef4df36f6": {
+      "text": "車1台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1449863d9fb8797b57720212c84de38515941bc4362ba64fde1eaf6ef5744027",
+      "size": 16320
+    },
+    "dbb89d1221e8": {
+      "text": "京都へ行きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1782c1cb372ea6fe83102883e701dc98911c7fbdd2f53b9cfd6c9c15bd1b4665",
+      "size": 11520
+    },
+    "dca1d0534995": {
+      "text": "本2冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "87c201f305af20a2e52a959e2799c380c61d274eae3655aa799cc8edde69b5c9",
+      "size": 14592
+    },
+    "dca5b2324c58": {
+      "text": "車4台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "719584927aa98b08613dcb73fa1f281bfc1a903cd1387a8fe392de043a3bcfc6",
+      "size": 15744
+    },
+    "dcce4f3d03b1": {
+      "text": "私は毎日食べて寝ます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a164bb45d997ccca95bde8716596e4b69d4dc66d64112be7ff98b95ca86257c8",
+      "size": 19200
+    },
+    "dd1617b4882a": {
+      "text": "My name is Tanaka. [polite]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "430e26ab96b33694f9b98dcfadf86a051ee92a9a9aee3d8d19b21a79f48d5893",
+      "size": 21312
+    },
+    "dd96cb46b617": {
+      "text": "10000人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "163ac9f51c737d881f1e3f6b96fb49afefa502d4fc38a8dd5d8272ad8ba81263",
+      "size": 14400
+    },
+    "de3d1ecc94b2": {
+      "text": "に",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b50fa13e119204155453ff4d65ba91e2da3d0372ddd6260444303393f501e29f",
+      "size": 4416
+    },
+    "de66a34f68d2": {
+      "text": "先月は寒かった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f6e1fff5cdee979c15053920cc7d91406823e12cb4703eb5af943419c846e022",
+      "size": 14208
+    },
+    "debe58fc516c": {
+      "text": "彼女は医者です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cae51063dadf290ac9dc87a76234a2fea507afb4d24c22a7a79d1b3f86e14c1b",
+      "size": 11904
+    },
+    "dedb707d8398": {
+      "text": "わ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8c7142371b10cdf784897502371269b8ca4eba124655d2e357ea120ad2a625db",
+      "size": 4032
+    },
+    "df327bed2d1b": {
+      "text": "魚8匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e0bcd1aebaea9329c771a97ca99ab1e07438e3851f2daf7cad8aa331f1783cd3",
+      "size": 13056
+    },
+    "df715d6e0967": {
+      "text": "ゲ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fb563b4ccbd25bd891be074410e7a6f1f632af899192922839f7a779f6928ffd",
+      "size": 4224
+    },
+    "df82f999c7fb": {
+      "text": "れ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "389d2c69ef06aa4b1920b5bbccda3f705a805de4ed384703246ac90723881099",
+      "size": 4032
+    },
+    "e003d1baa844": {
+      "text": "十月から開始します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "84b1e99f8d8a12ebdb0aa951566bd79b3f5d1bf0e3cddb4e4cb0b073aa39040e",
+      "size": 17280
+    },
+    "e022bea2e9d6": {
+      "text": "ち",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "77afb117230b59edd00e62052d1fb6b8b7f2c7e6b2a34db182f30bd9bd824a70",
+      "size": 4416
+    },
+    "e029059d188c": {
+      "text": "来年は東京へ行く。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "26223ce2c53366aac50c53ddd153ff0a41b9e71b83aeec53c3e70eee5a50f2be",
+      "size": 17856
+    },
+    "e0d2a76c9f55": {
+      "text": "一時間を費やします。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "753e45dd7d9b360efeac0efb45541e5ed4ff0e9bf391b0be81d90ab2febe0d36",
+      "size": 17088
+    },
+    "e0e6bdfbd67b": {
+      "text": "ひゅ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "87885754678d7284f8f48a20103b1e9bc5a50e7b040f7820d82da9efb5eb174d",
+      "size": 4608
+    },
+    "e1132a63f367": {
+      "text": "田中さんは学生じゃない。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0ec6a6d5e57b9162d31e596b9f8805efba15b290989438bf2f1922c56b8fa7e7",
+      "size": 18624
+    },
+    "e11e8901e99d": {
+      "text": "2人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c5fe41e0312b94f88e7e8020973a7e8b71e13d46f61f6e43e733547ec990dcae",
+      "size": 11328
+    },
+    "e1c730bd83c3": {
+      "text": "せ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4d2adbf6c0bfebb705b8ce837a6b98099f07f6910476152a306ab146bfda8d33",
+      "size": 4416
+    },
+    "e1ea3b7a079b": {
+      "text": "話者はここ。その物がここなら「これ」。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "786c4b7358167063192aeb7110757a6e814ba6830866e6ca8a21838ddf7061c6",
+      "size": 28032
+    },
+    "e1f73aa963b2": {
+      "text": "月曜日から始まる。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "36b5966447a560fca2afaf53148417fb2adc16d2b5f82eba7d6301b28c45e402",
+      "size": 15744
+    },
+    "e209f2a0e114": {
+      "text": "彼は有名だった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0eece12df49bc24d9dddd9af7753e6718083318749dabe45aaadf5422b68af71",
+      "size": 14976
+    },
+    "e24283733b4a": {
+      "text": "ベ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "089f1aca58c7f298efe700ec8ca94219cb3892d25b12a0bf53741d48b6deb2c9",
+      "size": 4032
+    },
+    "e25b2934d4a6": {
+      "text": "私は学生でした。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4029c88e7585257b39f5ac1d2dc783b61a019a38b250ac6275791e15c9d0b1bb",
+      "size": 16512
+    },
+    "e2d8ffac39dd": {
+      "text": "僕は学生じゃなかった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1d54bd4e210dc2935e1fc95c3d0d4430fea59d3b65839eec511bbfba49baaa09",
+      "size": 17664
+    },
+    "e2d970611589": {
+      "text": "て",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "646a95014979eaef1f7b6f4f41a018e066cfbcd0f4eaa0b2ec419744b094484f",
+      "size": 4032
+    },
+    "e3423fcc8685": {
+      "text": "朝6時に起きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fbed69a0b9abb810780390d0b0125c3f29c75beb72126777230f56c2f94f460b",
+      "size": 15936
+    },
+    "e349ae133850": {
+      "text": "頭",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1136ef8246534960f15923c1d5979bb125b025f23b0b81a9d326787d0e30165c",
+      "size": 4992
+    },
+    "e34e6df56535": {
+      "text": "本とか雑誌とか買いました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "71aed0bf8060b3119308a403fa793a15189b133cd6cd080d34f61241b0c6659b",
+      "size": 18624
+    },
+    "e45c5ddd2e79": {
+      "text": "9人きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "49d7a46167b7b9bf9ff3802aa178871d6acc6babcc5532ce5a71ce27981a48a9",
+      "size": 12096
+    },
+    "e478c5b49c91": {
+      "text": "魚7匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "de962ba7dbc20305949fc77d87ac76f966bb83d17c644d3d00f96a026edd90ff",
+      "size": 13632
+    },
+    "e4fc02911cb4": {
+      "text": "今朝は冷たいです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "304a0accb333bce8a1398bec670dc6a17dd4ccb488dc1d27bba261cc67e3e6ab",
+      "size": 13440
+    },
+    "e540783b775a": {
+      "text": "誰も来ません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1fed3152d6f7ab17b6a899506fa676f9affe5af7d0fabccb4221b2da45c4e1c1",
+      "size": 11904
+    },
+    "e63dba9c8565": {
+      "text": "本10冊かりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a9d1873ee4a76709ffb787df88bcf7c4e2d5c3fc875c2ea502b1178dd68221b4",
+      "size": 15936
+    },
+    "e6777fbc134c": {
+      "text": "これは本だ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "440b1e72f21abbc08bc32091355ed61799fa1a1ec23bdc102ce02dd9f43db9e0",
+      "size": 10368
+    },
+    "e69e81cdee2c": {
+      "text": "田中さんと話します。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "306353a1ee879f25389e9b22cc6ba264e9f97ef96b187b1efb1820ddd8e27957",
+      "size": 16512
+    },
+    "e6b0a065e56b": {
+      "text": "こうして下さい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a3835f0c2b5c1b08c446a28fd36e341f1cc539c60e33c647fb4141411789cffc",
+      "size": 11328
+    },
+    "e77eb4831e6a": {
+      "text": "ず",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c201c3844bf7b65a8e47db24b7db00de2f0f059615603f8a8cbbf064a2013d54",
+      "size": 4608
+    },
+    "e7b05a197f63": {
+      "text": "失礼",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "bdc259d22e4c3fde4cd01d76e8b19011af6f9d26e131bf42f9609db6b6421e7e",
+      "size": 7872
+    },
+    "e7d6ebad6890": {
+      "text": "一日1回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1b012e04bcb12bbb73bf41ef6e459a852cbff512667877a6dd73711384712c3a",
+      "size": 16128
+    },
+    "e7eb23a14d60": {
+      "text": "田中さんから聞きました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3418af37714ccee8fc0c99581fd54c930306ed75183b0d6a4c82a42c29e1e05b",
+      "size": 16320
+    },
+    "e80ed9ae4e6f": {
+      "text": "猫たり犬たり、いろいろな動物がいる。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e53059c86fb8fde024284f7461420776db459b4f4f07e1de256ac0df4576b1eb",
+      "size": 28032
+    },
+    "e839106141ce": {
+      "text": "The car is big. [polite i-adj]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "317f8a8d037c67371e2eb2f8ae6cfece724a96142e80836458b8c327220301bf",
+      "size": 28416
+    },
+    "e874ff2500aa": {
+      "text": "コーヒーが好きです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8a174656aab5879c9818f16c76fea8013dd7994def323c95b801453f7cb7f0ef",
+      "size": 12864
+    },
+    "e87ecfbfee12": {
+      "text": "魚6匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "441a6cf805480e6ef64a4c1334bb2c51a1c85db513ac3bae4c04100c99255897",
+      "size": 12864
+    },
+    "e950c3dbde68": {
+      "text": "一日6回のむ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e8ccf0f1f7c3bac8d6c052f9378407b1efeebebaf70bc419c2d05a3fa01c60d9",
+      "size": 16128
+    },
+    "ea419e596fbb": {
+      "text": "私が好きです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "87c6f0b87262444fc3002616dd8f314b18ad910dad13753a384a9c4ad7783df8",
+      "size": 12288
+    },
+    "ea633878f249": {
+      "text": "ユ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d1a66520adece79c860727244034e2556f9d1e52bf07006333ac40f87eeb79ed",
+      "size": 4224
+    },
+    "eaaf9e121ccd": {
+      "text": "ペンで書きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "ff4fc252752c3191fb19b1a7b0304a6b45af8680013e6463113b01d5e370ee84",
+      "size": 10560
+    },
+    "eabfdb0b8179": {
+      "text": "He is a teacher. [polite]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "fbd1ad3040c9b136e1c95d564a6a9bf01c91f5c625db00cb0d0d39901d97374e",
+      "size": 21120
+    },
+    "eacacde53719": {
+      "text": "私は魚が好きです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "682a2d41795898b014c299a5d0ded38a4f9f9eb932f04d5523a863214ff08d48",
+      "size": 18432
+    },
+    "eaea5bc1bfbc": {
+      "text": "今、3時半です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b112ac490e873d6b3f3d9181df286faccbd21fce618cf385117973c559e10a96",
+      "size": 15936
+    },
+    "eb766006aba2": {
+      "text": "ろ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7493ff3e4860b31c25611d122060eadbcf451edb5eff9e926915118b9443b745",
+      "size": 4032
+    },
+    "eba95ba0c666": {
+      "text": "を",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f085f36e008d500b95da6e76ee2649b4f533ff0ea38401d5846ee56b5349734b",
+      "size": 3840
+    },
+    "ec2b29935b7e": {
+      "text": "田中さんからもらった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5c18cd68bf9ec3934392f23ce116706930284228b4ae933258a72d6ddf1af3c4",
+      "size": 15552
+    },
+    "ecbf446cb5ef": {
+      "text": "三時に起きます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "beaa0bb3e219031b49be7bd421322abed29ddf94920428a0b5a2263f86270a10",
+      "size": 13248
+    },
+    "edc16abe75a1": {
+      "text": "ネ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8163e7b06e85f8f5d3e0330e6208b7861d69565d04b13a3624ab755bd8e9f5ca",
+      "size": 4032
+    },
+    "ee5fe18a7c76": {
+      "text": "ツ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b830796b55c92e0e0bec6809b69a8917e518cc1f2a0ce8a53d89f15991fcd205",
+      "size": 4800
+    },
+    "ee85bebafec0": {
+      "text": "紙8枚ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9f63c9f633e2548c28ec434a5b76d0d21c8322732d30227adf12a18cc950668b",
+      "size": 13440
+    },
+    "eefc5770b9dc": {
+      "text": "べ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "aebbc7c99ec415a5d246effe98a7998f7e63c26eb41e6413e9b68749df0efcb4",
+      "size": 4032
+    },
+    "ef710fe9eab5": {
+      "text": "医学",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "faf837eb75d6372b36b4bad5694227b0ab237546a5c043d022388b6e5eb3b41e",
+      "size": 6720
+    },
+    "ef826d2af5c0": {
+      "text": "ぴゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "291cb58559d2d252b045a7797a9fb2287440254f70fc4979c8139b541c392c6b",
+      "size": 4224
+    },
+    "effcf7610c94": {
+      "text": "僕は医者ではありません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a8b60bcc68e035066fda5e5e8d1aaf8258dd80ff0d20104dd4adb845629fd896",
+      "size": 16896
+    },
+    "f1d02b015bec": {
+      "text": "今、雨です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8cde9126c568cc9e21576ec2ff8009cb2cdb11493836f5f38f0b8f8457bacd94",
+      "size": 11328
+    },
+    "f1eb82e4faa8": {
+      "text": "私は昨日食べました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "984ca3bdd64ee173eb6e4777c4d7f2011dceee36d1cb1ebe65ae20d9d7c21dca",
+      "size": 17088
+    },
+    "f203f3eca22c": {
+      "text": "十月から始まります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "00c869311f7c76a118f4061e6bbd4264fc3a590b12bdccb6ae6b7dcab40ffe6e",
+      "size": 16512
+    },
+    "f28cd0be883a": {
+      "text": "ひゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d5f47c67a4148a3f4862356c1226fce7595d6ff16cc49946964fbd3daa9f25d0",
+      "size": 4224
+    },
+    "f2f281192b8d": {
+      "text": "魚2匹ほしい。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "230e874e8384bd78625f7b73ab96c69ec8e235cce4a49952391c72e73b0d1b8b",
+      "size": 13056
+    },
+    "f3d05c65114a": {
+      "text": "田中さんへ手紙を送った。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5cf51611beedadef8271da4593757cd86db32cd3f12ec68e100b7cb3d0cadea2",
+      "size": 19200
+    },
+    "f3e4f9a75b9b": {
+      "text": "この本は面白いです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8eb05f8912fdc924fd7b4570bf5a1afdaa466b0e2ae5f46ca86d7babab470c6e",
+      "size": 16512
+    },
+    "f58558332c0c": {
+      "text": "りゃ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c32dc93bf040df0a4d396abcf21949c7d378905f85f360d38216434363783e61",
+      "size": 4416
+    },
+    "f617f781c004": {
+      "text": "This is a book. [polite]",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "2c536fa1117d05a5324f33505e43d6503dcb3bc7536996fb82645f486880aac6",
+      "size": 20544
+    },
+    "f684fe6c107a": {
+      "text": "ゴ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b50485af8938c2e4a6c3f666d12203325c805dba26fa6a4ec3d102d1f1be607c",
+      "size": 4224
+    },
+    "f76ca9d199c6": {
+      "text": "今年は2026年です。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "41b6b1b31f0eb2ecbe6dbb06b64694892846673cd7ceb516b1dc7c73e36c9d71",
+      "size": 21696
+    },
+    "f8ce5d0a2130": {
+      "text": "車1000台あります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "08660549ac30f6c622775d42e04d95e68ecaf6dc7064c2c119df8bda255e4ed0",
+      "size": 16704
+    },
+    "f8d01afc1ef8": {
+      "text": "明後日",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "72c5cfbbc3c1bfaabf53fdbe0387e28581f45f434e05d058d4c9ff97a2a56c8d",
+      "size": 7488
+    },
+    "f9956b924e00": {
+      "text": "えんぴつ6本ください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cd05096a3ed1b7c3554df5170b8388d1c1dd0cb86d34b21e37b04e64b07fcc2c",
+      "size": 14592
+    },
+    "fb2046cced43": {
+      "text": "浴びる",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e840f0ce17b4143d6471080b39e2aeef2e0ffe6c3c5e8067050febb35ddf2c55",
+      "size": 6528
+    },
+    "fb459e81f91f": {
+      "text": "私は毎日飲んで休みます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "71c5511103534b1eba9f158d97255b3a91b9ee9893ddcb4b28289b7f56ac8bc0",
+      "size": 21504
+    },
+    "fcd474ce77e4": {
+      "text": "ジ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6e41931c0edd6704f4c2c503a196d80477d832f2e90bade85694bc9bc6b47c40",
+      "size": 4416
+    },
+    "fdbc274544e7": {
+      "text": "雨が降ったら、出かけません。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4c36bb3f5fd3c54284866f42bde8885d6988e485d2afe942db860a2f4aad78f8",
+      "size": 19392
+    },
+    "fdc0fee18f84": {
+      "text": "2つください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3be335b5c85b79c91352a6ce80f8d144dc864d342bfd21bd16042eaa9a2ce53d",
+      "size": 9984
+    },
+    "ffab9d02a311": {
+      "text": "る",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0cdb03b276ae34d89114424644a7eb5f95da5895e2804e217e93cf16601a40c5",
+      "size": 4224
+    }
+  }
+}

@@ -1,0 +1,46 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::00 - Foundation::Recognition
+#
+田中さんは先生です。	たなかさんはせんせいです。	Tanaka-san is a teacher.	topic-copula	N + は + Copula	Topic identification	As for me... statement	exhaustive-subject が	[sound:06175c7694d0.mp3]	module:00-foundation jlpt:n5 point:particles
+猫は動物です。	ねこはどうぶつです。	As for cats, they are animals.	topic-predicate	N + は + Pred	General topic statement	Topic scope, broad generalization	exhaustive-subject が	[sound:cef99300323c.mp3]	module:00-foundation jlpt:n5 point:particles
+私は行きません。	わたしはいきません。	As for me, I won't go.	topic-negation	N + は + NEG	Negation with topic	Topic precedes negation naturally	exhaustive-subject が	[sound:0c031ce2b91b.mp3]	module:00-foundation jlpt:n5 point:particles
+この本は面白い。	このほんはおもしろい。	This book is interesting.	topic-adjective	N + は + ADJ	Adjective predicate topic	X is... quality assessment	exhaustive-subject が	[sound:c3d09aae5392.mp3]	module:00-foundation jlpt:n5 point:particles
+誰が来ましたか。	だれがきましたか。	Who came?	exhaustive-subject	N + が + V	Exhaustive subject / focus	"Answer ""who/what"" questions"	topic-marker は	[sound:9f4ff6cf5689.mp3]	module:00-foundation jlpt:n5 point:particles
+雨が降っています。	あめがふっています。	Rain is falling.	existential-subject	N + が + exist-V	Existential/actual event	Events actually happening now	topic-marker は	[sound:86cc2bb01330.mp3]	module:00-foundation jlpt:n5 point:particles
+私は魚が好きです。	わたしはさかながすきです。	As for me, fish are likeable.	object-of-predicate	N + が (inside predicate)	Object of emotive predicate	Like/hate/want take が object	direct-object を	[sound:eacacde53719.mp3]	module:00-foundation jlpt:n5 point:particles
+彼が来たら電話します。	かれがきたらでんわします。	If he comes, I'll call.	subordinate-clause	N + が (in clause)	Focus in embedded clause	Focus shifts with が in subclauses	topic-marker は	[sound:0db3e4c3e31f.mp3]	module:00-foundation jlpt:n5 point:particles
+水を飲みます。	みずをのみます。	I drink water.	direct-object	N + を + V-trans	Transitive object	Object of action verb	particle-ni に	[sound:bd38bfe895a7.mp3]	module:00-foundation jlpt:n5 point:particles
+道を歩きます。	みちをあるきます。	I walk along the street.	path-traversal	N (path) + を + motion-V	Path/route traversed	Movement through space	location-destination に	[sound:92a21bb184ea.mp3]	module:00-foundation jlpt:n5 point:particles
+一時間を費やします。	いちじかんをついやします。	I spend one hour.	time-duration	N (time) + を + V-trans	Time span as object	Duration measured in を	time-point に	[sound:e0d2a76c9f55.mp3]	module:00-foundation jlpt:n5 point:particles
+英語を話します。	えいごをはなします。	I speak English.	language-object	Language + を + speak-V	Language as direct object	Languages take を with speak/study	particle-ni に	[sound:1c60ef8e7139.mp3]	module:00-foundation jlpt:n5 point:particles
+猫が部屋に います。	ねこがへやにいます。	The cat is in the room.	location-existence	Loc + に + exist-V	Location of being/existence	Static location: 「に + ます」	destination へ	[sound:556ca1263f0e.mp3]	module:00-foundation jlpt:n5 point:particles
+学校に行きます。	がっこうにいきます。	I go to school.	destination	N + に + go-V	Goal/destination of motion	Direction of movement	location-existence に	[sound:4204447274de.mp3]	module:00-foundation jlpt:n5 point:particles
+先生に聞きます。	せんせいにききます。	I ask the teacher.	indirect-object	N (person) + に + V-trans	Recipient/target of action	Give/ask/teach take に	direct-object を	[sound:17af7fc50b1d.mp3]	module:00-foundation jlpt:n5 point:particles
+三時に起きます。	さんじにおきます。	I wake up at three o'clock.	time-point	Time + に + V	Specific time point	Exact time: hour/date/moment	time-duration を	[sound:ecbf446cb5ef.mp3]	module:00-foundation jlpt:n5 point:particles
+図書館で勉強します。	としょかんでべんきょうします。	I study at the library.	location-event	Loc + で + V-action	Location of action/event	Where action happens: 「で + verb」	location-existence に	[sound:184fbe1b42e0.mp3]	module:00-foundation jlpt:n5 point:particles
+鉛筆で書きます。	えんぴつでかきます。	I write with a pencil.	instrument	Tool + で + V	Instrument/means of action	By means of: tool/medium	purpose に	[sound:afe6380cd9ec.mp3]	module:00-foundation jlpt:n5 point:particles
+病気で休みます。	びょうきでやすみます。	I take time off due to illness.	reason-cause	Reason + で + V	Cause/reason for action	Why something happens	location-event で	[sound:2cde37f47f5c.mp3]	module:00-foundation jlpt:n5 point:particles
+五人で会議します。	ごにんでかいぎします。	We hold a meeting with five people.	group-composition	Number + で + group-V	Group composition/collaborative	Together in a group	location-event で	[sound:a5e5e3111ea4.mp3]	module:00-foundation jlpt:n5 point:particles
+京都へ行きます。	きょうとへいきます。	I go toward Kyoto.	direction-goal	Destination + へ + motion-V	Direction/destination of travel	Direction arrow: 「へ = →」	destination に	[sound:dbb89d1221e8.mp3]	module:00-foundation jlpt:n5 point:particles
+外へ出ます。	そとへでます。	I go outside.	direction-motion	Direction + へ + go-V	Direction of outward motion	Where motion points toward	destination に	[sound:c0e370345cca.mp3]	module:00-foundation jlpt:n5 point:particles
+彼女へ手紙を書きます。	かのじょへてがみをかきます。	I write a letter to my girlfriend.	recipient-direction	Person + へ + send-V	Recipient (motion-like sense)	Communication directed at person	indirect-object に	[sound:879a55703c20.mp3]	module:00-foundation jlpt:n5 point:particles
+未来へ進みます。	みらいへすすみます。	We advance toward the future.	abstract-direction	Abstract destination + へ	Abstract direction/orientation	へ works for literal & metaphorical	destination に	[sound:89d936ef4698.mp3]	module:00-foundation jlpt:n5 point:particles
+田中さんと話します。	たなかさんとはなします。	I talk with Tanaka.	companion	N + と + social-V	Companion/together with	Shared action: 「と + do together」	plural-listing や	[sound:e69e81cdee2c.mp3]	module:00-foundation jlpt:n5 point:particles
+先生と言いました。	せんせいといいました。	He said with the teacher / He said he's a teacher.	quotative-result	N + と + say/result-V	Result state / Quotative	Become X / State as X	comparison より	[sound:0764018f8c1f.mp3]	module:00-foundation jlpt:n5 point:particles
+雨だと思います。	あめだとおもいます。	I think it's rain.	quotative-thought	N/Pred + と + think-V	Quoted content of thought	Reported speech/thought	comparison より	[sound:8bf0d20ac656.mp3]	module:00-foundation jlpt:n5 point:particles
+日本語と英語を勉強します。	にほんごとえいごをべんきょうします。	I study Japanese and English.	exhaustive-listing	N + と + N + object	Exhaustive listing (two items)	Complete list: A and B (both)	partial-listing や	[sound:da9fadbbb08a.mp3]	module:00-foundation jlpt:n5 point:particles
+私も行きます。	わたしもいきます。	I also go / I go too.	inclusive-also	N + も + V	Inclusive/additive marker	X also: inclusive addition	exclusive-only だけ	[sound:a92aa6f133d2.mp3]	module:00-foundation jlpt:n5 point:particles
+猫も犬も好きです。	ねこもいぬもすきです。	I like both cats and dogs.	inclusive-both	N + も + N + も + Pred	Both... and... (inclusive)	Double も for emphasis	exclusive-only だけ	[sound:07465769240b.mp3]	module:00-foundation jlpt:n5 point:particles
+誰も来ません。	だれもきません。	Nobody comes / No one comes.	negative-universal	N + も + NEG	Universal negation	"も in negative = ""not even one"""	exclusive-only だけ	[sound:e540783b775a.mp3]	module:00-foundation jlpt:n5 point:particles
+五時も十時も遅いです。	ごじもじゅうじもおそいです。	Both 5 o'clock and 10 o'clock are late.	multiple-inclusion	N + も + N + も + Pred	Multiple inclusion/both examples	も appears multiple times	exclusive-only だけ	[sound:2cd30084b5db.mp3]	module:00-foundation jlpt:n5 point:particles
+東京から来ました。	とうきょうからきました。	I came from Tokyo.	origin-source	Origin + から + come-V	Origin/source point	Where from: 「から = from」	comparison より	[sound:5fd39e7195dc.mp3]	module:00-foundation jlpt:n5 point:particles
+十月から始まります。	じゅうがつからはじまります。	It starts from October.	starting-point	Time + から + begin-V	Starting point in time	Begin at point: 「から開始」	endpoint まで	[sound:f203f3eca22c.mp3]	module:00-foundation jlpt:n5 point:particles
+田中さんから聞きました。	たなかさんからききました。	I heard it from Tanaka.	information-source	Person + から + hear-V	Source of information	Who told you: 「から情報源」	comparison より	[sound:e7eb23a14d60.mp3]	module:00-foundation jlpt:n5 point:particles
+飲めないから行きません。	のめないからいきません。	Because I can't drink, I won't go.	reason-cause	Reason + から + result-V	Reason/cause clause	Why: 「から理由」	comparison より	[sound:8a51f56f5caf.mp3]	module:00-foundation jlpt:n5 point:particles
+東京まで行きます。	とうきょうまでいきます。	I go as far as Tokyo.	destination-limit	Destination + まで + motion-V	Destination/extent limit	Up to point: 「まで = until」	starting-point から	[sound:76b0003d364a.mp3]	module:00-foundation jlpt:n5 point:particles
+五月まで待ちます。	ごがつまでまちます。	I wait until May.	time-endpoint	Time + まで + duration-V	Time endpoint/deadline	Until a time point	starting-point から	[sound:1b9529268184.mp3]	module:00-foundation jlpt:n5 point:particles
+駅まで一時間かかります。	えきまでいちじかんかかります。	It takes one hour to the station.	distance-extent	Distance + まで + duration-V	Distance/spatial extent	How far: distance measured in まで	starting-point から	[sound:31b8cd1aa9b2.mp3]	module:00-foundation jlpt:n5 point:particles
+友達まで参加しました。	ともだちまでさんかしました。	Even friends participated.	inclusive-extent	N + まで + V	Inclusive extent/even	Even: 「まで含める」	starting-point から	[sound:5dff0a396b62.mp3]	module:00-foundation jlpt:n5 point:particles
