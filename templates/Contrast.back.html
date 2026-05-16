@@ -1,0 +1,57 @@
+<!-- Contrast.back.html
+     Shows: JP text, highlight correct Answer (A or B), Why reasoning, Tip hint
+     Fields: JP, OptionA, OptionB, Answer, Why, Tip, Audio, Tags
+  -->
+
+<div class="card back-section">
+  <div class="main-content">
+    <!-- JP text again for reference -->
+    <div class="jp jp-large">{{JP}}</div>
+  </div>
+
+  <!-- Show both options with the correct one highlighted -->
+  <div style="display: flex; gap: 1em; margin-top: 1.5em; flex-wrap: wrap;">
+    <!-- Option A -->
+    <div style="flex: 1; min-width: 120px; padding: 1em; border-radius: 0.5em; border: 2px solid var(--border); text-align: center; {{#Answer}}{{#OptionA}}background: var(--success-light); border-color: var(--success);{{/OptionA}}{{/Answer}}">
+      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option A {{#Answer}}{{#OptionA}}<span style="color: var(--success); font-weight: 600;">✓ Correct</span>{{/OptionA}}{{/Answer}}</div>
+      <div class="jp" style="font-size: 1.3em; font-weight: 600;">{{OptionA}}</div>
+    </div>
+
+    <!-- Option B -->
+    <div style="flex: 1; min-width: 120px; padding: 1em; border-radius: 0.5em; border: 2px solid var(--border); text-align: center; {{#Answer}}{{#OptionB}}background: var(--success-light); border-color: var(--success);{{/OptionB}}{{/Answer}}">
+      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option B {{#Answer}}{{#OptionB}}<span style="color: var(--success); font-weight: 600;">✓ Correct</span>{{/OptionB}}{{/Answer}}</div>
+      <div class="jp" style="font-size: 1.3em; font-weight: 600;">{{OptionB}}</div>
+    </div>
+  </div>
+
+  <!-- Why: explanation of the correct choice -->
+  {{#Why}}
+  <div class="info-box" style="margin-top: 1.5em;">
+    <strong>Why is this correct?</strong>
+    <div style="margin-top: 0.5em;">{{Why}}</div>
+  </div>
+  {{/Why}}
+
+  <!-- Tip: additional hint or gotcha -->
+  {{#Tip}}
+  <div class="warning-box">
+    <strong>💡 Tip:</strong> {{Tip}}
+  </div>
+  {{/Tip}}
+
+  <!-- Audio replay button -->
+  {{#Audio}}
+  <div style="margin-top: 1.5em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+  </div>
+  {{/Audio}}
+
+  <!-- Tags row -->
+  {{#Tags}}
+  <div class="tags">
+    {{Tags}}
+  </div>
+  {{/Tags}}
+</div>

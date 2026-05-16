@@ -1,0 +1,38 @@
+/* Production.style.css
+   Styles for Production card type (EN prompt → JP production)
+   Extends: _common.css
+*/
+
+/* Production-specific customization */
+
+/* Ensure code blocks (Target form) are readable */
+.formula {
+  display: inline-block;
+  word-break: break-word;
+}
+
+/* Info boxes: add subtle shadow */
+.info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+body.night_mode .info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Sample JP text with emphasis */
+.jp-large {
+  font-weight: 500;
+  letter-spacing: 0.05em;
+}
+
+/* Why explanation box: make it prominent */
+.info-box > strong {
+  display: block;
+  margin-bottom: 0.5em;
+  color: var(--accent);
+}
+
+body.night_mode .info-box > strong {
+  color: #818cf8;
+}

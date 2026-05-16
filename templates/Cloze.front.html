@@ -1,0 +1,27 @@
+<!-- Cloze.front.html
+     Presents: {{cloze:Text}} with Hint subtly below (Anki standard cloze)
+     Fields: Text, Reading, Hint, Audio, Tags
+  -->
+
+<div class="card front-section">
+  <div class="main-content">
+    <!-- Anki's standard cloze deletion (blank with [...]) -->
+    <div class="jp jp-large">{{cloze:Text}}</div>
+
+    <!-- Subtle hint below the blank -->
+    {{#Hint}}
+    <div style="margin-top: 0.75em; font-size: 0.9em; color: var(--muted); font-style: italic;">
+      <small>Hint: {{Hint}}</small>
+    </div>
+    {{/Hint}}
+  </div>
+
+  <!-- Audio button (optional) -->
+  {{#Audio}}
+  <div style="margin-top: 1em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+  </div>
+  {{/Audio}}
+</div>

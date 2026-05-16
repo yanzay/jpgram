@@ -1,0 +1,42 @@
+/* Recognition.style.css
+   Styles for Recognition card type (JP → EN translation)
+   Extends: _common.css
+*/
+
+/* Recognition-specific customization: keep it minimal since _common.css handles most */
+
+/* Optional: Highlight for Reading field if it contains ruby tags */
+.reading-display ruby {
+  display: inline-block;
+}
+
+/* Ensure formula code blocks don't overflow on mobile */
+.formula {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Info boxes: add slight shadow for depth */
+.info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+body.night_mode .info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.quick-cue {
+  box-shadow: 0 2px 6px rgba(79, 70, 229, 0.1);
+}
+
+body.night_mode .quick-cue {
+  box-shadow: 0 2px 6px rgba(129, 140, 248, 0.15);
+}
+
+.warning-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+body.night_mode .warning-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}

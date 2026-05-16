@@ -1,0 +1,40 @@
+<!-- Contrast.front.html
+     Presents: JP with blank (___), OptionA and OptionB as side-by-side visual buttons
+     Fields: JP, OptionA, OptionB, Answer, Why, Tip, Audio, Tags
+  -->
+
+<div class="card front-section">
+  <div class="main-content">
+    <!-- JP text with visible blank: ___
+         Teacher can format as: 「___は水です」or use HTML markup
+    -->
+    <div class="jp jp-large">{{JP}}</div>
+
+    <!-- Question prompt -->
+    <div style="font-size: 0.95em; color: var(--muted); margin-top: 0.75em;">
+      Which word or form is correct?
+    </div>
+  </div>
+
+  <!-- Option A and B as side-by-side visual buttons (not actually clickable) -->
+  <div style="display: flex; gap: 1em; margin-top: 1.5em; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 120px; padding: 1em; background: var(--muted-light); border-radius: 0.5em; border: 2px solid transparent; text-align: center;">
+      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option A</div>
+      <div class="jp" style="font-size: 1.3em; font-weight: 600;">{{OptionA}}</div>
+    </div>
+
+    <div style="flex: 1; min-width: 120px; padding: 1em; background: var(--muted-light); border-radius: 0.5em; border: 2px solid transparent; text-align: center;">
+      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option B</div>
+      <div class="jp" style="font-size: 1.3em; font-weight: 600;">{{OptionB}}</div>
+    </div>
+  </div>
+
+  <!-- Audio button (NOT auto-played) -->
+  {{#Audio}}
+  <div style="margin-top: 1.5em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+  </div>
+  {{/Audio}}
+</div>

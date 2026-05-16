@@ -1,0 +1,344 @@
+/* ─────────────────────────────────────────────────────────────────────────
+   _common.css — Shared base styles for all Japanese Grammar card templates
+   ───────────────────────────────────────────────────────────────────────── */
+
+/* ── Reset & Base ──────────────────────────────────────────────────────── */
+* {
+  box-sizing: border-box;
+}
+
+/* Anki provides .card wrapper; we style it for consistent layout */
+.card {
+  padding: 1.5em;
+  line-height: 1.6;
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color: var(--fg);
+  background: var(--bg);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* ── Color Palette (Light Mode Default) ────────────────────────────────── */
+:root {
+  --bg: white;
+  --fg: #222;
+  --accent: #4f46e5;
+  --accent-light: #eef2ff;
+  --warning: #d97706;
+  --warning-light: #fef3c7;
+  --success: #059669;
+  --success-light: #d1fae5;
+  --muted: #6b7280;
+  --muted-light: #e5e7eb;
+  --border: #e5e7eb;
+}
+
+/* ── Dark Mode ────────────────────────────────────────────────────────── */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1a1a1a;
+    --fg: #e8e8e8;
+    --accent: #818cf8;
+    --accent-light: #312e81;
+    --warning: #fbbf24;
+    --warning-light: #78350f;
+    --success: #34d399;
+    --success-light: #064e3b;
+    --muted: #9ca3af;
+    --muted-light: #374151;
+    --border: #374151;
+  }
+}
+
+/* ── Anki Dark Mode Override (.nightMode class) ─────────────────────────── */
+body.night_mode .card {
+  background: #1a1a1a;
+  color: #e8e8e8;
+}
+
+body.night_mode {
+  --bg: #1a1a1a;
+  --fg: #e8e8e8;
+  --accent: #818cf8;
+  --warning: #fbbf24;
+  --success: #34d399;
+}
+
+/* ── Typography ───────────────────────────────────────────────────────── */
+
+/* Japanese text */
+.jp {
+  font-family: 'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif;
+  font-weight: 500;
+}
+
+/* Ruby annotation (furigana) */
+ruby {
+  ruby-align: space-around;
+}
+
+rt {
+  font-size: 0.55em;
+  opacity: 0.8;
+  font-weight: 400;
+}
+
+/* ── Layout Components ────────────────────────────────────────────────── */
+
+/* Front/Back sections */
+.front-section,
+.back-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+/* Main question/answer area */
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  margin-bottom: 1em;
+}
+
+/* Large JP text (Recognition, Contrast) */
+.jp-large {
+  font-size: 2.4em;
+  line-height: 1.3;
+  margin: 0.3em 0;
+}
+
+/* Large EN text (Production) */
+.en-large {
+  font-size: 1.4em;
+  line-height: 1.4;
+  margin: 0.2em 0;
+  font-weight: 500;
+}
+
+/* Reading display with ruby */
+.reading-display {
+  font-size: 1.1em;
+  opacity: 0.9;
+  margin: 0.3em 0;
+}
+
+/* Metadata rows */
+.metadata-row {
+  display: flex;
+  gap: 0.5em;
+  align-items: baseline;
+  font-size: 0.9em;
+  color: var(--muted);
+  flex-wrap: wrap;
+}
+
+.metadata-row .label {
+  font-weight: 600;
+  color: var(--fg);
+  min-width: 4em;
+}
+
+/* ── Content Boxes ────────────────────────────────────────────────────── */
+
+/* Info box (for Label, Formula, MainUse, Sample, etc.) */
+.info-box {
+  background: var(--accent-light);
+  border-left: 4px solid var(--accent);
+  padding: 0.75em 1em;
+  border-radius: 0.25em;
+  margin: 0.5em 0;
+}
+
+body.night_mode .info-box {
+  background: rgba(129, 140, 248, 0.15);
+  border-left-color: #818cf8;
+}
+
+/* Warning box (for Contrast, Tip warnings) */
+.warning-box {
+  background: var(--warning-light);
+  border-left: 4px solid var(--warning);
+  padding: 0.75em 1em;
+  border-radius: 0.25em;
+  margin: 0.5em 0;
+}
+
+body.night_mode .warning-box {
+  background: rgba(251, 191, 36, 0.15);
+  border-left-color: #fbbf24;
+}
+
+/* Success box (for correct answer highlight) */
+.success-box {
+  background: var(--success-light);
+  border-left: 4px solid var(--success);
+  padding: 0.75em 1em;
+  border-radius: 0.25em;
+}
+
+body.night_mode .success-box {
+  background: rgba(52, 211, 153, 0.15);
+  border-left-color: #34d399;
+}
+
+/* Code/Formula style */
+.formula {
+  font-family: 'Courier New', 'Monaco', monospace;
+  background: var(--muted-light);
+  padding: 0.25em 0.5em;
+  border-radius: 0.25em;
+  font-size: 0.95em;
+}
+
+body.night_mode .formula {
+  background: rgba(156, 163, 175, 0.2);
+}
+
+/* ── Quick Cue Accent Box ─────────────────────────────────────────────── */
+.quick-cue {
+  background: linear-gradient(135deg, var(--accent-light) 0%, transparent 100%);
+  border: 2px solid var(--accent);
+  padding: 0.75em 1em;
+  border-radius: 0.5em;
+  font-style: italic;
+  margin: 0.5em 0;
+}
+
+body.night_mode .quick-cue {
+  background: rgba(129, 140, 248, 0.1);
+  border-color: #818cf8;
+}
+
+/* ── Audio Button ─────────────────────────────────────────────────────── */
+.audio-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4em;
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 0.375em;
+  cursor: pointer;
+  font-size: 0.95em;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  min-height: 44px;
+  touch-action: manipulation;
+}
+
+.audio-button:hover {
+  background: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+}
+
+.audio-button:active {
+  transform: translateY(0);
+}
+
+body.night_mode .audio-button {
+  background: #818cf8;
+  box-shadow: 0 4px 12px rgba(129, 140, 248, 0.2);
+}
+
+body.night_mode .audio-button:hover {
+  box-shadow: 0 4px 12px rgba(129, 140, 248, 0.4);
+}
+
+.audio-button::before {
+  content: "▶";
+  font-size: 0.9em;
+}
+
+/* ── Tags Row (Bottom of every back card) ──────────────────────────────── */
+.tags {
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid var(--border);
+  font-size: 0.85em;
+  color: var(--muted);
+}
+
+.tags::before {
+  content: "Tags:";
+  font-weight: 600;
+  color: var(--fg);
+  margin-right: 0.5em;
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.25em 0.6em;
+  background: var(--muted-light);
+  border-radius: 0.25em;
+}
+
+.tag::before {
+  content: "#";
+}
+
+body.night_mode .tag {
+  background: rgba(156, 163, 175, 0.2);
+}
+
+/* ── Pitch Accent Hook (for JS enhancement) ──────────────────────────── */
+.pitch {
+  /* JS can add underline/color overlay here */
+  cursor: help;
+  border-bottom: 1px dotted var(--muted);
+  transition: background-color 0.2s ease;
+}
+
+.pitch.pitch-accent-high {
+  background-color: rgba(79, 70, 229, 0.1);
+}
+
+.pitch.pitch-accent-low {
+  background-color: rgba(107, 114, 128, 0.1);
+}
+
+/* ── Mobile Responsiveness ────────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .card {
+    padding: 1em;
+  }
+
+  .jp-large {
+    font-size: 2em;
+  }
+
+  .en-large {
+    font-size: 1.2em;
+  }
+
+  .metadata-row {
+    font-size: 0.85em;
+  }
+
+  /* Ensure touch targets are ≥44px */
+  button,
+  .audio-button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+}
+
+/* ── Print Styles ─────────────────────────────────────────────────────── */
+@media print {
+  .card {
+    page-break-inside: avoid;
+    border: 1px solid #ccc;
+    margin: 1em 0;
+  }
+
+  .audio-button {
+    display: none;
+  }
+}

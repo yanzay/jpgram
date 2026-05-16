@@ -1,0 +1,56 @@
+/* Contrast.style.css
+   Styles for Contrast card type (choose correct form A/B)
+   Extends: _common.css
+*/
+
+/* Option boxes: enhance for mobile touch targets */
+[style*="flex: 1"][style*="min-width: 120px"] {
+  transition: all 0.2s ease;
+  cursor: default;
+}
+
+/* Correct answer highlight: strong emerald border + background */
+[style*="background: var(--success-light)"] {
+  box-shadow: 0 0 0 3px rgba(5, 150, 105, 0.2);
+}
+
+body.night_mode [style*="background: var(--success-light)"] {
+  box-shadow: 0 0 0 3px rgba(52, 211, 153, 0.2);
+}
+
+/* Info and warning boxes: add shadows */
+.info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+body.night_mode .info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.warning-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+body.night_mode .warning-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Tip section: highlight the warning nature */
+.warning-box strong {
+  color: var(--warning);
+}
+
+body.night_mode .warning-box strong {
+  color: #fbbf24;
+}
+
+/* Mobile: ensure option boxes stack nicely */
+@media (max-width: 480px) {
+  [style*="display: flex"][style*="gap: 1em"] {
+    flex-direction: column;
+  }
+
+  [style*="flex: 1"][style*="min-width: 120px"] {
+    min-width: auto;
+  }
+}

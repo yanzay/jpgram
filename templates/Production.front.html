@@ -1,0 +1,27 @@
+<!-- Production.front.html
+     Presents: Large EN prompt, hint of Target grammar form (small), audio NOT auto-played
+     Fields: Prompt, Target, Reading, Sample, Why, Audio, Tags
+  -->
+
+<div class="card front-section">
+  <div class="main-content">
+    <!-- Large English prompt: the question the student must answer -->
+    <div class="en-large">{{Prompt}}</div>
+
+    <!-- Small hint: show the grammar form/structure without spoiling the full answer -->
+    {{#Target}}
+    <div style="font-size: 0.9em; color: var(--muted); margin-top: 0.5em;">
+      <small>Form hint: <code class="formula">{{Target}}</code></small>
+    </div>
+    {{/Target}}
+  </div>
+
+  <!-- Optional: Audio file available on front (NOT auto-played; user taps if needed) -->
+  {{#Audio}}
+  <div style="margin-top: 1em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      Hint: Hear the answer
+    </button>
+  </div>
+  {{/Audio}}
+</div>

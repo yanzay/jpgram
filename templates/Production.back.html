@@ -1,0 +1,54 @@
+<!-- Production.back.html
+     Shows: Sample JP (big), Reading, Target form, Why explanation, audio replay
+     Fields: Prompt, Target, Reading, Sample, Why, Audio, Tags
+  -->
+
+<div class="card back-section">
+  <div class="main-content">
+    <!-- Sample JP sentence: the canonical example in large text -->
+    {{#Sample}}
+    <div class="jp jp-large">{{Sample}}</div>
+    {{/Sample}}
+
+    <!-- Reading with furigana for the Sample -->
+    {{#Reading}}
+    <div class="reading-display">
+      {{Reading}}
+    </div>
+    {{/Reading}}
+
+    <!-- Target form (what student should produce) -->
+    {{#Target}}
+    <div class="info-box">
+      <div class="metadata-row">
+        <span class="label">Target:</span>
+        <code class="formula">{{Target}}</code>
+      </div>
+    </div>
+    {{/Target}}
+  </div>
+
+  <!-- Explanation: why this form is correct -->
+  {{#Why}}
+  <div class="info-box">
+    <strong>Why?</strong>
+    <div style="margin-top: 0.5em;">{{Why}}</div>
+  </div>
+  {{/Why}}
+
+  <!-- Audio replay button -->
+  {{#Audio}}
+  <div style="margin-top: 1em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+  </div>
+  {{/Audio}}
+
+  <!-- Tags row -->
+  {{#Tags}}
+  <div class="tags">
+    {{Tags}}
+  </div>
+  {{/Tags}}
+</div>

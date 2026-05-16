@@ -1,0 +1,41 @@
+/* Cloze.style.css
+   Styles for Cloze card type (fill-in-the-blank)
+   Extends: _common.css
+*/
+
+/* Anki's cloze tags: style the blank/revealed answer */
+.cloze {
+  font-weight: 600;
+  color: var(--accent);
+  background: rgba(79, 70, 229, 0.1);
+  padding: 0.1em 0.3em;
+  border-radius: 0.2em;
+}
+
+body.night_mode .cloze {
+  color: #a5b4fc;
+  background: rgba(129, 140, 248, 0.15);
+}
+
+/* Cloze deletion (on front, before answer is revealed) */
+.cloze-deletion {
+  font-weight: 600;
+  color: var(--muted);
+  background: var(--muted-light);
+  padding: 0.1em 0.3em;
+  border-radius: 0.2em;
+}
+
+body.night_mode .cloze-deletion {
+  color: #9ca3af;
+  background: rgba(156, 163, 175, 0.2);
+}
+
+/* Info boxes: add subtle shadow */
+.info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+body.night_mode .info-box {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
