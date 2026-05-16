@@ -50,7 +50,15 @@ DEFAULT_VOICE        = os.environ.get("JPG_TTS_VOICE", "ja-JP-Neural2-B")  # war
 DEFAULT_VOICE_ALT    = os.environ.get("JPG_TTS_VOICE_ALT", "ja-JP-Neural2-C")  # male
 DEFAULT_LANG         = os.environ.get("JPG_TTS_LANG", "ja-JP")
 DEFAULT_RATE         = 1.00
+DEFAULT_SLOW_RATE    = 0.75   # for shadowing / Foundation cards
 DEFAULT_AUDIO_ENC    = "MP3"
+
+# Multi-voice mode renders each sentence in N voices (suffix `_alt`,
+# `_slow`) so the deck can offer variety + a shadowing-speed track.
+# Filename convention:
+#   <sha1[:12]>.mp3        primary voice, normal rate
+#   <sha1[:12]>_alt.mp3    alt voice, normal rate
+#   <sha1[:12]>_slow.mp3   primary voice, slow rate (0.75)
 
 # Auto-load local creds if present and env not already set.
 _LOCAL_CREDS = Path(".secrets/gcp-adc.json")
@@ -247,6 +255,13 @@ def main():
                     help="Don't call the API and don't modify files; show what WOULD change")
     ap.add_argument("--rehash", action="store_true",
                     help="Recompute manifest sha256/size for all on-disk MP3s without re-synthesizing.")
+    ap.add_argument("--alt-voice", default="",
+                    help=f"Also render each sentence with this voice as "
+                         f"<hash>_alt.mp3 (e.g. {DEFAULT_VOICE_ALT}). Empty = off.")
+    ap.add_argument("--slow", action="store_true",
+                    help=f"Also render each sentence at slow rate "
+                         f"({DEFAULT_SLOW_RATE}) as <hash>_slow.mp3 — for shadowing.")
+    ap.add_argument("--slow-rate", type=float, default=DEFAULT_SLOW_RATE)
     args = ap.parse_args()
 
     if args.dry_run:
@@ -323,6 +338,28 @@ def main():
                 entries[h] = manifest_entry(text,
                                             voice=args.voice, rate=args.rate,
                                             lang=args.lang, mp3_path=out)
+            # ── Multi-track variants (alt voice / slow rate) ──
+            if args.alt_voice:
+                alt_out = MEDIA_DIR / f"{h}_alt.mp3"
+                if args.force or not alt_out.exists():
+                    if synth_mp3(text, alt_out, rate=args.rate,
+                                 voice_name=args.alt_voice,
+                                 language_code=args.lang):
+                        entries.setdefault(h, {}).setdefault(
+                            "alt", manifest_entry(text, voice=args.alt_voice,
+                                                  rate=args.rate, lang=args.lang,
+                                                  mp3_path=alt_out))
+            if args.slow:
+                slow_out = MEDIA_DIR / f"{h}_slow.mp3"
+                if args.force or not slow_out.exists():
+                    if synth_mp3(text, slow_out, rate=args.slow_rate,
+                                 voice_name=args.voice,
+                                 language_code=args.lang):
+                        entries.setdefault(h, {}).setdefault(
+                            "slow", manifest_entry(text, voice=args.voice,
+                                                   rate=args.slow_rate,
+                                                   lang=args.lang,
+                                                   mp3_path=slow_out))
         else:
             up_to_date += 1
             if existing is None or "sha256" not in existing or not existing.get("sha256"):

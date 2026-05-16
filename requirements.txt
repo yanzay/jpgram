@@ -1,7 +1,17 @@
-google-cloud-texttospeech>=2.16.0   # for build_audio.py
+# ── Tier-1 (core packaging) ─────────────────────────────────────────
+# Required by build_anki_package.py + validate_apkg.py.
 anki>=24.0
 zstandard>=0.22
-pykakasi>=2.2.1                     # for furigana / romaji generation
-fugashi>=1.3.0                      # MeCab tokenizer
-unidic-lite>=1.0.8                  # tokenizer dictionary
-jaconv>=0.3.4                       # kana <-> romaji conversions
+
+# ── Tier-2 (audio pipeline; optional but recommended) ──────────────
+# Required by build_audio.py. Without these the deck still builds,
+# it just ships without TTS audio.
+google-cloud-texttospeech>=2.16.0
+
+# ── Tier-2 (furigana / pitch-accent; optional but recommended) ─────
+# Required by build_furigana.py + build_pitchaccent.py. Without these
+# the deck still builds, cards just show no furigana / pitch overlay.
+pykakasi>=2.2.1
+fugashi>=1.3.0
+unidic-lite>=1.0.8
+jaconv>=0.3.4

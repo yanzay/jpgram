@@ -7,34 +7,32 @@ Produces: japanese_grammar_anki.apkg
 Reads every TSV under ./grammar/ and assembles a hierarchical deck:
 
   Japanese Grammar
-    00 - Foundation (Kana + Particles)
-    01 - N5 Grammar
-        :: Recognition / Production / Cloze / Contrast
+    00 - Foundation (Kana + Particles + Pitch Accent)
+    01 - N5 Grammar         :: Recognition / Production / Cloze / Contrast
     02 - N4 Grammar
-        :: Recognition / Production / Cloze / Contrast
     03 - N3 Grammar
-        :: Recognition / Production / Cloze / Contrast
     04 - N2 Grammar
-        :: Recognition / Production / Cloze / Contrast
     05 - N1 Grammar
-        :: Recognition / Production / Cloze / Contrast
     06 - Keigo (Honorifics)
     07 - Casual / Spoken Forms
     08 - Slang & Internet Speech
     09 - Sentence-Final Particles & Aizuchi
-    10 - Onomatopoeia (擬音語・擬態語)
+    10 - Onomatopoeia
     11 - Classical / Literary Carryover
     12 - Beyond N1 (Idioms, Set Phrases, 四字熟語)
-    13 - L1 Interference (per-language contrasts)
+    13 - L1 Interference (per-language)
 
-This is a SKELETON. The note types and packaging logic are defined here
-but actual TSV content is generated incrementally per-wave per
-CONTENT_PLAN.md.
+Build flow:
+    apply_taxonomy_tags  →  validate_anki_data  →  Collection assembly
+    →  export .apkg  →  validate_apkg
+
+The Collection-assembly step (~700 LOC) is intentionally elided in the
+Wave-0 commit — it follows the same recipe as ../verbs/build_anki_package.py
+and lands in Wave 1 alongside the first real content. The skeleton already
+fails loudly (sys.exit non-zero) when something is wrong.
 """
 
 import csv
-import hashlib
-import json
 import os
 import re
 import subprocess
@@ -50,10 +48,8 @@ CHANGELOG_URL = "https://github.com/yanzay/jpgram/blob/main/CHANGELOG.md"
 
 
 # ── Note-type schema ─────────────────────────────────────────────────────
-# Mirrors the schema in `verbs/` but JP-specific. Each TSV under grammar/
-# declares its `#columns:` header which MUST match the corresponding
-# fields list below.
-
+# Every TSV's `#columns:` directive must match the field list for its
+# note type, in this order. The validator enforces this.
 NOTE_TYPES = {
     "Recognition": [
         "JP", "Reading", "EN", "Label", "Formula", "MainUse",
@@ -83,10 +79,10 @@ def _ensure_anki():
                            "--user", "--break-system-packages", "anki>=24.0"])
 
 
-def load_tsv(path):
-    lines = Path(path).read_text(encoding="utf-8").splitlines()
+def load_tsv(path: Path):
+    lines = path.read_text(encoding="utf-8").splitlines()
     header = None
-    data_lines = []
+    data_lines: list[str] = []
     for line in lines:
         if line.startswith("#columns:"):
             header = line[len("#columns:"):].split("\t")
@@ -99,7 +95,7 @@ def load_tsv(path):
 
 
 def detect_note_type(tsv_path: Path) -> str:
-    """Heuristic: filename like '*_recognition.tsv' / '*_cloze.tsv' …"""
+    """Filename like `<point>_recognition.tsv` → 'Recognition'."""
     name = tsv_path.stem.lower()
     if "recognition" in name: return "Recognition"
     if "production"  in name: return "Production"
@@ -108,29 +104,55 @@ def detect_note_type(tsv_path: Path) -> str:
     return "Recognition"
 
 
-def main():
+# ── Pre-build hooks ──────────────────────────────────────────────────────
+def _run_hook(label: str, argv: list[str]) -> int:
+    print(f"\n→ {label}: {' '.join(argv)}")
+    rc = subprocess.call(argv)
+    if rc != 0:
+        print(f"  ✗ {label} failed (rc={rc})")
+    return rc
+
+
+def main() -> int:
     _ensure_anki()
+
     if not GRAMMAR_DIR.exists():
-        print(f"No grammar/ directory yet (skeleton-only build). "
-              f"See CONTENT_PLAN.md.")
-        return
+        print(f"grammar/ does not exist (skeleton-only build).")
+        return 1
 
     tsvs = sorted(GRAMMAR_DIR.rglob("*.tsv"))
     if not tsvs:
-        print("grammar/ exists but contains no TSVs yet. "
-              "Generate content per CONTENT_PLAN.md, then re-run.")
-        return
+        print("grammar/ has no TSVs yet. See CONTENT_PLAN.md for the wave plan.")
+        return 1
 
-    print(f"Building {OUTPUT} (v{VERSION}) from {len(tsvs)} TSV(s)…")
-    # NOTE: actual collection assembly is intentionally elided in the
-    # skeleton commit. The real implementation follows the same recipe
-    # used by ../verbs/build_anki_package.py (Collection → add_model →
-    # add_note loop → export to .apkg with media manifest). We add it in
-    # wave 1 once we have any content to package.
-    print("  (skeleton: note types declared, content waves still pending)")
+    # 1. Inject taxonomy tags (idempotent).
+    if Path("apply_taxonomy_tags.py").exists():
+        if _run_hook("apply_taxonomy_tags",
+                     [sys.executable, "apply_taxonomy_tags.py"]) != 0:
+            return 2
+
+    # 2. Validate the corpus.
+    if _run_hook("validate_anki_data",
+                 [sys.executable, "validate_anki_data.py"]) != 0:
+        return 3
+
+    print(f"\nBuilding {OUTPUT} (v{VERSION}) from {len(tsvs)} TSV(s)…")
+    # ── Collection assembly: TODO Wave 1.
+    # The full implementation follows ../verbs/build_anki_package.py:
+    #   Collection() → add_model per NOTE_TYPES → add_deck per JLPT level
+    #   → add_note loop → media manifest copy → export to .apkg.
+    print("  (skeleton: Collection assembly lands in Wave 1)")
     print(f"  Note types: {list(NOTE_TYPES)}")
     print(f"  Deck name:  {DECK_NAME}")
 
+    # 3. Post-build integrity check.
+    if Path("validate_apkg.py").exists() and OUTPUT.exists():
+        if _run_hook("validate_apkg",
+                     [sys.executable, "validate_apkg.py", str(OUTPUT)]) != 0:
+            return 4
+
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

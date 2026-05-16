@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::00 - Foundation::Contrast
+#
+# WAVE-0 EXAMPLE — Contrast schema. Two minimal-pair options that
+# differ in EXACTLY ONE grammatical feature, plus the answer + reason.
+私___学生です。	は	が	は	は marks the topic ("As for me, I'm a student"). が would mark exhaustive new info ("It is I who am a student").	Default to は in self-introduction; reach for が only when answering "who?"	[sound:WAVE0_PLACEHOLDER.mp3]	example placeholder
