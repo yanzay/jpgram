@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
+
+Make the child eat vegetables.	子供に野菜を食べさせた。	こどもにやさいをたべさせた。	I made my child eat vegetables.	forcing causative	[sound:9cd446df665a.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Tell students to do homework.	学生に宿題をさせている。	がくせいにしゅくだいをさせている。	I make students do homework.	habitual imposition	[sound:e1257e2afd9b.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard
+Allow child to choose freely.	子供に好きなことをさせている。	こどもにすきなことをさせている。	I let my child do what they like.	permissive causative	[sound:d7bf30df5649.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Request: let students ask questions.	学生に質問させてください。	がくせいにしつもんさせてください。	Please let the students ask questions.	permission request	[sound:ac2e2313ffe6.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Tell him to choose.	彼に自由に選ばせた。	かれにじゆうにえらばせた。	I let him choose freely.	allow choice	[sound:561ccd3d77cd.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard
+Let wife invite friends.	妻に友人を招待させた。	つまにゆうじんをしょうたいさせた。	I let my wife invite friends.	delegate action	[sound:b8da8b4a80b2.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard
+Command to allow game.	選手たちに試合をさせろ。	せんしゅたちにしあいをさせろ。	Let the athletes play the match.	authoritative	[sound:043cc155923f.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Put child to sleep.	親が子供を寝かせた。	おやがこどもをねかせた。	The parent put the child to sleep.	causative with を	[sound:c9356f63dbf8.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Made him wait.	彼女が彼を待たせた。	かのじょがかれをまたせた。	His girlfriend made him wait.	object form	[sound:993ec685d4b5.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Director made actor recite lines.	監督が役者に台詞を言わせた。	かんとくがやくしゃにせりふをいわせた。	The director made the actor say the lines.	agent with に	[sound:a795437df670.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Manager made worker clean.	店長がアルバイトを掃除させた。	てんちょうがあるばいとをそうじさせた。	The manager made the part-timer clean.	force with を	[sound:3cad5e157931.mp3]	module:02-n4 jlpt:n4 point:causative complexity:advanced
+Please let me explain.	説明させてください。	せつめいさせてください。	Please let me explain.	self-focused permission	[sound:b9f2edefdd89.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard
+Humble request to ask.	質問させていただけますか。	しつもんさせていただけますか。	May I ask a question, please?	formal request	[sound:99a52e8a8cb2.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard
+Let me try once.	一度試させてもらえますか。	いちどためさせてもらえますか。	Could I try it once?	casual permission	[sound:bf428242f0da.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard
+Made him run.	彼を走らせた。	かれをはしらせた。	I made him run.	intransitive causative	[sound:f2add8636861.mp3]	module:02-n4 jlpt:n4 point:causative complexity:standard

@@ -4,33 +4,33 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 #
-毎日話します。	まいにちはなします。	I talk every day.	Group 1 話す	話す → 話します	Regular polite affirmative present	Match: 読む, 飲む	Group 2: 食べます	ebccb1d99e7b	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-彼は新聞を読みます。	かれはしんぶんをよみます。	He reads a newspaper.	Group 1 読む	読む → 読みます	Regular polite affirmative present	Match: 飲む, 書く	Group 2: 見ます	4b8fe0569d9c	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
-私は牛乳を飲みます。	わたしはぎゅうにゅうをのみます。	I drink milk.	Group 1 飲む	飲む → 飲みます	Regular polite affirmative present	Match: 読む, 書く	Group 2: 起きます	65a90719e91f	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-毎日本を書きます。	まいにちほんをかきます。	I write a book every day.	Group 1 書く	書く → 書きます	Regular polite affirmative present	Match: 聞く, 歩く	Group 2: 見ます	039bbe049851	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+毎日話します。	まいにちはなします。	I talk every day.	Group 1 話す	話す → 話します	Regular polite affirmative present	Match: 読む, 飲む	Group 2: 食べます	[sound:ebccb1d99e7b.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+彼は新聞を読みます。	かれはしんぶんをよみます。	He reads a newspaper.	Group 1 読む	読む → 読みます	Regular polite affirmative present	Match: 飲む, 書く	Group 2: 見ます	[sound:4b8fe0569d9c.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
+私は牛乳を飲みます。	わたしはぎゅうにゅうをのみます。	I drink milk.	Group 1 飲む	飲む → 飲みます	Regular polite affirmative present	Match: 読む, 書く	Group 2: 起きます	[sound:65a90719e91f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+毎日本を書きます。	まいにちほんをかきます。	I write a book every day.	Group 1 書く	書く → 書きます	Regular polite affirmative present	Match: 聞く, 歩く	Group 2: 見ます	[sound:039bbe049851.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
 母は朝早く起きます。	はははあさはやくおきます。	She works every day.	Group 1 働く	働く → 働きます	Regular polite affirmative present	Match: 歩く, 聞く	Group 2: 食べます	[sound:c889eff50f3d.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-毎日選びます。	まいにちえらびます。	I choose every day.	Group 1 選ぶ	選ぶ → 選びます	Regular polite affirmative present	Match: 遊ぶ, 呼ぶ	Group 2: 起きます	15d778b423d6	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-兄は毎日帰ります。	あにはまいにちかえります。	My older brother returns daily.	Group 1 帰る	帰る → 帰ります	Deceptive u-verb despite -iru	Match: 走る, 売る	Group 2: 寝ます	14d659bb7b4d	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top5k
+毎日選びます。	まいにちえらびます。	I choose every day.	Group 1 選ぶ	選ぶ → 選びます	Regular polite affirmative present	Match: 遊ぶ, 呼ぶ	Group 2: 起きます	[sound:15d778b423d6.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+兄は毎日帰ります。	あにはまいにちかえります。	My older brother returns daily.	Group 1 帰る	帰る → 帰ります	Deceptive u-verb despite -iru	Match: 走る, 売る	Group 2: 寝ます	[sound:14d659bb7b4d.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top5k
 祖父は来年八十歳になります。	そふはらいねんはちじゅうさいになります。	My father dies every day.	Group 1 死ぬ	死ぬ → 死にます	Only common verb ending -ぬ	Match: unique	Group 2: 見ます	[sound:eba40fbce8df.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard frequency:top5k
-私は米を食べます。	わたしはこめをたべます。	I eat rice.	Group 2 食べる	食べる → 食べます	Regular polite affirmative present	Match: 見る, 寝る	Group 1: 飲む	f692d873c488	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top5k
-毎日映画を見ます。	まいにちえいがをみます。	I watch a movie every day.	Group 2 見る	見る → 見ます	Regular polite affirmative present	Match: 食べる, 寝る	Group 1: 読む	f68dcf8b6a04	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-毎日八時に寝ます。	まいにちはちじにねます。	I go to bed at 8 PM.	Group 2 寝る	寝る → 寝ます	Regular polite affirmative present	Match: 見る, 食べる	Group 1: 選ぶ	7b35e4f7226a	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-毎日六時に起きます。	まいにちろくじにおきます。	I wake up at 6 AM.	Group 2 起きる	起きる → 起きます	Regular polite affirmative present	Match: 見る, 寝る	Group 1: 書く	7178e27665f7	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-毎日来ます。	まいにちきます。	I come every day.	Irregular くる	来る → 来ます	Unique conjugation pattern	Match: unique	する	8f782ec53f6e	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
-毎日します。	まいにちします。	I do it every day.	Irregular する	する → します	Fundamental irregular verb	Match: unique	来る	7d5d3b1c7a5a	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-毎日行きます。	まいにちいきます。	I go every day.	Group 1 行く	行く → 行きます	Regular polite affirmative present	Match: 飲む, 読む	来る	d8190f433b38	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
-話しません。	はなしません。	I do not talk.	Group 1 話す	話す → 話しません	Polite negative present	Match: 読む, 飲む	話します	44211c9a9412	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-食べません。	たべません。	I do not eat.	Group 2 食べる	食べる → 食べません	Polite negative present	Match: 見る, 寝る	食べます	71ca444a72fc	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-来ません。	きません。	I do not come.	Irregular くる	来る → 来ません	Negative present irregular	Match: unique	来ます	c9054f16d515	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
-しません。	しません。	I do not do it.	Irregular する	する → しません	Negative present irregular	Match: unique	します	b3cba8719162	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-昨日話しました。	きのうはなしました。	I talked yesterday.	Group 1 話す	話す → 話しました	Polite past affirmative	Match: 読む, 飲む	話します	a556676bfe6b	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-昨日食べました。	きのうたべました。	I ate yesterday.	Group 2 食べる	食べる → 食べました	Polite past affirmative	Match: 見る, 寝る	食べます	fa59136b7a51	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-昨日来ました。	きのうきました。	I came yesterday.	Irregular くる	来る → 来ました	Past affirmative irregular	Match: unique	来ます	2cab51ba8e0f	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
-昨日話しませんでした。	きのうはなしませんでした。	I did not talk yesterday.	Group 1 話す	話す → 話しませんでした	Polite past negative	Match: 読む, 飲む	話しました	a801d8246162	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-昨日食べませんでした。	きのうたべませんでした。	I did not eat yesterday.	Group 2 食べる	食べる → 食べませんでした	Polite past negative	Match: 見る, 寝る	食べました	5daa71d49c8e	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-話しましょう。	はなしましょう。	Let's talk.	Group 1 話す	話す → 話しましょう	Polite volitional	Match: 読む, 飲む	話します	e9140e7d2923	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-食べましょう。	たべましょう。	Let's eat.	Group 2 食べる	食べる → 食べましょう	Polite volitional	Match: 見る, 寝る	食べます	4c458300895c	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-話しませんか？	はなしませんか？	Won't you talk?	Group 1 話す	話す → 話しませんか	Polite invitation	Match: 読む, 飲む	話します	3b458fe819e7	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
-食べませんか？	たべませんか？	Won't you eat?	Group 2 食べる	食べる → 食べませんか	Polite invitation	Match: 見る, 寝る	食べます	105eaa3cf605	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-来ませんか？	きませんか？	Won't you come?	Irregular くる	来る → 来ませんか	Polite invitation irregular	Match: unique	来ます	7ace9c860181	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
-勉強しませんか？	べんきょうしませんか？	Won't you study?	Irregular する	する → しませんか	Polite invitation irregular	Match: unique	します	217c0add81b6	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+私は米を食べます。	わたしはこめをたべます。	I eat rice.	Group 2 食べる	食べる → 食べます	Regular polite affirmative present	Match: 見る, 寝る	Group 1: 飲む	[sound:f692d873c488.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top5k
+毎日映画を見ます。	まいにちえいがをみます。	I watch a movie every day.	Group 2 見る	見る → 見ます	Regular polite affirmative present	Match: 食べる, 寝る	Group 1: 読む	[sound:f68dcf8b6a04.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+毎日八時に寝ます。	まいにちはちじにねます。	I go to bed at 8 PM.	Group 2 寝る	寝る → 寝ます	Regular polite affirmative present	Match: 見る, 食べる	Group 1: 選ぶ	[sound:7b35e4f7226a.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+毎日六時に起きます。	まいにちろくじにおきます。	I wake up at 6 AM.	Group 2 起きる	起きる → 起きます	Regular polite affirmative present	Match: 見る, 寝る	Group 1: 書く	[sound:7178e27665f7.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+毎日来ます。	まいにちきます。	I come every day.	Irregular くる	来る → 来ます	Unique conjugation pattern	Match: unique	する	[sound:8f782ec53f6e.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
+毎日します。	まいにちします。	I do it every day.	Irregular する	する → します	Fundamental irregular verb	Match: unique	来る	[sound:7d5d3b1c7a5a.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+毎日行きます。	まいにちいきます。	I go every day.	Group 1 行く	行く → 行きます	Regular polite affirmative present	Match: 飲む, 読む	来る	[sound:d8190f433b38.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
+話しません。	はなしません。	I do not talk.	Group 1 話す	話す → 話しません	Polite negative present	Match: 読む, 飲む	話します	[sound:44211c9a9412.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+食べません。	たべません。	I do not eat.	Group 2 食べる	食べる → 食べません	Polite negative present	Match: 見る, 寝る	食べます	[sound:71ca444a72fc.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
+来ません。	きません。	I do not come.	Irregular くる	来る → 来ません	Negative present irregular	Match: unique	来ます	[sound:c9054f16d515.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
+しません。	しません。	I do not do it.	Irregular する	する → しません	Negative present irregular	Match: unique	します	[sound:b3cba8719162.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
+昨日話しました。	きのうはなしました。	I talked yesterday.	Group 1 話す	話す → 話しました	Polite past affirmative	Match: 読む, 飲む	話します	[sound:a556676bfe6b.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+昨日食べました。	きのうたべました。	I ate yesterday.	Group 2 食べる	食べる → 食べました	Polite past affirmative	Match: 見る, 寝る	食べます	[sound:fa59136b7a51.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+昨日来ました。	きのうきました。	I came yesterday.	Irregular くる	来る → 来ました	Past affirmative irregular	Match: unique	来ます	[sound:2cab51ba8e0f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
+昨日話しませんでした。	きのうはなしませんでした。	I did not talk yesterday.	Group 1 話す	話す → 話しませんでした	Polite past negative	Match: 読む, 飲む	話しました	[sound:a801d8246162.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+昨日食べませんでした。	きのうたべませんでした。	I did not eat yesterday.	Group 2 食べる	食べる → 食べませんでした	Polite past negative	Match: 見る, 寝る	食べました	[sound:5daa71d49c8e.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+話しましょう。	はなしましょう。	Let's talk.	Group 1 話す	話す → 話しましょう	Polite volitional	Match: 読む, 飲む	話します	[sound:e9140e7d2923.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+食べましょう。	たべましょう。	Let's eat.	Group 2 食べる	食べる → 食べましょう	Polite volitional	Match: 見る, 寝る	食べます	[sound:4c458300895c.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
+話しませんか？	はなしませんか？	Won't you talk?	Group 1 話す	話す → 話しませんか	Polite invitation	Match: 読む, 飲む	話します	[sound:3b458fe819e7.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k
+食べませんか？	たべませんか？	Won't you eat?	Group 2 食べる	食べる → 食べませんか	Polite invitation	Match: 見る, 寝る	食べます	[sound:105eaa3cf605.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
+来ませんか？	きませんか？	Won't you come?	Irregular くる	来る → 来ませんか	Polite invitation irregular	Match: unique	来ます	[sound:7ace9c860181.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top10k
+勉強しませんか？	べんきょうしませんか？	Won't you study?	Irregular する	する → しませんか	Polite invitation irregular	Match: unique	します	[sound:217c0add81b6.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro frequency:top1k

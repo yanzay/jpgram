@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+Point to object 1 meter away.	それです。	それです。	That one (medium distance)	それ = nearby listener	[sound:16b0a4e39dd1.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+Point to object near you.	これです。	これです。	This one (close)	これ = close to speaker	[sound:a54d518419c6.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+Point to object far away.	あれです。	あれです。	That one (far)	あれ = far from both	[sound:0253ff90ebb6.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+Which pen?	どれですか？	どれですか？	Which one?	どれ = which object	[sound:f9b0a11478e5.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
+This book is expensive.	この本は高いです。	このほんはたかいです。	This book [attributive]	この = this [before noun]	[sound:46972f6c050c.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+That apple looks sweet.	そのりんごは甘そうです。	そのりんごはあまそうです。	That apple [attributive]	その = that [before noun]	[sound:ae714a9da7d7.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+That building is old.	あの建物は古いです。	あのたてものはふるいです。	That building over there	あの = that [before noun]	[sound:0acdc333ef40.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+Which pen do you want?	どのペンがいいですか？	どのぺんがいいですか？	Which pen?	どの = which [before noun]	[sound:c00c641b3d0e.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
+It's that one.	あれです。	あれです。	That one (distant)	あれ = distant object	[sound:16668dd805db.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+This is good.	これはいいです。	これはいいです。	This is good	これ = this thing	[sound:807774a29a61.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
+That is small.	それは小さいです。	それはちいさいです。	That is small	それ = that nearby	[sound:a4561cc27978.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
+Which one do you like?	どれが好きですか？	どれがすきですか？	Which?	どれ = which thing	[sound:35c4467a49b4.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
+This building is tall.	この建物は高いです。	このたてものはたかいです。	This building	この = this [attributive]	[sound:0872e125109e.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard
+That style is old.	そのスタイルは古いです。	そのすたいるはふるいです。	That style	その = that [attributive]	[sound:2efa98d575a4.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
+That person is a teacher.	あの人は先生です。	あのひとはせんせいです。	That person	あの = that far [attributive]	[sound:8fa0c1807da4.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro

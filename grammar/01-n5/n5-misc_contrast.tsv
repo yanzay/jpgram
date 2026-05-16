@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
+#
+私は勉強し{{c1::ている}}です vs 勉強し{{c1::ました}}	ている	ました	ている	ている=ongoing/state; ました=completed	Ongoing	[sound:000260f2a967.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:standard confusable-with:ました
+ある vs い{{c1::る}} — animate?	ある	いる	いる	いる=animate; ある=inanimate	People: いる	[sound:8fdc668453e7.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard confusable-with:ある
+好き vs 好きな{{c1::違い}}	好き	好きな	好きな	好き predicate (です); 好きな attributive	Before noun: な	[sound:6ca17afbc4ce.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:好き
+できる vs でき{{c1::ました}} — past?	できる	できました	できました	できる=can (ability); できました=could (past)	Past ability	[sound:38a086fa4a9d.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard confusable-with:できる
+開く vs 開い{{c1::ている}}	開く	開いている	開いている	開く=action; 開いている=resulting state	Resulting state	[sound:681349dc1c29.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro confusable-with:開く
+これは vs このは{{c1::違い}}	これは	このは	これは	これ=this standalone; この=before noun	Standalone: これ	[sound:26acb70411e3.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:このは
+私は vs 私が{{c1::違い}}	は	が	が	は=topic; が=subject/focus	Subject focus: が	[sound:ca4fa545e79e.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:は
+好きです vs 好き{{c1::だ}}	です	だ	です	です=polite; だ=plain	Polite: です	[sound:b3c4855274a4.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro confusable-with:だ
+います vs ある{{c1::違い}}	います	ある	います	います=existence of people/animals; ある=things	People/animals	[sound:84c7c28f58f5.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:ある
+ている vs た{{c1::こと}}	ている	たこと	たこと	ている=present state; たこと=past experience	Past experience	[sound:ce88c4a2371a.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro confusable-with:ている
+で vs に{{c1::違い}}	で	に	で	で=location of action; に=location/destination	Action location: で	[sound:7734298824b4.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:に
+が vs を{{c1::違い}}	が	を	を	が=subject; を=object	Object: を	[sound:e1900e3fbfa2.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:が
+に vs へ{{c1::違い}}	に	へ	へ	に=destination/target; へ=direction	Both similar; へ emphasizes direction	[sound:96c68a90f315.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:に
+ています vs た{{c1::形}}	ています	た形	た形	ています=present state; た形=past tense form	State vs tense	[sound:e5ea8d59bb96.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top5k complexity:intro confusable-with:ています
+そう vs よう{{c1::違い}}	そう	よう	そう	そう=appears/seems (observable); よう=seems (inference)	Observable: そう	[sound:71316a721662.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro confusable-with:よう

@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+exampleぜろ{{c1::ようだ}}。	exampleぜろようだ。	hint	[sound:bd11ecc344b1.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleいち{{c1::ようだ}}。	exampleいちようだ。	hint	[sound:8b2780ced08c.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleに{{c1::ようだ}}。	exampleにようだ。	hint	[sound:3b01b93bd247.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleさん{{c1::ようだ}}。	exampleさんようだ。	hint	[sound:9060fc86250c.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleし{{c1::ようだ}}。	exampleしようだ。	hint	[sound:a313588eed3e.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleご{{c1::ようだ}}。	exampleごようだ。	hint	[sound:a3784830b185.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleろく{{c1::ようだ}}。	exampleろくようだ。	hint	[sound:4a50f7cc7473.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleしち{{c1::ようだ}}。	exampleしちようだ。	hint	[sound:1c312556dadb.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleはち{{c1::ようだ}}。	exampleはちようだ。	hint	[sound:a06ca12a9c4b.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro
+exampleきゅう{{c1::ようだ}}。	exampleきゅうようだ。	hint	[sound:9e9909962435.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro

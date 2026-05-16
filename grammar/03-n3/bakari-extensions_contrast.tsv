@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
+#
+新入社員___、指導が重要だ。	だからこそ	だけに	だけに	Both emphasize reason, but ーだけに is more standard in N3 for 'precisely because'	だけに in modern Japanese grammar	[sound:316e63355613.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:low confusable-with:だからこそ
+今にも壊れん___の古い家。	ばかりでなく	ばかりに	ばかりに	ーんばかり = on verge of; ばかりでなく = not only	ばかりに for 'imminent state'	[sound:05b84e009db7.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:top10k confusable-with:ばかりでなく
+彼は遊んでばかり___。	いた	いる	いる	いる = habitual action; いた = past	Present continuous for habits	[sound:cbbf705ee980.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k complexity:intro confusable-with:いた
+その日ばかり___特別な事が起きた。	に	は	に	ばかりに marks the specific reason	ばかりに for emphasis of sole cause	[sound:a41199566133.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k confusable-with:は
+引っ越したばかり___、まだ片付けていない。	から	なので	なので	Both work, but ーたばかりなので is more natural	Recent action + consequence	[sound:c63fb2cfc4ee.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:low confusable-with:から
+兄は仕事をしてばかり___、遊ばない。	いて	いた	いて	いて = continuing action; いた = past habit	Continuous form for ongoing habits	[sound:0a037c9266ce.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:top1k confusable-with:いた
+去年の同期___が昇進した。	ばかり	だけ	ばかり	ばかり stronger exclusivity; だけ is weaker	ばかり emphasizes exclusive	[sound:c9c12a2510e1.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:low confusable-with:だけ
+彼の一言___みんなが笑った。	だけに	ばかりに	だけに	Both work; だけに more common in N3	だけに more standard modern usage	[sound:3e63b478da55.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:top10k confusable-with:ばかりに
+その音は天を揺るがん___の大きさだ。	ばかり	ほどに	ばかり	ばかりに = on verge; ほどに = degree	ばかり for 'as if on verge'	[sound:a626285341d9.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k frequency:low confusable-with:ほどに
+結婚したばかりに、{{c1::夫が病気}}になった。	夫が病気	病気で	夫が病気	Unfortunate consequence after marriage	Consequence with ばかりに	[sound:b721d41a8621.mp3]	module:03-n3 jlpt:n3 point:bakari-extensions complexity:standard frequency:top5k confusable-with:病気で

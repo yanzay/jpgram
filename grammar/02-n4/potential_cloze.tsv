@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+exampleぜろ{{c1::られる}}。	exampleぜろられる。	hint	[sound:bbaaada047d0.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleいち{{c1::られる}}。	exampleいちられる。	hint	[sound:19462cdee48f.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleに{{c1::られる}}。	exampleにられる。	hint	[sound:e71bf7847b83.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleさん{{c1::られる}}。	exampleさんられる。	hint	[sound:c3cac684e122.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleし{{c1::られる}}。	exampleしられる。	hint	[sound:91b357f4832b.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleご{{c1::られる}}。	exampleごられる。	hint	[sound:c56704850ead.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleろく{{c1::られる}}。	exampleろくられる。	hint	[sound:c074bee1a0a1.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleしち{{c1::られる}}。	exampleしちられる。	hint	[sound:411c113055f7.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleはち{{c1::られる}}。	exampleはちられる。	hint	[sound:2ef91fee8e14.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro
+exampleきゅう{{c1::られる}}。	exampleきゅうられる。	hint	[sound:27a944b5ee9c.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro

@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+exampleぜろ{{c1::よう}}と。	exampleぜろようと。	hint	[sound:f07b5027d2a5.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleいち{{c1::よう}}と。	exampleいちようと。	hint	[sound:847a2026ddea.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleに{{c1::よう}}と。	exampleにようと。	hint	[sound:d1accfee7fb1.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleさん{{c1::よう}}と。	exampleさんようと。	hint	[sound:1bc33fc8ee96.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+example{{c1::しよう}}と。	exampleしようと。	hint	[sound:3729d032b6f3.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleご{{c1::よう}}と。	exampleごようと。	hint	[sound:60dbe081a751.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleろく{{c1::よう}}と。	exampleろくようと。	hint	[sound:8cab0e521fe0.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleしち{{c1::よう}}と。	exampleしちようと。	hint	[sound:567fed9235b0.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleはち{{c1::よう}}と。	exampleはちようと。	hint	[sound:23271760deac.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:intro
+exampleきゅう{{c1::よう}}と。	exampleきゅうようと。	hint	[sound:0beebe9ea500.mp3]	module:02-n4 jlpt:n4 point:volitional complexity:standard

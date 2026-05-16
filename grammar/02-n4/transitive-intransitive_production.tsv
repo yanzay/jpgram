@@ -1,0 +1,26 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
+
+The door opens.	ドアが開く。	どあがひらく。	The door opens.	intransitive: door is subject	[sound:8c40430b080d.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+I open the door.	ドアを開ける。	どあをひらける。	I open the door.	transitive: I am agent	[sound:f4780fd6af0e.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The window closes.	窓が閉まる。	まどがしまる。	The window closes.	intransitive: window closes by itself	[sound:0e212137c105.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+He closes the window.	窓を閉める。	まどをしめる。	He closes the window.	transitive: he is agent	[sound:9b45edf2ce38.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The light turns on.	ライトが付く。	らいとがつく。	The light turns on.	intransitive: light becomes on	[sound:4127157966b6.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+She turns on the light.	ライトを付ける。	らいとをつける。	She turns on the light.	transitive: she controls light	[sound:98aa8b536e53.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The water boils.	水が沸く。	みずがわく。	The water boils.	intransitive: water reaches boiling point	[sound:5d862339fb87.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+I boil the water.	水を沸かす。	みずをわかす。	I boil the water.	transitive: I apply heat	[sound:ab713e555064.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The bread bakes.	パンが焼ける。	ぱんがやける。	The bread bakes.	intransitive: bread cooks from heat	[sound:4fb51ad833f6.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The chef bakes the bread.	シェフがパンを焼く。	しぇふがぱんをやく。	The chef bakes the bread.	transitive: chef is agent	[sound:e60ac72b4231.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The rope breaks.	ロープが切れる。	ろーぷがきれる。	The rope breaks.	intransitive: rope snaps	[sound:a1a58a82c0c0.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+I cut the rope.	ロープを切る。	ろーぷをきる。	I cut the rope.	transitive: I use scissors	[sound:b22f7d6ce979.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The flower blooms.	花が咲く。	はながさく。	The flower blooms.	intransitive: flower opens naturally	[sound:374e532af537.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The gardener plants flowers.	庭師が花を植える。	にわしがはなをうえる。	The gardener plants flowers.	transitive: planting action	[sound:fb58b261600c.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:advanced
+The ice melts.	氷が溶ける。	こおりがとける。	The ice melts.	intransitive: ice thaws	[sound:2314c4c91377.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The sun melts the ice.	太陽が氷を溶かす。	たいようがこおりをとかす。	The sun melts the ice.	transitive: sun causes melting	[sound:25716921ccc9.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+Smoke rises.	煙が立つ。	けむりがたつ。	Smoke rises.	intransitive: smoke ascends	[sound:eff8b2d9c885.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:intro
+The bonfire rises smoke.	焚き火が煙を立てる。	たきひがけむりをたてる。	The bonfire rises smoke.	transitive: fire creates smoke	[sound:60a87e745546.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+The rule is established.	ルールが決まる。	るーるがきまる。	The rule is established.	intransitive: decision is made	[sound:47939cc43988.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard
+We decide the rule.	ルールを決める。	るーるをきめる。	We decide the rule.	transitive: we make decision	[sound:d27ba60cf8e9.mp3]	module:02-n4 jlpt:n4 register:neutral point:transitive-intransitive pos:expr complexity:standard

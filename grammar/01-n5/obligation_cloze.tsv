@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::01 - N5 Grammar::Cloze
+#
+勉強しなければなり{{c1::ません}}。	べんきょうしなければなり{{c1::ません}}。	must study [obligation polite]	[sound:c3954962c209.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top1k complexity:intro
+行かなければなり{{c1::ません}}。	いかなければなり{{c1::ません}}。	must go	[sound:7c03577de07d.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
+寝ることが{{c1::必要}}です。	ねることが{{c1::ひつよう}}です。	sleeping is necessary	[sound:cd9517aa9ccc.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top5k complexity:intro
+遅刻してはいけ{{c1::ません}}。	ちこくしてはいけ{{c1::ません}}。	must not be late	[sound:3ab67a62b478.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top10k complexity:intro
+嘘をついてはいけ{{c1::ません}}。	うそをついてはいけ{{c1::ません}}。	must not lie	[sound:16d556170713.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top5k complexity:intro
+今日中に終わらせなければなり{{c1::ません}}。	きょうちゅうにおわらせなければなり{{c1::ません}}。	must finish today	[sound:0bcaffafa4e7.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top1k complexity:standard
+もっと勉強するべき{{c1::です}}。	もっとべんきょうするべき{{c1::です}}。	should study more	[sound:df60abead0ce.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top1k complexity:intro
+聞かなければなり{{c1::ません}}。	きかなければなり{{c1::ません}}。	must listen	[sound:833a5413bbab.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
+来なければなり{{c1::ません}}。	こなければなり{{c1::ません}}。	must come	[sound:f9b3436e2f48.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top10k complexity:intro
+謝るべき{{c1::です}}。	あやまるべき{{c1::です}}。	should apologize	[sound:7c256d1a04ef.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top5k complexity:intro
+登録することが{{c1::必須}}です。	とうろくすることが{{c1::ひっす}}です。	registration is required	[sound:20bf62cfc150.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:low complexity:intro
+規則を守らなければなり{{c1::ません}}。	きそくをまもらなければなり{{c1::ません}}。	must respect rules	[sound:3222ee120303.mp3]	module:01-n5 jlpt:n5 point:obligation frequency:top5k complexity:standard
+食べてはいけ{{c1::ません}}。	たべてはいけ{{c1::ません}}。	must not eat	[sound:c3d80c575030.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
+知っているべき{{c1::です}}。	しっているべき{{c1::です}}。	should know	[sound:6ead03973991.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
+残らなければなり{{c1::ませんでした}}。	のこらなければなり{{c1::ませんでした}}。	had to stay [past]	[sound:cc665ce74f55.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro

@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
+#
+彼は今、食べているところ{{c1::だ}}。	かれはいま、たべているところ{{c1::だ}}。	in process	[sound:85fc8ad0ca67.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k
+今から映画を見る{{c1::ところだ}}。	いまからえいがをみる{{c1::ところだ}}。	about to watch	[sound:2825079eb5d6.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top1k complexity:intro
+{{c1::食べたところだ}}。	{{c1::たべたところだ}}。	just finished eating	[sound:dfcc5f7cf39e.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k complexity:intro
+入ってきたところへ、{{c1::彼が現れた}}。	いっってきたところへ、{{c1::かれがあらわれた}}。	he appeared	[sound:e2ab49a1fa74.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top10k complexity:intro
+買ったところの{{c1::本}}。	かったところの{{c1::ほん}}。	book	[sound:f5be649f8dc4.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top1k complexity:intro
+{{c1::読んでいるところ}}。	{{c1::よんでいるところ}}。	reading	[sound:771c0ce0422d.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k complexity:intro
+その重要な{{c1::ところを}}見落とした。	そのじゅうような{{c1::ところを}}みおとした。	critical point	[sound:7e800e61e47f.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top10k complexity:intro
+来たところまで{{c1::説明した}}。	きたところまで{{c1::せつめいした}}。	explained	[sound:6ebbacc4c415.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top10k complexity:intro
+朝食をとったところ、{{c1::満腹になった}}。	ちょうしょくをとったところ、{{c1::まんぷくになった}}。	became full	[sound:236e1681c7ab.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top10k complexity:intro
+その点を{{c1::除く}}。	そのてんを{{c1::のぞく}}。	exclude	[sound:768a5fc91586.mp3]	module:03-n3 jlpt:n3 point:tokoro-n3 complexity:standard frequency:top5k frequency:top10k complexity:intro

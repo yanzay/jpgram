@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+exampleぜろ{{c1::ところ}}だ。	exampleぜろところだ。	hint	[sound:4cac1705553f.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleいち{{c1::ところ}}だ。	exampleいちところだ。	hint	[sound:ddf16a8d37da.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleに{{c1::ところ}}だ。	exampleにところだ。	hint	[sound:7cb3e8314917.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleさん{{c1::ところ}}だ。	exampleさんところだ。	hint	[sound:d86afb5d9307.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleし{{c1::ところ}}だ。	exampleしところだ。	hint	[sound:90400c27972c.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleご{{c1::ところ}}だ。	exampleごところだ。	hint	[sound:b584044f8553.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleろく{{c1::ところ}}だ。	exampleろくところだ。	hint	[sound:4c8bbbb221e2.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleしち{{c1::ところ}}だ。	exampleしちところだ。	hint	[sound:65186d23e5e7.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleはち{{c1::ところ}}だ。	exampleはちところだ。	hint	[sound:03aa5e49017c.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro
+exampleきゅう{{c1::ところ}}だ。	exampleきゅうところだ。	hint	[sound:3b50b09c964c.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:standard

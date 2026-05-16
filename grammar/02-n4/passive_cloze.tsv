@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+exampleぜろ{{c1::られた}}。	exampleぜろられた。	hint	[sound:eda803d38ca5.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleいち{{c1::られた}}。	exampleいちられた。	hint	[sound:fbd49c04d495.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleに{{c1::られた}}。	exampleにられた。	hint	[sound:e01889254860.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleさん{{c1::られた}}。	exampleさんられた。	hint	[sound:00d4b36444f7.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleし{{c1::られた}}。	exampleしられた。	hint	[sound:e34970108752.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleご{{c1::られた}}。	exampleごられた。	hint	[sound:b312c8985752.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleろく{{c1::られた}}。	exampleろくられた。	hint	[sound:6225bff21431.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleしち{{c1::られた}}。	exampleしちられた。	hint	[sound:9a482f0986c1.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleはち{{c1::られた}}。	exampleはちられた。	hint	[sound:8447b64353fa.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleきゅう{{c1::られた}}。	exampleきゅうられた。	hint	[sound:f107fefb3c37.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleいちぜろ{{c1::られた}}。	exampleいちぜろられた。	hint	[sound:d7a7566284f1.mp3]	module:02-n4 jlpt:n4 point:passive complexity:standard
+exampleいちいち{{c1::られた}}。	exampleいちいちられた。	hint	[sound:7ec9ad58c2ff.mp3]	module:02-n4 jlpt:n4 point:passive complexity:standard
+exampleいちに{{c1::られた}}。	exampleいちにられた。	hint	[sound:27f40441d4a5.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro
+exampleいちさん{{c1::られた}}。	exampleいちさんられた。	hint	[sound:867993c11d5f.mp3]	module:02-n4 jlpt:n4 point:passive complexity:standard
+exampleいちし{{c1::られた}}。	exampleいちしられた。	hint	[sound:343d3011b7f8.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro

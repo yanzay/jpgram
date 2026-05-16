@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
+#
+静かな vs 静かだ vs 静かに	な	だ	に	な=attributive; だ=plain predicate; に=adverbial	Different forms	[sound:71d38c4cb6e7.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top1k complexity:standard
+綺麗な人 vs 綺麗な話	Both use な	Both OK	Both OK	na-adj can attribute to both	Attribute use	[sound:420cf30f23d9.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top1k complexity:intro confusable-with:Both-use-な
+静か{{c1::な}}部屋 vs 静かな{{c1::部屋}}	な	です	な	な connects adj to noun; です not before noun	Before noun: な	[sound:ddce9c8d2d2d.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top1k complexity:intro confusable-with:です
+健康な vs 健康{{c1::です}}	な	です	です	な=attributive; です=predicate after noun	After noun: です	[sound:ec01f1d0a22d.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top10k complexity:intro confusable-with:な
+親切な人 vs あの人は親切{{c1::です}}	な	です	です	親切+な+noun vs noun+は+親切+です	After noun: です	[sound:8d0d1d257b13.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top5k complexity:standard confusable-with:な
+簡単な vs 簡単に	な	に	に	な=before noun; に=adverbial/manner	Manner/adverbial: に	[sound:799addffd525.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top5k complexity:intro confusable-with:な
+楽しい vs 楽し{{c1::かったです}}	い	かったです	かったです	楽しい is i-adj; uses かった for past	i-adj past: かった	[sound:0459e4600511.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top10k complexity:intro confusable-with:い
+必要だ vs 必要{{c1::です}}	だ	です	です	だ=plain; です=polite	Polite: です	[sound:8cb3be52d6b9.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top5k complexity:intro confusable-with:だ
+静かだった vs 静かだ{{c1::ったです}}	だった	ったです	ったです	だった=plain past; ったです=polite past	Polite past: ったです	[sound:5eea1d1acc80.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top1k complexity:intro confusable-with:だった
+特別な事 vs {{c1::特別}}です	な	です	です	前:attributive; 後:predicate	Predicate: です	[sound:e3b1290040ae.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top5k complexity:intro confusable-with:な
+きれいな vs きれい{{c1::だ}}	な	だ	だ	Both forms possible; は+です/だ more natural	Predicate: です/だ	[sound:61ff8185f457.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:intro confusable-with:な
+現代的な vs 現代的{{c1::です}}	な	です	です	な=attributive; です=polite predicate	Polite: です	[sound:c787617e4375.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top10k complexity:intro confusable-with:な
+便利な世界 vs 便利だ{{c1::ったことがない}}	な	だった	だった	便利 is na-adj; past plain=だった	Past: だった	[sound:4f4072fedea2.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top5k complexity:intro confusable-with:な
+重要な vs 重要{{c1::だ}}	な	だ	だ	前:attributive; 後:plain predicate	Plain predicate: だ	[sound:e9b0d755b901.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top10k complexity:intro confusable-with:な
+自然な vs 自然に{{c1::起きました}}	な	に	に	な=attributive; に=adverbial (manner)	Adverbial: に	[sound:4779fa1b7eb5.mp3]	module:01-n5 jlpt:n5 point:na-adjectives frequency:top10k complexity:intro confusable-with:な

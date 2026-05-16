@@ -1,0 +1,26 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+exampleぜろ{{c1::ている}}。	exampleぜろている。	hint	[sound:e79991ec8ea1.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleいち{{c1::ている}}。	exampleいちている。	hint	[sound:78f3ff3b3251.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleに{{c1::ている}}。	exampleにている。	hint	[sound:082518b3f0f0.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleさん{{c1::ている}}。	exampleさんている。	hint	[sound:a15b3bd125c1.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleし{{c1::ている}}。	exampleしている。	hint	[sound:de03e658c012.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleご{{c1::ている}}。	exampleごている。	hint	[sound:bcdf58fd7184.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleろく{{c1::ている}}。	exampleろくている。	hint	[sound:efe2ba32ab1a.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleしち{{c1::ている}}。	exampleしちている。	hint	[sound:ee57cb754e14.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleはち{{c1::ている}}。	exampleはちている。	hint	[sound:d12984ad66e0.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleきゅう{{c1::ている}}。	exampleきゅうている。	hint	[sound:b3d13f2c887e.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleいちぜろ{{c1::ている}}。	exampleいちぜろている。	hint	[sound:d770e7c2ca57.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
+exampleいちいち{{c1::ている}}。	exampleいちいちている。	hint	[sound:b2891e90b840.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
+exampleいちに{{c1::ている}}。	exampleいちにている。	hint	[sound:63678a5ae56c.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleいちさん{{c1::ている}}。	exampleいちさんている。	hint	[sound:7937fe00295d.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
+exampleいちし{{c1::ている}}。	exampleいちしている。	hint	[sound:c546de4bd5a4.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleいちご{{c1::ている}}。	exampleいちごている。	hint	[sound:ead6b9462d22.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:intro
+exampleいちろく{{c1::ている}}。	exampleいちろくている。	hint	[sound:05690ec1fe01.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
+exampleいちしち{{c1::ている}}。	exampleいちしちている。	hint	[sound:5589702f9156.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
+exampleいちはち{{c1::ている}}。	exampleいちはちている。	hint	[sound:3343f9eb62ab.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
+exampleいちきゅう{{c1::ている}}。	exampleいちきゅうている。	hint	[sound:c019ef228a1c.mp3]	module:02-n4 jlpt:n4 point:te-aux-family complexity:standard
