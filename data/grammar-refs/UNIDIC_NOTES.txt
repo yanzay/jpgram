@@ -1,0 +1,12 @@
+UniDic-CWJ Full Dictionary
+Source: https://clrd.ninjal.ac.jp/unidic/
+License: CC-BY-SA-4.0
+Size: ~2 GB (compressed)
+Status: Not downloaded (too large for auto-fetch)
+
+Installation for users:
+  pip install unidic
+  python -m unidic download
+
+Our build currently ships with unidic-lite (~40 MB) for dictionary lookups.
+Full UniDic can be used for advanced morphological analysis if needed.
