@@ -141,7 +141,95 @@ def _iter_candidate_keys(token: str) -> Iterable[str]:
     # Remove braces and parenthetical hints if present in tokenized vocab.
     if "(" in token and ")" in token:
         keys.add(token.split("(", 1)[0].strip())
-    return [k for k in keys if k]
+    for c in _deinflect_candidates(token):
+        keys.add(c)
+        keys.add(_to_hiragana(c))
+    # Longest-first lookup helps prefer full dictionary forms over short particles.
+    return sorted([k for k in keys if k], key=len, reverse=True)
+
+
+def _deinflect_candidates(token: str) -> list[str]:
+    """Return heuristic dictionary-form candidates for conjugated tokens.
+
+    This is intentionally conservative-but-broad: it emits multiple candidates for
+    ambiguous godan endings and lets source lookups choose valid hits.
+    """
+    t = _normalize_token(token)
+    out = {t}
+
+    # Common polite/auxiliary tails.
+    tail_rules = [
+        ("ませんでした", "る"),
+        ("ません", "る"),
+        ("ました", "る"),
+        ("たいです", "る"),
+        ("たくない", "る"),
+        ("たかった", "る"),
+        ("ないです", "る"),
+        ("なかった", "る"),
+        ("なくて", "る"),
+        ("ない", "る"),
+        ("られた", "る"),
+        ("られる", "る"),
+        ("させた", "す"),
+        ("させる", "す"),
+    ]
+    for old, new in tail_rules:
+        if t.endswith(old) and len(t) > len(old):
+            out.add(t[: -len(old)] + new)
+
+    # i-adjective conjugations.
+    iadj_rules = [
+        ("くなかった", "い"),
+        ("かった", "い"),
+        ("くない", "い"),
+        ("くて", "い"),
+    ]
+    for old, new in iadj_rules:
+        if t.endswith(old) and len(t) > len(old):
+            out.add(t[: -len(old)] + new)
+
+    # Irregulars.
+    irr = {
+        "した": "する",
+        "して": "する",
+        "しない": "する",
+        "しなかった": "する",
+        "きた": "くる",
+        "きて": "くる",
+        "こない": "くる",
+        "こなかった": "くる",
+    }
+    if t in irr:
+        out.add(irr[t])
+
+    # Godan/ichidan plain past -> dictionary candidates.
+    past_rules = [
+        ("った", ["う", "つ", "る"]),
+        ("んだ", ["む", "ぶ", "ぬ"]),
+        ("いた", ["く"]),
+        ("いだ", ["ぐ"]),
+        ("した", ["す"]),
+        ("た", ["る"]),   # ichidan-style fallback
+        ("て", ["る"]),   # ichidan-style fallback
+    ]
+    te_rules = [
+        ("って", ["う", "つ", "る"]),
+        ("んで", ["む", "ぶ", "ぬ"]),
+        ("いて", ["く"]),
+        ("いで", ["ぐ"]),
+        ("して", ["す"]),
+    ]
+    for old, news in past_rules + te_rules:
+        if t.endswith(old) and len(t) > len(old):
+            stem = t[: -len(old)]
+            for n in news:
+                out.add(stem + n)
+
+    # Keep candidate set bounded to avoid noisy lookups.
+    candidates = [c for c in out if c and c != token]
+    candidates = sorted(set(candidates), key=len, reverse=True)
+    return candidates[:24]
 
 
 def _load_overrides() -> dict[str, dict]:
