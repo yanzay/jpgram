@@ -1,0 +1,36 @@
+name: pitchaccent-coverage
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "build_pitchaccent.py"
+      - "validate_pitchaccent_coverage.py"
+      - "build_furigana.py"
+      - "data/pitch-accent/**"
+      - "data/accents.sqlite"
+      - "media/words_index.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build pitch-accent index
+        run: python build_pitchaccent.py
+
+      - name: Enforce coverage gates
+        run: |
+          python validate_pitchaccent_coverage.py \
+            --min-coverage 8 \
+            --min-weighted-coverage 15 \
+            --min-lexical-coverage 9 \
+            --min-lexical-weighted-coverage 14 \
+            --max-conflicts 2000

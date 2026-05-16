@@ -74,8 +74,32 @@ python build_anki_package.py
 verification:
 * placeholder audio refs (`[sound:WAVE0_PLACEHOLDER.mp3]`) reach `grammar/`
 * a TSV's header doesn't match its `NOTE_TYPES` schema
-* unresolved audio references are reported during validation (build continues)
+* unresolved audio references are treated as hard failures
 * the packaged `.apkg`'s media manifest contains a dangling reference
+
+### Pitch-accent reliability workflow
+
+Use this loop to keep pitch-accent coverage deterministic and measurable:
+
+```bash
+# 1) Rebuild token inventory and pitch index
+python build_furigana.py
+python build_pitchaccent.py
+
+# 2) Enforce baseline quality gates
+python validate_pitchaccent_coverage.py \
+  --min-coverage 8 \
+  --min-weighted-coverage 15 \
+  --min-lexical-coverage 9 \
+  --min-lexical-weighted-coverage 14 \
+  --max-conflicts 2000
+```
+
+Operational notes:
+* Add human-reviewed corrections to `data/pitch-accent/overrides.json`.
+* `build_pitchaccent.py` writes `research-reports/pitchaccent_coverage_report.md`
+  with missing/conflict queues ranked by token frequency.
+* CI runs the same gate via `.github/workflows/pitchaccent-coverage.yml`.
 
 ## Deck hierarchy
 
