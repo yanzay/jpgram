@@ -30,3 +30,14 @@ research-reports/
 # Research-time scratch directories
 anki_decks/
 anki_package_import/
+
+# Large learner-side data files (dictionaries, pitch accent, corpora, freq lists).
+# The per-subdir READMEs + MANIFESTs are whitelisted in data/.gitignore so the
+# documentation tracks in git but the multi-GB blobs do not.
+data/*
+!data/.gitignore
+!data/README.md
+!data/*/
+data/*/*
+!data/*/README.md
+!data/*/MANIFEST.md

@@ -27,6 +27,8 @@ endings still alive in formal modern Japanese, and idiomatic
 | `validate_apkg.py` | Post-build integrity check on the packaged `.apkg` |
 | `apply_taxonomy_tags.py` | Auto-injects `register:* / jlpt:* / module:* / point:*` tags |
 | `requirements.txt` | Pinned Python deps (tier-1 / tier-2 marked) |
+| `setup_data.sh` | One-shot downloader for all external resources (idempotent, ~54 MB) |
+| `data/README.md` | Map of all external resources + per-subdir READMEs/MANIFESTs |
 | `grammar/` | One subdirectory per module; each contains TSVs |
 | `draft/` | Schema-only example TSVs, one per note type — NOT shipped |
 | `media/audio/` | Generated MP3s — gitignored, restorable via `build_audio.py` |
@@ -40,6 +42,12 @@ endings still alive in formal modern Japanese, and idiomatic
 # 1. Install deps (first time only)
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+
+# 1a. (Optional, recommended) Pull external data resources
+# Downloads ~54 MB into data/ — JMdict, KANJIDIC2, Kanjium + NHK pitch
+# accent, JLPT vocab, kanji frequency lists, grammar-ref HTML caches.
+# Idempotent. See data/README.md for details + per-file manifests.
+bash setup_data.sh
 
 # 2. Inject taxonomy tags + validate corpus
 python apply_taxonomy_tags.py
