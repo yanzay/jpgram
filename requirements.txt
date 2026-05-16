@@ -1,0 +1,7 @@
+google-cloud-texttospeech>=2.16.0   # for build_audio.py
+anki>=24.0
+zstandard>=0.22
+pykakasi>=2.2.1                     # for furigana / romaji generation
+fugashi>=1.3.0                      # MeCab tokenizer
+unidic-lite>=1.0.8                  # tokenizer dictionary
+jaconv>=0.3.4                       # kana <-> romaji conversions
