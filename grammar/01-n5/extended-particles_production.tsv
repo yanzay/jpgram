@@ -4,18 +4,19 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Add は for topic: 私___学生です	は	わたしは	I am a student [topic]	は = topic particle	[sound:6f3fff9225e5.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add が for subject: 誰___来ましたか	が	だれが	Who came? [subject]	が = subject particle	[sound:b764ad263fc4.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add に for target: 友達___会いました	に	ともだちに	Met a friend [target]	に = goal/target	[sound:1012580c433e.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add を for object: 本___読みました	を	ほんを	Read a book [object]	を = object particle	[sound:f0c3f84cf59e.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add で for means: ペン___書いてください	で	ぺんで	Write with a pen [means]	で = means/tool	[sound:116f37cbb571.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add まで for endpoint: 東京___バスで行きます	まで	とうきょうまで	Go to Tokyo [endpoint]	まで = up to	[sound:6ab9168aa32d.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add から for start: 月曜日___始まります	から	げつようび	Starts from Monday [start]	から = from/since	[sound:c36beac0dcd9.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add と for and: 私___兄___三人です	と	わたし...あに	Me and my brother [and]	と = and	[sound:5c18c34355b0.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add に for destination: 毎日学校___行きます	に	まいにちがっこう	Go to school [destination]	に = destination	[sound:cdb18438f2f6.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add から for source: 友達___手紙をもらいました	から	ともだち	Received letter from friend [source]	から = from	[sound:1090a1cc322c.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:advanced source:shin-kanzen
-Add で for location: 公園___遊びました	で	こうえん	Played in park [location]	で = location	[sound:17b3aa914719.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add と for accompaniment: 家族___行きました	と	かぞく	Went with family [with]	と = with/together	[sound:7043c29fba5a.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add の for possession: 彼の___本です	の	かれの	His book [possession]	の = possession	[sound:60687d84cd35.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add も for also: 私___学生です	も	わたしも	I am also a student [also]	も = also/too	[sound:30c7fdf30edd.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
-Add ね for emphasis: 天気___いいですね	は	てんき	The weather is nice [topic]	は = topic	[sound:576543a9776e.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen
+
+Add は for topic: 私___学生です	は	わたしは	は	は = topic particle	[sound:1fa0519cfd09.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add が for subject: 誰___来ましたか	が	だれが	が	が = subject particle	[sound:a142816563b3.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add に for target: 友達___会いました	に	ともだちに	に	に = goal/target	[sound:de3d1ecc94b2.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add を for object: 本___読みました	を	ほんを	を	を = object particle	[sound:eba95ba0c666.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add で for means: ペン___書いてください	で	ぺんで	で	で = means/tool	[sound:7350618fcec3.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add まで for endpoint: 東京___バスで行きます	まで	とうきょうまで	まで	まで = up to	[sound:50bd04b02e14.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add から for start: 月曜日___始まります	から	げつようび	から	から = from/since	[sound:32c7a85f193a.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add と for and: 私___兄___三人です	と	わたし...あに	と	と = and	[sound:a986a7bc9e03.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add に for destination: 毎日学校___行きます	に	まいにちがっこう	に	に = destination	[sound:de3d1ecc94b2.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add から for source: 友達___手紙をもらいました	から	ともだち	から	から = from	[sound:32c7a85f193a.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:advanced source:shin-kanzen complexity:intro
+Add で for location: 公園___遊びました	で	こうえん	で	で = location	[sound:7350618fcec3.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add と for accompaniment: 家族___行きました	と	かぞく	と	と = with/together	[sound:a986a7bc9e03.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add の for possession: 彼の___本です	の	かれの	の	の = possession	[sound:56377d14d4ef.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add も for also: 私___学生です	も	わたしも	も	も = also/too	[sound:3c6945772d72.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro
+Add ね for emphasis: 天気___いいですね	は	てんき	は	は = topic	[sound:1fa0519cfd09.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard source:shin-kanzen complexity:intro

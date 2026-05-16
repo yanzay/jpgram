@@ -4,13 +4,13 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-exampleぜろ{{c1::ところ}}だ。	exampleぜろところだ。	hint	[sound:4cac1705553f.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleいち{{c1::ところ}}だ。	exampleいちところだ。	hint	[sound:ddf16a8d37da.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleに{{c1::ところ}}だ。	exampleにところだ。	hint	[sound:7cb3e8314917.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleさん{{c1::ところ}}だ。	exampleさんところだ。	hint	[sound:d86afb5d9307.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleし{{c1::ところ}}だ。	exampleしところだ。	hint	[sound:90400c27972c.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleご{{c1::ところ}}だ。	exampleごところだ。	hint	[sound:b584044f8553.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleろく{{c1::ところ}}だ。	exampleろくところだ。	hint	[sound:4c8bbbb221e2.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleしち{{c1::ところ}}だ。	exampleしちところだ。	hint	[sound:65186d23e5e7.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleはち{{c1::ところ}}だ。	exampleはちところだ。	hint	[sound:03aa5e49017c.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:intro source:shin-kanzen
-exampleきゅう{{c1::ところ}}だ。	exampleきゅうところだ。	hint	[sound:3b50b09c964c.mp3]	module:02-n4 jlpt:n4 point:tokoro-aspectual complexity:standard source:shin-kanzen
+{{c1::今出発するところです。}}	いまいではっするところです。	immediate future with するところ	[sound:06913c2855cd.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::彼は食べているところです。}}	かれはたべているところです。	ongoing action with しているところ	[sound:02e86f267478.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::会議を終わったところです。}}	かいぎをおわったところです。	just completed with したところ	[sound:72367c8b5cda.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::大学を卒業したばかりです。}}	だいがくをそつぎょうしたばかりです。	very recent action with したばかり	[sound:50886ceb3b98.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:advanced source:shin-kanzen frequency:top5k complexity:intro
+{{c1::電車が発車するところです。}}	でんしゃがはっしゃするところです。	imminent future	[sound:e8b8f07ea15a.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::計画について議論しているところです。}}	けいかくについてぎろんしているところです。	active discussion	[sound:7f907c6b8da8.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::目が覚めたところです。}}	めがさめたところです。	recent awakening	[sound:27e20415451c.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::仕事を終わらせたばかりです。}}	しごとをおわらせたばかりです。	recent completion	[sound:8ddc700aabac.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::ショーが始まるところです。}}	しょーがはじまるところです。	imminent start	[sound:de0f877d6ea5.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
+{{c1::レポートを書いているところです。}}	れぽーとをかいているところです。	ongoing writing	[sound:af50989ea295.mp3]	module:02-n4 jlpt:n4 register:neutral point:tokoro-aspectual pos:expr complexity:advanced source:shin-kanzen complexity:intro

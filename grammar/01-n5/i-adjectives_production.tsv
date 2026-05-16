@@ -4,18 +4,19 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Say 'it is hot' (polite).	暑いです。	あついです。	It is hot [polite]	i-adj + です	[sound:567f948cffb7.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'it was hot' (polite past).	暑かったです。	あつかったです。	It was hot [polite past]	i-adj-past + です	[sound:5d4ba6535ea5.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'it is not hot' (polite negative).	暑くないです。	あつくないです。	Not hot [negative]	i-adj negative = くない	[sound:88e4878464b0.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'it is good' (polite).	いいです。	いいです。	It is good [irregular]	いい is irregular	[sound:6f4ee2b2f116.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'it was good' (polite past).	よかったです。	よかったです。	It was good [past]	いい → よかった	[sound:ad6aa8c7297b.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'book is interesting' (polite).	本は面白いです。	ほんはおもしろいです。	Book is interesting	i-adj + です	[sound:ba21a072665e.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'movie was long' (polite past).	映画は長かったです。	えいがはながかったです。	Movie was long [past]	long → かった	[sound:329f041d8ded.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'room is not bright' (polite neg).	部屋は明るくないです。	へやはあかるくないです。	Room not bright	bright → くない	[sound:c194ea34a70a.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'coffee is cold' (polite).	このコーヒーは冷たいです。	このこーひーはつめたいです。	Coffee is cold	cold → い	[sound:182f7220a673.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'weather will be nice'.	天気はいいでしょう。	てんきはいいでしょう。	Weather probably nice	i-adj + でしょう	[sound:72dcba59f5cf.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'path is narrow' (polite).	道は狭いです。	みちはせまいです。	Path is narrow	narrow → い	[sound:442849b394d3.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'food is delicious' (polite).	食べ物はおいしいです。	たべものはおいしいです。	Food is delicious	delicious (i-adj)	[sound:90725140cc5e.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'it is expensive' (polite).	高いです。	たかいです。	It is expensive	expensive → い	[sound:6ee39a4f8ad4.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'it was cheap' (polite past).	安かったです。	やすかったです。	It was cheap [past]	cheap → かった	[sound:2a4c6734c549.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
-Say 'work is difficult' (polite).	仕事は難しいです。	しごとはむずかしいです。	Work is difficult	difficult → い	[sound:712960db0181.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen
+
+Say 'it is hot' (polite).	暑いです。	あついです。	暑いです。	i-adj + です	[sound:685082d0018b.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'it was hot' (polite past).	暑かったです。	あつかったです。	暑かったです。	i-adj-past + です	[sound:b184715a9d8a.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen complexity:intro
+Say 'it is not hot' (polite negative).	暑くないです。	あつくないです。	暑くないです。	i-adj negative = くない	[sound:e7426b7c788b.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen complexity:intro
+Say 'it is good' (polite).	いいです。	いいです。	いいです。	いい is irregular	[sound:f78086ad19e3.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen complexity:intro
+Say 'it was good' (polite past).	よかったです。	よかったです。	よかったです。	いい → よかった	[sound:cdbcbfe58add.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen complexity:intro
+Say 'book is interesting' (polite).	本は面白いです。	ほんはおもしろいです。	本は面白いです。	i-adj + です	[sound:0d3512d7f97d.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'movie was long' (polite past).	映画は長かったです。	えいがはながかったです。	映画は長かったです。	long → かった	[sound:114831d1ea1b.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'room is not bright' (polite neg).	部屋は明るくないです。	へやはあかるくないです。	部屋は明るくないです。	bright → くない	[sound:68531c05c482.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'coffee is cold' (polite).	このコーヒーは冷たいです。	このこーひーはつめたいです。	このコーヒーは冷たいです。	cold → い	[sound:1a19e5151dcf.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k
+Say 'weather will be nice'.	天気はいいでしょう。	てんきはいいでしょう。	天気はいいでしょう。	i-adj + でしょう	[sound:437c3bbe1756.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'path is narrow' (polite).	道は狭いです。	みちはせまいです。	道は狭いです。	narrow → い	[sound:7ca3bdaf4bab.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'food is delicious' (polite).	食べ物はおいしいです。	たべものはおいしいです。	食べ物はおいしいです。	delicious (i-adj)	[sound:a008b2178469.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'it is expensive' (polite).	高いです。	たかいです。	高いです。	expensive → い	[sound:f4f709d9edf9.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'it was cheap' (polite past).	安かったです。	やすかったです。	安かったです。	cheap → かった	[sound:15c5b649ebe0.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen complexity:intro
+Say 'work is difficult' (polite).	仕事は難しいです。	しごとはむずかしいです。	仕事は難しいです。	difficult → い	[sound:13048852982c.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard source:shin-kanzen frequency:top1k complexity:intro

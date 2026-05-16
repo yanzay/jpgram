@@ -1,6 +1,731 @@
 {
   "source": "https://www.tofugu.com/japanese-grammar/",
-  "note": "Parsed from Tofugu grammar guide TOC",
-  "entries": [],
-  "parsing_status": "manual-verification-needed"
+  "generated_from": "data/grammar-refs/tofugu_grammar_toc.html",
+  "entries": [
+    {
+      "slug": "verb-conjugation-groups",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "transitivity",
+      "url": "https://www.tofugu.com/japanese-grammar/transitivity/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "sentences-and-clauses",
+      "url": "https://www.tofugu.com/japanese-grammar/sentences-and-clauses/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "plural-and-quantity",
+      "url": "https://www.tofugu.com/japanese-grammar/plural-and-quantity/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "personal-pronouns",
+      "url": "https://www.tofugu.com/japanese-grammar/personal-pronouns/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "numbers-and-counters",
+      "url": "https://www.tofugu.com/japanese-grammar/numbers-and-counters/",
+      "mapped_point_candidates": [
+        "counters"
+      ]
+    },
+    {
+      "slug": "noun",
+      "url": "https://www.tofugu.com/japanese-grammar/noun/",
+      "mapped_point_candidates": [
+        "relative-nouns",
+        "l1-pronoun-overuse"
+      ]
+    },
+    {
+      "slug": "na-adjective",
+      "url": "https://www.tofugu.com/japanese-grammar/na-adjective/",
+      "mapped_point_candidates": [
+        "na-adjectives"
+      ]
+    },
+    {
+      "slug": "kosoado",
+      "url": "https://www.tofugu.com/japanese-grammar/kosoado/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective/",
+      "mapped_point_candidates": [
+        "i-adjectives"
+      ]
+    },
+    {
+      "slug": "date-and-time",
+      "url": "https://www.tofugu.com/japanese-grammar/date-and-time/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "adjective-suffix-sa",
+      "url": "https://www.tofugu.com/japanese-grammar/adjective-suffix-sa/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "adjective-sou",
+      "url": "https://www.tofugu.com/japanese-grammar/adjective-sou/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "adjective-suffix-mi",
+      "url": "https://www.tofugu.com/japanese-grammar/adjective-suffix-mi/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-command-form-ro",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-command-form-ro/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "conjunctive-particle-node",
+      "url": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-node/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "conjunctive-particle-noni",
+      "url": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-noni/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "conjunctive-particle-ga-kedo",
+      "url": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-ga-kedo/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "first-person-pronouns",
+      "url": "https://www.tofugu.com/japanese-grammar/first-person-pronouns/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "honorific-prefix-o-go",
+      "url": "https://www.tofugu.com/japanese-grammar/honorific-prefix-o-go/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-ka",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ka/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-kara",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-kara/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-ga",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ga/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-de",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-de/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-to",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-to/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-to",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-to/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-ni",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ni/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-ne",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ne/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-no-nominalizer",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-no-nominalizer/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-no-noun-modifier",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-no-noun-modifier/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-wa",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-wa/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-he",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-he/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-made",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-made/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-mo",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-mo/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-ya",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ya/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-yo",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yo/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-yone",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yone/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-yori-than",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yori-than/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-yori-from",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yori-from/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "sentence-ending-particle-wa",
+      "url": "https://www.tofugu.com/japanese-grammar/sentence-ending-particle-wa/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "particle-wo",
+      "url": "https://www.tofugu.com/japanese-grammar/particle-wo/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "plural-suffix",
+      "url": "https://www.tofugu.com/japanese-grammar/plural-suffix/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "question-words",
+      "url": "https://www.tofugu.com/japanese-grammar/question-words/",
+      "mapped_point_candidates": [
+        "question-words"
+      ]
+    },
+    {
+      "slug": "second-person-pronouns",
+      "url": "https://www.tofugu.com/japanese-grammar/second-person-pronouns/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-stem-form-conjugation",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-stem-form-conjugation/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "third-person-pronouns",
+      "url": "https://www.tofugu.com/japanese-grammar/third-person-pronouns/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-plain-present-form",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-plain-present-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-sou",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-sou/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kamoshirenai",
+      "url": "https://www.tofugu.com/japanese-grammar/kamoshirenai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kotogaaru",
+      "url": "https://www.tofugu.com/japanese-grammar/kotogaaru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-causative-form-saseru",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-causative-form-saseru/",
+      "mapped_point_candidates": [
+        "causative"
+      ]
+    },
+    {
+      "slug": "shi",
+      "url": "https://www.tofugu.com/japanese-grammar/shi/",
+      "mapped_point_candidates": [
+        "bakari-dake-shika",
+        "dake-shika",
+        "taru-gotoki-mokushikuwa"
+      ]
+    },
+    {
+      "slug": "janai-dewanai",
+      "url": "https://www.tofugu.com/japanese-grammar/janai-dewanai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-past-ta-form",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-past-ta-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "tai-form",
+      "url": "https://www.tofugu.com/japanese-grammar/tai-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "tagaru-form",
+      "url": "https://www.tofugu.com/japanese-grammar/tagaru-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "takotogaaru",
+      "url": "https://www.tofugu.com/japanese-grammar/takotogaaru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "conditional-form-tara",
+      "url": "https://www.tofugu.com/japanese-grammar/conditional-form-tara/",
+      "mapped_point_candidates": [
+        "conditional"
+      ]
+    },
+    {
+      "slug": "tarisuru",
+      "url": "https://www.tofugu.com/japanese-grammar/tarisuru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "tearu",
+      "url": "https://www.tofugu.com/japanese-grammar/tearu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "teiku-tekuru",
+      "url": "https://www.tofugu.com/japanese-grammar/teiku-tekuru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-past-continuous-form-teita",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-past-continuous-form-teita/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-continuous-form-teiru",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-continuous-form-teiru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "teoku",
+      "url": "https://www.tofugu.com/japanese-grammar/teoku/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "tehoshii",
+      "url": "https://www.tofugu.com/japanese-grammar/tehoshii/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "temiru",
+      "url": "https://www.tofugu.com/japanese-grammar/temiru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "temoii",
+      "url": "https://www.tofugu.com/japanese-grammar/temoii/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "toiu",
+      "url": "https://www.tofugu.com/japanese-grammar/toiu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "toki",
+      "url": "https://www.tofugu.com/japanese-grammar/toki/",
+      "mapped_point_candidates": [
+        "taru-gotoki-mokushikuwa",
+        "taru-gotoki"
+      ]
+    },
+    {
+      "slug": "na",
+      "url": "https://www.tofugu.com/japanese-grammar/na/",
+      "mapped_point_candidates": [
+        "copula-janai",
+        "copula-denai",
+        "copula-janakatta",
+        "copula-denakatta",
+        "copula-nara"
+      ]
+    },
+    {
+      "slug": "verb-negative-nai-form",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-negative-nai-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-negative-past-nakatta-form",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-negative-past-nakatta-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "nagara",
+      "url": "https://www.tofugu.com/japanese-grammar/nagara/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-nagara",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-nagara/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-imperative-form-nasai",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-imperative-form-nasai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "nikui",
+      "url": "https://www.tofugu.com/japanese-grammar/nikui/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-conditional-form-ba",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-conditional-form-ba/",
+      "mapped_point_candidates": [
+        "conditional"
+      ]
+    },
+    {
+      "slug": "masu",
+      "url": "https://www.tofugu.com/japanese-grammar/masu/",
+      "mapped_point_candidates": [
+        "copula-degozaimasu",
+        "copula-demoarimasu",
+        "masu-stem",
+        "verb-masu"
+      ]
+    },
+    {
+      "slug": "yasui",
+      "url": "https://www.tofugu.com/japanese-grammar/yasui/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "verb-volitional-form-you",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-volitional-form-you/",
+      "mapped_point_candidates": [
+        "volitional"
+      ]
+    },
+    {
+      "slug": "verb-passive-form-rareru",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-passive-form-rareru/",
+      "mapped_point_candidates": [
+        "passive"
+      ]
+    },
+    {
+      "slug": "verb-potential-form-reru",
+      "url": "https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/",
+      "mapped_point_candidates": [
+        "potential"
+      ]
+    },
+    {
+      "slug": "juu",
+      "url": "https://www.tofugu.com/japanese-grammar/juu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "chuu",
+      "url": "https://www.tofugu.com/japanese-grammar/chuu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "amarinai",
+      "url": "https://www.tofugu.com/japanese-grammar/amarinai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-past-form-katta",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-past-form-katta/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-garu",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-garu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-ku-form",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-negative-form-kunai",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-negative-form-kunai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-conditional-form-kereba",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-conditional-form-kereba/",
+      "mapped_point_candidates": [
+        "conditional"
+      ]
+    },
+    {
+      "slug": "i-adjective-ku-form-adverb",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-adverb/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-ku-form-linking",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-linking/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "i-adjective-ku-form-noun",
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-noun/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "iru-aru",
+      "url": "https://www.tofugu.com/japanese-grammar/iru-aru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "uchi",
+      "url": "https://www.tofugu.com/japanese-grammar/uchi/",
+      "mapped_point_candidates": [
+        "uchi-aida",
+        "uchi-ni",
+        "temporal-na-uchini",
+        "aizuchi-back-channels",
+        "sfp-aizuchi-contrast"
+      ]
+    },
+    {
+      "slug": "kudasai",
+      "url": "https://www.tofugu.com/japanese-grammar/kudasai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kurai",
+      "url": "https://www.tofugu.com/japanese-grammar/kurai/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kureru-ageru-morau",
+      "url": "https://www.tofugu.com/japanese-grammar/kureru-ageru-morau/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "koitsu-soitsu-aitsu-doitsu",
+      "url": "https://www.tofugu.com/japanese-grammar/koitsu-soitsu-aitsu-doitsu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kou-sou-aa-dou",
+      "url": "https://www.tofugu.com/japanese-grammar/kou-sou-aa-dou/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "koko-soko-asoko-doko",
+      "url": "https://www.tofugu.com/japanese-grammar/koko-soko-asoko-doko/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kochira-sochira-achira-dochira",
+      "url": "https://www.tofugu.com/japanese-grammar/kochira-sochira-achira-dochira/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "koto",
+      "url": "https://www.tofugu.com/japanese-grammar/koto/",
+      "mapped_point_candidates": [
+        "koto-mono",
+        "koto-nominalisations",
+        "wake-koto-mono"
+      ]
+    },
+    {
+      "slug": "konata-sonata-anata-donata",
+      "url": "https://www.tofugu.com/japanese-grammar/konata-sonata-anata-donata/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kono-sono-ano-dono",
+      "url": "https://www.tofugu.com/japanese-grammar/kono-sono-ano-dono/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "kore-sore-are-dore",
+      "url": "https://www.tofugu.com/japanese-grammar/kore-sore-are-dore/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "konna-sonna-anna-donna",
+      "url": "https://www.tofugu.com/japanese-grammar/konna-sonna-anna-donna/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "sasuga",
+      "url": "https://www.tofugu.com/japanese-grammar/sasuga/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "sugiru",
+      "url": "https://www.tofugu.com/japanese-grammar/sugiru/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "suru",
+      "url": "https://www.tofugu.com/japanese-grammar/suru/",
+      "mapped_point_candidates": [
+        "verb-irregular-suru",
+        "o-stem-ni-naru-suru"
+      ]
+    },
+    {
+      "slug": "da",
+      "url": "https://www.tofugu.com/japanese-grammar/da/",
+      "mapped_point_candidates": [
+        "copula-da",
+        "copula-datta",
+        "bakari-dake-shika",
+        "dake-shika",
+        "evidentials-modality"
+      ]
+    },
+    {
+      "slug": "dake",
+      "url": "https://www.tofugu.com/japanese-grammar/dake/",
+      "mapped_point_candidates": [
+        "bakari-dake-shika",
+        "dake-shika",
+        "tokoro-bakari-dake"
+      ]
+    },
+    {
+      "slug": "datta",
+      "url": "https://www.tofugu.com/japanese-grammar/datta/",
+      "mapped_point_candidates": [
+        "copula-datta"
+      ]
+    },
+    {
+      "slug": "darou",
+      "url": "https://www.tofugu.com/japanese-grammar/darou/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "tsumori",
+      "url": "https://www.tofugu.com/japanese-grammar/tsumori/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "te-form",
+      "url": "https://www.tofugu.com/japanese-grammar/te-form/",
+      "mapped_point_candidates": [
+        "te-form"
+      ]
+    },
+    {
+      "slug": "deshita",
+      "url": "https://www.tofugu.com/japanese-grammar/deshita/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "deshou",
+      "url": "https://www.tofugu.com/japanese-grammar/deshou/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "desu",
+      "url": "https://www.tofugu.com/japanese-grammar/desu/",
+      "mapped_point_candidates": [
+        "copula-desu"
+      ]
+    },
+    {
+      "slug": "conditional-form-nara",
+      "url": "https://www.tofugu.com/japanese-grammar/conditional-form-nara/",
+      "mapped_point_candidates": [
+        "conditional"
+      ]
+    },
+    {
+      "slug": "naru",
+      "url": "https://www.tofugu.com/japanese-grammar/naru/",
+      "mapped_point_candidates": [
+        "o-stem-ni-naru-suru"
+      ]
+    },
+    {
+      "slug": "mada",
+      "url": "https://www.tofugu.com/japanese-grammar/mada/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "mou-little-more",
+      "url": "https://www.tofugu.com/japanese-grammar/mou-little-more/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "mou-already-not-anymore",
+      "url": "https://www.tofugu.com/japanese-grammar/mou-already-not-anymore/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "explanatory-nda-ndesu-noda-nodesu",
+      "url": "https://www.tofugu.com/japanese-grammar/explanatory-nda-ndesu-noda-nodesu/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "naka",
+      "url": "https://www.tofugu.com/japanese-grammar/naka/",
+      "mapped_point_candidates": [
+        "copula-janakatta",
+        "copula-denakatta"
+      ]
+    },
+    {
+      "slug": "mae-ushiro",
+      "url": "https://www.tofugu.com/japanese-grammar/mae-ushiro/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "jibun",
+      "url": "https://www.tofugu.com/japanese-grammar/jibun/",
+      "mapped_point_candidates": []
+    },
+    {
+      "slug": "iku-kuru",
+      "url": "https://www.tofugu.com/japanese-grammar/iku-kuru/",
+      "mapped_point_candidates": []
+    }
+  ],
+  "parsing_status": "parsed-from-local-cache"
 }

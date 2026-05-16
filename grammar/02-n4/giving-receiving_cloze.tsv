@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-exampleぜろ{{c1::くれた}}。	exampleぜろくれた。	hint	[sound:f9cb10faf925.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleいち{{c1::くれた}}。	exampleいちくれた。	hint	[sound:292b8aadf2b2.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleに{{c1::くれた}}。	exampleにくれた。	hint	[sound:7caf77baddbc.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleさん{{c1::くれた}}。	exampleさんくれた。	hint	[sound:bebf7eb9a512.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleし{{c1::くれた}}。	exampleしくれた。	hint	[sound:6b8ca6f78a12.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleご{{c1::くれた}}。	exampleごくれた。	hint	[sound:134270a2b0f8.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleろく{{c1::くれた}}。	exampleろくくれた。	hint	[sound:13995d6f21d4.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleしち{{c1::くれた}}。	exampleしちくれた。	hint	[sound:bef12e43b16b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleはち{{c1::くれた}}。	exampleはちくれた。	hint	[sound:744a38254680.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleきゅう{{c1::くれた}}。	exampleきゅうくれた。	hint	[sound:7375b1016e58.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleいちぜろ{{c1::くれた}}。	exampleいちぜろくれた。	hint	[sound:a7aeca0b6c3b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard source:shin-kanzen
-exampleいちいち{{c1::くれた}}。	exampleいちいちくれた。	hint	[sound:6dbfd94cc7d2.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard source:shin-kanzen
-exampleいちに{{c1::くれた}}。	exampleいちにくれた。	hint	[sound:1591fa230fab.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
-exampleいちさん{{c1::くれた}}。	exampleいちさんくれた。	hint	[sound:1cb352d58ab1.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard source:shin-kanzen
-exampleいちし{{c1::くれた}}。	exampleいちしくれた。	hint	[sound:2660d70d4ab4.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+{{c1::田中さんに本をあげた。}}	たなかさんにほんをあげた。	giving action with あげる	[sound:727a74464e5a.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::友達がボールペンをくれた。}}	ともだちがぼーるぺんをくれた。	receiving from peer with くれる	[sound:e0e2bcdd74a3.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::親からお金をもらった。}}	したしからおきんをもらった。	receiving with もらう	[sound:ed3cbace95d8.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::彼は妹にプレゼントをあげた。}}	かれはいもうとにぷれぜんとをあげた。	giving to family	[sound:11ff0e333fcd.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::先生が宿題をくれた。}}	せんせいがしゅくだいをくれた。	benefactive giving	[sound:265562ec72ff.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::この本を君にあげます。}}	このほんをくんにあげます。	future giving	[sound:8fd2ad497477.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::両親が腕時計をくれた。}}	りょうしんがうでどけいをくれた。	receiving from parents	[sound:e8dce9915823.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::電話番号をくれませんか。}}	でんわばんごうをくれませんか。	polite request for giving	[sound:69707af01e3d.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::祖母から手紙をもらった。}}	そぼからてがみをもらった。	receiving from elder	[sound:1ae854863c8a.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top5k complexity:intro
+{{c1::彼に書類をあげてください。}}	かれにしょるいをあげてください。	imperative giving	[sound:7e166b280b9f.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::兄は古い自転車をくれた。}}	あにはふるいじてんしゃをくれた。	family giving	[sound:86764800d386.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::明日は荷物をもらいます。}}	あしたはにもつをもらいます。	future receiving	[sound:27485de8c800.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::客がチップをくれた。}}	きゃくがちっぷをくれた。	service industry giving	[sound:374e318c06f2.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
+{{c1::提案をあげてもいいですか。}}	ていあんをあげてもいいですか。	offering giving	[sound:7db0c412c420.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::彼女はボーイフレンドから花をもらった。}}	かのじょはぼーいふれんどからはなをもらった。	romantic giving	[sound:e8f7a4e38193.mp3]	module:02-n4 jlpt:n4 register:neutral point:giving-receiving pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro

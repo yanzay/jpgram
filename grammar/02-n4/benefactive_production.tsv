@@ -4,18 +4,18 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Ask if I can teach you.	教えてあげましょうか？	おしえてあげましょうか？	Let me teach you.	offer favor	[sound:f2ffef491e8c.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Suggest helping with homework.	宿題を手伝ってあげましょう。	しゅくだいをてつだってあげましょう。	Let me help with homework.	favor offer	[sound:5a9689c8cef4.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Offer to carry luggage.	荷物を持ってあげましょうか？	にもつをもってあげましょうか？	Shall I carry it?	service offer	[sound:7181fab372ac.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Tell brother you'll do it.	兄さん、僕がやってあげるよ。	にいさん、ぼくがやってあげるよ。	Brother, I'll do it.	informal offer	[sound:9bfc56b8b7f2.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Ask mom to teach cooking.	お母さん、料理を教えてもらえますか？	おかあさん、りょうりをおしえてもらえますか？	Mom, teach me cooking?	request service	[sound:45bb2df61aa2.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Ask teacher to review essay.	先生、論文を見てもらってもいいですか？	せんせい、ろんぶんをみてもらってもいいですか？	Teacher, review my essay?	humble request	[sound:fee8a15f333c.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Tell friend you'll wait.	友達、ここで待ってあげるからね。	ともだち、ここでまってあげるからね。	Friend, I'll wait.	patience	[sound:2ed3d756bd6f.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Ask sister for homework help.	お姉さん、宿題を教えてもらいたい。	おねえさん、しゅくだいをおしえてもらいたい。	Sister, teach me homework.	humble request	[sound:ab0e08c33c4e.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Offer to explain to team.	皆さんに説明してあげましょう。	みなさんにせつめいしてあげましょう。	Let me explain to everyone.	group favor	[sound:8057833213a3.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Ask coworker to teach task.	先輩、仕事を教えてもらえますか？	せんぱい、しごとをおしえてもらえますか？	Senior, teach me this task.	workplace request	[sound:d235c36168a4.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Offer to pick up.	荷物を拾ってあげましょう。	にもつをひろってあげましょう。	Let me pick that up.	help	[sound:2dd323eabf3b.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Ask to receive advice.	アドバイスをもらってもいいですか？	あどばいすをもらってもいいですか？	May I receive advice?	request	[sound:180996146d8a.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Offer to carry books.	本を運んであげましょうか？	ほんをはこんであげましょうか？	Shall I carry books?	help	[sound:cbea98725614.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Ask mom to teach meal prep.	お母さん、お弁当の作り方を教えてもらいたいです。	おかあさん、おべんとうのつくりかたをおしえてもらいたいです。	Mom, teach me meal prep.	family	[sound:cc405284a64b.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
-Offer advice to junior.	アドバイスをあげましょうか？	あどばいすをあげましょうか？	Can I give advice?	mentor	[sound:d3c68f1011f6.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
+Ask if I can teach you.	教えてあげましょうか？	おしえてあげましょうか？	教えてあげましょうか？	offer favor	[sound:75289ac2cd60.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+Suggest helping with homework.	宿題を手伝ってあげましょう。	しゅくだいをてつだってあげましょう。	宿題を手伝ってあげましょう。	favor offer	[sound:83f0df4bd83b.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top1k
+Offer to carry luggage.	荷物を持ってあげましょうか？	にもつをもってあげましょうか？	荷物を持ってあげましょうか？	service offer	[sound:37b387080d05.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top1k
+Tell brother you'll do it.	兄さん、僕がやってあげるよ。	にいさん、ぼくがやってあげるよ。	兄さん、僕がやってあげるよ。	informal offer	[sound:3ee4f2582e94.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top5k
+Ask mom to teach cooking.	お母さん、料理を教えてもらえますか？	おかあさん、りょうりをおしえてもらえますか？	お母さん、料理を教えてもらえますか？	request service	[sound:2761dca35a43.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top10k
+Ask teacher to review essay.	先生、論文を見てもらってもいいですか？	せんせい、ろんぶんをみてもらってもいいですか？	先生、論文を見てもらってもいいですか？	humble request	[sound:a6b16e905a46.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top10k
+Tell friend you'll wait.	友達、ここで待ってあげるからね。	ともだち、ここでまってあげるからね。	友達、ここで待ってあげるからね。	patience	[sound:622c807fdbbc.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top1k
+Ask sister for homework help.	お姉さん、宿題を教えてもらいたい。	おねえさん、しゅくだいをおしえてもらいたい。	お姉さん、宿題を教えてもらいたい。	humble request	[sound:efb56d435c76.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top10k
+Offer to explain to team.	皆さんに説明してあげましょう。	みなさんにせつめいしてあげましょう。	皆さんに説明してあげましょう。	group favor	[sound:5cc10bf2cb23.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top5k
+Ask coworker to teach task.	先輩、仕事を教えてもらえますか？	せんぱい、しごとをおしえてもらえますか？	先輩、仕事を教えてもらえますか？	workplace request	[sound:89a7b9323f96.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top10k
+Offer to pick up.	荷物を拾ってあげましょう。	にもつをひろってあげましょう。	荷物を拾ってあげましょう。	help	[sound:0d63230c0dd2.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top1k
+Ask to receive advice.	アドバイスをもらってもいいですか？	あどばいすをもらってもいいですか？	アドバイスをもらってもいいですか？	request	[sound:b0130c4cefd4.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen
+Offer to carry books.	本を運んであげましょうか？	ほんをはこんであげましょうか？	本を運んであげましょうか？	help	[sound:201dfb3668ef.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:top10k
+Ask mom to teach meal prep.	お母さん、お弁当の作り方を教えてもらいたいです。	おかあさん、おべんとうのつくりかたをおしえてもらいたいです。	お母さん、お弁当の作り方を教えてもらいたいです。	family	[sound:df554b78634e.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen frequency:low
+Offer advice to junior.	アドバイスをあげましょうか？	あどばいすをあげましょうか？	アドバイスをあげましょうか？	mentor	[sound:57aefddf945a.mp3]	module:02-n4 jlpt:n4 point:benefactive complexity:standard source:shin-kanzen

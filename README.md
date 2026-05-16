@@ -22,7 +22,8 @@ endings still alive in formal modern Japanese, and idiomatic
 | `build_furigana.py` | **Tier-2** furigana + romaji index (pykakasi + fugashi) |
 | `build_pitchaccent.py` | **Tier-2** NHK-style pitch-accent index (Kanjium / NHK / Wadoku source chain) |
 | `normalize_audio.py` | EBU R128 loudness normalization (ffmpeg) |
-| `validate_anki_data.py` | Validates TSV structure, audio refs, placeholder detection |
+| `validate_anki_data.py` | Validates TSV schema, audio refs, placeholder/non-JP source rejection, and point taxonomy coverage |
+| `validate_grammar_taxonomy.py` | Validates that every `point:*` tag is mapped in `data/grammar_taxonomy.tsv` |
 | `validate_apkg.py` | Post-build integrity check on the packaged `.apkg` |
 | `apply_taxonomy_tags.py` | Auto-injects `register:* / jlpt:* / module:* / point:*` tags |
 | `requirements.txt` | Pinned Python deps (tier-1 / tier-2 marked) |
@@ -51,6 +52,7 @@ bash setup_data.sh
 # 2. Inject taxonomy tags + validate corpus
 python apply_taxonomy_tags.py
 python validate_anki_data.py
+python validate_grammar_taxonomy.py
 
 # 3. Render audio (uses .secrets/gcp-adc.json automatically)
 python build_audio.py --limit 5 --dry-run                          # cost smoke
@@ -64,7 +66,7 @@ python build_pitchaccent.py            # needs data/accents.sqlite (see header)
 # 5. Loudness-normalize (optional, recommended)
 python normalize_audio.py
 
-# 6. Build the .apkg (also runs validate_anki_data + validate_apkg automatically)
+# 6. Build the .apkg (also runs validate_anki_data + validate_grammar_taxonomy + validate_apkg automatically)
 python build_anki_package.py
 ```
 
@@ -73,7 +75,10 @@ python build_anki_package.py
 `build_anki_package.py` enforces structural checks and performs post-export
 verification:
 * placeholder audio refs (`[sound:WAVE0_PLACEHOLDER.mp3]`) reach `grammar/`
+* placeholder scaffold tokens such as `example*` or malformed `___` usage leak into JP fields
+* non-Japanese source text is used for JP audio-source fields (unless explicitly tagged `allow:non-japanese-source`)
 * a TSV's header doesn't match its `NOTE_TYPES` schema
+* a `point:*` tag is missing from `data/grammar_taxonomy.tsv` or remains coarse (`point:module-*`)
 * unresolved audio references are treated as hard failures
 * the packaged `.apkg`'s media manifest contains a dangling reference
 
