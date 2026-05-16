@@ -30,23 +30,3 @@ research-reports/
 # Research-time scratch directories
 anki_decks/
 anki_package_import/
-
-# Audio is regenerable from grammar/*.tsv via build_audio.py (cost: ~$0.06
-# per full Wave 1 corpus). Keep the manifest tracked so build_audio knows
-# whether a re-render is needed; ignore the binary MP3s themselves.
-media/audio/
-media/furigana_index.json
-media/pitchaccent_index.json
-media/words_index.json
-# tracked: media/audio_manifest.json
-
-# Large learner-side data files (dictionaries, pitch accent, corpora, freq lists).
-# The per-subdir READMEs + MANIFESTs are whitelisted in data/.gitignore so the
-# documentation tracks in git but the multi-GB blobs do not.
-data/*
-!data/.gitignore
-!data/README.md
-!data/*/
-data/*/*
-!data/*/README.md
-!data/*/MANIFEST.md

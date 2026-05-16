@@ -1,0 +1,14 @@
+CC-100 Japanese Corpus
+Source: https://data.statmt.org/cc-100/ja.txt.xz
+License: CC-BY 4.0 (with exceptions)
+Size: ~15 GB (compressed), ~100 GB (uncompressed)
+Status: Not downloaded (documentation only)
+
+This is a cleaned and deduplicated subset of Common Crawl for Japanese.
+Useful for language model training and corpus linguistics.
+
+Download manually if needed:
+  curl https://data.statmt.org/cc-100/ja.txt.xz -O
+  xz -d ja.txt.xz
+
+Reference: https://data.statmt.org/cc-100/

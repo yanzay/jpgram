@@ -1,0 +1,18 @@
+{
+  "status": "manual-curation-needed",
+  "note": "Bunpro does not provide an official open API. Community-scraped exports may be found at:",
+  "resources": [
+    "https://bunpro.jp/grammar_points",
+    "https://github.com/Heliozoa/bunpro-deconjugator"
+  ],
+  "expected_format": {
+    "points": [
+      {
+        "point_slug": "string",
+        "jlpt_level": 4,
+        "url": "https://bunpro.jp/grammar_points/...",
+        "summary": "string"
+      }
+    ]
+  }
+}
