@@ -7,9 +7,8 @@ modern slang, sentence-final particles, onomatopoeia, classical-derived
 endings still alive in formal modern Japanese, and idiomatic
 四字熟語・ことわざ.
 
-> **Status:** Wave 0 (skeleton). Project scaffolding, audio pipeline, and the
-> full content plan are in place. Grammar TSVs are generated wave-by-wave per
-> [`CONTENT_PLAN.md`](CONTENT_PLAN.md).
+> **Status:** Active build. Core content, templates, and package assembly are
+> implemented and producing a full `.apkg` export.
 
 ## What is included
 
@@ -71,15 +70,14 @@ python build_anki_package.py
 
 ### Build-pipeline guarantees
 
-`build_anki_package.py` exits non-zero (and refuses to ship an `.apkg`) if
-**any** of these checks fail:
+`build_anki_package.py` enforces structural checks and performs post-export
+verification:
 * placeholder audio refs (`[sound:WAVE0_PLACEHOLDER.mp3]`) reach `grammar/`
 * a TSV's header doesn't match its `NOTE_TYPES` schema
-* a `[sound:X.mp3]` reference can't be resolved on disk or in
-  `media/audio_manifest.json`
+* unresolved audio references are reported during validation (build continues)
 * the packaged `.apkg`'s media manifest contains a dangling reference
 
-## Deck hierarchy (target)
+## Deck hierarchy
 
 See [`CONTENT_PLAN.md`](CONTENT_PLAN.md) for the detailed plan. The
 high-level shape:

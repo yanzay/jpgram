@@ -1,0 +1,42 @@
+<!-- Cloze.back.html
+     Shows: {{cloze:Text}} with answer revealed, Reading with answer, Hint, audio button
+     Fields: Text, Reading, Hint, Audio, Tags
+  -->
+
+<div class="card back-section">
+  <div class="main-content">
+    <!-- Cloze text with answer revealed -->
+    <div class="jp jp-large">{{cloze:Text}}</div>
+
+    <!-- Reading with furigana (answer is now revealed) -->
+    {{#Reading}}
+    <div class="reading-display">
+      {{Reading}}
+    </div>
+    {{/Reading}}
+  </div>
+
+  <!-- Hint (reinforces understanding) -->
+  {{#Hint}}
+  <div class="info-box">
+    <strong>Hint:</strong>
+    <div style="margin-top: 0.5em;">{{Hint}}</div>
+  </div>
+  {{/Hint}}
+
+  <!-- Audio replay button -->
+  {{#Audio}}
+  <div style="margin-top: 1em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+  </div>
+  {{/Audio}}
+
+  <!-- Tags row -->
+  {{#Tags}}
+  <div class="tags">
+    {{Tags}}
+  </div>
+  {{/Tags}}
+</div>

@@ -1,0 +1,25 @@
+<!-- Recognition.front.html
+     Presents: Japanese text with audio button, no spoilers
+     Fields: JP, Reading, EN, Label, Formula, MainUse, QuickCue, Contrast, Audio, Tags
+  -->
+
+<div class="card front-section">
+  <div class="main-content">
+    <!-- Large JP text: the primary question -->
+    <div class="jp jp-large">{{JP}}</div>
+
+    <!-- Audio button (if Audio field is populated) -->
+    {{#Audio}}
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+    {{/Audio}}
+  </div>
+
+  <!-- Subtle hint: show reading in small text to aid pronunciation -->
+  {{#Reading}}
+  <div class="reading-display">
+    <small>{{Reading}}</small>
+  </div>
+  {{/Reading}}
+</div>

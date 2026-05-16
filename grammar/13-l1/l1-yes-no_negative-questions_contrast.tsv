@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::13 - L1 Interference (English)::Contrast
+#
+行きたくないですか		行きたくないですか	行きたくないですか	Don't you want to go? (Yes, I don't)	Right-answer negative agreement	[sound:48c027e99677.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top10k complexity:intro
+好きじゃないですか		好きじゃないですか	好きじゃないですか	Don't you like it? (Right, I don't)	Affirming negative	[sound:c37c1477b4bb.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top1k complexity:intro
+時間がないですか		時間がないですか	時間がないですか	Don't you have time? (Correct, no time)	Confirming absence	[sound:3fc16ed84c8d.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top1k complexity:intro
+疲れていないですか		疲れていないですか	疲れていないですか	Aren't you tired? (Actually, I am)	Disagreeing with negative	[sound:ce784ff54aaf.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top10k complexity:intro
+食べたくないですか		食べたくないですか	食べたくないですか	Don't you want to eat? (Right, I don't)	Affirming negative desire	[sound:1b2ba5b409cf.mp3]	module:13-l1 point:l1-yes-no_negative-questions complexity:intro
+できないですか		できないですか	できないですか	Can't you do it? (No, I can't)	Confirming inability	[sound:9d81feb23df9.mp3]	module:13-l1 point:l1-yes-no_negative-questions complexity:intro
+知りませんか		知りませんか	知りませんか	Don't you know? (Right, I don't)	Negative knowledge	[sound:58f2a2dede26.mp3]	module:13-l1 point:l1-yes-no_negative-questions complexity:intro
+来ませんか		来ませんか	来ませんか	Aren't you coming? (No, I'm not)	Negative future	[sound:890d68dcb99e.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top10k complexity:intro
+好きではありませんか		好きではありませんか	好きではありませんか	Is it not the case you like it? (Right)	Formal negative	[sound:de9724b6cd4e.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top1k complexity:intro
+忙しくないですか		忙しくないですか	忙しくないですか	Aren't you busy? (Actually, I am)	Disagreeing negative	[sound:22cce3d43f05.mp3]	module:13-l1 point:l1-yes-no_negative-questions complexity:intro
+行かないですか		行かないですか	行かないですか	Aren't you going? (No, I'm not)	Negative intention	[sound:6ffd504cd255.mp3]	module:13-l1 point:l1-yes-no_negative-questions complexity:intro
+気に入りませんでしたか		気に入りませんでしたか	気に入りませんでしたか	Didn't you like it? (Right, I didn't)	Past negative agreement	[sound:0bfeaca9b79a.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top5k complexity:intro
+わかりませんか		わかりませんか	わかりませんか	Don't you understand? (No, I don't)	Negative comprehension	[sound:e5ac683983f5.mp3]	module:13-l1 point:l1-yes-no_negative-questions complexity:intro
+欲しくないですか		欲しくないですか	欲しくないですか	Don't you want it? (Right, I don't)	Negative want	[sound:934290903bbd.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:low complexity:intro
+興味がないですか		興味がないですか	興味がないですか	Don't you have interest? (No, I don't)	Negative interest	[sound:e5cb80c3edb2.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top5k complexity:intro

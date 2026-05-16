@@ -1,0 +1,441 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                    VISUAL HIERARCHY REFERENCE GUIDE                       ║
+║              For jpgram Anki Card Templates (4 Note Types)                ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. RECOGNITION CARD (JP → EN Translation)
+   Schema: JP, Reading, EN, Label, Formula, MainUse, QuickCue, Contrast, Audio, Tags
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          FRONT (Question)                         ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                            走る                                   ║
+   ║                       (2.4em, JP font, bold)                      ║
+   ║                                                                    ║
+   ║                      [▶ Play Audio Button]                        ║
+   ║                                                                    ║
+   ║                        は・し・る                                 ║
+   ║                    (0.9em, muted, reading hint)                   ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          BACK (Answer)                            ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                            走る                                   ║
+   ║                                                                    ║
+   ║                        は・し・る                                 ║
+   ║                   (Reading with ruby tags)                        ║
+   ║                                                                    ║
+   ║                    to run (on foot)                               ║
+   ║                  (1.4em, EN main answer)                          ║
+   ║                                                                    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Category: Verb (ichidan)                [Info box - accent left]  ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Pattern: [stem]-る                     [Formula in code style]    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Main Use:                                                          ║
+   ║ Used for describing running motion, athletic movements.           ║
+   ║                                        [Info box - accent left]   ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ 💡 Quick Cue: "hash it out" sounds like はし                      ║
+   ║            [Gradient accent box with emoji - italic text]         ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ ⚠ Compare with: 歩く (aruku) - slower walk                        ║
+   ║              [Warning box - amber left border]                    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                      [▶ Replay Audio Button]                      ║
+   ║                                                                    ║
+   ║ #verb #ichidan #movement                                          ║
+   ║            [Tags row - bottom, small, muted, with # prefix]       ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. PRODUCTION CARD (EN → JP Production)
+   Schema: Prompt, Target, Reading, Sample, Why, Audio, Tags
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          FRONT (Question)                         ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║              Write the polite past tense of "eat"                 ║
+   ║                  (1.4em, EN main prompt)                          ║
+   ║                                                                    ║
+   ║          Form hint: [お + stem + ました]                          ║
+   ║              (0.9em, muted, code style formula)                   ║
+   ║                                                                    ║
+   ║            [Optional: ▶ Play Audio Button]                        ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          BACK (Answer)                            ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                       召し上がりました                             ║
+   ║                    (2.4em, JP sample, centered)                   ║
+   ║                                                                    ║
+   ║                    めしあがりました                                ║
+   ║                  (Reading with ruby tags)                         ║
+   ║                                                                    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Target: [お + 召し上がり + ました]                                ║
+   ║                            [Info box - code style]                ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Why?                                                               ║
+   ║ This is the honorific past tense form, showing respect for the    ║
+   ║ subject's action. Highly formal and polite.                       ║
+   ║                                        [Info box - accent left]   ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                      [▶ Replay Audio Button]                      ║
+   ║                                                                    ║
+   ║ #keigo #honorific #past-tense                                     ║
+   ║            [Tags row - bottom, small, muted, with # prefix]       ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. CLOZE CARD (Fill-in-the-blank)
+   Schema: Text, Reading, Hint, Audio, Tags
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          FRONT (Question)                         ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                      私___学生です。                               ║
+   ║                  (2.4em, JP with blank [...])                     ║
+   ║                                                                    ║
+   ║               Hint: subject particle (0.9em, muted, italic)       ║
+   ║                                                                    ║
+   ║              [Optional: ▶ Play Audio Button]                      ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          BACK (Answer)                            ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                       私は学生です。                              ║
+   ║              (2.4em, JP with answer revealed, highlighted)        ║
+   ║                                                                    ║
+   ║                      わたしはがくせいです。                        ║
+   ║                  (Reading with ruby tags)                         ║
+   ║                                                                    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Hint:                                                              ║
+   ║ は marks the subject of the sentence. Different nuance than が    ║
+   ║ (which emphasizes the subject vs. contrast).                      ║
+   ║                                        [Info box - accent left]   ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                      [▶ Replay Audio Button]                      ║
+   ║                                                                    ║
+   ║ #particle #は #subject                                            ║
+   ║            [Tags row - bottom, small, muted, with # prefix]       ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. CONTRAST CARD (A/B Discrimination)
+   Schema: JP, OptionA, OptionB, Answer, Why, Tip, Audio, Tags
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          FRONT (Question)                         ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                        毎日___運動します。                         ║
+   ║                        (2.4em, JP with blank)                     ║
+   ║                                                                    ║
+   ║                 Which word is correct?                            ║
+   ║                (0.95em, muted, prompt text)                       ║
+   ║                                                                    ║
+   ║  ┌──────────────────┐    ┌──────────────────┐                    ║
+   ║  │  Option A        │    │  Option B        │                    ║
+   ║  │  ───────────     │    │  ───────────     │                    ║
+   ║  │      を          │    │      が          │                    ║
+   ║  │  (1.3em, JP)     │    │  (1.3em, JP)     │                    ║
+   ║  │  centered box    │    │  centered box    │                    ║
+   ║  └──────────────────┘    └──────────────────┘                    ║
+   ║   [Muted bg, visual only - not clickable]                        ║
+   ║                                                                    ║
+   ║              [▶ Play Audio Button]                                ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+   ╔════════════════════════════════════════════════════════════════════╗
+   ║                          BACK (Answer)                            ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                                                                    ║
+   ║                        毎日___運動します。                         ║
+   ║                        (2.4em, JP with blank)                     ║
+   ║                                                                    ║
+   ║  ┌──────────────────┐    ┌──────────────────┐                    ║
+   ║  │  Option A        │    │  Option B        │                    ║
+   ║  │  ✓ Correct       │    │                  │                    ║
+   ║  │      を          │    │      が          │                    ║
+   ║  │ [green bg/border]│    │ [muted bg]       │                    ║
+   ║  └──────────────────┘    └──────────────────┘                    ║
+   ║         [Success highlight: emerald]                             ║
+   ║                                                                    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ Why is this correct?                                              ║
+   ║ The particle を marks the direct object of an action verb.        ║
+   ║ 運動する (to exercise) requires を, not が (subject marker).     ║
+   ║                                        [Info box - accent left]   ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║ 💡 Tip: が marks the subject or emphasizes contrast;             ║
+   ║ を marks the direct object. Different particles = different meaning.║
+   ║                              [Warning box - amber left border]    ║
+   ╟────────────────────────────────────────────────────────────────────╢
+   ║                      [▶ Replay Audio Button]                      ║
+   ║                                                                    ║
+   ║ #particle #を #object-marker                                      ║
+   ║            [Tags row - bottom, small, muted, with # prefix]       ║
+   ║                                                                    ║
+   ╚════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COLOR KEY
+
+Light Mode:
+  ◼ White/Light: Main background (#ffffff)
+  ◼ Dark Gray: Foreground text (#222)
+  ◼ Indigo: Accent boxes (#4f46e5)
+  ◼ Amber: Warning boxes (#d97706)
+  ◼ Emerald: Success highlight (#059669)
+  ◼ Light Gray: Muted text & hints (#6b7280)
+
+Dark Mode (auto-enabled):
+  ◼ Dark Gray: Main background (#1a1a1a)
+  ◼ Light Gray: Foreground text (#e8e8e8)
+  ◼ Light Indigo: Accent boxes (#818cf8)
+  ◼ Light Amber: Warning boxes (#fbbf24)
+  ◼ Light Emerald: Success highlight (#34d399)
+  ◼ Medium Gray: Muted text & hints (#9ca3af)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COMPONENT STYLES
+
+┌─ Info Box ───────────────────────────────────────────────────────────┐
+│ Used for: Label, Formula, MainUse, Sample, Target, Why, Hint        │
+│                                                                       │
+│ ┌─ Accent color left border (4px)                                  │
+│ │ Soft accent background                                            │
+│ │ 0.75em 1em padding                                                │
+│ │ 0.25em border-radius                                              │
+│ │ Subtle box-shadow                                                 │
+│ └─ Dark mode: opacity 0.15, lighter shadow                         │
+└───────────────────────────────────────────────────────────────────────┘
+
+┌─ Warning Box ─────────────────────────────────────────────────────────┐
+│ Used for: Contrast (common confusion), Tip (gotchas)                 │
+│                                                                       │
+│ ┌─ Amber left border (4px)                                          │
+│ │ Soft amber background                                             │
+│ │ 0.75em 1em padding                                                │
+│ │ 0.25em border-radius                                              │
+│ │ Subtle box-shadow                                                 │
+│ └─ Dark mode: opacity 0.15, lighter shadow                         │
+└───────────────────────────────────────────────────────────────────────┘
+
+┌─ Success Box ─────────────────────────────────────────────────────────┐
+│ Used for: Correct answer highlight (Contrast cards)                  │
+│                                                                       │
+│ ┌─ Emerald left border (4px)                                        │
+│ │ Soft emerald background                                           │
+│ │ Label: "✓ Correct"                                                │
+│ │ Box-shadow with glow effect                                       │
+│ └─ Dark mode: opacity 0.15, lighter shadow                         │
+└───────────────────────────────────────────────────────────────────────┘
+
+┌─ Quick Cue Box ───────────────────────────────────────────────────────┐
+│ Used for: Quick mnemonic/recall aids (Recognition cards)             │
+│                                                                       │
+│ ┌─ Gradient background (accent → transparent)                      │
+│ │ Solid accent border (2px)                                         │
+│ │ 0.75em 1em padding                                                │
+│ │ 0.5em border-radius                                               │
+│ │ Italic text for emphasis                                          │
+│ │ Emoji prefix: 💡                                                  │
+│ └─ Dark mode: opacity 0.1, adjusted border                         │
+└───────────────────────────────────────────────────────────────────────┘
+
+┌─ Audio Button ────────────────────────────────────────────────────────┐
+│ Appears on: Front (optional), Back (standard)                        │
+│                                                                       │
+│ ┌─ Custom ▶ icon (via CSS ::before pseudo-element)                 │
+│ │ Accent color background                                           │
+│ │ White text                                                        │
+│ │ 0.5em 1em padding                                                 │
+│ │ 0.375em border-radius                                             │
+│ │ Min-height: 44px (touch target)                                   │
+│ │                                                                    │
+│ │ Hover: translateY(-2px) lift + shadow glow                        │
+│ │ Active: translateY(0) press down                                  │
+│ │ Dark mode: lighter shadow                                         │
+│ └─ Hidden in @media print mode                                     │
+└───────────────────────────────────────────────────────────────────────┘
+
+┌─ Tags Row ────────────────────────────────────────────────────────────┐
+│ Appears: Bottom of all back cards                                    │
+│                                                                       │
+│ ┌─ Small gray text (0.85em)                                         │
+│ │ Top border (1px) for visual separation                            │
+│ │ Margin-top: 1.5em, padding-top: 1em                               │
+│ │ Flex wrap: gaps between tag pills                                 │
+│ │ Each tag: [#tagname] in pill-style badge                         │
+│ │ Labels: "Tags:" prefix in bold                                    │
+│ └─ Dark mode: muted background opacity                             │
+└───────────────────────────────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MOBILE RESPONSIVENESS
+
+Viewport: 360px (mobile) → 720px (tablet) → 1440px+ (desktop)
+
+Desktop (> 480px):
+  ✓ Max-width: 720px, centered
+  ✓ Padding: 1.5em
+  ✓ Flex direction: row (Contrast options side-by-side)
+  ✓ Font sizes: full size (2.4em JP, 1.4em EN)
+  ✓ Touch targets: 44px+
+
+Mobile (≤ 480px):
+  ✓ Full-width, no max constraint
+  ✓ Padding: 1em
+  ✓ Flex direction: column (Contrast options stack)
+  ✓ Font sizes: reduced (2em JP, 1.2em EN)
+  ✓ Touch targets: still 44px+ (larger on smaller screen)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DARK MODE BEHAVIOR
+
+Automatic Detection:
+  1. System preference: @media (prefers-color-scheme: dark)
+  2. Anki's dark mode: body.night_mode class
+
+Color Adaptation:
+  All CSS variables switch automatically:
+  --bg, --fg, --accent, --warning, --success, --muted
+
+Box Shadows:
+  Dark mode: lighter, lower contrast shadows (opacity adjustments)
+  Prevents harsh glows on dark backgrounds
+
+Backgrounds:
+  Light gray muted backgrounds → darker grays with opacity
+  Maintains readability and WCAG AA contrast
+
+No Manual Toggle:
+  Users don't need to do anything. Dark mode "just works"
+  compatible with AnkiMobile, AnkiDroid, AnkiWeb
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TYPOGRAPHY REFERENCE
+
+Japanese Text Font Stack:
+  'Noto Sans JP', 'Hiragino Sans', 'Yu Gothic', sans-serif
+  
+  Sizes:
+    Main body (jp-large):     2.4em
+    Metadata (jp standard):   0.9em
+    Reading (reading-display): 1.1em
+    Ruby (furigana):          0.55em relative + 0.8 opacity
+
+English Text Font Stack:
+  system-ui, -apple-system, 'Segoe UI', sans-serif
+  
+  Sizes:
+    Main body (en-large):     1.4em (Production), 1.1em (standard)
+    Metadata:                 0.9em
+    Hint/small text:          0.9em
+
+Code/Formula Font Stack:
+  'Courier New', 'Monaco', monospace
+  
+  Sizes:
+    Standard:                 0.95em
+    In metadata:              matches parent
+
+Line Height:
+  Global card: 1.6em (readable, airy)
+  JP large: 1.3em (accounts for vertical height)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ACCESSIBILITY NOTES
+
+Color Contrast:
+  ✓ All text meets WCAG AA 4.5:1 ratio (normal text)
+  ✓ Large text (18pt+) meets 3:1 ratio
+  ✓ Color-blind friendly: different hues + brightness variations
+
+Touch Targets:
+  ✓ All buttons: ≥44px height (WCAG AA mobile standard)
+  ✓ Option boxes: min-width handles small viewports
+  ✓ No overlapping touch targets
+
+Font Sizes:
+  ✓ Minimum: 0.85em (tags, hints)
+  ✓ Main content: 1.1em–2.4em (readable, scalable)
+  ✓ Adequate scaling on mobile (media query adjustments)
+
+Semantic HTML:
+  ✓ Proper <ruby> tags for furigana
+  ✓ <button> elements for audio
+  ✓ Semantic <div> classes (front-section, back-section, main-content)
+  ✓ No images required (pure HTML+CSS)
+
+Dark Mode:
+  ✓ Automatic system detection
+  ✓ High contrast in both modes
+  ✓ No white-on-white or low-contrast combinations
+
+Print Mode:
+  ✓ Audio buttons hidden
+  ✓ Cards bordered for clarity
+  ✓ Background colors preserved (if enabled)
+  ✓ No page breaks within cards
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+BROWSER & PLATFORM COMPATIBILITY
+
+Desktop Anki (2.1.50+):
+  ✓ Full HTML5 + CSS3 support
+  ✓ All color schemes work
+  ✓ Audio playback seamless
+  ✓ Dark mode via .night_mode class
+
+AnkiMobile (iOS 13+):
+  ✓ Requires AnkiMobile 2.0.70+
+  ✓ Full CSS support (custom properties, media queries)
+  ✓ Ruby tags render correctly
+  ✓ Touch targets work perfectly
+
+AnkiDroid (Android 5.0+):
+  ✓ Full HTML5 support
+  ✓ CSS3 custom properties (level 3)
+  ✓ Media queries work
+  ✓ Dark mode via system preference
+
+AnkiWeb (Browser):
+  ✓ Full HTML5 + CSS3 support
+  ✓ All features work in web view
+  ✓ Dark mode via browser settings
+  ✓ Audio playback via HTML5 audio elements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

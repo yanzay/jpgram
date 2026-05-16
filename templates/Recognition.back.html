@@ -1,0 +1,100 @@
+<!-- Recognition.back.html
+     Shows: Reading (with furigana), EN gloss, Label, Formula, MainUse, QuickCue, Contrast, audio replay
+     Fields: JP, Reading, EN, Label, Formula, MainUse, QuickCue, Contrast, Audio, Tags
+  -->
+
+<div class="card back-section">
+  <!-- Original JP for reference -->
+  <div class="main-content">
+    <div class="jp jp-large">{{JP}}</div>
+
+    <!-- Reading with ruby (furigana) support
+         Expected format: かな[kanji]かな or use HTML <ruby> if pre-formatted
+    -->
+    {{#Reading}}
+    <div class="reading-display">
+      {{Reading}}
+    </div>
+    {{/Reading}}
+
+    <!-- English gloss: the main answer -->
+    {{#EN}}
+    <div class="en-large">{{EN}}</div>
+    {{/EN}}
+  </div>
+
+  <!-- Label (part of speech, context) -->
+  {{#Label}}
+  <div class="info-box">
+    <div class="metadata-row">
+      <span class="label">Category:</span>
+      <span>{{Label}}</span>
+    </div>
+  </div>
+  {{/Label}}
+
+  <!-- Formula (grammar pattern) -->
+  {{#Formula}}
+  <div class="info-box">
+    <div class="metadata-row">
+      <span class="label">Pattern:</span>
+      <code class="formula">{{Formula}}</code>
+    </div>
+  </div>
+  {{/Formula}}
+
+  <!-- MainUse (most common usage context) -->
+  {{#MainUse}}
+  <div class="info-box">
+    <div class="metadata-row">
+      <span class="label">Main Use:</span>
+    </div>
+    <div style="margin-top: 0.25em;">{{MainUse}}</div>
+  </div>
+  {{/MainUse}}
+
+  <!-- QuickCue (mnemonic or quick recall aid) -->
+  {{#QuickCue}}
+  <div class="quick-cue">
+    💡 <strong>Quick Cue:</strong> {{QuickCue}}
+  </div>
+  {{/QuickCue}}
+
+  <!-- Contrast (common confusion or related form) -->
+  {{#Contrast}}
+  <div class="warning-box">
+    <strong>⚠ Compare with:</strong> {{Contrast}}
+  </div>
+  {{/Contrast}}
+
+  <!-- Audio replay button -->
+  {{#Audio}}
+  <div style="margin-top: 1em;">
+    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
+      {{Audio}}
+    </button>
+  </div>
+  {{/Audio}}
+
+  <!-- Tags row -->
+  {{#Tags}}
+  <div class="tags">
+    {{Tags}}
+  </div>
+  {{/Tags}}
+</div>
+
+<!-- 
+  Pitch Accent Enhancement (Optional JS hook)
+  ─────────────────────────────────────────────
+  If you want to add pitch accent overlays, you can:
+  1. Wrap Reading words in <span class="pitch" data-word="word">word</span>
+  2. Include a small JS via AnkiConnect that listens for card updates
+  3. Example hook:
+     document.querySelectorAll('.pitch').forEach(el => {
+       const word = el.dataset.word;
+       // Fetch pitch data from external API or config
+       if (isPitchHigh(word)) el.classList.add('pitch-accent-high');
+     });
+  See README.md for full integration guide.
+-->
