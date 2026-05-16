@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::01 - N5 Grammar::Cloze
 #
-日本語が{{c1::話せます}}か？	にほんごが{{c1::はなせます}}か？	can speak Japanese?	[sound:fe4cdfd95699.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro
-料理が{{c1::できません}}。	りょうりが{{c1::できません}}。	can't cook	[sound:35209e6d6f5f.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-座ってください{{c1::。}}	すわってください{{c1::。}}	please sit	[sound:9f7d8a473225.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro
-入ってもいい{{c1::ですか}}？	はいってもいい{{c1::ですか}}？	may I come in?	[sound:1faac10c9f26.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro
-魚が好きではあり{{c1::ません}}。	さかながすきではあり{{c1::ません}}。	don't like fish	[sound:2af1c2b07d4c.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-猫が{{c1::います}}。	ねこが{{c1::います}}。	there is a cat	[sound:50172ce2ea62.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-私の本{{c1::です}}。	わたしのほん{{c1::です}}。	it's my book	[sound:5d89fdf7cb48.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-疲れている{{c1::です}}。	つかれている{{c1::です}}。	I'm tired	[sound:160c281d38a2.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro
-ドアは開いている{{c1::です}}。	どあはあいている{{c1::です}}。	the door is open	[sound:5d7c9b59f49b.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-勉強してい{{c1::ます}}。	べんきょうしてい{{c1::ます}}。	am studying	[sound:53beb9615570.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-今何時{{c1::ですか}}？	いままなじ{{c1::ですか}}？	what time is it?	[sound:51056f781a98.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-おいし{{c1::そうです}}。	おいし{{c1::そうです}}。	it looks delicious	[sound:3ce39745c7e5.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro
-空は青そう{{c1::です}}。	そらはあおそう{{c1::です}}。	the sky seems blue	[sound:bb2219bbfa19.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro
-ちょうど寝よう{{c1::としていました}}。	ちょうどねよう{{c1::としていました}}。	was about to sleep	[sound:87adce8b2c24.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro
-もっと勉強する{{c1::必要}}があります。	もっとべんきょうする{{c1::ひつよう}}があります。	need to study more	[sound:13d0b0f3dd7b.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top5k complexity:standard
+日本語が{{c1::話せます}}か？	にほんごが{{c1::はなせます}}か？	can speak Japanese?	[sound:fe4cdfd95699.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro source:shin-kanzen
+料理が{{c1::できません}}。	りょうりが{{c1::できません}}。	can't cook	[sound:35209e6d6f5f.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+座ってください{{c1::。}}	すわってください{{c1::。}}	please sit	[sound:9f7d8a473225.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
+入ってもいい{{c1::ですか}}？	はいってもいい{{c1::ですか}}？	may I come in?	[sound:1faac10c9f26.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
+魚が好きではあり{{c1::ません}}。	さかながすきではあり{{c1::ません}}。	don't like fish	[sound:2af1c2b07d4c.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+猫が{{c1::います}}。	ねこが{{c1::います}}。	there is a cat	[sound:50172ce2ea62.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+私の本{{c1::です}}。	わたしのほん{{c1::です}}。	it's my book	[sound:5d89fdf7cb48.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+疲れている{{c1::です}}。	つかれている{{c1::です}}。	I'm tired	[sound:160c281d38a2.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top10k complexity:intro source:shin-kanzen
+ドアは開いている{{c1::です}}。	どあはあいている{{c1::です}}。	the door is open	[sound:5d7c9b59f49b.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+勉強してい{{c1::ます}}。	べんきょうしてい{{c1::ます}}。	am studying	[sound:53beb9615570.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+今何時{{c1::ですか}}？	いままなじ{{c1::ですか}}？	what time is it?	[sound:51056f781a98.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+おいし{{c1::そうです}}。	おいし{{c1::そうです}}。	it looks delicious	[sound:3ce39745c7e5.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
+空は青そう{{c1::です}}。	そらはあおそう{{c1::です}}。	the sky seems blue	[sound:bb2219bbfa19.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top1k complexity:intro source:shin-kanzen
+ちょうど寝よう{{c1::としていました}}。	ちょうどねよう{{c1::としていました}}。	was about to sleep	[sound:87adce8b2c24.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
+もっと勉強する{{c1::必要}}があります。	もっとべんきょうする{{c1::ひつよう}}があります。	need to study more	[sound:13d0b0f3dd7b.mp3]	module:01-n5 jlpt:n5 point:n5-misc frequency:top5k complexity:standard source:shin-kanzen

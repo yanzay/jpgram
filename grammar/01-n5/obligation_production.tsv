@@ -4,18 +4,18 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Say: 'I must study'	私は勉強しなければなりません。	わたしはべんきょうしなければなりません。	I must study	なければならない	[sound:0bfb1800c2ab.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
-Say: 'You have to go'	あなたは行かなければなりません。	あなたはいかなければなりません。	You must go	なければならない	[sound:bb6fc10cb3de.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
-Say: 'It's necessary to sleep'	寝ることが必要です。	ねることがひつようです。	It's necessary to sleep	こと+が+必要	[sound:5e0455739d42.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'I must not be late'	私は遅刻してはいけません。	わたしはちこくしてはいけません。	I must not be late	てはいけない	[sound:58a56366a8ae.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'You shouldn't lie'	あなたは嘘をついてはいけません。	あなたはうそをついてはいけません。	You shouldn't lie	てはいけない	[sound:784083e5007e.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'I must finish today'	私は今日中に終わらせなければなりません。	わたしはきょうちゅうにおわらせなければなりません。	I must finish today	なければならない	[sound:8d4d253c7806.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'I should study more'	私はもっと勉強するべきです。	わたしはもっとべんきょうするべきです。	I should study more	べき=should	[sound:4a47c141687b.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'You must listen'	あなたは聞かなければなりません。	あなたはきかなければなりません。	You must listen	なければならない	[sound:661bfec5dd09.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'She has to come'	彼女は来なければなりません。	かのじょはこなければなりません。	She must come	なければならない	[sound:9a5e3f1037f3.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
-Say: 'I ought to apologize'	私は謝るべきです。	わたしはあやまるべきです。	I should apologize	べき	[sound:05a4dd0ab9a9.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'It's required to register'	登録することが必須です。	とうろくすることがひっすです。	Registration is required	ひっす	[sound:332cbcaaa379.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'We must respect rules'	私たちは規則を守らなければなりません。	わたしたちはきそくをまもらなければなりません。	We must respect rules	なければならない	[sound:30f9bf7ab892.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'I must not eat this'	これを食べてはいけません。	これをたべてはいけません。	I must not eat this	てはいけない	[sound:f3b17d948ee1.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'They should know'	彼らは知っているべきです。	かれらはしっているべきです。	They should know	べき	[sound:dc0079f1b360.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard
-Say: 'I had to stay'	私は残らなければなりませんでした。	わたしはのこらなければなりませんでした。	I had to stay	なければならない+過去	[sound:6e0d31d1d245.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro
+Say: 'I must study'	私は勉強しなければなりません。	わたしはべんきょうしなければなりません。	I must study	なければならない	[sound:0bfb1800c2ab.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro source:shin-kanzen
+Say: 'You have to go'	あなたは行かなければなりません。	あなたはいかなければなりません。	You must go	なければならない	[sound:bb6fc10cb3de.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro source:shin-kanzen
+Say: 'It's necessary to sleep'	寝ることが必要です。	ねることがひつようです。	It's necessary to sleep	こと+が+必要	[sound:5e0455739d42.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'I must not be late'	私は遅刻してはいけません。	わたしはちこくしてはいけません。	I must not be late	てはいけない	[sound:58a56366a8ae.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'You shouldn't lie'	あなたは嘘をついてはいけません。	あなたはうそをついてはいけません。	You shouldn't lie	てはいけない	[sound:784083e5007e.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'I must finish today'	私は今日中に終わらせなければなりません。	わたしはきょうちゅうにおわらせなければなりません。	I must finish today	なければならない	[sound:8d4d253c7806.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'I should study more'	私はもっと勉強するべきです。	わたしはもっとべんきょうするべきです。	I should study more	べき=should	[sound:4a47c141687b.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'You must listen'	あなたは聞かなければなりません。	あなたはきかなければなりません。	You must listen	なければならない	[sound:661bfec5dd09.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'She has to come'	彼女は来なければなりません。	かのじょはこなければなりません。	She must come	なければならない	[sound:9a5e3f1037f3.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro source:shin-kanzen
+Say: 'I ought to apologize'	私は謝るべきです。	わたしはあやまるべきです。	I should apologize	べき	[sound:05a4dd0ab9a9.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'It's required to register'	登録することが必須です。	とうろくすることがひっすです。	Registration is required	ひっす	[sound:332cbcaaa379.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'We must respect rules'	私たちは規則を守らなければなりません。	わたしたちはきそくをまもらなければなりません。	We must respect rules	なければならない	[sound:30f9bf7ab892.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'I must not eat this'	これを食べてはいけません。	これをたべてはいけません。	I must not eat this	てはいけない	[sound:f3b17d948ee1.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'They should know'	彼らは知っているべきです。	かれらはしっているべきです。	They should know	べき	[sound:dc0079f1b360.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:standard source:shin-kanzen
+Say: 'I had to stay'	私は残らなければなりませんでした。	わたしはのこらなければなりませんでした。	I had to stay	なければならない+過去	[sound:6e0d31d1d245.mp3]	module:01-n5 jlpt:n5 point:obligation complexity:intro source:shin-kanzen

@@ -4,18 +4,18 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Ask: 'Who is this?'	これは誰ですか？	これはだれですか？	Who is this?	誰=who	[sound:59575f9cc841.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'What is this?'	これは何ですか？	これはなんですか？	What is this?	何=what	[sound:dd8082be77e9.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'Which one?'	どれですか？	どれですか？	Which one?	どれ=which object	[sound:f9b0a11478e5.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'When is the exam?'	試験はいつですか？	しけんはいつですか？	When is exam?	いつ=when	[sound:92f32337779f.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'Where is the station?'	駅はどこですか？	えきはどこですか？	Where is station?	どこ=where	[sound:84fe188beaf2.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard
-Ask: 'Why did you go?'	なぜ行きました？	なぜいきました？	Why did you go?	なぜ=why	[sound:7a9cf66c5fe6.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard
-Ask: 'How do you do this?'	どうやってこれをしますか？	どうやってこれをしますか？	How do you do this?	どう=how	[sound:31f71058dddb.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard
-Ask: 'How much is it?'	いくらですか？	いくらですか？	How much?	いくら=how much	[sound:fa22a28489f2.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'How many people?'	何人ですか？	なんにんですか？	How many people?	何人=how many people	[sound:ee0c520d3a73.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard
-Ask: 'What time?'	何時ですか？	なんじですか？	What time?	何時=what time	[sound:dfb13ffe3963.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'Whose is this?'	これは誰のですか？	これはだれのですか？	Whose is this?	誰の=whose	[sound:fb58d454aff7.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard
-Ask: 'What kind?'	どんな種類ですか？	どんなしゅるいですか？	What kind?	どんな=what kind	[sound:00d6f1cb68b3.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'How often?'	どのくらいの頻度ですか？	どのくらいのひんどですか？	How often?	どのくらい=how often	[sound:0856fb43e7a0.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'How long?'	どのくらい続きますか？	どのくらいつづきますか？	How long?	どのくらい=how long	[sound:9ce819198916.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro
-Ask: 'What happened?'	何が起きましたか？	なにがおきましたか？	What happened?	何=what	[sound:e9ef659a9f0d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard
+Ask: 'Who is this?'	これは誰ですか？	これはだれですか？	Who is this?	誰=who	[sound:59575f9cc841.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'What is this?'	これは何ですか？	これはなんですか？	What is this?	何=what	[sound:dd8082be77e9.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'Which one?'	どれですか？	どれですか？	Which one?	どれ=which object	[sound:f9b0a11478e5.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'When is the exam?'	試験はいつですか？	しけんはいつですか？	When is exam?	いつ=when	[sound:92f32337779f.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'Where is the station?'	駅はどこですか？	えきはどこですか？	Where is station?	どこ=where	[sound:84fe188beaf2.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard source:shin-kanzen
+Ask: 'Why did you go?'	なぜ行きました？	なぜいきました？	Why did you go?	なぜ=why	[sound:7a9cf66c5fe6.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard source:shin-kanzen
+Ask: 'How do you do this?'	どうやってこれをしますか？	どうやってこれをしますか？	How do you do this?	どう=how	[sound:31f71058dddb.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard source:shin-kanzen
+Ask: 'How much is it?'	いくらですか？	いくらですか？	How much?	いくら=how much	[sound:fa22a28489f2.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'How many people?'	何人ですか？	なんにんですか？	How many people?	何人=how many people	[sound:ee0c520d3a73.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard source:shin-kanzen
+Ask: 'What time?'	何時ですか？	なんじですか？	What time?	何時=what time	[sound:dfb13ffe3963.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'Whose is this?'	これは誰のですか？	これはだれのですか？	Whose is this?	誰の=whose	[sound:fb58d454aff7.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard source:shin-kanzen
+Ask: 'What kind?'	どんな種類ですか？	どんなしゅるいですか？	What kind?	どんな=what kind	[sound:00d6f1cb68b3.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'How often?'	どのくらいの頻度ですか？	どのくらいのひんどですか？	How often?	どのくらい=how often	[sound:0856fb43e7a0.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'How long?'	どのくらい続きますか？	どのくらいつづきますか？	How long?	どのくらい=how long	[sound:9ce819198916.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro source:shin-kanzen
+Ask: 'What happened?'	何が起きましたか？	なにがおきましたか？	What happened?	何=what	[sound:e9ef659a9f0d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:standard source:shin-kanzen

@@ -4,34 +4,34 @@
 #notetype:Recognition
 #deck:Japanese Grammar::07 - Casual::Recognition
 #
-今日何やってる？	きょうなにやってる？	What are you doing today?	Question without か	Question (no か)	Rising intonation	Conversational	か	[sound:a31c1f30b3e2.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-誰が来た？	だれがきた？	Who came?	Question particle drop	Question (no か)	Inquiry tone	Natural speech	か	[sound:64bb01c54860.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k
-どこ行くの？	どこいくの？	Where are you going?	の? instead of か	〜の？	Gentle inquiry	Soft question	か	[sound:0f886a9f1a04.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-何してんの？	なにしてんの？	What are you doing?	Casual interrogation	〜の？	Quick question	Conversational	か	[sound:95038104f997.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-本当なん？	ほんとうなん？	Really?	ん? confirmation	〜ん？	Casual confirmation	Quick check	か	[sound:c40ce6f97c9e.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-大丈夫なん？	だいじょうぶなん？	Are you okay?	Concern check	〜ん？	Worry inquiry	Casual concern	か	[sound:5e8d077020b9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-来てくれたわ。	きてくれたわ。	You came for me!	Feminine assertion	〜わ	Feminine particle	Female tone	わ	[sound:452769db1db8.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k
-楽しかったわ。	たのしかったわ。	It was fun!	Female statement	〜わ	Feminine speech	Female tone	わ	[sound:e6c747308ea6.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k
-好きよ。	すきよ。	I like it.	Feminine assertion	〜よ	Female emphasis	Female tone	よ	[sound:01c0374ef1ce.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-行くよ。	いくよ。	I'm going.	Informal statement	〜よ	Casual assertion	Conversational	よ	[sound:6b46d91141c9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-待ってくださいね。	まってください。	Please wait.	Formal polite	ね (formal)	Politeness marker	Standard	ね	[sound:43dbb19758af.mp3]	module:07-casual point:casual-questions complexity:intro
-頑張ってよ。	がんばってよ。	Do your best!	Casual encouragement	〜よ	Encouragement	Friendly	よ	[sound:4d66388b4fc7.mp3]	module:07-casual point:casual-questions complexity:intro
-来るんだ？	くるんだ？	You're coming?	の extended form	ん＋だ＋？	Casual surprise	Question	か	[sound:931067c5c268.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-誰なん？	だれなん？	Who is it?	ん? with copula	〜ん？	Quick identification	Urgent inquiry	か	[sound:cdac2bd56f9b.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-どうしたん？	どうしたん？	What happened?	ん? for concern	〜ん？	Problem check	Concerned tone	か	[sound:909f6e99b094.mp3]	module:07-casual point:casual-questions complexity:intro
-学生なん？	がくせいなん？	Are you a student?	ん? with adjective	〜ん？	Quick inquiry	Conversational	か	[sound:12b4d0f170af.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-今日来るよ。	きょうくるよ。	I'm coming today.	Casual assertion	〜よ	Informal statement	Conversational	よ	[sound:95610c70b263.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-手伝ってよ。	てつだってよ。	Help me!	Casual request	〜よ	Urgent appeal	Friendly	よ	[sound:5b0da679945f.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-本当のこと言ったわ。	ほんとうのこといったわ。	I told the truth.	Female narrative	〜わ	Feminine disclosure	Female tone	わ	[sound:c7afc42f5fa4.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-いい天気だね？	いいてんきだね？	Nice weather, huh?	ね with question tone	ね？	Soft inquiry	Conversational	ね	[sound:0010e72bae34.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-行ったんですか？	いったんですか？	Did you go?	Polite form	んですか	Formal inquiry	Polite	か	[sound:f6002a12cbf6.mp3]	module:07-casual point:casual-questions complexity:intro
-何なん？	なんなん？	What is it?	ん? for identification	〜ん？	Quick understanding	Urgent	か	[sound:c330582a79e9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-分かったん？	わかったん？	Did you understand?	ん? for confirmation	〜ん？	Knowledge check (replacement)	Casual inquiry	か	[sound:3802e58b7098.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k
-やるよ。	やるよ。	I will do it.	Casual promise	〜よ	Firm assertion	Conversational	よ	[sound:9029691e84f7.mp3]	module:07-casual point:casual-questions complexity:intro
-来てよ。	きてよ。	Come!	Casual command	〜よ	Urgent appeal	Friendly	よ	[sound:c3ee5b028a96.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k
-知ってるん？	しってるん？	Do you know?	ん? for confirmation	〜ん？	Knowledge check	Casual inquiry	か	[sound:82632765b836.mp3]	module:07-casual point:casual-questions complexity:intro
-何？	なに？	What?	Minimal question	？	Simple inquiry	Casual	か	[sound:099228cf66b8.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-来た？	きた？	You came?	か dropped	か (dropped)	Rising intonation	Natural speech	か	[sound:ef3bfe0ba96b.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k
-本当のことなん？	ほんとうのことなん？	Is it the truth?	ん? for fact-check	〜ん？	Verification inquiry	Casual question	か	[sound:7f5d88b01c11.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-好きなの？	すきなの？	Do you like it?	の? with question	〜の？	Gentle inquiry	Soft question	か	[sound:5d338ccc34cd.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
-行くの？	いくの？	Are you going?	の? standard	〜の？	Soft inquiry	Gentle	か	[sound:554b6162f03e.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k
+今日何やってる？	きょうなにやってる？	What are you doing today?	Question without か	Question (no か)	Rising intonation	Conversational	か	[sound:a31c1f30b3e2.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+誰が来た？	だれがきた？	Who came?	Question particle drop	Question (no か)	Inquiry tone	Natural speech	か	[sound:64bb01c54860.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+どこ行くの？	どこいくの？	Where are you going?	の? instead of か	〜の？	Gentle inquiry	Soft question	か	[sound:0f886a9f1a04.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+何してんの？	なにしてんの？	What are you doing?	Casual interrogation	〜の？	Quick question	Conversational	か	[sound:95038104f997.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+本当なん？	ほんとうなん？	Really?	ん? confirmation	〜ん？	Casual confirmation	Quick check	か	[sound:c40ce6f97c9e.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+大丈夫なん？	だいじょうぶなん？	Are you okay?	Concern check	〜ん？	Worry inquiry	Casual concern	か	[sound:5e8d077020b9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+来てくれたわ。	きてくれたわ。	You came for me!	Feminine assertion	〜わ	Feminine particle	Female tone	わ	[sound:452769db1db8.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+楽しかったわ。	たのしかったわ。	It was fun!	Female statement	〜わ	Feminine speech	Female tone	わ	[sound:e6c747308ea6.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+好きよ。	すきよ。	I like it.	Feminine assertion	〜よ	Female emphasis	Female tone	よ	[sound:01c0374ef1ce.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+行くよ。	いくよ。	I'm going.	Informal statement	〜よ	Casual assertion	Conversational	よ	[sound:6b46d91141c9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+待ってくださいね。	まってください。	Please wait.	Formal polite	ね (formal)	Politeness marker	Standard	ね	[sound:43dbb19758af.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+頑張ってよ。	がんばってよ。	Do your best!	Casual encouragement	〜よ	Encouragement	Friendly	よ	[sound:4d66388b4fc7.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+来るんだ？	くるんだ？	You're coming?	の extended form	ん＋だ＋？	Casual surprise	Question	か	[sound:931067c5c268.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+誰なん？	だれなん？	Who is it?	ん? with copula	〜ん？	Quick identification	Urgent inquiry	か	[sound:cdac2bd56f9b.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+どうしたん？	どうしたん？	What happened?	ん? for concern	〜ん？	Problem check	Concerned tone	か	[sound:909f6e99b094.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+学生なん？	がくせいなん？	Are you a student?	ん? with adjective	〜ん？	Quick inquiry	Conversational	か	[sound:12b4d0f170af.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+今日来るよ。	きょうくるよ。	I'm coming today.	Casual assertion	〜よ	Informal statement	Conversational	よ	[sound:95610c70b263.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+手伝ってよ。	てつだってよ。	Help me!	Casual request	〜よ	Urgent appeal	Friendly	よ	[sound:5b0da679945f.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+本当のこと言ったわ。	ほんとうのこといったわ。	I told the truth.	Female narrative	〜わ	Feminine disclosure	Female tone	わ	[sound:c7afc42f5fa4.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+いい天気だね？	いいてんきだね？	Nice weather, huh?	ね with question tone	ね？	Soft inquiry	Conversational	ね	[sound:0010e72bae34.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+行ったんですか？	いったんですか？	Did you go?	Polite form	んですか	Formal inquiry	Polite	か	[sound:f6002a12cbf6.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+何なん？	なんなん？	What is it?	ん? for identification	〜ん？	Quick understanding	Urgent	か	[sound:c330582a79e9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+分かったん？	わかったん？	Did you understand?	ん? for confirmation	〜ん？	Knowledge check (replacement)	Casual inquiry	か	[sound:3802e58b7098.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+やるよ。	やるよ。	I will do it.	Casual promise	〜よ	Firm assertion	Conversational	よ	[sound:9029691e84f7.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+来てよ。	きてよ。	Come!	Casual command	〜よ	Urgent appeal	Friendly	よ	[sound:c3ee5b028a96.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+知ってるん？	しってるん？	Do you know?	ん? for confirmation	〜ん？	Knowledge check	Casual inquiry	か	[sound:82632765b836.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+何？	なに？	What?	Minimal question	？	Simple inquiry	Casual	か	[sound:099228cf66b8.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+来た？	きた？	You came?	か dropped	か (dropped)	Rising intonation	Natural speech	か	[sound:ef3bfe0ba96b.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+本当のことなん？	ほんとうのことなん？	Is it the truth?	ん? for fact-check	〜ん？	Verification inquiry	Casual question	か	[sound:7f5d88b01c11.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+好きなの？	すきなの？	Do you like it?	の? with question	〜の？	Gentle inquiry	Soft question	か	[sound:5d338ccc34cd.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+行くの？	いくの？	Are you going?	の? standard	〜の？	Soft inquiry	Gentle	か	[sound:554b6162f03e.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi

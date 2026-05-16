@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#columns:Audio	Prompt	Answer	Reading	EN	Tags
+#notetype:Dictation
+#deck:Japanese Grammar::07 - Casual::Dictation
+#
+[sound:16977b5faa3e.mp3]	毎日走っている。	毎日走っている。	まいにちはしっている。	Run every day (current state).	module:07-casual point:aspectual-contractions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:c52bb8fe897a.mp3]	今、メール送ってる。	今、メール送ってる。	いま、めーるおくってる。	Sending email right now.	module:07-casual point:aspectual-contractions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:51ee6a1ba099.mp3]	そろそろ行ってく。	そろそろ行ってく。	そろそろいってく。	I'm heading out soon.	module:07-casual point:aspectual-contractions complexity:intro source:imabi point:module-dictation_dictation complexity:standard
+[sound:7501810e7f5f.mp3]	話していくね。	話していくね。	はなしていくね。	I'll talk through this with you.	module:07-casual point:aspectual-contractions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:4ed323f7af0e.mp3]	資料置い___きます。	資料置いときます。	しりょうおいときます。	I'll put the document here.	module:07-casual point:aspectual-contractions complexity:intro frequency:low source:imabi point:module-dictation_dictation complexity:standard
+[sound:53ac629bc8b5.mp3]	先生___聞いといた。	先生に聞いといた。	せんせいにきいといた。	Asked the teacher beforehand.	module:07-casual point:aspectual-contractions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:364839a13e10.mp3]	それ、ほんまやん。	それ、ほんまやん。	それ、ほんままたはそれ、ほんまや。	That's really true!	module:07-casual point:aspectual-contractions complexity:intro source:imabi point:module-dictation_dictation complexity:standard
+[sound:1ce7f3242ced.mp3]	関西弁だ___って言うてる。	関西弁だからって言うてる。	かんさいべんだからっていうてる。	Saying it's Kansai dialect.	module:07-casual point:aspectual-contractions complexity:standard frequency:low source:imabi point:module-dictation_dictation
+[sound:a31c1f30b3e2.mp3]	今日何やってる？	今日何やってる？	きょうなにやってる？	What are you doing today?	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:64bb01c54860.mp3]	誰___来た？	誰が来た？	だれがきた？	Who came?	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:0f886a9f1a04.mp3]	どこ行くの？	どこ行くの？	どこいくの？	Where are you going?	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:95038104f997.mp3]	何してんの？	何してんの？	なにしてんの？	What are you doing?	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:c40ce6f97c9e.mp3]	本当なん？	本当なん？	ほんとうなん？	Really?	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:5e8d077020b9.mp3]	大丈夫なん？	大丈夫なん？	だいじょうぶなん？	Are you okay?	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:452769db1db8.mp3]	来てくれたわ。	来てくれたわ。	きてくれたわ。	You came for me!	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:e6c747308ea6.mp3]	楽しかったわ。	楽しかったわ。	たのしかったわ。	It was fun!	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:63472d5b92b6.mp3]	関西人やん。	関西人やん。	かんさいじんやん。	You're from Kansai.	module:07-casual point:kansai-basics complexity:intro frequency:low source:imabi point:module-dictation_dictation complexity:standard
+[sound:5f4467e1d30f.mp3]	可愛いやん。	可愛いやん。	かわいいやん。	You're cute!	module:07-casual point:kansai-basics complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:302030cb581c.mp3]	そんなんやん。	そんなんやん。	そんなんやん。	It's like that.	module:07-casual point:kansai-basics complexity:intro source:imabi point:module-dictation_dictation complexity:standard
+[sound:ad5033f9c58b.mp3]	違うやん。	違うやん。	ちがうやん。	It's different!	module:07-casual point:kansai-basics complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:93f719c7f9bb.mp3]	好きやん。	好きやん。	すきやん。	You like it!	module:07-casual point:kansai-basics complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:035c8336cd2b.mp3]	それ、違うやねん。	それ、違うやねん。	それ、ちがうやねん。	That's wrong, you see.	module:07-casual point:kansai-basics complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:9715a6a7d329.mp3]	違うやねんて。	違うやねんて。	ちがうやねんて。	I'm telling you it's different.	module:07-casual point:kansai-basics complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:f418948e6f09.mp3]	本当やん。	本当やん。	ほんまやん。	That's right.	module:07-casual point:kansai-basics complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard

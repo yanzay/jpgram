@@ -4,23 +4,23 @@
 #notetype:Production
 #deck:Japanese Grammar::00 - Foundation::Production
 #
-Say 'I am a student' (polite).	私は学生です。	わたしはがくせいです。	I am a student. [polite]	N + です = polite copula	[sound:af591120ebdd.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard
-Say 'I am a student' (plain).	私は学生だ。	わたしはがくせいだ。	I am a student. [plain/casual]	N + だ = plain copula	[sound:82954aec84cc.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'This is a book' (polite).	これは本です。	これはほんです。	This is a book. [polite]	N + です = polite copula	[sound:f617f781c004.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard
-Say 'That is red' (polite).	それは赤です。	それはあかです。	That is red. [polite i-adj]	i-adj + です (copula for i-adj)	[sound:082572f0e93a.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard
-Say 'The car is big' (polite).	車は大きいです。	くるまはおおきいです。	The car is big. [polite i-adj]	i-adj + です = polite i-adjective	[sound:e839106141ce.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'The weather is beautiful' (polite).	天気は綺麗です。	てんきはきれいです。	The weather is pretty. [polite na-adj]	na-adj + です = polite na-adjective	[sound:a719b51ee1f6.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'This is quiet' (polite).	ここは静かです。	ここはしずかです。	This place is quiet. [polite na-adj]	na-adj + です = polite na-adjective	[sound:b065bcc86961.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'It is not a pen' (polite).	これはペンではありません。	これはぺんではありません。	This is not a pen. [polite negative]	N + ではありません = polite negative copula	[sound:7d0cb86a1dc5.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'I am not a doctor' (polite).	私は医者ではありません。	わたしはいしゃではありません。	I am not a doctor. [polite negative]	N + ではありません = polite negative copula	[sound:c9a9ae07ccf0.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'It was a good day' (polite past).	いい日でした。	いいひでした。	It was a good day. [polite past]	N + でした = polite past copula	[sound:b326b5a0ad63.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'It was interesting' (polite past).	面白かったです。	おもしろかったです。	It was interesting. [polite past i-adj]	i-adj + かった + です = polite past i-adjective	[sound:3ff5a3bc3aaa.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'It was easy' (polite past).	簡単でした。	かんたんでした。	It was easy. [polite past na-adj]	na-adj + でした = polite past na-adjective	[sound:6fbcf4d359cd.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'My name is Tanaka' (polite).	私の名前は田中です。	わたしのなまえはたなかです。	My name is Tanaka. [polite]	N + です = polite copula	[sound:dd1617b4882a.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard
-Say 'He is a teacher' (polite).	彼は先生です。	かれはせんせいです。	He is a teacher. [polite]	N + です = polite copula	[sound:eabfdb0b8179.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard
-Say 'Today is Monday' (polite).	今日は月曜日です。	きょうはげつようびです。	Today is Monday. [polite]	N + です = polite copula	[sound:552861813ca1.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard
-Say 'Apples are red' (polite).	りんごは赤いです。	りんごはあかいです。	Apples are red. [polite i-adj]	i-adj + です = polite i-adjective	[sound:b34f2e9bf01a.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'Cats are cute' (polite).	猫は可愛いです。	ねこはかわいいです。	Cats are cute. [polite i-adj]	i-adj + です = polite i-adjective	[sound:5a8c02f583bc.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'Coffee is hot' (polite).	コーヒーは熱いです。	こーひーはあついです。	Coffee is hot. [polite i-adj]	i-adj + です = polite i-adjective	[sound:301ddde50a3b.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'The book is interesting' (polite).	その本は面白いです。	そのほんはおもしろいです。	That book is interesting. [polite i-adj]	i-adj + です = polite i-adjective	[sound:d0043d6fc0b4.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
-Say 'It is not beautiful' (polite).	綺麗ではありません。	きれいではありません。	It is not beautiful. [polite negative na-adj]	na-adj + ではありません = polite negative	[sound:4811d56f78c9.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced
+Say 'I am a student' (polite).	私は学生です。	わたしはがくせいです。	I am a student. [polite]	N + です = polite copula	[sound:af591120ebdd.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard source:curated-jpgram
+Say 'I am a student' (plain).	私は学生だ。	わたしはがくせいだ。	I am a student. [plain/casual]	N + だ = plain copula	[sound:82954aec84cc.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'This is a book' (polite).	これは本です。	これはほんです。	This is a book. [polite]	N + です = polite copula	[sound:f617f781c004.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard source:curated-jpgram
+Say 'That is red' (polite).	それは赤です。	それはあかです。	That is red. [polite i-adj]	i-adj + です (copula for i-adj)	[sound:082572f0e93a.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard source:curated-jpgram
+Say 'The car is big' (polite).	車は大きいです。	くるまはおおきいです。	The car is big. [polite i-adj]	i-adj + です = polite i-adjective	[sound:e839106141ce.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'The weather is beautiful' (polite).	天気は綺麗です。	てんきはきれいです。	The weather is pretty. [polite na-adj]	na-adj + です = polite na-adjective	[sound:a719b51ee1f6.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'This is quiet' (polite).	ここは静かです。	ここはしずかです。	This place is quiet. [polite na-adj]	na-adj + です = polite na-adjective	[sound:b065bcc86961.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'It is not a pen' (polite).	これはペンではありません。	これはぺんではありません。	This is not a pen. [polite negative]	N + ではありません = polite negative copula	[sound:7d0cb86a1dc5.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'I am not a doctor' (polite).	私は医者ではありません。	わたしはいしゃではありません。	I am not a doctor. [polite negative]	N + ではありません = polite negative copula	[sound:c9a9ae07ccf0.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'It was a good day' (polite past).	いい日でした。	いいひでした。	It was a good day. [polite past]	N + でした = polite past copula	[sound:b326b5a0ad63.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'It was interesting' (polite past).	面白かったです。	おもしろかったです。	It was interesting. [polite past i-adj]	i-adj + かった + です = polite past i-adjective	[sound:3ff5a3bc3aaa.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'It was easy' (polite past).	簡単でした。	かんたんでした。	It was easy. [polite past na-adj]	na-adj + でした = polite past na-adjective	[sound:6fbcf4d359cd.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'My name is Tanaka' (polite).	私の名前は田中です。	わたしのなまえはたなかです。	My name is Tanaka. [polite]	N + です = polite copula	[sound:dd1617b4882a.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard source:curated-jpgram
+Say 'He is a teacher' (polite).	彼は先生です。	かれはせんせいです。	He is a teacher. [polite]	N + です = polite copula	[sound:eabfdb0b8179.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard source:curated-jpgram
+Say 'Today is Monday' (polite).	今日は月曜日です。	きょうはげつようびです。	Today is Monday. [polite]	N + です = polite copula	[sound:552861813ca1.mp3]	module:00-foundation jlpt:n5 point:copula complexity:standard source:curated-jpgram
+Say 'Apples are red' (polite).	りんごは赤いです。	りんごはあかいです。	Apples are red. [polite i-adj]	i-adj + です = polite i-adjective	[sound:b34f2e9bf01a.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'Cats are cute' (polite).	猫は可愛いです。	ねこはかわいいです。	Cats are cute. [polite i-adj]	i-adj + です = polite i-adjective	[sound:5a8c02f583bc.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'Coffee is hot' (polite).	コーヒーは熱いです。	こーひーはあついです。	Coffee is hot. [polite i-adj]	i-adj + です = polite i-adjective	[sound:301ddde50a3b.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'The book is interesting' (polite).	その本は面白いです。	そのほんはおもしろいです。	That book is interesting. [polite i-adj]	i-adj + です = polite i-adjective	[sound:d0043d6fc0b4.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram
+Say 'It is not beautiful' (polite).	綺麗ではありません。	きれいではありません。	It is not beautiful. [polite negative na-adj]	na-adj + ではありません = polite negative	[sound:4811d56f78c9.mp3]	module:00-foundation jlpt:n5 point:copula complexity:advanced source:curated-jpgram

@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::08 - Slang::Production
+#
+I seriously tried it.	マジで really	まじでやってみた。	マジでやってみた。	Serious action	[sound:77210cf0aab0.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+That movie is super interesting.	チョー super + interesting	ちょーおもしろい、そのえいが。	チョー面白い、その映画。	Positive emphasis	[sound:1a405b2a9f5a.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+It was seriously difficult.	ホント really	ほんとたいへんだった。	ホント大変だった。	Past difficulty	[sound:11bbb80d1538.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+That's like, totally Japanese.	ザ quintessential	ざ・にほんてきだね。	ザ・日本的だね。	Typification	[sound:8dfba2d14b3e.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top10k source:tofugu
+It's super fast.	めっちゃ very + fast	めっちゃはやい。	めっちゃ早い。	Casual emphasis	[sound:3c29fca58128.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+I'm too sluggish to move.	ダルい lazy → doubled	だるだるでうごけない。	ダルダルで動けない。	Laziness expression	[sound:dbdde165faba.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+That's freaking difficult.	クソ damn + difficult	くそむずかしいよ。	クソ難しいよ。	Emphatic complaint	[sound:6fb1ba68491f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+Oh crap, I didn't study.	ヤバい oh no	やばい、べんきょうしてない。	ヤバい、勉強してない。	Mild panic	[sound:f53df1534229.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+That reason is hilarious.	ウケる amuse	うけるよ、そのりゆう。	ウケるよ、その理由。	Laughter response	[sound:582b3aeb39d6.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top5k source:tofugu
+Let's just do it quickly.	サッ quickly + verb	さっしちゃおう。	サッしちゃおう。	Casual decision	[sound:7451331b1154.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+I ignored that.	スルー skip English	するーされたい。	スルーされたい。	Dismissal response	[sound:40bc03b00eed.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+Are you serious?	マジ real + question	まじなの。	マジなの？	Disbelief expression	[sound:f51aa3dde987.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+Really? (Kansai).	ホンマ Kansai truly	ほんまに。	ホンマに？	Reality check	[sound:0e52b9bec5ff.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+Super easy.	チョー super + easy	ちょーかんたん。	チョー簡単。	Ease expression	[sound:e93da7e366c0.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top5k source:tofugu
+That's awesomely cool.	ヤバい amazing + cool	やばい、かっこいい。	ヤバい、かっこいい。	Admiration expression	[sound:9c9bb5afd902.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+That's incredibly cool.	クソ damn + cool	くそかっこいい。	クソかっこいい。	Strong admiration	[sound:7ce6ad18273c.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+Ugh, I don't wanna study.	ダル lazy short	だる、べんきょうしたくない。	ダル、勉強したくない。	Reluctance mood	[sound:6d821794fb2f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+That's super scary.	めっちゃ very + scary	めっちゃこわい。	めっちゃ怖い。	Fear expression	[sound:587dac9be06f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top5k source:tofugu
+That's a total romance drama.	ザ typical + genre	ざ・こいあいどらま。	ザ・恋愛ドラマ。	Genre classification	[sound:c442e3fd6482.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:low source:tofugu
+Haha, I see what you mean.	ウケ + ー laugh	ウケー、そういうこと。	ウケー、そういうこと。	Humor agreement	[sound:09945832d5d9.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+Seriously, that's the best.	マジ really + best	まじ、さいこうだわ。	マジ、最高だわ。	Strong approval	[sound:70e519043f55.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top10k source:tofugu
+That brings back memories.	チョー super + nostalgic	ちょーなつかしい。	チョー懐かしい。	Memory reference	[sound:bd81f6d27d7f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:low source:tofugu
+That makes me super happy.	めっちゃ very + happy	めっちゃうれしい。	めっちゃ嬉しい。	Positive emotion	[sound:29cc646fe761.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top5k source:tofugu
+I'm in such a lazy mood.	ダルダル lazy doubled	だるだるきぶん。	ダルダル気分。	Mood description	[sound:183806af6a02.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top5k source:tofugu
+That's seriously funny.	ウケる + really	ウケる、ほんとうに。	ウケる、本当に。	Laughter emphasis	[sound:fc5a3a537b1f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+That seriously surprised me.	マジ really + surprised	まじ、おどろいた。	マジ、驚いた。	Surprise expression	[sound:a4ee466165f1.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+I super like that.	チョー super + like	ちょーすき。	チョー好き。	Strong preference	[sound:bd7cf9acd865.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top1k source:tofugu
+I'm super bored with it.	めっちゃ very + bored	めっちゃあきた。	めっちゃ飽きた。	Boredom expression	[sound:4ac8fa89efa9.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+Seriously, right?	ホント really	ほんと、ですね。	ホント、ですね。	Agreement statement	[sound:2512d774161f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro source:tofugu
+That's like a total school festival.	ザ typical + event	ざ・ぶんかさい。	ザ・文化祭。	Event typification	[sound:c93b33c98f0f.mp3]	register:slang domain:youth module:08-slang point:youth-modifiers complexity:intro frequency:top10k source:tofugu

@@ -3,38 +3,38 @@
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
 #deck:Japanese Grammar::03 - N3 Grammar::Recognition
-眠くてたまらない	ねむくてたまらない	I'm unbearably sleepy.	-てたまらない	unbearable / overwhelming	emotion	[sound:2a5f1c9d3e7b].mp3		[sound:ff94e5bd37bf.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-悔しくてたまらない	くやしくてたまらない	It's unbearably frustrating.	-てたまらない	unbearable / emotion	emotion	[sound:6d3a1f7c2e9b].mp3		[sound:f671a07893f6.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-痛くてたまらない	いたくてたまらない	The pain is unbearable.	-てたまらない	unbearable / pain	pain	[sound:1e8f2c3d5a7b].mp3		[sound:498fea1f464b.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-恋しくてたまらない	こいしくてたまらない	I miss (someone) unbearably.	-てたまらない	unbearable / longing	longing	[sound:9a2f3e1c5d7b].mp3		[sound:a9a1869e9ea8.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-知りたくてたまらない	しりたくてたまらない	I desperately want to know.	-てたまらない	unbearable / desire	desire	[sound:3f1d9c7a2e5b].mp3		[sound:e97e65e7f5b4.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-楽しくてたまらない	たのしくてたまらない	Unbearably fun / delightful.	-てたまらない	unbearable / joy	joy	[sound:7c2a1f9e3d5b].mp3		[sound:172aa1922a1e.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-言いたくてたまらない	いいたくてたまらない	I desperately want to say.	-てたまらない	unbearable / urge	urge	[sound:5b3f2d1a8c7e].mp3		[sound:fa923ccb70aa.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-気になってたまらない	きになってたまらない	I can't help but worry.	-てたまらない	unbearable / worry	worry	[sound:8e1c3a5f2d7b].mp3		[sound:d0d81fd5c224.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k
-毎日、疲れが溜まる	まいにち、つかれがたまる	Fatigue accumulates daily.	-たまる	accumulate / fatigue	accumulation	[sound:1d7f3c9a2e5b].mp3		[sound:5af184447e54.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-ストレスが溜まる	ストレスがたまる	Stress accumulates.	-たまる	accumulate / stress	accumulation	[sound:4a2f1c8d3e7b].mp3		[sound:432d7f057a01.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-垢が溜まる	あかがたまる	Grime accumulates.	-たまる	accumulate / dirt	accumulation	[sound:6c3a1f9d2e5b].mp3		[sound:3fbdb0722e79.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:low
-財宝が溜まる	ざいほうがたまる	Treasure accumulates.	-たまる	accumulate / wealth	accumulation	[sound:3e5d2a1f8c7b].mp3		[sound:c816581244dd.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:low
-悲しくてならない	かなしくてならない	I can't help but be sad.	-てならない	resigned / unavoidable	emotion	[sound:9f2c1a5d7e3b].mp3		[sound:448668e3a91d.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-驚くてならない	おどろくてならない	I can't help but be surprised.	-てならない	resigned / surprise	surprise	[sound:2d7f1c9a3e5b].mp3		[sound:cb0d5809976f.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k
-心配でならない	しんぱいでならない	I can't help but worry.	-てならない	resigned / worry	worry	[sound:5a3f2e1c8d7b].mp3		[sound:2db0c3524603.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k
-不安でならない	ふあんでならない	I can't help but feel anxious.	-てならない	resigned / anxiety	anxiety	[sound:1c8e3d5f2a7b].mp3		[sound:a22bb873df9f.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-辛くてならない	つらくてならない	I can't help but suffer.	-てならない	resigned / suffering	suffering	[sound:7b2f1d9c3e5a].mp3		[sound:47fa62903b3d.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-黙っていられない	だまっていられない	I can't stay silent.	-ていられない	can't help / inability	compulsion	[sound:3a5f2d1c9e7b].mp3		[sound:0ff7b5c5b70c.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-傍観していられない	ぼうかんしていられない	I can't just observe.	-ていられない	can't help / involvement	involvement	[sound:8d2c1a7f3e5b].mp3		[sound:867959a594ae.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-笑わずにいられない	わらわずにいられない	I can't help but laugh.	-ずにいられない	can't help / laughter	involuntary	[sound:4f1e9a3c2d5b].mp3		[sound:efbbb0b48587.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-気にせずにいられない	きにせずにいられない	I can't help but mind.	-ずにいられない	can't help / concern	involuntary	[sound:6a3d1f8e2c7b].mp3		[sound:218b28c3d1f0.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k
-惹かれずにいられない	ひかれずにいられない	I can't help but be attracted.	-ずにいられない	can't help / attraction	involuntary	[sound:2c7a3f1d5e9b].mp3		[sound:a16e4c8c6035.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-感動せずにいられない	かんどうせずにいられない	I can't help but be moved.	-ずにいられない	can't help / emotion	involuntary	[sound:9b1f3e5d2c7a].mp3		[sound:626c478caed9.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-行かないではいられない	いかないではいられない	I can't help but go.	-ないではいられない	can't help / compulsion	compulsion	[sound:1e5f2a9c3d7b].mp3		[sound:aa6f73746a26.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-恐れずにいられない	おそれずにいられない	I can't help but fear.	-ずにいられない	can't help / fear	involuntary	[sound:5d2c1a8f3e7b].mp3		[sound:2287bacf0a83.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:low
-分かりやすい	わかりやすい	Easy to understand.	-やすい	easy to / intelligibility	quality	[sound:3f1d9a7c2e5b].mp3		[sound:242f347ea7be.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-話しにくい	はなしにくい	Difficult to talk about.	-にくい	hard to / difficulty	quality	[sound:8a2f1c7d3e5b].mp3		[sound:5610bda08169.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top1k
-使いづらい	つかいづらい	Awkward to use.	-づらい	awkward / usage	quality	[sound:1c5f3d9a2e7b].mp3		[sound:ab147e4b6f2c.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-読みやすい本	よみやすいほん	An easy-to-read book.	-やすい	easy to / readability	quality	[sound:6d3a1f9e2c5b].mp3		[sound:c900bdef6b0c.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
-言いにくい	いいにくい	Hard to say.	-にくい	hard to / expression	quality	[sound:2b7e1c9f3d5a].mp3		[sound:3c75e6a87dbd.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-雨がちな天気	あめがちなてんき	Rainy-tendency weather.	-がち	tend to / tendency	weather	[sound:9f2a3e1d5c7b].mp3		[sound:66c0240fd875.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top1k
-病気がちだ	びょうきがちだ	Prone to illness.	-がち	tend to / health	health	[sound:4c1a7f2e3d5b].mp3		[sound:2a4f0d92d630.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top1k
-忘れがちになる	わすれがちになる	Tend to forget.	-がち	tend to / forgetfulness	behavior	[sound:1f5d3c9a2e7b].mp3		[sound:b0b5e37c7633.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro
-失敗がちである	しっぱいがちである	Tend to fail.	-がち	tend to / failure	behavior	[sound:7a2c1d8f3e5b].mp3		[sound:97a4959cfdbe.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k
-遅刻がちな性格	ちこくがちなせいかく	A personality prone to lateness.	-がち	tend to / punctuality	character	[sound:3e5b2f1a8d7c].mp3		[sound:54cf0455e3b3.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k
+眠くてたまらない	ねむくてたまらない	I'm unbearably sleepy.	-てたまらない	unbearable / overwhelming	emotion	[sound:2a5f1c9d3e7b].mp3		[sound:ff94e5bd37bf.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+悔しくてたまらない	くやしくてたまらない	It's unbearably frustrating.	-てたまらない	unbearable / emotion	emotion	[sound:6d3a1f7c2e9b].mp3		[sound:f671a07893f6.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+痛くてたまらない	いたくてたまらない	The pain is unbearable.	-てたまらない	unbearable / pain	pain	[sound:1e8f2c3d5a7b].mp3		[sound:498fea1f464b.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+恋しくてたまらない	こいしくてたまらない	I miss (someone) unbearably.	-てたまらない	unbearable / longing	longing	[sound:9a2f3e1c5d7b].mp3		[sound:a9a1869e9ea8.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+知りたくてたまらない	しりたくてたまらない	I desperately want to know.	-てたまらない	unbearable / desire	desire	[sound:3f1d9c7a2e5b].mp3		[sound:e97e65e7f5b4.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+楽しくてたまらない	たのしくてたまらない	Unbearably fun / delightful.	-てたまらない	unbearable / joy	joy	[sound:7c2a1f9e3d5b].mp3		[sound:172aa1922a1e.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+言いたくてたまらない	いいたくてたまらない	I desperately want to say.	-てたまらない	unbearable / urge	urge	[sound:5b3f2d1a8c7e].mp3		[sound:fa923ccb70aa.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+気になってたまらない	きになってたまらない	I can't help but worry.	-てたまらない	unbearable / worry	worry	[sound:8e1c3a5f2d7b].mp3		[sound:d0d81fd5c224.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k source:shin-kanzen
+毎日、疲れが溜まる	まいにち、つかれがたまる	Fatigue accumulates daily.	-たまる	accumulate / fatigue	accumulation	[sound:1d7f3c9a2e5b].mp3		[sound:5af184447e54.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+ストレスが溜まる	ストレスがたまる	Stress accumulates.	-たまる	accumulate / stress	accumulation	[sound:4a2f1c8d3e7b].mp3		[sound:432d7f057a01.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+垢が溜まる	あかがたまる	Grime accumulates.	-たまる	accumulate / dirt	accumulation	[sound:6c3a1f9d2e5b].mp3		[sound:3fbdb0722e79.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:low source:shin-kanzen
+財宝が溜まる	ざいほうがたまる	Treasure accumulates.	-たまる	accumulate / wealth	accumulation	[sound:3e5d2a1f8c7b].mp3		[sound:c816581244dd.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:low source:shin-kanzen
+悲しくてならない	かなしくてならない	I can't help but be sad.	-てならない	resigned / unavoidable	emotion	[sound:9f2c1a5d7e3b].mp3		[sound:448668e3a91d.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+驚くてならない	おどろくてならない	I can't help but be surprised.	-てならない	resigned / surprise	surprise	[sound:2d7f1c9a3e5b].mp3		[sound:cb0d5809976f.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k source:shin-kanzen
+心配でならない	しんぱいでならない	I can't help but worry.	-てならない	resigned / worry	worry	[sound:5a3f2e1c8d7b].mp3		[sound:2db0c3524603.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k source:shin-kanzen
+不安でならない	ふあんでならない	I can't help but feel anxious.	-てならない	resigned / anxiety	anxiety	[sound:1c8e3d5f2a7b].mp3		[sound:a22bb873df9f.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+辛くてならない	つらくてならない	I can't help but suffer.	-てならない	resigned / suffering	suffering	[sound:7b2f1d9c3e5a].mp3		[sound:47fa62903b3d.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+黙っていられない	だまっていられない	I can't stay silent.	-ていられない	can't help / inability	compulsion	[sound:3a5f2d1c9e7b].mp3		[sound:0ff7b5c5b70c.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+傍観していられない	ぼうかんしていられない	I can't just observe.	-ていられない	can't help / involvement	involvement	[sound:8d2c1a7f3e5b].mp3		[sound:867959a594ae.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+笑わずにいられない	わらわずにいられない	I can't help but laugh.	-ずにいられない	can't help / laughter	involuntary	[sound:4f1e9a3c2d5b].mp3		[sound:efbbb0b48587.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+気にせずにいられない	きにせずにいられない	I can't help but mind.	-ずにいられない	can't help / concern	involuntary	[sound:6a3d1f8e2c7b].mp3		[sound:218b28c3d1f0.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k source:shin-kanzen
+惹かれずにいられない	ひかれずにいられない	I can't help but be attracted.	-ずにいられない	can't help / attraction	involuntary	[sound:2c7a3f1d5e9b].mp3		[sound:a16e4c8c6035.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+感動せずにいられない	かんどうせずにいられない	I can't help but be moved.	-ずにいられない	can't help / emotion	involuntary	[sound:9b1f3e5d2c7a].mp3		[sound:626c478caed9.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+行かないではいられない	いかないではいられない	I can't help but go.	-ないではいられない	can't help / compulsion	compulsion	[sound:1e5f2a9c3d7b].mp3		[sound:aa6f73746a26.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+恐れずにいられない	おそれずにいられない	I can't help but fear.	-ずにいられない	can't help / fear	involuntary	[sound:5d2c1a8f3e7b].mp3		[sound:2287bacf0a83.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:low source:shin-kanzen
+分かりやすい	わかりやすい	Easy to understand.	-やすい	easy to / intelligibility	quality	[sound:3f1d9a7c2e5b].mp3		[sound:242f347ea7be.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+話しにくい	はなしにくい	Difficult to talk about.	-にくい	hard to / difficulty	quality	[sound:8a2f1c7d3e5b].mp3		[sound:5610bda08169.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top1k source:shin-kanzen
+使いづらい	つかいづらい	Awkward to use.	-づらい	awkward / usage	quality	[sound:1c5f3d9a2e7b].mp3		[sound:ab147e4b6f2c.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+読みやすい本	よみやすいほん	An easy-to-read book.	-やすい	easy to / readability	quality	[sound:6d3a1f9e2c5b].mp3		[sound:c900bdef6b0c.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen
+言いにくい	いいにくい	Hard to say.	-にくい	hard to / expression	quality	[sound:2b7e1c9f3d5a].mp3		[sound:3c75e6a87dbd.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+雨がちな天気	あめがちなてんき	Rainy-tendency weather.	-がち	tend to / tendency	weather	[sound:9f2a3e1d5c7b].mp3		[sound:66c0240fd875.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top1k source:shin-kanzen
+病気がちだ	びょうきがちだ	Prone to illness.	-がち	tend to / health	health	[sound:4c1a7f2e3d5b].mp3		[sound:2a4f0d92d630.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top1k source:shin-kanzen
+忘れがちになる	わすれがちになる	Tend to forget.	-がち	tend to / forgetfulness	behavior	[sound:1f5d3c9a2e7b].mp3		[sound:b0b5e37c7633.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro source:shin-kanzen
+失敗がちである	しっぱいがちである	Tend to fail.	-がち	tend to / failure	behavior	[sound:7a2c1d8f3e5b].mp3		[sound:97a4959cfdbe.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top5k source:shin-kanzen
+遅刻がちな性格	ちこくがちなせいかく	A personality prone to lateness.	-がち	tend to / punctuality	character	[sound:3e5b2f1a8d7c].mp3		[sound:54cf0455e3b3.mp3]	module:03-n3 jlpt:n3 point:n3-modality complexity:intro frequency:top10k source:shin-kanzen

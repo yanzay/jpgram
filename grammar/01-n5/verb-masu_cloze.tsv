@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::01 - N5 Grammar::Cloze
 #
-食べ{{c1::ます}}。	たべ{{c1::ます}}。	eat [polite present]	[sound:d12f0f81564b.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-食べ{{c1::ません}}。	たべ{{c1::ません}}。	don't eat [polite negative]	[sound:71ca444a72fc.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-食べ{{c1::ました}}。	たべ{{c1::ました}}。	ate [polite past]	[sound:d88324b5ad55.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-食べ{{c1::ませんでした}}。	たべ{{c1::ませんでした}}。	didn't eat [polite past neg]	[sound:9f827588663f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-行き{{c1::ます}}。	いき{{c1::ます}}。	go [polite]	[sound:8ad1228fffbe.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro
-行き{{c1::ません}}。	いき{{c1::ません}}。	don't go	[sound:aa3f1d576890.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro
-来{{c1::ました}}。	き{{c1::ました}}。	came [past]	[sound:556d3386aeb7.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro
-勉強し{{c1::ませんでした}}。	べんきょうし{{c1::ませんでした}}。	didn't study	[sound:3d8777eec4bb.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top1k complexity:intro
-見て{{c1::います}}。	みて{{c1::います}}。	am watching	[sound:58a9b1459b39.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-書いて{{c1::いました}}。	かいて{{c1::いました}}。	was writing	[sound:d62afe74ca15.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-飲み{{c1::ますか}}？	のみ{{c1::ますか}}？	do you drink?	[sound:3f97681b54d5.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-料理できます{{c1::か}}？	りょうりできます{{c1::か}}？	can cook? [question]	[sound:bc4081c3f90e.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top1k complexity:intro
-食べ{{c1::たいです}}。	たべ{{c1::たいです}}。	want to eat	[sound:bfc7b9a87cfa.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-来{{c1::ます}}。	き{{c1::ます}}。	come [polite]	[sound:02d8965e1716.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro
-泳ぎ{{c1::ました}}。	およぎ{{c1::ました}}。	swam [past]	[sound:3c68bdd76385.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro
+食べ{{c1::ます}}。	たべ{{c1::ます}}。	eat [polite present]	[sound:d12f0f81564b.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+食べ{{c1::ません}}。	たべ{{c1::ません}}。	don't eat [polite negative]	[sound:71ca444a72fc.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+食べ{{c1::ました}}。	たべ{{c1::ました}}。	ate [polite past]	[sound:d88324b5ad55.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+食べ{{c1::ませんでした}}。	たべ{{c1::ませんでした}}。	didn't eat [polite past neg]	[sound:9f827588663f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+行き{{c1::ます}}。	いき{{c1::ます}}。	go [polite]	[sound:8ad1228fffbe.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro source:shin-kanzen
+行き{{c1::ません}}。	いき{{c1::ません}}。	don't go	[sound:aa3f1d576890.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro source:shin-kanzen
+来{{c1::ました}}。	き{{c1::ました}}。	came [past]	[sound:556d3386aeb7.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro source:shin-kanzen
+勉強し{{c1::ませんでした}}。	べんきょうし{{c1::ませんでした}}。	didn't study	[sound:3d8777eec4bb.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top1k complexity:intro source:shin-kanzen
+見て{{c1::います}}。	みて{{c1::います}}。	am watching	[sound:58a9b1459b39.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+書いて{{c1::いました}}。	かいて{{c1::いました}}。	was writing	[sound:d62afe74ca15.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+飲み{{c1::ますか}}？	のみ{{c1::ますか}}？	do you drink?	[sound:3f97681b54d5.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+料理できます{{c1::か}}？	りょうりできます{{c1::か}}？	can cook? [question]	[sound:bc4081c3f90e.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top1k complexity:intro source:shin-kanzen
+食べ{{c1::たいです}}。	たべ{{c1::たいです}}。	want to eat	[sound:bfc7b9a87cfa.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+来{{c1::ます}}。	き{{c1::ます}}。	come [polite]	[sound:02d8965e1716.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro source:shin-kanzen
+泳ぎ{{c1::ました}}。	およぎ{{c1::ました}}。	swam [past]	[sound:3c68bdd76385.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro source:shin-kanzen

@@ -34,6 +34,7 @@ MEDIA_DIR = Path("media/audio")
 MANIFEST_PATH = Path("media/audio_manifest.json")
 
 _CLOZE_RE = re.compile(r"\{\{c\d+::[^}]+\}\}")
+_ANY_CLOZE_RE = re.compile(r"\{\{c\d+::")
 _SOUND_RE = re.compile(r"\[sound:([^\]]+)\]")
 _PLACEHOLDER_RE = re.compile(r"\[sound:WAVE\d+_PLACEHOLDER\.mp3\]", re.I)
 _FAKE_HASH_RE = re.compile(r"\[sound:[0-9a-f]{12}\.mp3\]", re.I)  # may be legit
@@ -84,6 +85,13 @@ def lint_file(path: Path,
             errs.append(f"{path}:{ln}: first field empty")
         if nt == "Cloze" and not _CLOZE_RE.search(row[0]):
             errs.append(f"{path}:{ln}: cloze row has no {{c…::…}} marker")
+        if nt != "Cloze":
+            for idx, field in enumerate(row):
+                if _ANY_CLOZE_RE.search(field):
+                    errs.append(
+                        f"{path}:{ln}: cloze marker leaked into non-cloze note "
+                        f"(field '{header[idx]}')"
+                    )
 
         # Tags column = last column in every NOTE_TYPE.
         tags = row[-1].strip()
@@ -109,11 +117,12 @@ def lint_file(path: Path,
                             f"in media/audio/ and not in manifest")
             audio_users[ref].append(f"{path}:{ln}")
 
-        key = (row[0], row[1] if len(row) > 1 else "")
+        key = tuple(row)
         seen[key] += 1
     for key, n in seen.items():
         if n > 1:
-            errs.append(f"{path}: duplicate row × {n}: {key[0][:40]}…")
+            preview = key[0][:40] if key else ""
+            errs.append(f"{path}: duplicate row × {n}: {preview}…")
     return errs
 
 

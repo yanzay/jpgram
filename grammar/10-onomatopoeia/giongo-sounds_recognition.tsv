@@ -4,44 +4,44 @@
 #notetype:Recognition
 #deck:Japanese Grammar::10 - Onomatopoeia::Giongo
 
-ワンワン	わんわん	Woof woof.	Dog bark	onomatopoeia	actual sound	dog barking	meow (ニャーニャー)	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ニャーニャー	にゃーにゃー	Meow meow.	Cat meow	onomatopoeia	actual sound	cat crying	dog bark (ワンワン)	[sound:b52e76022102.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ガチャン	がちゃん	Clang/click.	Hard object collision	onomatopoeia	actual sound	impact sound	soft splash (ザぶん)	[sound:9c6d1a4da546.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ゴロゴロ	ごろごろ	Rumble/rolling.	Thunder or rolling	onomatopoeia	actual sound	deep rolling	light rustling (カサカサ)	[sound:938a3cd2d0da.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ドキドキ	どきどき	Thump/pounding.	Heartbeat fast	onomatopoeia	actual sound	rapid pulse	steady tick (チクタク)	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ザーザー	ざーざー	Pouring/streaming.	Heavy rain	onomatopoeia	actual sound	downpour	light drizzle (しとしと)	[sound:9d4f1cd9c7a2.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-シッシッ	しっしっ	Shoo/go away.	Chasing away	onomatopoeia	actual sound	dismissive sound	whoosh (スッ)	[sound:ddd98d823fd2.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-チョロチョロ	ちょろちょろ	Trickling.	Water flowing gently	onomatopoeia	actual sound	trickle of liquid	gushing (ザーザー)	[sound:a8e06dc996d1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ポツン	ぽつん	Plop/drip.	Single drop falling	onomatopoeia	actual sound	isolated impact	continuous rain (ザーザー)	[sound:c97b76c8d165.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-キラキラ	きらきら	Sparkling/twinkling.	Light reflection	onomatopoeia	actual sound	bright twinkle	dull gleam (どんより)	[sound:b926dc0626cd.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-カシャカシャ	かしゃかしゃ	Clicking/rattling.	Shutter or chain	onomatopoeia	actual sound	staccato clicking	smooth sliding (スルスル)	[sound:528a6735b548.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-コソコソ	こそこそ	Sneaking/whispering.	Moving secretly	onomatopoeia	actual sound	furtive movement	bold striding (どんどん)	[sound:360d5a32b761.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-トコトコ	とことこ	Patter/trotting.	Light footsteps	onomatopoeia	actual sound	steady pacing	heavy stomping (ドンドン)	[sound:348cc7e49bc3.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-セキセキ	せきせき	Coughing repeatedly.	Repeated cough	onomatopoeia	actual sound	dry cough	smooth breathing (すーすー)	[sound:7e2deb5ac634.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ボソボソ	ぼそぼそ	Mumbling/muttering.	Unclear speech	onomatopoeia	actual sound	quiet murmur	loud shouting (わっ)	[sound:e6ba5ff54860.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ハラハラ	はらはら	Fluttering/falling.	Leaves or paper	onomatopoeia	actual sound	drifting fall	solid thud (ドン)	[sound:e70e6f5442ae.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-パリパリ	ぱりぱり	Crunching/crackling.	Crispy texture	onomatopoeia	actual sound	crisp crackle	soft squelch (ぐにゃ)	[sound:aad036e313bc.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-フワフワ	ふわふわ	Fluffy/floating.	Cloud or soft item	onomatopoeia	actual sound	airy drifting	heavy sinking (ずっしり)	[sound:14c9ade9e23b.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-パタパタ	ぱたぱた	Flapping/pattering.	Wings or leaves	onomatopoeia	actual sound	repeated light hits	firm slapping (バシバシ)	[sound:7f9b03813dbb.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ジャラジャラ	じゃらじゃら	Jingling/jangling.	Chains or coins	onomatopoeia	actual sound	metallic clinking	soft tinkling (チリン)	[sound:57d75019061a.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ビショビショ	びしょびしょ	Soaking/drenched.	Dripping wet	onomatopoeia	actual sound	thoroughly wet	barely damp (しっとり)	[sound:2cc8de583681.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ブクブク	ぶくぶく	Bubbling.	Water boiling	onomatopoeia	actual sound	bubble sounds	smooth flowing (さらさら)	[sound:f0136e9a8a7d.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-バタバタ	ばたばた	Fluttering heavily.	Busy movement	onomatopoeia	actual sound	hectic motion	calm stillness (じっと)	[sound:5453e00f7d66.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ザッザッ	ざっざっ	Crunching underfoot.	Gravel or leaves	onomatopoeia	actual sound	grinding steps	smooth walking (そっと)	[sound:99294b73cc7c.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ビリビリ	びりびり	Ripping/tearing.	Tearing paper	onomatopoeia	actual sound	shredding sound	smooth cutting (スッ)	[sound:5504f489cd71.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-バチバチ	ばちばち	Cracking/sparking.	Electrical spark	onomatopoeia	actual sound	explosive pop	soft whimper (しゅん)	[sound:d806bf441b15.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ピリピリ	ぴりぴり	Stinging/tingling.	Sharp sensation	onomatopoeia	actual sound	prickling feel	smooth pleasure (すーっ)	[sound:523931cb2084.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ザリザリ	ざりざり	Gritty grinding.	Sand or gravel	onomatopoeia	actual sound	granular friction	smooth slip (つるん)	[sound:e37503117769.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-シュー	しゅー	Hissing/steaming.	Air or steam escape	onomatopoeia	actual sound	escaping air	quiet pop (ぽん)	[sound:7d03c52b2902.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ズズズ	ずずず	Slurping.	Noodle eating	onomatopoeia	actual sound	suction noise	chewing sound (もぐもぐ)	[sound:f9d6299216af.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-クシャクシャ	くしゃくしゃ	Crunching/crumpling.	Crushing paper	onomatopoeia	actual sound	compression sound	smooth unfolding (ぱたん)	[sound:55933a5ac05a.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ショリショリ	しょりしょり	Rustling softly.	Leaf rustle	onomatopoeia	actual sound	gentle scrape	loud crackle (バリバリ)	[sound:aba02c1db367.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ビックリ	びっくり	Startled sound.	Sudden shock	onomatopoeia	actual sound	surprise reaction	calm acceptance (そっか)	[sound:4c56163e11ab.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-グツグツ	ぐつぐつ	Simmering/bubbling.	Pot bubbling slowly	onomatopoeia	actual sound	gentle boil	rapid boil (ふつふつ)	[sound:f2cf25ebf2e1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-フンフン	ふんふん	Humming/grunting.	Casual sound	onomatopoeia	actual sound	rhythmic hum	silence (しん)	[sound:1bfc6d5dfda1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-スタタタ	すたたた	Rapid tapping.	Machine gun or drum	onomatopoeia	actual sound	staccato burst	single hit (どん)	[sound:1bd9252745be.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ポンポン	ぽんぽん	Pop pop sound.	Bouncing or tapping	onomatopoeia	actual sound	gentle bouncing	hard bang (ドン)	[sound:19ce7d348ccf.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ドンドン	どんどん	Boom boom.	Heavy impact repeatedly	onomatopoeia	actual sound	solid hitting	light tap (ぽん)	[sound:5f2dac4cce1c.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-スルスル	するする	Slipping smoothly.	Sliding motion	onomatopoeia	actual sound	frictionless glide	rough dragging (ざりざり)	[sound:6a5170b2512d.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ゴシゴシ	ごしごし	Scrubbing roughly.	Harsh rubbing	onomatopoeia	actual sound	friction scrub	gentle wiping (ふき)	[sound:757ad5e2f1c8.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
-ヒュー	ひゅー	Whooshing wind.	Fast air movement	onomatopoeia	actual sound	air rushing	stillness (しん)	[sound:d951ca322059.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro
+ワンワン	わんわん	Woof woof.	Dog bark	onomatopoeia	actual sound	dog barking	meow (ニャーニャー)	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ニャーニャー	にゃーにゃー	Meow meow.	Cat meow	onomatopoeia	actual sound	cat crying	dog bark (ワンワン)	[sound:b52e76022102.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ガチャン	がちゃん	Clang/click.	Hard object collision	onomatopoeia	actual sound	impact sound	soft splash (ザぶん)	[sound:9c6d1a4da546.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ゴロゴロ	ごろごろ	Rumble/rolling.	Thunder or rolling	onomatopoeia	actual sound	deep rolling	light rustling (カサカサ)	[sound:938a3cd2d0da.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ドキドキ	どきどき	Thump/pounding.	Heartbeat fast	onomatopoeia	actual sound	rapid pulse	steady tick (チクタク)	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ザーザー	ざーざー	Pouring/streaming.	Heavy rain	onomatopoeia	actual sound	downpour	light drizzle (しとしと)	[sound:9d4f1cd9c7a2.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+シッシッ	しっしっ	Shoo/go away.	Chasing away	onomatopoeia	actual sound	dismissive sound	whoosh (スッ)	[sound:ddd98d823fd2.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+チョロチョロ	ちょろちょろ	Trickling.	Water flowing gently	onomatopoeia	actual sound	trickle of liquid	gushing (ザーザー)	[sound:a8e06dc996d1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ポツン	ぽつん	Plop/drip.	Single drop falling	onomatopoeia	actual sound	isolated impact	continuous rain (ザーザー)	[sound:c97b76c8d165.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+キラキラ	きらきら	Sparkling/twinkling.	Light reflection	onomatopoeia	actual sound	bright twinkle	dull gleam (どんより)	[sound:b926dc0626cd.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+カシャカシャ	かしゃかしゃ	Clicking/rattling.	Shutter or chain	onomatopoeia	actual sound	staccato clicking	smooth sliding (スルスル)	[sound:528a6735b548.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+コソコソ	こそこそ	Sneaking/whispering.	Moving secretly	onomatopoeia	actual sound	furtive movement	bold striding (どんどん)	[sound:360d5a32b761.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+トコトコ	とことこ	Patter/trotting.	Light footsteps	onomatopoeia	actual sound	steady pacing	heavy stomping (ドンドン)	[sound:348cc7e49bc3.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+セキセキ	せきせき	Coughing repeatedly.	Repeated cough	onomatopoeia	actual sound	dry cough	smooth breathing (すーすー)	[sound:7e2deb5ac634.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ボソボソ	ぼそぼそ	Mumbling/muttering.	Unclear speech	onomatopoeia	actual sound	quiet murmur	loud shouting (わっ)	[sound:e6ba5ff54860.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ハラハラ	はらはら	Fluttering/falling.	Leaves or paper	onomatopoeia	actual sound	drifting fall	solid thud (ドン)	[sound:e70e6f5442ae.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+パリパリ	ぱりぱり	Crunching/crackling.	Crispy texture	onomatopoeia	actual sound	crisp crackle	soft squelch (ぐにゃ)	[sound:aad036e313bc.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+フワフワ	ふわふわ	Fluffy/floating.	Cloud or soft item	onomatopoeia	actual sound	airy drifting	heavy sinking (ずっしり)	[sound:14c9ade9e23b.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+パタパタ	ぱたぱた	Flapping/pattering.	Wings or leaves	onomatopoeia	actual sound	repeated light hits	firm slapping (バシバシ)	[sound:7f9b03813dbb.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ジャラジャラ	じゃらじゃら	Jingling/jangling.	Chains or coins	onomatopoeia	actual sound	metallic clinking	soft tinkling (チリン)	[sound:57d75019061a.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ビショビショ	びしょびしょ	Soaking/drenched.	Dripping wet	onomatopoeia	actual sound	thoroughly wet	barely damp (しっとり)	[sound:2cc8de583681.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ブクブク	ぶくぶく	Bubbling.	Water boiling	onomatopoeia	actual sound	bubble sounds	smooth flowing (さらさら)	[sound:f0136e9a8a7d.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+バタバタ	ばたばた	Fluttering heavily.	Busy movement	onomatopoeia	actual sound	hectic motion	calm stillness (じっと)	[sound:5453e00f7d66.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ザッザッ	ざっざっ	Crunching underfoot.	Gravel or leaves	onomatopoeia	actual sound	grinding steps	smooth walking (そっと)	[sound:99294b73cc7c.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ビリビリ	びりびり	Ripping/tearing.	Tearing paper	onomatopoeia	actual sound	shredding sound	smooth cutting (スッ)	[sound:5504f489cd71.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+バチバチ	ばちばち	Cracking/sparking.	Electrical spark	onomatopoeia	actual sound	explosive pop	soft whimper (しゅん)	[sound:d806bf441b15.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ピリピリ	ぴりぴり	Stinging/tingling.	Sharp sensation	onomatopoeia	actual sound	prickling feel	smooth pleasure (すーっ)	[sound:523931cb2084.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ザリザリ	ざりざり	Gritty grinding.	Sand or gravel	onomatopoeia	actual sound	granular friction	smooth slip (つるん)	[sound:e37503117769.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+シュー	しゅー	Hissing/steaming.	Air or steam escape	onomatopoeia	actual sound	escaping air	quiet pop (ぽん)	[sound:7d03c52b2902.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ズズズ	ずずず	Slurping.	Noodle eating	onomatopoeia	actual sound	suction noise	chewing sound (もぐもぐ)	[sound:f9d6299216af.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+クシャクシャ	くしゃくしゃ	Crunching/crumpling.	Crushing paper	onomatopoeia	actual sound	compression sound	smooth unfolding (ぱたん)	[sound:55933a5ac05a.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ショリショリ	しょりしょり	Rustling softly.	Leaf rustle	onomatopoeia	actual sound	gentle scrape	loud crackle (バリバリ)	[sound:aba02c1db367.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ビックリ	びっくり	Startled sound.	Sudden shock	onomatopoeia	actual sound	surprise reaction	calm acceptance (そっか)	[sound:4c56163e11ab.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+グツグツ	ぐつぐつ	Simmering/bubbling.	Pot bubbling slowly	onomatopoeia	actual sound	gentle boil	rapid boil (ふつふつ)	[sound:f2cf25ebf2e1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+フンフン	ふんふん	Humming/grunting.	Casual sound	onomatopoeia	actual sound	rhythmic hum	silence (しん)	[sound:1bfc6d5dfda1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+スタタタ	すたたた	Rapid tapping.	Machine gun or drum	onomatopoeia	actual sound	staccato burst	single hit (どん)	[sound:1bd9252745be.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ポンポン	ぽんぽん	Pop pop sound.	Bouncing or tapping	onomatopoeia	actual sound	gentle bouncing	hard bang (ドン)	[sound:19ce7d348ccf.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ドンドン	どんどん	Boom boom.	Heavy impact repeatedly	onomatopoeia	actual sound	solid hitting	light tap (ぽん)	[sound:5f2dac4cce1c.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+スルスル	するする	Slipping smoothly.	Sliding motion	onomatopoeia	actual sound	frictionless glide	rough dragging (ざりざり)	[sound:6a5170b2512d.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ゴシゴシ	ごしごし	Scrubbing roughly.	Harsh rubbing	onomatopoeia	actual sound	friction scrub	gentle wiping (ふき)	[sound:757ad5e2f1c8.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+ヒュー	ひゅー	Whooshing wind.	Fast air movement	onomatopoeia	actual sound	air rushing	stillness (しん)	[sound:d951ca322059.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar

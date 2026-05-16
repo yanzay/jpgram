@@ -4,18 +4,18 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Say 'it is quiet' (polite).	静かです。	しずかです。	It is quiet [polite]	na-adj + です	[sound:27b70157af9a.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'it is beautiful' (polite).	綺麗です。	きれいです。	It is beautiful [polite]	beautiful (na-adj)	[sound:cf8544c71813.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'it is convenient' (polite).	便利です。	べんりです。	It is convenient [polite]	convenient (na-adj)	[sound:c1bf657dfafc.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'it was fun' (polite past).	楽しかったです。	たのしかったです。	It was fun [polite past]	na-adj past: かった	[sound:b56a2d2b0366.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'this room is quiet' (polite).	この部屋は静かです。	このへやはしずかです。	This room is quiet [attributive]	この + noun + な	[sound:f8524c01959b.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'that person is kind' (polite).	あの人は親切です。	あのひとはしんせつです。	That person is kind [polite]	kind (na-adj)	[sound:eb1e1324e645.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'this is healthy food' (polite).	これは健康な食べ物です。	これはけんこうなたべものです。	This is healthy food [attributive]	health + な + noun	[sound:71c5cca97289.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'work is difficult' (polite).	仕事は大変です。	しごとはたいへんです。	The work is difficult [polite]	difficult (na-adj)	[sound:54f0283b6488.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'this event is special' (polite).	このイベントは特別です。	このいべんとはとくべつです。	This event is special [polite]	special (na-adj)	[sound:540aaf6a3a3e.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'place is dangerous' (polite).	その場所は危険です。	そのばしょはきけんです。	That place is dangerous [polite]	dangerous (na-adj)	[sound:3b0a9a42efdf.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'she is energetic' (polite).	彼女は元気です。	かのじょはげんきです。	She is energetic [polite]	energetic (na-adj)	[sound:3345d1ed7c9d.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'that is necessary' (polite).	それは必要です。	それはひつようです。	That is necessary [polite]	necessary (na-adj)	[sound:34324ea99078.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard
-Say 'this is modern style' (polite).	このスタイルは現代的です。	このすたいるはげんだいてきです。	This style is contemporary [polite]	modern (na-adj)	[sound:1ac528622c92.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'this is a simple problem' (polite).	これは簡単な問題です。	これはかんたんなもんだいです。	This is a simple problem [attributive]	simple + な + noun	[sound:676a36fa299c.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
-Say 'the place is peaceful' (polite).	その場所は平和です。	そのばしょはへいわです。	That place is peaceful [polite]	peaceful (na-adj)	[sound:672695030928.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced
+Say 'it is quiet' (polite).	静かです。	しずかです。	It is quiet [polite]	na-adj + です	[sound:27b70157af9a.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'it is beautiful' (polite).	綺麗です。	きれいです。	It is beautiful [polite]	beautiful (na-adj)	[sound:cf8544c71813.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'it is convenient' (polite).	便利です。	べんりです。	It is convenient [polite]	convenient (na-adj)	[sound:c1bf657dfafc.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'it was fun' (polite past).	楽しかったです。	たのしかったです。	It was fun [polite past]	na-adj past: かった	[sound:b56a2d2b0366.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'this room is quiet' (polite).	この部屋は静かです。	このへやはしずかです。	This room is quiet [attributive]	この + noun + な	[sound:f8524c01959b.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'that person is kind' (polite).	あの人は親切です。	あのひとはしんせつです。	That person is kind [polite]	kind (na-adj)	[sound:eb1e1324e645.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'this is healthy food' (polite).	これは健康な食べ物です。	これはけんこうなたべものです。	This is healthy food [attributive]	health + な + noun	[sound:71c5cca97289.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'work is difficult' (polite).	仕事は大変です。	しごとはたいへんです。	The work is difficult [polite]	difficult (na-adj)	[sound:54f0283b6488.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'this event is special' (polite).	このイベントは特別です。	このいべんとはとくべつです。	This event is special [polite]	special (na-adj)	[sound:540aaf6a3a3e.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'place is dangerous' (polite).	その場所は危険です。	そのばしょはきけんです。	That place is dangerous [polite]	dangerous (na-adj)	[sound:3b0a9a42efdf.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'she is energetic' (polite).	彼女は元気です。	かのじょはげんきです。	She is energetic [polite]	energetic (na-adj)	[sound:3345d1ed7c9d.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'that is necessary' (polite).	それは必要です。	それはひつようです。	That is necessary [polite]	necessary (na-adj)	[sound:34324ea99078.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:standard source:shin-kanzen
+Say 'this is modern style' (polite).	このスタイルは現代的です。	このすたいるはげんだいてきです。	This style is contemporary [polite]	modern (na-adj)	[sound:1ac528622c92.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'this is a simple problem' (polite).	これは簡単な問題です。	これはかんたんなもんだいです。	This is a simple problem [attributive]	simple + な + noun	[sound:676a36fa299c.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen
+Say 'the place is peaceful' (polite).	その場所は平和です。	そのばしょはへいわです。	That place is peaceful [polite]	peaceful (na-adj)	[sound:672695030928.mp3]	module:01-n5 jlpt:n5 point:na-adjectives complexity:advanced source:shin-kanzen

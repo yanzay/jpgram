@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::00 - Foundation::Cloze
 #
-{{c1::これ}}は本です。	{{c1::これ}}はほんです。	this is a book	[sound:1012a2633b91.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::それ}}は赤いです。	{{c1::それ}}はあかいです。	that is red	[sound:f1695b25f5d9.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::あれ}}は猫です。	{{c1::あれ}}はねこです。	that (far) is a cat	[sound:2ed2cbfea678.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::どれ}}がいいですか？	{{c1::どれ}}がいいですか？	which is good?	[sound:1b7860487ac2.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
-{{c1::この}}本は面白いです。	{{c1::この}}ほんはおもしろいです。	this book is interesting	[sound:f3e4f9a75b9b.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::その}}ペンは赤いです。	{{c1::その}}ぺんはあかいです。	that pen is red	[sound:4c955c222042.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::あの}}建物は古いです。	{{c1::あの}}たてものはふるいです。	that building is old	[sound:a1b4fc351544.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::どの}}りんごが好きですか？	{{c1::どの}}りんごがすきですか？	which apple do you like?	[sound:c0576fcad0c6.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-私は{{c1::これ}}が好きです。	わたしは{{c1::これ}}がすきです。	I like this	[sound:097f26f22e07.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-田中さんは{{c1::その}}人です。	たなかさんは{{c1::その}}ひとです。	Mr. Tanaka is that person	[sound:c56a748c0dfd.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top10k complexity:intro
-{{c1::あれ}}は何ですか？	{{c1::あれ}}はなんですか？	what is that?	[sound:ba409886dc40.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top10k complexity:intro
-{{c1::どれ}}でもいいです。	{{c1::どれ}}でもいいです。	any is fine	[sound:f6947c8e7f48.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro
-{{c1::この}}音楽は好きです。	{{c1::このおんがくはすきです}}。	I like this music	[sound:9e3e75063628.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
-{{c1::その}}日は雨でした。	{{c1::その}}ひはあめでした。	that day it rained	[sound:aa0746c6db2e.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top5k complexity:intro
-{{c1::あの}}人を知っていますか？	{{c1::あのひとをしっていますか}}？	do you know that person?	[sound:1c4749602794.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro
+{{c1::これ}}は本です。	{{c1::これ}}はほんです。	this is a book	[sound:1012a2633b91.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::それ}}は赤いです。	{{c1::それ}}はあかいです。	that is red	[sound:f1695b25f5d9.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::あれ}}は猫です。	{{c1::あれ}}はねこです。	that (far) is a cat	[sound:2ed2cbfea678.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::どれ}}がいいですか？	{{c1::どれ}}がいいですか？	which is good?	[sound:1b7860487ac2.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro source:curated-jpgram
+{{c1::この}}本は面白いです。	{{c1::この}}ほんはおもしろいです。	this book is interesting	[sound:f3e4f9a75b9b.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::その}}ペンは赤いです。	{{c1::その}}ぺんはあかいです。	that pen is red	[sound:4c955c222042.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::あの}}建物は古いです。	{{c1::あの}}たてものはふるいです。	that building is old	[sound:a1b4fc351544.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::どの}}りんごが好きですか？	{{c1::どの}}りんごがすきですか？	which apple do you like?	[sound:c0576fcad0c6.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+私は{{c1::これ}}が好きです。	わたしは{{c1::これ}}がすきです。	I like this	[sound:097f26f22e07.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+田中さんは{{c1::その}}人です。	たなかさんは{{c1::その}}ひとです。	Mr. Tanaka is that person	[sound:c56a748c0dfd.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top10k complexity:intro source:curated-jpgram
+{{c1::あれ}}は何ですか？	{{c1::あれ}}はなんですか？	what is that?	[sound:ba409886dc40.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top10k complexity:intro source:curated-jpgram
+{{c1::どれ}}でもいいです。	{{c1::どれ}}でもいいです。	any is fine	[sound:f6947c8e7f48.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro source:curated-jpgram
+{{c1::この}}音楽は好きです。	{{c1::このおんがくはすきです}}。	I like this music	[sound:9e3e75063628.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram
+{{c1::その}}日は雨でした。	{{c1::その}}ひはあめでした。	that day it rained	[sound:aa0746c6db2e.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top5k complexity:intro source:curated-jpgram
+{{c1::あの}}人を知っていますか？	{{c1::あのひとをしっていますか}}？	do you know that person?	[sound:1c4749602794.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro source:curated-jpgram

@@ -3,34 +3,34 @@
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
 #deck:Japanese Grammar::11 - Classical::Recognition
-一期一会	いちごいちえ	One time, one meeting.	四字熟語	ことわざ四字	一回限りの出会い	modern 今この瞬間を大切にする		[sound:991517c02a58.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k
-四面楚歌	しめんそか	Besieged from all sides.	四字熟語	ことわざ四字	四方を囲まれた状態	modern 孤立無援の状態		[sound:e6611d33d927.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-起承転結	きしょうてんけつ	Four-act structure.	四字熟語	ことわざ四字	作品の構成・四段階	modern 話の筋・構成		[sound:279cc6769df7.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro
-誠心誠意	せいしんせいい	With utmost sincerity.	四字熟語	ことわざ四字	心から・本気で	modern 心から・本当に		[sound:90561735abb7.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low
-五十歩百歩	ごじゅっぽひゃっぽ	Much of a muchness.	四字熟語	ことわざ四字	どっちもどっち・大差ない	modern どちらも同じ・大差ない		[sound:19dcf47957e3.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k
-薬石効なし	やくせきこうなし	Medicine has no effect.	四字熟語	ことわざ四字	手の施しようがない	modern 手の施しようがない・打つ手なし		[sound:020a11124be3.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k
-一葉知秋	いちようちあき	One leaf shows autumn.	四字熟語	ことわざ四字	小さなことから全体を推測	modern 小さな兆候から全体を知る		[sound:ae96fa312168.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k
-万全の策	ばんぜんのさく	Foolproof plan.	四字熟語	ことわざ四字	完璧な計画・対策	modern 万全な対策・完璧な計画		[sound:996b63f53072.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-龍虎相搏つ	りゅうこそううつ	Dragon and tiger fight.	四字熟語	ことわざ四字	強い者同士が争う	modern 強力な者同士が争う		[sound:33227ac3e94d.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-天地玄黄	てんちげんこう	Heaven and earth (obscure).	四字熟語	ことわざ四字	天と地の深い色	modern 天地の深い色		[sound:3a4fce021456.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low
-宇宙洪荒	うちゅうこうこう	The vast primordial cosmos.	四字熟語	ことわざ四字	開闢前の世界	modern 混沌とした世界・太古		[sound:9c016e5c15d5.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-東山再起	ひがしやまさいき	Comeback from retirement.	四字熟語	ことわざ四字	隠居から再び活躍	modern 引退から復帰・カムバック		[sound:f3cd1a1fd8d0.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k
-画竜点睛	がりょうてんせい	Adding eyes to painted dragon.	四字熟語	ことわざ四字	最後の仕上げ・完成	modern 最後の大切な仕上げ・完成		[sound:491e933182eb.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k
-百聞は一見に如かず	ひゃくぶんはいっけんにしかず	Seeing once beats hearing a hundred times.	ことわざ	ことわざ成句	自分で見ることが大切	modern 自分で見ることが最も確実		[sound:f93d25b775f1.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low
-知識は力なり	ちしきはちからなり	Knowledge is power.	成句	ことわざ成句	学ぶことの大切さ	modern 学ぶことの重要性		[sound:a141df74d26c.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-悪貨は良貨を駆逐する	あっかはりょうかをくちくする	Bad money drives out good.	成語	ことわざ経済	悪いものが良いものを淘汰	modern 劣ったものが優れたものを排除		[sound:42c41f79b23f.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-塞翁が馬	さいおうがうま	Blessing in disguise.	四字熟語	ことわざ四字	人生の吉凶は不定	modern 人生何が幸いするか分からない		[sound:a34d35ca3e24.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-老驥伏櫪	ろうきふくれき	Old steed in the stable.	四字熟語	ことわざ四字	老いてなお志を失わず	modern 年を取ってもなお志がある		[sound:f0763c416f1f.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro
-春風秋雨	はるかぜあきさめ	Spring breeze and autumn rain.	四字熟語	ことわざ四字	自然の恵み・季節	modern 自然の恩恵・季節の移ろい		[sound:d65a06936ec1.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k
-臨機応変	りんきおうへん	Adapt to the situation.	四字熟語	ことわざ四字	状況に合わせて対応	modern 状況に応じて柔軟に対応		[sound:4d480fa7ef51.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k
-千里眼	せんりがん	Far-seeing eye.	四字熟語	ことわざ四字	遠く見通す力	modern 先見の明・遠い見通し		[sound:3f9d075c8e7c.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k
-不易流行	ふえきりゅうこう	Unchanging and changing.	成語	ことわざ成句	不変と変化の両立	modern 不変と変化のバランス		[sound:0c82b558fccb.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-傍若無人	ぼうじゃくぶじん	Acting as if no one else exists.	四字熟語	ことわざ四字	他人を顧みない態度	modern 横柄な態度・わがまま		[sound:bc13baeb5c75.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-質実剛健	しつじつごうけん	Simplicity and strength.	四字熟語	ことわざ四字	質素で剛健な態度	modern 質素で健全な態度		[sound:d6ca3ec878bd.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-光陰矢の如し	こういんやのごとし	Time flies like an arrow.	ことわざ	ことわざ成句	時間は早く経つ	modern 時間の経過は速い		[sound:da7043f627ac.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low
-春宵一刻千金	しゅんしょういっこくせんきん	A spring night worth a thousand gold.	ことわざ	ことわざ成句	春の夜は貴重である	modern 春夜の素晴らしさ		[sound:c82b0e6f653d.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
-門前成市	もんぜんせいし	Streets crowd before the gate.	四字熟語	ことわざ四字	栄えて多くの人が集まる	modern 繁栄して人気がある		[sound:9b812aa48ee4.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k
-呉越同舟	ごえつどうしゅう	Enemies in the same boat.	四字熟語	ことわざ四字	敵同士が共存を余儀なくされる	modern 敵でも協力せざるを得ない		[sound:be45076a8e60.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k
-我田引水	がでんいんすい	Drawing water to one's field.	四字熟語	ことわざ四字	自分の利益のみを追求	modern 自分の利益だけを求める		[sound:8d2de6d0de64.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low
-白眉青眼	はくびせいがん	Striking features.	四字熟語	ことわざ四字	優れた人・才能	modern 優れた才能・傑出した人		[sound:3725ffba6da0.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low
-牙城を落とす	がじょうをおとす	Breach the fortress.	成句	ことわざ成句	牙城を陥落させる	modern 堅い城塞を落とす		[sound:2569cfda0d2d.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k
+一期一会	いちごいちえ	One time, one meeting.	四字熟語	ことわざ四字	一回限りの出会い	modern 今この瞬間を大切にする		[sound:991517c02a58.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k source:imabi
+四面楚歌	しめんそか	Besieged from all sides.	四字熟語	ことわざ四字	四方を囲まれた状態	modern 孤立無援の状態		[sound:e6611d33d927.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+起承転結	きしょうてんけつ	Four-act structure.	四字熟語	ことわざ四字	作品の構成・四段階	modern 話の筋・構成		[sound:279cc6769df7.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro source:imabi
+誠心誠意	せいしんせいい	With utmost sincerity.	四字熟語	ことわざ四字	心から・本気で	modern 心から・本当に		[sound:90561735abb7.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low source:imabi
+五十歩百歩	ごじゅっぽひゃっぽ	Much of a muchness.	四字熟語	ことわざ四字	どっちもどっち・大差ない	modern どちらも同じ・大差ない		[sound:19dcf47957e3.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k source:imabi
+薬石効なし	やくせきこうなし	Medicine has no effect.	四字熟語	ことわざ四字	手の施しようがない	modern 手の施しようがない・打つ手なし		[sound:020a11124be3.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k source:imabi
+一葉知秋	いちようちあき	One leaf shows autumn.	四字熟語	ことわざ四字	小さなことから全体を推測	modern 小さな兆候から全体を知る		[sound:ae96fa312168.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k source:imabi
+万全の策	ばんぜんのさく	Foolproof plan.	四字熟語	ことわざ四字	完璧な計画・対策	modern 万全な対策・完璧な計画		[sound:996b63f53072.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+龍虎相搏つ	りゅうこそううつ	Dragon and tiger fight.	四字熟語	ことわざ四字	強い者同士が争う	modern 強力な者同士が争う		[sound:33227ac3e94d.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+天地玄黄	てんちげんこう	Heaven and earth (obscure).	四字熟語	ことわざ四字	天と地の深い色	modern 天地の深い色		[sound:3a4fce021456.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low source:imabi
+宇宙洪荒	うちゅうこうこう	The vast primordial cosmos.	四字熟語	ことわざ四字	開闢前の世界	modern 混沌とした世界・太古		[sound:9c016e5c15d5.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+東山再起	ひがしやまさいき	Comeback from retirement.	四字熟語	ことわざ四字	隠居から再び活躍	modern 引退から復帰・カムバック		[sound:f3cd1a1fd8d0.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k source:imabi
+画竜点睛	がりょうてんせい	Adding eyes to painted dragon.	四字熟語	ことわざ四字	最後の仕上げ・完成	modern 最後の大切な仕上げ・完成		[sound:491e933182eb.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k source:imabi
+百聞は一見に如かず	ひゃくぶんはいっけんにしかず	Seeing once beats hearing a hundred times.	ことわざ	ことわざ成句	自分で見ることが大切	modern 自分で見ることが最も確実		[sound:f93d25b775f1.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low source:imabi
+知識は力なり	ちしきはちからなり	Knowledge is power.	成句	ことわざ成句	学ぶことの大切さ	modern 学ぶことの重要性		[sound:a141df74d26c.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+悪貨は良貨を駆逐する	あっかはりょうかをくちくする	Bad money drives out good.	成語	ことわざ経済	悪いものが良いものを淘汰	modern 劣ったものが優れたものを排除		[sound:42c41f79b23f.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+塞翁が馬	さいおうがうま	Blessing in disguise.	四字熟語	ことわざ四字	人生の吉凶は不定	modern 人生何が幸いするか分からない		[sound:a34d35ca3e24.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+老驥伏櫪	ろうきふくれき	Old steed in the stable.	四字熟語	ことわざ四字	老いてなお志を失わず	modern 年を取ってもなお志がある		[sound:f0763c416f1f.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro source:imabi
+春風秋雨	はるかぜあきさめ	Spring breeze and autumn rain.	四字熟語	ことわざ四字	自然の恵み・季節	modern 自然の恩恵・季節の移ろい		[sound:d65a06936ec1.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k source:imabi
+臨機応変	りんきおうへん	Adapt to the situation.	四字熟語	ことわざ四字	状況に合わせて対応	modern 状況に応じて柔軟に対応		[sound:4d480fa7ef51.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k source:imabi
+千里眼	せんりがん	Far-seeing eye.	四字熟語	ことわざ四字	遠く見通す力	modern 先見の明・遠い見通し		[sound:3f9d075c8e7c.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top1k source:imabi
+不易流行	ふえきりゅうこう	Unchanging and changing.	成語	ことわざ成句	不変と変化の両立	modern 不変と変化のバランス		[sound:0c82b558fccb.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+傍若無人	ぼうじゃくぶじん	Acting as if no one else exists.	四字熟語	ことわざ四字	他人を顧みない態度	modern 横柄な態度・わがまま		[sound:bc13baeb5c75.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+質実剛健	しつじつごうけん	Simplicity and strength.	四字熟語	ことわざ四字	質素で剛健な態度	modern 質素で健全な態度		[sound:d6ca3ec878bd.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+光陰矢の如し	こういんやのごとし	Time flies like an arrow.	ことわざ	ことわざ成句	時間は早く経つ	modern 時間の経過は速い		[sound:da7043f627ac.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low source:imabi
+春宵一刻千金	しゅんしょういっこくせんきん	A spring night worth a thousand gold.	ことわざ	ことわざ成句	春の夜は貴重である	modern 春夜の素晴らしさ		[sound:c82b0e6f653d.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi
+門前成市	もんぜんせいし	Streets crowd before the gate.	四字熟語	ことわざ四字	栄えて多くの人が集まる	modern 繁栄して人気がある		[sound:9b812aa48ee4.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k source:imabi
+呉越同舟	ごえつどうしゅう	Enemies in the same boat.	四字熟語	ことわざ四字	敵同士が共存を余儀なくされる	modern 敵でも協力せざるを得ない		[sound:be45076a8e60.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top5k source:imabi
+我田引水	がでんいんすい	Drawing water to one's field.	四字熟語	ことわざ四字	自分の利益のみを追求	modern 自分の利益だけを求める		[sound:8d2de6d0de64.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low source:imabi
+白眉青眼	はくびせいがん	Striking features.	四字熟語	ことわざ四字	優れた人・才能	modern 優れた才能・傑出した人		[sound:3725ffba6da0.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:low source:imabi
+牙城を落とす	がじょうをおとす	Breach the fortress.	成句	ことわざ成句	牙城を陥落させる	modern 堅い城塞を落とす		[sound:2569cfda0d2d.mp3]	module:11-classical point:proverbs-yojijukugo complexity:intro frequency:top10k source:imabi

@@ -4,18 +4,18 @@
 #notetype:Contrast
 #deck:Japanese Grammar::01 - N5 Grammar::Contrast
 #
-食べます vs 食べ{{c1::ません}}	ます	ません	ません	ます=positive; ません=negative	Negative: ません	[sound:b23f44b5187e.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます
-食べました vs 食べ{{c1::ませんでした}}	ました	ませんでした	ませんでした	ました=past positive; ませんでした=past negative	Past negative	[sound:e9f59c90f2ef.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ました
-行きます vs 行き{{c1::ません}}	ます	ません	ません	positive vs negative	Negative: ません	[sound:509dbc1a6300.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro confusable-with:ます
-来ました vs 来{{c1::ません}}でした	ました	ませんでした	ませんでした	Past positive vs past negative	Past negative	[sound:f46e9d4fbe3e.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro confusable-with:ました
-見ています vs 見て{{c1::いました}}	ています	ていました	ていました	ている=present state; ていた=past state	Past state: ていた	[sound:f6a9c92240b3.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ています
-飲みます vs 飲み{{c1::ません}}	ます	ません	ません	positive vs negative	Negative: ません	[sound:0fc2aae378ef.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます
-できます vs でき{{c1::ません}}	ます	ません	ません	positive vs negative	Negative: ません	[sound:7e7e7cb74371.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます
-食べたい vs 食べ{{c1::たくない}}	たい	たくない	たくない	want to vs don't want to	Don't want: たくない	[sound:84209d160955.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:たい
-ます vs た{{c1::い}}	ます	たい	たい	polite form vs want to	Want to: たい	[sound:d79d6cff381a.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます
-来ます vs 来{{c1::た}}	ます	た	た	polite present vs plain past	Plain past: た	[sound:2d26028885c0.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro confusable-with:ます
-書きます vs 書い{{c1::ている}}	ます	ている	ている	habitual vs present state	Present state: ている	[sound:50d052691f26.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます
-していません vs していた{{c1::こと}}	していません	していたこと	していたこと	not doing vs had done	Had done: たこと	[sound:d252b1b9fb68.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard confusable-with:していません
-ましょう vs ます{{c1::か}}	ましょう	ますか	ますか	Let's vs do you?	Question: ますか	[sound:8ea03ea9a7a0.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ましょう
-ません vs ない{{c1::です}}	ません	ないです	ないです	polite negative vs casual negative	Casual: ないです	[sound:4460e2a86e0f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ません
-ました vs た{{c1::ことがある}}	ました	たことがある	たことがある	completed vs past experience	Experience: たことがある	[sound:24467323f7c9.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ました
+食べます vs 食べません	ます	ません	ません	ます=positive; ません=negative	Negative: ません	[sound:90d3ed4a7c62.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます source:shin-kanzen
+食べました vs 食べませんでした	ました	ませんでした	ませんでした	ました=past positive; ませんでした=past negative	Past negative	[sound:bb805351474e.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ました source:shin-kanzen complexity:standard
+行きます vs 行きません	ます	ません	ません	positive vs negative	Negative: ません	[sound:4242a40fd550.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro confusable-with:ます source:shin-kanzen
+来ました vs 来ませんでした	ました	ませんでした	ませんでした	Past positive vs past negative	Past negative	[sound:136f721194a4.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro confusable-with:ました source:shin-kanzen complexity:standard
+見ています vs 見ていました	ています	ていました	ていました	ている=present state; ていた=past state	Past state: ていた	[sound:b845c6f3c799.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ています source:shin-kanzen complexity:standard
+飲みます vs 飲みません	ます	ません	ません	positive vs negative	Negative: ません	[sound:0be8b3ae573a.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます source:shin-kanzen
+できます vs できません	ます	ません	ません	positive vs negative	Negative: ません	[sound:e26d0edf8eeb.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます source:shin-kanzen
+食べたい vs 食べたくない	たい	たくない	たくない	want to vs don't want to	Don't want: たくない	[sound:4887708a02c9.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:たい source:shin-kanzen complexity:standard
+ます vs たい	ます	たい	たい	polite form vs want to	Want to: たい	[sound:f2f3bfbef91d.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます source:shin-kanzen
+来ます vs 来た	ます	た	た	polite present vs plain past	Plain past: た	[sound:b8f54474d0e2.mp3]	module:01-n5 jlpt:n5 point:verb-masu frequency:top10k complexity:intro confusable-with:ます source:shin-kanzen
+書きます vs 書いている	ます	ている	ている	habitual vs present state	Present state: ている	[sound:bfb7c9fd8305.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ます source:shin-kanzen
+していません vs していたこと	していません	していたこと	していたこと	not doing vs had done	Had done: たこと	[sound:777839244d83.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard confusable-with:していません source:shin-kanzen
+ましょう vs ますか	ましょう	ますか	ますか	Let's vs do you?	Question: ますか	[sound:de915f0fe93c.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ましょう source:shin-kanzen
+ません vs ないです	ません	ないです	ないです	polite negative vs casual negative	Casual: ないです	[sound:1e827c2b42ca.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ません source:shin-kanzen
+ました vs たことがある	ました	たことがある	たことがある	completed vs past experience	Experience: たことがある	[sound:4e1fb091bccc.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro confusable-with:ました source:shin-kanzen

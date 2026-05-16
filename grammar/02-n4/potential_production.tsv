@@ -4,13 +4,13 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I can eat sushi.	寿司が食べられる。	すしがたべられる。	I can eat sushi.	potential form with object	[sound:6446c8770041.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-Can you speak English?	英語が話せますか。	えいごがはなせますか。	Can you speak English?	ability question	[sound:0b1b5d90d0fb.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-I can't swim very well.	泳ぐことができません。	およぐことができません。	I can't swim very well.	negative potential	[sound:f063bd2b98c7.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-He can play the piano.	ピアノが弾ける。	ぴあのがひける。	He can play the piano.	musical skill	[sound:fa2d06a5f484.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-I can understand Japanese.	日本語が理解できる。	にほんごがりかいできる。	I can understand Japanese.	comprehension ability	[sound:c1f334c0967c.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-She can drive a car.	車が運転できます。	くるまがうんてんできます。	She can drive a car.	driving ability	[sound:9e496f36b876.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-Can you help me?	手伝うことができますか。	てつだうことができますか。	Can you help me?	polite request with potential	[sound:bf135557fff2.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-I can't remember the password.	パスワードが思い出せない。	ぱすわーどがおもいだせない。	I can't remember the password.	negative recall	[sound:d0fd3660de2e.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:advanced
-They can finish by tomorrow.	明日までに終わらせられます。	あしたまでにおわらせられます。	They can finish by tomorrow.	completion ability	[sound:88e883b9845f.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
-I can use chopsticks.	箸が使える。	はしがつかえる。	I can use chopsticks.	tool usage	[sound:cd69f8c1ee52.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard
+I can eat sushi.	寿司が食べられる。	すしがたべられる。	I can eat sushi.	potential form with object	[sound:6446c8770041.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+Can you speak English?	英語が話せますか。	えいごがはなせますか。	Can you speak English?	ability question	[sound:0b1b5d90d0fb.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+I can't swim very well.	泳ぐことができません。	およぐことができません。	I can't swim very well.	negative potential	[sound:f063bd2b98c7.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+He can play the piano.	ピアノが弾ける。	ぴあのがひける。	He can play the piano.	musical skill	[sound:fa2d06a5f484.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+I can understand Japanese.	日本語が理解できる。	にほんごがりかいできる。	I can understand Japanese.	comprehension ability	[sound:c1f334c0967c.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+She can drive a car.	車が運転できます。	くるまがうんてんできます。	She can drive a car.	driving ability	[sound:9e496f36b876.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+Can you help me?	手伝うことができますか。	てつだうことができますか。	Can you help me?	polite request with potential	[sound:bf135557fff2.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+I can't remember the password.	パスワードが思い出せない。	ぱすわーどがおもいだせない。	I can't remember the password.	negative recall	[sound:d0fd3660de2e.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:advanced source:shin-kanzen
+They can finish by tomorrow.	明日までに終わらせられます。	あしたまでにおわらせられます。	They can finish by tomorrow.	completion ability	[sound:88e883b9845f.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen
+I can use chopsticks.	箸が使える。	はしがつかえる。	I can use chopsticks.	tool usage	[sound:cd69f8c1ee52.mp3]	module:02-n4 jlpt:n4 register:neutral point:potential pos:expr complexity:standard source:shin-kanzen

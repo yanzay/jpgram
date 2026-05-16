@@ -4,18 +4,18 @@
 #notetype:Contrast
 #deck:Japanese Grammar::01 - N5 Grammar::Contrast
 #
-好き vs {{c1::好きな}}違い	好き	好きな	好きな	好き predicate; 好きな attributive before noun	Before noun: な	[sound:4ea9afc1ceea.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:好き
-したい vs したかった{{c1::違い}}	したい	したかった	したかった	したい=want to (present); したかった=wanted to (past)	Past: かった	[sound:cf91e66bbc67.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:したい
-ことは vs こと{{c1::が}}	ことは	ことが	ことが	こと+が=nominalized subject; は=topic	Subject nominalization: が	[sound:9db482d09125.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:intro confusable-with:ことは
-てください vs てくださった{{c1::違い}}	てください	てくださった	てくださった	Request (present) vs did favor (past)	Completed favor: かった	[sound:3ba5e4f10cea.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:てください
-ねばならない vs ねばいけない{{c1::違い}}	ねばならない	ねばいけない	ねばならない	Both mean must; ならない more formal	More formal	[sound:2a34bfffd6d9.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:ねばいけない
-できます vs できた{{c1::違い}}	できます	できた	できた	Present ability vs past achievement	Past: た	[sound:d64e98c67470.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:できます
-でしょう vs だろう{{c1::違い}}	でしょう	だろう	でしょう	でしょう=polite probability; だろう=plain	Polite: でしょう	[sound:aa5ed229cb19.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:だろう
-きてください vs きたください{{c1::違い}}	きてください	きたください	きてください	Request to come (te-form); never た+ください	Request: te-form	[sound:db10c59e6d82.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:きたください
-しています vs した{{c1::形}}	しています	した形	した形	しています=state/knowledge; した=past	State: ている	[sound:a0707f583543.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top5k complexity:intro confusable-with:しています
-始めました vs 始める{{c1::つもり}}	始めました	始めるつもり	始めました	Already started (past); planning to start (future)	Past action: ました	[sound:b3399dbf3021.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top5k complexity:intro confusable-with:始めるつもり
-やめました vs やめようとした{{c1::違い}}	やめました	やめようとした	やめました	Completed action; attempted to stop	Completed: ました	[sound:07ea23dd88aa.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:やめようとした
-覚えています vs 忘れた{{c1::違い}}	覚えています	忘れた	覚えています	Remember (positive state); forgot (past)	Remember: ています	[sound:3e2cdc302a47.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:low complexity:standard confusable-with:忘れた
-大丈夫 vs 悪い{{c1::違い}}	大丈夫	悪い	大丈夫	Good/okay vs bad; opposites	Good: 大丈夫	[sound:0d0a274d4053.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:悪い
-なにも vs だれも{{c1::違い}}	なにも	だれも	だれも	なにも=nothing; だれも=nobody	Nobody: だれ	[sound:fef365be80f3.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:なにも
-悪くありません vs 悪くない{{c1::違い}}	悪くありません	悪くない	悪くありません	Polite negative; plain negative	Polite: ありません	[sound:300ab3c648cb.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:悪くない
+好き vs 好きな違い	好き	好きな	好きな	好き predicate; 好きな attributive before noun	Before noun: な	[sound:0e99f59ea7a3.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:好き source:shin-kanzen
+したい vs したかった違い	したい	したかった	したかった	したい=want to (present); したかった=wanted to (past)	Past: かった	[sound:6d5470da919a.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:したい source:shin-kanzen complexity:standard
+ことは vs ことが	ことは	ことが	ことが	こと+が=nominalized subject; は=topic	Subject nominalization: が	[sound:6caf9d364e85.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:intro confusable-with:ことは source:shin-kanzen
+てください vs てくださった違い	てください	てくださった	てくださった	Request (present) vs did favor (past)	Completed favor: かった	[sound:5b3f44305735.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:てください source:shin-kanzen
+ねばならない vs ねばいけない違い	ねばならない	ねばいけない	ねばならない	Both mean must; ならない more formal	More formal	[sound:ecb12089709b.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:ねばいけない source:shin-kanzen
+できます vs できた違い	できます	できた	できた	Present ability vs past achievement	Past: た	[sound:c41830071008.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:できます source:shin-kanzen
+でしょう vs だろう違い	でしょう	だろう	でしょう	でしょう=polite probability; だろう=plain	Polite: でしょう	[sound:65652e4b23c8.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:だろう source:shin-kanzen
+きてください vs きたください違い	きてください	きたください	きてください	Request to come (te-form); never た+ください	Request: te-form	[sound:7d255d920cf3.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:きたください source:shin-kanzen
+しています vs した形	しています	した形	した形	しています=state/knowledge; した=past	State: ている	[sound:c8aefb1ecec7.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top5k complexity:intro confusable-with:しています source:shin-kanzen
+始めました vs 始めるつもり	始めました	始めるつもり	始めました	Already started (past); planning to start (future)	Past action: ました	[sound:4dce3ad7a996.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top5k complexity:intro confusable-with:始めるつもり source:shin-kanzen complexity:standard
+やめました vs やめようとした違い	やめました	やめようとした	やめました	Completed action; attempted to stop	Completed: ました	[sound:54159a924db9.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:やめようとした source:shin-kanzen
+覚えています vs 忘れた違い	覚えています	忘れた	覚えています	Remember (positive state); forgot (past)	Remember: ています	[sound:31fb8dcc4560.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:low complexity:standard confusable-with:忘れた source:shin-kanzen
+大丈夫 vs 悪い違い	大丈夫	悪い	大丈夫	Good/okay vs bad; opposites	Good: 大丈夫	[sound:d27648a6abe3.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:悪い source:shin-kanzen
+なにも vs だれも違い	なにも	だれも	だれも	なにも=nothing; だれも=nobody	Nobody: だれ	[sound:0292e6e52616.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:intro confusable-with:なにも source:shin-kanzen
+悪くありません vs 悪くない違い	悪くありません	悪くない	悪くありません	Polite negative; plain negative	Polite: ありません	[sound:04ff6c059694.mp3]	module:01-n5 jlpt:n5 point:n5-constructions frequency:top10k complexity:standard confusable-with:悪くない source:shin-kanzen

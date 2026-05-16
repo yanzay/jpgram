@@ -178,18 +178,23 @@ def main():
 
     # ── Per-token vocabulary frequency ──
     if not args.no_words:
+        from collections import Counter
+        counter: Counter[str] = Counter()
+        tagger = None
         try:
             tagger = _tagger()
         except SystemExit as e:
-            print(f"  (skipping words index: {e})", file=sys.stderr)
-            return
-        from collections import Counter
-        counter: Counter[str] = Counter()
+            print(f"  (fugashi unavailable, using regex tokenization: {e})", file=sys.stderr)
         for text in sentences:
-            for tok in tagger(text):
-                surface = tok.surface
-                if surface.strip() and any(ch.isalpha() or "\u3040" <= ch <= "\u9fff" for ch in surface):
-                    counter[surface] += 1
+            if tagger is not None:
+                for tok in tagger(text):
+                    surface = tok.surface
+                    if surface.strip() and any(ch.isalpha() or "\u3040" <= ch <= "\u9fff" for ch in surface):
+                        counter[surface] += 1
+            else:
+                for surface in re.findall(r"[一-龯ぁ-ゖァ-ヺー]+", text):
+                    if surface.strip():
+                        counter[surface] += 1
         WORDS_PATH.parent.mkdir(parents=True, exist_ok=True)
         WORDS_PATH.write_text(
             json.dumps({"version": 1,

@@ -1,0 +1,31 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::08 - Slang::Production
+#
+Damn it! I failed.	クソ damn + failure	くそ。しっぱいした。	クソ！失敗した。	Frustration expression	[sound:dcd3c7d63441.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top5k source:tofugu
+Shut up, you're loud.	うるさい → crude	うるせー、うるさいよ。	うるせー、うるさいよ。	Rude demand	[sound:89690af55dc9.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+That guy is annoying as hell.	うざい → crude	うぜー、そいつ。	うぜー、そいつ。	Extreme annoyance	[sound:69a299ec047d.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+That person bugs me.	うざい variant	うずい、そのひと。	うずい、その人。	Mild irritation	[sound:25db661d2cee.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top1k source:tofugu
+That sense is totally uncool.	ダサい uncool	ださい、そのせんす。	ダスい、そのセンス。	Style judgment	[sound:c0a525a354f3.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:low source:tofugu
+That's stupid.	アホ fool/idiot	あほだな。	アホだな。	Light mockery	[sound:14c7b6413f6e.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+You're seriously dumb.	アホ + really	あほだよ、ほんとうに。	アホだよ、本当に。	Stronger insult	[sound:c9125de7846e.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top1k source:tofugu
+Damn idiot!	クソ + アホ double	くそあほ。	クソアホ！	Strong insult	[sound:12af1e0acfbe.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+That machine is useless.	ポンコツ broken	ぽんこつだね、そのきかい。	ポンコツだね、その機械。	Object judgment	[sound:f1eaf272155a.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top10k source:tofugu
+It's absolutely no good.	ぜんぜん not at all	ぜんぜんだめ。	ぜんぜん駄目。	Complete failure	[sound:5bad3c73f963.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top1k source:tofugu
+This is damned boring.	クソ damn + boring	くそたいくつ。	クソ退屈。	Frustration expression	[sound:08fde4323855.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top10k source:tofugu
+You're seriously loud.	うるさい noisy + really	うるさいな、ほんとうに。	うるさいな、本当に。	Frustrated complaint	[sound:24aa3f6b88fc.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top1k source:tofugu
+What a crappy game!	クソ + game	くそげー。	クソゲー！	Harsh judgment	[sound:85364973df9f.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+Idiot, you didn't notice.	アホ fool + didn't	あほ、きづかないで。	アホ、気づかないで。	Direct insult	[sound:94b5d2034c98.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top5k source:tofugu
+That's super uncool.	ダサい long emphasis	ださい。	ダスーい。	Harsh judgment	[sound:d26e74d97a73.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+Damn it, I quit.	クソ damn + quit	くそ、やめた。	クソ、やめた。	Frustrated decision	[sound:faf4a3bf2ea9.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+That's seriously annoying.	うぜー + emphasis	うぜぇ、ほんとうに。	うぜぇ、本当に。	Strong annoyance	[sound:f5b63f9f0a30.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top1k source:tofugu
+That's ridiculous.	アホ fool + smell	あほくさい。	アホくさい。	Dismissal	[sound:089ba4564085.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+Fix that broken thing.	ポンコツ broken	ぽんこつ、なおして。	ポンコツ、直して。	Repair demand	[sound:6004dea9ac3e.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top10k source:tofugu
+That's totally different.	ぜんぜん not at all	ぜんぜんちがう。	ぜんぜん違う。	Strong disagreement	[sound:aa750e7bd882.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top1k source:tofugu
+That's damned annoying.	クソ damn + annoying	くそめんどう。	クソ面倒。	Frustration	[sound:5a662a44e3aa.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top10k source:tofugu
+Shut up, just be quiet.	うるせー + be quiet	うるせー、だまってろ。	うるせー、黙ってろ。	Rude demand	[sound:bdba6b169840.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+Go away, you're annoying.	うぜー + disappear	うぜー、きえろ。	うぜー、消えろ。	Rude command	[sound:8c90eebb6da2.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+Idiot, stop it.	アホ fool + stop	あほ、やめろ。	アホ、やめろ。	Rude command	[sound:a058289691f5.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro source:tofugu
+Damn, this is the worst.	クソ + worst	くそ、さいあくだ。	クソ、最悪だ。	Hopeless statement	[sound:1e79cefdf989.mp3]	register:slang register:vulgar module:08-slang point:casual-vulgar complexity:intro frequency:top10k source:tofugu

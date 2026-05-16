@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::01 - N5 Grammar::Cloze
 #
-私{{c1::は}}学生です。	わたし{{c1::は}}がくせいです。	I am a student [topic]	[sound:82ed3f2dfc72.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro
-誰{{c1::が}}来ましたか？	だれ{{c1::が}}きましたか？	who came? [subject]	[sound:0b96428c2303.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro
-友達{{c1::に}}会いました。	ともだち{{c1::に}}あいました。	met a friend [target]	[sound:1139b243d83d.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro
-本{{c1::を}}読みました。	ほん{{c1::を}}よみました。	read a book [object]	[sound:f3090ff10d80.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro
-ペン{{c1::で}}書いてください。	ぺん{{c1::で}}かいてください。	write with a pen [means]	[sound:86522720f040.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro
-東京{{c1::まで}}バスで行きます。	とうきょう{{c1::まで}}ばすでいきます。	go to Tokyo [destination]	[sound:abfb10bafea7.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro
-月曜日{{c1::から}}始まります。	げつようび{{c1::から}}はじまります。	starts from Monday [start]	[sound:de8a255dc118.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro
-私{{c1::と}}兄{{c1::と}}三人です。	わたし{{c1::と}}あに{{c1::と}}さんにんです。	me, brother, and I (3 people)	[sound:b666871a092d.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro
-毎日学校{{c1::に}}行きます。	まいにちがっこう{{c1::に}}いきます。	go to school [destination]	[sound:9910f3cae7e5.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro
-友達{{c1::から}}手紙をもらいました。	ともだち{{c1::から}}てがみをもらいました。	got letter from friend	[sound:36172736e1cf.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:standard
-公園{{c1::で}}遊びました。	こうえん{{c1::で}}あそびました。	played in park [location]	[sound:24f65474faa6.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top5k complexity:intro
-家族{{c1::と}}一緒に行きました。	かぞく{{c1::と}}いっしょにいきました。	went with family	[sound:13478a471e85.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro
-彼の{{c1::本}}です。	かれの{{c1::ほん}}です。	his book [possession]	[sound:a2ae52643978.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top5k complexity:intro
-私{{c1::も}}学生です。	わたし{{c1::も}}がくせいです。	I'm also a student [also]	[sound:8a8edeac7df3.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro
-天気{{c1::は}}いいですね。	てんき{{c1::は}}いいですね。	the weather is nice	[sound:02997c331283.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro
+私{{c1::は}}学生です。	わたし{{c1::は}}がくせいです。	I am a student [topic]	[sound:82ed3f2dfc72.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro source:shin-kanzen
+誰{{c1::が}}来ましたか？	だれ{{c1::が}}きましたか？	who came? [subject]	[sound:0b96428c2303.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro source:shin-kanzen
+友達{{c1::に}}会いました。	ともだち{{c1::に}}あいました。	met a friend [target]	[sound:1139b243d83d.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro source:shin-kanzen
+本{{c1::を}}読みました。	ほん{{c1::を}}よみました。	read a book [object]	[sound:f3090ff10d80.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro source:shin-kanzen
+ペン{{c1::で}}書いてください。	ぺん{{c1::で}}かいてください。	write with a pen [means]	[sound:86522720f040.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro source:shin-kanzen
+東京{{c1::まで}}バスで行きます。	とうきょう{{c1::まで}}ばすでいきます。	go to Tokyo [destination]	[sound:abfb10bafea7.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro source:shin-kanzen
+月曜日{{c1::から}}始まります。	げつようび{{c1::から}}はじまります。	starts from Monday [start]	[sound:de8a255dc118.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro source:shin-kanzen
+私{{c1::と}}兄{{c1::と}}三人です。	わたし{{c1::と}}あに{{c1::と}}さんにんです。	me, brother, and I (3 people)	[sound:b666871a092d.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro source:shin-kanzen
+毎日学校{{c1::に}}行きます。	まいにちがっこう{{c1::に}}いきます。	go to school [destination]	[sound:9910f3cae7e5.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro source:shin-kanzen
+友達{{c1::から}}手紙をもらいました。	ともだち{{c1::から}}てがみをもらいました。	got letter from friend	[sound:36172736e1cf.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:standard source:shin-kanzen
+公園{{c1::で}}遊びました。	こうえん{{c1::で}}あそびました。	played in park [location]	[sound:24f65474faa6.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top5k complexity:intro source:shin-kanzen
+家族{{c1::と}}一緒に行きました。	かぞく{{c1::と}}いっしょにいきました。	went with family	[sound:13478a471e85.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top10k complexity:intro source:shin-kanzen
+彼の{{c1::本}}です。	かれの{{c1::ほん}}です。	his book [possession]	[sound:a2ae52643978.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top5k complexity:intro source:shin-kanzen
+私{{c1::も}}学生です。	わたし{{c1::も}}がくせいです。	I'm also a student [also]	[sound:8a8edeac7df3.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro source:shin-kanzen
+天気{{c1::は}}いいですね。	てんき{{c1::は}}いいですね。	the weather is nice	[sound:02997c331283.mp3]	module:01-n5 jlpt:n5 point:extended-particles frequency:top1k complexity:intro source:shin-kanzen

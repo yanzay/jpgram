@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#columns:Audio	Prompt	Answer	Reading	EN	Tags
+#notetype:Dictation
+#deck:Japanese Grammar::11 - Classical::Dictation
+#
+[sound:d9047be5782a.mp3]	彼___この仕事をせぬ	彼はこの仕事をせぬ	かれはこのしごとをせぬ	Negation (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi point:module-dictation_dictation complexity:standard
+[sound:5f5389920648.mp3]	我輩___これを為さん	我輩はこれを為さん	わがはいはこれをなさん	Volitional (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi point:module-dictation_dictation complexity:standard
+[sound:434b63631d27.mp3]	学べし	学べし	まなべし	Should/must (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:2d2e34c7b342.mp3]	行くべきか	行くべきか	いくべきか	Ought/should (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:e904fd8d8d08.mp3]	するべ___ず	するべからず	するべからず	Must not (古典).	module:11-classical point:classical-aux-verbs complexity:intro source:imabi point:module-dictation_dictation complexity:standard
+[sound:0e1a030ad5d8.mp3]	決してやるべまじ	決してやるべまじ	けっしてやるべまじ	Forbidden (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi point:module-dictation_dictation complexity:standard
+[sound:3258f3176a39.mp3]	それ故___行かぬ	それ故に行かぬ	それゆえにいかぬ	Therefore not (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi point:module-dictation_dictation complexity:standard
+[sound:0f5d75732ff3.mp3]	知るざり	知るざり	しるざり	Neg perfective (古典).	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:99cfaa23b48e.mp3]	汝何ぞ来たりや	汝何ぞ来たりや	なんじなにぞきたりや	Why did you come.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:ba8331bd5c6b.mp3]	この者の身のたけや	この者の身のたけや	このもののみのたけや	What is this person's height.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:2b3321594684.mp3]	王の命なる___	王の命なるに	おうのいのちなるに	In that it is the king's word.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:a8186ad805c0.mp3]	彼の言葉なり	彼の言葉なり	かのことばなり	It is his words.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top5k source:imabi point:module-dictation_dictation complexity:standard
+[sound:6541dd912f39.mp3]	罪___犯し	罪を犯し	つみをおかし	Commit a crime (object marker).	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:05a817ab6496.mp3]	命___失わん	命を失わん	いのちをうしなわん	Will lose one's life.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:8025c4bc4e5f.mp3]	火よ燃えよ	火よ燃えよ	ひよもえよ	O fire, burn.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top5k source:imabi point:module-dictation_dictation complexity:standard
+[sound:3646557081a9.mp3]	知識よりして	知識よりして	ちしきよりして	From knowledge.	module:11-classical point:classical-particles-conjugations complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:c3ba4c6f2bf1.mp3]	何ぞ知らん	何ぞ知らん	なにぞしらん	How would one know.	module:11-classical point:kanbun-yomi complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:f9a23777825a.mp3]	も___より然るべし	もとより然るべし	もとよりしかるべし	Naturally it should be so.	module:11-classical point:kanbun-yomi complexity:intro source:imabi point:module-dictation_dictation complexity:standard
+[sound:e8f638347e78.mp3]	然くして	然くして	ぜんくして	Thus/in this way.	module:11-classical point:kanbun-yomi complexity:intro source:imabi point:module-dictation_dictation complexity:standard
+[sound:3e1bb87f8390.mp3]	如何なる者ぞや	如何なる者ぞや	いかなるものぞや	What kind of person is it.	module:11-classical point:kanbun-yomi complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard
+[sound:9a47eab64ec9.mp3]	きわめて美し	きわめて美し	きわめてうつくし	Extremely beautiful.	module:11-classical point:kanbun-yomi complexity:intro frequency:low source:imabi point:module-dictation_dictation complexity:standard
+[sound:87519f1b836e.mp3]	古人のいわく	古人のいわく	こじんのいわく	The ancients say.	module:11-classical point:kanbun-yomi complexity:intro frequency:top1k source:imabi point:module-dictation_dictation complexity:standard
+[sound:1a4f64e6a220.mp3]	故___行く	故に行く	ゆえにいく	Therefore he goes.	module:11-classical point:kanbun-yomi complexity:intro frequency:low source:imabi point:module-dictation_dictation complexity:standard
+[sound:b661c5df104a.mp3]	不幸___して死す	不幸にして死す	ふこうにしてしす	Unfortunately he dies.	module:11-classical point:kanbun-yomi complexity:intro frequency:top10k source:imabi point:module-dictation_dictation complexity:standard

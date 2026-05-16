@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::04 - N2::Production
+#
+After long negotiations, an agreement was reached.	N + の + あげく	ながいこうしょうのあげく、ごういにたっした。	長い交渉の挙句、合意に達した。	Formal result after long process	[sound:befb670f88e0.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+After hardship, he realized his dream.	N + の + あげく	くろうのあげく、ゆめをじつげんした。	苦労の挙句、夢を実現した。	Formal result	[sound:075be73e8dc3.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:intro frequency:top10k source:shin-kanzen
+After many failures, he succeeded.	N + の + あげく	なんどもしっぱいのあげく、せいこうした。	何度も失敗の挙句、成功した。	Formal result	[sound:808ab321ca06.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+After years of effort, the goal was achieved.	N + の + あげく	ながねんのどりょくのあげく、もくひょうをたっせいした。	長年の努力の挙句、目標を達成した。	Formal result	[sound:4ce05af228a8.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+After many trials and errors, a solution was found.	N + の + あげく	おおくのしこうさくごのあげく、かいけつさくがみつかった。	多くの試行錯誤の挙句、解決策が見つかった。	Formal result	[sound:0b7c30dbcc24.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+At the end of a long life, he achieved enlightenment.	N + の + すえに	ながいじんせいのすえに、かれはさとりをひらいた。	長い人生の果てに、彼は悟りを開いた。	Formal temporal result	[sound:7bafd56cbbe2.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+After extensive research, a discovery was made.	N + の + すえに	おおくのけんきゅうのすえに、はっけんにいたった。	多くの研究の果てに、発見に至った。	Formal result	[sound:8649be619882.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+After protracted negotiations, the treaty was signed.	N + の + すえに	ちょうきのこうしょうのすえに、じょうやくがちょういんされた。	長期の交渉の果てに、条約が調印された。	Formal result	[sound:83d994fe85a7.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+After the passage of years, the fact became clear.	N + の + すえに	としつきのすえに、そのじじつがあきらかになった。	年月の果てに、その事実が明らかになった。	Formal temporal result	[sound:baefc4f7f97e.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+After pursuit, the criminal was caught.	N + の + すえに	ついせきのすえに、はんにんをつかまえた。	追跡の果てに、犯人を捕まえた。	Formal result	[sound:6384a7460e12.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+Despite how busy the work is, the pay is low.	Adj + わりに(は)	しごとがいそがしいわりに、きゅうりょうがひくい。	仕事が忙しいわりに、給料が低い。	Formal concessive ratio	[sound:6e13c33efb62.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Despite looking easy, it's actually difficult.	V + わりに(は)	かんたんそうにみえるわりに、じつはむずかしい。	簡単そうに見えるわりに、実は難しい。	Formal concessive	[sound:1f91611afbb8.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+For his age, he is mature.	Adj + わりに(は)	かれはわかいわりにせいじゅくしている。	彼は若いわりに成熟している。	Formal proportion	[sound:ad8ea87b9015.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+For the price, the quality is good.	N + の + わりに(は)	ねだんのわりにはしつがよい。	値段の割には質が良い。	Formal value proportion	[sound:ee46c70f34ff.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:intro frequency:top10k source:shin-kanzen
+For its size, the staff is small.	N + の + わりに(は)	きぼのわりに、すたっふがすくない。	規模のわりに、スタッフが少ない。	Formal proportion	[sound:6a9d6cbed336.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+Not only is he famous, but he is also rich.	Copula + ばかりか	かれはゆうめいであるばかりか、かねもちでもある。	彼は有名であるばかりか、金持ちでもある。	Formal additive emphasis	[sound:bfaf5d58ad0a.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Not only kind but also wise.	Adj + ばかりか	やさしいばかりか、そうめいでもある。	優しいばかりか、聡明でもある。	Formal additive	[sound:12e00a48df07.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top5k source:shin-kanzen
+Not only work but hobbies too are fulfilling.	N + ばかりか	しごとばかりか、しゅみもじゅうじつしている。	仕事ばかりか、趣味も充実している。	Formal additive	[sound:8d572fe1f785.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:low source:shin-kanzen
+Not only Japanese but English as well.	N + ばかりか	にほんごばかりか、えいごもはなす。	日本語ばかりか、英語も話す。	Formal additive	[sound:772dc7ba880b.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Not only can read but can also write.	V + ばかりか	よむばかりか、かくこともできる。	読むばかりか、書くこともできる。	Formal additive	[sound:a066a8ff8102.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top1k source:shin-kanzen
+He is not only famous but also capable.	Copula + ばかりでなく	かれはゆうめいであるばかりでなく、ゆうのうでもある。	彼は有名であるばかりでなく、有能でもある。	Formal additive negation	[sound:b2ebe94c3230.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Not only effective but also inexpensive.	Adj + ばかりでなく	こうかてきばかりでなく、ひようもやすい。	効果的ばかりでなく、費用も安い。	Formal additive	[sound:adb2879d8e0d.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Not just knowledge but experience is also necessary.	N + ばかりでなく	ちしきばかりでなく、けいけんもひつようだ。	知識ばかりでなく、経験も必要だ。	Formal additive	[sound:4b128388f6ac.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Popular not only in Japan but also overseas.	N + ばかりでなく	にほんでばかりでなく、かいがいでもにんきがある。	日本でばかりでなく、海外でも人気がある。	Formal additive	[sound:4920424faf8f.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+It's important not just to say but also to act.	V + ばかりでなく	いうばかりでなく、じっこうすることもたいせつだ。	言うばかりでなく、実行することも大切だ。	Formal additive	[sound:b45b8c664588.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Far from being good, it's too poor.	N + どころか	じょうずなことはおろか、へたすぎる。	上手なことはおろか、下手すぎる。	Formal negation + contrast	[sound:37a4907fe078.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top1k source:shin-kanzen
+Far from succeeding, he failed.	N + どころか	せいこうどころか、しっぱいしてしまった。	成功どころか、失敗してしまった。	Formal negation	[sound:321e1ff2af99.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Far from helping, he got in the way.	N + どころか	たすけどころか、じゃまをした。	助けどころか、邪魔をした。	Formal negation	[sound:4e701ed33af7.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:intro frequency:low source:shin-kanzen
+Far from improving, it got worse.	N + どころか	かいぜんどころか、さらにわるくなった。	改善どころか、さらに悪くなった。	Formal negation	[sound:bbcd7c67e56b.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Far from solving, the problem increased.	N + どころか	かいけつどころか、もんだいがふえた。	解決どころか、問題が増えた。	Formal negation	[sound:80c222b62640.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+He is far from being well.	N + どころではない	かれはげんきどころではない。	彼は元気どころではない。	Formal negation of condition	[sound:8c4e29e25ab6.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:intro frequency:top5k source:shin-kanzen
+Far from working, he's suffering from illness.	N + どころではない	しごとどころではなく、びょうきでくるしんでいる。	仕事どころではなく、病気で苦しんでいる。	Formal negation of ability	[sound:a5dca5cb1b99.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+It's far too serious a situation to laugh about.	V + どころではない	わらうどころではないしんこくなじょうきょうだ。	笑うどころではない深刻な状況だ。	Formal negation	[sound:5920a2b76294.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Far from playing, one should focus on studying.	V + どころではない	あそぶどころではなく、べんきょうにしゅうちゅうすべきだ。	遊ぶどころではなく、勉強に集中すべきだ。	Formal prohibition	[sound:f7815b2a900c.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen
+Far from having room, we're pressed for time.	N + どころではない	よゆうがあるどころではなく、ひっぱくしている。	余裕があるどころではなく、逼迫している。	Formal negation	[sound:587a476a938a.mp3]	module:04-n2 jlpt:n2 point:formal-result complexity:standard frequency:top10k source:shin-kanzen

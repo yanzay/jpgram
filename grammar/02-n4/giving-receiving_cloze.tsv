@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-exampleぜろ{{c1::くれた}}。	exampleぜろくれた。	hint	[sound:f9cb10faf925.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleいち{{c1::くれた}}。	exampleいちくれた。	hint	[sound:292b8aadf2b2.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleに{{c1::くれた}}。	exampleにくれた。	hint	[sound:7caf77baddbc.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleさん{{c1::くれた}}。	exampleさんくれた。	hint	[sound:bebf7eb9a512.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleし{{c1::くれた}}。	exampleしくれた。	hint	[sound:6b8ca6f78a12.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleご{{c1::くれた}}。	exampleごくれた。	hint	[sound:134270a2b0f8.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleろく{{c1::くれた}}。	exampleろくくれた。	hint	[sound:13995d6f21d4.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleしち{{c1::くれた}}。	exampleしちくれた。	hint	[sound:bef12e43b16b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleはち{{c1::くれた}}。	exampleはちくれた。	hint	[sound:744a38254680.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleきゅう{{c1::くれた}}。	exampleきゅうくれた。	hint	[sound:7375b1016e58.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleいちぜろ{{c1::くれた}}。	exampleいちぜろくれた。	hint	[sound:a7aeca0b6c3b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard
-exampleいちいち{{c1::くれた}}。	exampleいちいちくれた。	hint	[sound:6dbfd94cc7d2.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard
-exampleいちに{{c1::くれた}}。	exampleいちにくれた。	hint	[sound:1591fa230fab.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
-exampleいちさん{{c1::くれた}}。	exampleいちさんくれた。	hint	[sound:1cb352d58ab1.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard
-exampleいちし{{c1::くれた}}。	exampleいちしくれた。	hint	[sound:2660d70d4ab4.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro
+exampleぜろ{{c1::くれた}}。	exampleぜろくれた。	hint	[sound:f9cb10faf925.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleいち{{c1::くれた}}。	exampleいちくれた。	hint	[sound:292b8aadf2b2.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleに{{c1::くれた}}。	exampleにくれた。	hint	[sound:7caf77baddbc.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleさん{{c1::くれた}}。	exampleさんくれた。	hint	[sound:bebf7eb9a512.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleし{{c1::くれた}}。	exampleしくれた。	hint	[sound:6b8ca6f78a12.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleご{{c1::くれた}}。	exampleごくれた。	hint	[sound:134270a2b0f8.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleろく{{c1::くれた}}。	exampleろくくれた。	hint	[sound:13995d6f21d4.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleしち{{c1::くれた}}。	exampleしちくれた。	hint	[sound:bef12e43b16b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleはち{{c1::くれた}}。	exampleはちくれた。	hint	[sound:744a38254680.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleきゅう{{c1::くれた}}。	exampleきゅうくれた。	hint	[sound:7375b1016e58.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleいちぜろ{{c1::くれた}}。	exampleいちぜろくれた。	hint	[sound:a7aeca0b6c3b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard source:shin-kanzen
+exampleいちいち{{c1::くれた}}。	exampleいちいちくれた。	hint	[sound:6dbfd94cc7d2.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard source:shin-kanzen
+exampleいちに{{c1::くれた}}。	exampleいちにくれた。	hint	[sound:1591fa230fab.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen
+exampleいちさん{{c1::くれた}}。	exampleいちさんくれた。	hint	[sound:1cb352d58ab1.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard source:shin-kanzen
+exampleいちし{{c1::くれた}}。	exampleいちしくれた。	hint	[sound:2660d70d4ab4.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro source:shin-kanzen

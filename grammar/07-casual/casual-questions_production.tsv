@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::07 - Casual::Production
+#
+What are you doing today?	Question (no か)	きょうなにやってる？	今日何やってる？	Rising intonation	[sound:a31c1f30b3e2.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Who came?	Question (no か)	だれがきた？	誰が来た？	Inquiry tone	[sound:64bb01c54860.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+Where are you going?	〜の？	どこいくの？	どこ行くの？	Gentle inquiry	[sound:0f886a9f1a04.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+What are you doing?	〜の？	なにしてんの？	何してんの？	Quick question	[sound:95038104f997.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Really?	〜ん？	ほんとうなん？	本当なん？	Casual confirmation	[sound:c40ce6f97c9e.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Are you okay?	〜ん？	だいじょうぶなん？	大丈夫なん？	Worry inquiry	[sound:5e8d077020b9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+You came for me!	〜わ	きてくれたわ。	来てくれたわ。	Feminine particle	[sound:452769db1db8.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+It was fun!	〜わ	たのしかったわ。	楽しかったわ。	Feminine speech	[sound:e6c747308ea6.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+I like it.	〜よ	すきよ。	好きよ。	Female emphasis	[sound:01c0374ef1ce.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+I'm going.	〜よ	いくよ。	行くよ。	Casual assertion	[sound:6b46d91141c9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Please wait.	ね (formal)	まってください。	待ってくださいね。	Politeness marker	[sound:43dbb19758af.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+Do your best!	〜よ	がんばってよ。	頑張ってよ。	Encouragement	[sound:4d66388b4fc7.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+You're coming?	ん＋だ＋？	くるんだ？	来るんだ？	Casual surprise	[sound:931067c5c268.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Who is it?	〜ん？	だれなん？	誰なん？	Quick identification	[sound:cdac2bd56f9b.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+What happened?	〜ん？	どうしたん？	どうしたん？	Problem check	[sound:909f6e99b094.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+Are you a student?	〜ん？	がくせいなん？	学生なん？	Quick inquiry	[sound:12b4d0f170af.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+I'm coming today.	〜よ	きょうくるよ。	今日来るよ。	Informal statement	[sound:95610c70b263.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Help me!	〜よ	てつだってよ。	手伝ってよ。	Urgent appeal	[sound:5b0da679945f.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+I told the truth.	〜わ	ほんとうのこといったわ。	本当のこと言ったわ。	Feminine disclosure	[sound:c7afc42f5fa4.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Nice weather, huh?	ね？	いいてんきだね？	いい天気だね？	Soft inquiry	[sound:0010e72bae34.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Did you go?	んですか	いったんですか？	行ったんですか？	Formal inquiry	[sound:f6002a12cbf6.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+What is it?	〜ん？	なんなん？	何なん？	Quick understanding	[sound:c330582a79e9.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Did you understand?	〜ん？	わかったん？	分かったん？	Knowledge check (replacement)	[sound:3802e58b7098.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+I will do it.	〜よ	やるよ。	やるよ。	Firm assertion	[sound:9029691e84f7.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+Come!	〜よ	きてよ。	来てよ。	Urgent appeal	[sound:c3ee5b028a96.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+Do you know?	〜ん？	しってるん？	知ってるん？	Knowledge check	[sound:82632765b836.mp3]	module:07-casual point:casual-questions complexity:intro source:imabi
+What?	？	なに？	何？	Simple inquiry	[sound:099228cf66b8.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+You came?	か (dropped)	きた？	来た？	Rising intonation	[sound:ef3bfe0ba96b.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top10k source:imabi
+Is it the truth?	〜ん？	ほんとうのことなん？	本当のことなん？	Verification inquiry	[sound:7f5d88b01c11.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Do you like it?	〜の？	すきなの？	好きなの？	Gentle inquiry	[sound:5d338ccc34cd.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
+Are you going?	〜の？	いくの？	行くの？	Soft inquiry	[sound:554b6162f03e.mp3]	module:07-casual point:casual-questions complexity:intro frequency:top1k source:imabi
