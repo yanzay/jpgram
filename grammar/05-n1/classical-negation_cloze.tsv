@@ -1,0 +1,50 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::05 - N1 Grammar::Cloze
+そんなことは{{c1::しまい}}。	そんなことは。	しない意思。	[sound:3b49a7fb7572.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+彼はもう来{{c1::まい}}。	かれはもうらい。	来ないと思う。	[sound:9f0c1f8e659e.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+失敗する{{c1::まい}}と努力した。	しっぱいするとどりょくした。	失敗しない努力。	[sound:5778d7f233d6.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+そんなはずは{{c1::あるまい}}。	そんなはずは。	あり得ない。	[sound:6cc6f441e685.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+行かないわけには{{c1::いくまい}}。	いかないわけには。	行かざるを得ない。	[sound:0b68281c6342.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+二度とそんなことは{{c1::するまい}}。	にどとそんなことは。	しない決心。	[sound:0fc60c8fd846.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+彼は黙っていよう{{c1::まい}}。	かれはだまっていよう。	沈黙しない。	[sound:1dce64172032.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+本当に{{c1::そうではあるまいか}}。	ほんとうに。	そうではないか。	[sound:a8a41b7c01a6.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+彼もそう思う{{c1::まいか}}。	かれもそうおもう。	思うのではないか。	[sound:a7fedbd8ba22.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+言う{{c1::まじき}}言葉を話した。	いうことばをはなした。	言うべきでない言葉。	[sound:945f2d6ba061.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+やる{{c1::まじき}}行為。	やるこうい。	やるべきでない行為。	[sound:accc619695c5.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+信じる{{c1::まじき}}男。	しんじるおとこ。	信じるべきでない。	[sound:0cc4a254876d.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+近づく{{c1::まじき}}人物。	ちかづくじんぶつ。	近づくべきでない。	[sound:4108caa74bd0.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+見る{{c1::まじき}}光景。	みるこうけい。	見るべきでない。	[sound:fb9b0f0a211d.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+これをしなくては{{c1::ならぬ}}。	これをしなくては。	しなくてはいけない。	[sound:0f9e75e1ca62.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+行か{{c1::ねばならぬ}}。	いか。	行かなくてはいけない。	[sound:e04a21277eef.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+言うべき言葉もない{{c1::ぬ}}。	いうべきことばもない。	ない状態。	[sound:5b9ae43f243c.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+彼が来た{{c1::ぬ}}。	かれがきた。	来なかった。	[sound:1816808b2c60.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+風は止み{{c1::ぬ}}。	かぜはとみ。	止まらない。	[sound:0259356fc8d3.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+知ら{{c1::ぬ}}が仏。	しらがほとけ。	知らない方が幸せ。	[sound:1a86c28e8cb2.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+行き{{c1::ぬ}}。	いき。	いかなかった。	[sound:e6f2b99bd0eb.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+来{{c1::ぬ}}。	らい。	こなかった。	[sound:65ca6c9803ef.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+助け{{c1::ぬ}}。	たすけ。	助けなかった。	[sound:65467c3ad2f6.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+これを{{c1::しなくてはならぬ}}。	これを。	必須行為。	[sound:0f9e75e1ca62.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+学ば{{c1::ねばならぬ}}。	まなば。	学ばねばならない。	[sound:e41a95c30718.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+来ねば{{c1::ならぬ}}。	こねば。	来なくてはいけない。	[sound:bd24000eed1f.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+書か{{c1::ねばならぬ}}。	かか。	かかねばならない。	[sound:c151fac36597.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+それが本当{{c1::でなくてなんだろう}}。	それがほんとう。	本当に違いない。	[sound:1c765dcd42ad.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+これが答え{{c1::でなくてなんだろうか}}。	これがこたえ。	答えに違いない。	[sound:4ff73b21e53f.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+それが正解{{c1::でなくてなんだろう}}。	それがせいかい。	正解に違いない。	[sound:e0a8f4a7f511.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+彼が犯人{{c1::でなくてなんだろう}}。	かれがはんにん。	犯人に違いない。	[sound:63a8c649a185.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+逃げ{{c1::ようがあるまい}}。	にげ。	逃げられない。	[sound:a98adf87f406.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+対抗の{{c1::しようがあるまい}}。	たいこうの。	対抗できない。	[sound:9a93297f415d.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+否定し{{c1::ようがあるまい}}。	ひていし。	否定できない。	[sound:7c1dd05357bd.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+助け{{c1::ようがあるまい}}。	たすけ。	助けられない。	[sound:c018bc1b078b.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+防ぎ{{c1::ようがあるまい}}。	ふせぎ。	防げない。	[sound:7137ab1190bb.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+忘れる{{c1::べき}}ではない。	わすれるではない。	忘れてはいけない。	[sound:2a58383034a8.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+知ら{{c1::ぬ}}ことを聞くな。	しらことをきくな。	知らないので聞くな。	[sound:1a5c7478d136.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+来ない{{c1::わけにはいかぬ}}。	こない。	来ないわけにはいかない。	[sound:ab2d526626d4.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+する{{c1::まい}}と決めた。	するときめた。	しないと決めた。	[sound:2cbf9a5f654c.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+彼は去り{{c1::ぬ}}。	かれはさり。	去ってしまった。	[sound:c1415ba3c466.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+返さ{{c1::ぬ}}。	かえさ。	返さなかった。	[sound:f5034a424bda.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+飲ま{{c1::ぬ}}。	のま。	飲まなかった。	[sound:deb772818eee.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+歌わ{{c1::ぬ}}。	うたわ。	歌わなかった。	[sound:db42106a11f6.mp3]	module:05-n1 jlpt:n1 point:classical-negation
+走ら{{c1::ぬ}}。	はしら。	走らなかった。	[sound:9cf9989afae9.mp3]	module:05-n1 jlpt:n1 point:classical-negation

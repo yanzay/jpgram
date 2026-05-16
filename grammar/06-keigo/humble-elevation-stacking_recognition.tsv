@@ -1,0 +1,30 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::06 - Keigo::Recognition
+させていただく。	させていただく。	I humbly request permission to do.	敬語	させ+ていただく	permission humble stacking	stacking pattern	[sound:b82243ae42fc.mp3]	[sound:b82243ae42fc.mp3]	module:06-keigo point:humble-elevation-stacking
+させていただいてもよろしいでしょうか。	させていただいてもよろしいでしょうか。	May I humbly do this?	敬語	させていただいても+よろしい+でしょうか	permission request	stacking pattern	[sound:2ce803fd53a6.mp3]	[sound:2ce803fd53a6.mp3]	module:06-keigo point:humble-elevation-stacking
+たまわる。	たまわる。	I humbly receive (archaic).	敬語	たまわる	archaic humble	stacking pattern	[sound:e8c1b0dcf416.mp3]	[sound:e8c1b0dcf416.mp3]	module:06-keigo point:humble-elevation-stacking
+させていただきました。	させていただきました。	I humbly did.	敬語	させ+ていただいた	past permission	stacking pattern	[sound:ed731e70fd21.mp3]	[sound:ed731e70fd21.mp3]	module:06-keigo point:humble-elevation-stacking
+そのようなことをさせていただけるとは。	そのようなことをさせていただけるとは。	I can scarcely believe I am permitted to do such a thing.	敬語	させていただける+とは	grateful permission	stacking pattern	[sound:7ce85ab81407.mp3]	[sound:7ce85ab81407.mp3]	module:06-keigo point:humble-elevation-stacking
+この度はお約束をさせていただきたく。	このどはおやくそくをさせていただきたく。	This time I wish to humbly make a promise.	敬語	お・+させていただきたい	double humble stacking	stacking pattern	[sound:7d3b2fdea228.mp3]	[sound:7d3b2fdea228.mp3]	module:06-keigo point:humble-elevation-stacking
+させていただくことができました。	させていただくことができました。	I was able to humbly do.	敬語	させていただく+ことができた	permission accomplishment	stacking pattern	[sound:d10e28418715.mp3]	[sound:d10e28418715.mp3]	module:06-keigo point:humble-elevation-stacking
+されるようになった。	されるようになった。	He/she came to be done to (passive as honorific).	敬語	される+ようになる	passive honorific	stacking pattern	[sound:d4cfa7592053.mp3]	[sound:d4cfa7592053.mp3]	module:06-keigo point:humble-elevation-stacking
+お読みになられました。	およみになられました。	He/she read (double honorific).	敬語	お・+になられる	double honorific stacking	stacking pattern	[sound:294fded6cf59.mp3]	[sound:294fded6cf59.mp3]	module:06-keigo point:humble-elevation-stacking
+ご説明されました。	ごせつめいされました。	He/she explained (passive honorific).	敬語	ご・+される	passive honorific pattern	stacking pattern	[sound:e533825a04f2.mp3]	[sound:e533825a04f2.mp3]	module:06-keigo point:humble-elevation-stacking
+申し上げさせていただきます。	もうしあげさせていただきます。	I humbly request permission to say.	敬語	申し上げ+させていただく	double humble speaking	stacking pattern	[sound:f5dd6c63d4ca.mp3]	[sound:f5dd6c63d4ca.mp3]	module:06-keigo point:humble-elevation-stacking
+お返しさせていただきました。	おかえしさせていただきました。	I humbly returned.	敬語	お・+させていただいた	double humble returning	stacking pattern	[sound:a09ed82f4f4a.mp3]	[sound:a09ed82f4f4a.mp3]	module:06-keigo point:humble-elevation-stacking
+ご報告させていただきたく。	ごほうこくさせていただきたく。	I wish to humbly report.	敬語	ご・+させていただきたい	double humble reporting	stacking pattern	[sound:dc78ad44dfe7.mp3]	[sound:dc78ad44dfe7.mp3]	module:06-keigo point:humble-elevation-stacking
+言わさせていただきます。	いわさせていただきます。	I humbly request permission to say.	敬語	いわ+させていただく	permission to speak	stacking pattern	[sound:93591c217749.mp3]	[sound:93591c217749.mp3]	module:06-keigo point:humble-elevation-stacking
+いただけるでしょうか。	いただけるでしょうか。	Could I humbly receive?	敬語	いただける+でしょうか	humble permission question	stacking pattern	[sound:07d88eba9ab4.mp3]	[sound:07d88eba9ab4.mp3]	module:06-keigo point:humble-elevation-stacking
+考えさせていただきたい。	かんがえさせていただきたい。	I would like permission to think about it.	敬語	かんがえ+させていただきたい	permission to consider	stacking pattern	[sound:7041e2119c46.mp3]	[sound:7041e2119c46.mp3]	module:06-keigo point:humble-elevation-stacking
+をさせていただきたく存じます。	をさせていただきたくぞんじます。	I wish to humbly do (archaic humble layer).	敬語	させていただきたい+存じる	triple humble stacking	stacking pattern	[sound:87ea65cded3d.mp3]	[sound:87ea65cded3d.mp3]	module:06-keigo point:humble-elevation-stacking
+いただく権限を与えていただきました。	いただくけんげんをあたえていただきました。	I was humbly given the authority to receive.	敬語	いただく+与える+いただく	double humble authority	stacking pattern	[sound:f0d0a8e1466a.mp3]	[sound:f0d0a8e1466a.mp3]	module:06-keigo point:humble-elevation-stacking
+させていただくことについてお願いいたします。	させていただくことについておねがいいたします。	Regarding permission to do, I humbly request.	敬語	させていただく+こと+ご・+いたす	triple stacking	stacking pattern	[sound:37bff070ef99.mp3]	[sound:37bff070ef99.mp3]	module:06-keigo point:humble-elevation-stacking
+ご理解いただけますよう。	ごりかいいただけますよう。	I humbly hope for your understanding.	敬語	ご・+いただける+ようお願いする	humble understanding request	stacking pattern	[sound:5837314f0a50.mp3]	[sound:5837314f0a50.mp3]	module:06-keigo point:humble-elevation-stacking
+させていただけますならば。	させていただけますならば。	If I may humbly do.	敬語	させていただける+ならば	humble conditional	stacking pattern	[sound:72932008d85a.mp3]	[sound:72932008d85a.mp3]	module:06-keigo point:humble-elevation-stacking
+お受けさせていただきました。	おうけさせていただきました。	I humbly accepted.	敬語	お・+させていただいた	double humble accepting	stacking pattern	[sound:5ee6f472c7d2.mp3]	[sound:5ee6f472c7d2.mp3]	module:06-keigo point:humble-elevation-stacking
+されるおつもりですか。	されるおつもりですか。	Do you intend to have it done to you (passive)? (question)	敬語	される+おつもり+ですか	passive honorific intention	stacking pattern	[sound:d43e21f3e7ab.mp3]	[sound:d43e21f3e7ab.mp3]	module:06-keigo point:humble-elevation-stacking
+言わされた。	いわされた。	I was made to say (passive).	敬語	いわ+される	causative-passive	stacking pattern	[sound:337db68fe04c.mp3]	[sound:337db68fe04c.mp3]	module:06-keigo point:humble-elevation-stacking
+ご配慮いただけますでしょうか。	ごはいりょいただけますでしょうか。	Could you humbly show consideration?	敬語	ご・+いただける+でしょうか	double humble consideration	stacking pattern	[sound:b8641170bb4e.mp3]	[sound:b8641170bb4e.mp3]	module:06-keigo point:humble-elevation-stacking

@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::10 - Onomatopoeia::Giseigo
+
+ワンワン	わんわん	woof woof	Dog bark	animal voice	actual sound	dog sound	meow (ニャー)	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giseigo-voices
+ニャー	にゃー	meow	Cat cry	animal voice	actual sound	cat sound	woof (ワン)	[sound:47d9e36d59dd.mp3]	module:10-onomatopoeia point:giseigo-voices
+コケコッコー	こけこっこー	cock-a-doodle-doo	Rooster crow	animal voice	actual sound	rooster dawn	quack (ガーガー)	[sound:93b6dedc98e1.mp3]	module:10-onomatopoeia point:giseigo-voices
+ケロケロ	けろけろ	ribbit ribbit	Frog croak	animal voice	actual sound	frog pond	chirp (チュン)	[sound:b88990383761.mp3]	module:10-onomatopoeia point:giseigo-voices
+モーモー	もーもー	moo	Cow lowing	animal voice	actual sound	bovine sound	bleat (めーめー)	[sound:2014291e78d6.mp3]	module:10-onomatopoeia point:giseigo-voices
+ブーブー	ぶーぶー	oink oink	Pig grunt	animal voice	actual sound	porcine sound	baa (めーめー)	[sound:c290aa4fc780.mp3]	module:10-onomatopoeia point:giseigo-voices
+チュンチュン	ちゅんちゅん	chirp chirp	Small bird	animal voice	actual sound	sparrow tweet	crow (カー)	[sound:98eeb9025bd8.mp3]	module:10-onomatopoeia point:giseigo-voices
+ヒーヒー	ひーひー	neigh/whinny	Horse sound	animal voice	actual sound	equine call	bray (あーあー)	[sound:f66b1943c4da.mp3]	module:10-onomatopoeia point:giseigo-voices
+ガーガー	がーがー	quack quack	Duck sound	animal voice	actual sound	waterfowl call	honk (がんがん)	[sound:748f805710df.mp3]	module:10-onomatopoeia point:giseigo-voices
+ニャーニャー	にゃーにゃー	meow meow	Cat repetitive	animal voice	actual sound	persistent cat	dog howl (ワオーン)	[sound:b52e76022102.mp3]	module:10-onomatopoeia point:giseigo-voices
+メーメー	めーめー	bleat bleat	Goat or sheep	animal voice	actual sound	caprine sound	moo (モー)	[sound:9b20d222090b.mp3]	module:10-onomatopoeia point:giseigo-voices
+グーグー	ぐーぐー	coo coo	Pigeon sound	animal voice	actual sound	dove cooing	chirp (チュン)	[sound:1685633fdc05.mp3]	module:10-onomatopoeia point:giseigo-voices
+ジージー	じーじー	buzzing	Insect sound	animal voice	actual sound	cicada buzz	silence (しん)	[sound:831f2d9d5b46.mp3]	module:10-onomatopoeia point:giseigo-voices
+ミーミー	みーみー	meow shrill	Kitten cry	animal voice	actual sound	young cat	adult meow (ニャー)	[sound:b37d98b1be5a.mp3]	module:10-onomatopoeia point:giseigo-voices
+ジャージャー	じゃーじゃー	barking loud	Aggressive dog	animal voice	actual sound	fierce bark	timid whimper (くーん)	[sound:e6856bee684a.mp3]	module:10-onomatopoeia point:giseigo-voices
+ホーホー	ほーほー	hoot hoot	Owl sound	animal voice	actual sound	nocturnal owl	chirp (さえずり)	[sound:ebcd3962f4d1.mp3]	module:10-onomatopoeia point:giseigo-voices
+カアカア	かあかあ	caw caw	Crow sound	animal voice	actual sound	corvid call	chirp (ちゅん)	[sound:7d46817fb0c9.mp3]	module:10-onomatopoeia point:giseigo-voices
+ゴロゴロ	ごろごろ	cat purring	Cat contentment	animal voice	actual sound	satisfied purr	meow cry (にゃあ)	[sound:938a3cd2d0da.mp3]	module:10-onomatopoeia point:giseigo-voices
+シャー	しゃー	cat hissing	Defensive cat sound	animal voice	actual sound	angry cat	purring (ごろごろ)	[sound:49c9f6a0e6a2.mp3]	module:10-onomatopoeia point:giseigo-voices
+キャーキャー	きゃーきゃー	bird squawking	Loud bird call	animal voice	actual sound	harsh screech	soft chirp (さえずり)	[sound:edb19ea1ac24.mp3]	module:10-onomatopoeia point:giseigo-voices
+クルクル	くるくる	mouse squeak	High-pitched squeak	animal voice	actual sound	tiny creature sound	deep growl (ぐー)	[sound:c08cecdc3d07.mp3]	module:10-onomatopoeia point:giseigo-voices
+フゴフゴ	ふごふご	heavy breathing	Animal or human	animal voice	actual sound	labored breath	quiet sigh (ふー)	[sound:656ad896dd98.mp3]	module:10-onomatopoeia point:giseigo-voices
+パタパタ	ぱたぱた	rabbit hopping	Quick hops	animal voice	actual sound	bouncy movement	crawling drag (そろそろ)	[sound:7f9b03813dbb.mp3]	module:10-onomatopoeia point:giseigo-voices
+ビャービャー	びゃーびゃー	goose honking	Loud goose call	animal voice	actual sound	waterfowl honk	silence (しん)	[sound:aebb5b3fab03.mp3]	module:10-onomatopoeia point:giseigo-voices
+バッバッ	ばっばっ	bird wing flap	Rapid wing beating	animal voice	actual sound	flight sounds	stillness (しずか)	[sound:b89d85e0f22b.mp3]	module:10-onomatopoeia point:giseigo-voices
+ジーッ	じーっ	insect drone	Long buzz	animal voice	actual sound	continuous buzz	silence (しん)	[sound:6dd371a72acd.mp3]	module:10-onomatopoeia point:giseigo-voices
+バリバリ	ばりばり	loud crunching	Animal eating	animal voice	actual sound	feeding sound	quiet nibble (かじかじ)	[sound:6795a8db4f92.mp3]	module:10-onomatopoeia point:giseigo-voices
+ワオーン	わおーん	dog howling	Dog prolonged cry	animal voice	actual sound	mournful howl	regular bark (わん)	[sound:d257e9287650.mp3]	module:10-onomatopoeia point:giseigo-voices
+チュッチュッ	ちゅっちゅっ	bird chirping	Quick chirps	animal voice	actual sound	sparrow call	silence (しん)	[sound:1f54d180b394.mp3]	module:10-onomatopoeia point:giseigo-voices

@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::09 - SFP & Aizuchi::Contrast
+#
+面白いよ。	面白いね。	面白いよ。	よ	よ asserts strongly; ね seeks agreement.	よ = my opinion; ね = shared?	[sound:97cccc914669.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+大変だよ。	大変だね。	大変だよ。	よ	よ emphasizes difficulty emphatically.	よ = heavy emphasis; ね = softer	[sound:501e4f541bd7.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+面白いよね。	面白いよ。	面白いね。	よね	Combo of よ (assert) + ね (seek agreement).	よね = strongest connection	[sound:c160cb7ef8d4.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+だぜ。	よ。	だぜ。	だぜ	Rough male assertion vs standard よ.	だぜ = rough male; よ = neutral	[sound:5c8623d53452.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+ぞ。	よ。	ぞ。	ぞ	Rough old-style assertion vs modern よ.	ぞ = archaic/rough; よ = modern	[sound:c6baa0a4610b.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+うん。	そう。	うん。	うん	Basic agreement vs neutral acknowledgment.	うん = affirmation; そう = understanding	[sound:d357e9e0ee2c.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+なるほど。	そう。	なるほど。	なるほど	Intellectual acknowledgment vs simple understanding.	なるほど = insight; そう = basic	[sound:d92566ab8563.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+たしかに。	うん。	たしかに。	たしかに	Strong concurrence vs simple agreement.	たしかに = validates point; うん = agrees	[sound:1221f8d155f8.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+のよ。	わよ。	のよ。	のよ	Female explanation vs female simple assertion.	のよ = reason; わよ = statement	[sound:b08e245dff22.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+わね。	ね。	わね。	わね	Female dialect agreement vs neutral agreement.	わね = Kansai/feminine; ね = standard	[sound:b4c5597cd5a0.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+かしら。	か。	かしら。	かしら	Female wondering vs standard question.	かしら = feminine musing; か = direct query	[sound:5fc307bbbc3f.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+の?	か?	の?	の	Female intimate question vs standard question.	の = intimate; か = formal/neutral	[sound:cf49ae3b7dd0.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+よ。	ね。	よ。	よ	Assertion vs agreement-seeking.	よ = tells you; ね = asks you	[sound:521471556ba7.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+ぜ。	よ。	ぜ。	ぜ	Rough suggestion vs standard assertion.	ぜ = rough/male; よ = standard	[sound:cd0f97e61943.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi
+わ。	よ。	わ。	わ	Female/Kansai assertion vs standard assertion.	わ = female/regional; よ = neutral	[sound:b5570ad1346b.mp3]	module:09-sfp-aizuchi point:sfp-aizuchi-contrast point:sfp-aizuchi

@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::06 - Keigo::Recognition
+もしもし。	もしもし。	Hello (phone).	電話敬語	もしもし	phone greeting	greeting	[sound:59395133415f.mp3]	[sound:59395133415f.mp3]	module:06-keigo point:phone-keigo
+失礼ですがお名前は。	しつれいですがおなまえは。	Excuse me, what is your name?	電話敬語	失礼+お名前	name inquiry	inquiry	[sound:c683ba964789.mp3]	[sound:c683ba964789.mp3]	module:06-keigo point:phone-keigo
+大変お待たせいたしました。	たいへんおまたせいたしました。	Thank you for waiting.	電話敬語	大変+お待たせ+いたした	apology for wait	apology	[sound:c5ecdfb76881.mp3]	[sound:c5ecdfb76881.mp3]	module:06-keigo point:phone-keigo
+担当の田中をお願いします。	たんとうのたなかをおねがいします。	Could I speak to Tanaka in charge?	電話敬語	担当+をお願いする	transfer request	request	[sound:3d1093a516d8.mp3]	[sound:3d1093a516d8.mp3]	module:06-keigo point:phone-keigo
+ご伝言を承りましょうか。	ごでんごんをうけたまわりましょうか。	May I take a message?	電話敬語	ご伝言+承る	message inquiry	inquiry	[sound:c95ed8fa7e28.mp3]	[sound:c95ed8fa7e28.mp3]	module:06-keigo point:phone-keigo
+お電話代わりました。	おでんわだいわりました。	Phone transferred (I'm taking over).	電話敬語	お電話+代わる	call transfer	transfer	[sound:00ad0fc10bde.mp3]	[sound:00ad0fc10bde.mp3]	module:06-keigo point:phone-keigo
+いかがいたしましょうか。	いかがいたしましょうか。	How can I help?	電話敬語	いかが+いたす+ましょう+か	offer of help	offering	[sound:bc2f57e556b6.mp3]	[sound:bc2f57e556b6.mp3]	module:06-keigo point:phone-keigo
+こちらは営業部でございます。	こちらはえいぎょうぶでございます。	This is the sales department.	電話敬語	こちら+営業部+でございます	department identification	identification	[sound:c8555c50d9a2.mp3]	[sound:c8555c50d9a2.mp3]	module:06-keigo point:phone-keigo
+ご質問についてお答えいたします。	ごしつもんについておこたえいたします。	I will answer your question.	電話敬語	ご質問+について+お答え+いたす	question answering	answering	[sound:6c9f831519b2.mp3]	[sound:6c9f831519b2.mp3]	module:06-keigo point:phone-keigo
+本社に確認させていただきたいのですが。	ほんしゃにかくにんさせていただきたいのですが。	I would like to confirm with headquarters.	電話敬語	本社+確認+させていただきたい	future action	action	[sound:b73a653b889d.mp3]	[sound:b73a653b889d.mp3]	module:06-keigo point:phone-keigo
+かかってきたお電話をお取り次ぎいたします。	かかってきたおでんわをおとりつぎいたします。	I will transfer your call.	電話敬語	かかってきた+お電話+お取り次ぎ+いたす	call transfer	transfer	[sound:609bddc4fbbc.mp3]	[sound:609bddc4fbbc.mp3]	module:06-keigo point:phone-keigo
+おられますでしょうか。	おられますでしょうか。	Is he/she available?	電話敬語	おられる+ます+でしょうか	availability inquiry	inquiry	[sound:c55236d30f41.mp3]	[sound:c55236d30f41.mp3]	module:06-keigo point:phone-keigo
+いったん保留させていただきたいのですが。	いったんほりゅうさせていただきたいのですが。	I would like to put you on hold for a moment.	電話敬語	いったん+保留+させていただきたい	hold request	request	[sound:43d5ca1df524.mp3]	[sound:43d5ca1df524.mp3]	module:06-keigo point:phone-keigo
+お客さまの方からお電話をいただいております。	おきゃくさまのほうからおでんわをいただいております。	We have a customer on the line for you.	電話敬語	お客さま+方から+お電話+いただいている	incoming call notification	notification	[sound:30093507d72e.mp3]	[sound:30093507d72e.mp3]	module:06-keigo point:phone-keigo
+申し上げにくいのですが。	もうしあげにくいのですが。	It's difficult to say, but.	電話敬語	申し上げ+にくい	hesitant request	request	[sound:e26034a059e6.mp3]	[sound:e26034a059e6.mp3]	module:06-keigo point:phone-keigo
+こちら営業の田中と申します。	こちらえいぎょうのたなかともうします。	This is Tanaka from Sales.	電話敬語	こちら+営業+と申す	self-introduction	introduction	[sound:00e8c80a4a6c.mp3]	[sound:00e8c80a4a6c.mp3]	module:06-keigo point:phone-keigo
+突然のお電話で申し訳ございません。	とつぜんのおでんわでもうしわけございません。	I apologize for calling suddenly.	電話敬語	突然+お電話+申し訳+ございません	sudden call apology	apology	[sound:0241dcbbec3b.mp3]	[sound:0241dcbbec3b.mp3]	module:06-keigo point:phone-keigo
+ご多忙のところありがとうございます。	ごたぼうのところありがとうございます。	Thank you despite your busy schedule.	電話敬語	ご多忙+ところ+ありがとう+ございます	gratitude phrase	thanks	[sound:2b8d5ae7df31.mp3]	[sound:2b8d5ae7df31.mp3]	module:06-keigo point:phone-keigo
+お忙しいところ失礼いたしました。	おいそがしいところしつれいいたしました。	I apologize for intruding on your busy time.	電話敬語	お忙しい+ところ+失礼+いたした	interruption apology	apology	[sound:606aac53902e.mp3]	[sound:606aac53902e.mp3]	module:06-keigo point:phone-keigo
+のちほどこちらからお電話させていただきます。	のちほどこちらからおでんわさせていただきます。	I will call you back later.	電話敬語	のちほど+こちらから+お電話+させていただく	future callback	callback	[sound:63474ba1e60b.mp3]	[sound:63474ba1e60b.mp3]	module:06-keigo point:phone-keigo
+いつもご利用ありがとうございます。	いつもごりようありがとうございます。	phone: thank you for always using.	電話敬語	いつも+ご利用+ありがとう	phone gratitude	thanks	[sound:fdbf68692dbd.mp3]	[sound:fdbf68692dbd.mp3]	module:06-keigo point:phone-keigo
+こちらは山田と申します。	こちらはやまだともうします。	phone: this is Yamada.	電話敬語	こちらは+と申す	phone introduction	introduction	[sound:1747792b9279.mp3]	[sound:1747792b9279.mp3]	module:06-keigo point:phone-keigo
+何かご不明なことはございませんか。	なにかごふめいなことはございませんか。	phone: any unclear things.	電話敬語	何か+ご不明+ございませんか	phone inquiry	inquiry	[sound:feae7f23aa20.mp3]	[sound:feae7f23aa20.mp3]	module:06-keigo point:phone-keigo
+本日はお忙しいところご連絡いただきありがとうございます。	ほんじつはおいそがしいところごれんらくいただきありがとうございます。	phone: thank you for contacting despite busy.	電話敬語	本日+お忙しい+ご連絡+いただく	phone thanks	thanks	[sound:ced433037a86.mp3]	[sound:ced433037a86.mp3]	module:06-keigo point:phone-keigo
+今からお時間をいただけますか。	いまからおじかんをいただけますか。	phone: do you have time now.	電話敬語	今から+お時間+いただける	phone time request	request	[sound:7cceef05e7d1.mp3]	[sound:7cceef05e7d1.mp3]	module:06-keigo point:phone-keigo
+いったんお電話を切らせていただきます。	いったんおでんわをきらせていただきます。	phone: I will disconnect for now.	電話敬語	いったん+お電話+切る+させていただく	phone action	disconnecting	[sound:37ea361ca578.mp3]	[sound:37ea361ca578.mp3]	module:06-keigo point:phone-keigo
+お手数ですがメールアドレスをいただけますか。	おてすうですがめーるあどれすをいただけますか。	phone: could I have your email.	電話敬語	お手数+メールアドレス+いただける	phone request	request	[sound:4d83416c9b04.mp3]	[sound:4d83416c9b04.mp3]	module:06-keigo point:phone-keigo
+何かご不満な点がございましたら。	なにかごふまんなてんがございましたら。	phone: if you have complaints.	電話敬語	何か+ご不満+ございましたら	phone complaint inquiry	inquiry	[sound:7f0e2ec54e64.mp3]	[sound:7f0e2ec54e64.mp3]	module:06-keigo point:phone-keigo
+大変恐れ入りますがもう一度お願いいたします。	たいへんおそれいりますがもういちどおねがいいたします。	phone: very sorry but once more please.	電話敬語	大変+恐れ入る+もう一度+お願い+いたす	phone apology	apology	[sound:d76c4ee5bb11.mp3]	[sound:d76c4ee5bb11.mp3]	module:06-keigo point:phone-keigo
+ご多忙のところお返事ありがとうございました。	ごたぼうのところおへんじありがとうございました。	phone: thank you for reply despite busy.	電話敬語	ご多忙+お返事+ありがとう	phone thanks	thanks	[sound:a0592c8d7a61.mp3]	[sound:a0592c8d7a61.mp3]	module:06-keigo point:phone-keigo

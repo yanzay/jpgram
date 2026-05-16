@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::11 - Classical::Recognition
+政府が対策を発表	せいふがたいさくをはっぴょう	government announces countermeasures (headline style)	te-form no copula	ニュース見出し	動詞+目的語	modern と発表した		[sound:13f67738a1bb.mp3]	module:11-classical point:news-headline-grammar
+企業の売上、過去最高	きぎょうのうりあげ、かこさいこう	company sales reach all-time high (headline)	noun-only sentence	ニュース見出し	名詞のみ（省略形）	modern ～が過去最高に達した		[sound:031d76ddfb54.mp3]	module:11-classical point:news-headline-grammar
+東京駅で火災、けが人も	とうきょうえきでかさい、けがにんも	fire at Tokyo Station, injuries too (headline)	enumeration style	ニュース見出し	複数の述語	modern ～が発生し、～が出た		[sound:0ceb5ff284c2.mp3]	module:11-classical point:news-headline-grammar
+新型コロナ、感染者増加	しんがたころな、かんせんしゃぞうか	new coronavirus strain, infections increase (headline)	no copula	ニュース見出し	名詞＋現象（省略）	modern ～が増加している		[sound:5f72e0e3c85b.mp3]	module:11-classical point:news-headline-grammar
+大臣が辞任との報道	だいじんがじにんとのほうどう	minister resignation reported (reported that...)	という style	ニュース見出し	と～の形	modern ～という報道がある		[sound:c152c25ec51b.mp3]	module:11-classical point:news-headline-grammar
+株価、一時２万円超え	かぶか、いちじにまんえんこえ	stock prices momentarily exceed 20,000 yen (headline)	no です/ます	ニュース見出し	数字＋現象	modern ～を超える		[sound:411f36c8f0da.mp3]	module:11-classical point:news-headline-grammar
+五輪選手団が入村	ごりんせんしゅだんがいりむら	Olympic athlete delegation enters village (headline)	te-form ending	ニュース見出し	動詞te形（省略）	modern ～した		[sound:d0331a778015.mp3]	module:11-classical point:news-headline-grammar
+台風15号、今夜上陸予定	たいふういちごごう、こんやじょうりくよてい	Typhoon No. 15 expected to make landfall tonight	no copula	ニュース見出し	名詞+予定	modern ～予定である		[sound:3d8f1f86ce3d.mp3]	module:11-classical point:news-headline-grammar
+大手企業、給与引き上げへ	おおてきぎょう、きゅうよひきあげへ	major companies to raise salaries	へ direction	ニュース見出し	へ＋方向性	modern へ向かう・へ進む		[sound:78234eee8f57.mp3]	module:11-classical point:news-headline-grammar
+野党、対案を提出	やとう、たいあんをていしゅつ	opposition party submits alternative proposal	te-form	ニュース見出し	動詞目的語形	modern ～した		[sound:36da5e10bc57.mp3]	module:11-classical point:news-headline-grammar
+日銀、金利据え置き	にちぎん、きんりすえおき	BOJ keeps interest rates unchanged	noun + action	ニュース見出し	名詞＋行為	modern ～を据え置いた		[sound:d8162ce50993.mp3]	module:11-classical point:news-headline-grammar
+防衛費、過去最大	ぼうえいひ、かこさいだい	defense budget hits record high	noun-only	ニュース見出し	名詞のみ	modern ～が過去最大に		[sound:904a45db1024.mp3]	module:11-classical point:news-headline-grammar
+気温、季節平年値を大きく上回る	きおん、きせつへいねんあたいをおおきくうわまわる	temperature significantly exceeds seasonal average	verb chain	ニュース見出し	動詞連鎖	modern ～を上回っている		[sound:9c2c57ef8e61.mp3]	module:11-classical point:news-headline-grammar
+学生ら、声明を発表	がくせいら、せいめいをはっぴょう	students release statement	plural marker	ニュース見出し	ら＋行為	modern ～が発表した		[sound:5da7b04568fb.mp3]	module:11-classical point:news-headline-grammar
+円相場、急上昇	えんそうば、きゅうじょうしょう	yen exchange rate surges	noun-only	ニュース見出し	名詞のみ	modern ～が急上昇した		[sound:77fb891c27ac.mp3]	module:11-classical point:news-headline-grammar
+改革案、賛成多数で可決	かいかくあん、さんせいたすうでかけつ	reform proposal passes with majority support	で instrumental	ニュース見出し	で＋手段	modern ～で可決された		[sound:5c5a338cedea.mp3]	module:11-classical point:news-headline-grammar
+感染者、初の減少	かんせんしゃ、はつのげんしょう	infections decline for first time	初の precedence	ニュース見出し	初の+名詞	modern 初めて減少した		[sound:1d30abbd61e4.mp3]	module:11-classical point:news-headline-grammar
+災害対策費、1000億円超	さいがいたいさくひ、せんおくえんちょう	disaster relief spending exceeds 100 billion yen	noun + amount	ニュース見出し	名詞＋額	modern ～を超えた		[sound:5d15c62df4ef.mp3]	module:11-classical point:news-headline-grammar
+大手銀行、支店統合へ	おおてぎんこう、してんとうごうへ	major banks to consolidate branches	へ direction	ニュース見出し	へ＋方向	modern へ進める		[sound:9618f496124f.mp3]	module:11-classical point:news-headline-grammar
+業績、予想を上回る	ぎょうせき、よそうをうわまわる	performance exceeds expectations	verb chain	ニュース見出し	動詞＋結果	modern ～を上回った		[sound:b16d7f31efa5.mp3]	module:11-classical point:news-headline-grammar
+首相、経済対策を指示	しゅしょう、けいざいたいさくをしじ	PM directs economic measures	te-form	ニュース見出し	動詞目的語	modern ～を指示した		[sound:205d6ba06cff.mp3]	module:11-classical point:news-headline-grammar
+原油、24ドル上昇	げんゆ、によんどるじょうしょう	crude oil rises 24 dollars	amount elevation	ニュース見出し	数字＋上昇	modern ～上昇した		[sound:942848b09ea3.mp3]	module:11-classical point:news-headline-grammar
+救助隊が現地に出発	きゅうじょたいがげんちにしゅっぱつ	rescue team departs for the site	に direction	ニュース見出し	に＋方向	modern へ向かった		[sound:e9004091c7e0.mp3]	module:11-classical point:news-headline-grammar
+日本、8強入りを決定	にっぽん、はちきょういりをけってい	Japan secures quarterfinal berth	を goal object	ニュース見出し	を＋対象	modern ～を決めた		[sound:05090bfb556f.mp3]	module:11-classical point:news-headline-grammar
+警察庁、注意喚起	けいさつちょう、ちゅういかんき	National Police Agency issues alert	noun action	ニュース見出し	名詞＋行為	modern ～を行った		[sound:8ec746932646.mp3]	module:11-classical point:news-headline-grammar
+国債が急騰	こくさいがきゅうとう	government bonds surge	が rise	ニュース見出し	が＋上昇	modern ～が上昇した		[sound:ef9fe17a6827.mp3]	module:11-classical point:news-headline-grammar
+製造業、6ヶ月連続低下	せいぞうぎょう、ろくゖがつれんぞくていか	manufacturing down six months straight	number+duration	ニュース見出し	数字＋期間＋現象	modern ～が低下した		[sound:e50557df5c3d.mp3]	module:11-classical point:news-headline-grammar
+今月の失業率、3年ぶり上昇	こんげつのしつぎょうりつ、さんねんぶりじょうしょう	monthly unemployment rises for first time in 3 years	duration+rise	ニュース見出し	期間+現象	modern ～が上昇した		[sound:e64f74f050a8.mp3]	module:11-classical point:news-headline-grammar
+被害、1000万円相当	ひがい、せんまんえんそうとう	damage estimated at 10 million yen	amount estimate	ニュース見出し	金額+推定	modern ～と推定される		[sound:e035fee81b0d.mp3]	module:11-classical point:news-headline-grammar
+石油、50ドル割れ	せきゆ、ごぜろどるわれ	oil drops below $50	price drop	ニュース見出し	価格+低下	modern ～を割った		[sound:9479804d8b0a.mp3]	module:11-classical point:news-headline-grammar
