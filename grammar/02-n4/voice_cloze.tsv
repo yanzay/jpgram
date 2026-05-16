@@ -1,0 +1,20 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+受け身に着目：本は図書館に{{c1::返された}}。	うけみにちゃくもく：ほんはとしょかんにかえされた。	Fill in passive form of 返す	[sound:4fb1e87bb0ce.mp3]	
+使役に着目：先生は学生に{{c1::読ませた}}。	しえきにちゃくもく：せんせいはがくせいによませた。	Fill in causative form of 読む	[sound:b6d56d951863.mp3]	
+使役受け身に着目：兵士は長時間{{c1::働かされた}}。	しえきうけみにちゃくもく：へいしはちょうじかんはたらかされた。	Fill in causative-passive form of 働く	[sound:8bbb4687c827.mp3]	
+受け身に着目：約束が{{c1::守られている}}。	うけみにちゃくもく：やくそくがまもられている。	Fill in passive form of 守る	[sound:01721fc857a3.mp3]	
+迷惑の受身に着目：雨に{{c1::降られた}}。	めいわくのうけみにちゃくもく：あめにふられた。	Fill in suffering passive form of 降る	[sound:b3b15c4a6a66.mp3]	
+使役に着目：親が子どもに宿題を{{c1::させている}}。	しえきにちゃくもく：おやがこどもにしゅくだいをさせている。	Fill in causative form of する	[sound:0e58ee55ef3c.mp3]	
+使役受け身に着目：私は母に掃除を{{c1::させられている}}。	しえきうけみにちゃくもく：わたしはははにそうじをさせられている。	Fill in causative-passive form of 掃除	[sound:bc58ba882e55.mp3]	
+自動詞に着目：窓が{{c1::開いた}}。	じどうしにちゃくもく：まどがひらいた。	Fill in intransitive form of 開く	[sound:bd71a14d0944.mp3]	
+他動詞に着目：窓を{{c1::開けた}}。	たどうしにちゃくもく：まどをひらけた。	Fill in transitive form of 開ける	[sound:825ec61ebe67.mp3]	
+受け身に着目：決定が誰によって{{c1::決められたのか}}。	うけみにちゃくもく：けっていがだれによってきめられたのか。	Fill in passive form of 決める	[sound:b5abec36951a.mp3]	
+使役に着目：先生は学生に読書を{{c1::させた}}。	しえきにちゃくもく：せんせいはがくせいにどくしょをさせた。	Fill in causative form of 読む	[sound:4d2efacf5427.mp3]	
+自動詞に着目：雨が{{c1::止んだ}}。	じどうしにちゃくもく：あめがやんだ。	Fill in intransitive form of 止む	[sound:8a96429d98cc.mp3]	
+他動詞に着目：エンジンを{{c1::止めた}}。	たどうしにちゃくもく：えんじんをとめた。	Fill in transitive form of 止める	[sound:0b3b0ec1ad99.mp3]	
+迷惑の受身に着目：隣人に音楽を{{c1::流されている}}。	めいわくのうけみにちゃくもく：りんじんにおんがくをながされている。	Fill in suffering passive form of 流す	[sound:f4c15b9a155c.mp3]	
+使役受け身に着目：生徒たちは宿題を{{c1::させられている}}。	しえきうけみにちゃくもく：せいとたちはしゅくだいをさせられている。	Fill in causative-passive form of する	[sound:585d7deca92a.mp3]	
