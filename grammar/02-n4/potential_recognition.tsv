@@ -6,22 +6,22 @@
 #
 # POTENTIAL RECOGNITION — 20 cards on potential forms Group1 -える, Group2 -られる (+ ra-nuki), できる, and particle shift を→が
 #
-私は日本語が話せます。	わたしはにほんごがはなせます。	I can speak Japanese.	Group 1 potential -える	consonant-stem + える	Express ability	can speak	Particle: を→が	[sound:76f13a9e82dd.mp3]	
-彼は3か国語が話せる。	かれはさんかこくごがはなせる。	He can speak three languages.	Group 1 potential -える	consonant-stem + える	State ability (plain)	can speak	Particle: を→が	[sound:bf44b3f9f299.mp3]	
-この問題が解ける人はいますか。	このもんだいがとけるひとはいますか。	Is there anyone who can solve this problem?	Group 1 potential -える	consonant-stem + える	Inquire about ability	can solve	Particle: を→が	[sound:58f7900c7806.mp3]	
-私たちは月に行くことはできない。でも、衛星から見ることはできる。	わたしたちはつきにいくことはできない。でも、えいせいからみることはできる。	We can't go to the moon, but we can see it from satellites.	Group 1 potential -える (negative)	consonant-stem + えない	Negative ability	can't go	Negative: -ない vs -られない	[sound:fcc50df7f8c1.mp3]	
-私たちは日本料理を食べられます。	わたしたちはにほんりょうりをたべられます。	We can eat Japanese food.	Group 2 potential -られる	vowel-stem + られる	Express ability (formal)	can eat	Particle: を→が	[sound:4a51976faffd.mp3]	
-フランス語が話せる。	ふらんすごがはなせる。	Can speak French.	Group 2 potential -られる (contracted)	vowel-stem + られる → える	Contracted form (common speech)	can speak (contracted)	Note: ra-nuki form	[sound:599960105220.mp3]	
-目が見えますか。	めがみえますか。	Can you see?	Group 2 potential -られる	vowel-stem + られる	Common ability inquiry	can see	Particle: を→が	[sound:609ce74acc6e.mp3]	
-彼はマラソンを走ることができます。	かれはまらそんをはしることができます。	I can swim.	Ability with ことができる	V-plain + ことができる	Alternative to potential form	can swim	Form: verb-potential vs ことができる	[sound:196833231a6f.mp3]	
-彼は日本語を話せる。	かれはにほんごをはなせる。	He can speak Japanese.	Group 2 ra-nuki potential	え-stem + られる contracted to える	Colloquial contracted form	can speak (ra-nuki)	vs textbook -られる	[sound:30f6905339e4.mp3]	
-水が飲めますか。	みずがのめますか。	Can you drink water?	Group 2 ra-nuki potential	vowel-stem + める (contracted)	Common colloquial	can drink (ra-nuki)	vs textbook -られる	[sound:cbf87b25c29d.mp3]	
-彼女は英語を読めます。	かのじょはえいごをよめます。	She can read English.	Group 2 ra-nuki potential	え-stem + める	Colloquial speech	can read (contracted)	Note: textbook form is -られる	[sound:f5ded100ac7c.mp3]	
-何ができますか。	なにができますか。	What can you do?	Irregular potential できる	する → できる	Ability with できる	can do / possible	Irregular form	[sound:640f98cf3a0c.mp3]	
-彼はそれができる。	かれはそれができる。	He can do that.	Irregular potential できる	する → できる	Express ability	can do	Irregular form	[sound:6aa4a99438da.mp3]	
-私たちはそれをすることができません。	わたしたちはそれをすることができません。	We can't do that.	できる + ことができる compound	する + ことができる	Alternative form with ことができる	can do / not possible	Double marking	[sound:e0ca6e5ec39f.mp3]	
-私は日本語を話せます。	わたしはにほんごをはなせます。	I can speak Japanese. (with を)	Potential particle を (object marked)	Direct object particle を	Less common; emphasis on object	can speak (with を particle)	Common: に vs を	[sound:f68a16b7e08c.mp3]	
-彼は中国語が話せます。	かれはちゅうごくごがはなせます。	He can speak Chinese.	Potential particle が (standard)	Direct object → subject particle が	Standard; emphasizes ability	can speak (standard particle)	Common: が vs を	[sound:ec1808869ddd.mp3]	
-私たちはこの歌が歌える。	わたしたちはこのうたがうたえる。	We can sing this song.	Potential particle が	Direct object → subject particle が	Standard with potential	can sing	Standard: 可能を表す時は が	[sound:c299b3c374e3.mp3]	
-水が飲める。	みずがのめる。	Water is drinkable.	Potential as property	V-potential	Passive-like: X is able-to-be-done	can drink / drinkable	Use: ability vs passive	[sound:24839d37137e.mp3]	
-このジムではダンスクラスが受けられます。	このじむではだんすくらすがうけられます。	You can take dance classes at this gym.	Potential as access	V-potential られる	Accessibility/availability	can take	Use: availability	[sound:a93e8d07d772.mp3]	
+私は日本語が話せます。	わたしはにほんごがはなせます。	I can speak Japanese.	Group 1 potential -える	consonant-stem + える	Express ability	can speak	Particle: を→が	[sound:76f13a9e82dd.mp3]	module:02-n4 jlpt:n4 point:potential
+彼は3か国語が話せる。	かれはさんかこくごがはなせる。	He can speak three languages.	Group 1 potential -える	consonant-stem + える	State ability (plain)	can speak	Particle: を→が	[sound:bf44b3f9f299.mp3]	module:02-n4 jlpt:n4 point:potential
+この問題が解ける人はいますか。	このもんだいがとけるひとはいますか。	Is there anyone who can solve this problem?	Group 1 potential -える	consonant-stem + える	Inquire about ability	can solve	Particle: を→が	[sound:58f7900c7806.mp3]	module:02-n4 jlpt:n4 point:potential
+私たちは月に行くことはできない。でも、衛星から見ることはできる。	わたしたちはつきにいくことはできない。でも、えいせいからみることはできる。	We can't go to the moon, but we can see it from satellites.	Group 1 potential -える (negative)	consonant-stem + えない	Negative ability	can't go	Negative: -ない vs -られない	[sound:fcc50df7f8c1.mp3]	module:02-n4 jlpt:n4 point:potential
+私たちは日本料理を食べられます。	わたしたちはにほんりょうりをたべられます。	We can eat Japanese food.	Group 2 potential -られる	vowel-stem + られる	Express ability (formal)	can eat	Particle: を→が	[sound:4a51976faffd.mp3]	module:02-n4 jlpt:n4 point:potential
+フランス語が話せる。	ふらんすごがはなせる。	Can speak French.	Group 2 potential -られる (contracted)	vowel-stem + られる → える	Contracted form (common speech)	can speak (contracted)	Note: ra-nuki form	[sound:599960105220.mp3]	module:02-n4 jlpt:n4 point:potential
+目が見えますか。	めがみえますか。	Can you see?	Group 2 potential -られる	vowel-stem + られる	Common ability inquiry	can see	Particle: を→が	[sound:609ce74acc6e.mp3]	module:02-n4 jlpt:n4 point:potential
+彼はマラソンを走ることができます。	かれはまらそんをはしることができます。	I can swim.	Ability with ことができる	V-plain + ことができる	Alternative to potential form	can swim	Form: verb-potential vs ことができる	[sound:196833231a6f.mp3]	module:02-n4 jlpt:n4 point:potential
+彼は日本語を話せる。	かれはにほんごをはなせる。	He can speak Japanese.	Group 2 ra-nuki potential	え-stem + られる contracted to える	Colloquial contracted form	can speak (ra-nuki)	vs textbook -られる	[sound:30f6905339e4.mp3]	module:02-n4 jlpt:n4 point:potential
+水が飲めますか。	みずがのめますか。	Can you drink water?	Group 2 ra-nuki potential	vowel-stem + める (contracted)	Common colloquial	can drink (ra-nuki)	vs textbook -られる	[sound:cbf87b25c29d.mp3]	module:02-n4 jlpt:n4 point:potential
+彼女は英語を読めます。	かのじょはえいごをよめます。	She can read English.	Group 2 ra-nuki potential	え-stem + める	Colloquial speech	can read (contracted)	Note: textbook form is -られる	[sound:f5ded100ac7c.mp3]	module:02-n4 jlpt:n4 point:potential
+何ができますか。	なにができますか。	What can you do?	Irregular potential できる	する → できる	Ability with できる	can do / possible	Irregular form	[sound:640f98cf3a0c.mp3]	module:02-n4 jlpt:n4 point:potential
+彼はそれができる。	かれはそれができる。	He can do that.	Irregular potential できる	する → できる	Express ability	can do	Irregular form	[sound:6aa4a99438da.mp3]	module:02-n4 jlpt:n4 point:potential
+私たちはそれをすることができません。	わたしたちはそれをすることができません。	We can't do that.	できる + ことができる compound	する + ことができる	Alternative form with ことができる	can do / not possible	Double marking	[sound:e0ca6e5ec39f.mp3]	module:02-n4 jlpt:n4 point:potential
+私は日本語を話せます。	わたしはにほんごをはなせます。	I can speak Japanese. (with を)	Potential particle を (object marked)	Direct object particle を	Less common; emphasis on object	can speak (with を particle)	Common: に vs を	[sound:f68a16b7e08c.mp3]	module:02-n4 jlpt:n4 point:potential
+彼は中国語が話せます。	かれはちゅうごくごがはなせます。	He can speak Chinese.	Potential particle が (standard)	Direct object → subject particle が	Standard; emphasizes ability	can speak (standard particle)	Common: が vs を	[sound:ec1808869ddd.mp3]	module:02-n4 jlpt:n4 point:potential
+私たちはこの歌が歌える。	わたしたちはこのうたがうたえる。	We can sing this song.	Potential particle が	Direct object → subject particle が	Standard with potential	can sing	Standard: 可能を表す時は が	[sound:c299b3c374e3.mp3]	module:02-n4 jlpt:n4 point:potential
+水が飲める。	みずがのめる。	Water is drinkable.	Potential as property	V-potential	Passive-like: X is able-to-be-done	can drink / drinkable	Use: ability vs passive	[sound:24839d37137e.mp3]	module:02-n4 jlpt:n4 point:potential
+このジムではダンスクラスが受けられます。	このじむではだんすくらすがうけられます。	You can take dance classes at this gym.	Potential as access	V-potential られる	Accessibility/availability	can take	Use: availability	[sound:a93e8d07d772.mp3]	module:02-n4 jlpt:n4 point:potential

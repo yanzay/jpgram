@@ -4,33 +4,33 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 #
-新しい本です。	あたらしいほんです。	It is a new book.	attr-non-past	新しい	plain attributive form	adjective	古い	[sound:e78cf90cabf6.mp3]	
-この本は新しいです。	このほんはあたらしいです。	This book is new.	pred-non-past	は + い + です	polite predicate non-past	with です	古い	[sound:1f09e2d50d6a.mp3]	
-新しくないです。	あたらしくないです。	It is not new.	neg-non-past	い → くない + です	negative non-past polite	ない form	古い	[sound:77d1ee693925.mp3]	
-新しくありません。	あたらしくありません。	It is not new (formal).	neg-formal	い → く + ありません	formal negative	ありません	古い	[sound:3066cc754044.mp3]	
-新しかったです。	あたらしかったです。	It was new.	past-polite	い → かった + です	past tense polite	-かった	古い	[sound:08e71a3ab43a.mp3]	
-新しくなかったです。	あたらしくなかったです。	It was not new.	neg-past-polite	く + ない → かった	neg past polite	double neg	古い	[sound:1a5d96be05de.mp3]	
-新しくて便利です。	あたらしくてべんりです。	It's new and convenient.	te-form	い → くて	te-form conjunction	te-form	古い	[sound:610e23239df2.mp3]	
-新しく改良しました。	あたらしくかいりょうしました。	Improved it to be new.	adverbial	い → く	adverbial form	modifies verb	古い	[sound:209272a97e39.mp3]	
-大きい犬です。	おおきいいぬです。	It is a big dog.	attr-non-past	大きい	attributive with dog	size	小さい	[sound:d4bc193c08d7.mp3]	
-この机は大きいです。	このつくえはおおきいです。	This desk is big.	pred-non-past	desk big	predicate	furniture	小さい	[sound:e7276ad6976e.mp3]	
-大きくないです。	おおきくないです。	It is not big.	neg-non-past	く + ない	negative form	size contrast	小さい	[sound:2538a0d26f0e.mp3]	
-大きくありません。	おおきくありません。	It is not big (formal).	neg-formal	formal negative	ありません form	polite neg	小さい	[sound:19f085f33a9c.mp3]	
-大きかったです。	おおきかったです。	It was big.	past-polite	かった tense	past polite	past size	小さい	[sound:bc510714991a.mp3]	
-大きくなかったです。	おおきくなかったです。	It was not big.	neg-past-polite	neg past	negative past polite	double neg	小さい	[sound:47e46a0345b9.mp3]	
-大きくて重いです。	おおきくておもいです。	It's big and heavy.	te-form	te conjunct	te-form use	compound adj	小さい	[sound:32604f1c0def.mp3]	
-大きく育ちました。	おおきくそだちました。	Grew up big.	adverbial	adverbial modifying verb	manner adverb	growth	小さい	[sound:afa6692713af.mp3]	
-美しい花です。	うつくしいはなです。	It is a beautiful flower.	attr-non-past	美しい	attributive beautiful	flowers	醜い	[sound:b02263e26f2c.mp3]	
-その景色は美しいです。	そのけしきはうつくしいです。	That scenery is beautiful.	pred-non-past	landscape beauty	predicate nature	scenery	醜い	[sound:e767f9dcd1a2.mp3]	
-速い車です。	はやいくるまです。	It is a fast car.	attr-non-past	速い	fast thing	vehicles	遅い	[sound:3d976f62b246.mp3]	
-このコンピュータは速いです。	このこんぴゅーたははやいです。	This computer is fast.	pred-non-past	computer speed	predicate tech	speed	遅い	[sound:23da20b71e57.mp3]	
-速くないです。	はやくないです。	It is not fast.	neg-non-past	neg speed	negative speed	contrary	遅い	[sound:d7d16a05d358.mp3]	
-速かったです。	はやかったです。	It was fast.	past-polite	past speed	past tense	history	遅い	[sound:a59419364ffa.mp3]	
-いい天気です。	いいてんきです。	It is good weather.	attr-non-past-irregular	いい	irregular good	irregular	悪い	[sound:71f6b633b87d.mp3]	
-これはいいです。	これはいいです。	This is good.	pred-non-past-irregular	good neutral	predicate good	positive eval	悪い	[sound:8ad888ca7a60.mp3]	
-よくないです。	よくないです。	It is not good.	neg-irregular	いい → よくない	good negative irregular	irregular neg	悪い	[sound:4daafccbf693.mp3]	
-よかったです。	よかったです。	It was good.	past-irregular	いい → かった	good irregular past	irregular past	悪い	[sound:cdbcbfe58add.mp3]	
-よくて楽しいです。	よくてたのしいです。	It's good and fun.	te-form-irregular	いい → くて	irregular te-form	compound	悪い	[sound:e1d440e2c862.mp3]	
-よく分かりました。	よくわかりました。	I understood well.	adverbial-irregular	adverbial good	manner well	comprehension	悪い	[sound:a5633b3ec0c2.mp3]	
-赤いリンゴです。	あかいりんごです。	It is a red apple.	attr-red	赤い	color adjective	colors	青い	[sound:2ac659492010.mp3]	
-その花は赤いです。	そのはなはあかいです。	That flower is red.	pred-red	red predicate	color statement	flowers	青い	[sound:fa3434926584.mp3]	
+新しい本です。	あたらしいほんです。	It is a new book.	attr-non-past	新しい	plain attributive form	adjective	古い	[sound:e78cf90cabf6.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+この本は新しいです。	このほんはあたらしいです。	This book is new.	pred-non-past	は + い + です	polite predicate non-past	with です	古い	[sound:1f09e2d50d6a.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+新しくないです。	あたらしくないです。	It is not new.	neg-non-past	い → くない + です	negative non-past polite	ない form	古い	[sound:77d1ee693925.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+新しくありません。	あたらしくありません。	It is not new (formal).	neg-formal	い → く + ありません	formal negative	ありません	古い	[sound:3066cc754044.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+新しかったです。	あたらしかったです。	It was new.	past-polite	い → かった + です	past tense polite	-かった	古い	[sound:08e71a3ab43a.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+新しくなかったです。	あたらしくなかったです。	It was not new.	neg-past-polite	く + ない → かった	neg past polite	double neg	古い	[sound:1a5d96be05de.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+新しくて便利です。	あたらしくてべんりです。	It's new and convenient.	te-form	い → くて	te-form conjunction	te-form	古い	[sound:610e23239df2.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+新しく改良しました。	あたらしくかいりょうしました。	Improved it to be new.	adverbial	い → く	adverbial form	modifies verb	古い	[sound:209272a97e39.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きい犬です。	おおきいいぬです。	It is a big dog.	attr-non-past	大きい	attributive with dog	size	小さい	[sound:d4bc193c08d7.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+この机は大きいです。	このつくえはおおきいです。	This desk is big.	pred-non-past	desk big	predicate	furniture	小さい	[sound:e7276ad6976e.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きくないです。	おおきくないです。	It is not big.	neg-non-past	く + ない	negative form	size contrast	小さい	[sound:2538a0d26f0e.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きくありません。	おおきくありません。	It is not big (formal).	neg-formal	formal negative	ありません form	polite neg	小さい	[sound:19f085f33a9c.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きかったです。	おおきかったです。	It was big.	past-polite	かった tense	past polite	past size	小さい	[sound:bc510714991a.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きくなかったです。	おおきくなかったです。	It was not big.	neg-past-polite	neg past	negative past polite	double neg	小さい	[sound:47e46a0345b9.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きくて重いです。	おおきくておもいです。	It's big and heavy.	te-form	te conjunct	te-form use	compound adj	小さい	[sound:32604f1c0def.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+大きく育ちました。	おおきくそだちました。	Grew up big.	adverbial	adverbial modifying verb	manner adverb	growth	小さい	[sound:afa6692713af.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+美しい花です。	うつくしいはなです。	It is a beautiful flower.	attr-non-past	美しい	attributive beautiful	flowers	醜い	[sound:b02263e26f2c.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+その景色は美しいです。	そのけしきはうつくしいです。	That scenery is beautiful.	pred-non-past	landscape beauty	predicate nature	scenery	醜い	[sound:e767f9dcd1a2.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+速い車です。	はやいくるまです。	It is a fast car.	attr-non-past	速い	fast thing	vehicles	遅い	[sound:3d976f62b246.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+このコンピュータは速いです。	このこんぴゅーたははやいです。	This computer is fast.	pred-non-past	computer speed	predicate tech	speed	遅い	[sound:23da20b71e57.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+速くないです。	はやくないです。	It is not fast.	neg-non-past	neg speed	negative speed	contrary	遅い	[sound:d7d16a05d358.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+速かったです。	はやかったです。	It was fast.	past-polite	past speed	past tense	history	遅い	[sound:a59419364ffa.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+いい天気です。	いいてんきです。	It is good weather.	attr-non-past-irregular	いい	irregular good	irregular	悪い	[sound:71f6b633b87d.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+これはいいです。	これはいいです。	This is good.	pred-non-past-irregular	good neutral	predicate good	positive eval	悪い	[sound:8ad888ca7a60.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+よくないです。	よくないです。	It is not good.	neg-irregular	いい → よくない	good negative irregular	irregular neg	悪い	[sound:4daafccbf693.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+よかったです。	よかったです。	It was good.	past-irregular	いい → かった	good irregular past	irregular past	悪い	[sound:cdbcbfe58add.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+よくて楽しいです。	よくてたのしいです。	It's good and fun.	te-form-irregular	いい → くて	irregular te-form	compound	悪い	[sound:e1d440e2c862.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+よく分かりました。	よくわかりました。	I understood well.	adverbial-irregular	adverbial good	manner well	comprehension	悪い	[sound:a5633b3ec0c2.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+赤いリンゴです。	あかいりんごです。	It is a red apple.	attr-red	赤い	color adjective	colors	青い	[sound:2ac659492010.mp3]	module:01-n5 jlpt:n5 point:i-adjectives
+その花は赤いです。	そのはなはあかいです。	That flower is red.	pred-red	red predicate	color statement	flowers	青い	[sound:fa3434926584.mp3]	module:01-n5 jlpt:n5 point:i-adjectives

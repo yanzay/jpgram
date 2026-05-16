@@ -4,53 +4,53 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 #
-猫がいます。	ねこがいます。	There is a cat.	existence-animate	A がいます	animate existence (living things)	animals/people	ない	[sound:50172ce2ea62.mp3]	
-机がいますか？	つくえがいますか。	Is there a desk?	existence-animate-question	A が + います + か	question animate existence	question form	ない	[sound:b502281a9e97.mp3]	
-ペンがあります。	ぺんがあります。	There is a pen.	existence-inanimate	A が + あります	inanimate existence (objects)	things/objects	ない	[sound:3c4dbc6d1978.mp3]	
-友達がいっぱいいます。	ともだちがいっぱいいます。	There are lots of friends.	existence-many	A が + いっぱい + います	many animate things	quantity	ない	[sound:a45c7d087e57.mp3]	
-部屋に椅子があります。	へやにいすがあります。	There is a chair in the room.	existence-location	場所に + A が + あります	location + existence	where	ない	[sound:4658d564e794.mp3]	
-私は猫が好きです。	わたしはねこがすきです。	I like cats.	preference-like	A は B が好きです	like/preference	animals	嫌い	[sound:7eb51044f0f3.mp3]	
-兄は野菜が嫌いです。	あにはやさいがきらいです。	Older brother dislikes vegetables.	preference-dislike	A は B が嫌い	dislike/hate	food	好き	[sound:6bb43b8fa4c8.mp3]	
-子どもはゲームが好きです。	こどもはげーむがすきです。	Children like games.	preference-child	child + game + like	preference active	activities	嫌い	[sound:b3f624a0d434.mp3]	
-犬は散歩が好きですか？	いぬはさんぽがすきですか。	Does the dog like walks?	preference-question	like question form	question preference	question	嫌い	[sound:a8bfe1987cef.mp3]	
-私も同じに好きです。	わたしもおなじにすきです。	I like the same thing.	preference-same	same + like	shared preference	agreement	嫌い	[sound:3269a33775f0.mp3]	
-日本語が分かります。	にほんごがわかります。	I understand Japanese.	understand-language	言語が分かります	language understanding	languages	分かりません	[sound:974aeefb2391.mp3]	
-その問題が分かりました。	そのもんだいがわかりました。	I understood the problem.	understand-past	problem + understand past	understanding action	comprehension	分かりません	[sound:cef12e14b8a5.mp3]	
-私は泳ぐことができます。	わたしはおよぐことができます。	I can swim.	ability-can	V + ことができます	ability/capability	skills	できません	[sound:a801c9d12653.mp3]	
-彼女は中国語が話せます。	かのじょはちゅうごくごがはなせます。	She can speak Chinese.	ability-language	language + speak-can	language ability	languages	できません	[sound:903c66482ae9.mp3]	
-子どもはまだ読めません。	こどもはまだよめません。	Child cannot read yet.	ability-negative	yet + cannot read	negative ability	development	できます	[sound:985fc2042168.mp3]	
-私はそう思います。	わたしはそうおもいます。	I think so.	think-affirmative	A と思います	I believe/think	opinion	言います	[sound:042c95fc7acc.mp3]	
-彼はそうではないと思います。	かれはそうではないとおもいます。	I think he is not like that.	think-negative	negative + と思います	thought negation	disagreement	言います	[sound:0c4e3a5741b2.mp3]	
-これは難しいと思いませんか？	これはむずかしいとおもいませんか。	Don't you think this is hard?	think-question	think question form	questioning opinion	soliciting view	言います	[sound:1be24e7b3322.mp3]	
-先生は試験は大事だと言いました。	せんせいはしけんはたいせつだといいました。	Teacher said test is important.	say-past	A + と言いました	reported speech past	teaching	思います	[sound:cf82e81e7650.mp3]	
-みんなは同じことを言っています。	みんなはおなじことをいっています。	Everyone is saying the same thing.	say-current	same + say continuous	ongoing saying	group speech	思います	[sound:ea7864276575.mp3]	
-明日は出かけるつもりです。	あしたはでかけるつもりです。	I plan to go out tomorrow.	intention-plan	V(dict) + つもりです	intention/plan	future action	予定ではない	[sound:fc2b236d19f2.mp3]	
-この週末は勉強するつもりです。	このしゅうまつはべんきょうするつもりです。	This weekend I intend to study.	intention-weekend	weekend + study intention	study plan	academics	予定ではない	[sound:73ad5b659cd5.mp3]	
-来年日本に行く予定です。	らいねんにほんにいくよていです。	I have a plan to go to Japan next year.	plan-travel	next year + travel plan	travel plans	destinations	つもりではない	[sound:60c58079964b.mp3]	
-飛行機の予約は何時ですか？	ひこうきのよやくはなんじですか。	What time is the plane reservation?	plan-booking	flight + booking	scheduling	travel	つもり	[sound:78525a557a4f.mp3]	
-会議は午後予定しています。	かいぎはごごよていしています。	Meeting is scheduled for afternoon.	plan-meeting	meeting + afternoon schedule	scheduled events	work	つもり	[sound:17553cdc8009.mp3]	
-泳ぐことができます。	およぐことができます。	I can swim.	ability-ことができる	V + ことができる	basic ability	skills	できません	[sound:46d4af93c357.mp3]	
-読むことができません。	よむことができません。	I cannot read.	ability-neg-ことができる	V + ことができません	inability	negation	できます	[sound:477fe842e1af.mp3]	
-運転することができるようになった。	うんてんすることができるようになった。	I became able to drive.	ability-become-ことができる	ability acquisition	becoming capable	development	できない	[sound:1928f3a23695.mp3]	
-このソフトウェアは自動化することができます。	このそふとうぇあはじどうかすることができます。	This software can automate.	ability-software-ことができる	software + automate	capability	tech	できません	[sound:d1db957c8b20.mp3]	
-困ったときは相談することができます。	こまったときはそうだんすることができます。	When in trouble you can consult.	ability-consult-ことができる	trouble + consult + able	resource access	help	できません	[sound:d409ee6f3821.mp3]	
-ケーキを食べたいです。	けーきをたべたいです。	I want to eat cake.	desire-want	V(stem) + たい	desire/want	food	ほしい	[sound:14004e07bea7.mp3]	
-新しい車が欲しいです。	あたらしいくるまがほしいです。	I want a new car.	desire-possessive	A が + ほしい	wanting object	desires	たい	[sound:c7e01249e831.mp3]	
-友達と遊びたいです。	ともだちとあそびたいです。	I want to play with friends.	desire-activity	play want	activity desire	social	ほしい	[sound:b70f7775f01d.mp3]	
-もっと お金がほしいです。	もっとおかねがほしいです。	I want more money.	desire-more	more want object	additional desire	economics	たい	[sound:bf7742f8810f.mp3]	
-早く寝たいです。	はやくねたいです。	I want to sleep soon.	desire-sleep	sleep want	bodily need	rest	ほしい	[sound:031f32779be8.mp3]	
-音楽を聴きながら走ります。	おんがくをききながらはしります。	Run while listening to music.	simultaneous-listen-run	V(stem) + ながら	simultaneous action	multitasking	だけ	[sound:86a16fd0eb11.mp3]	
-テレビを見ながら食べないでください。	てれびをみながらたべないでください。	Please don't eat while watching TV.	simultaneous-watch-eat	while + negative request	prohibition simultaneous	etiquette	だけ	[sound:8af949341001.mp3]	
-働きながら勉強しています。	はたらきながらべんきょうしています。	I am studying while working.	simultaneous-work-study	work + study simultaneous	dual activity	students	だけ	[sound:e566d18504b3.mp3]	
-一人で考えながら歩きました。	ひとりでかんがえながらあるきました。	Walked thinking alone.	simultaneous-think-walk	think + walk alone	reflective motion	solitary	だけ	[sound:c24b27bbfb70.mp3]	
-年を重ねながら成長します。	としをかさねながらせいちょうします。	Grow as you age.	simultaneous-age-grow	age passage + growth	life progression	development	だけ	[sound:6e36b3c1017a.mp3]	
-一緒に行きましょう。	いっしょにいきましょう。	Let's go together.	suggestion-lets	V + ましょう	let's/suggestion	group action	ません	[sound:951ccfb53e7d.mp3]	
-何か食べませんか？	なにかたべませんか。	Won't you eat something?	suggestion-offer	V + ませんか	polite offer/invitation	food	ましょう	[sound:82c8f536ed95.mp3]	
-一緒に勉強しましょう。	いっしょにべんきょうしましょう。	Let's study together.	suggestion-study	study + together suggestion	academic proposal	learning	ません	[sound:c78727e121fe.mp3]	
-病院に行きませんか？	びょういんにいきませんか。	Won't you go to the hospital?	suggestion-hospital	hospital + invitation	health suggestion	care	ましょう	[sound:abe69d2d55d0.mp3]	
-明日映画を見ましょう。	あしたえいがをみましょう。	Let's watch a movie tomorrow.	suggestion-movie	movie + tomorrow suggestion	entertainment	plans	ません	[sound:8899cd455747.mp3]	
-誰がここにいますか？	だれがここにいますか。	Who is here?	question-who	誰 + か	who question	people	何	[sound:13ee0aaf818b.mp3]	
-何を食べていますか？	なにをたべていますか。	What are you eating?	question-what	何 + を + か	what question	objects	誰	[sound:a5c6ea83b294.mp3]	
-どこに住んでいますか？	どこにすんでいますか。	Where do you live?	question-where	どこ + に + か	where question	location	いつ	[sound:8a140e3fa381.mp3]	
-いつ来ましたか？	いつきましたか。	When did you come?	question-when	いつ + か	when question	time	どこ	[sound:b60bad5161c6.mp3]	
-どうして勉強するんですか？	どうしてべんきょうするんですか。	Why do you study?	question-why	どうして + か	why/reason question	motivation	何	[sound:cb5b8a876b15.mp3]	
+猫がいます。	ねこがいます。	There is a cat.	existence-animate	A がいます	animate existence (living things)	animals/people	ない	[sound:50172ce2ea62.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+机がいますか？	つくえがいますか。	Is there a desk?	existence-animate-question	A が + います + か	question animate existence	question form	ない	[sound:b502281a9e97.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+ペンがあります。	ぺんがあります。	There is a pen.	existence-inanimate	A が + あります	inanimate existence (objects)	things/objects	ない	[sound:3c4dbc6d1978.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+友達がいっぱいいます。	ともだちがいっぱいいます。	There are lots of friends.	existence-many	A が + いっぱい + います	many animate things	quantity	ない	[sound:a45c7d087e57.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+部屋に椅子があります。	へやにいすがあります。	There is a chair in the room.	existence-location	場所に + A が + あります	location + existence	where	ない	[sound:4658d564e794.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+私は猫が好きです。	わたしはねこがすきです。	I like cats.	preference-like	A は B が好きです	like/preference	animals	嫌い	[sound:7eb51044f0f3.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+兄は野菜が嫌いです。	あにはやさいがきらいです。	Older brother dislikes vegetables.	preference-dislike	A は B が嫌い	dislike/hate	food	好き	[sound:6bb43b8fa4c8.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+子どもはゲームが好きです。	こどもはげーむがすきです。	Children like games.	preference-child	child + game + like	preference active	activities	嫌い	[sound:b3f624a0d434.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+犬は散歩が好きですか？	いぬはさんぽがすきですか。	Does the dog like walks?	preference-question	like question form	question preference	question	嫌い	[sound:a8bfe1987cef.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+私も同じに好きです。	わたしもおなじにすきです。	I like the same thing.	preference-same	same + like	shared preference	agreement	嫌い	[sound:3269a33775f0.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+日本語が分かります。	にほんごがわかります。	I understand Japanese.	understand-language	言語が分かります	language understanding	languages	分かりません	[sound:974aeefb2391.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+その問題が分かりました。	そのもんだいがわかりました。	I understood the problem.	understand-past	problem + understand past	understanding action	comprehension	分かりません	[sound:cef12e14b8a5.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+私は泳ぐことができます。	わたしはおよぐことができます。	I can swim.	ability-can	V + ことができます	ability/capability	skills	できません	[sound:a801c9d12653.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+彼女は中国語が話せます。	かのじょはちゅうごくごがはなせます。	She can speak Chinese.	ability-language	language + speak-can	language ability	languages	できません	[sound:903c66482ae9.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+子どもはまだ読めません。	こどもはまだよめません。	Child cannot read yet.	ability-negative	yet + cannot read	negative ability	development	できます	[sound:985fc2042168.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+私はそう思います。	わたしはそうおもいます。	I think so.	think-affirmative	A と思います	I believe/think	opinion	言います	[sound:042c95fc7acc.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+彼はそうではないと思います。	かれはそうではないとおもいます。	I think he is not like that.	think-negative	negative + と思います	thought negation	disagreement	言います	[sound:0c4e3a5741b2.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+これは難しいと思いませんか？	これはむずかしいとおもいませんか。	Don't you think this is hard?	think-question	think question form	questioning opinion	soliciting view	言います	[sound:1be24e7b3322.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+先生は試験は大事だと言いました。	せんせいはしけんはたいせつだといいました。	Teacher said test is important.	say-past	A + と言いました	reported speech past	teaching	思います	[sound:cf82e81e7650.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+みんなは同じことを言っています。	みんなはおなじことをいっています。	Everyone is saying the same thing.	say-current	same + say continuous	ongoing saying	group speech	思います	[sound:ea7864276575.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+明日は出かけるつもりです。	あしたはでかけるつもりです。	I plan to go out tomorrow.	intention-plan	V(dict) + つもりです	intention/plan	future action	予定ではない	[sound:fc2b236d19f2.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+この週末は勉強するつもりです。	このしゅうまつはべんきょうするつもりです。	This weekend I intend to study.	intention-weekend	weekend + study intention	study plan	academics	予定ではない	[sound:73ad5b659cd5.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+来年日本に行く予定です。	らいねんにほんにいくよていです。	I have a plan to go to Japan next year.	plan-travel	next year + travel plan	travel plans	destinations	つもりではない	[sound:60c58079964b.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+飛行機の予約は何時ですか？	ひこうきのよやくはなんじですか。	What time is the plane reservation?	plan-booking	flight + booking	scheduling	travel	つもり	[sound:78525a557a4f.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+会議は午後予定しています。	かいぎはごごよていしています。	Meeting is scheduled for afternoon.	plan-meeting	meeting + afternoon schedule	scheduled events	work	つもり	[sound:17553cdc8009.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+泳ぐことができます。	およぐことができます。	I can swim.	ability-ことができる	V + ことができる	basic ability	skills	できません	[sound:46d4af93c357.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+読むことができません。	よむことができません。	I cannot read.	ability-neg-ことができる	V + ことができません	inability	negation	できます	[sound:477fe842e1af.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+運転することができるようになった。	うんてんすることができるようになった。	I became able to drive.	ability-become-ことができる	ability acquisition	becoming capable	development	できない	[sound:1928f3a23695.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+このソフトウェアは自動化することができます。	このそふとうぇあはじどうかすることができます。	This software can automate.	ability-software-ことができる	software + automate	capability	tech	できません	[sound:d1db957c8b20.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+困ったときは相談することができます。	こまったときはそうだんすることができます。	When in trouble you can consult.	ability-consult-ことができる	trouble + consult + able	resource access	help	できません	[sound:d409ee6f3821.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+ケーキを食べたいです。	けーきをたべたいです。	I want to eat cake.	desire-want	V(stem) + たい	desire/want	food	ほしい	[sound:14004e07bea7.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+新しい車が欲しいです。	あたらしいくるまがほしいです。	I want a new car.	desire-possessive	A が + ほしい	wanting object	desires	たい	[sound:c7e01249e831.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+友達と遊びたいです。	ともだちとあそびたいです。	I want to play with friends.	desire-activity	play want	activity desire	social	ほしい	[sound:b70f7775f01d.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+もっと お金がほしいです。	もっとおかねがほしいです。	I want more money.	desire-more	more want object	additional desire	economics	たい	[sound:bf7742f8810f.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+早く寝たいです。	はやくねたいです。	I want to sleep soon.	desire-sleep	sleep want	bodily need	rest	ほしい	[sound:031f32779be8.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+音楽を聴きながら走ります。	おんがくをききながらはしります。	Run while listening to music.	simultaneous-listen-run	V(stem) + ながら	simultaneous action	multitasking	だけ	[sound:86a16fd0eb11.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+テレビを見ながら食べないでください。	てれびをみながらたべないでください。	Please don't eat while watching TV.	simultaneous-watch-eat	while + negative request	prohibition simultaneous	etiquette	だけ	[sound:8af949341001.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+働きながら勉強しています。	はたらきながらべんきょうしています。	I am studying while working.	simultaneous-work-study	work + study simultaneous	dual activity	students	だけ	[sound:e566d18504b3.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+一人で考えながら歩きました。	ひとりでかんがえながらあるきました。	Walked thinking alone.	simultaneous-think-walk	think + walk alone	reflective motion	solitary	だけ	[sound:c24b27bbfb70.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+年を重ねながら成長します。	としをかさねながらせいちょうします。	Grow as you age.	simultaneous-age-grow	age passage + growth	life progression	development	だけ	[sound:6e36b3c1017a.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+一緒に行きましょう。	いっしょにいきましょう。	Let's go together.	suggestion-lets	V + ましょう	let's/suggestion	group action	ません	[sound:951ccfb53e7d.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+何か食べませんか？	なにかたべませんか。	Won't you eat something?	suggestion-offer	V + ませんか	polite offer/invitation	food	ましょう	[sound:82c8f536ed95.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+一緒に勉強しましょう。	いっしょにべんきょうしましょう。	Let's study together.	suggestion-study	study + together suggestion	academic proposal	learning	ません	[sound:c78727e121fe.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+病院に行きませんか？	びょういんにいきませんか。	Won't you go to the hospital?	suggestion-hospital	hospital + invitation	health suggestion	care	ましょう	[sound:abe69d2d55d0.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+明日映画を見ましょう。	あしたえいがをみましょう。	Let's watch a movie tomorrow.	suggestion-movie	movie + tomorrow suggestion	entertainment	plans	ません	[sound:8899cd455747.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+誰がここにいますか？	だれがここにいますか。	Who is here?	question-who	誰 + か	who question	people	何	[sound:13ee0aaf818b.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+何を食べていますか？	なにをたべていますか。	What are you eating?	question-what	何 + を + か	what question	objects	誰	[sound:a5c6ea83b294.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+どこに住んでいますか？	どこにすんでいますか。	Where do you live?	question-where	どこ + に + か	where question	location	いつ	[sound:8a140e3fa381.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+いつ来ましたか？	いつきましたか。	When did you come?	question-when	いつ + か	when question	time	どこ	[sound:b60bad5161c6.mp3]	module:01-n5 jlpt:n5 point:n5-constructions
+どうして勉強するんですか？	どうしてべんきょうするんですか。	Why do you study?	question-why	どうして + か	why/reason question	motivation	何	[sound:cb5b8a876b15.mp3]	module:01-n5 jlpt:n5 point:n5-constructions

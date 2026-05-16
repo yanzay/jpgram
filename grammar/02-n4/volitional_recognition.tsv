@@ -6,20 +6,20 @@
 #
 # VOLITIONAL RECOGNITION — 20 cards on -よう, -ようとする, -ようと思う, -ようにしている
 #
-明日公園に行こう。	あしたこうえんにいこう。	I'll go to the park tomorrow.	Volitional base -よう	V-ます stem + う	Express determination/intention alone	I will/shall do	Action: -とする	[sound:1ef874eb24e4.mp3]	
-一緒に映画を見よう。	いっしょにえいがをみよう。	Let's watch a movie together.	Volitional base -よう	V-ます stem + う	Suggest action to group	Let's do / I'll do	Action: -ようとする	[sound:17313ac79cea.mp3]	
-頑張ろう。	がんばろう。	Let's do our best.	Volitional base -よう	V-ます stem + う	Encourage group action	Let's try hard	Action: -ようとする	[sound:12ddeb3268ce.mp3]	
-このプロジェクトを成功させよう。	このぷろじぇくとをせいこうさせよう。	Let's make this project a success.	Volitional base -よう	V-ます stem + う	Propose group goal	Let's succeed	Action: -ようとする	[sound:bcc400ca3d3a.mp3]	
-彼は毎日走ろうとしている。	かれはまいにちはしろうとしている。	He tries to run every day.	-ようとする (attempt)	V-ます stem + う + とする	Habitual attempt	Keep trying to do	Aspect: -ているところだ	[sound:861b70ba4e82.mp3]	
-雨の中を歩もうとした。	あめのなかをあるもうとした。	I tried to walk in the rain.	-ようとする (attempt, past)	V-ます stem + う + とした	Attempted action (past)	Tried to do	Aspect: -たところだ	[sound:374a01e7e7de.mp3]	
-飛び込もうとしたが、躊躇した。	とびこもうとしたが、ちゅうちょした。	I was about to dive in but hesitated.	-ようとする (about to)	V-ます stem + う + とした	Action about to happen, then prevented	Was about to do	Aspect: -ているところだ	[sound:fc11c82c55d6.mp3]	
-来週日本に行こうと思っている。	らいしゅうにほんにいこうとおもっている。	I'm thinking of going to Japan next week.	-ようと思う (plan)	V-ます stem + う + と思う	State intention/thinking	Planning to do	Decision: -ことにする	[sound:edbe35e2711c.mp3]	
-もっと勉強しようと思う。	もっとべんきょうしようとおもう。	I think I should study more.	-ようと思う (resolution)	V-ます stem + う + と思う	Mental resolve	Intending to do	Decision: -ようにする	[sound:5cb17707fcca.mp3]	
-新しい習い事を始めようと思っています。	あたらしいならいごとをはじめようとおもっています。	I'm thinking of starting a new hobby.	-ようと思う (intention)	V-ます stem + う + と思う	Stated intention	Thinking to do	Decision: -ことにする	[sound:0f6390cca093.mp3]	
-毎朝走るようにしている。	まいあさはしるようにしている。	I've made it a habit to run every morning.	-ようにしている (habitual decision)	V-plain form + ようにしている	Established habit/practice	Have decided to (habit)	Attempt: -ようとする	[sound:2d440b4a20c6.mp3]	
-健康のため毎日歩くようにしています。	けんこうのためまいにちあるくようにしています。	For health, I've made it a point to walk daily.	-ようにしている (intentional habit)	V-plain form + ようにしている	Deliberate habit	Have made it a practice to	Attempt: -ようとしている	[sound:d42781a4973c.mp3]	
-約束は守るようにしている。	やくそくはまもるようにしている。	I make it a point to keep promises.	-ようにしている (principle/habit)	V-plain form + ようにしている	Conscious practice	Make it a point to	Attempt: -ようとしている	[sound:04ab258216ab.mp3]	
-英語を勉強するようにしなさい。	えいごをべんきょうするようにしなさい。	Make sure you study English.	-ようにしなさい (command to adopt habit)	V-plain + ようにしなさい	Directive to establish practice	Make it a habit to	Imperative: -なさい	[sound:a09a59a97a38.mp3]	
-誰もがその映画を見たいと思うだろう。	だれもがそのえいがをみたいとおもうだろう。	Everyone will probably want to watch that movie.	Volitional inference (-だろう)	V-stem + ～と思うだろう	Speculative inference	Probably want to	Inference: -だろう	[sound:355eae528de2.mp3]	
-会社を辞めたいと言っている。	かいしゃをやめたいといっている。	He says he wants to quit the company.	Desire + volitional sphere	V-stem + たい + と言う	Reported desire	Says he wants to	Speech: -と言う	[sound:a5ed587dc241.mp3]	
-チームで優勝しようと全員が一致した。	ちーむでゆうしょうしようとぜんいんがいっちした。	The whole team agreed to aim for the championship.	Collective volitional resolution	V-ます stem + う + と一致する	Group consensus on goal	Agreed to aim for	Consensus: -と一致する	[sound:df8eb7a6f642.mp3]	
+明日公園に行こう。	あしたこうえんにいこう。	I'll go to the park tomorrow.	Volitional base -よう	V-ます stem + う	Express determination/intention alone	I will/shall do	Action: -とする	[sound:1ef874eb24e4.mp3]	module:02-n4 jlpt:n4 point:volitional
+一緒に映画を見よう。	いっしょにえいがをみよう。	Let's watch a movie together.	Volitional base -よう	V-ます stem + う	Suggest action to group	Let's do / I'll do	Action: -ようとする	[sound:17313ac79cea.mp3]	module:02-n4 jlpt:n4 point:volitional
+頑張ろう。	がんばろう。	Let's do our best.	Volitional base -よう	V-ます stem + う	Encourage group action	Let's try hard	Action: -ようとする	[sound:12ddeb3268ce.mp3]	module:02-n4 jlpt:n4 point:volitional
+このプロジェクトを成功させよう。	このぷろじぇくとをせいこうさせよう。	Let's make this project a success.	Volitional base -よう	V-ます stem + う	Propose group goal	Let's succeed	Action: -ようとする	[sound:bcc400ca3d3a.mp3]	module:02-n4 jlpt:n4 point:volitional
+彼は毎日走ろうとしている。	かれはまいにちはしろうとしている。	He tries to run every day.	-ようとする (attempt)	V-ます stem + う + とする	Habitual attempt	Keep trying to do	Aspect: -ているところだ	[sound:861b70ba4e82.mp3]	module:02-n4 jlpt:n4 point:volitional
+雨の中を歩もうとした。	あめのなかをあるもうとした。	I tried to walk in the rain.	-ようとする (attempt, past)	V-ます stem + う + とした	Attempted action (past)	Tried to do	Aspect: -たところだ	[sound:374a01e7e7de.mp3]	module:02-n4 jlpt:n4 point:volitional
+飛び込もうとしたが、躊躇した。	とびこもうとしたが、ちゅうちょした。	I was about to dive in but hesitated.	-ようとする (about to)	V-ます stem + う + とした	Action about to happen, then prevented	Was about to do	Aspect: -ているところだ	[sound:fc11c82c55d6.mp3]	module:02-n4 jlpt:n4 point:volitional
+来週日本に行こうと思っている。	らいしゅうにほんにいこうとおもっている。	I'm thinking of going to Japan next week.	-ようと思う (plan)	V-ます stem + う + と思う	State intention/thinking	Planning to do	Decision: -ことにする	[sound:edbe35e2711c.mp3]	module:02-n4 jlpt:n4 point:volitional
+もっと勉強しようと思う。	もっとべんきょうしようとおもう。	I think I should study more.	-ようと思う (resolution)	V-ます stem + う + と思う	Mental resolve	Intending to do	Decision: -ようにする	[sound:5cb17707fcca.mp3]	module:02-n4 jlpt:n4 point:volitional
+新しい習い事を始めようと思っています。	あたらしいならいごとをはじめようとおもっています。	I'm thinking of starting a new hobby.	-ようと思う (intention)	V-ます stem + う + と思う	Stated intention	Thinking to do	Decision: -ことにする	[sound:0f6390cca093.mp3]	module:02-n4 jlpt:n4 point:volitional
+毎朝走るようにしている。	まいあさはしるようにしている。	I've made it a habit to run every morning.	-ようにしている (habitual decision)	V-plain form + ようにしている	Established habit/practice	Have decided to (habit)	Attempt: -ようとする	[sound:2d440b4a20c6.mp3]	module:02-n4 jlpt:n4 point:volitional
+健康のため毎日歩くようにしています。	けんこうのためまいにちあるくようにしています。	For health, I've made it a point to walk daily.	-ようにしている (intentional habit)	V-plain form + ようにしている	Deliberate habit	Have made it a practice to	Attempt: -ようとしている	[sound:d42781a4973c.mp3]	module:02-n4 jlpt:n4 point:volitional
+約束は守るようにしている。	やくそくはまもるようにしている。	I make it a point to keep promises.	-ようにしている (principle/habit)	V-plain form + ようにしている	Conscious practice	Make it a point to	Attempt: -ようとしている	[sound:04ab258216ab.mp3]	module:02-n4 jlpt:n4 point:volitional
+英語を勉強するようにしなさい。	えいごをべんきょうするようにしなさい。	Make sure you study English.	-ようにしなさい (command to adopt habit)	V-plain + ようにしなさい	Directive to establish practice	Make it a habit to	Imperative: -なさい	[sound:a09a59a97a38.mp3]	module:02-n4 jlpt:n4 point:volitional
+誰もがその映画を見たいと思うだろう。	だれもがそのえいがをみたいとおもうだろう。	Everyone will probably want to watch that movie.	Volitional inference (-だろう)	V-stem + ～と思うだろう	Speculative inference	Probably want to	Inference: -だろう	[sound:355eae528de2.mp3]	module:02-n4 jlpt:n4 point:volitional
+会社を辞めたいと言っている。	かいしゃをやめたいといっている。	He says he wants to quit the company.	Desire + volitional sphere	V-stem + たい + と言う	Reported desire	Says he wants to	Speech: -と言う	[sound:a5ed587dc241.mp3]	module:02-n4 jlpt:n4 point:volitional
+チームで優勝しようと全員が一致した。	ちーむでゆうしょうしようとぜんいんがいっちした。	The whole team agreed to aim for the championship.	Collective volitional resolution	V-ます stem + う + と一致する	Group consensus on goal	Agreed to aim for	Consensus: -と一致する	[sound:df8eb7a6f642.mp3]	module:02-n4 jlpt:n4 point:volitional

@@ -1,0 +1,26 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
+#
+彼が来たのは理由があるからで、___。	わけだ	わけではない	わけだ	わけだ = 'it makes sense that'; わけではない = 'it's not that'	Positive assertion vs negation	[sound:a435ba1c2023.mp3]	module:03-n3 jlpt:n3 point:wake-family
+失敗したことは確かだが、___。	わけだ	わけではない	わけではない	わけだ asserts; わけではない denies	Fact vs interpretation	[sound:b3765fa7a670.mp3]	module:03-n3 jlpt:n3 point:wake-family
+給料が少ないから、___。	わけだ	わけではない	わけだ	わけだ = natural consequence; わけではない = denies link	Causal assertion vs negation	[sound:c51b5bc213d3.mp3]	module:03-n3 jlpt:n3 point:wake-family
+毎日勉強しているのに、___。	わけだ	わけではない	わけではない	Despite effort, denies simple cause-effect	Negating obvious conclusion	[sound:6b4f46560b17.mp3]	module:03-n3 jlpt:n3 point:wake-family
+時間があれば、来るのは___。	わけだ	わけではない	わけだ	わけだ = logical inevitability; わけではない = denies	Conditional assertion vs negation	[sound:12697d213c97.mp3]	module:03-n3 jlpt:n3 point:wake-family
+彼が合格するのは___。	わけがない	かもしれない	わけがない	わけがない = 'impossible'; かもしれない = 'might'	Certainty of failure vs possibility	[sound:be6cd4843747.mp3]	module:03-n3 jlpt:n3 point:wake-family
+一日で終わるのは___。	わけがない	かもしれない	わけがない	わけがない = too difficult; かもしれない = maybe possible	Impossibility vs possibility	[sound:8dde1e3d2280.mp3]	module:03-n3 jlpt:n3 point:wake-family
+彼女が忘れるのは___。	わけがない	かもしれない	わけがない	わけがない = 'can't forget'; かもしれない = 'might forget'	Obligation vs uncertainty	[sound:b40ab5e5da60.mp3]	module:03-n3 jlpt:n3 point:wake-family
+そう簡単なのは___。	わけがない	かもしれない	わけがない	わけがない = categorical denial; かもしれない = tentative	Emphatic no vs tentative maybe	[sound:c1d1600e5a93.mp3]	module:03-n3 jlpt:n3 point:wake-family
+この試験に落ちるのは___。	わけにはいかない	てもいい	わけにはいかない	わけにはいかない = can't afford to; てもいい = acceptable	Necessity vs permission	[sound:8a432b03204b.mp3]	module:03-n3 jlpt:n3 point:wake-family
+ここで逃げるのは___。	わけにはいかない	てもいい	わけにはいかない	わけにはいかない = obligation not to; てもいい = OK to do	Prohibition vs allowance	[sound:e95e042f9b6f.mp3]	module:03-n3 jlpt:n3 point:wake-family
+約束を破るのは___。	わけにはいかない	てもいい	わけにはいかない	わけにはいかない = moral duty; てもいい = permitted	Duty vs freedom	[sound:c99d3459189a.mp3]	module:03-n3 jlpt:n3 point:wake-family
+値段が高いから、売れないのは___。	わけだ	はずだ	わけだ	わけだ = explanation after fact; はずだ = prediction	Explanation vs prediction	[sound:f15329d59bd8.mp3]	module:03-n3 jlpt:n3 point:wake-family
+雨が降っているから、来られないのは___。	わけだ	はずだ	わけだ	わけだ = explains actual fact; はずだ = predicted	Explaining reality vs predicting	[sound:6633bdb4ffbf.mp3]	module:03-n3 jlpt:n3 point:wake-family
+試験に合格したのは運が良かったから___。	わけではなく	かもしれず	わけではなく	わけではなく = deny cause; かもしれず = might have	Denying simple cause	[sound:0a110c415459.mp3]	module:03-n3 jlpt:n3 point:wake-family
+彼が来ないのは___。	わけではない	わけがない	わけがない	わけがない = impossible that he comes; わけではない = denies inference	Impossibility vs negation	[sound:568d5e861af8.mp3]	module:03-n3 jlpt:n3 point:wake-family
+そんなに難しいわけではなく、時間がないのだ。	時間がないわけ___。	だ	だ	completing sentence after contrast	Causal clarification	[sound:c53b87493488.mp3]	module:03-n3 jlpt:n3 point:wake-family
+いくら努力してもわけ___。	がない	ではない	がない	わけがない = impossible despite effort; わけではない = denies	Effort vs impossibility	[sound:083037a381e1.mp3]	module:03-n3 jlpt:n3 point:wake-family
+失敗してはいけないというわけ___。	ではなく	だ	ではなく	わけではなく = denies inference; わけだ = asserts	Denying implication	[sound:9f46d52cea09.mp3]	module:03-n3 jlpt:n3 point:wake-family
+彼の遅刻は彼のせいではなく、渋滞のせいというわけだ。	渋滞のせい___。	わけだ	わけだ	というわけだ = restated as reason	Restating cause	[sound:24cce0882f5f.mp3]	module:03-n3 jlpt:n3 point:wake-family
