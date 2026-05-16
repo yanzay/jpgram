@@ -15,17 +15,23 @@ endings still alive in formal modern Japanese, and idiomatic
 
 | File | Purpose |
 |------|---------|
-| [`CONTENT_PLAN.md`](CONTENT_PLAN.md) | The content backbone — every grammar point, in 14 waves |
-| `build_anki_package.py` | Builds `japanese_grammar_anki.apkg` from `grammar/*.tsv` |
-| `build_audio.py` | **Tier-2** Google Cloud TTS, one MP3 per unique JP sentence |
+| [`CONTENT_PLAN.md`](CONTENT_PLAN.md) | The content backbone — every grammar point, in 16 waves |
+| [`GRAMMAR_TAXONOMY.md`](GRAMMAR_TAXONOMY.md) | Cross-reference to Bunpro / Tofugu / Imabi / Shin Kanzen / DJG |
+| [`ANKI_SETTINGS.md`](ANKI_SETTINGS.md) | Recommended FSRS settings + study path |
+| `build_anki_package.py` | Builds `japanese_grammar_anki.apkg` (auto-runs taxonomy + validation pre-checks, then `validate_apkg.py` post-check) |
+| `build_audio.py` | **Tier-2** Google Cloud TTS, one MP3 per unique JP sentence; `--alt-voice` and `--slow` for multi-track output |
 | `build_furigana.py` | **Tier-2** furigana + romaji index (pykakasi + fugashi) |
+| `build_pitchaccent.py` | **Tier-2** NHK-style pitch-accent index (Kanjium / NHK / Wadoku source chain) |
 | `normalize_audio.py` | EBU R128 loudness normalization (ffmpeg) |
-| `validate_anki_data.py` | Validates TSV structure against `NOTE_TYPES` |
-| `scripts/apply_taxonomy_tags.py` | Auto-injects `register:* / frequency:* / domain:*` tags |
-| `requirements.txt` | Pinned Python deps |
+| `validate_anki_data.py` | Validates TSV structure, audio refs, placeholder detection |
+| `validate_apkg.py` | Post-build integrity check on the packaged `.apkg` |
+| `apply_taxonomy_tags.py` | Auto-injects `register:* / jlpt:* / module:* / point:*` tags |
+| `requirements.txt` | Pinned Python deps (tier-1 / tier-2 marked) |
 | `grammar/` | One subdirectory per module; each contains TSVs |
+| `draft/` | Schema-only example TSVs, one per note type — NOT shipped |
 | `media/audio/` | Generated MP3s — gitignored, restorable via `build_audio.py` |
 | `media/furigana_index.json` | Hash → reading lookup — gitignored |
+| `media/pitchaccent_index.json` | Token → pitch pattern lookup — gitignored |
 | `.secrets/gcp-adc.json` | GCP service-account JSON for TTS — **gitignored** |
 
 ## Quick start
@@ -35,22 +41,35 @@ endings still alive in formal modern Japanese, and idiomatic
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-# 2. Validate corpus
+# 2. Inject taxonomy tags + validate corpus
+python apply_taxonomy_tags.py
 python validate_anki_data.py
 
 # 3. Render audio (uses .secrets/gcp-adc.json automatically)
-python build_audio.py --limit 5 --dry-run        # cost-controlled smoke
-python build_audio.py                            # full corpus
+python build_audio.py --limit 5 --dry-run                          # cost smoke
+python build_audio.py                                              # primary voice
+python build_audio.py --alt-voice ja-JP-Neural2-C --slow           # +alt voice +shadowing track
 
-# 4. Generate furigana / readings
+# 4. Generate furigana + romaji + pitch-accent indices
 python build_furigana.py
+python build_pitchaccent.py            # needs data/accents.sqlite (see header)
 
 # 5. Loudness-normalize (optional, recommended)
 python normalize_audio.py
 
-# 6. Build the .apkg
+# 6. Build the .apkg (also runs validate_anki_data + validate_apkg automatically)
 python build_anki_package.py
 ```
+
+### Build-pipeline guarantees
+
+`build_anki_package.py` exits non-zero (and refuses to ship an `.apkg`) if
+**any** of these checks fail:
+* placeholder audio refs (`[sound:WAVE0_PLACEHOLDER.mp3]`) reach `grammar/`
+* a TSV's header doesn't match its `NOTE_TYPES` schema
+* a `[sound:X.mp3]` reference can't be resolved on disk or in
+  `media/audio_manifest.json`
+* the packaged `.apkg`'s media manifest contains a dangling reference
 
 ## Deck hierarchy (target)
 

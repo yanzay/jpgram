@@ -1,0 +1,10 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+# WAVE-0 EXAMPLE — illustrates the Production schema. Real content
+# replaces this in Wave 1. Do NOT copy this file into grammar/ until
+# the audio reference resolves to a real media/audio/<sha1>.mp3.
+Say "I am a student" politely.	です	わたしはがくせいです。	私は学生です。	です is the polite copula attached to nouns/na-adjectives.	[sound:WAVE0_PLACEHOLDER.mp3]	example placeholder

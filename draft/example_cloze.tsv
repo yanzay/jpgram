@@ -1,0 +1,9 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::00 - Foundation::Cloze
+#
+# WAVE-0 EXAMPLE — Cloze schema. The first column must contain at
+# least one Anki-style {{c1::…}} marker. The validator enforces this.
+私は学生{{c1::です}}。	わたしはがくせいです。	polite copula on a noun	[sound:WAVE0_PLACEHOLDER.mp3]	example placeholder
