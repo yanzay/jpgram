@@ -1,0 +1,177 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+Vowel a.	あ	a	あ	sound: /a/	[sound:98fdfc0a7426.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel i.	い	i	い	sound: /i/	[sound:3c01c77f19cd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel u.	う	u	う	sound: /u/	[sound:af2b29a995c7.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel e.	え	e	え	sound: /e/	[sound:a60311a2fc88.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel o.	お	o	お	sound: /o/	[sound:ac6bc7de7112.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	か	ka	か	sound: /ka/	[sound:288c9e077190.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	き	ki	き	sound: /ki/	[sound:27acc76c0055.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	く	ku	く	sound: /ku/	[sound:ac94e112183c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	け	ke	け	sound: /ke/	[sound:d32afeb0abe6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	こ	ko	こ	sound: /ko/	[sound:91714b00e5a3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	さ	sa	さ	sound: /sa/	[sound:7a4faed063b6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	し	shi	し	sound: /shi/	[sound:812f45bfcf7e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	す	su	す	sound: /su/	[sound:5b8252a1e93f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	せ	se	せ	sound: /se/	[sound:e1c730bd83c3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	そ	so	そ	sound: /so/	[sound:b345d8cc8368.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	た	ta	た	sound: /ta/	[sound:cf4d17f99d10.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	ち	chi	ち	sound: /chi/	[sound:e022bea2e9d6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	つ	tsu	つ	sound: /tsu/	[sound:0c414c812bd8.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	て	te	て	sound: /te/	[sound:e2d970611589.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	と	to	と	sound: /to/	[sound:a986a7bc9e03.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	な	na	な	sound: /na/	[sound:478d2f9eb192.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	に	ni	に	sound: /ni/	[sound:de3d1ecc94b2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ぬ	nu	ぬ	sound: /nu/	[sound:ad142ed0573d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ね	ne	ね	sound: /ne/	[sound:3a104bbe569e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	の	no	の	sound: /no/	[sound:56377d14d4ef.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	は	ha	は	sound: /ha/	[sound:1fa0519cfd09.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ひ	hi	ひ	sound: /hi/	[sound:469e92c9cf65.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ふ	fu	ふ	sound: /fu/	[sound:382a438fd4c5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	へ	he	へ	sound: /he/	[sound:72c746d609d4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ほ	ho	ほ	sound: /ho/	[sound:5a340fe4758d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	ま	ma	ま	sound: /ma/	[sound:400805e5a9e2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	み	mi	み	sound: /mi/	[sound:1c5425dae8c9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	む	mu	む	sound: /mu/	[sound:50029791cb9f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	め	me	め	sound: /me/	[sound:634540f05d98.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	も	mo	も	sound: /mo/	[sound:3c6945772d72.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide y.	や	ya	や	sound: /ya/	[sound:bdab1b17397d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide y.	ゆ	yu	ゆ	sound: /yu/	[sound:44567171f335.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide y.	よ	yo	よ	sound: /yo/	[sound:6f46f7d4a286.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	ら	ra	ら	sound: /ra/	[sound:ba7526a5c03f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	り	ri	り	sound: /ri/	[sound:71d1c63e507f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	る	ru	る	sound: /ru/	[sound:ffab9d02a311.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	れ	re	れ	sound: /re/	[sound:df82f999c7fb.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	ろ	ro	ろ	sound: /ro/	[sound:eb766006aba2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide w.	わ	wa	わ	sound: /wa/	[sound:dedb707d8398.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Particle wo.	を	wo	を	sound: /wo/	[sound:eba95ba0c666.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Moraic nasal.	ん	n	ん	sound: /n/	[sound:48a866bfdaf9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel a.	ア	a	ア	sound: /a/	[sound:1b4c4cc65ff2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel i.	イ	i	イ	sound: /i/	[sound:b284de61340b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel u.	ウ	u	ウ	sound: /u/	[sound:86686c311378.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel e.	エ	e	エ	sound: /e/	[sound:3707bab0c47b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Vowel o.	オ	o	オ	sound: /o/	[sound:06716d34cc81.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	カ	ka	カ	sound: /ka/	[sound:00ed9f08e29e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	キ	ki	キ	sound: /ki/	[sound:408ae436f0e0.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	ク	ku	ク	sound: /ku/	[sound:15901a60a347.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	ケ	ke	ケ	sound: /ke/	[sound:b50e4b46f608.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless velar.	コ	ko	コ	sound: /ko/	[sound:202a6b25e725.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	サ	sa	サ	sound: /sa/	[sound:bf2cbaccbc43.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	シ	shi	シ	sound: /shi/	[sound:1afad7703773.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	ス	su	ス	sound: /su/	[sound:4df8398708ab.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	セ	se	セ	sound: /se/	[sound:825cec98c430.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	ソ	so	ソ	sound: /so/	[sound:7394858d1c1b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	タ	ta	タ	sound: /ta/	[sound:056cfad24eb2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	チ	chi	チ	sound: /chi/	[sound:7e62c71ff6cf.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	ツ	tsu	ツ	sound: /tsu/	[sound:ee5fe18a7c76.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	テ	te	テ	sound: /te/	[sound:8996011e5796.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless alveolar.	ト	to	ト	sound: /to/	[sound:d729bd2b2767.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ナ	na	ナ	sound: /na/	[sound:8f67916a925b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ニ	ni	ニ	sound: /ni/	[sound:d8a8e4205aa7.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ヌ	nu	ヌ	sound: /nu/	[sound:065ebce83a18.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ネ	ne	ネ	sound: /ne/	[sound:edc16abe75a1.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced nasal.	ノ	no	ノ	sound: /no/	[sound:6c807d0ae2cd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ハ	ha	ハ	sound: /ha/	[sound:35104655d4d6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ヒ	hi	ヒ	sound: /hi/	[sound:9da359d5199d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	フ	fu	フ	sound: /fu/	[sound:c2fa87c3ddd2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ヘ	he	ヘ	sound: /he/	[sound:5cf428be4474.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiceless labial.	ホ	ho	ホ	sound: /ho/	[sound:41a11f66f540.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	マ	ma	マ	sound: /ma/	[sound:55d42f593ce9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	ミ	mi	ミ	sound: /mi/	[sound:651d85849d50.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	ム	mu	ム	sound: /mu/	[sound:c6abfe263593.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	メ	me	メ	sound: /me/	[sound:cfc3325ef061.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced labial.	モ	mo	モ	sound: /mo/	[sound:577210255a86.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide y.	ヤ	ya	ヤ	sound: /ya/	[sound:8e621f06c443.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide y.	ユ	yu	ユ	sound: /yu/	[sound:ea633878f249.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide y.	ヨ	yo	ヨ	sound: /yo/	[sound:da6c6a6baf77.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	ラ	ra	ラ	sound: /ra/	[sound:d5f1ca173fcd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	リ	ri	リ	sound: /ri/	[sound:56cb721117e2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	ル	ru	ル	sound: /ru/	[sound:1d672f91e3ff.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	レ	re	レ	sound: /re/	[sound:00859a61c08f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced alveolar.	ロ	ro	ロ	sound: /ro/	[sound:4c1fe526f363.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Glide w.	ワ	wa	ワ	sound: /wa/	[sound:a2fbf25469bc.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Particle wo.	ヲ	wo	ヲ	sound: /wo/	[sound:b40c5f345cb9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Moraic nasal.	ン	n	ン	sound: /n/	[sound:6ad7ee833add.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ga.	が	ga	が	sound: /ga/	[sound:a142816563b3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced gi.	ぎ	gi	ぎ	sound: /gi/	[sound:9a77c2df496e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced gu.	ぐ	gu	ぐ	sound: /gu/	[sound:6e159a91b7ce.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ge.	げ	ge	げ	sound: /ge/	[sound:9167af511d53.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced go.	ご	go	ご	sound: /go/	[sound:27a87259d93f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced za.	ざ	za	ざ	sound: /za/	[sound:d08b42329511.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ji.	じ	ji	じ	sound: /ji/	[sound:41f11fe610d4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced zu.	ず	zu	ず	sound: /zu/	[sound:e77eb4831e6a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ze.	ぜ	ze	ぜ	sound: /ze/	[sound:8759dfeb913a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced zo.	ぞ	zo	ぞ	sound: /zo/	[sound:bad314622d68.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced da.	だ	da	だ	sound: /da/	[sound:b3d236275fac.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced de.	で	de	で	sound: /de/	[sound:7350618fcec3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced do.	ど	do	ど	sound: /do/	[sound:76504d613664.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ba.	ば	ba	ば	sound: /ba/	[sound:d8c158e0a2d1.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced bi.	び	bi	び	sound: /bi/	[sound:5fb5aba49978.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced bu.	ぶ	bu	ぶ	sound: /bu/	[sound:82b3fbb77164.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced be.	べ	be	べ	sound: /be/	[sound:eefc5770b9dc.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced bo.	ぼ	bo	ぼ	sound: /bo/	[sound:7ebddc850724.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pa.	ぱ	pa	ぱ	sound: /pa/	[sound:81223f8ee527.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pi.	ぴ	pi	ぴ	sound: /pi/	[sound:749766f43a50.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pu.	ぷ	pu	ぷ	sound: /pu/	[sound:224fecb16293.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pe.	ぺ	pe	ぺ	sound: /pe/	[sound:bd1d8044336d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced po.	ぽ	po	ぽ	sound: /po/	[sound:06b58547dc73.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ga.	ガ	ga	ガ	sound: /ga/	[sound:2cf8934dec55.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced gi.	ギ	gi	ギ	sound: /gi/	[sound:5bbbbf8a5aff.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced gu.	グ	gu	グ	sound: /gu/	[sound:65429ee5e7b4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ge.	ゲ	ge	ゲ	sound: /ge/	[sound:df715d6e0967.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced go.	ゴ	go	ゴ	sound: /go/	[sound:f684fe6c107a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced za.	ザ	za	ザ	sound: /za/	[sound:bdf380ec22e5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ji.	ジ	ji	ジ	sound: /ji/	[sound:fcd474ce77e4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced zu.	ズ	zu	ズ	sound: /zu/	[sound:3c1a103b5b4f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ze.	ゼ	ze	ゼ	sound: /ze/	[sound:56c35c37128e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced zo.	ゾ	zo	ゾ	sound: /zo/	[sound:7797100cc0f2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced da.	ダ	da	ダ	sound: /da/	[sound:919e596fb58d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced de.	デ	de	デ	sound: /de/	[sound:5dc5d5b8abb3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced do.	ド	do	ド	sound: /do/	[sound:a9a84e4c1845.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced ba.	バ	ba	バ	sound: /ba/	[sound:2768d02f9098.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced bi.	ビ	bi	ビ	sound: /bi/	[sound:d5725b2f8d16.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced bu.	ブ	bu	ブ	sound: /bu/	[sound:c11cd8dd4563.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced be.	ベ	be	ベ	sound: /be/	[sound:e24283733b4a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Voiced bo.	ボ	bo	ボ	sound: /bo/	[sound:c6be80a62e61.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pa.	パ	pa	パ	sound: /pa/	[sound:d4c65564c4ad.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pi.	ピ	pi	ピ	sound: /pi/	[sound:2083aa096d7e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pu.	プ	pu	プ	sound: /pu/	[sound:a3b8f9e1263b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced pe.	ペ	pe	ペ	sound: /pe/	[sound:8a8021085114.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Semi-voiced po.	ポ	po	ポ	sound: /po/	[sound:23239011ca96.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ki + ya combo.	きゃ	kya	きゃ	sound: /kya/	[sound:b2b7e45bf39e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ki + yu combo.	きゅ	kyu	きゅ	sound: /kyu/	[sound:298ab383a42d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ki + yo combo.	きょ	kyo	きょ	sound: /kyo/	[sound:d9ee3c16a677.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Shi + ya combo.	しゃ	sha	しゃ	sound: /sha/	[sound:b6e3f9666c7a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Shi + yu combo.	しゅ	shu	しゅ	sound: /shu/	[sound:64d073703829.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Shi + yo combo.	しょ	sho	しょ	sound: /sho/	[sound:7a5aea55155b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Chi + ya combo.	ちゃ	cha	ちゃ	sound: /cha/	[sound:062957be362f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Chi + yu combo.	ちゅ	chu	ちゅ	sound: /chu/	[sound:619fdc4f9348.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Chi + yo combo.	ちょ	cho	ちょ	sound: /cho/	[sound:4def51326a2d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ni + ya combo.	にゃ	nya	にゃ	sound: /nya/	[sound:be4c29664dfd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ni + yu combo.	にゅ	nyu	にゅ	sound: /nyu/	[sound:658da3d97ec6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ni + yo combo.	にょ	nyo	にょ	sound: /nyo/	[sound:0954bcc57525.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Hi + ya combo.	ひゃ	hya	ひゃ	sound: /hya/	[sound:f28cd0be883a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Hi + yu combo.	ひゅ	hyu	ひゅ	sound: /hyu/	[sound:e0e6bdfbd67b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Hi + yo combo.	ひょ	hyo	ひょ	sound: /hyo/	[sound:0627f890934c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Mi + ya combo.	みゃ	mya	みゃ	sound: /mya/	[sound:0eb0633f6c68.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Mi + yu combo.	みゅ	myu	みゅ	sound: /myu/	[sound:5bd384349a78.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Mi + yo combo.	みょ	myo	みょ	sound: /myo/	[sound:6617e33d9583.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ri + ya combo.	りゃ	rya	りゃ	sound: /rya/	[sound:f58558332c0c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ri + yu combo.	りゅ	ryu	りゅ	sound: /ryu/	[sound:73c41f0e483e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ri + yo combo.	りょ	ryo	りょ	sound: /ryo/	[sound:1ab62bb6d7b6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Gi + ya combo.	ぎゃ	gya	ぎゃ	sound: /gya/	[sound:95e3d0ad8f6f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Gi + yu combo.	ぎゅ	gyu	ぎゅ	sound: /gyu/	[sound:81a5e9e8a034.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Gi + yo combo.	ぎょ	gyo	ぎょ	sound: /gyo/	[sound:08831cb24c9b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ji + ya combo.	じゃ	ja	じゃ	sound: /ja/	[sound:d91490197bd6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ji + yu combo.	じゅ	ju	じゅ	sound: /ju/	[sound:567ca1db796e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Ji + yo combo.	じょ	jo	じょ	sound: /jo/	[sound:115759838422.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Bi + ya combo.	びゃ	bya	びゃ	sound: /bya/	[sound:4d8780b09f52.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Bi + yu combo.	びゅ	byu	びゅ	sound: /byu/	[sound:747dbd8ebca5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Bi + yo combo.	びょ	byo	びょ	sound: /byo/	[sound:0a1cc845facd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Pi + ya combo.	ぴゃ	pya	ぴゃ	sound: /pya/	[sound:ef826d2af5c0.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Pi + yu combo.	ぴゅ	pyu	ぴゅ	sound: /pyu/	[sound:984576b5cea2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+Pi + yo combo.	ぴょ	pyo	ぴょ	sound: /pyo/	[sound:220216f18a88.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram

@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+He is a scholar. (classical).	彼は学者なり。	かれはがっかなり。	彼は学者なり。	Classical/literary ancestor of だ; rare in modern prose	[sound:46f5880ccb0c.mp3]	module:00-foundation jlpt:n5 register:classical point:copula-nari pos:aux nb:classical-carryover point:copula complexity:intro frequency:top10k source:curated-jpgram

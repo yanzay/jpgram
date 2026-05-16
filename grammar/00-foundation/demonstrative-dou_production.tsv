@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+What shall we do?	どうしますか？	どうしますか？	どうしますか？	Ask about manner or method	[sound:d17de9e40f61.mp3]	module:00-foundation jlpt:n5 point:demonstrative-dou pos:adv point:demonstratives complexity:intro source:curated-jpgram

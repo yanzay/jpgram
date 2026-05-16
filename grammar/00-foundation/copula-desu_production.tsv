@@ -1,0 +1,10 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I am a student.	私は学生です。	わたしはがくせいです。	私は学生です。	Polite statement of identity	[sound:82ed3f2dfc72.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desu pos:aux point:copula complexity:intro frequency:top1k source:curated-jpgram
+She is a doctor.	彼女は医者です。	かのじょはいしゃです。	彼女は医者です。	Polite statement of identity	[sound:debe58fc516c.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desu pos:aux point:copula complexity:intro frequency:top5k source:curated-jpgram
+This is a dictionary.	これは辞書です。	これはじしょです。	これは辞書です。	Polite statement of identity	[sound:388d1f249db2.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desu pos:aux point:copula complexity:intro frequency:top1k source:curated-jpgram
+Mr. Tanaka is in sales.	田中さんは営業です。	たなかさんはえいぎょうです。	田中さんは営業です。	Polite statement of identity	[sound:b11ea432fad8.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desu pos:aux point:copula complexity:intro frequency:top10k source:curated-jpgram

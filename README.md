@@ -54,6 +54,14 @@ python apply_taxonomy_tags.py
 python validate_anki_data.py
 python validate_grammar_taxonomy.py
 
+# 2b. Run objective coverage audit (external + internal)
+# Optionally resolve exact bunpro:auto/<slug> matches first.
+python scripts/resolve_bunpro_exact.py
+# Default profile: hard validity gates + practical example thresholds.
+python scripts/coverage_audit.py
+# Strict profile: also require full Bunpro resolution and multi-note-type spread.
+python scripts/coverage_audit.py --enforce-note-types --require-full-bunpro-resolution
+
 # 3. Render audio (uses .secrets/gcp-adc.json automatically)
 python build_audio.py --limit 5 --dry-run                          # cost smoke
 python build_audio.py                                              # primary voice

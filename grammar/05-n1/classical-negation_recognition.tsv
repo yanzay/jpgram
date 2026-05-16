@@ -1,0 +1,51 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::05 - N1 Grammar::Recognition
+#
+そんなことはしまい。	そんなことは。	しない意思。	cloze-derived	しない意思。	しない意思。	しない意思。		[sound:3b49a7fb7572.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+彼はもう来まい。	かれはもうらい。	来ないと思う。	cloze-derived	来ないと思う。	来ないと思う。	来ないと思う。		[sound:9f0c1f8e659e.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+失敗するまいと努力した。	しっぱいするとどりょくした。	失敗しない努力。	cloze-derived	失敗しない努力。	失敗しない努力。	失敗しない努力。		[sound:5778d7f233d6.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+そんなはずはあるまい。	そんなはずは。	あり得ない。	cloze-derived	あり得ない。	あり得ない。	あり得ない。		[sound:6cc6f441e685.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+行かないわけにはいくまい。	いかないわけには。	行かざるを得ない。	cloze-derived	行かざるを得ない。	行かざるを得ない。	行かざるを得ない。		[sound:0b68281c6342.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+二度とそんなことはするまい。	にどとそんなことは。	しない決心。	cloze-derived	しない決心。	しない決心。	しない決心。		[sound:0fc60c8fd846.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+彼は黙っていようまい。	かれはだまっていよう。	沈黙しない。	cloze-derived	沈黙しない。	沈黙しない。	沈黙しない。		[sound:1dce64172032.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top5k source:shin-kanzen
+本当にそうではあるまいか。	ほんとうに。	そうではないか。	cloze-derived	そうではないか。	そうではないか。	そうではないか。		[sound:a8a41b7c01a6.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+彼もそう思うまいか。	かれもそうおもう。	思うのではないか。	cloze-derived	思うのではないか。	思うのではないか。	思うのではないか。		[sound:a7fedbd8ba22.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top5k source:shin-kanzen
+言うまじき言葉を話した。	いうことばをはなした。	言うべきでない言葉。	cloze-derived	言うべきでない言葉。	言うべきでない言葉。	言うべきでない言葉。		[sound:945f2d6ba061.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+やるまじき行為。	やるこうい。	やるべきでない行為。	cloze-derived	やるべきでない行為。	やるべきでない行為。	やるべきでない行為。		[sound:accc619695c5.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:low source:shin-kanzen
+信じるまじき男。	しんじるおとこ。	信じるべきでない。	cloze-derived	信じるべきでない。	信じるべきでない。	信じるべきでない。		[sound:0cc4a254876d.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+近づくまじき人物。	ちかづくじんぶつ。	近づくべきでない。	cloze-derived	近づくべきでない。	近づくべきでない。	近づくべきでない。		[sound:4108caa74bd0.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+見るまじき光景。	みるこうけい。	見るべきでない。	cloze-derived	見るべきでない。	見るべきでない。	見るべきでない。		[sound:fb9b0f0a211d.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+これをしなくてはならぬ。	これをしなくては。	しなくてはいけない。	cloze-derived	しなくてはいけない。	しなくてはいけない。	しなくてはいけない。		[sound:0f9e75e1ca62.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+行かねばならぬ。	いか。	行かなくてはいけない。	cloze-derived	行かなくてはいけない。	行かなくてはいけない。	行かなくてはいけない。		[sound:e04a21277eef.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+言うべき言葉もないぬ。	いうべきことばもない。	ない状態。	cloze-derived	ない状態。	ない状態。	ない状態。		[sound:5b9ae43f243c.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+彼が来たぬ。	かれがきた。	来なかった。	cloze-derived	来なかった。	来なかった。	来なかった。		[sound:1816808b2c60.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+風は止みぬ。	かぜはとみ。	止まらない。	cloze-derived	止まらない。	止まらない。	止まらない。		[sound:0259356fc8d3.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+知らぬが仏。	しらがほとけ。	知らない方が幸せ。	cloze-derived	知らない方が幸せ。	知らない方が幸せ。	知らない方が幸せ。		[sound:1a86c28e8cb2.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+行きぬ。	いき。	いかなかった。	cloze-derived	いかなかった。	いかなかった。	いかなかった。		[sound:e6f2b99bd0eb.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+来ぬ。	らい。	こなかった。	cloze-derived	こなかった。	こなかった。	こなかった。		[sound:65ca6c9803ef.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+助けぬ。	たすけ。	助けなかった。	cloze-derived	助けなかった。	助けなかった。	助けなかった。		[sound:65467c3ad2f6.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:low source:shin-kanzen
+これをしなくてはならぬ。	これを。	必須行為。	cloze-derived	必須行為。	必須行為。	必須行為。		[sound:0f9e75e1ca62.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+学ばねばならぬ。	まなば。	学ばねばならない。	cloze-derived	学ばねばならない。	学ばねばならない。	学ばねばならない。		[sound:e41a95c30718.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+来ねばならぬ。	こねば。	来なくてはいけない。	cloze-derived	来なくてはいけない。	来なくてはいけない。	来なくてはいけない。		[sound:bd24000eed1f.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+書かねばならぬ。	かか。	かかねばならない。	cloze-derived	かかねばならない。	かかねばならない。	かかねばならない。		[sound:c151fac36597.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+それが本当でなくてなんだろう。	それがほんとう。	本当に違いない。	cloze-derived	本当に違いない。	本当に違いない。	本当に違いない。		[sound:1c765dcd42ad.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+これが答えでなくてなんだろうか。	これがこたえ。	答えに違いない。	cloze-derived	答えに違いない。	答えに違いない。	答えに違いない。		[sound:4ff73b21e53f.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top5k source:shin-kanzen
+それが正解でなくてなんだろう。	それがせいかい。	正解に違いない。	cloze-derived	正解に違いない。	正解に違いない。	正解に違いない。		[sound:e0a8f4a7f511.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:low source:shin-kanzen
+彼が犯人でなくてなんだろう。	かれがはんにん。	犯人に違いない。	cloze-derived	犯人に違いない。	犯人に違いない。	犯人に違いない。		[sound:63a8c649a185.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+逃げようがあるまい。	にげ。	逃げられない。	cloze-derived	逃げられない。	逃げられない。	逃げられない。		[sound:a98adf87f406.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+対抗のしようがあるまい。	たいこうの。	対抗できない。	cloze-derived	対抗できない。	対抗できない。	対抗できない。		[sound:9a93297f415d.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:low source:shin-kanzen
+否定しようがあるまい。	ひていし。	否定できない。	cloze-derived	否定できない。	否定できない。	否定できない。		[sound:7c1dd05357bd.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+助けようがあるまい。	たすけ。	助けられない。	cloze-derived	助けられない。	助けられない。	助けられない。		[sound:c018bc1b078b.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:low source:shin-kanzen
+防ぎようがあるまい。	ふせぎ。	防げない。	cloze-derived	防げない。	防げない。	防げない。		[sound:7137ab1190bb.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+忘れるべきではない。	わすれるではない。	忘れてはいけない。	cloze-derived	忘れてはいけない。	忘れてはいけない。	忘れてはいけない。		[sound:2a58383034a8.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+知らぬことを聞くな。	しらことをきくな。	知らないので聞くな。	cloze-derived	知らないので聞くな。	知らないので聞くな。	知らないので聞くな。		[sound:1a5c7478d136.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+来ないわけにはいかぬ。	こない。	来ないわけにはいかない。	cloze-derived	来ないわけにはいかない。	来ないわけにはいかない。	来ないわけにはいかない。		[sound:ab2d526626d4.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top10k source:shin-kanzen
+するまいと決めた。	するときめた。	しないと決めた。	cloze-derived	しないと決めた。	しないと決めた。	しないと決めた。		[sound:2cbf9a5f654c.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:low source:shin-kanzen
+彼は去りぬ。	かれはさり。	去ってしまった。	cloze-derived	去ってしまった。	去ってしまった。	去ってしまった。		[sound:c1415ba3c466.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top5k source:shin-kanzen
+返さぬ。	かえさ。	返さなかった。	cloze-derived	返さなかった。	返さなかった。	返さなかった。		[sound:f5034a424bda.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+飲まぬ。	のま。	飲まなかった。	cloze-derived	飲まなかった。	飲まなかった。	飲まなかった。		[sound:deb772818eee.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen
+歌わぬ。	うたわ。	歌わなかった。	cloze-derived	歌わなかった。	歌わなかった。	歌わなかった。		[sound:db42106a11f6.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro frequency:top1k source:shin-kanzen
+走らぬ。	はしら。	走らなかった。	cloze-derived	走らなかった。	走らなかった。	走らなかった。		[sound:9cf9989afae9.mp3]	module:05-n1 jlpt:n1 point:classical-negation complexity:intro source:shin-kanzen

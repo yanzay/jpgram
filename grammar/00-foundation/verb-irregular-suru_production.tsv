@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I study every day.	弟は毎日勉強します。	おとうとはまいにちべんきょうします。	弟は毎日勉強します。	Irregular: most common verb	[sound:066717282974.mp3]	module:00-foundation jlpt:n5 point:verb-irregular-suru pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram

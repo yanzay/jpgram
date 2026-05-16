@@ -1,0 +1,8 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I'm a student and my older brother is a salaryman.	私は学生で、兄は会社員だ。	わたしはがくせいで、あにはかいしゃいんだ。	私は学生で、兄は会社員だ。	Link to next clause; reason	[sound:158f3ab3dedd.mp3]	module:00-foundation jlpt:n5 register:casual point:copula-te pos:aux point:copula complexity:intro frequency:top1k source:curated-jpgram
+Dr. Tanaka is a doctor and is an acquaintance of the patient.	田中さんは医者で、患者さんとお知り合いです。	たなかさんはいしゃで、かんじゃさんとおしりあいです。	田中さんは医者で、患者さんとお知り合いです。	Link to next clause; reason	[sound:b6fd4bbd02b3.mp3]	module:00-foundation jlpt:n5 register:casual point:copula-te pos:aux point:copula complexity:standard frequency:low source:curated-jpgram

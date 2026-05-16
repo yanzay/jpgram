@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+Please don't say such things.	そんなことは言わないで下さい。	そんなことはいわないでください。	そんなことは言わないで下さい。	Refer to kind near listener's reference	[sound:627eca9863ad.mp3]	module:00-foundation jlpt:n5 point:demonstrative-sonna pos:adj point:demonstratives complexity:standard frequency:top1k source:curated-jpgram

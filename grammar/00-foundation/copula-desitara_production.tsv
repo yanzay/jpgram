@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+If you're a student, you can receive a discount.	学生でしたら、割引が受けられます。	がくせいでしたら、わりびきがうけられます。	学生でしたら、割引が受けられます。	Conditional with presupposition (polite)	[sound:c875e09ffdc5.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desitara pos:aux point:copula complexity:standard frequency:low source:curated-jpgram

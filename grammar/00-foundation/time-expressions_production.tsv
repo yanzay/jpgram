@@ -1,0 +1,31 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+Today is Monday.	今日は月曜日です。	きょうはげつようびです。	今日は月曜日です。	present day reference	[sound:45735ddbdcdd.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Tomorrow is Tuesday.	明日は火曜日です。	あしたはかようびです。	明日は火曜日です。	next day reference	[sound:2f49c544707f.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Yesterday was Sunday.	昨日は日曜日でした。	きのうはにちようびでした。	昨日は日曜日でした。	previous day reference	[sound:2daac0ccbda7.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+This week is busy.	今週は忙しいです。	こんしゅうはいそがしいです。	今週は忙しいです。	present week	[sound:d07cd822395a.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Next week is a break.	来週は休みです。	らいしゅうはやすみです。	来週は休みです。	following week	[sound:31d6ef6a01b9.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Last week was fun.	先週は楽しかった。	せんしゅうはたのしかった。	先週は楽しかった。	previous week	[sound:330aefbea892.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top10k source:curated-jpgram
+How are this month's sales?	今月の売上は？	こんげつのうりあげは？	今月の売上は？	present month	[sound:4abf7a1f7df7.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:low source:curated-jpgram
+From next month it's new.	来月から新しい。	らいげつからあたらしい。	来月から新しい。	following month	[sound:25d06d904f22.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Last month was cold.	先月は寒かった。	せんげつはさむかった。	先月は寒かった。	previous month	[sound:de66a34f68d2.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+This year is 2026.	今年は2026年です。	ことしはにせんにじゅうろくねんです。	今年は2026年です。	present year	[sound:f76ca9d199c6.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Next year I'll go to Tokyo.	来年は東京へ行く。	らいねんはとうきょうへいく。	来年は東京へ行く。	following year	[sound:e029059d188c.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Last year was tough.	去年は大変だった。	きょねんはたいへんだった。	去年は大変だった。	previous year	[sound:715446521403.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+I came at 9 AM.	午前9時に来ました。	ごぜんくじにきました。	午前9時に来ました。	morning (before noon)	[sound:1dbd0c0fd93f.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top10k source:curated-jpgram
+Let's meet at 3 PM.	午後3時に会いましょう。	ごごさんじにあいましょう。	午後3時に会いましょう。	afternoon/evening	[sound:6b2097364ad6.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+It's 1:25.	一時二十五分です。	いちじにじゅうごぶです。	一時二十五分です。	specific time	[sound:546b26236842.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top10k source:curated-jpgram
+It's 3:30 now.	今、3時半です。	いま、さんじはんです。	今、3時半です。	exactly 30 minutes	[sound:eaea5bc1bfbc.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+I work on weekdays.	平日に仕事します。	へいじつにしごとします。	平日に仕事します。	Monday-Friday	[sound:21c5ef80f24b.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:low source:curated-jpgram
+What do you do on weekends?	週末は何をする？	しゅうまつはなにをする？	週末は何をする？	Saturday-Sunday	[sound:5922d1f660d2.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top10k source:curated-jpgram
+I wake up at 6 AM.	朝6時に起きます。	あさろくじにおきます。	朝6時に起きます。	early morning	[sound:e3423fcc8685.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+I ate ramen in the daytime.	昼間にラーメン食べた。	ひるまにらーめんたべた。	昼間にラーメン食べた。	midday/daytime	[sound:4af06c19d755.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top5k source:curated-jpgram
+It gets dark in the evening.	夕方は暗くなります。	ゆうがたはくらくなります。	夕方は暗くなります。	early evening	[sound:ca95bc5ed939.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+I sleep at 9 PM.	夜9時に寝ます。	よるくじにねます。	夜9時に寝ます。	nighttime	[sound:d960c73df2a6.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+Right now it's raining.	今、雨です。	いま、あめです。	今、雨です。	present/now	[sound:f1d02b015bec.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+What happened just now?	さっき何があった？	さっきなにがあった？	さっき何があった？	moments ago	[sound:b02e1e385451.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram
+This morning is cold.	今朝は冷たいです。	いまあさはつめたいです。	今朝は冷たいです。	early morning (keasa)	[sound:e4fc02911cb4.mp3]	module:00-foundation jlpt:n5 point:time-expressions complexity:intro frequency:top1k source:curated-jpgram

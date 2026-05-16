@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+Do it this way, please.	こうして下さい。	こうしてください。	こうして下さい。	Refer to manner near speaker's idea	[sound:e6b0a065e56b.mp3]	module:00-foundation jlpt:n5 point:demonstrative-kou pos:adv point:demonstratives complexity:intro frequency:top1k source:curated-jpgram

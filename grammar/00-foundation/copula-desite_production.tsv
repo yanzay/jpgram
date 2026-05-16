@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I am a student and I study every day.	私は学生でして、毎日勉強しています。	わたしはがくせいでして、まいにちべんきょうしています。	私は学生でして、毎日勉強しています。	Link to next clause (more polite)	[sound:5cab33e8b105.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desite pos:aux point:copula complexity:standard frequency:top1k source:curated-jpgram
