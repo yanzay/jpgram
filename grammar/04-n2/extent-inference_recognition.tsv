@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::04 - N2 Grammar::Recognition
+#
+それほど難しくない。	それほどむずかしくない。	not difficult	cloze-derived	not difficult	not difficult	not difficult		[sound:10a2f91e5fd1.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+時間ほど大切なものはない。	じかんほどたいせつなものはない。	precious	cloze-derived	precious	precious	precious		[sound:cca8fdba55a5.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+この本ほど面白い本はない。	このほんほどおもしろいほんはない。	interesting	cloze-derived	interesting	interesting	interesting		[sound:c17e89ccec6b.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+苦労したほど、成長する。	くろうしたほど、せいちょうする。	grow	cloze-derived	grow	grow	grow		[sound:49fa193af390.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+年を取るほど、知恵が増える。	ねんをとるほど、ちえがふえる。	wisdom	cloze-derived	wisdom	wisdom	wisdom		[sound:eed0058923a5.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+くらい難しい試験はない。	くらいむずかしいしけんはない。	difficult	cloze-derived	difficult	difficult	difficult		[sound:ce9041181f5e.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top5k source:shin-kanzen
+ぐらい緊張したことはない。	ぐらいきんちょうしたことはない。	nervous	cloze-derived	nervous	nervous	nervous		[sound:be3ed9a9f6bc.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+それくらい簡単にはいかない。	それくらいかんたんにはいかない。	easy	cloze-derived	easy	easy	easy		[sound:3cbac7828529.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:standard frequency:top5k source:shin-kanzen
+そのぐらい大切なことだ。	そのぐらいたいせつなことだ。	important	cloze-derived	important	important	important		[sound:70716edd0b02.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+ばかりか、逆効果だった。	ばかりか、ぎゃくこうかだった。	counterproductive	cloze-derived	counterproductive	counterproductive	counterproductive		[sound:a63be80d1544.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+そればかりでなく、危険でもある。	そればかりでなく、きけんでもある。	dangerous	cloze-derived	dangerous	dangerous	dangerous		[sound:540f3a905814.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:standard frequency:top5k source:shin-kanzen
+時間ばかり過ぎてしまった。	じかんばかりすぎてしまった。	passed	cloze-derived	passed	passed	passed		[sound:fb3f3993c034.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+だけに、期待が大きい。	だけに、きたいがおおきい。	expectation	cloze-derived	expectation	expectation	expectation		[sound:50a1fc7a70f5.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+子どもだけに、注意が必要。	こどもだけに、ちゅういがひつよう。	caution	cloze-derived	caution	caution	caution		[sound:1ec87aecf8b3.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top5k source:shin-kanzen
+専門家だけに、意見が貴重。	せんもんかだけに、いけんがきちょう。	opinion	cloze-derived	opinion	opinion	opinion		[sound:65bb12eae22b.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+新入社員だけに、失敗を恐れるべき。	しんにゅうしゃいんだけに、しっぱいをおそれるべき。	failure	cloze-derived	failure	failure	failure		[sound:2011495c7520.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:standard frequency:low source:shin-kanzen
+にしても、結果は同じだ。	にしても、けっかはおなじだ。	result	cloze-derived	result	result	result		[sound:c1c4de8df2e7.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+何にしても、頑張るしかない。	なににしても、がんばるしかない。	do best	cloze-derived	do best	do best	do best		[sound:9059a1f2db4f.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top5k source:shin-kanzen
+どちらにしても、最後は本人の決断。	どちらにしても、さいごはほんにんのけつだん。	end	cloze-derived	end	end	end		[sound:72b8757e5ebe.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:standard frequency:low source:shin-kanzen
+どんなにしても、無理は無理だ。	どんなにしても、むりはむりだ。	impossible	cloze-derived	impossible	impossible	impossible		[sound:fc2b1dba0c70.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:standard frequency:top5k source:shin-kanzen
+いかにしても、状況は避けられない。	いかにしても、じょうきょうはさけられない。	situation	cloze-derived	situation	situation	situation		[sound:5d83eb8f0e1d.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:standard frequency:top10k source:shin-kanzen
+たとえどんなにしても、諦めない。	たとえどんなにしても、あきらめない。	not give up	cloze-derived	not give up	not give up	not give up		[sound:8bc86685ab41.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:low source:shin-kanzen
+わりに安い。	わりにやすい。	cheap	cloze-derived	cheap	cheap	cheap		[sound:7343c6e29294.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+わりに簡単だった。	わりにかんたんだった。	easy	cloze-derived	easy	easy	easy		[sound:9fd2b4596e47.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top5k source:shin-kanzen
+年の割に、元気だ。	ねんのわりに、げんきだ。	energetic	cloze-derived	energetic	energetic	energetic		[sound:1931d039c228.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+わりには、静かだ。	わりには、しずかだ。	quiet	cloze-derived	quiet	quiet	quiet		[sound:2a1c3606a460.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top1k source:shin-kanzen
+他の国の割に、物価が安い。	ほかのくにのわりに、ぶっかがやすい。	prices	cloze-derived	prices	prices	prices		[sound:ee8fd30ed3f4.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+期待の割に、良くない。	きたいのわりに、よくない。	not good	cloze-derived	not good	not good	not good		[sound:cbb590240504.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+難易度の割に、簡単だった。	なんいどのわりに、かんたんだった。	easy	cloze-derived	easy	easy	easy		[sound:47fadd1bbad7.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:top10k source:shin-kanzen
+努力の割に、成果がない。	どりょくのわりに、せいかがない。	achievement	cloze-derived	achievement	achievement	achievement		[sound:cd9df8316047.mp3]	module:04-n2 jlpt:n2 point:extent-inference complexity:intro frequency:low source:shin-kanzen

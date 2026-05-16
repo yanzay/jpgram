@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I was not a student.	僕は学生じゃなかった。	ぼくはがくせいじゃなかった。	僕は学生じゃなかった。	Plain past denial	[sound:e2d8ffac39dd.mp3]	module:00-foundation jlpt:n5 register:casual point:copula-janakatta pos:aux point:copula complexity:intro frequency:top5k source:curated-jpgram

@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I come every day.	祖父は毎日来ます。	そふはまいにちきます。	祖父は毎日来ます。	Irregular: copula-like origin	[sound:93a90590d82e.mp3]	module:00-foundation jlpt:n5 point:verb-irregular-kuru pos:v point:verb-groups complexity:intro frequency:top10k source:curated-jpgram

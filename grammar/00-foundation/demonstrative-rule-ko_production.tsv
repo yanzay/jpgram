@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+"The speaker is here. If the thing is here too, we say ""これ""."	話者はここ。その物がここなら「これ」。	わしゃはここ。そのぶつがここなら「これ」。	話者はここ。その物がここなら「これ」。	Proximity rule: where the speaker is	[sound:e1ea3b7a079b.mp3]	module:00-foundation jlpt:n5 point:demonstrative-rule-ko pos:n nb:proximity-rule point:demonstratives complexity:standard frequency:top10k source:curated-jpgram

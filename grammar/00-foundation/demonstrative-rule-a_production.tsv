@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+"The thing is far from both speaker and listener. We say ""あれ""."	その物は遠い。両者から遠い。「あれ」。	そのぶつはとおい。りょうしゃからとおい。「あれ」。	その物は遠い。両者から遠い。「あれ」。	Proximity rule: far from both sides	[sound:22a3ed6a5bee.mp3]	module:00-foundation jlpt:n5 point:demonstrative-rule-a pos:n nb:proximity-rule point:demonstratives complexity:standard frequency:top10k source:curated-jpgram

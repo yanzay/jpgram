@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+By doing it that way, I succeeded.	ああして成功しました。	ああしてせいこうしました。	ああして成功しました。	Refer to manner neutral to both	[sound:6f0875caaa1a.mp3]	module:00-foundation jlpt:n5 point:demonstrative-aa pos:adv point:demonstratives complexity:intro frequency:top10k source:curated-jpgram

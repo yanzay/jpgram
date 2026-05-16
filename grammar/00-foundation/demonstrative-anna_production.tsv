@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I don't want to watch that kind of movie.	あんな映画は見たくありません。	あんなえいがはみたくありません。	あんな映画は見たくありません。	Refer to kind far from both	[sound:51b6a9d558e0.mp3]	module:00-foundation jlpt:n5 point:demonstrative-anna pos:adj point:demonstratives complexity:standard frequency:top1k source:curated-jpgram

@@ -1,0 +1,8 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I am Tanaka. (formal/humble).	私は田中でございます。	わたしはたなかでございます。	私は田中でございます。	Ultra-polite, humble, especially keigo	[sound:d3b4b2e4fd62.mp3]	module:00-foundation jlpt:n5 register:keigo point:copula-degozaimasu pos:aux point:copula complexity:intro frequency:top10k source:curated-jpgram
+This is the department head. (formal).	こちらは部長でございます。	こちらはぶちょうでございます。	こちらは部長でございます。	Ultra-polite, humble, especially keigo	[sound:1ab95acb3806.mp3]	module:00-foundation jlpt:n5 register:keigo point:copula-degozaimasu pos:aux point:copula complexity:standard frequency:top5k source:curated-jpgram

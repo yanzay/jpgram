@@ -1,0 +1,13 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I eat rice every day.	弟は毎日米を食べます。	おとうとはまいにちこめをたべます。	弟は毎日米を食べます。	Core ru-verb: -eru ending, e-stem	[sound:dc8dde2a41e0.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 pos:v point:verb-groups complexity:intro frequency:top5k source:curated-jpgram
+I watch a movie every day.	祖父は毎日映画を見ます。	そふはまいにちえいがをみます。	祖父は毎日映画を見ます。	Core ru-verb: -eru ending, e-stem	[sound:1e7183a96d6c.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 pos:v point:verb-groups complexity:intro frequency:top5k source:curated-jpgram
+I go to bed at 8 o'clock every day.	妹は毎日8時に寝ます。	いもうとはまいにち8ときにねます。	妹は毎日8時に寝ます。	Core ru-verb: -eru ending, e-stem	[sound:8d8cdab34beb.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram
+I wake up at 6 o'clock every day.	妹は毎日6時に起きます。	いもうとはまいにち6ときにおきます。	妹は毎日6時に起きます。	Ru-verb with -kiru ending	[sound:ace77716e0b5.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram
+I eat and sleep every day.	父は毎日食べて寝ます。	ちちはまいにちたべてねます。	父は毎日食べて寝ます。	Ru-verb te-form rule: -る → -て	[sound:3b39dde56502.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 form:te pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram
+I look and think every day.	父は毎日見て考えます。	ちちはまいにちみてかんがえます。	父は毎日見て考えます。	Ru-verb te-form rule: -る → -て	[sound:bb2d8d90ac6d.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 form:te pos:v point:verb-groups complexity:intro frequency:top10k source:curated-jpgram
+I ate yesterday.	私は昨日食べました。	わたしはきのうたべました。	私は昨日食べました。	Past tense: ru-verb simple removal	[sound:f1eb82e4faa8.mp3]	module:00-foundation jlpt:n5 point:verb-group-2 form:past pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram

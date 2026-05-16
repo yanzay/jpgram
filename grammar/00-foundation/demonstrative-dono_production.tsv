@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+Which season do you like best?	どの季節が一番好きですか？	どのきせつがいちばんすきですか？	どの季節が一番好きですか？	Ask which noun is being modified	[sound:d9413bcc2fa1.mp3]	module:00-foundation jlpt:n5 point:demonstrative-dono pos:adj point:demonstratives complexity:standard frequency:top5k source:curated-jpgram

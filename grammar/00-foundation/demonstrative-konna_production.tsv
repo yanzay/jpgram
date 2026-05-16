@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+I want to keep a dog like this.	こんな犬を飼いたいです。	こんないぬをかいたいです。	こんな犬を飼いたいです。	Refer to kind near speaker's reference	[sound:089cdc29f1a4.mp3]	module:00-foundation jlpt:n5 point:demonstrative-konna pos:adj point:demonstratives complexity:intro frequency:top1k source:curated-jpgram

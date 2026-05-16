@@ -1,0 +1,31 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::11 - Classical / Literary Carryover::Recognition
+#
+古典文ではぬは現代のないと同じ意味である	こてんぶんではぬはげんだいのないとおなじいみである	古典否定形	cloze-derived	古典否定形	古典否定形	古典否定形		[sound:16dcd3a65147.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+べしは義務や推量を表す古い助動詞	べしはぎむやすいりょうをあらわすふるいじょどうし	古典当為・推量	cloze-derived	古典当為・推量	古典当為・推量	古典当為・推量		[sound:2f2f21a4218b.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+そうろうは古典で敬語的な述語	そうろうはこてんでけいごてきなじゅつご	古典敬語述語	cloze-derived	古典敬語述語	古典敬語述語	古典敬語述語		[sound:46bc1449cd8c.mp3]	module:11-classical point:classical complexity:intro frequency:low source:imabi
+んは意志や推測を表す古典形	んはいしやすいそくをあらわすこてんかたち	古典意志・推測	cloze-derived	古典意志・推測	古典意志・推測	古典意志・推測		[sound:5cfb08200e32.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+ざりは古い否定完了形	ざりはふるいひていかんりょうかたち	古典否定過去	cloze-derived	古典否定過去	古典否定過去	古典否定過去		[sound:cf2704c24b47.mp3]	module:11-classical point:classical complexity:intro frequency:top10k source:imabi
+たりは古い完了形で、現代ではたに相当する	たりはふるいかんりょうかたちで、げんだいではたにそうとうする	古典完了形	cloze-derived	古典完了形	古典完了形	古典完了形		[sound:334dadb7cbdc.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+あらずは古い存在否定で、ではないと同じ	あらずはふるいそんざいひていで、ではないとおなじ	古典存在否定	cloze-derived	古典存在否定	古典存在否定	古典存在否定		[sound:69f9c672ba99.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+ニュース見出しではですやますがしばしば省略される	にゅーすみだしではですやますがしばしばしょうりゃくされる	現代ニュース形	cloze-derived	現代ニュース形	現代ニュース形	現代ニュース形		[sound:d3963ec1b5ac.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+法律文では以上が文末近くに使われる	ほうりつぶんではいじょうがぶんまつちかくにつかわれる	法律用語	cloze-derived	法律用語	法律用語	法律用語		[sound:072ff2410c03.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+故には古い接続詞で、だからの意味	ゆえにはふるいせつぞくしで、だからのいみ	古典接続詞	cloze-derived	古典接続詞	古典接続詞	古典接続詞		[sound:c25a5f6b62fa.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+したがって、この方法を採用する	したがって、このほうほうをさいようする	法律・形式文	cloze-derived	法律・形式文	法律・形式文	法律・形式文		[sound:67c80e9c0625.mp3]	module:11-classical point:classical complexity:intro frequency:low source:imabi
+権利を有する者は責任を負う	けんりをゆうするものはせきにんをおう	法律用語	cloze-derived	法律用語	法律用語	法律用語		[sound:2d869abb4975.mp3]	module:11-classical point:classical complexity:intro frequency:low source:imabi
+これは古い指示詞で現代ではこれのままである	これはふるいしじしでげんだいではこれのままである	古典指示詞	cloze-derived	古典指示詞	古典指示詞	古典指示詞		[sound:4fc8885ac6f5.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+われは古い一人称で現代では僕や私となる	われはふるいいちにんしょうでげんだいではぼくやわたしとなる	古典人称代名詞	cloze-derived	古典人称代名詞	古典人称代名詞	古典人称代名詞		[sound:1b460a8d5205.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+しかりは古い強調で現代ではそうだとなる	しかりはふるいきょうちょうでげんだいではそうだとなる	古典強調形	cloze-derived	古典強調形	古典強調形	古典強調形		[sound:cee3b7f57985.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+かくしては古い接続詞で現代ではこうしてとなる	かくしてはふるいせつぞくしでげんだいではこうしてとなる	古典接続詞	cloze-derived	古典接続詞	古典接続詞	古典接続詞		[sound:718fea982bd5.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+いかんは古い疑問詞で現代ではどうかとなる	いかんはふるいぎもんしでげんだいではどうかとなる	古典疑問詞	cloze-derived	古典疑問詞	古典疑問詞	古典疑問詞		[sound:0609cae7db5d.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+もは古典で強調の助詞として使われる	もはこてんできょうちょうのじょしとしてつかわれる	古典助詞	cloze-derived	古典助詞	古典助詞	古典助詞		[sound:9959fa7ccd5d.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+ぞは古い焦点の助詞で現代ではこそに相当する	ぞはふるいしょうてんのじょしでげんだいではこそにそうとうする	古典焦点助詞	cloze-derived	古典焦点助詞	古典焦点助詞	古典焦点助詞		[sound:1c6355a325eb.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+やは古い呼格の助詞でよと共に使われた	やはふるいこかくのじょしでよとともにつかわれた	古典呼格助詞	cloze-derived	古典呼格助詞	古典呼格助詞	古典呼格助詞		[sound:97c47833502e.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+よりは古い起点を示す助詞で現代ではからとなる	よりはふるいきてんをしめすじょしでげんだいではからとなる	古典格助詞	cloze-derived	古典格助詞	古典格助詞	古典格助詞		[sound:53494412583c.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+漢文訓読ではいわくで引用を示す	かんぶんくんどくではいわくでいんようをしめす	漢文読み	cloze-derived	漢文読み	漢文読み	漢文読み		[sound:91b37b0fa2e1.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi
+夫という字は古い主題化の詞として使われた	おっとというじはふるいしゅだいかのしとしてつかわれた	古典主題詞	cloze-derived	古典主題詞	古典主題詞	古典主題詞		[sound:4fbd711f656b.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+古い敬語はおおせやそうろうなどを用いた	ふるいけいごはおおせやそうろうなどをもちいた	古典敬語	cloze-derived	古典敬語	古典敬語	古典敬語		[sound:5d13c509c6ca.mp3]	module:11-classical point:classical complexity:standard frequency:low source:imabi
+もしくはは古い選択を示す表現で現代ではあるいはとなる	もしくははふるいせんたくをしめすひょうげんでげんだいではあるいはとなる	古典選択表現	cloze-derived	古典選択表現	古典選択表現	古典選択表現		[sound:45d3778fedf0.mp3]	module:11-classical point:classical complexity:standard frequency:top10k source:imabi

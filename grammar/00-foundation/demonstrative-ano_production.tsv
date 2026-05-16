@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+That person over there is a famous actor.	あの人は有名な俳優です。	あのひとはゆうめいなはいゆうです。	あの人は有名な俳優です。	Modify nouns; far from both	[sound:6e45869479d5.mp3]	module:00-foundation jlpt:n5 point:demonstrative-ano pos:adj point:demonstratives complexity:intro frequency:top10k source:curated-jpgram

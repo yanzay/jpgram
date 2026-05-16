@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::04 - N2 Grammar::Recognition
+#
+彼は部屋を出たかと思うと、すぐに戻ってきた。	かれはへやをでたかとおもうと、すぐにもどってきた。	immediately	cloze-derived	immediately	immediately	immediately		[sound:c9b5ad1d5e22.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+雨が降りかけたかと思うと、いきなり止んだ。	あめがおりかけたかとおもうと、いきなりやんだ。	suddenly	cloze-derived	suddenly	suddenly	suddenly		[sound:abbe1f28f139.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+母が帰ってきたかと思ったら、また出かけた。	ははがかえってきたかとおもったら、またでかけた。	again	cloze-derived	again	again	again		[sound:75db442d1557.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+仕事が終わったかと思ったら、新しい案件が来た。	しごとがおわったかとおもったら、あたらしいあんけんがきた。	new	cloze-derived	new	new	new		[sound:01b469c6aa46.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+先生が入ってきたやいなや、皆が静かになった。	せんせいがいっってきたやいなや、みながしずかになった。	everyone	cloze-derived	everyone	everyone	everyone		[sound:c269077c684b.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+信号が青になったやいなや、車は走り出した。	しんごうがあおになったやいなや、くるまははしりだした。	car	cloze-derived	car	car	car		[sound:0b1e10fc8fda.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+彼が口を開いたがはやいか、皆が笑った。	かれがくちをひらいたがはやいか、みながわらった。	everyone	cloze-derived	everyone	everyone	everyone		[sound:156a64c7c251.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+試験が始まったがはやいか、解けない問題が出た。	しけんがはじまったがはやいか、とけないもんだいがでた。	unsolvable	cloze-derived	unsolvable	unsolvable	unsolvable		[sound:73d836c1aebe.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+雪が降り始めたとたんに、辺りは白くなった。	ゆきがおりはじめたとたんに、あたりはしろくなった。	surroundings	cloze-derived	surroundings	surroundings	surroundings		[sound:9ced8cbcf65a.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+彼女が入ってきたとたん、彼は赤くなった。	かのじょがいっってきたとたん、かれはあかくなった。	he	cloze-derived	he	he	he		[sound:541934f0e39f.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+子どもが泣き始めたとたんに、親も焦った。	こどもがなきはじめたとたんに、おやもあせった。	parent	cloze-derived	parent	parent	parent		[sound:025ed62ea013.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+荷物が届き次第、開けてください。	にもつがとどきしだい、ひらけてください。	open	cloze-derived	open	open	open		[sound:6904938958d9.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:low source:shin-kanzen
+試験の結果次第で、進路が決まる。	しけんのけっかしだいで、しんろがきまる。	career	cloze-derived	career	career	career		[sound:67957a16c17e.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+会議が終わり次第、報告書を出します。	かいぎがおわりしだい、ほうこくしょをだします。	report	cloze-derived	report	report	report		[sound:55198daf421e.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+予算次第で、プロジェクトが進められる。	よさんしだいで、ぷろじぇくとがすすめられる。	proceed	cloze-derived	proceed	proceed	proceed		[sound:53a96f5b5b05.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+働きながら大学に通っている。	はたらきながらだいがくにとおっている。	university	cloze-derived	university	university	university		[sound:5f3ebbf27dec.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+子どもを見守りながら、食事を作った。	こどもをみまもりながら、しょくじをつくった。	meal	cloze-derived	meal	meal	meal		[sound:df85ace08b5e.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+痛みを感じながらも、走り続けた。	いたみをかんじながらも、はしりつづけた。	kept running	cloze-derived	kept running	kept running	kept running		[sound:096ca9c6f2c6.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top10k source:shin-kanzen
+季節が変わりながら、同じ仕事をしている。	きせつがかわりながら、おなじしごとをしている。	same	cloze-derived	same	same	same		[sound:9eef295e1739.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+歌いながら歩く。	うたいながらあるく。	walk	cloze-derived	walk	walk	walk		[sound:507731b8073c.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top1k source:shin-kanzen
+手を洗いながら話す。	てをあらいながらはなす。	speak	cloze-derived	speak	speak	speak		[sound:6585afb255c3.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top1k source:shin-kanzen
+彼は笑いながら話し始めた。	かれはわらいながらはなしはじめた。	began speaking	cloze-derived	began speaking	began speaking	began speaking		[sound:a2277458c49f.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top10k source:shin-kanzen
+本を読みながら、コーヒーを飲んだ。	ほんをよみながら、こーひーをのんだ。	coffee	cloze-derived	coffee	coffee	coffee		[sound:4f60d71f0210.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+窓の外を見ながら、考えていた。	まどのそとをみながら、かんがえていた。	was thinking	cloze-derived	was thinking	was thinking	was thinking		[sound:d1ccad9bbf0e.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top10k source:shin-kanzen
+曲を聞きながら、運動する。	きょくをききながら、うんどうする。	exercise	cloze-derived	exercise	exercise	exercise		[sound:95d4b6fe53f0.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top5k source:shin-kanzen
+テレビを見ながら、食事をする。	てれびをみながら、しょくじをする。	meal	cloze-derived	meal	meal	meal		[sound:de7880cee56e.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top5k source:shin-kanzen
+友達と話しながら、歩いていった。	ともだちとはなしながら、あるいていった。	walked	cloze-derived	walked	walked	walked		[sound:78e1f087d382.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top1k source:shin-kanzen
+雨の中を傘を差しながら、進んだ。	あめのなかをかさをさしながら、すすんだ。	proceeded	cloze-derived	proceeded	proceeded	proceeded		[sound:db4f6503a0ab.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:top10k source:shin-kanzen
+旅行中、楽しみながら、学んだ。	りょこうちゅう、たのしみながら、まなんだ。	learned	cloze-derived	learned	learned	learned		[sound:1a488ea6fe8a.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top10k source:shin-kanzen
+仕事をしながら、音楽を聞く。	しごとをしながら、おんがくをきく。	music	cloze-derived	music	music	music		[sound:0baba093a98c.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top1k source:shin-kanzen
+運転しながら、電話で話す。	うんてんしながら、でんわではなす。	phone	cloze-derived	phone	phone	phone		[sound:15028a65e464.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top5k source:shin-kanzen
+勉強しながら、スナックを食べた。	べんきょうしながら、すなっくをたべた。	ate	cloze-derived	ate	ate	ate		[sound:84e4a829ecc6.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top1k source:shin-kanzen
+走りながら、息をしている。	はしりながら、いきをしている。	breath	cloze-derived	breath	breath	breath		[sound:5cbc322c441c.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:top10k source:shin-kanzen
+演技しながら、涙を流した。	えんぎしながら、なみだをながした。	tears	cloze-derived	tears	tears	tears		[sound:b79585fc0502.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:intro frequency:low source:shin-kanzen
+指摘されながらも、意見を曲げなかった。	してきされながらも、いけんをまげなかった。	opinion	cloze-derived	opinion	opinion	opinion		[sound:fc2e682e9be9.mp3]	module:04-n2 jlpt:n2 point:temporal-conditional complexity:standard frequency:low source:shin-kanzen

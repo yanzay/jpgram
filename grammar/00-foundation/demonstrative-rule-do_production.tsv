@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::00 - Foundation::Production
+#
+When we don't know what is pointed to, we use the ど-series.	何を指しているかわからない。「ど」系。	なにをさしているかわからない。「ど」けい。	何を指しているかわからない。「ど」系。	Proximity rule: uncertain reference	[sound:65f62d2af907.mp3]	module:00-foundation jlpt:n5 point:demonstrative-rule-do pos:n nb:proximity-rule point:demonstratives complexity:standard frequency:top5k source:curated-jpgram
