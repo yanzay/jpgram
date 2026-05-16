@@ -4,13 +4,13 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-exampleぜろ{{c1::ようだ}}。	exampleぜろようだ。	hint	[sound:bd11ecc344b1.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleいち{{c1::ようだ}}。	exampleいちようだ。	hint	[sound:8b2780ced08c.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleに{{c1::ようだ}}。	exampleにようだ。	hint	[sound:3b01b93bd247.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleさん{{c1::ようだ}}。	exampleさんようだ。	hint	[sound:9060fc86250c.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleし{{c1::ようだ}}。	exampleしようだ。	hint	[sound:a313588eed3e.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleご{{c1::ようだ}}。	exampleごようだ。	hint	[sound:a3784830b185.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleろく{{c1::ようだ}}。	exampleろくようだ。	hint	[sound:4a50f7cc7473.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleしち{{c1::ようだ}}。	exampleしちようだ。	hint	[sound:1c312556dadb.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleはち{{c1::ようだ}}。	exampleはちようだ。	hint	[sound:a06ca12a9c4b.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
-exampleきゅう{{c1::ようだ}}。	exampleきゅうようだ。	hint	[sound:9e9909962435.mp3]	module:02-n4 jlpt:n4 point:evidentials-other complexity:intro source:shin-kanzen
+{{c1::彼は学生らしいです。}}	かれはがくせいらしいです。	typical quality	[sound:6d01c5a1c973.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
+{{c1::明日は雨のようです。}}	あしたはあめのようです。	appearance/conjecture	[sound:89fed13423dc.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top1k complexity:intro source:shin-kanzen sense:evidentials
+{{c1::彼女は疲れているみたいです。}}	かのじょはつかれているみたいです。	appearance/rumor	[sound:470d7617b208.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top10k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
+{{c1::その建物は古いらしいです。}}	そのたてものはふるいらしいです。	apparent quality	[sound:85668264248c.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top1k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
+{{c1::そのパーティーが楽しかったようです。}}	そのぱーてぃーがたのしかったようです。	apparent past event	[sound:57554ff0f522.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top10k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
+{{c1::彼は優しい人みたいです。}}	かれはやさしいひとみたいです。	appearance/conjecture	[sound:227b9852dc0e.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
+{{c1::その店は閉まっているらしいです。}}	そのみせはしまっているらしいです。	apparent current state	[sound:76d15e25350d.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top1k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
+{{c1::彼らは結婚したようです。}}	かれらはけっこんしたようです。	apparent event	[sound:c7775a3b1505.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
+{{c1::その料理が美味しいみたいです。}}	そのりょうりがおいしいみたいです。	appearance quality	[sound:39c6b81bc7b9.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top1k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
+{{c1::それは日本の伝統らしいです。}}	それはにほんのでんとうらしいです。	apparent characteristic	[sound:6ef96c77462f.mp3]	module:02-n4 jlpt:n4 register:neutral point:evidentials-other pos:expr frequency:top10k complexity:standard source:shin-kanzen sense:evidentials complexity:intro

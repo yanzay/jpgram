@@ -36,7 +36,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-VERSION = "0.3.0"
+VERSION = "0.3.1"
 DECK_NAME = "Japanese Grammar"
 GRAMMAR_DIR = Path("grammar")
 MEDIA_DIR = Path("media")
@@ -159,6 +159,16 @@ def main() -> int:
         return 3
     if validation_result != 0 and args.allow_validation_failures:
         print("  ⚠ Validation failed but bypassed by --allow-validation-failures")
+
+    # 2b. Validate point-level taxonomy coverage.
+    if Path("validate_grammar_taxonomy.py").exists():
+        taxonomy_result = _run_hook(
+            "validate_grammar_taxonomy",
+            [sys.executable, "validate_grammar_taxonomy.py"],
+        )
+        if taxonomy_result != 0 and not args.allow_validation_failures:
+            print("  ✗ Taxonomy validation failed (strict gate); aborting build.")
+            return 5
 
     print(f"\nBuilding {args.out} (v{VERSION}) from {len(tsvs)} TSV(s)…")
     
@@ -469,7 +479,11 @@ def _strip_cloze(text: str) -> str:
 
 def _source_sentence(row_by_field: dict[str, str], note_type: str) -> str:
     if note_type == "Production":
-        return row_by_field.get("Sample", "").strip()
+        sample = row_by_field.get("Sample", "").strip()
+        target = row_by_field.get("Target", "").strip()
+        if sample and re.search(r"[一-龯ぁ-んァ-ン]", sample):
+            return sample
+        return target or sample
     if note_type == "Cloze":
         return _strip_cloze(row_by_field.get("Text", "").strip())
     if note_type == "Contrast":

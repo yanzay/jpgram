@@ -1,18 +1,1434 @@
 {
-  "status": "manual-curation-needed",
-  "note": "Bunpro does not provide an official open API. Community-scraped exports may be found at:",
-  "resources": [
-    "https://bunpro.jp/grammar_points",
-    "https://github.com/Heliozoa/bunpro-deconjugator"
-  ],
-  "expected_format": {
-    "points": [
-      {
-        "point_slug": "string",
-        "jlpt_level": 4,
-        "url": "https://bunpro.jp/grammar_points/...",
-        "summary": "string"
-      }
-    ]
-  }
+  "source": "https://bunpro.jp/grammar_points",
+  "generated_from": "data/grammar_taxonomy.tsv",
+  "points": [
+    {
+      "point_slug": "academic-jargon",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=academic-jargon",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "adjectives",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=adjectives",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "advice-experience",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=advice-experience",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "aizuchi-back-channels",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=aizuchi-back-channels",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "aspectual-contractions",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=aspectual-contractions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "attendant-stiff",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=attendant-stiff",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "bakari-dake-shika",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=bakari-dake-shika",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "bakari-extensions",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=bakari-extensions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "benefactive",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=benefactive",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "beyond-n1",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=beyond-n1",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "business-phrases",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=business-phrases",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "business-set-phrases",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=business-set-phrases",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "casual",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=casual",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "casual-questions",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=casual-questions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "casual-vulgar",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=casual-vulgar",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "causal-result",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=causal-result",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "causative",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=causative",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "causative-passive",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=causative-passive",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "classical",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=classical",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "classical-aux-verbs",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=classical-aux-verbs",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "classical-carryover",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=classical-carryover",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "classical-negation",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=classical-negation",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "classical-particles-conjugations",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=classical-particles-conjugations",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "classical-text",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=classical-text",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "concessive",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=concessive",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "concessive-noni",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=concessive-noni",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "concessive-others",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=concessive-others",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "conditional",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=conditional",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "conditional-ba",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=conditional-ba",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "conditional-formal",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=conditional-formal",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "conditional-nara",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=conditional-nara",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "conditional-tara",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=conditional-tara",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "conditional-to",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=conditional-to",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-da",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-da",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-datta",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-datta",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-dearimsen",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-dearimsen",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-dearimsendesita",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-dearimsendesita",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-degozaimasu",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-degozaimasu",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-demoarimasu",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-demoarimasu",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-denai",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-denai",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-denakatta",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-denakatta",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-desita",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-desita",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-desitara",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-desitara",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-desite",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-desite",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-desu",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-desu",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-janai",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-janai",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-janakatta",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-janakatta",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-nara",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-nara",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-nari",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-nari",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-tari",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-tari",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "copula-te",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=copula-te",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "counters",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=counters",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "customer-service-phrases",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=customer-service-phrases",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "dake-shika",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=dake-shika",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-aa",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-aa",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-anna",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-anna",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-ano",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-ano",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-are",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-are",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-asoko",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-asoko",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-doko",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-doko",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-donna",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-donna",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-dono",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-dono",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-dore",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-dore",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-dou",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-dou",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-koko",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-koko",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-konna",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-konna",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-kono",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-kono",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-kore",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-kore",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-kou",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-kou",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-rule-a",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-rule-a",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-rule-do",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-rule-do",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-rule-ko",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-rule-ko",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-rule-so",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-rule-so",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-soko",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-soko",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-sonna",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-sonna",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-sono",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-sono",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-sore",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-sore",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstrative-sou",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstrative-sou",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "demonstratives",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=demonstratives",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "editorial-style",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=editorial-style",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "embedded-questions",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=embedded-questions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "emotional-onomatopoeia",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=emotional-onomatopoeia",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "evidentials",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=evidentials",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "evidentials-modality",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=evidentials-modality",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "evidentials-n3",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=evidentials-n3",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "evidentials-other",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=evidentials-other",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "evidentials-sou",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=evidentials-sou",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "extended-particles",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=extended-particles",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "extent-degree",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=extent-degree",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "extent-inference",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=extent-inference",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "extremity-emphasis",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=extremity-emphasis",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-attendant",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-attendant",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-attendant-stiff-cloze",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-attendant-stiff-cloze",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-causal",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-causal",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-causal-cloze",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-causal-cloze",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-causal-contrast",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-causal-contrast",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-condition",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-condition",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-condition-restriction",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-condition-restriction",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-conjunctions",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-conjunctions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-explicative",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-explicative",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-modality",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-modality",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-modality-attempt",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-modality-attempt",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-modality-have-to",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-modality-have-to",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-modality-judgement",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-modality-judgement",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-result",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-result",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-stiff",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-stiff",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "formal-stiff-contrast",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=formal-stiff-contrast",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "gen-z-slang",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=gen-z-slang",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "giongo-sounds",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=giongo-sounds",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "giseigo-voices",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=giseigo-voices",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "gitaigo-states",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=gitaigo-states",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "giving-receiving",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=giving-receiving",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "gyaru-words",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=gyaru-words",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "humble-elevation-stacking",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=humble-elevation-stacking",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "i-adjectives",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=i-adjectives",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "inference-extent",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=inference-extent",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "interjections",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=interjections",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "internet-slang",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=internet-slang",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "iru-eru-stiff",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=iru-eru-stiff",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "kana",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=kana",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "kanbun-yomi",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=kanbun-yomi",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "kansai-basics",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=kansai-basics",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "keigo",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=keigo",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "keigo-stacking",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=keigo-stacking",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "kenjogo-verbs",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=kenjogo-verbs",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "koto-mono",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=koto-mono",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "koto-nominalisations",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=koto-nominalisations",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-articles-and-number",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-articles-and-number",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-givereceive-direction",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-givereceive-direction",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-modality-mismatch",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-modality-mismatch",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-particles-overlap",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-particles-overlap",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-pronoun-overuse",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-pronoun-overuse",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-relative-clauses",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-relative-clauses",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-tense-aspect",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-tense-aspect",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "l1-yes-no_negative-questions",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=l1-yes-no_negative-questions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "legal-formal-set-phrases",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=legal-formal-set-phrases",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "listing-extremity",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=listing-extremity",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "listing-formal",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=listing-formal",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "literary-fiction-style",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=literary-fiction-style",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "literary-particles",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=literary-particles",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "literary-temporal",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=literary-temporal",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "masu-stem",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=masu-stem",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "mono-family",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=mono-family",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-abstract-relations",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-abstract-relations",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-aux-suffixes",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-aux-suffixes",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-aux-verbs-elevated",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-aux-verbs-elevated",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-discourse",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-discourse",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-discourse-markers",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-discourse-markers",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-emphasis",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-emphasis",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-emphasis_set-phrases",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-emphasis_set-phrases",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-extent-degree",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-extent-degree",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-limit-only",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-limit-only",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-modality",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-modality",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-modality-advanced",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-modality-advanced",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-modality-judgement-advanced",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-modality-judgement-advanced",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-modality-stiff",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-modality-stiff",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-prefixes-counters",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-prefixes-counters",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-rare-elevated",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-rare-elevated",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-rare-relative",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-rare-relative",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-relative-clause",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-relative-clause",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-restriction",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-restriction",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-stiff-connectives",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-stiff-connectives",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-stiff-rare",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-stiff-rare",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n1-suffixes",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=n1-suffixes",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n2-misc",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=n2-misc",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n2-misc-discourse",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=n2-misc-discourse",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n2-set-phrases",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=n2-set-phrases",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n3-keigo-trans",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=n3-keigo-trans",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n3-misc",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=n3-misc",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n3-misc-conjunctions",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=n3-misc-conjunctions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n3-misc-modality",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=n3-misc-modality",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n3-misc-suffixes",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=n3-misc-suffixes",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n3-modality",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=n3-modality",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n4-misc",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=n4-misc",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n5-constructions",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=n5-constructions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "n5-misc",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=n5-misc",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "na-adjectives",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=na-adjectives",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "negation-stiff",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=negation-stiff",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "news-frozen-grammar",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=news-frozen-grammar",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "news-headline-grammar",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=news-headline-grammar",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "o-stem-ni-naru-suru",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=o-stem-ni-naru-suru",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "obligation",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=obligation",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "obligation-contractions",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=obligation-contractions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "onomatopoeia",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=onomatopoeia",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "particle-ellipsis",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=particle-ellipsis",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "particles",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=particles",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "passive",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=passive",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "passive-causative-advanced",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=passive-causative-advanced",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "passive-discourse",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=passive-discourse",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "phone-keigo",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=phone-keigo",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "pitch-accent",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=pitch-accent",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "pitch-accent-primer",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=pitch-accent-primer",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "potential",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=potential",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "pragmatic-contractions",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=pragmatic-contractions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "proverbs-yojijukugo",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=proverbs-yojijukugo",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "question-words",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=question-words",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "rare-stiff-aux",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=rare-stiff-aux",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "relative-nouns",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=relative-nouns",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sentence-final-softeners",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sentence-final-softeners",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sfp",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sfp",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sfp-aizuchi",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sfp-aizuchi",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sfp-aizuchi-contrast",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sfp-aizuchi-contrast",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sfp-core",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sfp-core",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sfp-gendered",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sfp-gendered",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "slang",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=slang",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sonkei-vs-kenjo",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sonkei-vs-kenjo",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "sonkeigo-verbs",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=sonkeigo-verbs",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "taru-gotoki",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=taru-gotoki",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "taru-gotoki-mokushikuwa",
+      "jlpt_level": "N1",
+      "url": "https://bunpro.jp/grammar_points?q=taru-gotoki-mokushikuwa",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "te-aux-family",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=te-aux-family",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "te-form",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=te-form",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "technical-prose",
+      "jlpt_level": "BEYOND",
+      "url": "https://bunpro.jp/grammar_points?q=technical-prose",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "teineigo-bikago",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=teineigo-bikago",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "temporal-conditional",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=temporal-conditional",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "temporal-formal",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=temporal-formal",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "temporal-na-uchini",
+      "jlpt_level": "N2",
+      "url": "https://bunpro.jp/grammar_points?q=temporal-na-uchini",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "time-expressions",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=time-expressions",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "tokoro",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=tokoro",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "tokoro-aspectual",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=tokoro-aspectual",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "tokoro-bakari-dake",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=tokoro-bakari-dake",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "tokoro-n3",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=tokoro-n3",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "transitive-intransitive",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=transitive-intransitive",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "uchi-aida",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=uchi-aida",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "uchi-ni",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=uchi-ni",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-group-1",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-group-1",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-group-2",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-group-2",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-groups",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-groups",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-irregular-iku",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-irregular-iku",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-irregular-kuru",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-irregular-kuru",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-irregular-suru",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-irregular-suru",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "verb-masu",
+      "jlpt_level": "N5",
+      "url": "https://bunpro.jp/grammar_points?q=verb-masu",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "voice",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=voice",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "volitional",
+      "jlpt_level": "N4",
+      "url": "https://bunpro.jp/grammar_points?q=volitional",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "wake-family",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=wake-family",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "wake-koto-mono",
+      "jlpt_level": "N3",
+      "url": "https://bunpro.jp/grammar_points?q=wake-koto-mono",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "youth-modifiers",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=youth-modifiers",
+      "summary": "Auto-linked from internal point taxonomy"
+    },
+    {
+      "point_slug": "youth-slang",
+      "jlpt_level": "N?",
+      "url": "https://bunpro.jp/grammar_points?q=youth-slang",
+      "summary": "Auto-linked from internal point taxonomy"
+    }
+  ]
 }

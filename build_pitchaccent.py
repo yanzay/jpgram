@@ -29,6 +29,11 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Iterable, Optional
 
+try:
+    from pykakasi import kakasi as _kakasi_factory
+except Exception:
+    _kakasi_factory = None
+
 WORDS_PATH = Path("media/words_index.json")
 OUT_PATH = Path("media/pitchaccent_index.json")
 REPORT_PATH = Path("research-reports/pitchaccent_coverage_report.md")
@@ -36,6 +41,7 @@ DATA_DIR = Path("data")
 OVERRIDES_PATH = Path("data/pitch-accent/overrides.json")
 
 INDEX_VERSION = 2
+_KAKASI_CONVERTER = None
 
 
 def _to_hiragana(s: str) -> str:
@@ -130,6 +136,25 @@ def _parse_int(s: str) -> Optional[int]:
     if s.isdigit():
         return int(s)
     return None
+
+
+def _kakasi_hiragana(token: str) -> str:
+    global _KAKASI_CONVERTER
+    if _kakasi_factory is None:
+        return ""
+    if _KAKASI_CONVERTER is None:
+        try:
+            kks = _kakasi_factory()
+            # v3 API supports convert(); keep object cached for speed.
+            _KAKASI_CONVERTER = kks
+        except Exception:
+            return ""
+    try:
+        parts = _KAKASI_CONVERTER.convert(token)
+        hira = "".join((p.get("hira") or "").strip() for p in parts if isinstance(p, dict))
+        return _normalize_reading(hira)
+    except Exception:
+        return ""
 
 
 def _accent_in_range(accent: int, reading: str) -> bool:
@@ -470,6 +495,20 @@ def _resolve_token(token: str, overrides: dict[str, dict],
                 derived_from = k
                 break
         if not candidates:
+            # Last-resort heuristic: reading from kakasi + heiban accent.
+            reading = _kakasi_hiragana(token)
+            if reading:
+                accent = 0
+                if _accent_in_range(accent, reading):
+                    return {
+                        "reading": reading,
+                        "accent": str(accent),
+                        "pattern": _accent_to_pattern(reading, accent),
+                        "source": "kakasi-heuristic",
+                        "confidence": "low",
+                        "sources_considered": [],
+                        "derived_from": token,
+                    }, meta
             return None, meta
 
     by_source: dict[str, list[dict]] = defaultdict(list)

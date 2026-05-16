@@ -63,11 +63,11 @@ def derive_path_tags(path: Path) -> list[str]:
             break
     # point slug = filename stem minus the trailing _<notetype>
     stem = path.stem
-    for nt in ("recognition", "production", "cloze", "contrast"):
+    for nt in ("recognition", "production", "cloze", "contrast", "listening", "dictation"):
         if stem.endswith(f"_{nt}"):
             stem = stem[: -len(nt) - 1]
             break
-    if stem:
+    if stem and not stem.startswith("module-"):
         tags.append(f"point:{stem}")
     return tags
 
@@ -211,7 +211,13 @@ def process_file(path: Path, dry_run: bool) -> int:
         # Compose all axes: path-derived + content-derived (per-row)
         jp = row[0]  # column 0 is JP for all note types except Production
         if "Sample" in header and path.stem.endswith("_production"):
-            jp = row[header.index("Sample")]
+            sample = row[header.index("Sample")]
+            if re.search(r"[一-龯ぁ-んァ-ン]", sample):
+                jp = sample
+            elif "Target" in header:
+                jp = row[header.index("Target")]
+            else:
+                jp = sample
         row_tags = list(path_tags)
         row_tags += derive_frequency_tag(jp)
         row_tags += derive_complexity_tag(jp)

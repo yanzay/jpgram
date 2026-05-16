@@ -4,27 +4,28 @@
 #notetype:Listening
 #deck:Japanese Grammar::10 - Onomatopoeia::Listening
 #
-[sound:e7676d6c3885.mp3]	ワクワク	わくわく	Excited/thrilled.	excited anticipation	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:e70e6f5442ae.mp3]	ハラハラ	はらはら	Nervous/anxious.	worried tension	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:55757f0eae7c.mp3]	イライラ	いらいら	Annoyed/frustrated.	frustrated anger	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:5969d0688239.mp3]	ドキドキ	どきどき	Excited/nervous heart.	thrilled or scared	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:ff9ca079aadd.mp3]	ボーッ	ぼーっ	Dazed/blank.	spaced out	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:6448d235a307.mp3]	パサパサ	ぱさぱさ	Dry/uninspired.	parched feeling	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:65d2d2c94da4.mp3]	ゲッソリ	げっそり	Haggard/exhausted.	worn out	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:de6e2010b9d3.mp3]	ダラダラ	だらだら	Lazy/sluggish.	sluggish mood	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog barking	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:b52e76022102.mp3]	ニャーニャー	にゃーにゃー	Meow meow.	cat crying	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:9c6d1a4da546.mp3]	ガチャン	がちゃん	Clang/click.	impact sound	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:938a3cd2d0da.mp3]	ゴロゴロ	ごろごろ	Rumble/rolling.	deep rolling	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:5969d0688239.mp3]	ドキドキ	どきどき	Thump/pounding.	rapid pulse	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:9d4f1cd9c7a2.mp3]	ザーザー	ざーざー	Pouring/streaming.	downpour	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:ddd98d823fd2.mp3]	シッシッ	しっしっ	Shoo/go away.	dismissive sound	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:a8e06dc996d1.mp3]	チョロチョロ	ちょろちょろ	Trickling.	trickle of liquid	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:47d9e36d59dd.mp3]	ニャー	にゃー	Meow.	cat sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:93b6dedc98e1.mp3]	コケコッコー	こけこっこー	Cock-a-doodle-doo.	rooster dawn	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:b88990383761.mp3]	ケロケロ	けろけろ	Ribbit ribbit.	frog pond	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:2014291e78d6.mp3]	モーモー	もーもー	Moo.	bovine sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:c290aa4fc780.mp3]	ブーブー	ぶーぶー	Oink oink.	porcine sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:98eeb9025bd8.mp3]	チュンチュン	ちゅんちゅん	Chirp chirp.	sparrow tweet	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
-[sound:f66b1943c4da.mp3]	ヒーヒー	ひーひー	Neigh/whinny.	equine call	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar point:module-listening_listening complexity:standard
+
+[sound:e7676d6c3885.mp3]	ワクワク	わくわく	Excited/thrilled.	excited anticipation	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:e70e6f5442ae.mp3]	ハラハラ	はらはら	Nervous/anxious.	worried tension	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:55757f0eae7c.mp3]	イライラ	いらいら	Annoyed/frustrated.	frustrated anger	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:5969d0688239.mp3]	ドキドキ	どきどき	Excited/nervous heart.	thrilled or scared	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:ff9ca079aadd.mp3]	ボーッ	ぼーっ	Dazed/blank.	spaced out	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:6448d235a307.mp3]	パサパサ	ぱさぱさ	Dry/uninspired.	parched feeling	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:65d2d2c94da4.mp3]	ゲッソリ	げっそり	Haggard/exhausted.	worn out	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:de6e2010b9d3.mp3]	ダラダラ	だらだら	Lazy/sluggish.	sluggish mood	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog barking	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:b52e76022102.mp3]	ニャーニャー	にゃーにゃー	Meow meow.	cat crying	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:9c6d1a4da546.mp3]	ガチャン	がちゃん	Clang/click.	impact sound	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:938a3cd2d0da.mp3]	ゴロゴロ	ごろごろ	Rumble/rolling.	deep rolling	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:5969d0688239.mp3]	ドキドキ	どきどき	Thump/pounding.	rapid pulse	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:9d4f1cd9c7a2.mp3]	ザーザー	ざーざー	Pouring/streaming.	downpour	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:ddd98d823fd2.mp3]	シッシッ	しっしっ	Shoo/go away.	dismissive sound	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:a8e06dc996d1.mp3]	チョロチョロ	ちょろちょろ	Trickling.	trickle of liquid	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:47d9e36d59dd.mp3]	ニャー	にゃー	Meow.	cat sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:93b6dedc98e1.mp3]	コケコッコー	こけこっこー	Cock-a-doodle-doo.	rooster dawn	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:b88990383761.mp3]	ケロケロ	けろけろ	Ribbit ribbit.	frog pond	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:2014291e78d6.mp3]	モーモー	もーもー	Moo.	bovine sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:c290aa4fc780.mp3]	ブーブー	ぶーぶー	Oink oink.	porcine sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:98eeb9025bd8.mp3]	チュンチュン	ちゅんちゅん	Chirp chirp.	sparrow tweet	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:f66b1943c4da.mp3]	ヒーヒー	ひーひー	Neigh/whinny.	equine call	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard

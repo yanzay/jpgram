@@ -4,18 +4,19 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Say: 'Can you speak Japanese?'	日本語が話せますか？	にほんごがはなせますか？	Can speak Japanese?	potential form	[sound:c06d7010fdea.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'I can't cook'	私は料理ができません。	わたしはりょうりができません。	Can't cook	できる = to be able	[sound:c2102d619e53.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
-Say: 'Please sit down'	座ってください。	すわってください。	Please sit down	te-form + ください	[sound:7d7c39d8e25a.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'May I come in?'	入ってもいいですか？	はいってもいいですか？	May I enter?	ても+いい=allowed	[sound:74916bea0406.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
-Say: 'I don't like fish'	私は魚が好きではありません。	わたしはさかながすきではありません。	Don't like fish	好きな negative	[sound:761d1251c41b.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'There is a cat'	猫がいます。	ねこがいます。	There is a cat	ある/いる=existence	[sound:e4594e2b75f9.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
-Say: 'This book is mine'	この本は私のです。	このほんはわたしのです。	This book is mine	の=possession	[sound:443ad40559ff.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'I'm tired'	私は疲れています。	わたしはつかれています。	Am tired	te-iru=state	[sound:b8d29eba18fe.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
-Say: 'The door is open'	ドアは開いています。	どあはあいています。	Door is open	te-iru=state	[sound:314d3b3a015b.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
-Say: 'I am studying now'	私は今勉強しています。	わたしはいまべんきょうしています。	Am studying now	te-iru=ongoing	[sound:ed322fdef3e4.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'What time is it?'	今何時ですか？	いままなじですか？	What time is it?	何時=what time	[sound:a18081d2dd02.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'It looks delicious'	おいしそうです。	おいしそうです。	Looks delicious	そう=appearance	[sound:31076631c590.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'The sky seems blue'	空は青そうです。	そらはあおそうです。	Sky seems blue	そう=appears	[sound:8d2ff446e3ad.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'I was about to sleep'	私はちょうど寝ようとしていました。	わたしはちょうどねようとしていました。	Was about to sleep	とする=about to	[sound:d34a1b2f37bd.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen
-Say: 'I need to study'	もっと勉強する必要があります。	もっとべんきょうするひつようがあります。	Need to study	necessity	[sound:9dcc886b7b2e.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
+
+Say: 'Can you speak Japanese?'	日本語が話せますか？	にほんごがはなせますか？	日本語が話せますか？	potential form	[sound:fe4cdfd95699.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+Say: 'I can't cook'	私は料理ができません。	わたしはりょうりができません。	私は料理ができません。	できる = to be able	[sound:e340d55d59b5.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen frequency:top1k
+Say: 'Please sit down'	座ってください。	すわってください。	座ってください。	te-form + ください	[sound:9f7d8a473225.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen complexity:intro
+Say: 'May I come in?'	入ってもいいですか？	はいってもいいですか？	入ってもいいですか？	ても+いい=allowed	[sound:1faac10c9f26.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen
+Say: 'I don't like fish'	私は魚が好きではありません。	わたしはさかながすきではありません。	私は魚が好きではありません。	好きな negative	[sound:89ff6979f6d9.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top1k
+Say: 'There is a cat'	猫がいます。	ねこがいます。	猫がいます。	ある/いる=existence	[sound:50172ce2ea62.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen frequency:top1k
+Say: 'This book is mine'	この本は私のです。	このほんはわたしのです。	この本は私のです。	の=possession	[sound:46b882205003.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say: 'I'm tired'	私は疲れています。	わたしはつかれています。	私は疲れています。	te-iru=state	[sound:11ef34528bb7.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen frequency:top10k
+Say: 'The door is open'	ドアは開いています。	どあはあいています。	ドアは開いています。	te-iru=state	[sound:9cfef33888cf.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen frequency:top1k
+Say: 'I am studying now'	私は今勉強しています。	わたしはいまべんきょうしています。	私は今勉強しています。	te-iru=ongoing	[sound:23dcaf79558c.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say: 'What time is it?'	今何時ですか？	いままなじですか？	今何時ですか？	何時=what time	[sound:51056f781a98.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say: 'It looks delicious'	おいしそうです。	おいしそうです。	おいしそうです。	そう=appearance	[sound:3ce39745c7e5.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen complexity:intro
+Say: 'The sky seems blue'	空は青そうです。	そらはあおそうです。	空は青そうです。	そう=appears	[sound:bb2219bbfa19.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say: 'I was about to sleep'	私はちょうど寝ようとしていました。	わたしはちょうどねようとしていました。	私はちょうど寝ようとしていました。	とする=about to	[sound:30dbeed5f877.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:standard source:shin-kanzen frequency:top1k
+Say: 'I need to study'	もっと勉強する必要があります。	もっとべんきょうするひつようがあります。	もっと勉強する必要があります。	necessity	[sound:13d0b0f3dd7b.mp3]	module:01-n5 jlpt:n5 point:n5-misc complexity:intro source:shin-kanzen frequency:top5k complexity:standard

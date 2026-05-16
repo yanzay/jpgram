@@ -148,6 +148,7 @@ def load_tsv(path: Path):
 
 
 _CLOZE_RE = re.compile(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}")
+_JP_CHAR_RE = re.compile(r"[一-龯ぁ-んァ-ン]")
 
 
 def collect_sentences() -> List[str]:
@@ -177,8 +178,14 @@ def collect_sentences() -> List[str]:
             if not row:
                 continue
             # Pick the source column to synthesize from.
-            if is_prod and header and "Sample" in header and len(row) > header.index("Sample"):
-                jp = row[header.index("Sample")].strip()
+            if is_prod and header and "Sample" in header and "Target" in header:
+                sample_idx = header.index("Sample")
+                target_idx = header.index("Target")
+                sample = row[sample_idx].strip() if len(row) > sample_idx else ""
+                target = row[target_idx].strip() if len(row) > target_idx else ""
+                # Some production rows mistakenly contain English in Sample.
+                # Prefer Sample when it is Japanese; otherwise fall back to Target.
+                jp = sample if sample and _JP_CHAR_RE.search(sample) else (target or sample)
             else:
                 jp = row[0].strip()
             if not jp:
@@ -186,7 +193,7 @@ def collect_sentences() -> List[str]:
             if is_cloze:
                 jp = _CLOZE_RE.sub(r"\1", jp)
             if is_contrast and header and "Answer" in header and len(row) > header.index("Answer"):
-                ans = row[header.index("Answer")]
+                ans = row[header.index("Answer")].strip()
                 jp = jp.replace("___", ans)
             sentences.add(jp)
     return sorted(sentences)

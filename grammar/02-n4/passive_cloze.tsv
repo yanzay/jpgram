@@ -4,18 +4,18 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-exampleぜろ{{c1::られた}}。	exampleぜろられた。	hint	[sound:eda803d38ca5.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleいち{{c1::られた}}。	exampleいちられた。	hint	[sound:fbd49c04d495.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleに{{c1::られた}}。	exampleにられた。	hint	[sound:e01889254860.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleさん{{c1::られた}}。	exampleさんられた。	hint	[sound:00d4b36444f7.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleし{{c1::られた}}。	exampleしられた。	hint	[sound:e34970108752.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleご{{c1::られた}}。	exampleごられた。	hint	[sound:b312c8985752.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleろく{{c1::られた}}。	exampleろくられた。	hint	[sound:6225bff21431.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleしち{{c1::られた}}。	exampleしちられた。	hint	[sound:9a482f0986c1.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleはち{{c1::られた}}。	exampleはちられた。	hint	[sound:8447b64353fa.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleきゅう{{c1::られた}}。	exampleきゅうられた。	hint	[sound:f107fefb3c37.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleいちぜろ{{c1::られた}}。	exampleいちぜろられた。	hint	[sound:d7a7566284f1.mp3]	module:02-n4 jlpt:n4 point:passive complexity:standard source:shin-kanzen
-exampleいちいち{{c1::られた}}。	exampleいちいちられた。	hint	[sound:7ec9ad58c2ff.mp3]	module:02-n4 jlpt:n4 point:passive complexity:standard source:shin-kanzen
-exampleいちに{{c1::られた}}。	exampleいちにられた。	hint	[sound:27f40441d4a5.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
-exampleいちさん{{c1::られた}}。	exampleいちさんられた。	hint	[sound:867993c11d5f.mp3]	module:02-n4 jlpt:n4 point:passive complexity:standard source:shin-kanzen
-exampleいちし{{c1::られた}}。	exampleいちしられた。	hint	[sound:343d3011b7f8.mp3]	module:02-n4 jlpt:n4 point:passive complexity:intro source:shin-kanzen
+{{c1::先生に誉められた。}}	せんせいにほめられた。	direct passive with agent	[sound:d01561c3c2c0.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::窓は風に壊された。}}	まどはかぜにこわされた。	direct passive inanimate agent	[sound:2bac5463bb7d.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::彼に待たされた。}}	かれにまたされた。	suffering passive	[sound:a2a1d11a4f1f.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::猫は犬に追われた。}}	ねこはいぬにおわれた。	direct passive animal	[sound:d8870cf1b8cd.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::その知らせに驚かされた。}}	そのしらせにおどろかされた。	emotional suffering passive	[sound:97c42f009d1b.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::建物は火災に破壊された。}}	たてものはかさいにはかいされた。	direct passive disaster	[sound:7c85de3ab013.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:low complexity:intro
+{{c1::彼女は同僚に手伝われた。}}	かのじょはどうりょうにてつだわれた。	benefactive passive	[sound:8b2ee3cfbec4.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::上司に怒られた。}}	じょうしにいかられた。	suffering passive negative	[sound:7931d430f2d1.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::プロジェクトはチームに完成させられた。}}	ぷろじぇくとはちーむにかんせいさせられた。	direct passive group agent	[sound:71c3ddf113e1.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::その音に邪魔されて困った。}}	そのおとにじゃまされてこまった。	suffering passive inconvenience	[sound:184038e91a3c.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::手紙は昨日受け取られた。}}	てがみはきのううけとられた。	direct passive	[sound:47ac5ba6fe03.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::パーティーに招待された。}}	ぱーてぃーにしょうたいされた。	direct passive event	[sound:76be6c18500b.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::彼のコメントに困らされた。}}	かのこめんとにこまらされた。	suffering passive irritation	[sound:3dd4748657a1.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
+{{c1::会社にルールを変えられた。}}	かいしゃにるーるをかえられた。	suffering passive with object	[sound:aa1386a857a4.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::彼女は間違いで批判された。}}	かのじょはまちがいでひはんされた。	direct passive evaluation	[sound:fd55e3b4d082.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro

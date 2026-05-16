@@ -1,6 +1,1197 @@
 {
   "source": "https://www.imabi.org/",
-  "note": "Parsed from Imabi comprehensive grammar syllabus TOC",
-  "lessons": [],
-  "parsing_status": "manual-verification-needed"
+  "generated_from": "data/grammar_taxonomy.tsv",
+  "entries": [
+    {
+      "slug": "academic-jargon",
+      "url": "https://www.imabi.org/search?q=academic-jargon",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "adjectives",
+      "url": "https://www.imabi.org/search?q=adjectives",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "advice-experience",
+      "url": "https://www.imabi.org/search?q=advice-experience",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "aizuchi-back-channels",
+      "url": "https://www.imabi.org/search?q=aizuchi-back-channels",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "aspectual-contractions",
+      "url": "https://www.imabi.org/search?q=aspectual-contractions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "attendant-stiff",
+      "url": "https://www.imabi.org/search?q=attendant-stiff",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "bakari-dake-shika",
+      "url": "https://www.imabi.org/search?q=bakari-dake-shika",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "bakari-extensions",
+      "url": "https://www.imabi.org/search?q=bakari-extensions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "benefactive",
+      "url": "https://www.imabi.org/search?q=benefactive",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "beyond-n1",
+      "url": "https://www.imabi.org/search?q=beyond-n1",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "business-phrases",
+      "url": "https://www.imabi.org/search?q=business-phrases",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "business-set-phrases",
+      "url": "https://www.imabi.org/search?q=business-set-phrases",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "casual",
+      "url": "https://www.imabi.org/search?q=casual",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "casual-questions",
+      "url": "https://www.imabi.org/search?q=casual-questions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "casual-vulgar",
+      "url": "https://www.imabi.org/search?q=casual-vulgar",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "causal-result",
+      "url": "https://www.imabi.org/search?q=causal-result",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "causative",
+      "url": "https://www.imabi.org/search?q=causative",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "causative-passive",
+      "url": "https://www.imabi.org/search?q=causative-passive",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "classical",
+      "url": "https://www.imabi.org/search?q=classical",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "classical-aux-verbs",
+      "url": "https://www.imabi.org/search?q=classical-aux-verbs",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "classical-carryover",
+      "url": "https://www.imabi.org/search?q=classical-carryover",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "classical-negation",
+      "url": "https://www.imabi.org/search?q=classical-negation",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "classical-particles-conjugations",
+      "url": "https://www.imabi.org/search?q=classical-particles-conjugations",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "classical-text",
+      "url": "https://www.imabi.org/search?q=classical-text",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "concessive",
+      "url": "https://www.imabi.org/search?q=concessive",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "concessive-noni",
+      "url": "https://www.imabi.org/search?q=concessive-noni",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "concessive-others",
+      "url": "https://www.imabi.org/search?q=concessive-others",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "conditional",
+      "url": "https://www.imabi.org/search?q=conditional",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "conditional-ba",
+      "url": "https://www.imabi.org/search?q=conditional-ba",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "conditional-formal",
+      "url": "https://www.imabi.org/search?q=conditional-formal",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "conditional-nara",
+      "url": "https://www.imabi.org/search?q=conditional-nara",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "conditional-tara",
+      "url": "https://www.imabi.org/search?q=conditional-tara",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "conditional-to",
+      "url": "https://www.imabi.org/search?q=conditional-to",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula",
+      "url": "https://www.imabi.org/search?q=copula",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-da",
+      "url": "https://www.imabi.org/search?q=copula-da",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-datta",
+      "url": "https://www.imabi.org/search?q=copula-datta",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-dearimsen",
+      "url": "https://www.imabi.org/search?q=copula-dearimsen",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-dearimsendesita",
+      "url": "https://www.imabi.org/search?q=copula-dearimsendesita",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-degozaimasu",
+      "url": "https://www.imabi.org/search?q=copula-degozaimasu",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-demoarimasu",
+      "url": "https://www.imabi.org/search?q=copula-demoarimasu",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-denai",
+      "url": "https://www.imabi.org/search?q=copula-denai",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-denakatta",
+      "url": "https://www.imabi.org/search?q=copula-denakatta",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-desita",
+      "url": "https://www.imabi.org/search?q=copula-desita",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-desitara",
+      "url": "https://www.imabi.org/search?q=copula-desitara",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-desite",
+      "url": "https://www.imabi.org/search?q=copula-desite",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-desu",
+      "url": "https://www.imabi.org/search?q=copula-desu",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-janai",
+      "url": "https://www.imabi.org/search?q=copula-janai",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-janakatta",
+      "url": "https://www.imabi.org/search?q=copula-janakatta",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-nara",
+      "url": "https://www.imabi.org/search?q=copula-nara",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-nari",
+      "url": "https://www.imabi.org/search?q=copula-nari",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-tari",
+      "url": "https://www.imabi.org/search?q=copula-tari",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "copula-te",
+      "url": "https://www.imabi.org/search?q=copula-te",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "counters",
+      "url": "https://www.imabi.org/search?q=counters",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "customer-service-phrases",
+      "url": "https://www.imabi.org/search?q=customer-service-phrases",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "dake-shika",
+      "url": "https://www.imabi.org/search?q=dake-shika",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-aa",
+      "url": "https://www.imabi.org/search?q=demonstrative-aa",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-anna",
+      "url": "https://www.imabi.org/search?q=demonstrative-anna",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-ano",
+      "url": "https://www.imabi.org/search?q=demonstrative-ano",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-are",
+      "url": "https://www.imabi.org/search?q=demonstrative-are",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-asoko",
+      "url": "https://www.imabi.org/search?q=demonstrative-asoko",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-doko",
+      "url": "https://www.imabi.org/search?q=demonstrative-doko",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-donna",
+      "url": "https://www.imabi.org/search?q=demonstrative-donna",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-dono",
+      "url": "https://www.imabi.org/search?q=demonstrative-dono",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-dore",
+      "url": "https://www.imabi.org/search?q=demonstrative-dore",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-dou",
+      "url": "https://www.imabi.org/search?q=demonstrative-dou",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-koko",
+      "url": "https://www.imabi.org/search?q=demonstrative-koko",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-konna",
+      "url": "https://www.imabi.org/search?q=demonstrative-konna",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-kono",
+      "url": "https://www.imabi.org/search?q=demonstrative-kono",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-kore",
+      "url": "https://www.imabi.org/search?q=demonstrative-kore",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-kou",
+      "url": "https://www.imabi.org/search?q=demonstrative-kou",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-rule-a",
+      "url": "https://www.imabi.org/search?q=demonstrative-rule-a",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-rule-do",
+      "url": "https://www.imabi.org/search?q=demonstrative-rule-do",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-rule-ko",
+      "url": "https://www.imabi.org/search?q=demonstrative-rule-ko",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-rule-so",
+      "url": "https://www.imabi.org/search?q=demonstrative-rule-so",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-soko",
+      "url": "https://www.imabi.org/search?q=demonstrative-soko",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-sonna",
+      "url": "https://www.imabi.org/search?q=demonstrative-sonna",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-sono",
+      "url": "https://www.imabi.org/search?q=demonstrative-sono",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-sore",
+      "url": "https://www.imabi.org/search?q=demonstrative-sore",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstrative-sou",
+      "url": "https://www.imabi.org/search?q=demonstrative-sou",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "demonstratives",
+      "url": "https://www.imabi.org/search?q=demonstratives",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "editorial-style",
+      "url": "https://www.imabi.org/search?q=editorial-style",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "embedded-questions",
+      "url": "https://www.imabi.org/search?q=embedded-questions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "emotional-onomatopoeia",
+      "url": "https://www.imabi.org/search?q=emotional-onomatopoeia",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "evidentials",
+      "url": "https://www.imabi.org/search?q=evidentials",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "evidentials-modality",
+      "url": "https://www.imabi.org/search?q=evidentials-modality",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "evidentials-n3",
+      "url": "https://www.imabi.org/search?q=evidentials-n3",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "evidentials-other",
+      "url": "https://www.imabi.org/search?q=evidentials-other",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "evidentials-sou",
+      "url": "https://www.imabi.org/search?q=evidentials-sou",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "extended-particles",
+      "url": "https://www.imabi.org/search?q=extended-particles",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "extent-degree",
+      "url": "https://www.imabi.org/search?q=extent-degree",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "extent-inference",
+      "url": "https://www.imabi.org/search?q=extent-inference",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "extremity-emphasis",
+      "url": "https://www.imabi.org/search?q=extremity-emphasis",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-attendant",
+      "url": "https://www.imabi.org/search?q=formal-attendant",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-attendant-stiff-cloze",
+      "url": "https://www.imabi.org/search?q=formal-attendant-stiff-cloze",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-causal",
+      "url": "https://www.imabi.org/search?q=formal-causal",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-causal-cloze",
+      "url": "https://www.imabi.org/search?q=formal-causal-cloze",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-causal-contrast",
+      "url": "https://www.imabi.org/search?q=formal-causal-contrast",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-condition",
+      "url": "https://www.imabi.org/search?q=formal-condition",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-condition-restriction",
+      "url": "https://www.imabi.org/search?q=formal-condition-restriction",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-conjunctions",
+      "url": "https://www.imabi.org/search?q=formal-conjunctions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-explicative",
+      "url": "https://www.imabi.org/search?q=formal-explicative",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-modality",
+      "url": "https://www.imabi.org/search?q=formal-modality",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-modality-attempt",
+      "url": "https://www.imabi.org/search?q=formal-modality-attempt",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-modality-have-to",
+      "url": "https://www.imabi.org/search?q=formal-modality-have-to",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-modality-judgement",
+      "url": "https://www.imabi.org/search?q=formal-modality-judgement",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-result",
+      "url": "https://www.imabi.org/search?q=formal-result",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-stiff",
+      "url": "https://www.imabi.org/search?q=formal-stiff",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "formal-stiff-contrast",
+      "url": "https://www.imabi.org/search?q=formal-stiff-contrast",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "gen-z-slang",
+      "url": "https://www.imabi.org/search?q=gen-z-slang",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "giongo-sounds",
+      "url": "https://www.imabi.org/search?q=giongo-sounds",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "giseigo-voices",
+      "url": "https://www.imabi.org/search?q=giseigo-voices",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "gitaigo-states",
+      "url": "https://www.imabi.org/search?q=gitaigo-states",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "giving-receiving",
+      "url": "https://www.imabi.org/search?q=giving-receiving",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "gyaru-words",
+      "url": "https://www.imabi.org/search?q=gyaru-words",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "humble-elevation-stacking",
+      "url": "https://www.imabi.org/search?q=humble-elevation-stacking",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "i-adjectives",
+      "url": "https://www.imabi.org/search?q=i-adjectives",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "inference-extent",
+      "url": "https://www.imabi.org/search?q=inference-extent",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "interjections",
+      "url": "https://www.imabi.org/search?q=interjections",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "internet-slang",
+      "url": "https://www.imabi.org/search?q=internet-slang",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "iru-eru-stiff",
+      "url": "https://www.imabi.org/search?q=iru-eru-stiff",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "kana",
+      "url": "https://www.imabi.org/search?q=kana",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "kanbun-yomi",
+      "url": "https://www.imabi.org/search?q=kanbun-yomi",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "kansai-basics",
+      "url": "https://www.imabi.org/search?q=kansai-basics",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "keigo",
+      "url": "https://www.imabi.org/search?q=keigo",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "keigo-stacking",
+      "url": "https://www.imabi.org/search?q=keigo-stacking",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "kenjogo-verbs",
+      "url": "https://www.imabi.org/search?q=kenjogo-verbs",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "koto-mono",
+      "url": "https://www.imabi.org/search?q=koto-mono",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "koto-nominalisations",
+      "url": "https://www.imabi.org/search?q=koto-nominalisations",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-articles-and-number",
+      "url": "https://www.imabi.org/search?q=l1-articles-and-number",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-givereceive-direction",
+      "url": "https://www.imabi.org/search?q=l1-givereceive-direction",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-modality-mismatch",
+      "url": "https://www.imabi.org/search?q=l1-modality-mismatch",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-particles-overlap",
+      "url": "https://www.imabi.org/search?q=l1-particles-overlap",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-pronoun-overuse",
+      "url": "https://www.imabi.org/search?q=l1-pronoun-overuse",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-relative-clauses",
+      "url": "https://www.imabi.org/search?q=l1-relative-clauses",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-tense-aspect",
+      "url": "https://www.imabi.org/search?q=l1-tense-aspect",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "l1-yes-no_negative-questions",
+      "url": "https://www.imabi.org/search?q=l1-yes-no_negative-questions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "legal-formal-set-phrases",
+      "url": "https://www.imabi.org/search?q=legal-formal-set-phrases",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "listing-extremity",
+      "url": "https://www.imabi.org/search?q=listing-extremity",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "listing-formal",
+      "url": "https://www.imabi.org/search?q=listing-formal",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "literary-fiction-style",
+      "url": "https://www.imabi.org/search?q=literary-fiction-style",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "literary-particles",
+      "url": "https://www.imabi.org/search?q=literary-particles",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "literary-temporal",
+      "url": "https://www.imabi.org/search?q=literary-temporal",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "masu-stem",
+      "url": "https://www.imabi.org/search?q=masu-stem",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "mono-family",
+      "url": "https://www.imabi.org/search?q=mono-family",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-abstract-relations",
+      "url": "https://www.imabi.org/search?q=n1-abstract-relations",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-aux-suffixes",
+      "url": "https://www.imabi.org/search?q=n1-aux-suffixes",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-aux-verbs-elevated",
+      "url": "https://www.imabi.org/search?q=n1-aux-verbs-elevated",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-discourse",
+      "url": "https://www.imabi.org/search?q=n1-discourse",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-discourse-markers",
+      "url": "https://www.imabi.org/search?q=n1-discourse-markers",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-emphasis",
+      "url": "https://www.imabi.org/search?q=n1-emphasis",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-emphasis_set-phrases",
+      "url": "https://www.imabi.org/search?q=n1-emphasis_set-phrases",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-extent-degree",
+      "url": "https://www.imabi.org/search?q=n1-extent-degree",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-limit-only",
+      "url": "https://www.imabi.org/search?q=n1-limit-only",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-modality",
+      "url": "https://www.imabi.org/search?q=n1-modality",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-modality-advanced",
+      "url": "https://www.imabi.org/search?q=n1-modality-advanced",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-modality-judgement-advanced",
+      "url": "https://www.imabi.org/search?q=n1-modality-judgement-advanced",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-modality-stiff",
+      "url": "https://www.imabi.org/search?q=n1-modality-stiff",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-prefixes-counters",
+      "url": "https://www.imabi.org/search?q=n1-prefixes-counters",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-rare-elevated",
+      "url": "https://www.imabi.org/search?q=n1-rare-elevated",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-rare-relative",
+      "url": "https://www.imabi.org/search?q=n1-rare-relative",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-relative-clause",
+      "url": "https://www.imabi.org/search?q=n1-relative-clause",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-restriction",
+      "url": "https://www.imabi.org/search?q=n1-restriction",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-stiff-connectives",
+      "url": "https://www.imabi.org/search?q=n1-stiff-connectives",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-stiff-rare",
+      "url": "https://www.imabi.org/search?q=n1-stiff-rare",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n1-suffixes",
+      "url": "https://www.imabi.org/search?q=n1-suffixes",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n2-misc",
+      "url": "https://www.imabi.org/search?q=n2-misc",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n2-misc-discourse",
+      "url": "https://www.imabi.org/search?q=n2-misc-discourse",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n2-set-phrases",
+      "url": "https://www.imabi.org/search?q=n2-set-phrases",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n3-keigo-trans",
+      "url": "https://www.imabi.org/search?q=n3-keigo-trans",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n3-misc",
+      "url": "https://www.imabi.org/search?q=n3-misc",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n3-misc-conjunctions",
+      "url": "https://www.imabi.org/search?q=n3-misc-conjunctions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n3-misc-modality",
+      "url": "https://www.imabi.org/search?q=n3-misc-modality",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n3-misc-suffixes",
+      "url": "https://www.imabi.org/search?q=n3-misc-suffixes",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n3-modality",
+      "url": "https://www.imabi.org/search?q=n3-modality",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n4-misc",
+      "url": "https://www.imabi.org/search?q=n4-misc",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n5-constructions",
+      "url": "https://www.imabi.org/search?q=n5-constructions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "n5-misc",
+      "url": "https://www.imabi.org/search?q=n5-misc",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "na-adjectives",
+      "url": "https://www.imabi.org/search?q=na-adjectives",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "negation-stiff",
+      "url": "https://www.imabi.org/search?q=negation-stiff",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "news-frozen-grammar",
+      "url": "https://www.imabi.org/search?q=news-frozen-grammar",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "news-headline-grammar",
+      "url": "https://www.imabi.org/search?q=news-headline-grammar",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "o-stem-ni-naru-suru",
+      "url": "https://www.imabi.org/search?q=o-stem-ni-naru-suru",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "obligation",
+      "url": "https://www.imabi.org/search?q=obligation",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "obligation-contractions",
+      "url": "https://www.imabi.org/search?q=obligation-contractions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "onomatopoeia",
+      "url": "https://www.imabi.org/search?q=onomatopoeia",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "particle-ellipsis",
+      "url": "https://www.imabi.org/search?q=particle-ellipsis",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "particles",
+      "url": "https://www.imabi.org/search?q=particles",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "passive",
+      "url": "https://www.imabi.org/search?q=passive",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "passive-causative-advanced",
+      "url": "https://www.imabi.org/search?q=passive-causative-advanced",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "passive-discourse",
+      "url": "https://www.imabi.org/search?q=passive-discourse",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "phone-keigo",
+      "url": "https://www.imabi.org/search?q=phone-keigo",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "pitch-accent",
+      "url": "https://www.imabi.org/search?q=pitch-accent",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "pitch-accent-primer",
+      "url": "https://www.imabi.org/search?q=pitch-accent-primer",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "potential",
+      "url": "https://www.imabi.org/search?q=potential",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "pragmatic-contractions",
+      "url": "https://www.imabi.org/search?q=pragmatic-contractions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "proverbs-yojijukugo",
+      "url": "https://www.imabi.org/search?q=proverbs-yojijukugo",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "question-words",
+      "url": "https://www.imabi.org/search?q=question-words",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "rare-stiff-aux",
+      "url": "https://www.imabi.org/search?q=rare-stiff-aux",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "relative-nouns",
+      "url": "https://www.imabi.org/search?q=relative-nouns",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sentence-final-softeners",
+      "url": "https://www.imabi.org/search?q=sentence-final-softeners",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sfp",
+      "url": "https://www.imabi.org/search?q=sfp",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sfp-aizuchi",
+      "url": "https://www.imabi.org/search?q=sfp-aizuchi",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sfp-aizuchi-contrast",
+      "url": "https://www.imabi.org/search?q=sfp-aizuchi-contrast",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sfp-core",
+      "url": "https://www.imabi.org/search?q=sfp-core",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sfp-gendered",
+      "url": "https://www.imabi.org/search?q=sfp-gendered",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "slang",
+      "url": "https://www.imabi.org/search?q=slang",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sonkei-vs-kenjo",
+      "url": "https://www.imabi.org/search?q=sonkei-vs-kenjo",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "sonkeigo-verbs",
+      "url": "https://www.imabi.org/search?q=sonkeigo-verbs",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "taru-gotoki",
+      "url": "https://www.imabi.org/search?q=taru-gotoki",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "taru-gotoki-mokushikuwa",
+      "url": "https://www.imabi.org/search?q=taru-gotoki-mokushikuwa",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "te-aux-family",
+      "url": "https://www.imabi.org/search?q=te-aux-family",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "te-form",
+      "url": "https://www.imabi.org/search?q=te-form",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "technical-prose",
+      "url": "https://www.imabi.org/search?q=technical-prose",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "teineigo-bikago",
+      "url": "https://www.imabi.org/search?q=teineigo-bikago",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "temporal-conditional",
+      "url": "https://www.imabi.org/search?q=temporal-conditional",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "temporal-formal",
+      "url": "https://www.imabi.org/search?q=temporal-formal",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "temporal-na-uchini",
+      "url": "https://www.imabi.org/search?q=temporal-na-uchini",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "time-expressions",
+      "url": "https://www.imabi.org/search?q=time-expressions",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "tokoro",
+      "url": "https://www.imabi.org/search?q=tokoro",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "tokoro-aspectual",
+      "url": "https://www.imabi.org/search?q=tokoro-aspectual",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "tokoro-bakari-dake",
+      "url": "https://www.imabi.org/search?q=tokoro-bakari-dake",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "tokoro-n3",
+      "url": "https://www.imabi.org/search?q=tokoro-n3",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "transitive-intransitive",
+      "url": "https://www.imabi.org/search?q=transitive-intransitive",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "uchi-aida",
+      "url": "https://www.imabi.org/search?q=uchi-aida",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "uchi-ni",
+      "url": "https://www.imabi.org/search?q=uchi-ni",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-group-1",
+      "url": "https://www.imabi.org/search?q=verb-group-1",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-group-2",
+      "url": "https://www.imabi.org/search?q=verb-group-2",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-groups",
+      "url": "https://www.imabi.org/search?q=verb-groups",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-irregular-iku",
+      "url": "https://www.imabi.org/search?q=verb-irregular-iku",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-irregular-kuru",
+      "url": "https://www.imabi.org/search?q=verb-irregular-kuru",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-irregular-suru",
+      "url": "https://www.imabi.org/search?q=verb-irregular-suru",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "verb-masu",
+      "url": "https://www.imabi.org/search?q=verb-masu",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "voice",
+      "url": "https://www.imabi.org/search?q=voice",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "volitional",
+      "url": "https://www.imabi.org/search?q=volitional",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "wake-family",
+      "url": "https://www.imabi.org/search?q=wake-family",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "wake-koto-mono",
+      "url": "https://www.imabi.org/search?q=wake-koto-mono",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "youth-modifiers",
+      "url": "https://www.imabi.org/search?q=youth-modifiers",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    },
+    {
+      "slug": "youth-slang",
+      "url": "https://www.imabi.org/search?q=youth-slang",
+      "note": "search URL fallback (local TOC cache unavailable)"
+    }
+  ],
+  "parsing_status": "search-fallback-generated"
 }

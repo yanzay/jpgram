@@ -32,12 +32,16 @@ from build_anki_package import NOTE_TYPES, detect_note_type
 GRAMMAR_DIR = Path("grammar")
 MEDIA_DIR = Path("media/audio")
 MANIFEST_PATH = Path("media/audio_manifest.json")
+TAXONOMY_PATH = Path("data/grammar_taxonomy.tsv")
 
 _CLOZE_RE = re.compile(r"\{\{c\d+::[^}]+\}\}")
 _ANY_CLOZE_RE = re.compile(r"\{\{c\d+::")
 _SOUND_RE = re.compile(r"\[sound:([^\]]+)\]")
 _PLACEHOLDER_RE = re.compile(r"\[sound:WAVE\d+_PLACEHOLDER\.mp3\]", re.I)
 _FAKE_HASH_RE = re.compile(r"\[sound:[0-9a-f]{12}\.mp3\]", re.I)  # may be legit
+_PLACEHOLDER_TOKEN_RE = re.compile(r"\bexample(?:[a-z0-9_-]*)\b", re.I)
+_JP_CHAR_RE = re.compile(r"[一-龯ぁ-んァ-ン]")
+_CLOZE_EXTRACT_RE = re.compile(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}")
 
 
 def _load_manifest_keys() -> set[str]:
@@ -50,9 +54,44 @@ def _load_manifest_keys() -> set[str]:
         return set()
 
 
+def _load_taxonomy_points() -> set[str]:
+    if not TAXONOMY_PATH.exists():
+        return set()
+    points: set[str] = set()
+    for raw in TAXONOMY_PATH.read_text(encoding="utf-8").splitlines():
+        if not raw or raw.startswith("#"):
+            continue
+        row = next(csv.reader([raw], delimiter="\t", quotechar='"'))
+        if row and row[0].strip():
+            points.add(row[0].strip())
+    return points
+
+
+def _source_sentence(nt: str, header: list[str], row: list[str]) -> str:
+    if nt == "Production":
+        sample = row[header.index("Sample")].strip() if "Sample" in header else ""
+        target = row[header.index("Target")].strip() if "Target" in header else ""
+        if sample and _JP_CHAR_RE.search(sample):
+            return sample
+        return target or sample
+    if nt == "Cloze":
+        text = row[header.index("Text")].strip() if "Text" in header else row[0].strip()
+        return _CLOZE_EXTRACT_RE.sub(r"\1", text)
+    if nt == "Contrast":
+        jp = row[header.index("JP")].strip() if "JP" in header else row[0].strip()
+        ans = row[header.index("Answer")].strip() if "Answer" in header else ""
+        return jp.replace("___", ans) if jp and ans else jp
+    if nt == "Listening":
+        return row[header.index("Transcript")].strip() if "Transcript" in header else row[0].strip()
+    if nt == "Dictation":
+        return row[header.index("Answer")].strip() if "Answer" in header else row[0].strip()
+    return row[0].strip()
+
+
 def lint_file(path: Path,
               audio_users: dict[str, list[str]],
-              manifest_keys: set[str]) -> list[str]:
+              manifest_keys: set[str],
+              taxonomy_points: set[str]) -> list[str]:
     errs: list[str] = []
     nt = detect_note_type(path)
     expected = NOTE_TYPES[nt]
@@ -97,6 +136,16 @@ def lint_file(path: Path,
         tags = row[-1].strip()
         if "," in tags:
             errs.append(f"{path}:{ln}: comma in tags — Anki uses spaces")
+        tag_tokens = tags.split()
+        allow_non_jp = "allow:non-japanese-source" in tag_tokens
+        point_tags = [t[len("point:"):] for t in tag_tokens if t.startswith("point:")]
+        if not point_tags:
+            errs.append(f"{path}:{ln}: missing point:* tag")
+        for p in point_tags:
+            if p.startswith("module-"):
+                errs.append(f"{path}:{ln}: coarse point tag '{p}' is not allowed")
+            elif taxonomy_points and p not in taxonomy_points:
+                errs.append(f"{path}:{ln}: point '{p}' missing from data/grammar_taxonomy.tsv")
 
         # Audio column — every note type has it; usually the second-to-last.
         audio_field = ""
@@ -117,6 +166,30 @@ def lint_file(path: Path,
                             f"in media/audio/ and not in manifest")
             audio_users[ref].append(f"{path}:{ln}")
 
+        source_text = _source_sentence(nt, header, row).strip()
+        if _PLACEHOLDER_TOKEN_RE.search(source_text):
+            errs.append(f"{path}:{ln}: placeholder token leaked into source sentence")
+        if nt != "Contrast" and "___" in source_text:
+            errs.append(
+                f"{path}:{ln}: malformed scaffold token '___' leaked into source sentence"
+            )
+        if nt == "Cloze" and "Text" in header and "___" in row[header.index("Text")]:
+            errs.append(f"{path}:{ln}: malformed scaffold token '___' in Cloze Text")
+        if (
+            nt != "Contrast"
+            and source_text
+            and not allow_non_jp
+            and not _JP_CHAR_RE.search(source_text)
+        ):
+            errs.append(
+                f"{path}:{ln}: non-Japanese source sentence used for audio "
+                f"(add allow:non-japanese-source only if intentional)"
+            )
+        if "Reading" in header:
+            reading = row[header.index("Reading")].strip()
+            if _PLACEHOLDER_TOKEN_RE.search(reading):
+                errs.append(f"{path}:{ln}: placeholder token leaked into Reading")
+
         key = tuple(row)
         seen[key] += 1
     for key, n in seen.items():
@@ -132,11 +205,15 @@ def main() -> int:
         return 0
 
     manifest_keys = _load_manifest_keys()
+    taxonomy_points = _load_taxonomy_points()
+    if not taxonomy_points:
+        print("✗ missing or empty data/grammar_taxonomy.tsv")
+        return 1
     audio_users: dict[str, list[str]] = defaultdict(list)
     all_errs: list[str] = []
     files = sorted(GRAMMAR_DIR.rglob("*.tsv"))
     for f in files:
-        all_errs.extend(lint_file(f, audio_users, manifest_keys))
+        all_errs.extend(lint_file(f, audio_users, manifest_keys, taxonomy_points))
 
     # Cross-corpus checks: an audio filename used by >1 note is fine
     # (same JP sentence appears in multiple cards), but used by >1
