@@ -1,0 +1,5 @@
+media/audio/*.mp3 filter=lfs diff=lfs merge=lfs -text
+media/timelines/*.svg filter=lfs diff=lfs merge=lfs -text
+media/images/*.jpg filter=lfs diff=lfs merge=lfs -text
+media/images/*.png filter=lfs diff=lfs merge=lfs -text
+*.apkg filter=lfs diff=lfs merge=lfs -text
