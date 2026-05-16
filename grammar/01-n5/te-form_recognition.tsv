@@ -4,38 +4,38 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 #
-会って話しました。	あってはなしました。	I met and talked.	う→って 会う	会う → 会って	Derivation: u-ending → tte	Match: 待つ, 立つ	ぐ→いで	e6efb57bacd7	module:01-n5 jlpt:n5 point:te-form
-友達を待っています。	ともだちをまっています。	I'm waiting for my friend.	つ→って 待つ	待つ → 待って	Derivation: tsu-ending → tte	Match: 立つ, 勝つ	く→いて	0b6e296ab000	module:01-n5 jlpt:n5 point:te-form
-ここに立ってください。	ここにたってください。	Please stand here.	つ→って 立つ	立つ → 立って	Derivation: tsu-ending → tte	Match: 待つ, 勝つ	む→んで	b0ab50c6d8c4	module:01-n5 jlpt:n5 point:te-form
-本を読んで。	ほんをよんで。	Read (a) book.	く→いて 書く	書く → 書いて	Derivation: ku-ending → ite	Match: 聞く, 歩く	す→して	6115475beb69	module:01-n5 jlpt:n5 point:te-form
-ここを歩いてください。	ここをあるいてください。	Please walk here.	く→いて 歩く	歩く → 歩いて	Derivation: ku-ending → ite	Match: 書く, 聞く	ぐ→いで	c01cdc7afe7d	module:01-n5 jlpt:n5 point:te-form
-質問を聞いています。	しつもんをきいています。	I'm listening to a question.	く→いて 聞く	聞く → 聞いて	Derivation: ku-ending → ite	Match: 書く, 歩く	る→って	096232139067	module:01-n5 jlpt:n5 point:te-form
-川を泳いで行きました。	かわをおよいでいきました。	I swam in the river.	ぐ→いで 泳ぐ	泳ぐ → 泳いで	Derivation: gu-ending → ide	Match: unique	む→んで	fa7c3f4c626e	module:01-n5 jlpt:n5 point:te-form
-飲んでください。	のんでください。	Please drink.	む→んで 飲む	飲む → 飲んで	Derivation: mu-ending → nde	Match: 進む, 読む	す→して	7c1d8565f4e9	module:01-n5 jlpt:n5 point:te-form
-選んで食べました。	えらんでたべました。	I chose and ate.	ぶ→んで 選ぶ	選ぶ → 選んで	Derivation: bu-ending → nde	Match: 遊ぶ, 呼ぶ	る→って	b935587e4e31	module:01-n5 jlpt:n5 point:te-form
-死んで行った。	しんでいった。	He died.	ぬ→んで 死ぬ	死ぬ → 死んで	Derivation: nu-ending → nde	Match: unique	ぶ→んで	21af1f99e274	module:01-n5 jlpt:n5 point:te-form
-説明してください。	せつめいしてください。	Please explain.	す→して する	する → して	Derivation: su-ending → shite	Match: unique	く→いて	0aac21f8fbe3	module:01-n5 jlpt:n5 point:te-form
-学校に行って帰りました。	がっこうにいってかえりました。	I went to school and came back.	行く (irregular)	行く → 行って	Irregular: does not follow ru-verb pattern	Match: unique	来て	8a0163efa8b0	module:01-n5 jlpt:n5 point:te-form
-朝起きて、朝食を食べた。	あさおきて、ちょうしょくをたべた。	I woke up and ate breakfast.	connective	te-form: sequential action	Shows action sequence	Match: 読んで, 来て	resultative	de5fa9fb05f2	module:01-n5 jlpt:n5 point:te-form
-家に帰って、テレビを見た。	いえにかえって、てれびをみた。	I came home and watched TV.	connective	te-form: sequential action	Chain of events	Match: 飲んで, 寝て	habitual	aef5ef82fdae	module:01-n5 jlpt:n5 point:te-form
-本を読んで、理解した。	ほんをよんで、りかいした。	I read the book and understood.	connective	te-form: sequential action	Cause-effect sequence	Match: 来て, 話して	progressive	3f545a6be4f6	module:01-n5 jlpt:n5 point:te-form
-どうぞこちらにお座りください。	どうぞこちらにおすわりください。	Please sit here.	request	V-te + ください	Polite request form	Match: 待って, 来て	permission	[sound:2178906c02eb.mp3]	module:01-n5 jlpt:n5 point:te-form
-もう一度説明してください。	もういちどせつめいしてください。	Please explain once more.	request	V-te + ください	Polite request form	Match: 読んで, 書いて	obligation	6210a1e96c5c	module:01-n5 jlpt:n5 point:te-form
-ここで待ってもいいですか？	ここでまってもいいですか？	Is it OK if I wait here?	permission	V-te + も + いい	Permission or allowance	Match: 来て, 飲んで	obligation	7a3327115a4e	module:01-n5 jlpt:n5 point:te-form
-食べてもいいです。	たべてもいいです。	It's OK to eat.	permission	V-te + も + いい	Permission or allowance	Match: 飲んで, 来て	obligation	d9b57eb71696	module:01-n5 jlpt:n5 point:te-form
-ここで待ってはいけません。	ここでまってはいけません。	You must not wait here.	prohibition	V-te + は + いけない	Prohibition or obligation not to	Match: 来て, 飲んで	permission	1d5c8c4b307c	module:01-n5 jlpt:n5 point:te-form
-遅れてはいけません。	おくれてはいけません。	You must not be late.	prohibition	V-te + は + いけない	Prohibition or obligation not to	Match: 待って, 来て	permission	bdafc5f43639	module:01-n5 jlpt:n5 point:te-form
-今勉強しています。	いまべんきょうしています。	I'm studying now.	progressive	V-te + いる	Action in progress	Match: 読んでいる, 食べている	resultative	b6d26d7e95a3	module:01-n5 jlpt:n5 point:te-form
-子どもが遊んでいます。	こどもがあそんでいます。	Children are playing.	progressive	V-te + いる	Action in progress	Match: 書いている, 待っている	habitual	f738d7671838	module:01-n5 jlpt:n5 point:te-form
-窓が開いています。	まどがあいています。	The window is open.	resultative	V-te + いる	Current state from completed action	Match: 傷ついている, 満ちている	progressive	d5dc6eb3e11c	module:01-n5 jlpt:n5 point:te-form
-彼は結婚しています。	かれはけっこんしています。	He is married.	resultative	V-te + いる	Current state from completed action	Match: 持っている, 知っている	habitual	ada5b5865fe9	module:01-n5 jlpt:n5 point:te-form
-毎日走っています。	まいにちはしっています。	I run every day.	habitual	V-te + いる	Repeated action or habit	Match: 勉強している, 働いている	resultative	02195e05d9c1	module:01-n5 jlpt:n5 point:te-form
-毎晩テレビを見ています。	まいばんてれびをみています。	Every evening I watch TV.	habitual	V-te + いる	Repeated action or habit	Match: 読んでいる, 飲んでいる	progressive	7026d3c91ab5	module:01-n5 jlpt:n5 point:te-form
-事前に準備しておきました。	じぜんにじゅんびしておきました。	I prepared in advance.	preparation	V-te + おく	Action done in advance	Match: 確認しておく, 買っておく	completion	9b65911d6728	module:01-n5 jlpt:n5 point:te-form
-やってみてください。	やってみてください。	Please try doing it.	attempt	V-te + みる	Trying or attempting	Match: 読んでみる, 食べてみる	perfection	9a2c2e7d05bb	module:01-n5 jlpt:n5 point:te-form
-全部食べてしまいました。	ぜんぶたべてしまいました。	I ate it all up.	completion	V-te + しまう	Completion or regret	Match: 壊してしまう, 忘れてしまう	trial	c6453663cd92	module:01-n5 jlpt:n5 point:te-form
-友達に会ってメールしました。	ともだちにあってめーるしました。	I met a friend and emailed.	connective	te-form: sequential action	Chain of events	Match: 来て, 話して	resultative	6f963de7c960	module:01-n5 jlpt:n5 point:te-form
-本を借りて返しました。	ほんをかりてかえしました。	I borrowed a book and returned it.	connective	te-form: sequential action	Action sequence	Match: 飲んで, 来て	habitual	6ef2450caba3	module:01-n5 jlpt:n5 point:te-form
-公園を歩いて考えました。	こうえんをあるいてかんがえました。	I walked in the park and thought.	connective	te-form: sequential action	Sequential events	Match: 読んで, 話して	progressive	e3b3fbf607f7	module:01-n5 jlpt:n5 point:te-form
-コーヒーを飲んで勉強しました。	こーひーをのんでべんきょうしました。	I drank coffee and studied.	connective	te-form: sequential action	Causal sequence	Match: 来て, 待って	resultative	a5eea18e83f1	module:01-n5 jlpt:n5 point:te-form
-映画を見てから寝ました。	えいがをみてからねました。	After watching a movie, I slept.	connective + から	te-form + から: sequential	Temporal sequence	Match: 読んで, 来て	habitual	b2f636e6f955	module:01-n5 jlpt:n5 point:te-form
+会って話しました。	あってはなしました。	I met and talked.	う→って 会う	会う → 会って	Derivation: u-ending → tte	Match: 待つ, 立つ	ぐ→いで	e6efb57bacd7	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+友達を待っています。	ともだちをまっています。	I'm waiting for my friend.	つ→って 待つ	待つ → 待って	Derivation: tsu-ending → tte	Match: 立つ, 勝つ	く→いて	0b6e296ab000	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+ここに立ってください。	ここにたってください。	Please stand here.	つ→って 立つ	立つ → 立って	Derivation: tsu-ending → tte	Match: 待つ, 勝つ	む→んで	b0ab50c6d8c4	module:01-n5 jlpt:n5 point:te-form complexity:intro
+本を読んで。	ほんをよんで。	Read (a) book.	く→いて 書く	書く → 書いて	Derivation: ku-ending → ite	Match: 聞く, 歩く	す→して	6115475beb69	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+ここを歩いてください。	ここをあるいてください。	Please walk here.	く→いて 歩く	歩く → 歩いて	Derivation: ku-ending → ite	Match: 書く, 聞く	ぐ→いで	c01cdc7afe7d	module:01-n5 jlpt:n5 point:te-form complexity:intro
+質問を聞いています。	しつもんをきいています。	I'm listening to a question.	く→いて 聞く	聞く → 聞いて	Derivation: ku-ending → ite	Match: 書く, 歩く	る→って	096232139067	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+川を泳いで行きました。	かわをおよいでいきました。	I swam in the river.	ぐ→いで 泳ぐ	泳ぐ → 泳いで	Derivation: gu-ending → ide	Match: unique	む→んで	fa7c3f4c626e	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top10k
+飲んでください。	のんでください。	Please drink.	む→んで 飲む	飲む → 飲んで	Derivation: mu-ending → nde	Match: 進む, 読む	す→して	7c1d8565f4e9	module:01-n5 jlpt:n5 point:te-form complexity:intro
+選んで食べました。	えらんでたべました。	I chose and ate.	ぶ→んで 選ぶ	選ぶ → 選んで	Derivation: bu-ending → nde	Match: 遊ぶ, 呼ぶ	る→って	b935587e4e31	module:01-n5 jlpt:n5 point:te-form complexity:intro
+死んで行った。	しんでいった。	He died.	ぬ→んで 死ぬ	死ぬ → 死んで	Derivation: nu-ending → nde	Match: unique	ぶ→んで	21af1f99e274	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top10k
+説明してください。	せつめいしてください。	Please explain.	す→して する	する → して	Derivation: su-ending → shite	Match: unique	く→いて	0aac21f8fbe3	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top5k
+学校に行って帰りました。	がっこうにいってかえりました。	I went to school and came back.	行く (irregular)	行く → 行って	Irregular: does not follow ru-verb pattern	Match: unique	来て	8a0163efa8b0	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top5k
+朝起きて、朝食を食べた。	あさおきて、ちょうしょくをたべた。	I woke up and ate breakfast.	connective	te-form: sequential action	Shows action sequence	Match: 読んで, 来て	resultative	de5fa9fb05f2	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+家に帰って、テレビを見た。	いえにかえって、てれびをみた。	I came home and watched TV.	connective	te-form: sequential action	Chain of events	Match: 飲んで, 寝て	habitual	aef5ef82fdae	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+本を読んで、理解した。	ほんをよんで、りかいした。	I read the book and understood.	connective	te-form: sequential action	Cause-effect sequence	Match: 来て, 話して	progressive	3f545a6be4f6	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top10k
+どうぞこちらにお座りください。	どうぞこちらにおすわりください。	Please sit here.	request	V-te + ください	Polite request form	Match: 待って, 来て	permission	[sound:2178906c02eb.mp3]	module:01-n5 jlpt:n5 point:te-form complexity:standard
+もう一度説明してください。	もういちどせつめいしてください。	Please explain once more.	request	V-te + ください	Polite request form	Match: 読んで, 書いて	obligation	6210a1e96c5c	module:01-n5 jlpt:n5 point:te-form complexity:standard frequency:top5k
+ここで待ってもいいですか？	ここでまってもいいですか？	Is it OK if I wait here?	permission	V-te + も + いい	Permission or allowance	Match: 来て, 飲んで	obligation	7a3327115a4e	module:01-n5 jlpt:n5 point:te-form complexity:standard
+食べてもいいです。	たべてもいいです。	It's OK to eat.	permission	V-te + も + いい	Permission or allowance	Match: 飲んで, 来て	obligation	d9b57eb71696	module:01-n5 jlpt:n5 point:te-form complexity:intro
+ここで待ってはいけません。	ここでまってはいけません。	You must not wait here.	prohibition	V-te + は + いけない	Prohibition or obligation not to	Match: 来て, 飲んで	permission	1d5c8c4b307c	module:01-n5 jlpt:n5 point:te-form complexity:standard
+遅れてはいけません。	おくれてはいけません。	You must not be late.	prohibition	V-te + は + いけない	Prohibition or obligation not to	Match: 待って, 来て	permission	bdafc5f43639	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top10k
+今勉強しています。	いまべんきょうしています。	I'm studying now.	progressive	V-te + いる	Action in progress	Match: 読んでいる, 食べている	resultative	b6d26d7e95a3	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+子どもが遊んでいます。	こどもがあそんでいます。	Children are playing.	progressive	V-te + いる	Action in progress	Match: 書いている, 待っている	habitual	f738d7671838	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top5k
+窓が開いています。	まどがあいています。	The window is open.	resultative	V-te + いる	Current state from completed action	Match: 傷ついている, 満ちている	progressive	d5dc6eb3e11c	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+彼は結婚しています。	かれはけっこんしています。	He is married.	resultative	V-te + いる	Current state from completed action	Match: 持っている, 知っている	habitual	ada5b5865fe9	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top5k
+毎日走っています。	まいにちはしっています。	I run every day.	habitual	V-te + いる	Repeated action or habit	Match: 勉強している, 働いている	resultative	02195e05d9c1	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+毎晩テレビを見ています。	まいばんてれびをみています。	Every evening I watch TV.	habitual	V-te + いる	Repeated action or habit	Match: 読んでいる, 飲んでいる	progressive	7026d3c91ab5	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+事前に準備しておきました。	じぜんにじゅんびしておきました。	I prepared in advance.	preparation	V-te + おく	Action done in advance	Match: 確認しておく, 買っておく	completion	9b65911d6728	module:01-n5 jlpt:n5 point:te-form complexity:standard frequency:low
+やってみてください。	やってみてください。	Please try doing it.	attempt	V-te + みる	Trying or attempting	Match: 読んでみる, 食べてみる	perfection	9a2c2e7d05bb	module:01-n5 jlpt:n5 point:te-form complexity:intro
+全部食べてしまいました。	ぜんぶたべてしまいました。	I ate it all up.	completion	V-te + しまう	Completion or regret	Match: 壊してしまう, 忘れてしまう	trial	c6453663cd92	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k
+友達に会ってメールしました。	ともだちにあってめーるしました。	I met a friend and emailed.	connective	te-form: sequential action	Chain of events	Match: 来て, 話して	resultative	6f963de7c960	module:01-n5 jlpt:n5 point:te-form complexity:standard frequency:top1k
+本を借りて返しました。	ほんをかりてかえしました。	I borrowed a book and returned it.	connective	te-form: sequential action	Action sequence	Match: 飲んで, 来て	habitual	6ef2450caba3	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top10k
+公園を歩いて考えました。	こうえんをあるいてかんがえました。	I walked in the park and thought.	connective	te-form: sequential action	Sequential events	Match: 読んで, 話して	progressive	e3b3fbf607f7	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top10k
+コーヒーを飲んで勉強しました。	こーひーをのんでべんきょうしました。	I drank coffee and studied.	connective	te-form: sequential action	Causal sequence	Match: 来て, 待って	resultative	a5eea18e83f1	module:01-n5 jlpt:n5 point:te-form complexity:standard frequency:top1k
+映画を見てから寝ました。	えいがをみてからねました。	After watching a movie, I slept.	connective + から	te-form + から: sequential	Temporal sequence	Match: 読んで, 来て	habitual	b2f636e6f955	module:01-n5 jlpt:n5 point:te-form complexity:intro frequency:top1k

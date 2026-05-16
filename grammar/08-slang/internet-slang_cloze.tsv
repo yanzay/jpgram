@@ -4,28 +4,28 @@
 #notetype:Cloze
 #deck:Japanese Grammar::08 - Slang::Cloze
 #
-これ、{{c1::ワロタ}}よ。	これ、{{c1::わろた}}よ。	That made me laugh (internet style)	[sound:b0ecbcce47fc.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::ぐぐって}}みたら？	{{c1::ぐぐって}}みたら。	Why don't you search for it?	[sound:57737842d596.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-そのゲーム、{{c1::バグった}}。	そのげーむ、{{c1::ばぐった}}。	That game has a bug.	[sound:e714a8153217.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-フォロー、{{c1::してよ}}。	ふぉろー、{{c1::してよ}}。	Please follow me.	[sound:063c1ca15082.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-投稿、{{c1::うp}}しようぜ。	とうこう、{{c1::あっぷ}}しようぜ。	Let's upload the post.	[sound:557c4da92410.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::人生詰んだ}}。	{{c1::じんせいつんだ}}。	My life is over (metaphorically).	[sound:3a0c458b7471.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::ラグい}}サーバーだ。	{{c1::らぐい}}さーばーだ。	This server is laggy.	[sound:a1761976834d.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-それ、{{c1::草}}だわ。	それ、{{c1::くさ}}だわ。	That's hilarious (grass = lol).	[sound:7de03491b761.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-リツイート、{{c1::した}}よ。	りついーと、{{c1::した}}よ。	I retweeted it.	[sound:c679e316278e.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::リア会}}しようぜ。	{{c1::りあかい}}しようぜ。	Let's meet up in real life.	[sound:9845b60fd6ee.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-スクショ、{{c1::くれよ}}。	すくしょ、{{c1::くれよ}}。	Give me a screenshot.	[sound:3a9ab32fb533.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-それ、{{c1::オススメ}}だよ。	それ、{{c1::おすすめ}}だよ。	I recommend that.	[sound:7fd55b0a918b.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::タピオ}}うまい。	{{c1::たぴおか}}うまい。	Tapioca tastes good.	[sound:ffbe5b4be318.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::キモイ}}から嫌だ。	{{c1::きもい}}からきらいだ。	I hate it because it's gross.	[sound:04d0109cc147.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::イケチ}}だね。	{{c1::いけち}}だね。	That's cool/okay.	[sound:bfb901171af7.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::エモイ}}、そのアート。	{{c1::えもい}}、そのあーと。	That art is emotionally moving.	[sound:671106e373dc.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-推し活、{{c1::最高}}。	おしかつ、{{c1::さいこう}}。	Fan activities are the best.	[sound:fa9697c884d2.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::バズった}}、その投稿。	{{c1::ばずった}}、そのとうこう。	That post went viral.	[sound:505dfaa6fa26.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::ぐぐる}}習慣。	{{c1::ぐぐる}}しゅうかん。	The habit of googling things.	[sound:7a458f771c0f.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::フルクリア}}した。	{{c1::ふるくりあ}}した。	I beat the game completely.	[sound:ac58bb55f856.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::ガチャ}}回した。	{{c1::がちゃ}}まわした。	I did a gacha pull.	[sound:5c2bccbdd024.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::爆死}}、悔しい。	{{c1::ばくし}}、くやしい。	Bad gacha luck, frustrating.	[sound:aa09175d7aaf.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::デイリー}}終わった。	{{c1::でいりー}}おわった。	I finished my daily quests.	[sound:83b3dea56ab8.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::リセマラ}}しよう。	{{c1::りせまら}}しよう。	Let's reroll the gacha.	[sound:0e8b3338efbd.mp3]	register:slang domain:internet module:08-slang point:internet-slang
-{{c1::推し}}メンMV公開。	{{c1::おし}}めんえむぶいこうかい。	My favorite's new song.	[sound:5ad233792bef.mp3]	register:slang domain:internet module:08-slang point:internet-slang
+これ、{{c1::ワロタ}}よ。	これ、{{c1::わろた}}よ。	That made me laugh (internet style)	[sound:b0ecbcce47fc.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::ぐぐって}}みたら？	{{c1::ぐぐって}}みたら。	Why don't you search for it?	[sound:57737842d596.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+そのゲーム、{{c1::バグった}}。	そのげーむ、{{c1::ばぐった}}。	That game has a bug.	[sound:e714a8153217.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top10k
+フォロー、{{c1::してよ}}。	ふぉろー、{{c1::してよ}}。	Please follow me.	[sound:063c1ca15082.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+投稿、{{c1::うp}}しようぜ。	とうこう、{{c1::あっぷ}}しようぜ。	Let's upload the post.	[sound:557c4da92410.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::人生詰んだ}}。	{{c1::じんせいつんだ}}。	My life is over (metaphorically).	[sound:3a0c458b7471.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top10k
+{{c1::ラグい}}サーバーだ。	{{c1::らぐい}}さーばーだ。	This server is laggy.	[sound:a1761976834d.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:low
+それ、{{c1::草}}だわ。	それ、{{c1::くさ}}だわ。	That's hilarious (grass = lol).	[sound:7de03491b761.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top5k
+リツイート、{{c1::した}}よ。	りついーと、{{c1::した}}よ。	I retweeted it.	[sound:c679e316278e.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::リア会}}しようぜ。	{{c1::りあかい}}しようぜ。	Let's meet up in real life.	[sound:9845b60fd6ee.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+スクショ、{{c1::くれよ}}。	すくしょ、{{c1::くれよ}}。	Give me a screenshot.	[sound:3a9ab32fb533.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+それ、{{c1::オススメ}}だよ。	それ、{{c1::おすすめ}}だよ。	I recommend that.	[sound:7fd55b0a918b.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::タピオ}}うまい。	{{c1::たぴおか}}うまい。	Tapioca tastes good.	[sound:ffbe5b4be318.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::キモイ}}から嫌だ。	{{c1::きもい}}からきらいだ。	I hate it because it's gross.	[sound:04d0109cc147.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top1k
+{{c1::イケチ}}だね。	{{c1::いけち}}だね。	That's cool/okay.	[sound:bfb901171af7.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::エモイ}}、そのアート。	{{c1::えもい}}、そのあーと。	That art is emotionally moving.	[sound:671106e373dc.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+推し活、{{c1::最高}}。	おしかつ、{{c1::さいこう}}。	Fan activities are the best.	[sound:fa9697c884d2.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top10k
+{{c1::バズった}}、その投稿。	{{c1::ばずった}}、そのとうこう。	That post went viral.	[sound:505dfaa6fa26.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::ぐぐる}}習慣。	{{c1::ぐぐる}}しゅうかん。	The habit of googling things.	[sound:7a458f771c0f.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top5k
+{{c1::フルクリア}}した。	{{c1::ふるくりあ}}した。	I beat the game completely.	[sound:ac58bb55f856.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::ガチャ}}回した。	{{c1::がちゃ}}まわした。	I did a gacha pull.	[sound:5c2bccbdd024.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::爆死}}、悔しい。	{{c1::ばくし}}、くやしい。	Bad gacha luck, frustrating.	[sound:aa09175d7aaf.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:top10k
+{{c1::デイリー}}終わった。	{{c1::でいりー}}おわった。	I finished my daily quests.	[sound:83b3dea56ab8.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::リセマラ}}しよう。	{{c1::りせまら}}しよう。	Let's reroll the gacha.	[sound:0e8b3338efbd.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro
+{{c1::推し}}メンMV公開。	{{c1::おし}}めんえむぶいこうかい。	My favorite's new song.	[sound:5ad233792bef.mp3]	register:slang domain:internet module:08-slang point:internet-slang complexity:intro frequency:low

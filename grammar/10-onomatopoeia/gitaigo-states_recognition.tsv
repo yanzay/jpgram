@@ -4,33 +4,33 @@
 #notetype:Recognition
 #deck:Japanese Grammar::10 - Onomatopoeia::Gitaigo
 
-フワフワ	ふわふわ	fluffy/soft	Texture: light and airy	onomatopoeia	state desc	soft and fluffy	heavy and dense (ずっしり)	[sound:14c9ade9e23b.mp3]	module:10-onomatopoeia point:gitaigo-states
-サクサク	さくさく	crispy	Texture: crunchy	onomatopoeia	state desc	crispy texture	soggy and soft (ふにゃふにゃ)	[sound:5219986d4daf.mp3]	module:10-onomatopoeia point:gitaigo-states
-ツルツル	つるつる	smooth/slippery	Texture: frictionless	onomatopoeia	state desc	slick surface	rough and bumpy (ざらざら)	[sound:6887b4d6304f.mp3]	module:10-onomatopoeia point:gitaigo-states
-サラサラ	さらさら	smooth/silky	Hair or sand texture	onomatopoeia	state desc	smooth flow	tangled and matted (ぼさぼさ)	[sound:887d405b93eb.mp3]	module:10-onomatopoeia point:gitaigo-states
-スラスラ	すらすら	smoothly/fluently	Ease of reading	onomatopoeia	state desc	easy flow	halting and choppy (ぎこちない)	[sound:dd0096f5ce99.mp3]	module:10-onomatopoeia point:gitaigo-states
-ジャリジャリ	じゃりじゃり	gritty/sandy	Texture with grit	onomatopoeia	state desc	granular feel	smooth and clean (さらさら)	[sound:dcf915853bcc.mp3]	module:10-onomatopoeia point:gitaigo-states
-キチリッ	きちりっ	precise/neat	Orderly appearance	onomatopoeia	state desc	perfectly aligned	messy and haphazard (ぐちゃぐちゃ)	[sound:bf979272c304.mp3]	module:10-onomatopoeia point:gitaigo-states
-ロボロボ	ろぼろぼ	stiff/mechanical	Rigid or jerky	onomatopoeia	state desc	awkward movement	smooth flowing (なめらか)	[sound:561c856509ce.mp3]	module:10-onomatopoeia point:gitaigo-states
-ポカポカ	ぽかぽか	warm and pleasant	Temperature comfort	onomatopoeia	state desc	cozy warmth	cold and chilly (ひんやり)	[sound:fa5a2029e1ed.mp3]	module:10-onomatopoeia point:gitaigo-states
-ドキドキ	どきどき	heart pounding	Emotional state	onomatopoeia	state desc	excited pulse	calm and steady (おだやか)	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:gitaigo-states
-シクシク	しくしく	quietly sobbing	Emotional state	onomatopoeia	state desc	suppressed crying	loud wailing (わあわあ)	[sound:d55d75871547.mp3]	module:10-onomatopoeia point:gitaigo-states
-ビリビリ	びりびり	tense/strained	Electric atmosphere	onomatopoeia	state desc	charged tension	relaxed and easy (のんびり)	[sound:5504f489cd71.mp3]	module:10-onomatopoeia point:gitaigo-states
-ピタピタ	ぴたぴた	close-fitting/tight	Spatial state	onomatopoeia	state desc	snug contact	loose and baggy (ぶかぶか)	[sound:ca66e82ae123.mp3]	module:10-onomatopoeia point:gitaigo-states
-モフモフ	もふもふ	fluffy/plump	Soft appearance	onomatopoeia	state desc	puffy softness	thin and scraggly (やせやせ)	[sound:e68b45bcefba.mp3]	module:10-onomatopoeia point:gitaigo-states
-ぐちゃぐちゃ	ぐちゃぐちゃ	mushy/messy	Disorganized state	onomatopoeia	state desc	sloppy chaos	neat and tidy (きちり)	[sound:8d2c7303f002.mp3]	module:10-onomatopoeia point:gitaigo-states
-どんより	どんより	gloomy/murky	Atmosphere or sky	onomatopoeia	state desc	overcast mood	bright and clear (かんかん)	[sound:c3ae45c1e797.mp3]	module:10-onomatopoeia point:gitaigo-states
-そよそよ	そよそよ	gentle breeze	Light wind	onomatopoeia	state desc	soft wafting	strong gusts (ぴゅーぴゅー)	[sound:1e823f3f891b.mp3]	module:10-onomatopoeia point:gitaigo-states
-じっとり	じっとり	damp/humid	Moisture state	onomatopoeia	state desc	dampness	dry and arid (かりかり)	[sound:cd6e94431179.mp3]	module:10-onomatopoeia point:gitaigo-states
-ふんぶん	ふんぶん	full of scent	Smell presence	onomatopoeia	state desc	aromatic	odorless (においなし)	[sound:d73a9e327082.mp3]	module:10-onomatopoeia point:gitaigo-states
-ぐらぐら	ぐらぐら	shaky/unstable	Physical state	onomatopoeia	state desc	wobbling	firm and solid (どっしり)	[sound:d55fdad4a693.mp3]	module:10-onomatopoeia point:gitaigo-states
-ぶかぶか	ぶかぶか	baggy/loose	Ill-fitting clothes	onomatopoeia	state desc	oversized clothes	tight-fitting (ぴったり)	[sound:2bcef5cec01a.mp3]	module:10-onomatopoeia point:gitaigo-states
-きらきら	きらきら	glittering state	Shiny appearance	onomatopoeia	state desc	luminous gleam	dull and dark (くらい)	[sound:70789e8665a3.mp3]	module:10-onomatopoeia point:gitaigo-states
-ふにゃふにゃ	ふにゃふにゃ	soft/squishy	Mushy texture	onomatopoeia	state desc	spongy softness	hard and rigid (かっちり)	[sound:c26b0acba679.mp3]	module:10-onomatopoeia point:gitaigo-states
-つやつや	つやつや	glossy/shiny	Lustrous surface	onomatopoeia	state desc	polished shine	matte and dull (くすん)	[sound:b0cf439700ea.mp3]	module:10-onomatopoeia point:gitaigo-states
-ぴかぴか	ぴかぴか	sparkling clean	Pristine bright	onomatopoeia	state desc	brilliant shine	tarnished dark (くらい)	[sound:ab1f927845ce.mp3]	module:10-onomatopoeia point:gitaigo-states
-ねばねば	ねばねば	sticky/gooey	Adhesive texture	onomatopoeia	state desc	viscous stickiness	smooth and slick (つるん)	[sound:74cf35cb5430.mp3]	module:10-onomatopoeia point:gitaigo-states
-べたべた	べたべた	tacky/oily	Unpleasant stickiness	onomatopoeia	state desc	greasy residue	clean and dry (さっぱり)	[sound:805ecc04aa97.mp3]	module:10-onomatopoeia point:gitaigo-states
-ふさふさ	ふさふさ	bushy/thick	Dense growth	onomatopoeia	state desc	thick abundance	sparse and thin (すかすか)	[sound:911724639a66.mp3]	module:10-onomatopoeia point:gitaigo-states
-かちかち	かちかち	hard/rigid	Solid state	onomatopoeia	state desc	rock-hard	soft and squishy (ふにゃふにゃ)	[sound:a1b440620dcd.mp3]	module:10-onomatopoeia point:gitaigo-states
-ぎゅぎゅ	ぎゅぎゅ	tightly packed	Crowded state	onomatopoeia	state desc	compressed tightly	spacious and roomy (のびのび)	[sound:a63c3d98ca59.mp3]	module:10-onomatopoeia point:gitaigo-states
+フワフワ	ふわふわ	Fluffy/soft.	Texture: light and airy	onomatopoeia	state desc	soft and fluffy	heavy and dense (ずっしり)	[sound:14c9ade9e23b.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+サクサク	さくさく	Crispy.	Texture: crunchy	onomatopoeia	state desc	crispy texture	soggy and soft (ふにゃふにゃ)	[sound:5219986d4daf.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ツルツル	つるつる	Smooth/slippery.	Texture: frictionless	onomatopoeia	state desc	slick surface	rough and bumpy (ざらざら)	[sound:6887b4d6304f.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+サラサラ	さらさら	Smooth/silky.	Hair or sand texture	onomatopoeia	state desc	smooth flow	tangled and matted (ぼさぼさ)	[sound:887d405b93eb.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+スラスラ	すらすら	Smoothly/fluently.	Ease of reading	onomatopoeia	state desc	easy flow	halting and choppy (ぎこちない)	[sound:dd0096f5ce99.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ジャリジャリ	じゃりじゃり	Gritty/sandy.	Texture with grit	onomatopoeia	state desc	granular feel	smooth and clean (さらさら)	[sound:dcf915853bcc.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+キチリッ	きちりっ	Precise/neat.	Orderly appearance	onomatopoeia	state desc	perfectly aligned	messy and haphazard (ぐちゃぐちゃ)	[sound:bf979272c304.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ロボロボ	ろぼろぼ	Stiff/mechanical.	Rigid or jerky	onomatopoeia	state desc	awkward movement	smooth flowing (なめらか)	[sound:561c856509ce.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ポカポカ	ぽかぽか	Warm and pleasant.	Temperature comfort	onomatopoeia	state desc	cozy warmth	cold and chilly (ひんやり)	[sound:fa5a2029e1ed.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ドキドキ	どきどき	Heart pounding.	Emotional state	onomatopoeia	state desc	excited pulse	calm and steady (おだやか)	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+シクシク	しくしく	Quietly sobbing.	Emotional state	onomatopoeia	state desc	suppressed crying	loud wailing (わあわあ)	[sound:d55d75871547.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ビリビリ	びりびり	Tense/strained.	Electric atmosphere	onomatopoeia	state desc	charged tension	relaxed and easy (のんびり)	[sound:5504f489cd71.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ピタピタ	ぴたぴた	Close-fitting/tight.	Spatial state	onomatopoeia	state desc	snug contact	loose and baggy (ぶかぶか)	[sound:ca66e82ae123.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+モフモフ	もふもふ	Fluffy/plump.	Soft appearance	onomatopoeia	state desc	puffy softness	thin and scraggly (やせやせ)	[sound:e68b45bcefba.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ぐちゃぐちゃ	ぐちゃぐちゃ	Mushy/messy.	Disorganized state	onomatopoeia	state desc	sloppy chaos	neat and tidy (きちり)	[sound:8d2c7303f002.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+どんより	どんより	Gloomy/murky.	Atmosphere or sky	onomatopoeia	state desc	overcast mood	bright and clear (かんかん)	[sound:c3ae45c1e797.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+そよそよ	そよそよ	Gentle breeze.	Light wind	onomatopoeia	state desc	soft wafting	strong gusts (ぴゅーぴゅー)	[sound:1e823f3f891b.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+じっとり	じっとり	Damp/humid.	Moisture state	onomatopoeia	state desc	dampness	dry and arid (かりかり)	[sound:cd6e94431179.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ふんぶん	ふんぶん	Full of scent.	Smell presence	onomatopoeia	state desc	aromatic	odorless (においなし)	[sound:d73a9e327082.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ぐらぐら	ぐらぐら	Shaky/unstable.	Physical state	onomatopoeia	state desc	wobbling	firm and solid (どっしり)	[sound:d55fdad4a693.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ぶかぶか	ぶかぶか	Baggy/loose.	Ill-fitting clothes	onomatopoeia	state desc	oversized clothes	tight-fitting (ぴったり)	[sound:2bcef5cec01a.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+きらきら	きらきら	Glittering state.	Shiny appearance	onomatopoeia	state desc	luminous gleam	dull and dark (くらい)	[sound:70789e8665a3.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ふにゃふにゃ	ふにゃふにゃ	Soft/squishy.	Mushy texture	onomatopoeia	state desc	spongy softness	hard and rigid (かっちり)	[sound:c26b0acba679.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+つやつや	つやつや	Glossy/shiny.	Lustrous surface	onomatopoeia	state desc	polished shine	matte and dull (くすん)	[sound:b0cf439700ea.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ぴかぴか	ぴかぴか	Sparkling clean.	Pristine bright	onomatopoeia	state desc	brilliant shine	tarnished dark (くらい)	[sound:ab1f927845ce.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ねばねば	ねばねば	Sticky/gooey.	Adhesive texture	onomatopoeia	state desc	viscous stickiness	smooth and slick (つるん)	[sound:74cf35cb5430.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+べたべた	べたべた	Tacky/oily.	Unpleasant stickiness	onomatopoeia	state desc	greasy residue	clean and dry (さっぱり)	[sound:805ecc04aa97.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ふさふさ	ふさふさ	Bushy/thick.	Dense growth	onomatopoeia	state desc	thick abundance	sparse and thin (すかすか)	[sound:911724639a66.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+かちかち	かちかち	Hard/rigid.	Solid state	onomatopoeia	state desc	rock-hard	soft and squishy (ふにゃふにゃ)	[sound:a1b440620dcd.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro
+ぎゅぎゅ	ぎゅぎゅ	Tightly packed.	Crowded state	onomatopoeia	state desc	compressed tightly	spacious and roomy (のびのび)	[sound:a63c3d98ca59.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro

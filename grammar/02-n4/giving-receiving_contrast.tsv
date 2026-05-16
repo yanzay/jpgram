@@ -4,23 +4,23 @@
 #notetype:Contrast
 #deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
-私は友達に本を___。	あげる	もらう	あげる	Direction: I→friend (give). もらう = I receive from.	give/receive direction	[sound:d88dec52429f.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-父は私に時計を___。	あげる	くれる	くれる	Family: in-group. くれる for me. あげる=away from me.	in-group uses くれる	[sound:042edc330385.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-先生に感謝状を___。	あげる	さしあげる	さしあげる	To superior: humble さしあげる required.	hierarchy: to superior	[sound:048e2e38b909.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-子供にお菓子を___。	あげる	やる	やる	To child: casual やる. あげる=neutral.	casual: child/junior	[sound:dceef4ada556.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-私は田中さんから本を___。	あげる	もらう	もらう	Direction: I receive from (←). あげる=give away.	receive from	[sound:922add7a75e3.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-先生から丁寧に教えて___。	もらう	いただく	いただく	From superior: humble いただく.	from superior: いただく	[sound:fb5a4b996f17.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-親友が私に助言を___。	くれる	あげる	くれる	Close friend→me=in-group. くれる=natural.	friend gives: くれる	[sound:914719008ad6.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-上司が部下に指示を___。	くれる	あげる	あげる	Superior→subordinate=out-group. あげる=correct.	superior→subordinate: あげる	[sound:f088645c051a.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-先生が学生に宿題を___。	くれる	あげる	あげる	Teacher→student=formal out-group.	formal: teacher gives	[sound:334fee7a1c9b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-兄弟で手伝い合って___。	あげる	くれる	both OK	Family: both work, but くれる=closer.	family: flexible	[sound:1f595236b6d6.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-彼女は私に誕生日プレゼントを___。	あげる	くれる	くれる	Girlfriend (intimate)→me: くれる=closer.	intimate: くれる	[sound:3729abd1d057.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-両親が子供に教育費を___。	あげる	くれる	both OK	Parent context: both work, くれる=natural.	parents: both work	[sound:0f2e0eea2607.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-ボスが従業員にボーナスを___。	くれる	あげる	あげる	Formal hierarchy: superior→subordinate=あげる.	hierarchy: あげる	[sound:78c91ac7a457.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-看護師が患者にお薬を___。	あげる	くれる	あげる	Professional service: out-group=あげる.	professional: あげる	[sound:6f97d1e2bb2b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-姉が妹に洋服を___。	あげる	くれる	both OK	Siblings: flexible, くれる=closer bond.	siblings: flexible	[sound:bd7bd776ec94.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-私は友人に本を貸して___。	あげる	やる	あげる	Loan to equal: あげる=standard.	to equal: あげる	[sound:cf6634951d95.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-先輩が後輩に仕事の秘訣を___。	あげる	くれる	both OK	Workplace mentor: both work, あげる=formal.	mentor: flexible	[sound:0df6d63e6b20.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-祖母が孫にお小遣いを___。	あげる	くれる	くれる	Grandparent (elder affection): くれる=natural.	elder+affection: くれる	[sound:b1209742b0a1.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-店員さんが客に袋を___。	あげる	くれる	あげる	Service transaction: out-group=あげる.	service: あげる	[sound:b8806c91661d.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
-先生が学生に高い評価を___。	くれる	あげる	あげる	Teacher→student: formal=あげる.	formal hierarchy: あげる	[sound:f3f610d692b3.mp3]	module:02-n4 jlpt:n4 point:giving-receiving
+私は友達に本を___。	あげる	もらう	あげる	Direction: I→friend (give). もらう = I receive from.	give/receive direction	[sound:d88dec52429f.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro confusable-with:もらう frequency:top1k
+父は私に時計を___。	あげる	くれる	くれる	Family: in-group. くれる for me. あげる=away from me.	in-group uses くれる	[sound:042edc330385.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro confusable-with:あげる frequency:top1k
+先生に感謝状を___。	あげる	さしあげる	さしあげる	To superior: humble さしあげる required.	hierarchy: to superior	[sound:048e2e38b909.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro confusable-with:あげる frequency:top10k
+子供にお菓子を___。	あげる	やる	やる	To child: casual やる. あげる=neutral.	casual: child/junior	[sound:dceef4ada556.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro confusable-with:あげる frequency:top10k
+私は田中さんから本を___。	あげる	もらう	もらう	Direction: I receive from (←). あげる=give away.	receive from	[sound:922add7a75e3.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:あげる frequency:top10k
+先生から丁寧に教えて___。	もらう	いただく	いただく	From superior: humble いただく.	from superior: いただく	[sound:fb5a4b996f17.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:もらう frequency:top10k
+親友が私に助言を___。	くれる	あげる	くれる	Close friend→me=in-group. くれる=natural.	friend gives: くれる	[sound:914719008ad6.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro confusable-with:あげる frequency:low
+上司が部下に指示を___。	くれる	あげる	あげる	Superior→subordinate=out-group. あげる=correct.	superior→subordinate: あげる	[sound:f088645c051a.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:くれる frequency:low
+先生が学生に宿題を___。	くれる	あげる	あげる	Teacher→student=formal out-group.	formal: teacher gives	[sound:334fee7a1c9b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:くれる frequency:top1k
+兄弟で手伝い合って___。	あげる	くれる	both OK	Family: both work, but くれる=closer.	family: flexible	[sound:1f595236b6d6.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard frequency:top10k
+彼女は私に誕生日プレゼントを___。	あげる	くれる	くれる	Girlfriend (intimate)→me: くれる=closer.	intimate: くれる	[sound:3729abd1d057.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:あげる frequency:top5k
+両親が子供に教育費を___。	あげる	くれる	both OK	Parent context: both work, くれる=natural.	parents: both work	[sound:0f2e0eea2607.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard frequency:top5k
+ボスが従業員にボーナスを___。	くれる	あげる	あげる	Formal hierarchy: superior→subordinate=あげる.	hierarchy: あげる	[sound:78c91ac7a457.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:くれる frequency:low
+看護師が患者にお薬を___。	あげる	くれる	あげる	Professional service: out-group=あげる.	professional: あげる	[sound:6f97d1e2bb2b.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:くれる frequency:low
+姉が妹に洋服を___。	あげる	くれる	both OK	Siblings: flexible, くれる=closer bond.	siblings: flexible	[sound:bd7bd776ec94.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:intro frequency:top1k
+私は友人に本を貸して___。	あげる	やる	あげる	Loan to equal: あげる=standard.	to equal: あげる	[sound:cf6634951d95.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:やる frequency:top10k
+先輩が後輩に仕事の秘訣を___。	あげる	くれる	both OK	Workplace mentor: both work, あげる=formal.	mentor: flexible	[sound:0df6d63e6b20.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard frequency:top10k
+祖母が孫にお小遣いを___。	あげる	くれる	くれる	Grandparent (elder affection): くれる=natural.	elder+affection: くれる	[sound:b1209742b0a1.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:あげる frequency:low
+店員さんが客に袋を___。	あげる	くれる	あげる	Service transaction: out-group=あげる.	service: あげる	[sound:b8806c91661d.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:くれる frequency:top10k
+先生が学生に高い評価を___。	くれる	あげる	あげる	Teacher→student: formal=あげる.	formal hierarchy: あげる	[sound:f3f610d692b3.mp3]	module:02-n4 jlpt:n4 point:giving-receiving complexity:standard confusable-with:くれる frequency:top10k

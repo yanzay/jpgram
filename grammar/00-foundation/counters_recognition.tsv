@@ -4,103 +4,103 @@
 #notetype:Recognition
 #deck:Japanese Grammar::00 - Foundation::Recognition
 #
-1つください。	ひとつください。	Give me 1 (objects).	つ	standard	generic objects	default for most things	2つ: 2つ	[sound:d4bf8b1abda9.mp3]	module:00-foundation jlpt:n5 point:counters
-2つください。	ふたつください。	Give me 2 (objects).	つ	standard	generic objects	default for most things	1つ: 1つ	[sound:fdc0fee18f84.mp3]	module:00-foundation jlpt:n5 point:counters
-3つください。	みっつください。	Give me 3 (objects).	つ	standard	generic objects	default for most things	2つ: 2つ	[sound:4b7f2dadec29.mp3]	module:00-foundation jlpt:n5 point:counters
-4つください。	よっつください。	Give me 4 (objects).	つ	standard	generic objects	default for most things	3つ: 3つ	[sound:4b68bd39367a.mp3]	module:00-foundation jlpt:n5 point:counters
-5つください。	いつつください。	Give me 5 (objects).	つ	standard	generic objects	default for most things	4つ: 4つ	[sound:2037a7509df3.mp3]	module:00-foundation jlpt:n5 point:counters
-6つください。	むっつください。	Give me 6 (objects).	つ	standard	generic objects	default for most things	5つ: 5つ	[sound:4616e1499f9d.mp3]	module:00-foundation jlpt:n5 point:counters
-7つください。	ななつください。	Give me 7 (objects).	つ	standard	generic objects	default for most things	6つ: 6つ	[sound:c0517d52971a.mp3]	module:00-foundation jlpt:n5 point:counters
-8つください。	やっつください。	Give me 8 (objects).	つ	standard	generic objects	default for most things	7つ: 7つ	[sound:773ef9c004c4.mp3]	module:00-foundation jlpt:n5 point:counters
-9つください。	ここのつください。	Give me 9 (objects).	つ	standard	generic objects	default for most things	8つ: 8つ	[sound:7f06ab113909.mp3]	module:00-foundation jlpt:n5 point:counters
-10つください。	とおください。	Give me 10 (objects).	つ	standard	generic objects	default for most things	9つ: 9つ	[sound:51782b32a406.mp3]	module:00-foundation jlpt:n5 point:counters
-100つください。	ひゃくつください。	Give me 100 (objects).	つ	standard	generic objects	default for most things	99つ: 99つ	[sound:91fc3c852f75.mp3]	module:00-foundation jlpt:n5 point:counters
-1000つください。	せんつください。	Give me 1000 (objects).	つ	standard	generic objects	default for most things	999つ: 999つ	[sound:6decd84dd371.mp3]	module:00-foundation jlpt:n5 point:counters
-10000つください。	いちまんつください。	Give me 10000 (objects).	つ	standard	generic objects	default for most things	9999つ: 9999つ	[sound:d4b3205a3173.mp3]	module:00-foundation jlpt:n5 point:counters
-1人きました。	ひとりきました。	1 people came.	人	irregular: completely different	people	humans only	2人: ふたり	[sound:6284b768f0f4.mp3]	module:00-foundation jlpt:n5 point:counters
-2人きました。	ふたりきました。	2 people came.	人	irregular: completely different	people	humans only	1人: ひとり	[sound:e11e8901e99d.mp3]	module:00-foundation jlpt:n5 point:counters
-3人きました。	さんにんきました。	3 people came.	人	standard	people	humans only	2人: ふたり	[sound:cab2f683c9c8.mp3]	module:00-foundation jlpt:n5 point:counters
-4人きました。	よにんきました。	4 people came.	人	standard	people	humans only	3人: 3人	[sound:a7f0144bb50a.mp3]	module:00-foundation jlpt:n5 point:counters
-5人きました。	ごにんきました。	5 people came.	人	standard	people	humans only	4人: 4人	[sound:2cc2d3c50ed6.mp3]	module:00-foundation jlpt:n5 point:counters
-6人きました。	ろくにんきました。	6 people came.	人	standard	people	humans only	5人: 5人	[sound:8dd4f5c4e7ca.mp3]	module:00-foundation jlpt:n5 point:counters
-7人きました。	しちにんきました。	7 people came.	人	standard	people	humans only	6人: 6人	[sound:378e5284aa93.mp3]	module:00-foundation jlpt:n5 point:counters
-8人きました。	はちにんきました。	8 people came.	人	standard	people	humans only	7人: 7人	[sound:047a10546d70.mp3]	module:00-foundation jlpt:n5 point:counters
-9人きました。	きゅうにんきました。	9 people came.	人	standard	people	humans only	8人: 8人	[sound:e45c5ddd2e79.mp3]	module:00-foundation jlpt:n5 point:counters
-10人きました。	じゅうにんきました。	10 people came.	人	standard	people	humans only	9人: 9人	[sound:64732fc671ad.mp3]	module:00-foundation jlpt:n5 point:counters
-100人きました。	ひゃくにんきました。	100 people came.	人	standard	people	humans only	99人: 99人	[sound:01e5fbc989c1.mp3]	module:00-foundation jlpt:n5 point:counters
-1000人きました。	せんにんきました。	1000 people came.	人	standard	people	humans only	999人: 999人	[sound:984fed064e18.mp3]	module:00-foundation jlpt:n5 point:counters
-10000人きました。	いちまんにんきました。	10000 people came.	人	standard	people	humans only	9999人: 9999人	[sound:dd96cb46b617.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ1本ください。	えんぴついっぽんください。	I'll take 1 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	2本: 2本	[sound:bd3d2c3cfcf4.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ2本ください。	えんぴつにほんください。	I'll take 2 pencils.	本	standard	long thin objects	pencils, bottles, trees	1本: いっぽん	[sound:098004d0abc9.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ3本ください。	えんぴつさんぼんください。	I'll take 3 pencils.	本	rendaku: b-sound	long thin objects	pencils, bottles, trees	2本: 2本	[sound:0019768599ca.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ4本ください。	えんぴつよんほんください。	I'll take 4 pencils.	本	standard	long thin objects	pencils, bottles, trees	3本: さんぼん	[sound:602d16044a5e.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ5本ください。	えんぴつごほんください。	I'll take 5 pencils.	本	standard	long thin objects	pencils, bottles, trees	4本: 4本	[sound:3dc526b3311b.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ6本ください。	えんぴつろっぽんください。	I'll take 6 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	5本: 5本	[sound:f9956b924e00.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ7本ください。	えんぴつななほんください。	I'll take 7 pencils.	本	standard	long thin objects	pencils, bottles, trees	6本: ろっぽん	[sound:8db7a73b8fbc.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ8本ください。	えんぴつはっぽんください。	I'll take 8 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	7本: 7本	[sound:1520760dd33d.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ9本ください。	えんぴつきゅうほんください。	I'll take 9 pencils.	本	standard	long thin objects	pencils, bottles, trees	8本: はっぽん	[sound:3b14295dd170.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ10本ください。	えんぴつじゅっぽんください。	I'll take 10 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	9本: 9本	[sound:2d5c3abff76c.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ100本ください。	えんぴつひゃっぽんください。	I'll take 100 pencils.	本	standard	long thin objects	pencils, bottles, trees	99本: 99本	[sound:cb768ad46ec2.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ1000本ください。	えんぴつせんぼんください。	I'll take 1000 pencils.	本	standard	long thin objects	pencils, bottles, trees	999本: 999本	[sound:a353b039ed17.mp3]	module:00-foundation jlpt:n5 point:counters
-えんぴつ10000本ください。	えんぴついちまんほんください。	I'll take 10000 pencils.	本	standard	long thin objects	pencils, bottles, trees	9999本: 9999本	[sound:4b0df043e3ef.mp3]	module:00-foundation jlpt:n5 point:counters
-紙1枚ください。	かみいちまいください。	Please give me 1 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	2枚: 2枚	[sound:b42df6a8e091.mp3]	module:00-foundation jlpt:n5 point:counters
-紙2枚ください。	かみにまいください。	Please give me 2 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	1枚: いちまい	[sound:d9c83f81a614.mp3]	module:00-foundation jlpt:n5 point:counters
-紙3枚ください。	かみさんまいください。	Please give me 3 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	2枚: 2枚	[sound:14346a679817.mp3]	module:00-foundation jlpt:n5 point:counters
-紙4枚ください。	かみよんまいください。	Please give me 4 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	3枚: さんまい	[sound:8f80fcba1935.mp3]	module:00-foundation jlpt:n5 point:counters
-紙5枚ください。	かみごまいください。	Please give me 5 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	4枚: 4枚	[sound:0b444d225296.mp3]	module:00-foundation jlpt:n5 point:counters
-紙6枚ください。	かみろくまいください。	Please give me 6 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	5枚: 5枚	[sound:600decef3e39.mp3]	module:00-foundation jlpt:n5 point:counters
-紙7枚ください。	かみななまいください。	Please give me 7 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	6枚: ろくまい	[sound:a079eab46960.mp3]	module:00-foundation jlpt:n5 point:counters
-紙8枚ください。	かみはちまいください。	Please give me 8 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	7枚: 7枚	[sound:ee85bebafec0.mp3]	module:00-foundation jlpt:n5 point:counters
-紙9枚ください。	かみきゅうまいください。	Please give me 9 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	8枚: はちまい	[sound:daba9c25d9c0.mp3]	module:00-foundation jlpt:n5 point:counters
-紙10枚ください。	かみじゅうまいください。	Please give me 10 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	9枚: 9枚	[sound:897ca5ef249e.mp3]	module:00-foundation jlpt:n5 point:counters
-紙100枚ください。	かみひゃくまいください。	Please give me 100 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	99枚: 99枚	[sound:4c8779cd95cd.mp3]	module:00-foundation jlpt:n5 point:counters
-紙1000枚ください。	かみせんまいください。	Please give me 1000 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	999枚: 999枚	[sound:d509f2889c23.mp3]	module:00-foundation jlpt:n5 point:counters
-紙10000枚ください。	かみいちまんまいください。	Please give me 10000 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	9999枚: 9999枚	[sound:98f23c5bf294.mp3]	module:00-foundation jlpt:n5 point:counters
-魚1匹ほしい。	さかないっぴきほしい。	I want 1 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	2匹: 2匹	[sound:98c358f7050a.mp3]	module:00-foundation jlpt:n5 point:counters
-魚2匹ほしい。	さかなにひきほしい。	I want 2 fish.	匹	standard	small animals	fish, insects, cats	1匹: いっぴき	[sound:f2f281192b8d.mp3]	module:00-foundation jlpt:n5 point:counters
-魚3匹ほしい。	さかなさんびきほしい。	I want 3 fish.	匹	rendaku: b-sound	small animals	fish, insects, cats	2匹: 2匹	[sound:16ff838c68fa.mp3]	module:00-foundation jlpt:n5 point:counters
-魚4匹ほしい。	さかなよんひきほしい。	I want 4 fish.	匹	standard	small animals	fish, insects, cats	3匹: さんびき	[sound:4d63215de7f6.mp3]	module:00-foundation jlpt:n5 point:counters
-魚5匹ほしい。	さかなごひきほしい。	I want 5 fish.	匹	standard	small animals	fish, insects, cats	4匹: 4匹	[sound:0e5388f6023b.mp3]	module:00-foundation jlpt:n5 point:counters
-魚6匹ほしい。	さかなろっぴきほしい。	I want 6 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	5匹: 5匹	[sound:e87ecfbfee12.mp3]	module:00-foundation jlpt:n5 point:counters
-魚7匹ほしい。	さかなななひきほしい。	I want 7 fish.	匹	standard	small animals	fish, insects, cats	6匹: ろっぴき	[sound:e478c5b49c91.mp3]	module:00-foundation jlpt:n5 point:counters
-魚8匹ほしい。	さかなはっぴきほしい。	I want 8 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	7匹: 7匹	[sound:df327bed2d1b.mp3]	module:00-foundation jlpt:n5 point:counters
-魚9匹ほしい。	さかなきゅうひきほしい。	I want 9 fish.	匹	standard	small animals	fish, insects, cats	8匹: はっぴき	[sound:5775809a51a8.mp3]	module:00-foundation jlpt:n5 point:counters
-魚10匹ほしい。	さかなじゅっぴきほしい。	I want 10 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	9匹: 9匹	[sound:8b6065253001.mp3]	module:00-foundation jlpt:n5 point:counters
-魚100匹ほしい。	さかなひゃくひきほしい。	I want 100 fish.	匹	standard	small animals	fish, insects, cats	99匹: 99匹	[sound:81cbaf5fcbca.mp3]	module:00-foundation jlpt:n5 point:counters
-魚1000匹ほしい。	さかなせんひきほしい。	I want 1000 fish.	匹	standard	small animals	fish, insects, cats	999匹: 999匹	[sound:8d14dbb87ccc.mp3]	module:00-foundation jlpt:n5 point:counters
-魚10000匹ほしい。	さかないちまんひきほしい。	I want 10000 fish.	匹	standard	small animals	fish, insects, cats	9999匹: 9999匹	[sound:02952f8d8cff.mp3]	module:00-foundation jlpt:n5 point:counters
-車1台あります。	くるまいちだいあります。	There are 1 cars.	台	normal	machines	cars, computers, TVs	2台: 2台	[sound:db7ef4df36f6.mp3]	module:00-foundation jlpt:n5 point:counters
-車2台あります。	くるまにだいあります。	There are 2 cars.	台	standard	machines	cars, computers, TVs	1台: いちだい	[sound:a97586cc27ce.mp3]	module:00-foundation jlpt:n5 point:counters
-車3台あります。	くるまさんだいあります。	There are 3 cars.	台	normal	machines	cars, computers, TVs	2台: 2台	[sound:96471ce6fd11.mp3]	module:00-foundation jlpt:n5 point:counters
-車4台あります。	くるまよんだいあります。	There are 4 cars.	台	standard	machines	cars, computers, TVs	3台: さんだい	[sound:dca5b2324c58.mp3]	module:00-foundation jlpt:n5 point:counters
-車5台あります。	くるまごだいあります。	There are 5 cars.	台	standard	machines	cars, computers, TVs	4台: 4台	[sound:d40a36de569b.mp3]	module:00-foundation jlpt:n5 point:counters
-車6台あります。	くるまろくだいあります。	There are 6 cars.	台	normal	machines	cars, computers, TVs	5台: 5台	[sound:587b56ba7873.mp3]	module:00-foundation jlpt:n5 point:counters
-車7台あります。	くるまななだいあります。	There are 7 cars.	台	standard	machines	cars, computers, TVs	6台: ろくだい	[sound:027f4f77a3fc.mp3]	module:00-foundation jlpt:n5 point:counters
-車8台あります。	くるまはちだいあります。	There are 8 cars.	台	normal	machines	cars, computers, TVs	7台: 7台	[sound:0bff8ea256e3.mp3]	module:00-foundation jlpt:n5 point:counters
-車9台あります。	くるまきゅうだいあります。	There are 9 cars.	台	standard	machines	cars, computers, TVs	8台: はちだい	[sound:5557476f11b1.mp3]	module:00-foundation jlpt:n5 point:counters
-車10台あります。	くるまじゅうだいあります。	There are 10 cars.	台	normal	machines	cars, computers, TVs	9台: 9台	[sound:26d422ba410c.mp3]	module:00-foundation jlpt:n5 point:counters
-車100台あります。	くるまひゃくだいあります。	There are 100 cars.	台	standard	machines	cars, computers, TVs	99台: 99台	[sound:5a6fd95747fe.mp3]	module:00-foundation jlpt:n5 point:counters
-車1000台あります。	くるませんだいあります。	There are 1000 cars.	台	standard	machines	cars, computers, TVs	999台: 999台	[sound:f8ce5d0a2130.mp3]	module:00-foundation jlpt:n5 point:counters
-車10000台あります。	くるまいちまんだいあります。	There are 10000 cars.	台	standard	machines	cars, computers, TVs	9999台: 9999台	[sound:90d3592037a6.mp3]	module:00-foundation jlpt:n5 point:counters
-本1冊かりました。	ほんいっさつかりました。	I borrowed 1 books.	冊	sokuon: ん + さ	books	bound volumes	2冊: 2冊	[sound:45848c207624.mp3]	module:00-foundation jlpt:n5 point:counters
-本2冊かりました。	ほんにさつかりました。	I borrowed 2 books.	冊	standard	books	bound volumes	1冊: いっさつ	[sound:dca1d0534995.mp3]	module:00-foundation jlpt:n5 point:counters
-本3冊かりました。	ほんさんさつかりました。	I borrowed 3 books.	冊	normal	books	bound volumes	2冊: 2冊	[sound:c98c6cf1503d.mp3]	module:00-foundation jlpt:n5 point:counters
-本4冊かりました。	ほんよんさつかりました。	I borrowed 4 books.	冊	standard	books	bound volumes	3冊: さんさつ	[sound:5e9a303b15e7.mp3]	module:00-foundation jlpt:n5 point:counters
-本5冊かりました。	ほんごさつかりました。	I borrowed 5 books.	冊	standard	books	bound volumes	4冊: 4冊	[sound:bd0a9b606c41.mp3]	module:00-foundation jlpt:n5 point:counters
-本6冊かりました。	ほんろくさつかりました。	I borrowed 6 books.	冊	normal	books	bound volumes	5冊: 5冊	[sound:b24dad037be7.mp3]	module:00-foundation jlpt:n5 point:counters
-本7冊かりました。	ほんななさつかりました。	I borrowed 7 books.	冊	standard	books	bound volumes	6冊: ろくさつ	[sound:72b2bfa95fa7.mp3]	module:00-foundation jlpt:n5 point:counters
-本8冊かりました。	ほんはっさつかりました。	I borrowed 8 books.	冊	sokuon: ん + さ	books	bound volumes	7冊: 7冊	[sound:8d48a57dc8f6.mp3]	module:00-foundation jlpt:n5 point:counters
-本9冊かりました。	ほんきゅうさつかりました。	I borrowed 9 books.	冊	standard	books	bound volumes	8冊: はっさつ	[sound:5feeab12ccec.mp3]	module:00-foundation jlpt:n5 point:counters
-本10冊かりました。	ほんじゅっさつかりました。	I borrowed 10 books.	冊	sokuon: ん + さ	books	bound volumes	9冊: 9冊	[sound:e63dba9c8565.mp3]	module:00-foundation jlpt:n5 point:counters
-本100冊かりました。	ほんひゃくさつかりました。	I borrowed 100 books.	冊	standard	books	bound volumes	99冊: 99冊	[sound:843834c0f36a.mp3]	module:00-foundation jlpt:n5 point:counters
-本1000冊かりました。	ほんせんさつかりました。	I borrowed 1000 books.	冊	standard	books	bound volumes	999冊: 999冊	[sound:9be21018f148.mp3]	module:00-foundation jlpt:n5 point:counters
-本10000冊かりました。	ほんいちまんさつかりました。	I borrowed 10000 books.	冊	standard	books	bound volumes	9999冊: 9999冊	[sound:cf66b78ff694.mp3]	module:00-foundation jlpt:n5 point:counters
-一日1回のむ。	いちにちいっかいのむ。	Take it 1 times a day.	回	sokuon: ん + か	occurrences/times	frequency	2回: 2回	[sound:e7d6ebad6890.mp3]	module:00-foundation jlpt:n5 point:counters
-一日2回のむ。	いちにちにかいのむ。	Take it 2 times a day.	回	standard	occurrences/times	frequency	1回: いっかい	[sound:3735c2871650.mp3]	module:00-foundation jlpt:n5 point:counters
-一日3回のむ。	いちにちさんかいのむ。	Take it 3 times a day.	回	normal	occurrences/times	frequency	2回: 2回	[sound:2c96412e9ee8.mp3]	module:00-foundation jlpt:n5 point:counters
-一日4回のむ。	いちにちよんかいのむ。	Take it 4 times a day.	回	standard	occurrences/times	frequency	3回: さんかい	[sound:b1eeb4d3b210.mp3]	module:00-foundation jlpt:n5 point:counters
-一日5回のむ。	いちにちごかいのむ。	Take it 5 times a day.	回	standard	occurrences/times	frequency	4回: 4回	[sound:b980affb8f60.mp3]	module:00-foundation jlpt:n5 point:counters
-一日6回のむ。	いちにちろっかいのむ。	Take it 6 times a day.	回	sokuon: ん + か	occurrences/times	frequency	5回: 5回	[sound:e950c3dbde68.mp3]	module:00-foundation jlpt:n5 point:counters
-一日7回のむ。	いちにちななかいのむ。	Take it 7 times a day.	回	standard	occurrences/times	frequency	6回: ろっかい	[sound:0a6db11d160a.mp3]	module:00-foundation jlpt:n5 point:counters
-一日8回のむ。	いちにちはっかいのむ。	Take it 8 times a day.	回	sokuon: ん + か	occurrences/times	frequency	7回: 7回	[sound:59e672813b33.mp3]	module:00-foundation jlpt:n5 point:counters
-一日9回のむ。	いちにちきゅうかいのむ。	Take it 9 times a day.	回	standard	occurrences/times	frequency	8回: はっかい	[sound:0e6c5021099b.mp3]	module:00-foundation jlpt:n5 point:counters
+1つください。	ひとつください。	Give me 1 (objects).	つ	standard	generic objects	default for most things	2つ: 2つ	[sound:d4bf8b1abda9.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+2つください。	ふたつください。	Give me 2 (objects).	つ	standard	generic objects	default for most things	1つ: 1つ	[sound:fdc0fee18f84.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+3つください。	みっつください。	Give me 3 (objects).	つ	standard	generic objects	default for most things	2つ: 2つ	[sound:4b7f2dadec29.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+4つください。	よっつください。	Give me 4 (objects).	つ	standard	generic objects	default for most things	3つ: 3つ	[sound:4b68bd39367a.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+5つください。	いつつください。	Give me 5 (objects).	つ	standard	generic objects	default for most things	4つ: 4つ	[sound:2037a7509df3.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+6つください。	むっつください。	Give me 6 (objects).	つ	standard	generic objects	default for most things	5つ: 5つ	[sound:4616e1499f9d.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+7つください。	ななつください。	Give me 7 (objects).	つ	standard	generic objects	default for most things	6つ: 6つ	[sound:c0517d52971a.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+8つください。	やっつください。	Give me 8 (objects).	つ	standard	generic objects	default for most things	7つ: 7つ	[sound:773ef9c004c4.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+9つください。	ここのつください。	Give me 9 (objects).	つ	standard	generic objects	default for most things	8つ: 8つ	[sound:7f06ab113909.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+10つください。	とおください。	Give me 10 (objects).	つ	standard	generic objects	default for most things	9つ: 9つ	[sound:51782b32a406.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+100つください。	ひゃくつください。	Give me 100 (objects).	つ	standard	generic objects	default for most things	99つ: 99つ	[sound:91fc3c852f75.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+1000つください。	せんつください。	Give me 1000 (objects).	つ	standard	generic objects	default for most things	999つ: 999つ	[sound:6decd84dd371.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+10000つください。	いちまんつください。	Give me 10000 (objects).	つ	standard	generic objects	default for most things	9999つ: 9999つ	[sound:d4b3205a3173.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro
+1人きました。	ひとりきました。	1 people came.	人	irregular: completely different	people	humans only	2人: ふたり	[sound:6284b768f0f4.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+2人きました。	ふたりきました。	2 people came.	人	irregular: completely different	people	humans only	1人: ひとり	[sound:e11e8901e99d.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+3人きました。	さんにんきました。	3 people came.	人	standard	people	humans only	2人: ふたり	[sound:cab2f683c9c8.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+4人きました。	よにんきました。	4 people came.	人	standard	people	humans only	3人: 3人	[sound:a7f0144bb50a.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+5人きました。	ごにんきました。	5 people came.	人	standard	people	humans only	4人: 4人	[sound:2cc2d3c50ed6.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+6人きました。	ろくにんきました。	6 people came.	人	standard	people	humans only	5人: 5人	[sound:8dd4f5c4e7ca.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+7人きました。	しちにんきました。	7 people came.	人	standard	people	humans only	6人: 6人	[sound:378e5284aa93.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+8人きました。	はちにんきました。	8 people came.	人	standard	people	humans only	7人: 7人	[sound:047a10546d70.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+9人きました。	きゅうにんきました。	9 people came.	人	standard	people	humans only	8人: 8人	[sound:e45c5ddd2e79.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+10人きました。	じゅうにんきました。	10 people came.	人	standard	people	humans only	9人: 9人	[sound:64732fc671ad.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+100人きました。	ひゃくにんきました。	100 people came.	人	standard	people	humans only	99人: 99人	[sound:01e5fbc989c1.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+1000人きました。	せんにんきました。	1000 people came.	人	standard	people	humans only	999人: 999人	[sound:984fed064e18.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+10000人きました。	いちまんにんきました。	10000 people came.	人	standard	people	humans only	9999人: 9999人	[sound:dd96cb46b617.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ1本ください。	えんぴついっぽんください。	I'll take 1 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	2本: 2本	[sound:bd3d2c3cfcf4.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ2本ください。	えんぴつにほんください。	I'll take 2 pencils.	本	standard	long thin objects	pencils, bottles, trees	1本: いっぽん	[sound:098004d0abc9.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ3本ください。	えんぴつさんぼんください。	I'll take 3 pencils.	本	rendaku: b-sound	long thin objects	pencils, bottles, trees	2本: 2本	[sound:0019768599ca.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ4本ください。	えんぴつよんほんください。	I'll take 4 pencils.	本	standard	long thin objects	pencils, bottles, trees	3本: さんぼん	[sound:602d16044a5e.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ5本ください。	えんぴつごほんください。	I'll take 5 pencils.	本	standard	long thin objects	pencils, bottles, trees	4本: 4本	[sound:3dc526b3311b.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ6本ください。	えんぴつろっぽんください。	I'll take 6 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	5本: 5本	[sound:f9956b924e00.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ7本ください。	えんぴつななほんください。	I'll take 7 pencils.	本	standard	long thin objects	pencils, bottles, trees	6本: ろっぽん	[sound:8db7a73b8fbc.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ8本ください。	えんぴつはっぽんください。	I'll take 8 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	7本: 7本	[sound:1520760dd33d.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ9本ください。	えんぴつきゅうほんください。	I'll take 9 pencils.	本	standard	long thin objects	pencils, bottles, trees	8本: はっぽん	[sound:3b14295dd170.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ10本ください。	えんぴつじゅっぽんください。	I'll take 10 pencils.	本	sokuon: ん + ぽ	long thin objects	pencils, bottles, trees	9本: 9本	[sound:2d5c3abff76c.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+えんぴつ100本ください。	えんぴつひゃっぽんください。	I'll take 100 pencils.	本	standard	long thin objects	pencils, bottles, trees	99本: 99本	[sound:cb768ad46ec2.mp3]	module:00-foundation jlpt:n5 point:counters complexity:standard frequency:top1k
+えんぴつ1000本ください。	えんぴつせんぼんください。	I'll take 1000 pencils.	本	standard	long thin objects	pencils, bottles, trees	999本: 999本	[sound:a353b039ed17.mp3]	module:00-foundation jlpt:n5 point:counters complexity:standard frequency:top1k
+えんぴつ10000本ください。	えんぴついちまんほんください。	I'll take 10000 pencils.	本	standard	long thin objects	pencils, bottles, trees	9999本: 9999本	[sound:4b0df043e3ef.mp3]	module:00-foundation jlpt:n5 point:counters complexity:standard frequency:top1k
+紙1枚ください。	かみいちまいください。	Please give me 1 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	2枚: 2枚	[sound:b42df6a8e091.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙2枚ください。	かみにまいください。	Please give me 2 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	1枚: いちまい	[sound:d9c83f81a614.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙3枚ください。	かみさんまいください。	Please give me 3 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	2枚: 2枚	[sound:14346a679817.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙4枚ください。	かみよんまいください。	Please give me 4 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	3枚: さんまい	[sound:8f80fcba1935.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙5枚ください。	かみごまいください。	Please give me 5 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	4枚: 4枚	[sound:0b444d225296.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙6枚ください。	かみろくまいください。	Please give me 6 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	5枚: 5枚	[sound:600decef3e39.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙7枚ください。	かみななまいください。	Please give me 7 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	6枚: ろくまい	[sound:a079eab46960.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙8枚ください。	かみはちまいください。	Please give me 8 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	7枚: 7枚	[sound:ee85bebafec0.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙9枚ください。	かみきゅうまいください。	Please give me 9 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	8枚: はちまい	[sound:daba9c25d9c0.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙10枚ください。	かみじゅうまいください。	Please give me 10 sheets of paper.	枚	normal	flat objects	papers, plates, tickets	9枚: 9枚	[sound:897ca5ef249e.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙100枚ください。	かみひゃくまいください。	Please give me 100 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	99枚: 99枚	[sound:4c8779cd95cd.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙1000枚ください。	かみせんまいください。	Please give me 1000 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	999枚: 999枚	[sound:d509f2889c23.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+紙10000枚ください。	かみいちまんまいください。	Please give me 10000 sheets of paper.	枚	standard	flat objects	papers, plates, tickets	9999枚: 9999枚	[sound:98f23c5bf294.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚1匹ほしい。	さかないっぴきほしい。	I want 1 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	2匹: 2匹	[sound:98c358f7050a.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚2匹ほしい。	さかなにひきほしい。	I want 2 fish.	匹	standard	small animals	fish, insects, cats	1匹: いっぴき	[sound:f2f281192b8d.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚3匹ほしい。	さかなさんびきほしい。	I want 3 fish.	匹	rendaku: b-sound	small animals	fish, insects, cats	2匹: 2匹	[sound:16ff838c68fa.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚4匹ほしい。	さかなよんひきほしい。	I want 4 fish.	匹	standard	small animals	fish, insects, cats	3匹: さんびき	[sound:4d63215de7f6.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚5匹ほしい。	さかなごひきほしい。	I want 5 fish.	匹	standard	small animals	fish, insects, cats	4匹: 4匹	[sound:0e5388f6023b.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚6匹ほしい。	さかなろっぴきほしい。	I want 6 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	5匹: 5匹	[sound:e87ecfbfee12.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚7匹ほしい。	さかなななひきほしい。	I want 7 fish.	匹	standard	small animals	fish, insects, cats	6匹: ろっぴき	[sound:e478c5b49c91.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚8匹ほしい。	さかなはっぴきほしい。	I want 8 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	7匹: 7匹	[sound:df327bed2d1b.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚9匹ほしい。	さかなきゅうひきほしい。	I want 9 fish.	匹	standard	small animals	fish, insects, cats	8匹: はっぴき	[sound:5775809a51a8.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚10匹ほしい。	さかなじゅっぴきほしい。	I want 10 fish.	匹	sokuon: ん + ぴ	small animals	fish, insects, cats	9匹: 9匹	[sound:8b6065253001.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚100匹ほしい。	さかなひゃくひきほしい。	I want 100 fish.	匹	standard	small animals	fish, insects, cats	99匹: 99匹	[sound:81cbaf5fcbca.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚1000匹ほしい。	さかなせんひきほしい。	I want 1000 fish.	匹	standard	small animals	fish, insects, cats	999匹: 999匹	[sound:8d14dbb87ccc.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+魚10000匹ほしい。	さかないちまんひきほしい。	I want 10000 fish.	匹	standard	small animals	fish, insects, cats	9999匹: 9999匹	[sound:02952f8d8cff.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車1台あります。	くるまいちだいあります。	There are 1 cars.	台	normal	machines	cars, computers, TVs	2台: 2台	[sound:db7ef4df36f6.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車2台あります。	くるまにだいあります。	There are 2 cars.	台	standard	machines	cars, computers, TVs	1台: いちだい	[sound:a97586cc27ce.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車3台あります。	くるまさんだいあります。	There are 3 cars.	台	normal	machines	cars, computers, TVs	2台: 2台	[sound:96471ce6fd11.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車4台あります。	くるまよんだいあります。	There are 4 cars.	台	standard	machines	cars, computers, TVs	3台: さんだい	[sound:dca5b2324c58.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車5台あります。	くるまごだいあります。	There are 5 cars.	台	standard	machines	cars, computers, TVs	4台: 4台	[sound:d40a36de569b.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車6台あります。	くるまろくだいあります。	There are 6 cars.	台	normal	machines	cars, computers, TVs	5台: 5台	[sound:587b56ba7873.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車7台あります。	くるまななだいあります。	There are 7 cars.	台	standard	machines	cars, computers, TVs	6台: ろくだい	[sound:027f4f77a3fc.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車8台あります。	くるまはちだいあります。	There are 8 cars.	台	normal	machines	cars, computers, TVs	7台: 7台	[sound:0bff8ea256e3.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車9台あります。	くるまきゅうだいあります。	There are 9 cars.	台	standard	machines	cars, computers, TVs	8台: はちだい	[sound:5557476f11b1.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車10台あります。	くるまじゅうだいあります。	There are 10 cars.	台	normal	machines	cars, computers, TVs	9台: 9台	[sound:26d422ba410c.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車100台あります。	くるまひゃくだいあります。	There are 100 cars.	台	standard	machines	cars, computers, TVs	99台: 99台	[sound:5a6fd95747fe.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車1000台あります。	くるませんだいあります。	There are 1000 cars.	台	standard	machines	cars, computers, TVs	999台: 999台	[sound:f8ce5d0a2130.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+車10000台あります。	くるまいちまんだいあります。	There are 10000 cars.	台	standard	machines	cars, computers, TVs	9999台: 9999台	[sound:90d3592037a6.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本1冊かりました。	ほんいっさつかりました。	I borrowed 1 books.	冊	sokuon: ん + さ	books	bound volumes	2冊: 2冊	[sound:45848c207624.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本2冊かりました。	ほんにさつかりました。	I borrowed 2 books.	冊	standard	books	bound volumes	1冊: いっさつ	[sound:dca1d0534995.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本3冊かりました。	ほんさんさつかりました。	I borrowed 3 books.	冊	normal	books	bound volumes	2冊: 2冊	[sound:c98c6cf1503d.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本4冊かりました。	ほんよんさつかりました。	I borrowed 4 books.	冊	standard	books	bound volumes	3冊: さんさつ	[sound:5e9a303b15e7.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本5冊かりました。	ほんごさつかりました。	I borrowed 5 books.	冊	standard	books	bound volumes	4冊: 4冊	[sound:bd0a9b606c41.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本6冊かりました。	ほんろくさつかりました。	I borrowed 6 books.	冊	normal	books	bound volumes	5冊: 5冊	[sound:b24dad037be7.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本7冊かりました。	ほんななさつかりました。	I borrowed 7 books.	冊	standard	books	bound volumes	6冊: ろくさつ	[sound:72b2bfa95fa7.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本8冊かりました。	ほんはっさつかりました。	I borrowed 8 books.	冊	sokuon: ん + さ	books	bound volumes	7冊: 7冊	[sound:8d48a57dc8f6.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本9冊かりました。	ほんきゅうさつかりました。	I borrowed 9 books.	冊	standard	books	bound volumes	8冊: はっさつ	[sound:5feeab12ccec.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本10冊かりました。	ほんじゅっさつかりました。	I borrowed 10 books.	冊	sokuon: ん + さ	books	bound volumes	9冊: 9冊	[sound:e63dba9c8565.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本100冊かりました。	ほんひゃくさつかりました。	I borrowed 100 books.	冊	standard	books	bound volumes	99冊: 99冊	[sound:843834c0f36a.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本1000冊かりました。	ほんせんさつかりました。	I borrowed 1000 books.	冊	standard	books	bound volumes	999冊: 999冊	[sound:9be21018f148.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+本10000冊かりました。	ほんいちまんさつかりました。	I borrowed 10000 books.	冊	standard	books	bound volumes	9999冊: 9999冊	[sound:cf66b78ff694.mp3]	module:00-foundation jlpt:n5 point:counters complexity:standard frequency:top1k
+一日1回のむ。	いちにちいっかいのむ。	Take it 1 times a day.	回	sokuon: ん + か	occurrences/times	frequency	2回: 2回	[sound:e7d6ebad6890.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日2回のむ。	いちにちにかいのむ。	Take it 2 times a day.	回	standard	occurrences/times	frequency	1回: いっかい	[sound:3735c2871650.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日3回のむ。	いちにちさんかいのむ。	Take it 3 times a day.	回	normal	occurrences/times	frequency	2回: 2回	[sound:2c96412e9ee8.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日4回のむ。	いちにちよんかいのむ。	Take it 4 times a day.	回	standard	occurrences/times	frequency	3回: さんかい	[sound:b1eeb4d3b210.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日5回のむ。	いちにちごかいのむ。	Take it 5 times a day.	回	standard	occurrences/times	frequency	4回: 4回	[sound:b980affb8f60.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日6回のむ。	いちにちろっかいのむ。	Take it 6 times a day.	回	sokuon: ん + か	occurrences/times	frequency	5回: 5回	[sound:e950c3dbde68.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日7回のむ。	いちにちななかいのむ。	Take it 7 times a day.	回	standard	occurrences/times	frequency	6回: ろっかい	[sound:0a6db11d160a.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日8回のむ。	いちにちはっかいのむ。	Take it 8 times a day.	回	sokuon: ん + か	occurrences/times	frequency	7回: 7回	[sound:59e672813b33.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k
+一日9回のむ。	いちにちきゅうかいのむ。	Take it 9 times a day.	回	standard	occurrences/times	frequency	8回: はっかい	[sound:0e6c5021099b.mp3]	module:00-foundation jlpt:n5 point:counters complexity:intro frequency:top1k

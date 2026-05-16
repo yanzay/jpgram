@@ -54,6 +54,100 @@ def derive_path_tags(path: Path) -> list[str]:
     return tags
 
 
+# ---------------------------------------------------------------- frequency
+# JLPT vocab → frequency-band lookup. Built lazily so the script still runs
+# if data/frequency-lists/ is not present.
+_FREQ_INDEX: dict[str, str] | None = None
+
+def _load_freq_index() -> dict[str, str]:
+    """Return word→band map. Bands: top1k, top5k, top10k, low."""
+    global _FREQ_INDEX
+    if _FREQ_INDEX is not None:
+        return _FREQ_INDEX
+    import csv as _csv
+    idx: dict[str, str] = {}
+    jlpt_dir = Path("data/frequency-lists/jlpt")
+    if jlpt_dir.exists():
+        # N5 = top1k, N4 = top5k, N3 = top10k, N2/N1 = low
+        for level, band in [("n5", "top1k"), ("n4", "top5k"),
+                             ("n3", "top10k"), ("n2", "low"),
+                             ("n1", "low")]:
+            p = jlpt_dir / f"{level}.csv"
+            if not p.exists(): continue
+            with p.open(encoding="utf-8", newline="") as fh:
+                r = _csv.DictReader(fh)
+                for row in r:
+                    w = (row.get("expression") or "").strip()
+                    if w and w not in idx:
+                        idx[w] = band
+    _FREQ_INDEX = idx
+    return idx
+
+
+def derive_frequency_tag(jp: str) -> list[str]:
+    """Tag the lexically-rarest CJK word in the sentence (high signal)."""
+    idx = _load_freq_index()
+    if not idx: return []
+    # Crude: walk every 1-4 char substring, prefer longest match per starting position
+    found_bands: set[str] = set()
+    BAND_RANK = {"top1k": 0, "top5k": 1, "top10k": 2, "low": 3}
+    i = 0
+    while i < len(jp):
+        if "\u4e00" <= jp[i] <= "\u9fff" or "\u30a0" <= jp[i] <= "\u30ff":
+            for L in range(min(4, len(jp) - i), 0, -1):
+                sub = jp[i:i+L]
+                if sub in idx:
+                    found_bands.add(idx[sub])
+                    i += L; break
+            else: i += 1
+        else: i += 1
+    if not found_bands: return []
+    # Tag the RAREST band found (signals the difficulty floor of the sentence)
+    rarest = max(found_bands, key=lambda b: BAND_RANK[b])
+    return [f"frequency:{rarest}"]
+
+
+# ---------------------------------------------------------------- complexity
+def derive_complexity_tag(jp: str) -> list[str]:
+    """Stratify within a JLPT level: intro / standard / advanced.
+
+    Heuristic: mora-equivalent length + presence of subclause markers.
+    """
+    # Strip cloze markers + punctuation for length count
+    body = re.sub(r"\{\{c\d+::[^}]+\}\}", "X", jp)
+    body = re.sub(r"[。、！？\s]", "", body)
+    length = len(body)
+    # Subclauses: と思う, ので, から (causal), が (concessive), て-form chains
+    subclauses = (body.count("から") + body.count("ので") + body.count("けど") +
+                  body.count("が、") + body.count("し、") + body.count("たり") +
+                  body.count("という") + body.count("という"))
+    if length < 12 and subclauses <= 1:
+        return ["complexity:intro"]
+    if length < 25 and subclauses <= 2:
+        return ["complexity:standard"]
+    return ["complexity:advanced"]
+
+
+# ---------------------------------------------------------------- confusable-with
+def derive_confusable_tags(row: list[str], header: list[str]) -> list[str]:
+    """For Contrast rows, link to the alternate (OptionB if Answer=OptionA, else OptionA)."""
+    if "OptionA" not in header or "OptionB" not in header or "Answer" not in header:
+        return []
+    try:
+        a = row[header.index("OptionA")].strip()
+        b = row[header.index("OptionB")].strip()
+        ans = row[header.index("Answer")].strip()
+    except IndexError:
+        return []
+    if not (a and b and ans): return []
+    # Slugify the *other* option for the tag value
+    other = b if ans == a else a if ans == b else None
+    if not other: return []
+    slug = re.sub(r"[^A-Za-z0-9\u3040-\u30ff\u4e00-\u9fff]+", "-", other).strip("-")
+    if not slug: return []
+    return [f"confusable-with:{slug}"]
+
+
 def merge_tags(existing: str, new: list[str]) -> str:
     """Merge tag strings, de-duplicate, preserve order (existing first)."""
     seen: dict[str, None] = {}
@@ -96,7 +190,15 @@ def process_file(path: Path, dry_run: bool) -> int:
         if len(row) != len(header):
             out.append(line)
             continue
-        merged = merge_tags(row[-1], path_tags)
+        # Compose all axes: path-derived + content-derived (per-row)
+        jp = row[0]  # column 0 is JP for all note types except Production
+        if "Sample" in header and path.stem.endswith("_production"):
+            jp = row[header.index("Sample")]
+        row_tags = list(path_tags)
+        row_tags += derive_frequency_tag(jp)
+        row_tags += derive_complexity_tag(jp)
+        row_tags += derive_confusable_tags(row, header)
+        merged = merge_tags(row[-1], row_tags)
         if merged != (row[-1] or "").strip():
             row[-1] = merged
             changed += 1
