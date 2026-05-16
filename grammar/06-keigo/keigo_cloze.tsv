@@ -1,0 +1,45 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::06 - Keigo::Cloze
+先生がお部屋に{{c1::いらっしゃいます}}。	いらっしゃいます	honorific: teacher is in the room	[sound:4f4c3bdce9f8.mp3]	module:06-keigo point:keigo
+どうぞこのケーキを{{c1::召し上がってください}}。	めしあがってください	honorific eating: please have cake	[sound:5c03ea4a3840.mp3]	module:06-keigo point:keigo
+この論文をお{{c1::読みになりましたか}}。	よみになりましたか	honorific reading: did you read paper	[sound:238cb9eaba5e.mp3]	module:06-keigo point:keigo
+先生が重要なことを{{c1::おっしゃいました}}。	おおせになりました	honorific speaking: teacher said	[sound:2bb928e1fa1a.mp3]	module:06-keigo point:keigo
+親切にお{{c1::助けになりました}}。	たすけになりました	honorific helping: kindly helped	[sound:821135dea984.mp3]	module:06-keigo point:keigo
+私が明日{{c1::伺わせていただきます}}。	うかがわせていただきます	humble visiting: I will visit tomorrow	[sound:96fb6ad52f7f.mp3]	module:06-keigo point:keigo
+このご指摘を{{c1::申し上げさせていただきます}}。	もうしあげさせていただきます	humble: I humbly point out	[sound:b4f23ebde533.mp3]	module:06-keigo point:keigo
+その件について私が{{c1::いたしましょう}}。	いたしましょう	humble doing: I will humbly handle	[sound:aa8a1d25249e.mp3]	module:06-keigo point:keigo
+貴重なご著作を{{c1::拝見させていただきました}}。	はいけんさせていただきました	humble viewing: I humbly viewed	[sound:e69e98565825.mp3]	module:06-keigo point:keigo
+{{c1::承知さえていただきます}}。	しょうちさせていただきます	humble: I will humbly accept	[sound:de6843da801d.mp3]	module:06-keigo point:keigo
+このご提案は{{c1::ございますでしょうか}}。	ございますでしょうか	formal: is there this proposal	[sound:9fe62c101cd4.mp3]	module:06-keigo point:keigo
+こちらの製品は品質が{{c1::でございます}}。	でございます	formal copula: is of quality	[sound:e71e21d7fe60.mp3]	module:06-keigo point:keigo
+お忙しいところ{{c1::よろしいでしょうか}}。	よろしいでしょうか	formal question: is that okay	[sound:b5bcac7949aa.mp3]	module:06-keigo point:keigo
+クライアントがご来社{{c1::になりました}}。	になりました	honorific: client came	[sound:969abf78685c.mp3]	module:06-keigo point:keigo
+秘書が書類を{{c1::ご用意になります}}。	ごよういになります	honorific: secretary prepares	[sound:8e3989d11a71.mp3]	module:06-keigo point:keigo
+部長がお{{c1::決めになられました}}。	きめになられました	double honorific: director decided	[sound:683a82b66196.mp3]	module:06-keigo point:keigo
+お父さんが礼状を{{c1::お書きになります}}。	かきになります	honorific: father will write	[sound:4075cb2501a5.mp3]	module:06-keigo point:keigo
+先輩がご指摘を{{c1::くださいました}}。	くださいました	honorific: senior gave feedback	[sound:796fa1df6172.mp3]	module:06-keigo point:keigo
+田中部長がこのプロジェクトを{{c1::ご存じです}}。	ぞんじです	honorific knowing: director knows	[sound:a622383074ce.mp3]	module:06-keigo point:keigo
+お母さんがこのの件を{{c1::お考えになりました}}。	かんがえになりました	honorific: mother considered	[sound:16b35b1a04c9.mp3]	module:06-keigo point:keigo
+顧客がこのご説明を{{c1::お聞きになります}}。	おききになります	honorific: customer will listen	[sound:374556a5b2cd.mp3]	module:06-keigo point:keigo
+赤ちゃんが今朝{{c1::お生まれになりました}}。	うまれになりました	honorific: baby was born this morning	[sound:166091f8866f.mp3]	module:06-keigo point:keigo
+お医者さんがこの治療を{{c1::お話しになりました}}。	はなしになりました	honorific: doctor explained	[sound:5c8e737c9a33.mp3]	module:06-keigo point:keigo
+鈴木さんがいつ{{c1::いらっしゃいましたか}}。	いらっしゃいましたか	honorific: when did Suzuki come	[sound:a82bb37fd72f.mp3]	module:06-keigo point:keigo
+このような天候の時に雨が{{c1::お降りになります}}。	ふりになります	honorific: rain falls in such weather	[sound:5a0d20fe86ff.mp3]	module:06-keigo point:keigo
+部長がこのアイデアを{{c1::お作りになられました}}。	つくりになられました	double honorific: director created	[sound:541b2b7fcb85.mp3]	module:06-keigo point:keigo
+役員のみなさんがお{{c1::待ちになっています}}。	まちになっています	honorific: executives are waiting	[sound:afcb5b9966e0.mp3]	module:06-keigo point:keigo
+{{c1::ご覧になっていただきたいのです}}が。	ごらんになっていただきたいのです	honorific: want you to see	[sound:7b6ddc6dcf46.mp3]	module:06-keigo point:keigo
+社長がお{{c1::話しになられました}}。	はなしになられました	double honorific: president spoke	[sound:a8243018e98b.mp3]	module:06-keigo point:keigo
+先輩が本を{{c1::お下さいました}}。	くださいました	honorific: senior gave book	[sound:d7b6fcb7a7a3.mp3]	module:06-keigo point:keigo
+教授がその論点を{{c1::お読みになります}}。	よみになります	honorific: professor will read	[sound:e2bb8d5b9d8e.mp3]	module:06-keigo point:keigo
+{{c1::かしこまりました}}、おまかせください。	かしこまりました	formal understanding: understood	[sound:ad27a1617390.mp3]	module:06-keigo point:keigo
+{{c1::いかがいたしましょうか}}？	いかがいたしましょうか	formal offer: how can I help	[sound:5b55a32924d3.mp3]	module:06-keigo point:keigo
+お客さんがご来店{{c1::になられました}}。	になられました	double honorific: customer arrived	[sound:9d5206f8c3fd.mp3]	module:06-keigo point:keigo
+先生がこのご質問に{{c1::お答えになります}}。	こたえになります	honorific: teacher will answer	[sound:d333fd894080.mp3]	module:06-keigo point:keigo
+お父さんが朝ご飯を{{c1::召し上がられます}}。	めしあがられます	honorific passive: father eats	[sound:667739106667.mp3]	module:06-keigo point:keigo
+{{c1::ご検討いただきありがとうございます}}。	ごけんとういただきありがとうございます	formal thanks: thank you for review	[sound:637a3b83d993.mp3]	module:06-keigo point:keigo
+{{c1::お力添えをいただけますでしょうか}}。	おちからぞえをいただけますでしょうか	formal request: can you help	[sound:153ea40e8248.mp3]	module:06-keigo point:keigo
+その件について{{c1::ご相談させていただきたいのです}}。	ごそうだんさせていただきたいのです	humble: wish to consult	[sound:2aa011d2bdd5.mp3]	module:06-keigo point:keigo
+先生のご説明を{{c1::拝聴いたしました}}。	はいちょういたしました	humble: I humbly listened	[sound:b880ecc33f23.mp3]	module:06-keigo point:keigo

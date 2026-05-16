@@ -1,0 +1,40 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::06 - Keigo::Recognition
+お客さんがお待ちになります。	おきゃくさんがおまちになります。	The customer will wait.	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:3c44f8995a61.mp3]	[sound:3c44f8995a61.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お薬をお作りになります。	おくすりをおつくりになります。	The doctor will make medicine.	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:d2f5b200e49e.mp3]	[sound:d2f5b200e49e.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お読みになってください。	およみになってください。	Please read (honorific).	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:00e79b05bdcd.mp3]	[sound:00e79b05bdcd.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お帰りになりました。	おかえりになりました。	He/she went home.	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:b5816470b7c4.mp3]	[sound:b5816470b7c4.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご覧になりましたか。	ごらんになりましたか。	Did you see?	敬語	ご+stem+になる	sonkei ご+V+になる	honorific pattern	[sound:9b96ef0ef77e.mp3]	[sound:9b96ef0ef77e.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご説明になります。	ごせつめいになります。	He/she will explain.	敬語	ご+stem+になる	sonkei ご+V+になる	honorific pattern	[sound:897687b06dcc.mp3]	[sound:897687b06dcc.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お話しになりました。	おはなしになりました。	He/she spoke.	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:d95e7ffd92c0.mp3]	[sound:d95e7ffd92c0.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご指摘になります。	ごしてきになります。	He/she points out.	敬語	ご+stem+になる	sonkei ご+V+になる	honorific pattern	[sound:b05291735405.mp3]	[sound:b05291735405.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お受けになりました。	おうけになりました。	He/she accepted.	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:6c823fedf76c.mp3]	[sound:6c823fedf76c.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご検討をお願いいたします。	ごけんとうをおねがいいたします。	Please consider (humbly).	敬語	ご・する	kenjo ご+N+する	humble pattern	[sound:1b41c443bc93.mp3]	[sound:1b41c443bc93.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご報告させていただきます。	ごほうこくさせていただきます。	I will humbly report.	敬語	ご+stem+する	kenjo ご+V+する	humble pattern	[sound:053bfbd1213a.mp3]	[sound:053bfbd1213a.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご案内いたします。	ごあんないいたします。	I will guide (humbly).	敬語	ご+stem+いたす	kenjo ご+V+いたす	humble pattern	[sound:3a282de7d4e0.mp3]	[sound:3a282de7d4e0.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご紹介させていただきました。	ごしょうかいさせていただきました。	I humbly introduced.	敬語	ご+stem+させていただく	kenjo ご+V+させていただく	humble pattern	[sound:0261fcbbc334.mp3]	[sound:0261fcbbc334.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご承認をさせていただきたい。	ごしょうにんをさせていただきたい。	I wish to humbly approve.	敬語	ご+stem+させていただく	kenjo ご+V+させていただく	humble pattern	[sound:775dd40c5f8e.mp3]	[sound:775dd40c5f8e.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お手伝いさせていただきます。	おてつだいさせていただきます。	I will humbly help.	敬語	お+stem+させていただく	kenjo お+V+させていただく	humble pattern	[sound:d98027242ca3.mp3]	[sound:d98027242ca3.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お返事いたします。	おへんじいたします。	I will reply (humbly).	敬語	お+stem+いたす	kenjo お+V+いたす	humble pattern	[sound:0554ec66cc90.mp3]	[sound:0554ec66cc90.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご質問にお答えいたします。	ごしつもんにおこたえいたします。	I will humbly answer your question.	敬語	お+stem+いたす	kenjo お+V+いたす	humble pattern	[sound:44f2922855f7.mp3]	[sound:44f2922855f7.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お申し込みをさせていただきます。	おもうしこみをさせていただきます。	I will humbly apply.	敬語	お+stem+させていただく	kenjo お+V+させていただく	humble pattern	[sound:540c09487494.mp3]	[sound:540c09487494.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご利用させていただいております。	ごりようさせていただいております。	I am humbly using.	敬語	ご+stem+させていただく	kenjo ご+V+させていただく	humble pattern	[sound:abc56a3af31b.mp3]	[sound:abc56a3af31b.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お待たせいたしました。	おまたせいたしました。	I apologize for the wait.	敬語	お+stem+いたす	kenjo お+V+いたす	humble pattern	[sound:689ab6b3ec62.mp3]	[sound:689ab6b3ec62.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご来社いただきありがとうございます。	ごらいしゃいただきありがとうございます。	Thank you for coming.	敬語	ご+stem+いただく	kenjo ご+V+いただく	humble pattern	[sound:ad2f56a6f855.mp3]	[sound:ad2f56a6f855.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お忙しいところありがとうございます。	おいそがしいところありがとうございます。	Thank you despite your busy schedule.	敬語	お+stem+	kenjo お+adj	humble pattern	[sound:c4f2fc5de94e.mp3]	[sound:c4f2fc5de94e.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご不明な点をお聞かせください。	ごふめいなてんをおきかせください。	Please tell me if there are unclear points.	敬語	お+stem+ください	kenjo お+V+ください	humble pattern	[sound:7c1ec54591f9.mp3]	[sound:7c1ec54591f9.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お怪我はございませんか。	おけがはございませんか。	Are you injured?	敬語	お+stem+ございませんか	sonkei お+N+ございませんか	honorific pattern	[sound:d1daa4bfdffd.mp3]	[sound:d1daa4bfdffd.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お名前をお教えいただけますか。	おなまえをおおしえいただけますか。	Could you tell me your name?	敬語	お+stem+いただく	kenjo お+V+いただく	humble pattern	[sound:7fe4684bc78f.mp3]	[sound:7fe4684bc78f.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご住所をお伺いいたします。	ごじゅうしょをおうかがいいたします。	I will humbly ask your address.	敬語	お+stem+いたす	kenjo お+V+いたす	humble pattern	[sound:dbecbbc0bf5b.mp3]	[sound:dbecbbc0bf5b.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お電話をおかけになりますか。	おでんわをおかけになりますか。	Will you call (polite)?	敬語	お+stem+になる	sonkei お+V+になる	honorific pattern	[sound:c1bd3c1edb8e.mp3]	[sound:c1bd3c1edb8e.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご相談させていただきたいのですが。	ごそうだんさせていただきたいのですが。	I would like to humbly consult with you.	敬語	ご+stem+させていただく	kenjo ご+V+させていただく	humble pattern	[sound:5513970a62ec.mp3]	[sound:5513970a62ec.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お気づきの点をお教えください。	おきづきのてんをおおしえください。	Please tell me what you noticed.	敬語	お+stem+ください	kenjo お+V+ください	humble pattern	[sound:6c9819b2d762.mp3]	[sound:6c9819b2d762.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご不安なことがございましたら。	ごふあんなことがございましたら。	If you have any concerns.	敬語	ご+stem+ございましたら	kenjo ご+N+ございましたら	humble pattern	[sound:b4b8f51b381a.mp3]	[sound:b4b8f51b381a.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お申し込みになられましたか。	おもうしこみになられましたか。	Have you applied (very polite)?	敬語	お+stem+になられる	sonkei double honorific	honorific pattern	[sound:6fe9f85bf504.mp3]	[sound:6fe9f85bf504.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご存知のように。	ごぞんじのように。	As you know (polite).	敬語	ご+stem+	sonkei ご+V form	honorific pattern	[sound:9934ddf4d371.mp3]	[sound:9934ddf4d371.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お手数ですがご確認ください。	おてすうですがごかくにんください。	If it's not too much trouble, please confirm.	敬語	お+stem+ですが+ご+stem+	kenjo mixed pattern	humble pattern	[sound:a4c2c44ded13.mp3]	[sound:a4c2c44ded13.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+ご同意をいただけますようお願いいたします。	ごどういをいただけますようおねがいいたします。	I humbly request your agreement.	敬語	ご・+いただける+ようにお願い	kenjo pattern	humble pattern	[sound:28da6f4ecd00.mp3]	[sound:28da6f4ecd00.mp3]	module:06-keigo point:o-stem-ni-naru-suru
+お手間をおかけして恐れ入ります。	おてまをおかけしておそれいります。	I sincerely apologize for the trouble.	敬語	お・+おかけする	kenjo pattern	humble pattern	[sound:39d1a4232e81.mp3]	[sound:39d1a4232e81.mp3]	module:06-keigo point:o-stem-ni-naru-suru
