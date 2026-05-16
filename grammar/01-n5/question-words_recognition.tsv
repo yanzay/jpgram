@@ -4,28 +4,28 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 #
-何ですか？	なんですか？	What is it?	interrogative	なに（何）	what; asks about things	fundamental question word	どれ	[sound:0790a538fbd1.mp3]	
-どこにありますか？	どこにありますか？	Where is it?	interrogative	どこ	where; asks about location	location question	どちら	[sound:31e0ea1d70a0.mp3]	
-誰ですか？	だれですか？	Who is it?	interrogative	だれ（誰）	who; asks about people	person question	何か	[sound:ba295917041e.mp3]	
-いつ来ますか？	いつきますか？	When are you coming?	interrogative	いつ	when; asks about time	time question	どう	[sound:0a984e84dd95.mp3]	
-どうやって行きますか？	どうやっていきますか？	How do you go?	interrogative	どう	how; asks about method	method/manner question	どんな	[sound:f523fa854742.mp3]	
-どんな食べ物が好きですか？	どんなたべものがすきですか？	What kind of food do you like?	interrogative	どんな	what kind; descriptive question	type/quality question	どれ	[sound:704e5a88dd66.mp3]	
-どれが一番いいですか？	どれがいちばんいいですか？	Which one is best?	interrogative	どれ	which (3+ items)	choice among objects	どちら	[sound:12b2f6cb92b2.mp3]	
-どちらの方が好きですか？	どちらのほうがすきですか？	Which way do you prefer?	interrogative	どちら	which (2 items)	binary choice	どれ	[sound:a4032b39b9d7.mp3]	
-何か食べたいです。	なにかたべたいです。	I want to eat something.	indefinite	なに + か	something; indefinite	affirmative: something	だれか	[sound:9b0da08ec346.mp3]	
-誰か来ました。	だれかきました。	Someone came.	indefinite	だれ + か	someone; indefinite person	affirmative: someone	どこか	[sound:66a8fc583dab.mp3]	
-どこかに行きたいです。	どこかにいきたいです。	I want to go somewhere.	indefinite	どこ + か	somewhere; indefinite place	affirmative: somewhere	いつか	[sound:5bc8f4e898c4.mp3]	
-いつか会いましょう。	いつかあいましょう。	Let's meet sometime.	indefinite	いつ + か	sometime; indefinite time	affirmative: sometime	どうしてか	[sound:acd43e71570c.mp3]	
-どうしてか知りません。	どうしてかしりません。	I don't know somehow.	indefinite	どう + してか	somehow	indirect causation	何か	[sound:d85d2f43dee9.mp3]	
-何も食べませんでした。	なにもたべませんでした。	I didn't eat anything.	universal-negative	なに + も + negative	nothing (with negative)	negative: nothing at all	どれも	[sound:b7c03631db8a.mp3]	
-誰も来ませんでした。	だれもきませんでした。	No one came.	universal-negative	だれ + も + negative	no one (with negative)	negative: not a single person	どこも	[sound:29697078d260.mp3]	
-どこも行きませんでした。	どこもいきませんでした。	I didn't go anywhere.	universal-negative	どこ + も + negative	nowhere (with negative)	negative: not to any place	いつも	[sound:fab3b87ee1ac.mp3]	
-いつも勉強しています。	いつもべんきょうしています。	I always study.	universal	いつ + も + positive	always; at all times	positive: at all times	どれも	[sound:f26e8ace759c.mp3]	
-どれも好きです。	どれもすきです。	I like all of them.	universal	どれ + も + positive	all/any of them	positive: each one	何も	[sound:0722de913e4f.mp3]	
-何でもいいです。	なんでもいいです。	Anything is fine.	free-choice	なに + でも	anything; free choice	free choice: any option	だれでも	[sound:ceb68eb5ad8a.mp3]	
-誰でも参加できます。	だれでもさんかできます。	Anyone can participate.	free-choice	だれ + でも	anyone; no restrictions	free choice: any person	どこでも	[sound:6d1a6af749ba.mp3]	
-どこでも大丈夫です。	どこでもだいじょうぶです。	Anywhere is fine.	free-choice	どこ + でも	anywhere; no restriction	free choice: any place	何でも	[sound:84db28d2c6e2.mp3]	
-どんなものでもいいですか？	どんなものでもいいですか？	Any kind of thing is OK?	free-choice	どんな + でも	any kind; no type restriction	free choice: any type	何でも	[sound:4943452bb7b7.mp3]	
-これはいくらですか？	これはいくらですか？	How much is this?	interrogative-amount	いくら	how much (price)	cost/price question	いくつ	[sound:b0dbc9303cd8.mp3]	
-何個ですか？	なんこですか？	How many (items)?	interrogative-counter	なん + 個	how many items	countable objects	いくら	[sound:c6afd077560e.mp3]	
-あのアパートは何階ですか？	あのあぱーとはなんかいですか？	What floor is that apartment?	interrogative-counter	なん + 階	what floor/level (階 counter)	building stories	いくつ	[sound:5b1aacff5b53.mp3]	
+何ですか？	なんですか？	What is it?	interrogative	なに（何）	what; asks about things	fundamental question word	どれ	[sound:0790a538fbd1.mp3]	module:01-n5 jlpt:n5 point:question-words
+どこにありますか？	どこにありますか？	Where is it?	interrogative	どこ	where; asks about location	location question	どちら	[sound:31e0ea1d70a0.mp3]	module:01-n5 jlpt:n5 point:question-words
+誰ですか？	だれですか？	Who is it?	interrogative	だれ（誰）	who; asks about people	person question	何か	[sound:ba295917041e.mp3]	module:01-n5 jlpt:n5 point:question-words
+いつ来ますか？	いつきますか？	When are you coming?	interrogative	いつ	when; asks about time	time question	どう	[sound:0a984e84dd95.mp3]	module:01-n5 jlpt:n5 point:question-words
+どうやって行きますか？	どうやっていきますか？	How do you go?	interrogative	どう	how; asks about method	method/manner question	どんな	[sound:f523fa854742.mp3]	module:01-n5 jlpt:n5 point:question-words
+どんな食べ物が好きですか？	どんなたべものがすきですか？	What kind of food do you like?	interrogative	どんな	what kind; descriptive question	type/quality question	どれ	[sound:704e5a88dd66.mp3]	module:01-n5 jlpt:n5 point:question-words
+どれが一番いいですか？	どれがいちばんいいですか？	Which one is best?	interrogative	どれ	which (3+ items)	choice among objects	どちら	[sound:12b2f6cb92b2.mp3]	module:01-n5 jlpt:n5 point:question-words
+どちらの方が好きですか？	どちらのほうがすきですか？	Which way do you prefer?	interrogative	どちら	which (2 items)	binary choice	どれ	[sound:a4032b39b9d7.mp3]	module:01-n5 jlpt:n5 point:question-words
+何か食べたいです。	なにかたべたいです。	I want to eat something.	indefinite	なに + か	something; indefinite	affirmative: something	だれか	[sound:9b0da08ec346.mp3]	module:01-n5 jlpt:n5 point:question-words
+誰か来ました。	だれかきました。	Someone came.	indefinite	だれ + か	someone; indefinite person	affirmative: someone	どこか	[sound:66a8fc583dab.mp3]	module:01-n5 jlpt:n5 point:question-words
+どこかに行きたいです。	どこかにいきたいです。	I want to go somewhere.	indefinite	どこ + か	somewhere; indefinite place	affirmative: somewhere	いつか	[sound:5bc8f4e898c4.mp3]	module:01-n5 jlpt:n5 point:question-words
+いつか会いましょう。	いつかあいましょう。	Let's meet sometime.	indefinite	いつ + か	sometime; indefinite time	affirmative: sometime	どうしてか	[sound:acd43e71570c.mp3]	module:01-n5 jlpt:n5 point:question-words
+どうしてか知りません。	どうしてかしりません。	I don't know somehow.	indefinite	どう + してか	somehow	indirect causation	何か	[sound:d85d2f43dee9.mp3]	module:01-n5 jlpt:n5 point:question-words
+何も食べませんでした。	なにもたべませんでした。	I didn't eat anything.	universal-negative	なに + も + negative	nothing (with negative)	negative: nothing at all	どれも	[sound:b7c03631db8a.mp3]	module:01-n5 jlpt:n5 point:question-words
+誰も来ませんでした。	だれもきませんでした。	No one came.	universal-negative	だれ + も + negative	no one (with negative)	negative: not a single person	どこも	[sound:29697078d260.mp3]	module:01-n5 jlpt:n5 point:question-words
+どこも行きませんでした。	どこもいきませんでした。	I didn't go anywhere.	universal-negative	どこ + も + negative	nowhere (with negative)	negative: not to any place	いつも	[sound:fab3b87ee1ac.mp3]	module:01-n5 jlpt:n5 point:question-words
+いつも勉強しています。	いつもべんきょうしています。	I always study.	universal	いつ + も + positive	always; at all times	positive: at all times	どれも	[sound:f26e8ace759c.mp3]	module:01-n5 jlpt:n5 point:question-words
+どれも好きです。	どれもすきです。	I like all of them.	universal	どれ + も + positive	all/any of them	positive: each one	何も	[sound:0722de913e4f.mp3]	module:01-n5 jlpt:n5 point:question-words
+何でもいいです。	なんでもいいです。	Anything is fine.	free-choice	なに + でも	anything; free choice	free choice: any option	だれでも	[sound:ceb68eb5ad8a.mp3]	module:01-n5 jlpt:n5 point:question-words
+誰でも参加できます。	だれでもさんかできます。	Anyone can participate.	free-choice	だれ + でも	anyone; no restrictions	free choice: any person	どこでも	[sound:6d1a6af749ba.mp3]	module:01-n5 jlpt:n5 point:question-words
+どこでも大丈夫です。	どこでもだいじょうぶです。	Anywhere is fine.	free-choice	どこ + でも	anywhere; no restriction	free choice: any place	何でも	[sound:84db28d2c6e2.mp3]	module:01-n5 jlpt:n5 point:question-words
+どんなものでもいいですか？	どんなものでもいいですか？	Any kind of thing is OK?	free-choice	どんな + でも	any kind; no type restriction	free choice: any type	何でも	[sound:4943452bb7b7.mp3]	module:01-n5 jlpt:n5 point:question-words
+これはいくらですか？	これはいくらですか？	How much is this?	interrogative-amount	いくら	how much (price)	cost/price question	いくつ	[sound:b0dbc9303cd8.mp3]	module:01-n5 jlpt:n5 point:question-words
+何個ですか？	なんこですか？	How many (items)?	interrogative-counter	なん + 個	how many items	countable objects	いくら	[sound:c6afd077560e.mp3]	module:01-n5 jlpt:n5 point:question-words
+あのアパートは何階ですか？	あのあぱーとはなんかいですか？	What floor is that apartment?	interrogative-counter	なん + 階	what floor/level (階 counter)	building stories	いくつ	[sound:5b1aacff5b53.mp3]	module:01-n5 jlpt:n5 point:question-words

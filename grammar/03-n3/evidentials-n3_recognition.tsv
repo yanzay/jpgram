@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
+あいつは必ず来るにちがいない	あいつはかならずくるにちがいない	He will certainly come.	-にちがいない	certainty / no doubt	prediction	[sound:6c1a2f4e8b9a].mp3		[sound:cfdf565be43d.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+これは間違いなく最高傑作にちがいない	これはまちがいなくさいこうけっさくにちがいない	This is undoubtedly a masterpiece.	-にちがいない	certainty / no doubt	inference	[sound:3d5f7a2e1c4b].mp3		[sound:9d36002afb57.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+雨が降るにちがいない	あめがふるにちがいない	It will definitely rain.	-にちがいない	certainty / no doubt	prediction	[sound:8e2c4f1a9d7b].mp3		[sound:d2a7d2ac401c.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+彼は忙しいにちがいない	かれはいそがしいにちがいない	He must be busy.	-にちがいない	certainty / no doubt	inference	[sound:5b8d3a9f2e1c].mp3		[sound:7b55b68fe3d7.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+誰かが来たにちがいない	だれかがきたにちがいない	Someone definitely came.	-にちがいない	certainty / no doubt	inference	[sound:2f7c4e9a1d3b].mp3		[sound:1b7ac3c69efe.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+それは違うにちがいない	それはちがうにちがいない	That must be wrong.	-にちがいない	certainty / no doubt	inference	[sound:9a3b1e5d7f2c].mp3		[sound:08617ade0229.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+田中さんは来るはずだ	たなかさんはくるはずだ	Tanaka should come (as expected).	-はずだ	supposed to / expectation	expectation	[sound:4c9e2f1a8d3b].mp3		[sound:383f96e8f1bd.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+昨日届くはずだった	きのうとどくはずだった	It was supposed to arrive yesterday.	-はずだった	supposed to / past expectation	expectation	[sound:7a2d8f3c1b5e].mp3		[sound:3e2e5fe62024.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+完成するはずだ	かんせいするはずだ	It's supposed to be completed.	-はずだ	supposed to / expectation	expectation	[sound:1f5a3c9e2d7b].mp3		[sound:4e33097d9997.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+そんなはずがない	そんなはずがない	That can't be right.	-はずがない	contradiction / disbelief	negation	[sound:6d3a7f1c2e9b].mp3		[sound:8bf3f33df4fb.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+君が知らないはずがない	きみがしらないはずがない	You can't not know.	-はずがない	contradiction / disbelief	negation	[sound:9c2b5e7f1d4a].mp3		[sound:785e8619c4ee.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+彼が嘘をつくはずがない	かれがうそをつくはずがない	He can't be lying.	-はずがない	contradiction / disbelief	negation	[sound:3e8a1d5c9f2b].mp3		[sound:ffe8bbba5559.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+すぐに着くはずだ	すぐにつくはずだ	It should arrive soon.	-はずだ	supposed to / expectation	expectation	[sound:5f2d9a3e1c7b].mp3		[sound:372bda617596.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+これで終わるはずだった	これでおわるはずだった	This was supposed to end it.	-はずだった	supposed to / past expectation	expectation	[sound:8b1f4c7d2e9a].mp3		[sound:db190e193def.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+天気が良くなると思う	てんきがよくなるとおもう	I think the weather will improve.	-と思う	conjecture / opinion	opinion	[sound:2c7a1e9d3f5b].mp3		[sound:b365e600edb0.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+彼は優秀だと思われる	かれはゆうしゅうだとおもわれる	He is thought to be excellent.	-と思われる	passive conjecture	inference	[sound:4d9f2a1e7c3b].mp3		[sound:da2edc7a0041.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+これは間違いだと見られる	これはまちがいだとみられる	This appears to be a mistake.	-と見られる	appearance / seems	inference	[sound:7e3f1a5d2c8b].mp3		[sound:9113ceefb368.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+雨が降ると思う	あめがふるとおもう	I think it will rain.	-と思う	conjecture / opinion	opinion	[sound:1b8d5c9f2a3e].mp3		[sound:e614e993e8a8.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+その判断は適切だと思われる	そのはんだんはてきせつだとおもわれる	That decision seems appropriate.	-と思われる	passive conjecture	inference	[sound:6a2f1d8e3c7b].mp3		[sound:92df95dfffa2.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+彼は来そうにない	かれはこそうにない	He doesn't seem likely to come.	-そうにない	negative appearance	negation	[sound:3f7c2e1d9a5b].mp3		[sound:c2160ee5722a.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+上手くいきそうもない	うまくいきそうもない	It doesn't look like it will go well.	-そうもない	negative appearance	negation	[sound:8a3e5f1c2d9b].mp3		[sound:3735cfd9573b.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+改善されそうにない	かいぜんされそうにない	It doesn't appear to improve.	-そうにない	negative appearance	negation	[sound:5c1a9d7f2b3e].mp3		[sound:3b8cebd3809f.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+終わりそうもない	おわりそうもない	It doesn't seem to be ending.	-そうもない	negative appearance	negation	[sound:2e9b3a5f1c7d].mp3		[sound:3776cce0cf90.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+成功しそうにない	せいこうしそうにない	It doesn't look like it will succeed.	-そうにない	negative appearance	negation	[sound:7b2d1a8f3c5e].mp3		[sound:95582954473d.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+明日は晴れるだろう	あしたははれるだろう	It will probably be sunny tomorrow (speaker judgment).	-だろう	conjecture / judgment	conjecture	[sound:4a1f8c3e2d5b].mp3		[sound:69ca16b5db76.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+これはそうでしょう	これはそうでしょう	This is probably so (interactive).	-でしょう	conjecture / politeness	conjecture	[sound:9d2c5f7a1b3e].mp3		[sound:3770522c0158.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+雨が降るだろう	あめがふるだろう	Rain will probably fall.	-だろう	conjecture / judgment	conjecture	[sound:1e5a3d8f2c7b].mp3		[sound:210470741473.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+やめた方がいいでしょう	やめたほうがいいでしょう	You probably should stop.	-でしょう	conjecture / advice	advice	[sound:6f2a1d9c3e5b].mp3		[sound:92fa83790d92.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+事実はどうだろう	じじつはどうだろう	What is the actual fact? (rhetorical)	-だろう	rhetorical question	question	[sound:3b8e2f1a7d5c].mp3		[sound:631a6fef74b6.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3
+分かったでしょう	わかったでしょう	You understand now (checking).	-でしょう	checking understanding	confirmation	[sound:7c3a1e9f2b5d].mp3		[sound:10577b8ab3b9.mp3]	module:03-n3 jlpt:n3 point:evidentials-n3

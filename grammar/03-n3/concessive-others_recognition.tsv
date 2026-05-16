@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
+#
+もし失敗したとしても、また挑戦する。	もししっぱいしたとしても、またちょうせんする。	Even if I fail, I'll try again.	Conditional concessive	-たとしても	Undeterred resolve	Potential failure	febcf17e9871	[sound:febcf17e9871.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+誰が何を言ったとしても、信じない。	だれがなにをいったとしても、しんじない。	No matter what anyone says, I won't believe it.	Regardless statement	-たとしても	Fixed belief	External opinions	787c5c4e6c06	[sound:787c5c4e6c06.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+給料が上がったとしても、幸せになれるか分からない。	きゅうりょうがあがったとしても、しあわせになれるかわからない。	Even if my salary rises, I'm uncertain if I'll be happy.	Concession with doubt	-たとしても	Happiness skepticism	Salary increase	5e4d832fdb76	[sound:5e4d832fdb76.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+親だとしても、間違うことはあります。	おやだとしても、まちがうことはあります。	Even if one is a parent, mistakes happen.	Status concession	-だとしても	Parental fallibility	Parent role	5909488bd365	[sound:5909488bd365.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+才能があったとしても、努力なしに成功できない。	さいのうがあったとしても、どりょくなしにせいこうできない。	Even with talent, you can't succeed without effort.	Talent insufficiency	-たとしても	Effort requirement	Innate ability	b0c92e1ecd3f	[sound:b0c92e1ecd3f.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+どんなに頭がよかったとしても、経験がなければ役に立たない。	どんなにあたまがよかったとしても、けいけんがなければやくにたたない。	No matter how intelligent, experience is needed to be useful.	Intelligence limitation	-たとしても	Practical necessity	High intelligence	27d9dbfb6034	[sound:27d9dbfb6034.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+医者だとしても、すべての病気を治すことはできない。	いしゃだとしても、すべてのびょうきをなおすことはできない。	Even if one is a doctor, they can't cure every disease.	Professional limitation	-だとしても	Medical limits	Doctor expertise	fc29892b044f	[sound:fc29892b044f.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+運が悪かったとしても、すべてを責任にできない。	うんがわるかったとしても、すべてをせきにんにできない。	Even if luck was bad, you can't blame everything on it.	Luck exoneration	-たとしても	Responsibility still applies	Bad luck	dc0f33733cc3	[sound:dc0f33733cc3.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+貧困にもかかわらず、彼は大学に合格した。	ひんこんにもかかわらず、かれはだいがくにごうかくした。	Despite poverty, he got into university.	Poverty overcome	-にもかかわらず	Overcoming hardship	Economic hardship	60cae0c1fe0b	[sound:60cae0c1fe0b.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+反対にもかかわらず、計画を進めた。	はんたいにもかかわらず、けいかくをすすめた。	Despite opposition, we proceeded with the plan.	Obstruction ignored	-にもかかわらず	Determination	External resistance	d7ef630c0d78	[sound:d7ef630c0d78.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+警告にもかかわらず、彼は危険な行動をした。	けいこくにもかかわらず、かれはきけんなこうどうをした。	Despite warning, he acted dangerously.	Warning disregarded	-にもかかわらず	Recklessness	Clear caution	50b4e8cddf4f	[sound:50b4e8cddf4f.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+年齢にもかかわらず、彼女は若々しい。	ねんれいにもかかわらず、かのじょはわかわかしい。	Despite her age, she appears youthful.	Age defiance	-にもかかわらず	Beauty persistence	Advanced years	d96f70aaa716	[sound:d96f70aaa716.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+不況にもかかわらず、売上が増えている。	ふきょうにもかかわらず、うりあげがふえている。	Despite recession, sales are increasing.	Economic resilience	-にもかかわらず	Counter-cyclical growth	Economic downturn	daa1a830e7ef	[sound:daa1a830e7ef.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+天気が悪いにもかかわらず、イベントは開催される。	てんきがわるいにもかかわらず、いべんとはかいさいされる。	Despite bad weather, the event will be held.	Event resilience	-にもかかわらず	Weather override	Poor conditions	cee9a8a0e8ae	[sound:cee9a8a0e8ae.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+彼は頭がいいというものの、常識がない。	かれはあたまがいいというものの、じょうしきがない。	Though he's intelligent, he lacks common sense.	Intelligent but foolish	-というものの	Intellectual gap	Smart person	c20fce6665f9	[sound:c20fce6665f9.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+新しい技術というものの、実用性に疑問がある。	あたらしいぎじゅつというものの、じつようせいにぎもんがある。	Though it's new technology, its practicality is questionable.	Technology skepticism	-というものの	Innovation doubt	Recent invention	7e2b54877406	[sound:7e2b54877406.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+楽しいというものの、疲れる。	たのしいというものの、つかれる。	Though it's fun, it's tiring.	Fun exhaustion	-というものの	Contrasting feelings	Enjoyable activity	49d4a4bfb4b7	[sound:49d4a4bfb4b7.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+計画を立てたというものの、実行できるか分からない。	けいかくをたてたというものの、じっこうできるかわからない。	Though we made a plan, we're unsure if we can execute it.	Planning doubt	-というものの	Execution uncertainty	Completed plan	6cf159d96486	[sound:6cf159d96486.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+大事だというものの、多くの人が無視している。	だいじだというものの、おおくのひとがむししている。	Though it's important, many people ignore it.	Ignored importance	-というものの	Priority inversion	Stated importance	ce6a79ae8031	[sound:ce6a79ae8031.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+雨が降っているものの、野球の試合は続いている。	あめがふっているものの、やきゅうのしあいはつづいている。	Though it's raining, the baseball game continues.	Rain persistence	-ものの	Game determination	Weather condition	7b55d5a622d0	[sound:7b55d5a622d0.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+高いものの、良い製品です。	たかいものの、よいせいひんです。	Though expensive, it's a good product.	Price-quality trade	-ものの	Worth justification	High cost	47925f47c910	[sound:47925f47c910.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+苦手なものの、頑張っている。	にがてなものの、がんばっている。	Though it's difficult, I'm trying hard.	Effort despite difficulty	-ものの	Determination shown	Weak area	66033eca8c96	[sound:66033eca8c96.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+完璧ではないものの、悪くはない。	かんぺきではないものの、わるくはない。	Though not perfect, it's not bad.	Acceptable imperfection	-ものの	Standard met	Incomplete state	10412de669de	[sound:10412de669de.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+成功しようと失敗しようと、やり遂げる。	せいこうしようとしっぱいしようと、やりとげる。	Whether success or failure, I'll see it through.	Determined commitment	-ようと	Unwavering resolve	Two outcomes	4a9bf88240f6	[sound:4a9bf88240f6.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+誰が来ようと、構いません。	だれがこようと、かまいません。	No matter who comes, it doesn't matter.	Indifferent welcomeness	-ようと	Open acceptance	Unknown visitor	f9d6b7250c30	[sound:f9d6b7250c30.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+どんなに高くても安くても、品質は同じだ。	どんなにたかくてもやすくても、ひんしつはおなじだ。	Whether expensive or cheap, the quality is the same.	Price-quality independence	-ようと	Quality invariance	Price variation	4b9e4562fd53	[sound:4b9e4562fd53.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+今でも昔でも、ルールは変わらない。	いまでもむかしでも、るーるはかわらない。	Whether now or in the past, the rules don't change.	Rule consistency	-でも	Timeless principle	Temporal variation	d3a9df40e301	[sound:d3a9df40e301.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+どこにいようと、彼を忘れることはない。	どこにいようと、かれをわすれることはない。	No matter where I go, I won't forget him.	Ubiquitous memory	-ようと	Emotional constancy	Variable location	e2568e0fc0e2	[sound:e2568e0fc0e2.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+難しいながらも、チャレンジしたい。	むずかしいながらも、ちゃれんじしたい。	Though difficult, I want to attempt it.	Challenge despite hardship	-ながらも	Ambitious pursuit	High difficulty	49a9036cae8a	[sound:49a9036cae8a.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+反対しながらも、協力した。	はんたいしながらも、きょうりょくした。	Though I opposed, I cooperated.	Reluctant cooperation	-ながらも	Pragmatic compromise	Stated opposition	ddae3a6fb97f	[sound:ddae3a6fb97f.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+忙しいながらも、時間を作った。	いそがしいながらも、じかんをつくった。	Though busy, I made time.	Priority shifting	-ながらも	Effort commitment	Busy schedule	84f9aca81be7	[sound:84f9aca81be7.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+病気ながらも、仕事を続けている。	びょうきながらも、しごとをつづけている。	Though ill, I continue working.	Dedication despite illness	-ながらも	Work ethic	Health condition	3a4110b582d2	[sound:3a4110b582d2.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+若いながらも、経験が豊かだ。	わかいながらも、けいけんがゆたかだ。	Though young, they're experienced.	Youth paradox	-ながらも	Precocious maturity	Young age	dd85356aa786	[sound:dd85356aa786.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+去年のことというものの、まだ覚えている。	きょねんのことというものの、まだおぼえている。	Though it was last year, I still remember it.	Memory persistence	-ものの	Recall clarity	Past event	[sound:7b2c1f3e8d4a.mp3]	[sound:01648c1c1a25.mp3]	module:03-n3 jlpt:n3 point:concessive-others
+貧しいながらも、幸せだった。	まずしいながらも、しあわせだった。	Though poor, we were happy.	Poverty transcendence	-ながらも	Happiness independence	Low income	6a6d1962d267	[sound:6a6d1962d267.mp3]	module:03-n3 jlpt:n3 point:concessive-others
