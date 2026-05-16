@@ -123,3 +123,32 @@ the slice.
 Wave 1 and Wave 2 TSVs under `grammar/00-foundation/` and
 `grammar/01-n5/` are the canonical reference for exact formatting.
 Open any of them to compare.
+
+## Lessons learned from earlier waves (READ CAREFULLY)
+
+### Schema field counts — get this RIGHT
+* **Recognition**: exactly **10** tab-separated fields → `JP, Reading, EN, Label, Formula, MainUse, QuickCue, Contrast, Audio, Tags`
+* **Production**: exactly **7** fields → `Prompt, Target, Reading, Sample, Why, Audio, Tags`
+* **Cloze**: exactly **5** fields → `Text, Reading, Hint, Audio, Tags`
+* **Contrast**: exactly **8** fields → `JP, OptionA, OptionB, Answer, Why, Tip, Audio, Tags`
+  * If you don't have a meaningful Tip, put **empty string** — DO NOT drop the column.
+
+### Common bugs that have been caught & must be avoided
+1. **Bare hash in wrong column.** Audio is always `[sound:HASH.mp3]` (with the wrapper), never `HASH` alone. The wrapped form goes in the **Audio** column, nothing else.
+2. **Cloze files MUST have `{{c1::TARGET}}` markup** in column 1 (Text). A "Cloze" file with no `{{c…}}` markers is fundamentally broken.
+3. **Cloze hashes** are SHA1 of the **resolved** text (cloze markers stripped to just the answer), not the marked-up form.
+4. **Reading column** must be pure hiragana with cloze markers preserved — no kanji, no digits, no English. Render numbers as kana (`5` → `ご`, `18` → `じゅうはち`, `2026` → `にせんにじゅうろく`).
+5. **File naming**: always use **`_cloze.tsv`** with an underscore (not `-cloze.tsv` with a hyphen). The note-type detector greps for `_cloze`.
+6. **No alt-syntax in the JP column.** Never write `おかげで / せいで、…` — pick one canonical sentence per card. If you want to drill the contrast, that belongs in a Contrast file with the two options in OptionA/OptionB.
+7. **Cross-file duplicates within your slice are a bug**, not a feature. Every JP sentence should appear in at most ONE recognition card. If a contrast/cloze card needs a similar pattern, use a **different sentence**.
+
+### Verification BEFORE reporting success
+Run this snippet and ensure every output line shows the expected field count:
+```bash
+for f in <your-files-here>; do
+  ls -la "$f"
+  N=$(grep -vE '^(#|$)' "$f" | wc -l)
+  COLS=$(grep -vE '^(#|$)' "$f" | head -1 | awk -F'\t' '{print NF}')
+  echo "  rows=$N cols=$COLS"
+done
+```
