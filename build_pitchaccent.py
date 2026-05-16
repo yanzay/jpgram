@@ -78,6 +78,10 @@ def _is_lexical_token(token: str) -> bool:
     return True
 
 
+def _contains_kanji(s: str) -> bool:
+    return any("\u4e00" <= ch <= "\u9fff" for ch in s)
+
+
 def _reading_mora_count(reading: str) -> int:
     moras = []
     for ch in reading:
@@ -232,6 +236,83 @@ def _deinflect_candidates(token: str) -> list[str]:
     return candidates[:24]
 
 
+def _iter_subtoken_keys(token: str) -> list[str]:
+    """Generate fallback lexical candidates for phrase-like tokens.
+
+    This helps phrase/sentence tokens resolve to a core lexical component.
+    """
+    t = _normalize_token(token)
+    if not t:
+        return []
+
+    out: set[str] = set()
+
+    # Common polite and copula tails.
+    strip_suffixes = [
+        "ではありませんでした",
+        "ではありません",
+        "じゃありませんでした",
+        "じゃありません",
+        "ませんでした",
+        "ません",
+        "ました",
+        "でした",
+        "ですか",
+        "でしょうか",
+        "でしょう",
+        "ようです",
+        "みたいです",
+        "らしいです",
+        "です",
+        "だ",
+    ]
+    for suf in strip_suffixes:
+        if t.endswith(suf) and len(t) > len(suf):
+            out.add(t[: -len(suf)])
+
+    # Person-name and honorific suffixes.
+    for suf in ("さん", "さま", "ちゃん", "くん"):
+        if t.endswith(suf) and len(t) > len(suf):
+            out.add(t[: -len(suf)])
+
+    # Split across common particles to recover lexical chunks.
+    for p in "はがをにでともへのやかの":
+        if p in t:
+            parts = [x for x in t.split(p) if x]
+            for part in parts:
+                if len(part) >= 2:
+                    out.add(part)
+
+    # Bounded substring scan (prioritize meaningful chunks later by score).
+    n = len(t)
+    max_len = min(n, 10)
+    for ln in range(max_len, 2 - 1, -1):
+        for i in range(0, n - ln + 1):
+            sub = t[i : i + ln]
+            if len(sub) >= 2:
+                out.add(sub)
+
+    # Include deinflection over subtokens as well.
+    expanded: set[str] = set()
+    for c in out:
+        expanded.add(c)
+        expanded.add(_to_hiragana(c))
+        for d in _deinflect_candidates(c):
+            expanded.add(d)
+            expanded.add(_to_hiragana(d))
+
+    def _score(s: str) -> tuple[int, int]:
+        # Prefer kanji-containing and longer candidates.
+        return (1 if _contains_kanji(s) else 0, len(s))
+
+    ranked = sorted(
+        [c for c in expanded if c and c != t],
+        key=_score,
+        reverse=True,
+    )
+    return ranked[:120]
+
+
 def _load_overrides() -> dict[str, dict]:
     if not OVERRIDES_PATH.exists():
         return {}
@@ -378,8 +459,18 @@ def _resolve_token(token: str, overrides: dict[str, dict],
     for k in keys:
         candidates.extend(nhk.get(k, []))
     candidates = _dedupe_records(candidates)
+    derived_from = None
     if not candidates:
-        return None, meta
+        # Fallback: phrase/sentence token -> lexical subtoken lookup.
+        fallback_keys = _iter_subtoken_keys(token)
+        for k in fallback_keys:
+            sub_candidates = _dedupe_records(kanjium.get(k, []) + nhk.get(k, []))
+            if sub_candidates:
+                candidates = sub_candidates
+                derived_from = k
+                break
+        if not candidates:
+            return None, meta
 
     by_source: dict[str, list[dict]] = defaultdict(list)
     for c in candidates:
@@ -401,15 +492,19 @@ def _resolve_token(token: str, overrides: dict[str, dict],
     for c in candidates:
         signature_counts[(c["reading"], c["accent"])].add(c["source"])
     best_sig = (picked["reading"], picked["accent"])
-    if len(signature_counts[best_sig]) >= 2:
+    if derived_from:
+        conf = "low"
+    elif len(signature_counts[best_sig]) >= 2:
         conf = "high"
     else:
         conf = "medium"
-    if len(signature_counts) > 1:
+    if (not derived_from) and len(signature_counts) > 1:
         meta["conflict"] = True
     out = dict(picked)
     out["confidence"] = conf
     out["sources_considered"] = sorted(meta["sources"])
+    if derived_from:
+        out["derived_from"] = derived_from
     return out, meta
 
 
@@ -443,6 +538,7 @@ def _write_report(total: int, covered: int, weighted_total: int, weighted_covere
         "",
         f"- high: {confidence_counts['high']}",
         f"- medium: {confidence_counts['medium']}",
+        f"- low: {confidence_counts['low']}",
         "",
         "## Source Hits",
         "",
