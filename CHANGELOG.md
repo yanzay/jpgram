@@ -26,9 +26,8 @@ premium-grade gap research) and fixed the most impactful findings.
 * `requirements.txt` now clearly tiered (Tier-1 core / Tier-2 optional).
 
 **Audio pipeline upgrades:**
-* `build_audio.py` `--alt-voice <name>` and `--slow` flags — each
-  sentence can now be rendered in a 2nd voice (`<hash>_alt.mp3`) and
-  at a shadowing-friendly slower rate (`<hash>_slow.mp3`).
+* `build_audio.py` `--alt-voice <name>` flag — each sentence can
+  optionally be rendered in a 2nd voice (`<hash>_alt.mp3`) for variety.
 * `build_pitchaccent.py` (NEW) — Tier-2 NHK-style pitch-accent index
   builder with a Kanjium → NHK → Wadoku source-priority chain.
   Outputs `media/pitchaccent_index.json`. Card layout overlays the L/H

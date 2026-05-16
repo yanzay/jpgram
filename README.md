@@ -19,7 +19,7 @@ endings still alive in formal modern Japanese, and idiomatic
 | [`GRAMMAR_TAXONOMY.md`](GRAMMAR_TAXONOMY.md) | Cross-reference to Bunpro / Tofugu / Imabi / Shin Kanzen / DJG |
 | [`ANKI_SETTINGS.md`](ANKI_SETTINGS.md) | Recommended FSRS settings + study path |
 | `build_anki_package.py` | Builds `japanese_grammar_anki.apkg` (auto-runs taxonomy + validation pre-checks, then `validate_apkg.py` post-check) |
-| `build_audio.py` | **Tier-2** Google Cloud TTS, one MP3 per unique JP sentence; `--alt-voice` and `--slow` for multi-track output |
+| `build_audio.py` | **Tier-2** Google Cloud TTS, one MP3 per unique JP sentence; `--alt-voice` for an optional second-voice track |
 | `build_furigana.py` | **Tier-2** furigana + romaji index (pykakasi + fugashi) |
 | `build_pitchaccent.py` | **Tier-2** NHK-style pitch-accent index (Kanjium / NHK / Wadoku source chain) |
 | `normalize_audio.py` | EBU R128 loudness normalization (ffmpeg) |
@@ -48,7 +48,7 @@ python validate_anki_data.py
 # 3. Render audio (uses .secrets/gcp-adc.json automatically)
 python build_audio.py --limit 5 --dry-run                          # cost smoke
 python build_audio.py                                              # primary voice
-python build_audio.py --alt-voice ja-JP-Neural2-C --slow           # +alt voice +shadowing track
+python build_audio.py --alt-voice ja-JP-Neural2-C                  # +optional second voice
 
 # 4. Generate furigana + romaji + pitch-accent indices
 python build_furigana.py
