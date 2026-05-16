@@ -1,0 +1,26 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
+#
+Form the te-form of 飲む	飲んで	おみずをのんでください。	お水を飲んでください。	Derivation: mu-ending → nde	[sound:88e50ea1adc3.mp3]	
+Form the te-form of 書く	書いて	かいてください。	書いてください。	Derivation: ku-ending → ite	[sound:ce510e478b84.mp3]	
+Form the te-form of 待つ	待って	まってください。	待ってください。	Derivation: tsu-ending → tte	[sound:c9a51fc043b2.mp3]	
+Form the te-form of 読む	読んで	よんでください。	読んでください。	Derivation: mu-ending → nde	[sound:329bb053b783.mp3]	
+Form the te-form of 食べる	食べて	たべてください。	食べてください。	Group 2: remove -る, add -て	[sound:9f8d4d39509c.mp3]	
+Form the te-form of 見る	見て	みてください。	見てください。	Group 2: remove -る, add -て	[sound:11caf302df43.mp3]	
+Form the te-form of 来る	来て	きてください。	来てください。	Irregular verb	[sound:807cbd63223f.mp3]	
+Form the te-form of する	して	してください。	してください。	Irregular verb	[sound:42c2e52d3e2c.mp3]	
+Form the te-form of 行く	行って	いってください。	行ってください。	Irregular: 行く → 行って (not い-form)	[sound:a20cfc6cdcaf.mp3]	
+Form the te-form of 選ぶ	選んで	えらんでください。	選んでください。	Derivation: bu-ending → nde	[sound:da8f29624434.mp3]	
+Form the te-form of 歩く	歩いて	あるいてください。	歩いてください。	Derivation: ku-ending → ite	[sound:8b0ba7e3e86f.mp3]	
+Form the te-form of 聞く	聞いて	きいてください。	聞いてください。	Derivation: ku-ending → ite	[sound:ec8dfd107f10.mp3]	
+Form the te-form of 立つ	立って	たってください。	立ってください。	Derivation: tsu-ending → tte	[sound:515077e6f020.mp3]	
+Form the te-form of 死ぬ	死んで	しんでしまった。	死んでしまった。	Derivation: nu-ending → nde	[sound:e0d50c0713f9.mp3]	
+Form the te-form of 寝る	寝て	ねてください。	寝てください。	Group 2: remove -る, add -て	[sound:786f8fa18bb9.mp3]	
+Form the te-form of 起きる	起きて	おきてください。	起きてください。	Group 2: remove -る, add -て	[sound:e7053d9bf08f.mp3]	
+Form the te-form of 説明する	説明して	りゆうをせつめいしてください。	理由を説明してください。	Derivation: su-ending → shite	[sound:cb61683d34ab.mp3]	
+Form the te-form of 働く	働いて	はたらいています。	働いています。	Derivation: ku-ending → ite	[sound:3d1901aa5ad9.mp3]	
+Form the te-form of 進む	進んで	まえにすすんで。	前に進んで。	Derivation: mu-ending → nde	[sound:1fcdf33b197a.mp3]	
+Form the te-form of 話す	話して	はなしてください。	話してください。	Derivation: su-ending → shite	[sound:48a6bc459ae6.mp3]	
