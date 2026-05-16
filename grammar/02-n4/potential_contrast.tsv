@@ -6,18 +6,18 @@
 #
 # POTENTIAL CONTRAST — 15 cards drilling particle shift (を vs が), ra-nuki vs textbook, and form alternatives (verb-potential vs ことができる)
 #
-日本語を話せます。	を	が	が	Potential standardly uses が for direct object marking, but を is possible emphasizing the object.	Standard: use が	[sound:5c33e37c615c.mp3]	module:02-n4 jlpt:n4 point:potential
-韓国語を話せる。	を	が	が	In potential clauses, が marks the 'ability domain' more naturally than を.	Standard: use が	[sound:dafe86bccbab.mp3]	module:02-n4 jlpt:n4 point:potential
-この難題を解ける。	を	が	が	With potential, を on object is less natural; が on object is standard.	Standard: use が	[sound:3b12261ab134.mp3]	module:02-n4 jlpt:n4 point:potential
-コーヒーが飲める。	を	が	が	Even in casual speech, potential + が is the standard marking.	Standard: use が	[sound:eaf41b555255.mp3]	module:02-n4 jlpt:n4 point:potential
-クラシック音楽が聴ける。	を	が	が	Potential: shift object particle を to が.	Standard: use が	[sound:07b1ed2c1b4d.mp3]	module:02-n4 jlpt:n4 point:potential
-日本食を食べられます。	たべられます	たべれます	たべられます	Textbook form: 食べられる (formal, standard); ra-nuki 食べれる (young/casual speakers)	Textbook: -られる	[sound:442f5eafcd4e.mp3]	module:02-n4 jlpt:n4 point:potential
-英語が読める。	よめる	よまれる	よめる	This verb is already contracted in formal Japanese; the full form 読まれる is less common.	Common: -める	[sound:dcb2d8d83b7d.mp3]	module:02-n4 jlpt:n4 point:potential
-ビールが飲める。	のめる	のまれる	のめる	Ra-nuki contraction: 飲む → 飲める (contracted from 飲まれる, common in young speech).	Colloquial: -める	[sound:5f2624d70844.mp3]	module:02-n4 jlpt:n4 point:potential
-この歌が歌える。	うたえる	うたわれる	うたえる	Potential contracted: 歌える (common); full form 歌われる refers to a different meaning (being sung).	Standard potential: -える	[sound:b366f9b2e54d.mp3]	module:02-n4 jlpt:n4 point:potential
-この言語が話せる。	はなせる	はなされる	はなせる	Consonant-stem: 話す → 話せる (not 話される, which is different).	Group 1: -える	[sound:e4027a58ba3a.mp3]	module:02-n4 jlpt:n4 point:potential
-英語が話す能力があります。	はなすのうりょく	はなすことができます	はなすことができます	Both forms mean 'can speak'; potential is more concise; ことができる is slightly more explicit.	Concise: -える/-られる	[sound:6aab41089b81.mp3]	module:02-n4 jlpt:n4 point:potential
-富士山を登ることができた。	のぼることができた	のぼれた	のぼることができた	ことができる is more formal; the potential verb-form 登れた is casual.	Formal: ことができる	[sound:25a8edaa46a7.mp3]	module:02-n4 jlpt:n4 point:potential
-ダンスが踊れます。	おどれます	おどることができます	おどれます	Verb-potential is more natural and concise for everyday ability.	Natural/concise: -える	[sound:2a01929e16d6.mp3]	module:02-n4 jlpt:n4 point:potential
-この数式が計算できますか。	けいさんできますか	けいさんすることができますか	けいさんできますか	For questions about ability, the short potential form is standard.	Standard: -える/-られる	[sound:1906d7403405.mp3]	module:02-n4 jlpt:n4 point:potential
-雨の中を走ることができた。	はしることができた	はしれた	はしることができた	ことができる emphasizes 'possibility realized'; potential 走れた is casual but natural.	Formal/explicit: ことができる	[sound:7627ea5149cd.mp3]	module:02-n4 jlpt:n4 point:potential
+日本語を話せます。	を	が	が	Potential standardly uses が for direct object marking, but を is possible emphasizing the object.	Standard: use が	[sound:5c33e37c615c.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:を frequency:top10k
+韓国語を話せる。	を	が	が	In potential clauses, が marks the 'ability domain' more naturally than を.	Standard: use が	[sound:dafe86bccbab.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:を frequency:top10k
+この難題を解ける。	を	が	が	With potential, を on object is less natural; が on object is standard.	Standard: use が	[sound:3b12261ab134.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:を frequency:top10k
+コーヒーが飲める。	を	が	が	Even in casual speech, potential + が is the standard marking.	Standard: use が	[sound:eaf41b555255.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:を frequency:top1k
+クラシック音楽が聴ける。	を	が	が	Potential: shift object particle を to が.	Standard: use が	[sound:07b1ed2c1b4d.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:を frequency:low
+日本食を食べられます。	たべられます	たべれます	たべられます	Textbook form: 食べられる (formal, standard); ra-nuki 食べれる (young/casual speakers)	Textbook: -られる	[sound:442f5eafcd4e.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:たべれます frequency:top10k
+英語が読める。	よめる	よまれる	よめる	This verb is already contracted in formal Japanese; the full form 読まれる is less common.	Common: -める	[sound:dcb2d8d83b7d.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:よまれる frequency:top1k
+ビールが飲める。	のめる	のまれる	のめる	Ra-nuki contraction: 飲む → 飲める (contracted from 飲まれる, common in young speech).	Colloquial: -める	[sound:5f2624d70844.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:のまれる frequency:top10k
+この歌が歌える。	うたえる	うたわれる	うたえる	Potential contracted: 歌える (common); full form 歌われる refers to a different meaning (being sung).	Standard potential: -える	[sound:b366f9b2e54d.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:うたわれる frequency:top1k
+この言語が話せる。	はなせる	はなされる	はなせる	Consonant-stem: 話す → 話せる (not 話される, which is different).	Group 1: -える	[sound:e4027a58ba3a.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:はなされる frequency:top10k
+英語が話す能力があります。	はなすのうりょく	はなすことができます	はなすことができます	Both forms mean 'can speak'; potential is more concise; ことができる is slightly more explicit.	Concise: -える/-られる	[sound:6aab41089b81.mp3]	module:02-n4 jlpt:n4 point:potential complexity:standard confusable-with:はなすのうりょく frequency:top10k
+富士山を登ることができた。	のぼることができた	のぼれた	のぼることができた	ことができる is more formal; the potential verb-form 登れた is casual.	Formal: ことができる	[sound:25a8edaa46a7.mp3]	module:02-n4 jlpt:n4 point:potential complexity:standard confusable-with:のぼれた frequency:low
+ダンスが踊れます。	おどれます	おどることができます	おどれます	Verb-potential is more natural and concise for everyday ability.	Natural/concise: -える	[sound:2a01929e16d6.mp3]	module:02-n4 jlpt:n4 point:potential complexity:intro confusable-with:おどることができます frequency:top10k
+この数式が計算できますか。	けいさんできますか	けいさんすることができますか	けいさんできますか	For questions about ability, the short potential form is standard.	Standard: -える/-られる	[sound:1906d7403405.mp3]	module:02-n4 jlpt:n4 point:potential complexity:standard confusable-with:けいさんすることができますか frequency:top10k
+雨の中を走ることができた。	はしることができた	はしれた	はしることができた	ことができる emphasizes 'possibility realized'; potential 走れた is casual but natural.	Formal/explicit: ことができる	[sound:7627ea5149cd.mp3]	module:02-n4 jlpt:n4 point:potential complexity:standard confusable-with:はしれた frequency:top1k

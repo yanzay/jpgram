@@ -4,27 +4,27 @@
 #notetype:Recognition
 #deck:Japanese Grammar::09 - SFP & Aizuchi::Recognition
 #
-えっ	えっ	Huh? What?	surprise exclamation	えっ	marks surprise/shock	sudden surprise	vs あ	[sound:22daff09800f.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-へえ	へえ	Oh! (surprised)	mild surprise	へえ	indicates mild surprise	light interest	vs えっ	[sound:ca903eac7468.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-ひゃー	ひゃー	Wow! / Yikes!	excited exclamation	ひゃー	expresses excitement/fear	thrilled or scared	vs わー	[sound:57c2d002dcf0.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-うわ	うわ	Whoa! / Wow!	strong exclamation	うわ	expresses shock/wonder	powerful reaction	vs うわぁ	[sound:e54c732dd519.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-うわぁ	うわぁ	Wowww! (extended)	extended exclamation	うわぁ	prolonged wow expression	extended reaction	vs うわ	[sound:629998c9e55c.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-ゲッ	げっ	Ugh! (disgust)	disgust exclamation	ゲッ	expresses revulsion	gross/yuck marker	vs えっ	[sound:c3177957e1e1.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-オロオロ	おろおろ	Oh no! (flustered)	flustered exclamation	オロオロ	expresses confusion/panic	flustered state	vs あわあわ	[sound:7caf9662ae80.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-あわあわ	あわあわ	Oh gosh! (nervous)	nervous exclamation	あわあわ	indicates nervousness	anxious state	vs オロオロ	[sound:9f6e0799a1ab.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-うんと	うんと	Well, let me think.	thinking sound	うんと	marks hesitation/thinking	contemplation marker	vs えーと	[sound:37e563ecc0fa.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-えーと	えーと	Um, well... (hesitant)	hesitation sound	えーと	indicates searching for words	verbal pause	vs うんと	[sound:9ccfa57d008e.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-やった	やった	Yes! / I did it!	victory exclamation	やった	celebrates success	triumph marker	vs やりました	[sound:40816daf6c85.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-よし	よし	All right! / Let's go!	determination exclamation	よし	marks decision/readiness	commitment marker	vs よーし	[sound:add97ba54f6b.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-よーし	よーし	Allright! (extended)	extended determination	よーし	prolonged readiness	enthusiastic commitment	vs よし	[sound:023b741d596e.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-さあ	さあ	Come on! / Well then.	urging exclamation	さあ	prompts action/time passing	urgency marker	vs さあさあ	[sound:ff9f14ca0a0b.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-さあさあ	さあさあ	Come on, come on!	repeated urging	さあ(repeated)	emphasizes urgency	repeated prompting	vs さあ	[sound:6666355657f7.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-やばい	やばい	Oh no! / That's bad!	negative exclamation	やばい	expresses danger/problem	caution marker	vs えっ	[sound:626c1af47936.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-だめだ	だめだ	This won't work!	negation exclamation	だめだ	declares failure/impossibility	refusal marker	vs ダメ	[sound:c358ca83aa14.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-よしよし	よしよし	Good, good. (approving)	approving exclamation	よし(repeated)	expresses satisfaction	approval marker	vs よし	[sound:a26f9c6e6027.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-あーあ	あーあ	Ugh, sigh. (resigned)	resigned exclamation	あーあ	expresses disappointment	resignation marker	vs あぁ	[sound:80d5693fc894.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-ちぇっ	ちぇっ	Tch! (annoyed sound)	annoyed exclamation	ちぇっ	expresses irritation	frustration marker	vs うっ	[sound:b97d106c6b0a.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-うっ	うっ	Hmph! (suppressed sound)	suppressed sound	うっ	marks held emotion	restraint marker	vs ちぇっ	[sound:2968bbc7b133.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-あぁもう	あぁもう	Argh! Seriously!	frustrated exclamation	あぁもう	expresses exasperation	frustration marker	vs あぁ	[sound:fecbe079b4f3.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-ふう	ふう	Phew. (relieved sigh)	relieved exclamation	ふう	expresses relief	exhalation marker	vs ふぅ	[sound:944247a7b77d.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections
-わぁ	わぁ	Wow! (feminine delight)	delight exclamation	わぁ	expresses feminine joy	delighted reaction	vs わー	[sound:91a5f94b85bb.mp3]	pos:interjection register:feminine module:09-sfp-aizuchi point:interjections
+えっ	えっ	Huh? What?	surprise exclamation	えっ	marks surprise/shock	sudden surprise	vs あ	[sound:22daff09800f.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+へえ	へえ	Oh! (surprised).	mild surprise	へえ	indicates mild surprise	light interest	vs えっ	[sound:ca903eac7468.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+ひゃー	ひゃー	Wow! / Yikes!	excited exclamation	ひゃー	expresses excitement/fear	thrilled or scared	vs わー	[sound:57c2d002dcf0.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+うわ	うわ	Whoa! / Wow!	strong exclamation	うわ	expresses shock/wonder	powerful reaction	vs うわぁ	[sound:e54c732dd519.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+うわぁ	うわぁ	Wowww! (extended).	extended exclamation	うわぁ	prolonged wow expression	extended reaction	vs うわ	[sound:629998c9e55c.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+ゲッ	げっ	Ugh! (disgust).	disgust exclamation	ゲッ	expresses revulsion	gross/yuck marker	vs えっ	[sound:c3177957e1e1.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+オロオロ	おろおろ	Oh no! (flustered).	flustered exclamation	オロオロ	expresses confusion/panic	flustered state	vs あわあわ	[sound:7caf9662ae80.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+あわあわ	あわあわ	Oh gosh! (nervous).	nervous exclamation	あわあわ	indicates nervousness	anxious state	vs オロオロ	[sound:9f6e0799a1ab.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+うんと	うんと	Well, let me think.	thinking sound	うんと	marks hesitation/thinking	contemplation marker	vs えーと	[sound:37e563ecc0fa.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+えーと	えーと	Um, well... (hesitant).	hesitation sound	えーと	indicates searching for words	verbal pause	vs うんと	[sound:9ccfa57d008e.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+やった	やった	Yes! / I did it!	victory exclamation	やった	celebrates success	triumph marker	vs やりました	[sound:40816daf6c85.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+よし	よし	All right! / Let's go!	determination exclamation	よし	marks decision/readiness	commitment marker	vs よーし	[sound:add97ba54f6b.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+よーし	よーし	Allright! (extended).	extended determination	よーし	prolonged readiness	enthusiastic commitment	vs よし	[sound:023b741d596e.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+さあ	さあ	Come on! / Well then.	urging exclamation	さあ	prompts action/time passing	urgency marker	vs さあさあ	[sound:ff9f14ca0a0b.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+さあさあ	さあさあ	Come on, come on!	repeated urging	さあ(repeated)	emphasizes urgency	repeated prompting	vs さあ	[sound:6666355657f7.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+やばい	やばい	Oh no! / That's bad!	negative exclamation	やばい	expresses danger/problem	caution marker	vs えっ	[sound:626c1af47936.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+だめだ	だめだ	This won't work!	negation exclamation	だめだ	declares failure/impossibility	refusal marker	vs ダメ	[sound:c358ca83aa14.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+よしよし	よしよし	Good, good. (approving).	approving exclamation	よし(repeated)	expresses satisfaction	approval marker	vs よし	[sound:a26f9c6e6027.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+あーあ	あーあ	Ugh, sigh. (resigned).	resigned exclamation	あーあ	expresses disappointment	resignation marker	vs あぁ	[sound:80d5693fc894.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+ちぇっ	ちぇっ	Tch! (annoyed sound).	annoyed exclamation	ちぇっ	expresses irritation	frustration marker	vs うっ	[sound:b97d106c6b0a.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+うっ	うっ	Hmph! (suppressed sound).	suppressed sound	うっ	marks held emotion	restraint marker	vs ちぇっ	[sound:2968bbc7b133.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+あぁもう	あぁもう	Argh! Seriously!	frustrated exclamation	あぁもう	expresses exasperation	frustration marker	vs あぁ	[sound:fecbe079b4f3.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+ふう	ふう	Phew. (relieved sigh).	relieved exclamation	ふう	expresses relief	exhalation marker	vs ふぅ	[sound:944247a7b77d.mp3]	pos:interjection register:casual module:09-sfp-aizuchi point:interjections complexity:intro
+わぁ	わぁ	Wow! (feminine delight).	delight exclamation	わぁ	expresses feminine joy	delighted reaction	vs わー	[sound:91a5f94b85bb.mp3]	pos:interjection register:feminine module:09-sfp-aizuchi point:interjections complexity:intro

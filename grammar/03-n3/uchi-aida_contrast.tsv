@@ -4,23 +4,24 @@
 #notetype:Contrast
 #deck:Japanese Grammar::03 - N3 Grammar::Contrast
 #
-実は彼が話しているうちに、皆が笑い始めた。	うち	間	うち	'うち' emphasizes the temporal context; '間' emphasizes the other.		[sound:97eb6564822c.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-ところで時間が経つうちに、状況が変わった。	うち	間	うち	'うち' emphasizes the temporal context; '間' emphasizes the other.		[sound:248fd251c47d.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-実は映画を見ているうちに、寝てしまった。	うち	ときに	うち	'うち' emphasizes the temporal context; 'ときに' emphasizes the other.		[sound:7c3ec7847e34.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-仕事をしている間に、電話がかかった。	しごとをしているまに、でんわがかかった。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:1b4967876ac8.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-勉強しているうちに、友人が訪ねた。	うち	間	うち	'うち' emphasizes the temporal context; '間' emphasizes the other.		[sound:b7f2ca87e6f6.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-雨が降っている間に、急いで帰った。	あめがふっているまに、いそいでかえった。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:7e0f08944ff0.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-実は待っているうちに、電車が来た。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.		[sound:a98710832996.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-歌っている間に、声がかれた。	うたっているまに、こえがかれた。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:1adea828ad60.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-実は走っているうちに、足が痛くなった。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.		[sound:118c6758aa14.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-実は雨が降らないうちに、帰ろう。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.		[sound:3834eb63a495.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-実は忘れないうちに、メモを取った。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.		[sound:1d74c1f25377.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-壊れない間に、修理しよう。	こわれないまに、しゅうりしよう。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:7db7b14da086.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-その間に何が起きたか分からない。	そのまになにがおきたかわからない。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:e9dcef11a38d.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-短い時間の間に、たくさん勉強した。	みじかいじかんのまに、たくさんべんきょうした。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:b7b324b34bc4.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-一年の間に、大きく成長した。	いちねんのまに、おおきくせいちょうした。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.		[sound:4b42f647e5a4.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-食べている間に、話しかけてはいけない。	たべているまに、はなしかけてはいけない。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change		[sound:b6d0573dfe69.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-話しているうちに、誤解が生じた。	うち	間	うち	'うち' emphasizes time span; '間' emphasizes ongoing change		[sound:7fb9a6644da5.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-一時間の間に、宿題を終わらせた。	いちじかんのまに、しゅくだいをおわらせた。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change		[sound:d2fcbe78ef37.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-春の間に、花が咲く。	はるのまに、はながさく。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change		[sound:96883fde5f3a.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
-走っている間に、転んでしまった。	はしっているまに、ころんでしまった。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change		[sound:a96fcd962ef0.mp3]	module:03-n3 jlpt:n3 point:uchi-aida
+
+実は彼が話しているうちに、皆が笑い始めた。	うち	間	うち	'うち' emphasizes the temporal context; '間' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:97eb6564822c.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間 frequency:top10k
+ところで時間が経つうちに、状況が変わった。	うち	間	うち	'うち' emphasizes the temporal context; '間' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:248fd251c47d.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間 frequency:top10k
+実は映画を見ているうちに、寝てしまった。	うち	ときに	うち	'うち' emphasizes the temporal context; 'ときに' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:7c3ec7847e34.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:ときに frequency:top10k
+仕事をしている間に、電話がかかった。	しごとをしているまに、でんわがかかった。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:1b4967876ac8.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top5k
+勉強しているうちに、友人が訪ねた。	うち	間	うち	'うち' emphasizes the temporal context; '間' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:b7f2ca87e6f6.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間 frequency:top10k
+雨が降っている間に、急いで帰った。	あめがふっているまに、いそいでかえった。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:7e0f08944ff0.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top5k
+実は待っているうちに、電車が来た。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:a98710832996.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間に frequency:top10k
+歌っている間に、声がかれた。	うたっているまに、こえがかれた。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:1adea828ad60.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top5k
+実は走っているうちに、足が痛くなった。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:118c6758aa14.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間に frequency:top10k
+実は雨が降らないうちに、帰ろう。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:3834eb63a495.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間に frequency:top10k
+実は忘れないうちに、メモを取った。	うち	間に	うち	'うち' emphasizes the temporal context; '間に' emphasizes the other.	うち = ongoing/changing process; while happening.	[sound:1d74c1f25377.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間に frequency:top10k
+壊れない間に、修理しよう。	こわれないまに、しゅうりしよう。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:7db7b14da086.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:intro frequency:top10k
+その間に何が起きたか分からない。	そのまになにがおきたかわからない。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:e9dcef11a38d.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top10k
+短い時間の間に、たくさん勉強した。	みじかいじかんのまに、たくさんべんきょうした。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:b7b324b34bc4.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top5k
+一年の間に、大きく成長した。	いちねんのまに、おおきくせいちょうした。	うち	間	'間' emphasizes the temporal context; 'うち' emphasizes the other.	間 = defined time span; during period.	[sound:4b42f647e5a4.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top10k
+食べている間に、話しかけてはいけない。	たべているまに、はなしかけてはいけない。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change	間 = defined time span; during period.	[sound:b6d0573dfe69.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top5k
+話しているうちに、誤解が生じた。	うち	間	うち	'うち' emphasizes time span; '間' emphasizes ongoing change	うち = ongoing/changing process; while happening.	[sound:7fb9a6644da5.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard confusable-with:間 frequency:top10k
+一時間の間に、宿題を終わらせた。	いちじかんのまに、しゅくだいをおわらせた。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change	間 = defined time span; during period.	[sound:d2fcbe78ef37.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top10k
+春の間に、花が咲く。	はるのまに、はながさく。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change	間 = defined time span; during period.	[sound:96883fde5f3a.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:intro frequency:top5k
+走っている間に、転んでしまった。	はしっているまに、ころんでしまった。	うち	間	'間' emphasizes time span; 'うち' emphasizes ongoing change	間 = defined time span; during period.	[sound:a96fcd962ef0.mp3]	module:03-n3 jlpt:n3 point:uchi-aida complexity:standard frequency:top5k

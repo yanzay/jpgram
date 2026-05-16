@@ -4,23 +4,23 @@
 #notetype:Contrast
 #deck:Japanese Grammar::08 - Slang::Contrast
 #
-タピオ	タピオカ	タピオ	タピオ	Chat typo shorthand vs full word	Internet culture	[sound:6c0cad0e15e6.mp3]	register:slang module:08-slang point:slang
-キモイ	気持ちが悪い	キモイ	キモイ	Slang adjective vs formal phrase	Web slang register	[sound:d1dd1ee22ff7.mp3]	register:slang module:08-slang point:slang
-ワロタ	笑った	ワロタ	ワロタ	Internet laugh form vs normal past	Textspeak evolution	[sound:7007ce374665.mp3]	register:slang module:08-slang point:slang
-マジで	本当に	マジで	マジで	Casual reality vs formal	Formality spectrum	[sound:da3be97f351c.mp3]	register:slang module:08-slang point:slang
-めっちゃ	とても	めっちゃ	めっちゃ	Casual intensifier vs formal	Register spectrum	[sound:8d462c75940c.mp3]	register:slang module:08-slang point:slang
-ウケる	面白い	ウケる	ウケる	Reaction verb vs static adjective	Expression type	[sound:b3d3676ee3c5.mp3]	register:slang module:08-slang point:slang
-イケメン	美しい男性	イケメン	イケメン	Slang noun vs formal description	Modern colloquialism	[sound:090237d3922e.mp3]	register:slang module:08-slang point:slang
-チョー	とても	チョー	チョー	Youth slang vs formal intensifier	Age register	[sound:55e1784d6dbd.mp3]	register:slang module:08-slang point:slang
-ぐぐる	検索する	ぐぐる	ぐぐる	Internet verb vs formal verb	Tech culture jargon	[sound:d0a815ee195f.mp3]	register:slang module:08-slang point:slang
-リア会	面で会う	リア会	リア会	Chat abbreviation vs polite phrase	Online culture	[sound:3c5f30f9b972.mp3]	register:slang module:08-slang point:slang
-オススメ	推奨	オススメ	オススメ	Casual recommendation vs formal	Register choice	[sound:430ec426d5a2.mp3]	register:slang module:08-slang point:slang
-えぐい	激しい	えぐい	えぐい	Gen-Z extreme vs normal adjective	Youth register	[sound:d23b9d82d71a.mp3]	register:slang module:08-slang point:slang
-ポシャる	失敗する	ポシャる	ポシャる	Slang failure verb vs formal	Colloquialism	[sound:87c4a420a34f.mp3]	register:slang module:08-slang point:slang
-バエる	映える	バエル	バエル	Social media slang vs standard form	Modern internet term	[sound:5c7b739e632b.mp3]	register:slang module:08-slang point:slang
-推し	好きな	推し	推し	Fandom slang vs standard adjective	Fandom terminology	[sound:3a1d33ea584e.mp3]	register:slang module:08-slang point:slang
-スルー	無視する	スルー	スルー	English loanword slang vs Japanese	Loanword culture	[sound:de62a68dff68.mp3]	register:slang module:08-slang point:slang
-クソ	ひどい	クソ	クソ	Vulgar intensifier vs formal	Register vulgarity	[sound:7945ee53fab8.mp3]	register:slang module:08-slang point:slang
-ヤバい	危ない	ヤバい	ヤバい	Ambiguous slang vs specific meaning	Polysemy	[sound:1397ac0d88de.mp3]	register:slang module:08-slang point:slang
-ダルい	疲れた	ダルい	ダルい	Slang lazy vs past tense tired	Semantic difference	[sound:20aa40f81514.mp3]	register:slang module:08-slang point:slang
-アホ	バカ	アホ	アホ	Regional mild insult variants	Dialect choice	[sound:1fe325ea37d9.mp3]	register:slang module:08-slang point:slang
+タピオ	タピオカ	タピオ	タピオ	Chat typo shorthand vs full word	Internet culture	[sound:6c0cad0e15e6.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:タピオカ
+キモイ	気持ちが悪い	キモイ	キモイ	Slang adjective vs formal phrase	Web slang register	[sound:d1dd1ee22ff7.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:気持ちが悪い
+ワロタ	笑った	ワロタ	ワロタ	Internet laugh form vs normal past	Textspeak evolution	[sound:7007ce374665.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:笑った
+マジで	本当に	マジで	マジで	Casual reality vs formal	Formality spectrum	[sound:da3be97f351c.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:本当に
+めっちゃ	とても	めっちゃ	めっちゃ	Casual intensifier vs formal	Register spectrum	[sound:8d462c75940c.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:とても
+ウケる	面白い	ウケる	ウケる	Reaction verb vs static adjective	Expression type	[sound:b3d3676ee3c5.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:面白い
+イケメン	美しい男性	イケメン	イケメン	Slang noun vs formal description	Modern colloquialism	[sound:090237d3922e.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:美しい男性
+チョー	とても	チョー	チョー	Youth slang vs formal intensifier	Age register	[sound:55e1784d6dbd.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:とても
+ぐぐる	検索する	ぐぐる	ぐぐる	Internet verb vs formal verb	Tech culture jargon	[sound:d0a815ee195f.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:検索する
+リア会	面で会う	リア会	リア会	Chat abbreviation vs polite phrase	Online culture	[sound:3c5f30f9b972.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:面で会う
+オススメ	推奨	オススメ	オススメ	Casual recommendation vs formal	Register choice	[sound:430ec426d5a2.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:推奨
+えぐい	激しい	えぐい	えぐい	Gen-Z extreme vs normal adjective	Youth register	[sound:d23b9d82d71a.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:激しい
+ポシャる	失敗する	ポシャる	ポシャる	Slang failure verb vs formal	Colloquialism	[sound:87c4a420a34f.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:失敗する
+バエる	映える	バエル	バエル	Social media slang vs standard form	Modern internet term	[sound:5c7b739e632b.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:映える
+推し	好きな	推し	推し	Fandom slang vs standard adjective	Fandom terminology	[sound:3a1d33ea584e.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:好きな
+スルー	無視する	スルー	スルー	English loanword slang vs Japanese	Loanword culture	[sound:de62a68dff68.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:無視する
+クソ	ひどい	クソ	クソ	Vulgar intensifier vs formal	Register vulgarity	[sound:7945ee53fab8.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:ひどい
+ヤバい	危ない	ヤバい	ヤバい	Ambiguous slang vs specific meaning	Polysemy	[sound:1397ac0d88de.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:危ない
+ダルい	疲れた	ダルい	ダルい	Slang lazy vs past tense tired	Semantic difference	[sound:20aa40f81514.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:疲れた
+アホ	バカ	アホ	アホ	Regional mild insult variants	Dialect choice	[sound:1fe325ea37d9.mp3]	register:slang module:08-slang point:slang complexity:intro confusable-with:バカ
