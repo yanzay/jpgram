@@ -1,41 +1,21 @@
 #!/usr/bin/env python3
 """
-Tier-2 pitch-accent index builder.
+Reliable pitch-accent index builder.
 
-Premium Japanese decks (NHK Pronunciation Dictionary, OJAD, Dogen) ship
-**per-word pitch-accent annotations** so learners can hear *and* see the
-accent pattern on every card. This script builds that index from
-multiple authoritative sources, in priority order:
+Goals:
+  - deterministic multi-source merge
+  - explicit confidence tiers
+  - override-first curation workflow
+  - coverage gating for release pipelines
 
-  1. Local Kanjium / wadoku-derived pitch-accent SQLite (if present
-     at data/accents.sqlite — recommended by Yomitan community).
-  2. Local NHK accent CSV dump (if present at data/nhk_accents.csv).
-  3. Wadoku's open accent_db.tsv (if present at data/wadoku_accents.tsv).
+Source priority:
+  1. overrides (manual curation)
+  2. Kanjium sqlite
+  3. NHK CSV
 
-Each token from media/words_index.json (built by build_furigana.py) is
-looked up in turn; the highest-priority hit wins. Tokens with no match
-are reported (so we can curate them by hand).
-
-Output:
-  media/pitchaccent_index.json  →
-    { "version": 1,
-      "entries": {
-        "学生":   {"reading":"がくせい",   "accent":"0", "pattern":"LHHH"},
-        "先生":   {"reading":"せんせい",   "accent":"3", "pattern":"LHHL"},
-        "橋":     {"reading":"はし",       "accent":"2", "pattern":"LH"},
-        "箸":     {"reading":"はし",       "accent":"1", "pattern":"HL"},
-        ...
-      },
-      "missing":  ["…tokens with no source hit…"] }
-
-The card layout (added in Wave 1) overlays the pattern as a colored
-contour above the kanji, and as numeric Tokyo-style notation
-(e.g. ◯⁰ heiban, ¹atamadaka, ²nakadaka, ³odaka, …) on the back.
-
-This file is a SKELETON: it declares the lookup pipeline and output
-schema; the source-data ingestion functions are implemented in Wave 2
-once the data files are added under `data/` (.gitignored — bring your
-own license-permitting source).
+Outputs:
+  - media/pitchaccent_index.json
+  - research-reports/pitchaccent_coverage_report.md
 """
 from __future__ import annotations
 
@@ -44,55 +24,68 @@ import csv
 import json
 import sqlite3
 import sys
+import unicodedata
+from collections import defaultdict
 from pathlib import Path
-from typing import Optional
+from typing import Iterable, Optional
 
 WORDS_PATH = Path("media/words_index.json")
 OUT_PATH = Path("media/pitchaccent_index.json")
+REPORT_PATH = Path("research-reports/pitchaccent_coverage_report.md")
 DATA_DIR = Path("data")
+OVERRIDES_PATH = Path("data/pitch-accent/overrides.json")
 
-INDEX_VERSION = 1
-
-
-# ── Source loaders (skeleton; ingestion implemented in Wave 2) ───────────
-def _kanjium(token: str) -> Optional[dict]:
-    db = DATA_DIR / "accents.sqlite"
-    if not db.exists():
-        return None
-    try:
-        con = sqlite3.connect(db)
-        cur = con.execute(
-            "SELECT reading, accent FROM accents WHERE expression = ?",
-            (token,),
-        )
-        row = cur.fetchone()
-        con.close()
-        if row:
-            reading, accent = row
-            return {"reading": reading, "accent": str(accent),
-                    "pattern": _accent_to_pattern(reading, int(accent)),
-                    "source": "kanjium"}
-    except sqlite3.DatabaseError:
-        pass
-    return None
+INDEX_VERSION = 2
 
 
-def _nhk(token: str) -> Optional[dict]:
-    csv_path = DATA_DIR / "nhk_accents.csv"
-    if not csv_path.exists():
-        return None
-    # Wave 2: cache the CSV in a module-level dict on first call.
-    return None
+def _to_hiragana(s: str) -> str:
+    if not s:
+        return ""
+    out = []
+    for ch in s:
+        code = ord(ch)
+        # Katakana -> Hiragana block shift
+        if 0x30A1 <= code <= 0x30F6:
+            out.append(chr(code - 0x60))
+        else:
+            out.append(ch)
+    return "".join(out)
 
 
-def _wadoku(token: str) -> Optional[dict]:
-    tsv_path = DATA_DIR / "wadoku_accents.tsv"
-    if not tsv_path.exists():
-        return None
-    return None
+def _normalize_token(token: str) -> str:
+    token = unicodedata.normalize("NFKC", token.strip())
+    # Keep Japanese letters only for lookup consistency.
+    cleaned = "".join(ch for ch in token if _is_japanese_char(ch))
+    return cleaned or token
 
 
-SOURCES = [_kanjium, _nhk, _wadoku]
+def _is_japanese_char(ch: str) -> bool:
+    return (
+        ("\u3040" <= ch <= "\u309f")  # hiragana
+        or ("\u30a0" <= ch <= "\u30ff")  # katakana
+        or ("\u4e00" <= ch <= "\u9fff")  # kanji
+        or ch == "ー"
+    )
+
+
+def _is_lexical_token(token: str) -> bool:
+    token = _normalize_token(token)
+    if not token:
+        return False
+    # Exclude 1-char pure hiragana particles/aux noise from reliability KPI.
+    if len(token) == 1 and all("\u3040" <= ch <= "\u309f" for ch in token):
+        return False
+    return True
+
+
+def _reading_mora_count(reading: str) -> int:
+    moras = []
+    for ch in reading:
+        if ch in "ゃゅょャュョ" and moras:
+            moras[-1] += ch
+        else:
+            moras.append(ch)
+    return len(moras)
 
 
 def _accent_to_pattern(reading: str, accent: int) -> str:
@@ -122,18 +115,274 @@ def _accent_to_pattern(reading: str, accent: int) -> str:
     return "L" + "H" * (accent - 1) + "L" * (n - accent)
 
 
-def lookup(token: str) -> Optional[dict]:
-    for src in SOURCES:
-        hit = src(token)
-        if hit:
-            return hit
+def _normalize_reading(reading: str) -> str:
+    return _to_hiragana(unicodedata.normalize("NFKC", reading.strip()))
+
+
+def _parse_int(s: str) -> Optional[int]:
+    s = s.strip()
+    if not s:
+        return None
+    if s.isdigit():
+        return int(s)
     return None
+
+
+def _accent_in_range(accent: int, reading: str) -> bool:
+    m = _reading_mora_count(reading)
+    return 0 <= accent <= m
+
+
+def _iter_candidate_keys(token: str) -> Iterable[str]:
+    token = _normalize_token(token)
+    if not token:
+        return []
+    keys = {token, _to_hiragana(token)}
+    # Remove braces and parenthetical hints if present in tokenized vocab.
+    if "(" in token and ")" in token:
+        keys.add(token.split("(", 1)[0].strip())
+    return [k for k in keys if k]
+
+
+def _load_overrides() -> dict[str, dict]:
+    if not OVERRIDES_PATH.exists():
+        return {}
+    try:
+        raw = json.loads(OVERRIDES_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    out: dict[str, dict] = {}
+    for token, v in raw.items():
+        try:
+            reading = _normalize_reading(v["reading"])
+            accent = int(v["accent"])
+            if not _accent_in_range(accent, reading):
+                continue
+            out[_normalize_token(token)] = {
+                "reading": reading,
+                "accent": str(accent),
+                "pattern": _accent_to_pattern(reading, accent),
+                "source": "override",
+            }
+        except Exception:
+            continue
+    return out
+
+
+def _load_kanjium_index() -> dict[str, list[dict]]:
+    db = DATA_DIR / "accents.sqlite"
+    if not db.exists():
+        db = DATA_DIR / "pitch-accent/accents.sqlite"
+    if not db.exists():
+        return {}
+    out: dict[str, list[dict]] = defaultdict(list)
+    try:
+        con = sqlite3.connect(db)
+        cur = con.execute("SELECT expression, reading, accent FROM accents")
+        for expr, reading, accent in cur:
+            expr_n = _normalize_token(str(expr))
+            reading_n = _normalize_reading(str(reading))
+            try:
+                accent_i = int(accent)
+            except Exception:
+                continue
+            if not expr_n or not reading_n or not _accent_in_range(accent_i, reading_n):
+                continue
+            rec = {
+                "reading": reading_n,
+                "accent": str(accent_i),
+                "pattern": _accent_to_pattern(reading_n, accent_i),
+                "source": "kanjium",
+            }
+            out[expr_n].append(rec)
+            out[_to_hiragana(expr_n)].append(rec)
+            out[reading_n].append(rec)
+        con.close()
+    except sqlite3.DatabaseError:
+        return {}
+    return out
+
+
+def _pick_nhk_accent(row: list[str], reading: str) -> Optional[int]:
+    # ACCDB_unicode.csv variants put accent candidates around columns 9/10.
+    # Fallback: scan all integer-like columns and choose first valid value.
+    candidates = []
+    for idx in (10, 9):
+        if idx < len(row):
+            v = _parse_int(row[idx])
+            if v is not None:
+                candidates.append(v)
+    if not candidates:
+        for cell in row:
+            v = _parse_int(cell)
+            if v is not None:
+                candidates.append(v)
+    for c in candidates:
+        if _accent_in_range(c, reading):
+            return c
+    return None
+
+
+def _load_nhk_index() -> dict[str, list[dict]]:
+    candidates = [
+        DATA_DIR / "pitch-accent/nhk_accents.csv",
+        DATA_DIR / "nhk_accents.csv",
+    ]
+    csv_path = next((p for p in candidates if p.exists()), None)
+    if csv_path is None:
+        return {}
+    out: dict[str, list[dict]] = defaultdict(list)
+    with csv_path.open(encoding="utf-8", newline="") as fh:
+        r = csv.reader(fh)
+        for row in r:
+            if len(row) < 9:
+                continue
+            # Heuristic columns based on dataset shape:
+            # [6]=kana reading, [7]=written form, [8]=annotated form
+            reading = _normalize_reading(row[6] if len(row) > 6 else "")
+            written = _normalize_token(row[7] if len(row) > 7 else "")
+            annotated = _normalize_token(row[8] if len(row) > 8 else "")
+            if not reading:
+                continue
+            accent = _pick_nhk_accent(row, reading)
+            if accent is None:
+                continue
+            rec = {
+                "reading": reading,
+                "accent": str(accent),
+                "pattern": _accent_to_pattern(reading, accent),
+                "source": "nhk",
+            }
+            for k in {written, annotated, _to_hiragana(written), _to_hiragana(annotated), reading}:
+                if k:
+                    out[k].append(rec)
+    return out
+
+
+def _dedupe_records(records: list[dict]) -> list[dict]:
+    seen = set()
+    out = []
+    for r in records:
+        k = (r["source"], r["reading"], r["accent"])
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(r)
+    return out
+
+
+def _resolve_token(token: str, overrides: dict[str, dict],
+                   kanjium: dict[str, list[dict]],
+                   nhk: dict[str, list[dict]]) -> tuple[Optional[dict], dict]:
+    keys = list(_iter_candidate_keys(token))
+    meta = {"sources": [], "conflict": False}
+
+    for k in keys:
+        if k in overrides:
+            picked = dict(overrides[k])
+            picked["confidence"] = "high"
+            picked["sources_considered"] = ["override"]
+            return picked, meta
+
+    candidates = []
+    for k in keys:
+        candidates.extend(kanjium.get(k, []))
+    for k in keys:
+        candidates.extend(nhk.get(k, []))
+    candidates = _dedupe_records(candidates)
+    if not candidates:
+        return None, meta
+
+    by_source: dict[str, list[dict]] = defaultdict(list)
+    for c in candidates:
+        by_source[c["source"]].append(c)
+    meta["sources"] = sorted(by_source.keys())
+
+    # deterministic priority pick
+    priority = ("kanjium", "nhk")
+    picked = None
+    for src in priority:
+        if by_source.get(src):
+            picked = by_source[src][0]
+            break
+    if picked is None:
+        picked = candidates[0]
+
+    # confidence: high if at least 2 sources agree on accent+reading
+    signature_counts: dict[tuple[str, str], set[str]] = defaultdict(set)
+    for c in candidates:
+        signature_counts[(c["reading"], c["accent"])].add(c["source"])
+    best_sig = (picked["reading"], picked["accent"])
+    if len(signature_counts[best_sig]) >= 2:
+        conf = "high"
+    else:
+        conf = "medium"
+    if len(signature_counts) > 1:
+        meta["conflict"] = True
+    out = dict(picked)
+    out["confidence"] = conf
+    out["sources_considered"] = sorted(meta["sources"])
+    return out, meta
+
+
+def _write_report(total: int, covered: int, weighted_total: int, weighted_covered: int,
+                  lexical_total: int, lexical_covered: int,
+                  lexical_weighted_total: int, lexical_weighted_covered: int,
+                  entries: dict[str, dict], missing: list[str], conflicts: list[str],
+                  source_hits: dict[str, int], words: dict[str, int]) -> None:
+    coverage = (covered / total * 100.0) if total else 0.0
+    weighted_coverage = (weighted_covered / weighted_total * 100.0) if weighted_total else 0.0
+    lexical_coverage = (lexical_covered / lexical_total * 100.0) if lexical_total else 0.0
+    lexical_weighted_coverage = (
+        lexical_weighted_covered / lexical_weighted_total * 100.0
+    ) if lexical_weighted_total else 0.0
+    confidence_counts = defaultdict(int)
+    for e in entries.values():
+        confidence_counts[e.get("confidence", "unknown")] += 1
+    missing_top = sorted(missing, key=lambda t: words.get(t, 0), reverse=True)
+    conflict_top = sorted(conflicts, key=lambda t: words.get(t, 0), reverse=True)
+    lines = [
+        "# Pitch Accent Coverage Report",
+        "",
+        f"- Total tokens: **{total}**",
+        f"- Covered tokens: **{covered}**",
+        f"- Coverage: **{coverage:.2f}%**",
+        f"- Weighted coverage (by token frequency): **{weighted_coverage:.2f}%**",
+        f"- Lexical coverage (filtered tokens): **{lexical_coverage:.2f}%**",
+        f"- Lexical weighted coverage: **{lexical_weighted_coverage:.2f}%**",
+        "",
+        "## Confidence",
+        "",
+        f"- high: {confidence_counts['high']}",
+        f"- medium: {confidence_counts['medium']}",
+        "",
+        "## Source Hits",
+        "",
+    ]
+    for src, n in sorted(source_hits.items()):
+        lines.append(f"- {src}: {n}")
+    lines += ["", f"## Conflict Queue ({len(conflicts)})", ""]
+    for t in conflict_top[:100]:
+        lines.append(f"- {t} (count={words.get(t, 0)})")
+    lines += [
+        "",
+        f"## Missing Queue ({len(missing)})",
+        "",
+    ]
+    for t in missing_top[:200]:
+        lines.append(f"- {t} (count={words.get(t, 0)})")
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    REPORT_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 # ── Driver ───────────────────────────────────────────────────────────────
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Build per-token pitch-accent index")
+    ap = argparse.ArgumentParser(description="Build reliable per-token pitch-accent index")
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--min-coverage", type=float, default=0.0,
+                    help="Fail if coverage falls below this percentage")
+    ap.add_argument("--strict", action="store_true",
+                    help="Fail when conflicts or missing queue is non-empty")
     ap.add_argument("--report-missing", action="store_true",
                     help="Print every token with no source hit")
     args = ap.parse_args()
@@ -147,29 +396,71 @@ def main() -> int:
     if args.limit:
         tokens = tokens[:args.limit]
 
+    overrides = _load_overrides()
+    kanjium = _load_kanjium_index()
+    nhk = _load_nhk_index()
+
     entries: dict[str, dict] = {}
     missing: list[str] = []
+    conflicts: list[str] = []
+    source_hits: dict[str, int] = defaultdict(int)
     for t in tokens:
-        hit = lookup(t)
+        hit, meta = _resolve_token(t, overrides, kanjium, nhk)
         if hit:
             entries[t] = hit
+            source_hits[hit.get("source", "unknown")] += 1
+            if meta.get("conflict"):
+                conflicts.append(t)
         else:
             missing.append(t)
+
+    covered = len(entries)
+    weighted_total = sum(int(v) for v in words.values() if isinstance(v, int))
+    weighted_covered = sum(int(words.get(k, 0)) for k in entries.keys())
+    lexical_tokens = [t for t in tokens if _is_lexical_token(t)]
+    lexical_total = len(lexical_tokens)
+    lexical_covered = sum(1 for t in lexical_tokens if t in entries)
+    lexical_weighted_total = sum(int(words.get(t, 0)) for t in lexical_tokens)
+    lexical_weighted_covered = sum(int(words.get(t, 0)) for t in lexical_tokens if t in entries)
+    coverage = (covered / len(tokens) * 100.0) if tokens else 0.0
+    weighted_coverage = (weighted_covered / weighted_total * 100.0) if weighted_total else 0.0
+    lexical_coverage = (lexical_covered / lexical_total * 100.0) if lexical_total else 0.0
+    lexical_weighted_coverage = (
+        lexical_weighted_covered / lexical_weighted_total * 100.0
+    ) if lexical_weighted_total else 0.0
+    _write_report(
+        len(tokens), covered, weighted_total, weighted_covered,
+        lexical_total, lexical_covered, lexical_weighted_total, lexical_weighted_covered,
+        entries, missing, conflicts, source_hits, words
+    )
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(
         json.dumps({"version": INDEX_VERSION,
                     "entries": entries,
+                    "coverage_percent": round(coverage, 4),
+                    "weighted_coverage_percent": round(weighted_coverage, 4),
+                    "lexical_coverage_percent": round(lexical_coverage, 4),
+                    "lexical_weighted_coverage_percent": round(lexical_weighted_coverage, 4),
+                    "conflicts_count": len(conflicts),
                     "missing_count": len(missing),
                     "missing": missing[:200] if args.report_missing else []},
                    indent=2, ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
     print(f"✓ Pitch-accent index → {OUT_PATH} "
-          f"({len(entries)}/{len(tokens)} tokens, "
-          f"{len(missing)} missing)")
+          f"({covered}/{len(tokens)} tokens, "
+          f"{len(missing)} missing, {len(conflicts)} conflicts, "
+          f"coverage={coverage:.2f}%, weighted={weighted_coverage:.2f}%, "
+          f"lexical={lexical_coverage:.2f}%/{lexical_weighted_coverage:.2f}%)")
     if not entries:
         print("  (no source data under data/ — see header docstring)")
+    if args.min_coverage and coverage < args.min_coverage:
+        print(f"✗ Coverage gate failed: {coverage:.2f}% < {args.min_coverage:.2f}%")
+        return 2
+    if args.strict and (missing or conflicts):
+        print(f"✗ Strict gate failed: missing={len(missing)} conflicts={len(conflicts)}")
+        return 3
     return 0
 
 

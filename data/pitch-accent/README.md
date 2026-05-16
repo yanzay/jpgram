@@ -123,6 +123,33 @@ PYTHON
 ln -sf pitch-accent/accents.sqlite data/accents.sqlite
 ```
 
+## Reliability & coverage gates
+
+`build_pitchaccent.py` now performs deterministic multi-source resolution with
+confidence tiers:
+
+1. `overrides.json` (manual curation, highest priority)
+2. Kanjium sqlite
+3. NHK CSV fallback
+
+Run the reliability loop:
+
+```bash
+python build_pitchaccent.py
+python validate_pitchaccent_coverage.py \
+  --min-coverage 8 \
+  --min-weighted-coverage 15 \
+  --min-lexical-coverage 9 \
+  --min-lexical-weighted-coverage 14 \
+  --max-conflicts 2000
+```
+
+Generated artifacts:
+
+* `media/pitchaccent_index.json` — merged index with `confidence` metadata
+* `research-reports/pitchaccent_coverage_report.md` — conflict/missing queues
+  ranked by frequency for weekly review
+
 ## License & Attribution
 
 | Source | License | Notes |
