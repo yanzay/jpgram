@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
+
+兄が妹に宿題を教えた。	あげる	もらう	あげる	brother does action	あげる = giver perspective	[sound:8665c1c390d9.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top10k complexity:intro confusable-with:もらう
+妹が兄に宿題を教えてもらった。	あげる	もらう	もらう	sister receives	もらう = receiver perspective	[sound:11de1e3c7a4b.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top10k complexity:standard confusable-with:あげる
+彼が彼女に花をくれた。	あげる	くれる	くれる	naturally benefits her	くれる = to me/us/you	[sound:aab4fb2ec930.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top5k complexity:intro confusable-with:あげる
+先生に宿題を見て___。	あげた	もらった	もらった	request service	もらった = ask someone	[sound:8f9f88ba3514.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top1k complexity:intro confusable-with:あげた
+家族に荷物を運んで___。	あげた	もらった	あげた	volunteer to help	あげた = offer freely	[sound:3c310999c5cb.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top10k complexity:standard confusable-with:もらった
+先輩に教えて___。	あげる	もらう	あげる	offer upward	〜てあげる = offer help	[sound:37135fc583dd.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top10k complexity:intro confusable-with:もらう
+友達に助言をくれた。	くれる	あげる	くれる	benefits speaker	くれる = to speaker	[sound:b2b678dc3552.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:low complexity:intro confusable-with:あげる
+患者に薬を飲ませて___。	あげた	もらった	あげた	doctor does action	〜てあげた = caregiver	[sound:069a1966c970.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top10k complexity:standard confusable-with:もらった
+子供に時間を使って___。	あげた	もらった	あげた	sacrifice time	〜てあげた = I sacrifice	[sound:5cc920954cbf.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top1k complexity:standard confusable-with:もらった
+秘書に資料を準備して___。	あげた	もらった	もらった	receive benefit	〜てもらった = I benefit	[sound:ecf6183ec6c8.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:low complexity:standard confusable-with:あげた
+彼女が花をくれた。	あげる	くれる	くれる	benefits listener	くれる = to you	[sound:481bc3fee032.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top5k complexity:intro confusable-with:あげる
+兄が妹に手伝った。	あげる	くれる	あげる	brother's perspective	あげる = I do	[sound:86304e38d378.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top1k complexity:intro confusable-with:くれる
+妹は兄が手伝った。	あげる	くれる	くれる	sister's perspective	くれる = he did	[sound:cf36ce7d7568.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top1k complexity:intro confusable-with:あげる
+親に助言をもらった。	あげた	もらった	もらった	receive from parent	もらった = request	[sound:42e3f2c618ec.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:low complexity:intro confusable-with:あげた
+先生にご指導いただいた。	あげる	いただく	いただく	keigo receive	いただく = humble	[sound:d5cd1f89c325.mp3]	module:02-n4 jlpt:n4 point:benefactive frequency:top10k complexity:intro confusable-with:あげる

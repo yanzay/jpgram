@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
+#
+Add は for topic: 私___学生です	は	わたしは	I am a student [topic]	は = topic particle	[sound:6f3fff9225e5.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add が for subject: 誰___来ましたか	が	だれが	Who came? [subject]	が = subject particle	[sound:b764ad263fc4.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add に for target: 友達___会いました	に	ともだちに	Met a friend [target]	に = goal/target	[sound:1012580c433e.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add を for object: 本___読みました	を	ほんを	Read a book [object]	を = object particle	[sound:f0c3f84cf59e.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add で for means: ペン___書いてください	で	ぺんで	Write with a pen [means]	で = means/tool	[sound:116f37cbb571.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add まで for endpoint: 東京___バスで行きます	まで	とうきょうまで	Go to Tokyo [endpoint]	まで = up to	[sound:6ab9168aa32d.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add から for start: 月曜日___始まります	から	げつようび	Starts from Monday [start]	から = from/since	[sound:c36beac0dcd9.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add と for and: 私___兄___三人です	と	わたし...あに	Me and my brother [and]	と = and	[sound:5c18c34355b0.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add に for destination: 毎日学校___行きます	に	まいにちがっこう	Go to school [destination]	に = destination	[sound:cdb18438f2f6.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add から for source: 友達___手紙をもらいました	から	ともだち	Received letter from friend [source]	から = from	[sound:1090a1cc322c.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:advanced
+Add で for location: 公園___遊びました	で	こうえん	Played in park [location]	で = location	[sound:17b3aa914719.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add と for accompaniment: 家族___行きました	と	かぞく	Went with family [with]	と = with/together	[sound:7043c29fba5a.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add の for possession: 彼の___本です	の	かれの	His book [possession]	の = possession	[sound:60687d84cd35.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add も for also: 私___学生です	も	わたしも	I am also a student [also]	も = also/too	[sound:30c7fdf30edd.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard
+Add ね for emphasis: 天気___いいですね	は	てんき	The weather is nice [topic]	は = topic	[sound:576543a9776e.mp3]	module:01-n5 jlpt:n5 point:extended-particles complexity:standard

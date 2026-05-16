@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::00 - Foundation::Contrast
+#
+___は本です。	これ	それ	これ	これ = close to speaker; それ = close to listener	If near you: これ	[sound:1012a2633b91.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:それ
+___は赤いです。	これ	あれ	あれ	これ = very close; あれ = far away	Far: あれ	[sound:4c2fa6d13121.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:これ
+___がいいですか？	どこ	どれ	どれ	どこ = place; どれ = object	Objects: どれ	[sound:1b7860487ac2.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:intro confusable-with:どこ
+___本は高いです。	この	その	その	この = speaker; その = listener	Listener's object: その	[sound:edb26cc2aea7.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:この
+___ペンは新しいです。	その	あの	あの	その = moderate; あの = clearly far	Far: あの	[sound:db8cb26f9e07.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:その
+___りんごが好きですか？	どの	どれ	どの	どの = before noun; どれ = standalone	Before noun: どの	[sound:c0576fcad0c6.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:standard confusable-with:どれ
+___は猫です。	それ	あれ	あれ	それ = closer; あれ = far	Far: あれ	[sound:2ed2cbfea678.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:それ
+私は___が好きです。	これ	この	これ	これ = standalone; この = attributive	Standalone: これ	[sound:097f26f22e07.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:この
+___ペンをください。	この	これ	この	この = before noun; これ = standalone	Before noun: この	[sound:a584936a00e6.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:これ
+___ですか？何ですか？	あれ	あの	あれ	あれ = standalone; あの = before noun	Standalone: あれ	[sound:b34be174142f.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top10k complexity:intro confusable-with:あの
+___日は忙しかったです。	この	その	その	この = general; その = specific past	Specific past: その	[sound:2a67c728dfba.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top5k complexity:standard confusable-with:この
+___ビルは有名です。	その	あの	あの	その = moderate; あの = clearly far	Clearly far: あの	[sound:959742167b97.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top5k complexity:intro confusable-with:その
+___が美しいですね。	これ	あれ	あれ	これ = near; あれ = far and visible	Distant: あれ	[sound:c0a4226e7fe4.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top5k complexity:intro confusable-with:これ
+___ペンは青いです。	この	その	この	この = default; その = specific context	General: この	[sound:ececfc89951a.mp3]	module:00-foundation jlpt:n5 point:demonstratives frequency:top1k complexity:intro confusable-with:その
+___ものはいくらですか？	どれ	どの	どの	どの = before noun; どれ = standalone	Before noun: どの	[sound:9853442b32cb.mp3]	module:00-foundation jlpt:n5 point:demonstratives complexity:standard confusable-with:どれ

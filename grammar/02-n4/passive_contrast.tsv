@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
+
+彼に本を___。	読んだ	読まれた	読まれた	direct passive = agent does action	he = agent, I = patient	[sound:51ce18948df4.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top5k complexity:intro confusable-with:読んだ
+先生が学生を___。	褒めた	褒められた	褒められた	direct passive with transitive verb	student = patient of action	[sound:ebd6e212a39a.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top1k complexity:intro confusable-with:褒めた
+その知らせに___。	驚いた	驚かされた	驚かされた	suffering passive = agent causes emotion	news indirectly affects me	[sound:97c42f009d1b.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top10k complexity:intro confusable-with:驚いた
+兄に勉強を___。	させた	させられた	させられた	suffering causative-passive = forced	brother forces me to study	[sound:e01b1ba30a01.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top1k complexity:intro confusable-with:させた
+窓は風に___。	開いた	開かれた	開かれた	direct passive of transitive	wind = agent, window = patient	[sound:99b186b7b3cd.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top1k complexity:intro confusable-with:開いた
+警察に捕まった vs 警察に___。	捕まった	捕えられた	捕えられた	direct passive alternative	both express being arrested	[sound:f5cc4c1a27ba.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top5k complexity:standard confusable-with:捕まった
+その計画で___。	損をした	損をさせられた	損をさせられた	suffering passive = harmed by	plan harms me financially	[sound:65f42828d38b.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top5k complexity:intro confusable-with:損をした
+母に催促された vs 母に___。	催促する	催促された	催促された	direct passive of demand	mother = agent requesting	[sound:b1700b95ece5.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:low complexity:standard confusable-with:催促する
+彼は___被害を受けた。	いじめ	いじめに	いじめに	suffering passive with harm	bullying causes harm	[sound:6c920e541bee.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top10k complexity:intro confusable-with:いじめ
+その発表に___。	感動した	感動させられた	感動させられた	suffering passive = moved by others	presentation moves audience	[sound:eedb4c84a82f.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top10k complexity:intro confusable-with:感動した
+彼女に手紙を___。	書いた	書かれた	書かれた	direct passive of writing	she = agent writes letter	[sound:d42993b0e91f.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top5k complexity:intro confusable-with:書いた
+その事件で___。	傷つけられた	傷ついた	傷つけられた	suffering passive = hurt emotionally	incident harms feelings	[sound:82d2a2967a0c.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top10k complexity:intro confusable-with:傷ついた
+会社に重要な情報を___。	盗まれた	盗んだ	盗まれた	direct passive of stealing	company = victim loses info	[sound:0673bef10bb0.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top10k complexity:standard confusable-with:盗んだ
+先輩に___。	助けられた	助けた	助けられた	direct passive of helping	senior = agent helping me	[sound:206ff9caf305.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top5k complexity:intro confusable-with:助けた
+新しいルールに___。	戸惑わされた	戸惑った	戸惑わされた	suffering passive = confused by rule	rule confuses people	[sound:010fa35402fb.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr frequency:top10k complexity:intro confusable-with:戸惑った

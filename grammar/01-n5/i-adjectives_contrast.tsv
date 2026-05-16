@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
+#
+暑い vs 暑{{c1::かった}}	暑い	暑かった	暑かった	Present vs past tense	Past: かった	[sound:f95cd77120ab.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top1k complexity:intro confusable-with:暑い
+いい vs よ{{c1::い}}	いい	よい	いい	Both mean good; いい is more common	Standard form: いい	[sound:1707f325e45d.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:intro confusable-with:よい
+暑くない vs 暑くな{{c1::かった}}	暑くない	暑くなかった	暑くなかった	Present vs past negative	Past negative: なかった	[sound:c46c46a34512.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:intro confusable-with:暑くない
+高い vs 高{{c1::くない}}	高い	高くない	高くない	Affirmative vs negative	Negative: くない	[sound:c4610f78313c.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top1k complexity:intro confusable-with:高い
+安かった vs 安くなかった{{c1:::::}}	安かった	安くなかった	安くなかった	Affirmative vs negative past	Past negative: くなかった	[sound:819975fcf034.mp3]	module:01-n5 jlpt:n5 point:i-adjectives complexity:standard confusable-with:安かった
+面白い vs よかったの違い	よかった	面白かった	面白かった	Both past; different meanings	Different adjectives	[sound:17218256a1a1.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top10k complexity:standard confusable-with:よかった
+新しい vs 新し{{c1::かった}}	新しい	新しかった	新しかった	Present vs past	Depends on tense	[sound:e3d8ab7c501d.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top1k complexity:intro confusable-with:新しい
+難しい vs 難し{{c1::くない}}	難しい	難しくない	難しくない	Positive vs negative	Opposite: くない	[sound:764923a1701f.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top10k complexity:intro confusable-with:難しい
+きれい vs 綺麗{{c1::な}}	い	な	な	Different form: な-adj	Kanji form: na-adj	[sound:c8ad834a6fa7.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top1k complexity:intro confusable-with:い
+美しい vs 美しくない{{c1:::::}}	美しい	美しくない	美しくない	Positive vs negative	Negated: くない	[sound:3ea5b574c206.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:low complexity:intro confusable-with:美しい
+忙しい vs 忙しかった{{c1:::::}}	忙しい	忙しかった	忙しかった	Present vs past tense	Past: かった	[sound:dac4e9e1dae9.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top1k complexity:intro confusable-with:忙しい
+大きい vs 大き{{c1::くない}}	大きい	大きくない	大きくない	Positive vs negative	Negative: くない	[sound:3c8e794f2c15.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top10k complexity:intro confusable-with:大きい
+小さい vs 小さかった{{c1:::::}}	小さい	小さかった	小さかった	Present vs past	Past: かった	[sound:695b5a5b3872.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top10k complexity:intro confusable-with:小さい
+楽しい vs 楽しか{{c1::ないです}}	楽しい	楽しかないです	楽しかないです	Present vs past negative polite	Past negative: かない	[sound:717f7fde29ad.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top10k complexity:intro confusable-with:楽しい
+美味しい vs まずい違い	美味しい	まずい	美味しい	Opposite meanings	Different adj entirely	[sound:454af7ad6c7e.mp3]	module:01-n5 jlpt:n5 point:i-adjectives frequency:top10k complexity:intro confusable-with:まずい

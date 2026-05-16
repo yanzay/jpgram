@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
+#
+金がないくせに、___言う。	贅沢を	文句を	贅沢を	贅沢 = extravagant; 文句 = complaint	Extravagant demands	[sound:022673684574.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k confusable-with:文句を
+小さいわりに、___。	強い	でかい	強い	Strong despite small size	Strength despite size	[sound:bc88e3f38793.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top1k complexity:intro confusable-with:でかい
+努力したわりに、___が出ない。	結果	力	結果	結果 = result; 力 = strength	Results from effort	[sound:ef73d40fc510.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k confusable-with:力
+どんなに努力しても、___しない。	成功	上達	成功	Both work but 成功 more common	Success/failure	[sound:bb474397be41.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k confusable-with:上達
+金持ちながらも、___ではない。	幸せ	満足	幸せ	幸せ = happy; 満足 = satisfied	Happiness despite wealth	[sound:dc2f1cf7f9c7.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k confusable-with:満足
+親切なのに、___を言われた。	文句	感謝	文句	文句 = complaint; 感謝 = thanks	Ingratitude despite kindness	[sound:f9e5c7442245.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k confusable-with:感謝
+聞かれたけれども、___なかった。	答え	応え	答え	答える = answer; 応える = respond	No answer given	[sound:4578d0f54642.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k confusable-with:応え
+同意しながらも、___の行動をした。	反対	否定	反対	反対 = opposed; 否定 = negation	Contradictory action	[sound:a7af6eefb5de.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:low confusable-with:否定
+死んだって、___しかない。	やる	いく	やる	やる = do it; いく = go	Only choice to do	[sound:0a219c93db8e.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k confusable-with:いく
+高いくせに、{{c1::品質が悪}}い。	品質が悪	効果がない	品質が悪	Poor quality despite price	Quality complaint	[sound:824893c742c0.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:low complexity:intro confusable-with:効果がない

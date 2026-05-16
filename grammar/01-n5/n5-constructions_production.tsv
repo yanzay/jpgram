@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
+#
+Say: 'I like reading'	私は読書が好きです。	わたしはどくしょがすきです。	I like reading	好き + noun	[sound:d0c43b078b60.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'I want to eat'	私は食べたいです。	わたしはたべたいです。	I want to eat	たい = want to	[sound:0c0e9d1a7300.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:intro
+Say: 'It is fun to play'	遊ぶことは楽しいです。	あそぶことはたのしいです。	Playing is fun	こと nominalization	[sound:ceaacac2e706.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'Please explain it'	それを説明してください。	それをせつめいしてください。	Please explain that	te-form + ください	[sound:b914492439c2.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'I have to go'	私は行かなければなりません。	わたしはいかなければなりません。	I must go	なければならない	[sound:9d70f6756a90.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:intro
+Say: 'You can't do it'	あなたはそれができません。	あなたはそれができません。	You can't do that	できる negative	[sound:ca55dd1a181a.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'It will be sunny'	明日は晴れるでしょう。	あしたははれるでしょう。	Tomorrow will be sunny	でしょう=probably	[sound:b5ba7a3c8c74.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'Please come here'	ここに来てください。	ここにきてください。	Please come here	来る + て + ください	[sound:a0190e8c6b8a.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'I know'	私は知っています。	わたしはしっています。	I know	ている=knowledge state	[sound:903076db272a.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:intro
+Say: 'It started raining'	雨が降り始めました。	あめがふりはじめました。	It started raining	始める=start	[sound:7e2aba7e8efd.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'It stopped raining'	雨が降るのをやめました。	あめがふるのをやめました。	It stopped raining	やめる=stop	[sound:c9cc20ad9ace.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'I remember you'	私はあなたを覚えています。	わたしはあなたをおぼえています。	I remember you	覚える=remember	[sound:a6054e7e05fe.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'I forgot the key'	私は鍵を忘れました。	わたしはかぎをわすれました。	I forgot the key	忘れる=forget	[sound:2e50af05060b.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard
+Say: 'It's okay'	大丈夫です。	だいじょうぶです。	It's okay	大丈夫=fine	[sound:98dc0f1515cf.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:intro
+Say: 'Nothing is wrong'	何も悪くありません。	なにもわるくありません。	Nothing is wrong	悪い=bad/wrong	[sound:781250d26930.mp3]	module:01-n5 jlpt:n5 point:n5-constructions complexity:standard

@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::04 - N2 Grammar::Contrast
+#
+彼は病気らしい。	ようだ	みたい	らしい	らしい = hearsay/report (indirect info)	I hear he's sick	[sound:df59eeb3b994.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top5k complexity:intro
+天気が悪くなるらしい。	ようだ	みたい	らしい	らしい = reported forecast	I hear weather will get worse	[sound:8fb5dc28314f.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top10k complexity:intro
+その映画はおもしろいようだ。	らしい	みたい	ようだ	ようだ = visual/direct appearance	That movie seems interesting	[sound:de22f97af32d.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top1k complexity:standard
+彼は疲れているようだ。	らしい	みたい	ようだ	ようだ = observable condition	He seems tired	[sound:43c94c56bc0b.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top10k complexity:intro
+その話はウソみたいだ。	らしい	ようだ	みたい	みたい = looks like/seems (colloquial)	That story seems like a lie	[sound:80df4288ec4e.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top1k complexity:intro
+赤ちゃんみたいに泣いている。	らしい	ようだ	みたい	みたい = resembles/similar to	Crying like a baby	[sound:c743b96bdae0.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top5k complexity:standard
+彼は学者らしい。	ようだ	みたい	らしい	らしい = character/nature (typical of)	He's a typical scholar	[sound:7e8e6bd16e9d.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top10k complexity:intro
+その場所は危ないようだ。	らしい	みたい	ようだ	ようだ = appears/seems (observation)	That place appears dangerous	[sound:70e5735bdf80.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top5k complexity:intro
+彼の言葉はでたらめみたいだ。	らしい	ようだ	みたい	みたい = seems/looks like (casual)	His words seem like nonsense	[sound:484406abd9f0.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top5k complexity:standard
+その人は医者らしい。	ようだ	みたい	らしい	らしい = apparent role/profession	That person is apparently a doctor	[sound:cfc4207e12ea.mp3]	module:04-n2 jlpt:n2 register:formal point:inference-extent pos:expr frequency:top1k complexity:intro

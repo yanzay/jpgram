@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
+#
+春になると、___ vs 春なら、___。	桜が咲く	桜が好きだ	桜が咲く	と = automatic result	と = what naturally happens	[sound:e58b3f9e76d1.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top1k complexity:standard confusable-with:桜が好きだ
+水を熱すると、___ vs 水を熱せば、___。	沸く	沸くはず	沸く	と = automatic law	と = expected outcome	[sound:ed2457124569.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:low complexity:standard confusable-with:沸くはず
+太陽が昇ると、___ vs 昇れば、___。	明るくなる	明るいはず	明るくなる	と = natural consequence	と = what occurs	[sound:4c6c9a50df32.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top10k complexity:standard confusable-with:明るいはず
+気温が下がると、___ vs 下がれば、___。	雪が降る	降るかもしれない	雪が降る	と = automatic result	と = predictable effect	[sound:f0c4bb26c5c6.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top10k complexity:standard confusable-with:降るかもしれない
+運動すると、___ vs 運動すれば、___。	体が強くなる	強くなるはず	体が強くなる	と = natural consequence	と = expected benefit	[sound:484dfa32d187.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top5k complexity:standard confusable-with:強くなるはず
+勉強すると、___ vs 勉強すれば、___。	上手になる	上手になるかもしれない	上手になる	と = automatic result	と = possible outcome	[sound:04011d51495b.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top1k complexity:standard confusable-with:上手になるかもしれない
+食べ過ぎると、___ vs 食べ過ぎれば、___。	太る	太るはず	太る	と = natural consequence	と = expected result	[sound:524153927916.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top5k complexity:standard confusable-with:太るはず
+寝ると、___ vs 寝れば、___。	疲れが取れる	取れるはず	疲れが取れる	と = automatic effect	と = normal outcome	[sound:ee8ea2cbfb6b.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top1k complexity:standard confusable-with:取れるはず
+時間が経つと、___ vs 経てば、___。	物が変わる	変わるかもしれない	物が変わる	と = inevitable change	と = hypothetical shift	[sound:3e8e99a2c6ca.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr frequency:top10k complexity:standard confusable-with:変わるかもしれない
+ノブを回すと、___ vs 回せば、___。	ドアが開く	開くはず	ドアが開く	と = automatic action	と = expected result	[sound:610baf288cf9.mp3]	module:02-n4 jlpt:n4 register:neutral point:conditional-to pos:expr complexity:standard confusable-with:開くはず

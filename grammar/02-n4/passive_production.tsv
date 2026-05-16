@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
+
+I was praised by the teacher.	先生に誉められた。	せんせいにほめられた。	I was praised by the teacher.	direct passive with agent	[sound:e3bf887ff502.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+The window was broken by the wind.	窓は風に壊された。	まどはかぜにこわされた。	The window was broken by the wind.	direct passive inanimate agent	[sound:507f87adb996.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced
+I was kept waiting by him.	彼に待たされた。	かれにまたされた。	I was kept waiting by him.	suffering passive	[sound:74a133159e78.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+The cat was chased by the dog.	猫は犬に追われた。	ねこはいぬにおわれた。	The cat was chased by the dog.	direct passive animal	[sound:c0fab25748dc.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+I was surprised by the news.	その知らせに驚かされた。	そのしらせにおどろかされた。	I was surprised by the news.	emotional suffering passive	[sound:5fb267f266eb.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+The building was destroyed in the fire.	建物は火災に破壊された。	たてものはかさいにはかいされた。	The building was destroyed in the fire.	direct passive disaster	[sound:b9d54958741a.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced
+She was helped by her colleague.	彼女は同僚に手伝われた。	かのじょはどうりょうにてつだわれた。	She was helped by her colleague.	benefactive passive	[sound:46cdd9c2fdf4.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced
+I was scolded by my boss.	上司に怒られた。	じょうしにいかられた。	I was scolded by my boss.	suffering passive negative	[sound:b43fc46636a4.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+The project was completed by the team.	プロジェクトはチームに完成させられた。	ぷろじぇくとはちーむにかんせいさせられた。	The project was completed by the team.	direct passive group agent	[sound:f8e00cc448c0.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced
+I was disturbed by the noise.	その音に邪魔されて困った。	そのおとにじゃまされてこまった。	I was disturbed by the noise.	suffering passive inconvenience	[sound:d80085fd808a.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+The letter was received yesterday.	手紙は昨日受け取られた。	てがみはきのううけとられた。	The letter was received yesterday.	direct passive	[sound:379070c2b631.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced
+We were invited to the party.	パーティーに招待された。	ぱーてぃーにしょうたいされた。	We were invited to the party.	direct passive event	[sound:3ec2a8677484.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+I was annoyed by his comment.	彼のコメントに困らされた。	かのこめんとにこまらされた。	I was annoyed by his comment.	suffering passive irritation	[sound:2b4d48c57204.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:standard
+The rule was changed by the company.	会社にルールを変えられた。	かいしゃにるーるをかえられた。	The rule was changed by the company.	suffering passive with object	[sound:0425732fcf31.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced
+She was criticized for her mistake.	彼女は間違いで批判された。	かのじょはまちがいでひはんされた。	She was criticized for her mistake.	direct passive evaluation	[sound:c1f704d908ad.mp3]	module:02-n4 jlpt:n4 register:neutral point:passive pos:expr complexity:advanced

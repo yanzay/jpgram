@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
+#
+金がないくせに、{{c1::贅沢を言う}}。	きんがないくせに、{{c1::ぜいたくをいう}}。	makes extravagant demands	[sound:022673684574.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k complexity:intro
+小さいわりに、{{c1::強い}}。	ちーさいわりに、{{c1::つよい}}。	strong	[sound:bc88e3f38793.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top1k complexity:intro
+同意しながらも、{{c1::反対の行動をした}}。	どういしながらも、{{c1::はんたいのこうどうをした}}。	acted in opposition	[sound:a7af6eefb5de.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:low complexity:intro
+親切なのに、{{c1::文句を言われた}}。	しんせつなのに、{{c1::もんくをいわれた}}。	complained about	[sound:f9e5c7442245.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k complexity:intro
+死んだって、{{c1::やるしかない}}。	しんだって、{{c1::やるしかない}}。	only choice is to do it	[sound:0a219c93db8e.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k complexity:intro
+高いくせに、{{c1::品質が悪い}}。	たかいくせに、{{c1::ひんしつがわるい}}。	quality is poor	[sound:7159e7689e1e.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:low complexity:intro
+努力したわりに、{{c1::結果が出ない}}。	どりょくしたわりに、{{c1::けっかがでない}}。	no results	[sound:ef73d40fc510.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k complexity:intro
+聞かれたけれども、{{c1::答えなかった}}。	きかれたけれども、{{c1::こたえなかった}}。	didn't answer	[sound:4578d0f54642.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k complexity:intro
+どんなに努力しても、{{c1::成功しない}}。	どんなにどりょくしても、{{c1::せいこうしない}}。	don't succeed	[sound:bb474397be41.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k complexity:intro
+金持ちながらも、{{c1::幸せではない}}。	かねもちながらも、{{c1::しあわせではない}}。	not happy	[sound:dc2f1cf7f9c7.mp3]	module:03-n3 jlpt:n3 point:concessive-others complexity:standard frequency:top5k frequency:top10k complexity:intro

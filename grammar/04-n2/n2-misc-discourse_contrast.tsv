@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar::04 - N2 Grammar::Contrast
+#
+子どものことだから、間違えるだろう。	ことから	こととて	ことだから	ことだから = because it's/it's likely to	Because he's a child, he'll make mistakes	[sound:973a88357c1d.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top5k complexity:standard
+人間のことだから、完璧ではない。	ことから	こととて	ことだから	ことだから = being what it is, naturally	Being human, not perfect	[sound:cc136098920c.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top10k complexity:standard
+過去のことだから、気にしない。	ことだから	こととて	ことから	ことから = because/from the fact that	Because it's the past, don't worry	[sound:f22ba35f42c3.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top10k complexity:standard
+昔のことだから、思い出せない。	ことだから	こととて	ことから	ことから = since it's/from the reason that	Since it's long ago, can't remember	[sound:6bc4c3beaefa.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top10k complexity:standard
+難しいこととて、避けられない。	ことだから	ことから	こととて	こととて = difficult though it be (archaic/formal)	Though difficult, unavoidable	[sound:0133caf06e3b.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top1k complexity:standard
+忙しいこととて、返事が遅れた。	ことだから	ことから	こととて	こととて = though/albeit (formal)	Being busy, response was delayed	[sound:ed07751d6731.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top10k complexity:standard
+新入社員のことだから、成長する。	ことから	こととて	ことだから	ことだから = naturally/will likely	Being a new employee, will grow	[sound:2fbc0e4663c0.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:low complexity:standard
+経験のことだから、信頼できる。	ことから	こととて	ことだから	ことだから = given the experience	Given his experience, trustworthy	[sound:c404c2ef4d51.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top10k complexity:standard
+珍しいことだから、覚えている。	ことから	こととて	ことだから	ことだから = being rare, remember it	Being rare, I remember it	[sound:ba8ce14cadc7.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:low complexity:standard
+長年のことだから、習慣になった。	ことから	こととて	ことだから	ことだから = over years naturally becomes habit	Over years it became a habit	[sound:8410e87bf613.mp3]	module:04-n2 jlpt:n2 register:formal point:n2-misc-discourse pos:expr frequency:top5k complexity:standard

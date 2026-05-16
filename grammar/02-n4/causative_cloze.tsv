@@ -1,0 +1,21 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
+
+子供に野菜を食べ{{c1::させた}}。	こどもにやさいをたべ{{c1::させた}}	make eat	[sound:89a23c09c9d4.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro
+学生に宿題を{{c1::させている}}。	がくせいにしゅくだいをさせている。	make do homework	[sound:2232aef2bf4e.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro
+子供に好きなことを{{c1::させている}}。	こどもにすきなことをさせている。	let do what they like	[sound:82fb2e7342ff.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro
+学生に質問さ{{c1::せてください}}。	がくせいにしつもんさ{{c1::せてください}	let ask	[sound:981db8f94da4.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro
+彼に自由に選ば{{c1::せた}}。	かれにじゆうにえらば{{c1::せた}	let choose	[sound:9444e44981e7.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top5k complexity:intro
+親が子供を寝か{{c1::せた}}。	おやがこどもをねかせた。	put to sleep	[sound:4ebd9845cdac.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top5k complexity:intro
+彼女が彼を待た{{c1::せた}}。	かのじょがかれをまたせた。	made wait	[sound:4128453625b4.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top5k complexity:intro
+監督が役者に台詞を言わ{{c1::せた}}。	かんとくがやくしゃにせりふをいわせた。	made recite	[sound:951a6344bf14.mp3]	module:02-n4 jlpt:n4 point:causative frequency:low complexity:standard
+店長がアルバイトを掃除{{c1::させた}}。	てんちょうがあるばいとをそうじさせた。	forced clean	[sound:2702d052462e.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:standard
+説明さ{{c1::せてください}}。	せつめいさ{{c1::せてください}	let explain	[sound:8e59df7e03cb.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top5k complexity:intro
+質問{{c1::させていただけます}}か。	しつもんさせていただけますか。	humbly request	[sound:c7e0822d62f8.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro
+時間をください。考え{{c1::させてください}}。	じかんをください。かんがえ{{c1::させてください}	let me think	[sound:4b9cd34f8168.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top10k complexity:intro
+参加{{c1::させていただきたい}}です。	さんかさせていただきたいです。	wish to participate	[sound:c089343f28ca.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top10k complexity:intro
+一度試{{c1::させてもらえます}}か。	いちどためさせてもらえますか。	try once	[sound:534bf973b6e3.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top5k complexity:intro
+彼を走ら{{c1::せた}}。	かれをはしらせた。	made run	[sound:aca9ca249f9b.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top5k complexity:intro
