@@ -1,0 +1,86 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::00 - Foundation::Recognition
+
+飴	あめ	(hard) candy (heiban (0))	Pitch-accent 0	heiban (0)	LH		雨	[sound:bad670d2cb1b.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+鼻	はな	nose (heiban (0))	Pitch-accent 0	heiban (0)	LH		花	[sound:8940dd82b056.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+踏む	ふむ	to step on (heiban (0))	Pitch-accent 0	heiban (0)	LH			[sound:cb853a3dc807.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+大抵	たいてい	mostly (heiban (0))	Pitch-accent 0	heiban (0)	LHHH			[sound:314de1bca77e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+赤い	あかい	red (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:b9e5f9eea82a.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+鳴る	なる	to sound (heiban (0))	Pitch-accent 0	heiban (0)	LH			[sound:45794015d5f3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+開く	あく	to open (heiban (0))	Pitch-accent 0	heiban (0)	LH			[sound:119daf93eeb9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+開ける	あける	to open (a door, etc.) (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:8d2086f34297.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+上げる	あげる	to raise (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:0c5229f0adec.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+沸く	わく	to grow hot (e.g. water) (heiban (0))	Pitch-accent 0	heiban (0)	LH			[sound:6d1142468f08.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+漫画	まんが	cartoon (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:6a0b30d36103.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+遊ぶ	あすぶ	to play (games, sports) (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:4e0d1a774877.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+聞こえる	きこえる	to be heard (heiban (0))	Pitch-accent 0	heiban (0)	LHHH			[sound:d50309a25593.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+厚い	あつい	thick (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:a102b13e22a5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+必ず	かならず	always (heiban (0))	Pitch-accent 0	heiban (0)	LHHH			[sound:bde673b44384.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+床屋	とこや	barbershop (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:7f25a21ec2bf.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+姉	あね	older sister (heiban (0))	Pitch-accent 0	heiban (0)	LH			[sound:b1a3afebdb30.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+運動	うんどう	exercise (heiban (0))	Pitch-accent 0	heiban (0)	LHHH			[sound:d5d3ea280b3f.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+止む	やむ	to cease (heiban (0))	Pitch-accent 0	heiban (0)	LH			[sound:6f0fc75b07e6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+浴びる	あびる	to dash over oneself (e.g. water) (heiban (0))	Pitch-accent 0	heiban (0)	LHH			[sound:fb2046cced43.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+雨	あめ	rain (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL		飴	[sound:8995b8979971.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+橋	きょう	bridge (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL		箸	[sound:2e824838874a.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+箸	はし	chopsticks (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL		橋	[sound:692fc057a2cc.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+会う	あう	to meet (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:848921dea97e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+青	あお	blue (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:845d1da87f89.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+赤	あか	red (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:72776ab68f81.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+秋	あき	time (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:8d8f4aeca850.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+朝	あさ	morning (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:695aad811ab9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+意見	いけん	opinion (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HLL			[sound:a18d39bb05c6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+医学	いがく	medicine (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HLL			[sound:ef710fe9eab5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+折る	おる	to break (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:34b78f606779.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+僕	ぼく	servant (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:d9b58894b25e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+後	あと	behind (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:a1a8cfd1dec3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+兄	あに	older brother (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:1b60f62fba6e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+在る	ある	to be (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:857265f4ac88.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+有る	ある	to be (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:156efeaf0de7.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+郊外	こうがい	suburb (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HLLL			[sound:768df1b2712e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+点	ちょぼ	dot (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:1d59ea7cbbee.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+今度	こんど	this time (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HLL			[sound:0634ffc8add8.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+今	いま	now (atamadaka (1))	Pitch-accent 1	atamadaka (1)	HL			[sound:d2130d70a08e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+青い	あおい	blue (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:c6ae5797b9b3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+盗む	ぬすむ	to steal (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:9c123be3ddcb.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+生きる	いきる	to live (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:37f4e3d32a37.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+苦い	にがい	bitter (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:6188849bbec2.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+朝御飯	あさごはん	breakfast (nakadaka (3))	Pitch-accent 3	nakadaka (3)	LHHLL	middle-drop pattern		[sound:6d08b094b141.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+明後日	あさって	day after tomorrow (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHLL	middle-drop pattern		[sound:f8d01afc1ef8.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+暖かい	あたたかい	warm (nakadaka (4))	Pitch-accent 4	nakadaka (4)	LHHHL	middle-drop pattern		[sound:c141850f9e8a.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+新しい	あたらしい	new (nakadaka (4))	Pitch-accent 4	nakadaka (4)	LHHHL	middle-drop pattern		[sound:7905abb96ea3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+暑い	あつい	hot (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:2f7806f919a5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+熱い	あつい	hot (to the touch) (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:51bcc9d34833.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+壊す	こわす	to break (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:b2310d9143b9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+怒る	いかる	to get angry (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:44180d9e2486.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+運転手	うんてんしゅ	driver (nakadaka (3))	Pitch-accent 3	nakadaka (3)	LHHLL	middle-drop pattern		[sound:7e2a65748ee9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+柔らかい	やわらかい	soft (nakadaka (4))	Pitch-accent 4	nakadaka (4)	LHHHL	middle-drop pattern		[sound:14890280c401.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+歩く	あるく	to walk (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:661cf28cf5e9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+忙しい	いそがしい	busy (nakadaka (4))	Pitch-accent 4	nakadaka (4)	LHHHL	middle-drop pattern		[sound:03f65015f9e6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+痛い	いたい	painful (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:2d7d31a9ab4e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+失礼	しつれい	discourtesy (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHLL	middle-drop pattern		[sound:e7b05a197f63.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+一生懸命	いっしょうけんめい	very hard (nakadaka (5))	Pitch-accent 5	nakadaka (5)	LHHHHLLL	middle-drop pattern		[sound:bb15e1db0fca.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+五つ	いつつ	five (nakadaka (2))	Pitch-accent 2	nakadaka (2)	LHL	middle-drop pattern		[sound:c664873dbc35.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+花	はな	flower (odaka)	Pitch-accent 2	odaka	LH	ends with drop	鼻	[sound:9be4611e164b.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+明日	あした	tomorrow (odaka)	Pitch-accent 3	odaka	LHH	ends with drop		[sound:762ffcba27ad.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+頭	かしら	counter for large animals (e.g. head of cattle) (odaka)	Pitch-accent 3	odaka	LHH	ends with drop		[sound:e349ae133850.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+表	おもて	surface (odaka)	Pitch-accent 3	odaka	LHH	ends with drop		[sound:6a954390e365.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+家	いえ	house (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:7de8177ce74b.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+正月	しょうがつ	New Year (esp. first three days) (odaka)	Pitch-accent 4	odaka	LHHH	ends with drop		[sound:8d94d31e6e43.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+池	いけ	pond (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:33dda9d445d7.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+一	いち	one (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:d274eee8a175.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+一日	いちじつ	one day (odaka)	Pitch-accent 4	odaka	LHHH	ends with drop		[sound:d193f69c03f5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+犬	いぬ	dog (Canis (lupus) familiaris) (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:022dd77d5cf1.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+嫌	いや	disliking (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:7b59b16db1db.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+色	いろ	colour (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:1391f4a4c627.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+歌	うた	song (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:3a3857bfa3f6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+親	おや	parent (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:2995b69f5a42.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+弟	おと	younger brother (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:276330ed9702.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+建て	たて	indicates storeys, structures, or materials used in a building (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:2545f47b51fd.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+鍵	かぎ	key (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:287a06131f4d.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+力	ちから	force (odaka)	Pitch-accent 3	odaka	LHH	ends with drop		[sound:a81c2ab80e37.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+方	かた	direction (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:2e9c5afd29ff.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer
+紙	かみ	paper (odaka)	Pitch-accent 2	odaka	LH	ends with drop		[sound:c899fb51e356.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer

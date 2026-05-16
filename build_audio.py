@@ -156,20 +156,38 @@ def collect_sentences() -> List[str]:
     Convention (see grammar/README.md):
       * column 0 of every grammar TSV = the Japanese sentence learners hear.
       * cloze TSVs use Anki's {{c1::…}} markup which we strip before TTS.
+      * contrast TSVs (`*_contrast.tsv`) have `___` placeholders; we substitute
+        the Answer column to produce the JP sentence that's actually synthesized.
+      * production TSVs (`*_production.tsv`) hash the Sample column, not Prompt.
     """
     sentences = set()
     if not GRAMMAR_DIR.exists():
         return []
     for tsv in sorted(GRAMMAR_DIR.rglob("*.tsv")):
-        is_cloze = "cloze" in tsv.parts or tsv.name.startswith("cloze_")
+        is_cloze    = "cloze"    in tsv.stem.lower()
+        is_contrast = "contrast" in tsv.stem.lower()
+        is_prod     = "production" in tsv.stem.lower()
+        # Find the header so we can index into Answer / Sample columns.
+        header = None
+        for raw in tsv.read_text(encoding="utf-8").splitlines():
+            if raw.startswith("#columns:"):
+                header = raw[len("#columns:"):].split("\t")
+                break
         for row in load_tsv(tsv):
             if not row:
                 continue
-            jp = row[0].strip()
+            # Pick the source column to synthesize from.
+            if is_prod and header and "Sample" in header and len(row) > header.index("Sample"):
+                jp = row[header.index("Sample")].strip()
+            else:
+                jp = row[0].strip()
             if not jp:
                 continue
             if is_cloze:
                 jp = _CLOZE_RE.sub(r"\1", jp)
+            if is_contrast and header and "Answer" in header and len(row) > header.index("Answer"):
+                ans = row[header.index("Answer")]
+                jp = jp.replace("___", ans)
             sentences.add(jp)
     return sorted(sentences)
 

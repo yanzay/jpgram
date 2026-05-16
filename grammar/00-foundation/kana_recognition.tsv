@@ -1,0 +1,177 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar::00 - Foundation::Recognition
+#
+あ	a	vowel a	Hiragana base	あ (a)	sound: /a/	kana for /a/		[sound:98fdfc0a7426.mp3]	module:00-foundation jlpt:n5 point:kana
+い	i	vowel i	Hiragana base	い (i)	sound: /i/	kana for /i/		[sound:3c01c77f19cd.mp3]	module:00-foundation jlpt:n5 point:kana
+う	u	vowel u	Hiragana base	う (u)	sound: /u/	kana for /u/		[sound:af2b29a995c7.mp3]	module:00-foundation jlpt:n5 point:kana
+え	e	vowel e	Hiragana base	え (e)	sound: /e/	kana for /e/		[sound:a60311a2fc88.mp3]	module:00-foundation jlpt:n5 point:kana
+お	o	vowel o	Hiragana base	お (o)	sound: /o/	kana for /o/		[sound:ac6bc7de7112.mp3]	module:00-foundation jlpt:n5 point:kana
+か	ka	voiceless velar	Hiragana base	か (ka)	sound: /ka/	kana for /ka/		[sound:288c9e077190.mp3]	module:00-foundation jlpt:n5 point:kana
+き	ki	voiceless velar	Hiragana base	き (ki)	sound: /ki/	kana for /ki/		[sound:27acc76c0055.mp3]	module:00-foundation jlpt:n5 point:kana
+く	ku	voiceless velar	Hiragana base	く (ku)	sound: /ku/	kana for /ku/		[sound:ac94e112183c.mp3]	module:00-foundation jlpt:n5 point:kana
+け	ke	voiceless velar	Hiragana base	け (ke)	sound: /ke/	kana for /ke/		[sound:d32afeb0abe6.mp3]	module:00-foundation jlpt:n5 point:kana
+こ	ko	voiceless velar	Hiragana base	こ (ko)	sound: /ko/	kana for /ko/		[sound:91714b00e5a3.mp3]	module:00-foundation jlpt:n5 point:kana
+さ	sa	voiceless alveolar	Hiragana base	さ (sa)	sound: /sa/	kana for /sa/		[sound:7a4faed063b6.mp3]	module:00-foundation jlpt:n5 point:kana
+し	shi	voiceless alveolar	Hiragana base	し (shi)	sound: /shi/	kana for /shi/	つ	[sound:812f45bfcf7e.mp3]	module:00-foundation jlpt:n5 point:kana
+す	su	voiceless alveolar	Hiragana base	す (su)	sound: /su/	kana for /su/		[sound:5b8252a1e93f.mp3]	module:00-foundation jlpt:n5 point:kana
+せ	se	voiceless alveolar	Hiragana base	せ (se)	sound: /se/	kana for /se/		[sound:e1c730bd83c3.mp3]	module:00-foundation jlpt:n5 point:kana
+そ	so	voiceless alveolar	Hiragana base	そ (so)	sound: /so/	kana for /so/		[sound:b345d8cc8368.mp3]	module:00-foundation jlpt:n5 point:kana
+た	ta	voiceless alveolar	Hiragana base	た (ta)	sound: /ta/	kana for /ta/		[sound:cf4d17f99d10.mp3]	module:00-foundation jlpt:n5 point:kana
+ち	chi	voiceless alveolar	Hiragana base	ち (chi)	sound: /chi/	kana for /chi/	し	[sound:e022bea2e9d6.mp3]	module:00-foundation jlpt:n5 point:kana
+つ	tsu	voiceless alveolar	Hiragana base	つ (tsu)	sound: /tsu/	kana for /tsu/	ち	[sound:0c414c812bd8.mp3]	module:00-foundation jlpt:n5 point:kana
+て	te	voiceless alveolar	Hiragana base	て (te)	sound: /te/	kana for /te/		[sound:e2d970611589.mp3]	module:00-foundation jlpt:n5 point:kana
+と	to	voiceless alveolar	Hiragana base	と (to)	sound: /to/	kana for /to/		[sound:a986a7bc9e03.mp3]	module:00-foundation jlpt:n5 point:kana
+な	na	voiced nasal	Hiragana base	な (na)	sound: /na/	kana for /na/		[sound:478d2f9eb192.mp3]	module:00-foundation jlpt:n5 point:kana
+に	ni	voiced nasal	Hiragana base	に (ni)	sound: /ni/	kana for /ni/		[sound:de3d1ecc94b2.mp3]	module:00-foundation jlpt:n5 point:kana
+ぬ	nu	voiced nasal	Hiragana base	ぬ (nu)	sound: /nu/	kana for /nu/		[sound:ad142ed0573d.mp3]	module:00-foundation jlpt:n5 point:kana
+ね	ne	voiced nasal	Hiragana base	ね (ne)	sound: /ne/	kana for /ne/		[sound:3a104bbe569e.mp3]	module:00-foundation jlpt:n5 point:kana
+の	no	voiced nasal	Hiragana base	の (no)	sound: /no/	kana for /no/		[sound:56377d14d4ef.mp3]	module:00-foundation jlpt:n5 point:kana
+は	ha	voiceless labial	Hiragana base	は (ha)	sound: /ha/	kana for /ha/		[sound:1fa0519cfd09.mp3]	module:00-foundation jlpt:n5 point:kana
+ひ	hi	voiceless labial	Hiragana base	ひ (hi)	sound: /hi/	kana for /hi/		[sound:469e92c9cf65.mp3]	module:00-foundation jlpt:n5 point:kana
+ふ	fu	voiceless labial	Hiragana base	ふ (fu)	sound: /fu/	kana for /fu/		[sound:382a438fd4c5.mp3]	module:00-foundation jlpt:n5 point:kana
+へ	he	voiceless labial	Hiragana base	へ (he)	sound: /he/	kana for /he/		[sound:72c746d609d4.mp3]	module:00-foundation jlpt:n5 point:kana
+ほ	ho	voiceless labial	Hiragana base	ほ (ho)	sound: /ho/	kana for /ho/		[sound:5a340fe4758d.mp3]	module:00-foundation jlpt:n5 point:kana
+ま	ma	voiced labial	Hiragana base	ま (ma)	sound: /ma/	kana for /ma/		[sound:400805e5a9e2.mp3]	module:00-foundation jlpt:n5 point:kana
+み	mi	voiced labial	Hiragana base	み (mi)	sound: /mi/	kana for /mi/		[sound:1c5425dae8c9.mp3]	module:00-foundation jlpt:n5 point:kana
+む	mu	voiced labial	Hiragana base	む (mu)	sound: /mu/	kana for /mu/		[sound:50029791cb9f.mp3]	module:00-foundation jlpt:n5 point:kana
+め	me	voiced labial	Hiragana base	め (me)	sound: /me/	kana for /me/		[sound:634540f05d98.mp3]	module:00-foundation jlpt:n5 point:kana
+も	mo	voiced labial	Hiragana base	も (mo)	sound: /mo/	kana for /mo/		[sound:3c6945772d72.mp3]	module:00-foundation jlpt:n5 point:kana
+や	ya	glide y	Hiragana base	や (ya)	sound: /ya/	kana for /ya/		[sound:bdab1b17397d.mp3]	module:00-foundation jlpt:n5 point:kana
+ゆ	yu	glide y	Hiragana base	ゆ (yu)	sound: /yu/	kana for /yu/		[sound:44567171f335.mp3]	module:00-foundation jlpt:n5 point:kana
+よ	yo	glide y	Hiragana base	よ (yo)	sound: /yo/	kana for /yo/		[sound:6f46f7d4a286.mp3]	module:00-foundation jlpt:n5 point:kana
+ら	ra	voiced alveolar	Hiragana base	ら (ra)	sound: /ra/	kana for /ra/		[sound:ba7526a5c03f.mp3]	module:00-foundation jlpt:n5 point:kana
+り	ri	voiced alveolar	Hiragana base	り (ri)	sound: /ri/	kana for /ri/		[sound:71d1c63e507f.mp3]	module:00-foundation jlpt:n5 point:kana
+る	ru	voiced alveolar	Hiragana base	る (ru)	sound: /ru/	kana for /ru/		[sound:ffab9d02a311.mp3]	module:00-foundation jlpt:n5 point:kana
+れ	re	voiced alveolar	Hiragana base	れ (re)	sound: /re/	kana for /re/		[sound:df82f999c7fb.mp3]	module:00-foundation jlpt:n5 point:kana
+ろ	ro	voiced alveolar	Hiragana base	ろ (ro)	sound: /ro/	kana for /ro/		[sound:eb766006aba2.mp3]	module:00-foundation jlpt:n5 point:kana
+わ	wa	glide w	Hiragana base	わ (wa)	sound: /wa/	kana for /wa/		[sound:dedb707d8398.mp3]	module:00-foundation jlpt:n5 point:kana
+を	wo	particle wo	Hiragana base	を (wo)	sound: /wo/	kana for /wo/		[sound:eba95ba0c666.mp3]	module:00-foundation jlpt:n5 point:kana
+ん	n	moraic nasal	Hiragana base	ん (n)	sound: /n/	kana for /n/		[sound:48a866bfdaf9.mp3]	module:00-foundation jlpt:n5 point:kana
+ア	a	vowel a	Katakana base	ア (a)	sound: /a/	kana for /a/		[sound:1b4c4cc65ff2.mp3]	module:00-foundation jlpt:n5 point:kana
+イ	i	vowel i	Katakana base	イ (i)	sound: /i/	kana for /i/		[sound:b284de61340b.mp3]	module:00-foundation jlpt:n5 point:kana
+ウ	u	vowel u	Katakana base	ウ (u)	sound: /u/	kana for /u/		[sound:86686c311378.mp3]	module:00-foundation jlpt:n5 point:kana
+エ	e	vowel e	Katakana base	エ (e)	sound: /e/	kana for /e/		[sound:3707bab0c47b.mp3]	module:00-foundation jlpt:n5 point:kana
+オ	o	vowel o	Katakana base	オ (o)	sound: /o/	kana for /o/		[sound:06716d34cc81.mp3]	module:00-foundation jlpt:n5 point:kana
+カ	ka	voiceless velar	Katakana base	カ (ka)	sound: /ka/	kana for /ka/		[sound:00ed9f08e29e.mp3]	module:00-foundation jlpt:n5 point:kana
+キ	ki	voiceless velar	Katakana base	キ (ki)	sound: /ki/	kana for /ki/		[sound:408ae436f0e0.mp3]	module:00-foundation jlpt:n5 point:kana
+ク	ku	voiceless velar	Katakana base	ク (ku)	sound: /ku/	kana for /ku/		[sound:15901a60a347.mp3]	module:00-foundation jlpt:n5 point:kana
+ケ	ke	voiceless velar	Katakana base	ケ (ke)	sound: /ke/	kana for /ke/		[sound:b50e4b46f608.mp3]	module:00-foundation jlpt:n5 point:kana
+コ	ko	voiceless velar	Katakana base	コ (ko)	sound: /ko/	kana for /ko/		[sound:202a6b25e725.mp3]	module:00-foundation jlpt:n5 point:kana
+サ	sa	voiceless alveolar	Katakana base	サ (sa)	sound: /sa/	kana for /sa/		[sound:bf2cbaccbc43.mp3]	module:00-foundation jlpt:n5 point:kana
+シ	shi	voiceless alveolar	Katakana base	シ (shi)	sound: /shi/	kana for /shi/	ツ	[sound:1afad7703773.mp3]	module:00-foundation jlpt:n5 point:kana
+ス	su	voiceless alveolar	Katakana base	ス (su)	sound: /su/	kana for /su/		[sound:4df8398708ab.mp3]	module:00-foundation jlpt:n5 point:kana
+セ	se	voiceless alveolar	Katakana base	セ (se)	sound: /se/	kana for /se/		[sound:825cec98c430.mp3]	module:00-foundation jlpt:n5 point:kana
+ソ	so	voiceless alveolar	Katakana base	ソ (so)	sound: /so/	kana for /so/	シ	[sound:7394858d1c1b.mp3]	module:00-foundation jlpt:n5 point:kana
+タ	ta	voiceless alveolar	Katakana base	タ (ta)	sound: /ta/	kana for /ta/		[sound:056cfad24eb2.mp3]	module:00-foundation jlpt:n5 point:kana
+チ	chi	voiceless alveolar	Katakana base	チ (chi)	sound: /chi/	kana for /chi/		[sound:7e62c71ff6cf.mp3]	module:00-foundation jlpt:n5 point:kana
+ツ	tsu	voiceless alveolar	Katakana base	ツ (tsu)	sound: /tsu/	kana for /tsu/	ソ	[sound:ee5fe18a7c76.mp3]	module:00-foundation jlpt:n5 point:kana
+テ	te	voiceless alveolar	Katakana base	テ (te)	sound: /te/	kana for /te/		[sound:8996011e5796.mp3]	module:00-foundation jlpt:n5 point:kana
+ト	to	voiceless alveolar	Katakana base	ト (to)	sound: /to/	kana for /to/		[sound:d729bd2b2767.mp3]	module:00-foundation jlpt:n5 point:kana
+ナ	na	voiced nasal	Katakana base	ナ (na)	sound: /na/	kana for /na/		[sound:8f67916a925b.mp3]	module:00-foundation jlpt:n5 point:kana
+ニ	ni	voiced nasal	Katakana base	ニ (ni)	sound: /ni/	kana for /ni/		[sound:d8a8e4205aa7.mp3]	module:00-foundation jlpt:n5 point:kana
+ヌ	nu	voiced nasal	Katakana base	ヌ (nu)	sound: /nu/	kana for /nu/		[sound:065ebce83a18.mp3]	module:00-foundation jlpt:n5 point:kana
+ネ	ne	voiced nasal	Katakana base	ネ (ne)	sound: /ne/	kana for /ne/		[sound:edc16abe75a1.mp3]	module:00-foundation jlpt:n5 point:kana
+ノ	no	voiced nasal	Katakana base	ノ (no)	sound: /no/	kana for /no/		[sound:6c807d0ae2cd.mp3]	module:00-foundation jlpt:n5 point:kana
+ハ	ha	voiceless labial	Katakana base	ハ (ha)	sound: /ha/	kana for /ha/		[sound:35104655d4d6.mp3]	module:00-foundation jlpt:n5 point:kana
+ヒ	hi	voiceless labial	Katakana base	ヒ (hi)	sound: /hi/	kana for /hi/		[sound:9da359d5199d.mp3]	module:00-foundation jlpt:n5 point:kana
+フ	fu	voiceless labial	Katakana base	フ (fu)	sound: /fu/	kana for /fu/		[sound:c2fa87c3ddd2.mp3]	module:00-foundation jlpt:n5 point:kana
+ヘ	he	voiceless labial	Katakana base	ヘ (he)	sound: /he/	kana for /he/		[sound:5cf428be4474.mp3]	module:00-foundation jlpt:n5 point:kana
+ホ	ho	voiceless labial	Katakana base	ホ (ho)	sound: /ho/	kana for /ho/		[sound:41a11f66f540.mp3]	module:00-foundation jlpt:n5 point:kana
+マ	ma	voiced labial	Katakana base	マ (ma)	sound: /ma/	kana for /ma/		[sound:55d42f593ce9.mp3]	module:00-foundation jlpt:n5 point:kana
+ミ	mi	voiced labial	Katakana base	ミ (mi)	sound: /mi/	kana for /mi/		[sound:651d85849d50.mp3]	module:00-foundation jlpt:n5 point:kana
+ム	mu	voiced labial	Katakana base	ム (mu)	sound: /mu/	kana for /mu/		[sound:c6abfe263593.mp3]	module:00-foundation jlpt:n5 point:kana
+メ	me	voiced labial	Katakana base	メ (me)	sound: /me/	kana for /me/		[sound:cfc3325ef061.mp3]	module:00-foundation jlpt:n5 point:kana
+モ	mo	voiced labial	Katakana base	モ (mo)	sound: /mo/	kana for /mo/		[sound:577210255a86.mp3]	module:00-foundation jlpt:n5 point:kana
+ヤ	ya	glide y	Katakana base	ヤ (ya)	sound: /ya/	kana for /ya/		[sound:8e621f06c443.mp3]	module:00-foundation jlpt:n5 point:kana
+ユ	yu	glide y	Katakana base	ユ (yu)	sound: /yu/	kana for /yu/		[sound:ea633878f249.mp3]	module:00-foundation jlpt:n5 point:kana
+ヨ	yo	glide y	Katakana base	ヨ (yo)	sound: /yo/	kana for /yo/		[sound:da6c6a6baf77.mp3]	module:00-foundation jlpt:n5 point:kana
+ラ	ra	voiced alveolar	Katakana base	ラ (ra)	sound: /ra/	kana for /ra/		[sound:d5f1ca173fcd.mp3]	module:00-foundation jlpt:n5 point:kana
+リ	ri	voiced alveolar	Katakana base	リ (ri)	sound: /ri/	kana for /ri/		[sound:56cb721117e2.mp3]	module:00-foundation jlpt:n5 point:kana
+ル	ru	voiced alveolar	Katakana base	ル (ru)	sound: /ru/	kana for /ru/		[sound:1d672f91e3ff.mp3]	module:00-foundation jlpt:n5 point:kana
+レ	re	voiced alveolar	Katakana base	レ (re)	sound: /re/	kana for /re/		[sound:00859a61c08f.mp3]	module:00-foundation jlpt:n5 point:kana
+ロ	ro	voiced alveolar	Katakana base	ロ (ro)	sound: /ro/	kana for /ro/		[sound:4c1fe526f363.mp3]	module:00-foundation jlpt:n5 point:kana
+ワ	wa	glide w	Katakana base	ワ (wa)	sound: /wa/	kana for /wa/		[sound:a2fbf25469bc.mp3]	module:00-foundation jlpt:n5 point:kana
+ヲ	wo	particle wo	Katakana base	ヲ (wo)	sound: /wo/	kana for /wo/		[sound:b40c5f345cb9.mp3]	module:00-foundation jlpt:n5 point:kana
+ン	n	moraic nasal	Katakana base	ン (n)	sound: /n/	kana for /n/		[sound:6ad7ee833add.mp3]	module:00-foundation jlpt:n5 point:kana
+が	ga	voiced ga	Dakuten	base + dakuten → が	sound: /ga/	kana for /ga/		[sound:a142816563b3.mp3]	module:00-foundation jlpt:n5 point:kana
+ぎ	gi	voiced gi	Dakuten	base + dakuten → ぎ	sound: /gi/	kana for /gi/		[sound:9a77c2df496e.mp3]	module:00-foundation jlpt:n5 point:kana
+ぐ	gu	voiced gu	Dakuten	base + dakuten → ぐ	sound: /gu/	kana for /gu/		[sound:6e159a91b7ce.mp3]	module:00-foundation jlpt:n5 point:kana
+げ	ge	voiced ge	Dakuten	base + dakuten → げ	sound: /ge/	kana for /ge/		[sound:9167af511d53.mp3]	module:00-foundation jlpt:n5 point:kana
+ご	go	voiced go	Dakuten	base + dakuten → ご	sound: /go/	kana for /go/		[sound:27a87259d93f.mp3]	module:00-foundation jlpt:n5 point:kana
+ざ	za	voiced za	Dakuten	base + dakuten → ざ	sound: /za/	kana for /za/		[sound:d08b42329511.mp3]	module:00-foundation jlpt:n5 point:kana
+じ	ji	voiced ji	Dakuten	base + dakuten → じ	sound: /ji/	kana for /ji/		[sound:41f11fe610d4.mp3]	module:00-foundation jlpt:n5 point:kana
+ず	zu	voiced zu	Dakuten	base + dakuten → ず	sound: /zu/	kana for /zu/		[sound:e77eb4831e6a.mp3]	module:00-foundation jlpt:n5 point:kana
+ぜ	ze	voiced ze	Dakuten	base + dakuten → ぜ	sound: /ze/	kana for /ze/		[sound:8759dfeb913a.mp3]	module:00-foundation jlpt:n5 point:kana
+ぞ	zo	voiced zo	Dakuten	base + dakuten → ぞ	sound: /zo/	kana for /zo/		[sound:bad314622d68.mp3]	module:00-foundation jlpt:n5 point:kana
+だ	da	voiced da	Dakuten	base + dakuten → だ	sound: /da/	kana for /da/		[sound:b3d236275fac.mp3]	module:00-foundation jlpt:n5 point:kana
+で	de	voiced de	Dakuten	base + dakuten → で	sound: /de/	kana for /de/		[sound:7350618fcec3.mp3]	module:00-foundation jlpt:n5 point:kana
+ど	do	voiced do	Dakuten	base + dakuten → ど	sound: /do/	kana for /do/		[sound:76504d613664.mp3]	module:00-foundation jlpt:n5 point:kana
+ば	ba	voiced ba	Dakuten	pa-row + handakuten → ば	sound: /ba/	kana for /ba/		[sound:d8c158e0a2d1.mp3]	module:00-foundation jlpt:n5 point:kana
+び	bi	voiced bi	Dakuten	pa-row + handakuten → び	sound: /bi/	kana for /bi/		[sound:5fb5aba49978.mp3]	module:00-foundation jlpt:n5 point:kana
+ぶ	bu	voiced bu	Dakuten	pa-row + handakuten → ぶ	sound: /bu/	kana for /bu/		[sound:82b3fbb77164.mp3]	module:00-foundation jlpt:n5 point:kana
+べ	be	voiced be	Dakuten	pa-row + handakuten → べ	sound: /be/	kana for /be/		[sound:eefc5770b9dc.mp3]	module:00-foundation jlpt:n5 point:kana
+ぼ	bo	voiced bo	Dakuten	pa-row + handakuten → ぼ	sound: /bo/	kana for /bo/		[sound:7ebddc850724.mp3]	module:00-foundation jlpt:n5 point:kana
+ぱ	pa	semi-voiced pa	Handakuten	ha-row + handakuten → ぱ	sound: /pa/	kana for /pa/		[sound:81223f8ee527.mp3]	module:00-foundation jlpt:n5 point:kana
+ぴ	pi	semi-voiced pi	Handakuten	ha-row + handakuten → ぴ	sound: /pi/	kana for /pi/		[sound:749766f43a50.mp3]	module:00-foundation jlpt:n5 point:kana
+ぷ	pu	semi-voiced pu	Handakuten	ha-row + handakuten → ぷ	sound: /pu/	kana for /pu/		[sound:224fecb16293.mp3]	module:00-foundation jlpt:n5 point:kana
+ぺ	pe	semi-voiced pe	Handakuten	ha-row + handakuten → ぺ	sound: /pe/	kana for /pe/		[sound:bd1d8044336d.mp3]	module:00-foundation jlpt:n5 point:kana
+ぽ	po	semi-voiced po	Handakuten	ha-row + handakuten → ぽ	sound: /po/	kana for /po/		[sound:06b58547dc73.mp3]	module:00-foundation jlpt:n5 point:kana
+ガ	ga	voiced ga	Dakuten	base + dakuten → ガ	sound: /ga/	kana for /ga/		[sound:2cf8934dec55.mp3]	module:00-foundation jlpt:n5 point:kana
+ギ	gi	voiced gi	Dakuten	base + dakuten → ギ	sound: /gi/	kana for /gi/		[sound:5bbbbf8a5aff.mp3]	module:00-foundation jlpt:n5 point:kana
+グ	gu	voiced gu	Dakuten	base + dakuten → グ	sound: /gu/	kana for /gu/		[sound:65429ee5e7b4.mp3]	module:00-foundation jlpt:n5 point:kana
+ゲ	ge	voiced ge	Dakuten	base + dakuten → ゲ	sound: /ge/	kana for /ge/		[sound:df715d6e0967.mp3]	module:00-foundation jlpt:n5 point:kana
+ゴ	go	voiced go	Dakuten	base + dakuten → ゴ	sound: /go/	kana for /go/		[sound:f684fe6c107a.mp3]	module:00-foundation jlpt:n5 point:kana
+ザ	za	voiced za	Dakuten	base + dakuten → ザ	sound: /za/	kana for /za/		[sound:bdf380ec22e5.mp3]	module:00-foundation jlpt:n5 point:kana
+ジ	ji	voiced ji	Dakuten	base + dakuten → ジ	sound: /ji/	kana for /ji/		[sound:fcd474ce77e4.mp3]	module:00-foundation jlpt:n5 point:kana
+ズ	zu	voiced zu	Dakuten	base + dakuten → ズ	sound: /zu/	kana for /zu/		[sound:3c1a103b5b4f.mp3]	module:00-foundation jlpt:n5 point:kana
+ゼ	ze	voiced ze	Dakuten	base + dakuten → ゼ	sound: /ze/	kana for /ze/		[sound:56c35c37128e.mp3]	module:00-foundation jlpt:n5 point:kana
+ゾ	zo	voiced zo	Dakuten	base + dakuten → ゾ	sound: /zo/	kana for /zo/		[sound:7797100cc0f2.mp3]	module:00-foundation jlpt:n5 point:kana
+ダ	da	voiced da	Dakuten	base + dakuten → ダ	sound: /da/	kana for /da/		[sound:919e596fb58d.mp3]	module:00-foundation jlpt:n5 point:kana
+デ	de	voiced de	Dakuten	base + dakuten → デ	sound: /de/	kana for /de/		[sound:5dc5d5b8abb3.mp3]	module:00-foundation jlpt:n5 point:kana
+ド	do	voiced do	Dakuten	base + dakuten → ド	sound: /do/	kana for /do/		[sound:a9a84e4c1845.mp3]	module:00-foundation jlpt:n5 point:kana
+バ	ba	voiced ba	Dakuten	base + dakuten → バ	sound: /ba/	kana for /ba/		[sound:2768d02f9098.mp3]	module:00-foundation jlpt:n5 point:kana
+ビ	bi	voiced bi	Dakuten	base + dakuten → ビ	sound: /bi/	kana for /bi/		[sound:d5725b2f8d16.mp3]	module:00-foundation jlpt:n5 point:kana
+ブ	bu	voiced bu	Dakuten	base + dakuten → ブ	sound: /bu/	kana for /bu/		[sound:c11cd8dd4563.mp3]	module:00-foundation jlpt:n5 point:kana
+ベ	be	voiced be	Dakuten	base + dakuten → ベ	sound: /be/	kana for /be/		[sound:e24283733b4a.mp3]	module:00-foundation jlpt:n5 point:kana
+ボ	bo	voiced bo	Dakuten	base + dakuten → ボ	sound: /bo/	kana for /bo/		[sound:c6be80a62e61.mp3]	module:00-foundation jlpt:n5 point:kana
+パ	pa	semi-voiced pa	Handakuten	ha-row + handakuten → パ	sound: /pa/	kana for /pa/		[sound:d4c65564c4ad.mp3]	module:00-foundation jlpt:n5 point:kana
+ピ	pi	semi-voiced pi	Handakuten	ha-row + handakuten → ピ	sound: /pi/	kana for /pi/		[sound:2083aa096d7e.mp3]	module:00-foundation jlpt:n5 point:kana
+プ	pu	semi-voiced pu	Handakuten	ha-row + handakuten → プ	sound: /pu/	kana for /pu/		[sound:a3b8f9e1263b.mp3]	module:00-foundation jlpt:n5 point:kana
+ペ	pe	semi-voiced pe	Handakuten	ha-row + handakuten → ペ	sound: /pe/	kana for /pe/		[sound:8a8021085114.mp3]	module:00-foundation jlpt:n5 point:kana
+ポ	po	semi-voiced po	Handakuten	ha-row + handakuten → ポ	sound: /po/	kana for /po/		[sound:23239011ca96.mp3]	module:00-foundation jlpt:n5 point:kana
+きゃ	kya	ki + ya combo	Yō-on	consonant + ya/yu/yo → きゃ	sound: /kya/	palatal variant of k		[sound:b2b7e45bf39e.mp3]	module:00-foundation jlpt:n5 point:kana
+きゅ	kyu	ki + yu combo	Yō-on	consonant + ya/yu/yo → きゅ	sound: /kyu/	palatal variant of k		[sound:298ab383a42d.mp3]	module:00-foundation jlpt:n5 point:kana
+きょ	kyo	ki + yo combo	Yō-on	consonant + ya/yu/yo → きょ	sound: /kyo/	palatal variant of k		[sound:d9ee3c16a677.mp3]	module:00-foundation jlpt:n5 point:kana
+しゃ	sha	shi + ya combo	Yō-on	consonant + ya/yu/yo → しゃ	sound: /sha/	palatal variant of s		[sound:b6e3f9666c7a.mp3]	module:00-foundation jlpt:n5 point:kana
+しゅ	shu	shi + yu combo	Yō-on	consonant + ya/yu/yo → しゅ	sound: /shu/	palatal variant of s		[sound:64d073703829.mp3]	module:00-foundation jlpt:n5 point:kana
+しょ	sho	shi + yo combo	Yō-on	consonant + ya/yu/yo → しょ	sound: /sho/	palatal variant of s		[sound:7a5aea55155b.mp3]	module:00-foundation jlpt:n5 point:kana
+ちゃ	cha	chi + ya combo	Yō-on	consonant + ya/yu/yo → ちゃ	sound: /cha/	palatal variant of c		[sound:062957be362f.mp3]	module:00-foundation jlpt:n5 point:kana
+ちゅ	chu	chi + yu combo	Yō-on	consonant + ya/yu/yo → ちゅ	sound: /chu/	palatal variant of c		[sound:619fdc4f9348.mp3]	module:00-foundation jlpt:n5 point:kana
+ちょ	cho	chi + yo combo	Yō-on	consonant + ya/yu/yo → ちょ	sound: /cho/	palatal variant of c		[sound:4def51326a2d.mp3]	module:00-foundation jlpt:n5 point:kana
+にゃ	nya	ni + ya combo	Yō-on	consonant + ya/yu/yo → にゃ	sound: /nya/	palatal variant of n		[sound:be4c29664dfd.mp3]	module:00-foundation jlpt:n5 point:kana
+にゅ	nyu	ni + yu combo	Yō-on	consonant + ya/yu/yo → にゅ	sound: /nyu/	palatal variant of n		[sound:658da3d97ec6.mp3]	module:00-foundation jlpt:n5 point:kana
+にょ	nyo	ni + yo combo	Yō-on	consonant + ya/yu/yo → にょ	sound: /nyo/	palatal variant of n		[sound:0954bcc57525.mp3]	module:00-foundation jlpt:n5 point:kana
+ひゃ	hya	hi + ya combo	Yō-on	consonant + ya/yu/yo → ひゃ	sound: /hya/	palatal variant of h		[sound:f28cd0be883a.mp3]	module:00-foundation jlpt:n5 point:kana
+ひゅ	hyu	hi + yu combo	Yō-on	consonant + ya/yu/yo → ひゅ	sound: /hyu/	palatal variant of h		[sound:e0e6bdfbd67b.mp3]	module:00-foundation jlpt:n5 point:kana
+ひょ	hyo	hi + yo combo	Yō-on	consonant + ya/yu/yo → ひょ	sound: /hyo/	palatal variant of h		[sound:0627f890934c.mp3]	module:00-foundation jlpt:n5 point:kana
+みゃ	mya	mi + ya combo	Yō-on	consonant + ya/yu/yo → みゃ	sound: /mya/	palatal variant of m		[sound:0eb0633f6c68.mp3]	module:00-foundation jlpt:n5 point:kana
+みゅ	myu	mi + yu combo	Yō-on	consonant + ya/yu/yo → みゅ	sound: /myu/	palatal variant of m		[sound:5bd384349a78.mp3]	module:00-foundation jlpt:n5 point:kana
+みょ	myo	mi + yo combo	Yō-on	consonant + ya/yu/yo → みょ	sound: /myo/	palatal variant of m		[sound:6617e33d9583.mp3]	module:00-foundation jlpt:n5 point:kana
+りゃ	rya	ri + ya combo	Yō-on	consonant + ya/yu/yo → りゃ	sound: /rya/	palatal variant of r		[sound:f58558332c0c.mp3]	module:00-foundation jlpt:n5 point:kana
+りゅ	ryu	ri + yu combo	Yō-on	consonant + ya/yu/yo → りゅ	sound: /ryu/	palatal variant of r		[sound:73c41f0e483e.mp3]	module:00-foundation jlpt:n5 point:kana
+りょ	ryo	ri + yo combo	Yō-on	consonant + ya/yu/yo → りょ	sound: /ryo/	palatal variant of r		[sound:1ab62bb6d7b6.mp3]	module:00-foundation jlpt:n5 point:kana
+ぎゃ	gya	gi + ya combo	Yō-on	consonant + ya/yu/yo → ぎゃ	sound: /gya/	palatal variant of g		[sound:95e3d0ad8f6f.mp3]	module:00-foundation jlpt:n5 point:kana
+ぎゅ	gyu	gi + yu combo	Yō-on	consonant + ya/yu/yo → ぎゅ	sound: /gyu/	palatal variant of g		[sound:81a5e9e8a034.mp3]	module:00-foundation jlpt:n5 point:kana
+ぎょ	gyo	gi + yo combo	Yō-on	consonant + ya/yu/yo → ぎょ	sound: /gyo/	palatal variant of g		[sound:08831cb24c9b.mp3]	module:00-foundation jlpt:n5 point:kana
+じゃ	ja	ji + ya combo	Yō-on	consonant + ya/yu/yo → じゃ	sound: /ja/	palatal variant of j		[sound:d91490197bd6.mp3]	module:00-foundation jlpt:n5 point:kana
+じゅ	ju	ji + yu combo	Yō-on	consonant + ya/yu/yo → じゅ	sound: /ju/	palatal variant of j		[sound:567ca1db796e.mp3]	module:00-foundation jlpt:n5 point:kana
+じょ	jo	ji + yo combo	Yō-on	consonant + ya/yu/yo → じょ	sound: /jo/	palatal variant of j		[sound:115759838422.mp3]	module:00-foundation jlpt:n5 point:kana
+びゃ	bya	bi + ya combo	Yō-on	consonant + ya/yu/yo → びゃ	sound: /bya/	palatal variant of b		[sound:4d8780b09f52.mp3]	module:00-foundation jlpt:n5 point:kana
+びゅ	byu	bi + yu combo	Yō-on	consonant + ya/yu/yo → びゅ	sound: /byu/	palatal variant of b		[sound:747dbd8ebca5.mp3]	module:00-foundation jlpt:n5 point:kana
+びょ	byo	bi + yo combo	Yō-on	consonant + ya/yu/yo → びょ	sound: /byo/	palatal variant of b		[sound:0a1cc845facd.mp3]	module:00-foundation jlpt:n5 point:kana
+ぴゃ	pya	pi + ya combo	Yō-on	consonant + ya/yu/yo → ぴゃ	sound: /pya/	palatal variant of p		[sound:ef826d2af5c0.mp3]	module:00-foundation jlpt:n5 point:kana
+ぴゅ	pyu	pi + yu combo	Yō-on	consonant + ya/yu/yo → ぴゅ	sound: /pyu/	palatal variant of p		[sound:984576b5cea2.mp3]	module:00-foundation jlpt:n5 point:kana
+ぴょ	pyo	pi + yo combo	Yō-on	consonant + ya/yu/yo → ぴょ	sound: /pyo/	palatal variant of p		[sound:220216f18a88.mp3]	module:00-foundation jlpt:n5 point:kana
