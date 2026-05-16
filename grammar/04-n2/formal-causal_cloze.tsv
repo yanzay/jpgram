@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar::04 - N2 Grammar::Cloze
+#
+彼の努力{{c1::からこそ}}、成功した。	かれのどりょく{{c1::からこそ}}、せいこうした。	からこそ = precisely because	[sound:0e9ec9d548e6.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+この経験{{c1::からこそ}}、学んだ。	このけいけん{{c1::からこそ}}、まなんだ。	からこそ = precisely from	[sound:7d7ad0bf9139.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+あるからといって、必ずしも成功しない。その理由は{{c1::ことからです}}。	あるからといって、かならずしもせいこうしない。そのりゆうは{{c1::ことからです}}。	ことから = from the fact	[sound:5f7b695ff34b.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+新しい職務に当たって、経験が{{c1::活きる}}。	あたらしいしょくむにあたって、けいけんが{{c1::いきる}}。	いきる with にあたって	[sound:914bfa75a34f.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+長い交渉の{{c1::挙句}}、合意に達した。	ながいこうしょうの{{c1::あげく}}、ごういにたっした。	あげく = in the end	[sound:befb670f88e0.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+苦労の{{c1::挙句}}、夢を実現した。	くろうの{{c1::あげく}}、ゆめをじつげんした。	あげく = after hardship	[sound:075be73e8dc3.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+何度も失敗の{{c1::挙句}}、成功した。	なんどもしっぱいの{{c1::あげく}}、せいこうした。	あげく = after repeated attempts	[sound:808ab321ca06.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+年月の{{c1::果てに}}、真実が明かされた。	としつきの{{c1::すえに}}、しんじつがあかされた。	すえに = at the end	[sound:80ff0feaec5f.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+仕事が忙しい{{c1::わりに}}、給料が低い。	しごとがいそがしい{{c1::わりに}}、きゅうりょうがひくい。	わりに = despite	[sound:6e13c33efb62.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+彼は有名である{{c1::ばかりか}}、有能でもある。	かれはゆうめいである{{c1::ばかりか}}、ゆうのうでもある。	ばかりか = not only X but also Y	[sound:c81ce3d88c22.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+成功するばかりか、{{c1::名声}}も得た。	せいこうするばかりか、{{c1::めいせい}}もえた。	ばかりか leads to additional accomplishment	[sound:4aa0edfc4751.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+上手なことはおろか、{{c1::下手}}すぎる。	じょうずなことはおろか、{{c1::へた}}すぎる。	どころか = far from	[sound:37a4907fe078.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+成功どころか、{{c1::失敗}}してしまった。	せいこうどころか、{{c1::しっぱい}}してしまった。	どころか negates expectation	[sound:321e1ff2af99.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+助けどころか、{{c1::邪魔}}をした。	たすけどころか、{{c1::じゃま}}をした。	どころか = far from helping	[sound:4e701ed33af7.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+元気どころではなく、{{c1::病気}}で苦しんでいる。	げんきどころではなく、{{c1::びょうき}}でくるしんでいる。	どころではない = can't even do X	[sound:3421e049232d.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+彼を放っておく{{c1::わけにはいかない}}。	かれをほっておく{{c1::わけにはいかない}}。	わけにはいかない = cannot leave as is	[sound:5e667d550fa5.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+ここで諦める{{c1::わけにはいかない}}。	ここであきらめる{{c1::わけにはいかない}}。	わけにはいかない = cannot give up	[sound:beaf5db3f626.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+悔しさを隠さ{{c1::ないではいられない}}。	くやしさをかくさ{{c1::ないではいられない}}。	ないではいられない = cannot help but show	[sound:1349acb3855e.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+笑わ{{c1::ないではいられない}}。	わらわ{{c1::ないではいられない}}。	ないではいられない = involuntary action	[sound:d2b8d5b2b2ab.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+涙が出{{c1::ないではいられない}}状況だ。	なみだがで{{c1::ないではいられない}}じょうきょうだ。	ないではいられない = cannot suppress	[sound:573542f6113d.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+詭弁を弄するのを{{c1::憚らない}}態度だ。	きべんをろうするのを{{c1::はばからない}}たいどだ。	はばからない = does not hesitate	[sound:57399d043b5d.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+困難に立ち向かうのを{{c1::厭わない}}。	こんなんにたちむかうのを{{c1::いとわない}}。	いとわない = does not shy away	[sound:a3948a1d0b4a.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+頭を下げ{{c1::てやまない}}姿勢だ。	あたまをさげ{{c1::てやまない}}しせいだ。	てやまない = persistent without end	[sound:16c011c0e528.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+努力し続け{{c1::てやまない}}。	どりょくしつづけ{{c1::てやまない}}。	てやまない = never-ending effort	[sound:217bbc82892e.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+感謝し続け{{c1::てやまない}}。	かんしゃしつづけ{{c1::てやまない}}。	てやまない = endless gratitude	[sound:46e58e7c9be8.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+成長{{c1::にともなって}}、責任も増す。	せいちょう{{c1::にともなって}}、せきにんもます。	にともなって = accompanying	[sound:bfcc4fb1af17.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+人口増加{{c1::にともなって}}、都市化が進む。	じんこうぞうか{{c1::にともなって}}、としかがすすむ。	にともなって = concomitant with	[sound:432c06722091.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+時間の経過{{c1::にしたがって}}、状況は変わる。	じかんのけいか{{c1::にしたがって}}、じょうきょうはかわる。	にしたがって = in accordance with	[sound:c5b0f62c1628.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+指示{{c1::に従って}}、作業を進める。	しじ{{c1::にしたがって}}、さぎょうをすすめる。	に従って = following	[sound:2bd698d6cdd7.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+仕事{{c1::とともに}}、人間関係も深まる。	しごと{{c1::とともに}}、にんげんかんけいもふかまる。	とともに = along with	[sound:f4c3a39009b1.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+子どもの成長{{c1::とともに}}、親も成長する。	こどものせいちょう{{c1::とともに}}、おやもせいちょうする。	とともに = together with	[sound:c792d1b9ce9c.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+年を重ねる{{c1::とともに}}、知恵も増す。	としをかさねる{{c1::とともに}}、ちえもます。	とともに = as...so too	[sound:0b3d3f93b134.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+歩く{{c1::につれ}}、景色が変わっていった。	あるく{{c1::につれ}}、けしきがかわっていった。	につれ = as...in proportion	[sound:050a41a1de8c.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+時間が経つ{{c1::につれて}}、状況は悪化していった。	じかんがたつ{{c1::につれて}}、じょうきょうはあっかしていった。	につれて = progressively	[sound:88128aa7284e.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
+どちらにせよ、{{c1::結果}}は変わらないだろう。	どちらにせよ、{{c1::けっか}}はかわらないだろう。	にせよ = either way	[sound:5aee83fa39ca.mp3]	module:04-n2 jlpt:n2 point:formal-causal-cloze
