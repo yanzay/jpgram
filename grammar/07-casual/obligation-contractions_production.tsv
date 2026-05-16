@@ -1,0 +1,35 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::07 - Casual::Production
+#
+Have to study.	〜なきゃ	べんきょうしなきゃ。	勉強しなきゃ。	Self-imperative	[sound:8e26c7ca1c7f.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top1k source:imabi
+Have to finish.	〜なくちゃ	おわらなくちゃ。	終わらなくちゃ。	Must complete	[sound:5c287c25c261.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Must sleep early.	〜なきゃならん	はやくねなきゃならん。	早く寝なきゃならん。	Imperative duty	[sound:6aea1a7fe1ce.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+You must come now!	〜なきゃ	もうこなきゃ！	もう来なきゃ！	Direct command	[sound:69b7d61c49f4.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top10k source:imabi
+You have to do it, don't you.	〜なきゃ	やらなきゃだめでしょ。	やらなきゃダメでしょ。	Necessity assertion	[sound:7d85ec178d3b.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+You have to do it, or it won't work.	〜なくちゃ	やらなくちゃむりよ。	やらなくちゃ無理よ。	No choice	[sound:d39b912a0935.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top5k source:imabi
+You have to come or it's bad.	〜なきゃ	こなきゃわるいよ。	来なきゃ悪いよ。	Duty + reproach	[sound:6f40798fd937.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top10k source:imabi
+Must not forget.	〜ちゃいけない	わすれちゃいけない。	忘れちゃいけない。	Prohibition	[sound:acfc12f3db19.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to say it.	〜なくちゃ	いわなくちゃ。	言わなくちゃ。	Must speak	[sound:209013f1f156.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Must admit.	〜なきゃならん	みとめなきゃならん。	認めなきゃならん。	Forced acknowledgment	[sound:8f9497bc4d4c.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to wake up.	〜なきゃ	おきなきゃ。	起きなきゃ。	Morning duty	[sound:4a0d346d1b54.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to return it.	〜なくちゃ	かえさなくちゃ。	返さなくちゃ。	Duty of return	[sound:4eb584738c97.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to come again.	〜なきゃ	またこなきゃ。	また来なきゃ。	Future duty	[sound:84ae294362f8.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top10k source:imabi
+Have to talk, you know.	〜なきゃならん	はなさなきゃならんよ。	話さなきゃならんよ。	Necessity emphasis	[sound:c01909480bbf.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top1k source:imabi
+Have to eat.	〜なくちゃ	たべなくちゃ。	食べなくちゃ。	Health duty	[sound:51d5b7c2adc1.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to wait.	〜なきゃならん	またなきゃならん。	待たなきゃならん。	Forced patience	[sound:3d94a157d845.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to read it.	〜なくちゃ	よまなくちゃだめ。	読まなくちゃダメ。	Academic duty	[sound:757e95a8496a.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to go.	〜なきゃ	いかなきゃ。	行かなきゃ。	Urgent departure	[sound:8ca0996a4525.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to keep it clean.	〜なくちゃ	せいけつにしなくちゃ。	清潔にしなくちゃ。	Hygiene duty	[sound:7eecafdbbc9b.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top10k source:imabi
+Must apologize.	〜なきゃならん	あやまらなきゃならん。	謝らなきゃならん。	Forced admission	[sound:03b5b51ccc52.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to decide.	〜なくちゃ	きめなくちゃ。	決めなくちゃ。	Choice urgency	[sound:509d08c2c62d.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:low source:imabi
+Have to run.	〜なきゃならん	はしらなきゃならん。	走らなきゃならん。	Urgent movement	[sound:e9893fc70ec8.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to remember.	〜なくちゃ	おぼえなくちゃ。	覚えなくちゃ。	Learning task	[sound:492ac489ef82.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:low source:imabi
+Have to help.	〜なきゃ	てつだわなきゃ。	手伝わなきゃ。	Duty to assist	[sound:3895d371b824.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top1k source:imabi
+Have to continue.	〜なくちゃならん	つづけなくちゃならん。	続けなくちゃならん。	Forced persistence	[sound:31c66b673e38.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to doubt (them).	〜なくちゃ	うたがわなくちゃ。	疑わなくちゃ。	Critical thinking	[sound:97f586f2ea20.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to stop.	〜なくちゃ	やめなくちゃ。	止めなくちゃ。	Urgent halt	[sound:433e93f797f4.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to meet.	〜なきゃならん	あわなきゃならん。	会わなきゃならん。	Scheduled duty	[sound:6e19502b073c.mp3]	module:07-casual point:obligation-contractions complexity:intro source:imabi
+Have to lie.	〜なくちゃ	うそつかなくちゃ。	嘘つかなくちゃ。	Forced deception	[sound:1eeb1d3254db.mp3]	module:07-casual point:obligation-contractions complexity:intro frequency:top5k source:imabi

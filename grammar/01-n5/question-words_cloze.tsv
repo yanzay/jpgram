@@ -4,23 +4,23 @@
 #notetype:Cloze
 #deck:Japanese Grammar::01 - N5 Grammar::Cloze
 #
-実は{{c1::何か}}食べたいです。	じつは{{c1::なにか}}たべたいです。	何か = something (positive)	[sound:2b2d15d05701.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::何も}}食べませんでした。	じつは{{c1::なにも}}たべませんでした。	なにも = nothing (negative)	[sound:734ef564690d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-{{c1::何でも}}食べられます。	{{c1::なんでも}}たべられます。	なんでも = anything (free choice)	[sound:db5577e9253a.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::誰か}}来ました。	じつは{{c1::だれか}}きました。	だれか = someone (positive)	[sound:e77775dc0f4d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::誰も}}来ませんでした。	じつは{{c1::だれも}}きませんでした。	だれも = no one (negative)	[sound:e20a8284246d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::誰でも}}参加できます。	じつは{{c1::だれでも}}さんかできます。	だれでも = anyone (free choice)	[sound:ad0e74229842.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::どこか}}に行きたいです。	じつは{{c1::どこか}}にいきたいです。	どこか = somewhere (positive)	[sound:a5ad5369929f.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::どこも}}行きませんでした。	じつは{{c1::どこも}}いきませんでした。	どこも = nowhere (negative)	[sound:eddf745cb547.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::どこでも}}大丈夫です。	じつは{{c1::どこでも}}だいじょうぶです。	どこでも = anywhere (free choice)	[sound:61d6589e88d9.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実は{{c1::いつか}}会いましょう。	じつは{{c1::いつか}}あいましょう。	いつか = sometime (positive)	[sound:5054cec7c580.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-{{c1::いつも}}勉強します。	{{c1::いつも}}べんきょうします。	いつも = always (universal positive)	[sound:1a2aa7110a35.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k
-実は{{c1::どれも}}好きです。	じつは{{c1::どれも}}すきです。	どれも = all of them (universal positive)	[sound:61fc3a81d7af.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-{{c1::どれも}}好きじゃありません。	{{c1::どれも}}すきじゃありません。	どれも + negative = not any	[sound:9be0fc6ba892.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k
-実は{{c1::どんなものでも}}いいですか？	じつは{{c1::どんなものでも}}いいですか？	どんなものでも = any kind (free choice)	[sound:d9ed0dd8f036.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-{{c1::何も}}知りません。	{{c1::なにも}}しりません。	なにも = don't know anything (negative)	[sound:03949f850d80.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k
-{{c1::何か}}手伝えますか？	{{c1::なにか}}てつだえますか？	なにか = something (can help with?)	[sound:c50fea9117ee.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-実はこれは{{c1::いくら}}ですか？	じつはこれは{{c1::いくら}}ですか？	いくら = how much (price)	[sound:f41bf1b13288.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-本は{{c1::何冊}}ですか？	ほんは{{c1::なんさつ}}ですか？	なんさつ = how many books (冊)	[sound:921363f18803.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k
-{{c1::どうしてか}}分かりません。	{{c1::どうしてか}}わかりません。	どうしてか = for some reason	[sound:63edca5dbcda.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k
-{{c1::どんな}}人ですか？	{{c1::どんな}}にんですか？	どんな = what kind of	[sound:062f9d7d98c4.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k
+実は{{c1::何か}}食べたいです。	じつは{{c1::なにか}}たべたいです。	何か = something (positive)	[sound:2b2d15d05701.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::何も}}食べませんでした。	じつは{{c1::なにも}}たべませんでした。	なにも = nothing (negative)	[sound:734ef564690d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+{{c1::何でも}}食べられます。	{{c1::なんでも}}たべられます。	なんでも = anything (free choice)	[sound:db5577e9253a.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::誰か}}来ました。	じつは{{c1::だれか}}きました。	だれか = someone (positive)	[sound:e77775dc0f4d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::誰も}}来ませんでした。	じつは{{c1::だれも}}きませんでした。	だれも = no one (negative)	[sound:e20a8284246d.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::誰でも}}参加できます。	じつは{{c1::だれでも}}さんかできます。	だれでも = anyone (free choice)	[sound:ad0e74229842.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::どこか}}に行きたいです。	じつは{{c1::どこか}}にいきたいです。	どこか = somewhere (positive)	[sound:a5ad5369929f.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::どこも}}行きませんでした。	じつは{{c1::どこも}}いきませんでした。	どこも = nowhere (negative)	[sound:eddf745cb547.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::どこでも}}大丈夫です。	じつは{{c1::どこでも}}だいじょうぶです。	どこでも = anywhere (free choice)	[sound:61d6589e88d9.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実は{{c1::いつか}}会いましょう。	じつは{{c1::いつか}}あいましょう。	いつか = sometime (positive)	[sound:5054cec7c580.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+{{c1::いつも}}勉強します。	{{c1::いつも}}べんきょうします。	いつも = always (universal positive)	[sound:1a2aa7110a35.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k source:shin-kanzen
+実は{{c1::どれも}}好きです。	じつは{{c1::どれも}}すきです。	どれも = all of them (universal positive)	[sound:61fc3a81d7af.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+{{c1::どれも}}好きじゃありません。	{{c1::どれも}}すきじゃありません。	どれも + negative = not any	[sound:9be0fc6ba892.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k source:shin-kanzen
+実は{{c1::どんなものでも}}いいですか？	じつは{{c1::どんなものでも}}いいですか？	どんなものでも = any kind (free choice)	[sound:d9ed0dd8f036.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+{{c1::何も}}知りません。	{{c1::なにも}}しりません。	なにも = don't know anything (negative)	[sound:03949f850d80.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k source:shin-kanzen
+{{c1::何か}}手伝えますか？	{{c1::なにか}}てつだえますか？	なにか = something (can help with?)	[sound:c50fea9117ee.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+実はこれは{{c1::いくら}}ですか？	じつはこれは{{c1::いくら}}ですか？	いくら = how much (price)	[sound:f41bf1b13288.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+本は{{c1::何冊}}ですか？	ほんは{{c1::なんさつ}}ですか？	なんさつ = how many books (冊)	[sound:921363f18803.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k source:shin-kanzen
+{{c1::どうしてか}}分かりません。	{{c1::どうしてか}}わかりません。	どうしてか = for some reason	[sound:63edca5dbcda.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top10k source:shin-kanzen
+{{c1::どんな}}人ですか？	{{c1::どんな}}にんですか？	どんな = what kind of	[sound:062f9d7d98c4.mp3]	module:01-n5 jlpt:n5 point:question-words complexity:intro frequency:top1k source:shin-kanzen

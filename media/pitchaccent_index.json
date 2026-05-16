@@ -1,0 +1,3763 @@
+{
+  "version": 1,
+  "entries": {
+    "に": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "本": {
+      "reading": "ほん",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "実は": {
+      "reading": "じつは",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "今": {
+      "reading": "いま",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "私": {
+      "reading": "あたい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "車": {
+      "reading": "くるま",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "紙": {
+      "reading": "かみ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "魚": {
+      "reading": "うお",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "それ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "で": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "は": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "から": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "これ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "たら": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "なら": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "一日": {
+      "reading": "いちじつ",
+      "accent": "4",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "毎日": {
+      "reading": "まいにち",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "兄": {
+      "reading": "あに",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "古典": {
+      "reading": "こてん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "よう": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "し": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "な": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "友達": {
+      "reading": "ともだち",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "朝": {
+      "reading": "あさ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "誰": {
+      "reading": "た",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "ペン": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "思いきや": {
+      "reading": "おもいきや",
+      "accent": "2",
+      "pattern": "LHLLL",
+      "source": "kanjium"
+    },
+    "続ける": {
+      "reading": "つづける",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "も": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "行く": {
+      "reading": "いく",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "様": {
+      "reading": "さま",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "や": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "彼": {
+      "reading": "あれ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "明日": {
+      "reading": "あした",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "月曜日": {
+      "reading": "げつようび",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "歩く": {
+      "reading": "あるく",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "話す": {
+      "reading": "はなす",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "足る": {
+      "reading": "たる",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "新しい": {
+      "reading": "あたらしい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "忙しい": {
+      "reading": "いそがしい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "時": {
+      "reading": "じ",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "水": {
+      "reading": "すい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "猫": {
+      "reading": "ねこ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "雨": {
+      "reading": "あめ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "時間": {
+      "reading": "じかん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "ね": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "東京": {
+      "reading": "とうきょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "食べる": {
+      "reading": "たべる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "見る": {
+      "reading": "みる",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "面白い": {
+      "reading": "おもしろい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "ん": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "計画": {
+      "reading": "けいかく",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "楽しい": {
+      "reading": "たのしい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "状況": {
+      "reading": "じょうきょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "だから": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "仕事": {
+      "reading": "しごと",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "あ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "うん": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "言う": {
+      "reading": "いう",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "簡単": {
+      "reading": "かんたん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "それにしても": {
+      "reading": "",
+      "accent": "5",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "勉強": {
+      "reading": "べんきょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "何": {
+      "reading": "なに",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "弟": {
+      "reading": "おと",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "日本": {
+      "reading": "にっぽん",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "来": {
+      "reading": "らい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "行き": {
+      "reading": "いき",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "公園": {
+      "reading": "こうえん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "彼の": {
+      "reading": "あの",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "書く": {
+      "reading": "かく",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "飲む": {
+      "reading": "のむ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "待つ": {
+      "reading": "まつ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "えっ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "それなのに": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "以上": {
+      "reading": "いじょう",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "何といっても": {
+      "reading": "なんといっても",
+      "accent": "1",
+      "pattern": "HLLLLLL",
+      "source": "kanjium"
+    },
+    "要するに": {
+      "reading": "ようするに",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "きらきら": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "はい": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "へ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "む": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "もっと": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "必要": {
+      "reading": "ひつよう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "静か": {
+      "reading": "しずか",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "コーヒー": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "開く": {
+      "reading": "あく",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "一度": {
+      "reading": "いちど",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "一方": {
+      "reading": "いっぽう",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "挙句": {
+      "reading": "あげく",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "妹": {
+      "reading": "いも",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "加えて": {
+      "reading": "くわえて",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "暑い": {
+      "reading": "あつい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "失敗": {
+      "reading": "しっぱい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "子供": {
+      "reading": "こども",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "学校": {
+      "reading": "がっこう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "学生": {
+      "reading": "がくしょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "成功": {
+      "reading": "せいこう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "意見": {
+      "reading": "いけん",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "しい": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "彼女": {
+      "reading": "かのじょ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "最高": {
+      "reading": "さいこう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "英語": {
+      "reading": "えいご",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "暑": {
+      "reading": "しょ",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "運動": {
+      "reading": "うんどう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "最近": {
+      "reading": "さいきん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "犬": {
+      "reading": "いぬ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "窓": {
+      "reading": "まど",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "肉": {
+      "reading": "しし",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "色": {
+      "reading": "いろ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "待った": {
+      "reading": "まった",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "家族": {
+      "reading": "かぞく",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "天気": {
+      "reading": "てんき",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "美しい": {
+      "reading": "うつくしい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "帰る": {
+      "reading": "かえる",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "寝る": {
+      "reading": "ねる",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "買う": {
+      "reading": "かう",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "来る": {
+      "reading": "きたる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "死ぬ": {
+      "reading": "しぬ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "読む": {
+      "reading": "よむ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "あの": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "どんな": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "やった": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "僕": {
+      "reading": "ぼく",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "ダル": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "何か": {
+      "reading": "なにか",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "何しろ": {
+      "reading": "なにしろ",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "状態": {
+      "reading": "じょうたい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "案の定": {
+      "reading": "あんのじょう",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "お": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "やばい": {
+      "reading": "",
+      "accent": "2",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "やり遂げる": {
+      "reading": "やりとげる",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "安い": {
+      "reading": "やすい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "言いにくい": {
+      "reading": "いいにくい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "ならぬ": {
+      "reading": "",
+      "accent": "2",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "じっとり": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "大切": {
+      "reading": "おおぎり",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "そよそよ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "違う": {
+      "reading": "たがう",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "我": {
+      "reading": "が",
+      "accent": "0",
+      "pattern": "L",
+      "source": "kanjium"
+    },
+    "危険": {
+      "reading": "きけん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "期待": {
+      "reading": "きたい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "若い": {
+      "reading": "わかい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "どんより": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ねえ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "まじ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "わ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "さくさく": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "食事": {
+      "reading": "しょくじ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "開ける": {
+      "reading": "あける",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "伴う": {
+      "reading": "ともなう",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "下手": {
+      "reading": "したて",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "人": {
+      "reading": "じん",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "頑張る": {
+      "reading": "がんばる",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "個": {
+      "reading": "こ",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "健康": {
+      "reading": "けんこう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "元気": {
+      "reading": "げんき",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "病気": {
+      "reading": "びょうき",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "皆": {
+      "reading": "みな",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "尽くす": {
+      "reading": "つくす",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "温かい": {
+      "reading": "あたたかい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "助け": {
+      "reading": "たすけ",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "努力": {
+      "reading": "どりょく",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "医者": {
+      "reading": "いしゃ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "去年": {
+      "reading": "きょねん",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "遊ぶ": {
+      "reading": "あすぶ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "可愛い": {
+      "reading": "かわいい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "君": {
+      "reading": "きみ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "忘れがち": {
+      "reading": "わすれがち",
+      "accent": "0",
+      "pattern": "LHHHH",
+      "source": "kanjium"
+    },
+    "大丈夫": {
+      "reading": "だいじょうぶ",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "失礼": {
+      "reading": "しつれい",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "好き": {
+      "reading": "すき",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "子ども": {
+      "reading": "こども",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "親": {
+      "reading": "おや",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "育て上げる": {
+      "reading": "そだてあげる",
+      "accent": "5",
+      "pattern": "LHHHHL",
+      "source": "kanjium"
+    },
+    "疲れる": {
+      "reading": "つかれる",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "家": {
+      "reading": "いえ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "靴": {
+      "reading": "くつ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "花": {
+      "reading": "はな",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "想像": {
+      "reading": "そうぞう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "経験": {
+      "reading": "けいけん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "成長": {
+      "reading": "せいちょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "技術": {
+      "reading": "ぎじゅつ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "通す": {
+      "reading": "とおす",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "政治": {
+      "reading": "せいじ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "並びに": {
+      "reading": "ならびに",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "日本語": {
+      "reading": "にっぽんご",
+      "accent": "0",
+      "pattern": "LHHHH",
+      "source": "kanjium"
+    },
+    "昔": {
+      "reading": "むかし",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "星": {
+      "reading": "せい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "昨日": {
+      "reading": "きのう",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "書": {
+      "reading": "ふみ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "木の下": {
+      "reading": "このした",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "機械": {
+      "reading": "きかい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "毎週": {
+      "reading": "まいしゅう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "気温": {
+      "reading": "きおん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "男性": {
+      "reading": "だんせい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "科学": {
+      "reading": "かがく",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "空": {
+      "reading": "うつせ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "第": {
+      "reading": "だい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "缶": {
+      "reading": "かま",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "賛成": {
+      "reading": "さんせい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "返事": {
+      "reading": "へんじ",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "逃げ": {
+      "reading": "にげ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "野党": {
+      "reading": "やとう",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "飲": {
+      "reading": "いん",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "首相": {
+      "reading": "しゅしょう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "切る": {
+      "reading": "きる",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "建てる": {
+      "reading": "たてる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "走る": {
+      "reading": "はしる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "働く": {
+      "reading": "はたらく",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "立つ": {
+      "reading": "たつ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "聞く": {
+      "reading": "きく",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "起きる": {
+      "reading": "おきる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "進む": {
+      "reading": "すさむ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "選ぶ": {
+      "reading": "えらぶ",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "いい加減": {
+      "reading": "いいかげん",
+      "accent": "0",
+      "pattern": "LHHHH",
+      "source": "kanjium"
+    },
+    "どうか": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "習慣": {
+      "reading": "しゅうかん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "まあ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "怖い": {
+      "reading": "こわい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "より": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "デイリー": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "一応": {
+      "reading": "いちおう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "一見": {
+      "reading": "いちげん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "すると": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "万が一": {
+      "reading": "まんがいち",
+      "accent": "1",
+      "pattern": "HLLLL",
+      "source": "kanjium"
+    },
+    "例えば": {
+      "reading": "たとえば",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "信頼": {
+      "reading": "しんらい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "事件": {
+      "reading": "じけん",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "同情": {
+      "reading": "どうじょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "唯一": {
+      "reading": "ゆいいつ",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "圧倒": {
+      "reading": "あっとう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "報酬": {
+      "reading": "ほうしゅう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "子": {
+      "reading": "こ",
+      "accent": "0",
+      "pattern": "L",
+      "source": "kanjium"
+    },
+    "大人ぶる": {
+      "reading": "おとなぶる",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "夫": {
+      "reading": "お",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "実のところ": {
+      "reading": "じつのところ",
+      "accent": "2",
+      "pattern": "LHLLLL",
+      "source": "kanjium"
+    },
+    "尊敬": {
+      "reading": "そんけい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "恐らく": {
+      "reading": "おそらく",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "公開": {
+      "reading": "こうかい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "攻撃": {
+      "reading": "こうげき",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "故に": {
+      "reading": "ゆえに",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "桁違い": {
+      "reading": "けたちがい",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "検証": {
+      "reading": "けんしょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "イベント": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "体験": {
+      "reading": "たいけん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "次に": {
+      "reading": "つぎに",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "比肩": {
+      "reading": "ひけん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "比較": {
+      "reading": "ひかく",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "無比": {
+      "reading": "むひ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "爆死": {
+      "reading": "ばくし",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "悔しい": {
+      "reading": "くやしい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "理解": {
+      "reading": "りかい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "歯痛": {
+      "reading": "しつう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "気持ち": {
+      "reading": "きもち",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "絶対": {
+      "reading": "ぜったい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "至上": {
+      "reading": "しじょう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "褒賞": {
+      "reading": "ほうしょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "超越": {
+      "reading": "ちょうえつ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "ああ": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "いらっしゃいませ": {
+      "reading": "",
+      "accent": "6",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "うんうん": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "え": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "お母さん": {
+      "reading": "おかあさん",
+      "accent": "2",
+      "pattern": "LHLLL",
+      "source": "kanjium"
+    },
+    "緊張": {
+      "reading": "きんちょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "けり": {
+      "reading": "",
+      "accent": "2",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "設計": {
+      "reading": "せっけい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "前代未聞": {
+      "reading": "ぜんだいみもん",
+      "accent": "1",
+      "pattern": "HLLLLLL",
+      "source": "kanjium"
+    },
+    "さ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "さあ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "さあさあ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "除く": {
+      "reading": "のぞく",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "その頃": {
+      "reading": "そのころ",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "草": {
+      "reading": "くさ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "欲しい": {
+      "reading": "ほしい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "ちぇっ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "不景気": {
+      "reading": "ふけいき",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "どう": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "最後": {
+      "reading": "さいご",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "無理": {
+      "reading": "むり",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "厳しい": {
+      "reading": "いかめしい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "逆効果": {
+      "reading": "ぎゃくこうか",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "ふむ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "へえ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ま": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "反対": {
+      "reading": "はんたい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "もしもし": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "行為": {
+      "reading": "こうい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "よし": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "よしよし": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "イ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "大好き": {
+      "reading": "だいすき",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "ウ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "課題": {
+      "reading": "かだい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "グーグー": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ケーキ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "バッグ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ゴロゴロ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "サクサク": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "了解": {
+      "reading": "りょうかい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "文化祭": {
+      "reading": "ぶんかさい",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "ザーザー": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "シ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ジャラジャラ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "スープ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ソ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "明らか": {
+      "reading": "あきらか",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "ト": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ド": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ドア": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ニ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ハ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "バタバタ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "パ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "パリパリ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "パン": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ビル": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ビール": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "フォロー": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ヘ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "メモ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ホ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ポシャる": {
+      "reading": "",
+      "accent": "2",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ポンポン": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ミ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ラ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "レ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "ロ": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "一": {
+      "reading": "いち",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "一人": {
+      "reading": "いちにん",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "一晩": {
+      "reading": "ひとばん",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "一期一会": {
+      "reading": "いちごいちえ",
+      "accent": "2",
+      "pattern": "LHLLLL",
+      "source": "kanjium"
+    },
+    "一生懸命": {
+      "reading": "いっしょうけんめい",
+      "accent": "5",
+      "pattern": "LHHHHLLL",
+      "source": "kanjium"
+    },
+    "一言": {
+      "reading": "いちげん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "三時": {
+      "reading": "さんじ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "上げる": {
+      "reading": "あげる",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "不幸": {
+      "reading": "ふこう",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "話": {
+      "reading": "はなし",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "乃ち": {
+      "reading": "すなわち",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "五つ": {
+      "reading": "いつつ",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "五十歩百歩": {
+      "reading": "ごじっぽひゃっぽ",
+      "accent": "5",
+      "pattern": "LHHHHLL",
+      "source": "kanjium"
+    },
+    "五月": {
+      "reading": "ごがつ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "京都": {
+      "reading": "きょうと",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "メール": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "今回": {
+      "reading": "こんかい",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "今度": {
+      "reading": "こんど",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "音楽": {
+      "reading": "おんがく",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "物価": {
+      "reading": "ぶっか",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "以って": {
+      "reading": "もって",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "会う": {
+      "reading": "あう",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "報告書": {
+      "reading": "ほうこくしょ",
+      "accent": "5",
+      "pattern": "LHHHH",
+      "source": "kanjium"
+    },
+    "但し": {
+      "reading": "ただし",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "秘密": {
+      "reading": "ひみつ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "何ごと": {
+      "reading": "なにごと",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "何はともあれ": {
+      "reading": "なにはともあれ",
+      "accent": "1",
+      "pattern": "HLLLLLL",
+      "source": "kanjium"
+    },
+    "系": {
+      "reading": "けい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "何人": {
+      "reading": "なにびと",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "使い": {
+      "reading": "つかい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "インターフェース": {
+      "reading": "",
+      "accent": "5",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "便利": {
+      "reading": "べんり",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "信じる": {
+      "reading": "しんじる",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "男": {
+      "reading": "お",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "取る": {
+      "reading": "とる",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "値段": {
+      "reading": "ねだん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "傍若無人": {
+      "reading": "ぼうじゃくぶじん",
+      "accent": "0",
+      "pattern": "LHHHHHH",
+      "source": "kanjium"
+    },
+    "大学": {
+      "reading": "だいがく",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "優秀": {
+      "reading": "ゆうしゅう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "先生": {
+      "reading": "せんせい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "其の": {
+      "reading": "その",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "円相場": {
+      "reading": "えんそうば",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "急上昇": {
+      "reading": "きゅうじょうしょう",
+      "accent": "3",
+      "pattern": "LHHLLL",
+      "source": "kanjium"
+    },
+    "冷たい": {
+      "reading": "つべたい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "分かりやすい": {
+      "reading": "わかりやすい",
+      "accent": "5",
+      "pattern": "LHHHHL",
+      "source": "kanjium"
+    },
+    "力": {
+      "reading": "ちから",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "邪魔": {
+      "reading": "じゃま",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "助ける": {
+      "reading": "たすける",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "助言": {
+      "reading": "じょげん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "成果": {
+      "reading": "せいか",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "勇気": {
+      "reading": "ゆうき",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "スナック": {
+      "reading": "",
+      "accent": "2",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "医学": {
+      "reading": "いがく",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "十月": {
+      "reading": "じゅうがつ",
+      "accent": "4",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "午前": {
+      "reading": "ごぜん",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "午後": {
+      "reading": "ごご",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "即ち": {
+      "reading": "すなわち",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "厚い": {
+      "reading": "あつい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "原油": {
+      "reading": "げんゆ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "参加": {
+      "reading": "さんか",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "又": {
+      "reading": "また",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "嬉しい": {
+      "reading": "うれしい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "進める": {
+      "reading": "すすめる",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "古い": {
+      "reading": "ふるい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "台風": {
+      "reading": "たいふう",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "号": {
+      "reading": "ごう",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "合格": {
+      "reading": "ごうかく",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "名前": {
+      "reading": "なまえ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "相応しい": {
+      "reading": "ふさわしい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "呉越同舟": {
+      "reading": "ごえつどうしゅう",
+      "accent": "1",
+      "pattern": "HLLLLLL",
+      "source": "kanjium"
+    },
+    "和風": {
+      "reading": "わふう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "品質": {
+      "reading": "ひんしつ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "四面楚歌": {
+      "reading": "しめんそか",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "困難": {
+      "reading": "こんなん",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "越える": {
+      "reading": "こえる",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "図書館": {
+      "reading": "としょかん",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "固より": {
+      "reading": "もとより",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "在る": {
+      "reading": "ある",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "在宅勤務": {
+      "reading": "ざいたくきんむ",
+      "accent": "5",
+      "pattern": "LHHHHLL",
+      "source": "kanjium"
+    },
+    "地位": {
+      "reading": "ちい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "壊す": {
+      "reading": "こわす",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "売上": {
+      "reading": "うりあげ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "外": {
+      "reading": "そと",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "夜": {
+      "reading": "よ",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "夢": {
+      "reading": "ゆめ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "大きい": {
+      "reading": "おおきい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "大抵": {
+      "reading": "たいてい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "姉": {
+      "reading": "あね",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "姉さん": {
+      "reading": "あねさん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "嫌": {
+      "reading": "いや",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "注意": {
+      "reading": "ちゅうい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "わくわく": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "時に": {
+      "reading": "ときに",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "教える": {
+      "reading": "おしえる",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "同じ": {
+      "reading": "おなじ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "学問": {
+      "reading": "がくもん",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "安全": {
+      "reading": "あんぜん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "未完": {
+      "reading": "みかん",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "完璧": {
+      "reading": "かんぺき",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "良い": {
+      "reading": "いい",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "実に": {
+      "reading": "げに",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "誰か": {
+      "reading": "だれか",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "ちゃん": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "努力家": {
+      "reading": "どりょくか",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "思われる": {
+      "reading": "おもわれる",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "不足": {
+      "reading": "ふそく",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "中止": {
+      "reading": "ちゅうし",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "寧ろ": {
+      "reading": "むしろ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "小さい": {
+      "reading": "ちいさい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "強い": {
+      "reading": "こわい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "少年": {
+      "reading": "しょうねん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "側": {
+      "reading": "かたわら",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "市": {
+      "reading": "いち",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "市場": {
+      "reading": "いちば",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "知恵": {
+      "reading": "ちえ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "若": {
+      "reading": "わか",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "幹": {
+      "reading": "から",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "床": {
+      "reading": "しょう",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "床屋": {
+      "reading": "とこや",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "店": {
+      "reading": "たな",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "建て": {
+      "reading": "たて",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "当該": {
+      "reading": "とうがい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "極み": {
+      "reading": "きわみ",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "後": {
+      "reading": "あと",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "どきどき": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "必ず": {
+      "reading": "かならず",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "忘れる": {
+      "reading": "わすれる",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "怒る": {
+      "reading": "いかる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "悪魔": {
+      "reading": "あくま",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "感染症": {
+      "reading": "かんせんしょう",
+      "accent": "0",
+      "pattern": "LHHHHH",
+      "source": "kanjium"
+    },
+    "プラン": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "名声": {
+      "reading": "めいせい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "或いは": {
+      "reading": "あるいは",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "戦場": {
+      "reading": "せんじょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "手伝う": {
+      "reading": "てつだう",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "承認": {
+      "reading": "しょうにん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "投稿": {
+      "reading": "とうこう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "折る": {
+      "reading": "おる",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "指示": {
+      "reading": "しじ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "推測": {
+      "reading": "すいそく",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "提案": {
+      "reading": "ていあん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "改善": {
+      "reading": "かいぜん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "議論": {
+      "reading": "ぎろん",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "活きる": {
+      "reading": "いきる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "方": {
+      "reading": "かた",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "日": {
+      "reading": "にち",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "文化": {
+      "reading": "ぶんか",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "日程": {
+      "reading": "にってい",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "日銀": {
+      "reading": "にちぎん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "明かり": {
+      "reading": "あかり",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "明後日": {
+      "reading": "あさって",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "昨年": {
+      "reading": "さくねん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "昼ご飯": {
+      "reading": "ひるごはん",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "ならない": {
+      "reading": "",
+      "accent": "2",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "考え": {
+      "reading": "かんがえ",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "暖かい": {
+      "reading": "あたたかい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "寝坊": {
+      "reading": "ねぼう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "火曜日": {
+      "reading": "かようび",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "始まる": {
+      "reading": "はじまる",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "有る": {
+      "reading": "ある",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "朝御飯": {
+      "reading": "あさごはん",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "素晴らしい": {
+      "reading": "すばらしい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "期限": {
+      "reading": "きげん",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "未だ": {
+      "reading": "いまだ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "未来": {
+      "reading": "みらい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "雑誌": {
+      "reading": "ざっし",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "机": {
+      "reading": "つくえ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "満たす": {
+      "reading": "みたす",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "柔らかい": {
+      "reading": "やわらかい",
+      "accent": "4",
+      "pattern": "LHHHL",
+      "source": "kanjium"
+    },
+    "栄養": {
+      "reading": "えいよう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "一時": {
+      "reading": "いちじ",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "業績": {
+      "reading": "ぎょうせき",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "有する": {
+      "reading": "ゆうする",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "橋": {
+      "reading": "きょう",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "歌": {
+      "reading": "うた",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "止む": {
+      "reading": "やむ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "正月": {
+      "reading": "しょうがつ",
+      "accent": "4",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "死": {
+      "reading": "し",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "毎朝": {
+      "reading": "まいちょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "気象": {
+      "reading": "きしょう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "野菜": {
+      "reading": "やさい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "洗う": {
+      "reading": "あらう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "池": {
+      "reading": "いけ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "沸く": {
+      "reading": "わく",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "況や": {
+      "reading": "いわんや",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "法律": {
+      "reading": "ほうりつ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "泳ぎ": {
+      "reading": "およぎ",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "泳ぐ": {
+      "reading": "およぐ",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "洗濯物": {
+      "reading": "せんたくもの",
+      "accent": "0",
+      "pattern": "LHHHHH",
+      "source": "kanjium"
+    },
+    "浴びる": {
+      "reading": "あびる",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "ひんやり": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "涙": {
+      "reading": "なだ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "漫画": {
+      "reading": "まんが",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "火": {
+      "reading": "か",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "点": {
+      "reading": "ちょぼ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "無き": {
+      "reading": "なき",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "無し": {
+      "reading": "なし",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "然れども": {
+      "reading": "しかれども",
+      "accent": "2",
+      "pattern": "LHLLL",
+      "source": "kanjium"
+    },
+    "熱い": {
+      "reading": "あつい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "光る": {
+      "reading": "ひかる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "特別": {
+      "reading": "とくべつ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "現代的": {
+      "reading": "げんだいてき",
+      "accent": "0",
+      "pattern": "LHHHHH",
+      "source": "kanjium"
+    },
+    "現在": {
+      "reading": "げんざい",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "現象": {
+      "reading": "げんしょう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "生きる": {
+      "reading": "いきる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "生ビール": {
+      "reading": "なまビール",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "申し訳ない": {
+      "reading": "もうしわけない",
+      "accent": "6",
+      "pattern": "LHHHHHL",
+      "source": "kanjium"
+    },
+    "画竜点睛": {
+      "reading": "がりょうてんせい",
+      "accent": "1",
+      "pattern": "HLLLLLL",
+      "source": "kanjium"
+    },
+    "疲れ": {
+      "reading": "つかれ",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "症状": {
+      "reading": "しょうじょう",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "痛い": {
+      "reading": "いたい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "堪える": {
+      "reading": "こたえる",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "必須": {
+      "reading": "ひっしゅ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "盗む": {
+      "reading": "ぬすむ",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "メイク": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "目標": {
+      "reading": "めじるし",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "石油": {
+      "reading": "せきゆ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "実装": {
+      "reading": "じっそう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "神": {
+      "reading": "かみ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "でも": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "秋": {
+      "reading": "あき",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "光": {
+      "reading": "ひかり",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "項": {
+      "reading": "うなじ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "管": {
+      "reading": "かん",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "箸": {
+      "reading": "はし",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "素敵": {
+      "reading": "すてき",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "終に": {
+      "reading": "ついに",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "綺麗": {
+      "reading": "きれい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "縄": {
+      "reading": "なわ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "而して": {
+      "reading": "しかして",
+      "accent": "2",
+      "pattern": "LHLL",
+      "source": "kanjium"
+    },
+    "聞こえる": {
+      "reading": "きこえる",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "しっとり": {
+      "reading": "",
+      "accent": "3",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "臨機応変": {
+      "reading": "りんきおうへん",
+      "accent": "1",
+      "pattern": "HLLLLLL",
+      "source": "kanjium"
+    },
+    "至る": {
+      "reading": "いたる",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "苦い": {
+      "reading": "にがい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "中国語": {
+      "reading": "ちゅうごくご",
+      "accent": "0",
+      "pattern": "LHHHH",
+      "source": "kanjium"
+    },
+    "練習": {
+      "reading": "れんしゅう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "荷物": {
+      "reading": "にもつ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "葉": {
+      "reading": "は",
+      "accent": "0",
+      "pattern": "L",
+      "source": "kanjium"
+    },
+    "著名人": {
+      "reading": "ちょめいじん",
+      "accent": "2",
+      "pattern": "LHLLL",
+      "source": "kanjium"
+    },
+    "街": {
+      "reading": "まち",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "表": {
+      "reading": "おもて",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "被害": {
+      "reading": "ひがい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "製造業": {
+      "reading": "せいぞうぎょう",
+      "accent": "3",
+      "pattern": "LHHLLL",
+      "source": "kanjium"
+    },
+    "要る": {
+      "reading": "いる",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "複雑": {
+      "reading": "ふくざつ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "チェック": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "言葉": {
+      "reading": "ことば",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "押し通す": {
+      "reading": "おしとおす",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "試験": {
+      "reading": "しけん",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "進路": {
+      "reading": "しんろ",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "詩": {
+      "reading": "うた",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "話し": {
+      "reading": "はなし",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "誠心誠意": {
+      "reading": "せいしんせいい",
+      "accent": "5",
+      "pattern": "LHHHHLL",
+      "source": "kanjium"
+    },
+    "誠意": {
+      "reading": "せいい",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "読み": {
+      "reading": "よみ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "フォント": {
+      "reading": "",
+      "accent": "1",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "持つ": {
+      "reading": "もつ",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "果たす": {
+      "reading": "はたす",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "質問": {
+      "reading": "しつもん",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "回答": {
+      "reading": "かいとう",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "質実剛健": {
+      "reading": "しつじつごうけん",
+      "accent": "0",
+      "pattern": "LHHHHHHH",
+      "source": "kanjium"
+    },
+    "赤": {
+      "reading": "あか",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "赤い": {
+      "reading": "あかい",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "息": {
+      "reading": "いき",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "ぎこちない": {
+      "reading": "",
+      "accent": "4",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "起承転結": {
+      "reading": "きしょうてんけつ",
+      "accent": "2",
+      "pattern": "LHLLLLL",
+      "source": "kanjium"
+    },
+    "足": {
+      "reading": "あし",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "足りる": {
+      "reading": "たりる",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "踏む": {
+      "reading": "ふむ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "輪": {
+      "reading": "わ",
+      "accent": "1",
+      "pattern": "H",
+      "source": "kanjium"
+    },
+    "人物": {
+      "reading": "じんぶつ",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "週末": {
+      "reading": "しゅうまつ",
+      "accent": "0",
+      "pattern": "LHHH",
+      "source": "kanjium"
+    },
+    "電話": {
+      "reading": "でんわ",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "運転手": {
+      "reading": "うんてんしゅ",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "道": {
+      "reading": "どう",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "がたい": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "郊外": {
+      "reading": "こうがい",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "部下": {
+      "reading": "ぶか",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "部長": {
+      "reading": "ぶちょう",
+      "accent": "0",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "金銭": {
+      "reading": "きんせん",
+      "accent": "1",
+      "pattern": "HLLL",
+      "source": "kanjium"
+    },
+    "鍵": {
+      "reading": "かぎ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "間違い": {
+      "reading": "まちがい",
+      "accent": "3",
+      "pattern": "LHHL",
+      "source": "kanjium"
+    },
+    "防ぎ": {
+      "reading": "ふせぎ",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "防衛費": {
+      "reading": "ぼうえいひ",
+      "accent": "3",
+      "pattern": "LHHLL",
+      "source": "kanjium"
+    },
+    "辺り": {
+      "reading": "あたり",
+      "accent": "1",
+      "pattern": "HLL",
+      "source": "kanjium"
+    },
+    "青": {
+      "reading": "あお",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "青い": {
+      "reading": "あおい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "そっと": {
+      "reading": "",
+      "accent": "0",
+      "pattern": "",
+      "source": "kanjium"
+    },
+    "面倒くさい": {
+      "reading": "めんどうくさい",
+      "accent": "6",
+      "pattern": "LHHHHHL",
+      "source": "kanjium"
+    },
+    "音": {
+      "reading": "おと",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "頭": {
+      "reading": "かしら",
+      "accent": "3",
+      "pattern": "LHH",
+      "source": "kanjium"
+    },
+    "飲み": {
+      "reading": "のみ",
+      "accent": "2",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "飴": {
+      "reading": "あめ",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "駅": {
+      "reading": "えき",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "高": {
+      "reading": "こう",
+      "accent": "1",
+      "pattern": "HL",
+      "source": "kanjium"
+    },
+    "高い": {
+      "reading": "たかい",
+      "accent": "2",
+      "pattern": "LHL",
+      "source": "kanjium"
+    },
+    "鳴る": {
+      "reading": "なる",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    },
+    "鼻": {
+      "reading": "はな",
+      "accent": "0",
+      "pattern": "LH",
+      "source": "kanjium"
+    }
+  },
+  "missing_count": 9355,
+  "missing": []
+}

@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::05 - N1::Production
+#
+や否や: No sooner/as soon as.	No sooner/as soon as	かれがきたやひやみながだまった。	彼が来たや否や皆が黙った。	No sooner X than Y	[sound:bb8c7090b0a2.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+や否や: No sooner/as soon as.	No sooner/as soon as	どあをひらけたやひやひかりがいっった。	ドアを開けたや否や光が入った。	No sooner X than Y	[sound:66169e81583b.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+や否や: No sooner/as soon as.	No sooner/as soon as	かれがはなしたやひやはんぱつがあった。	彼が話したや否や反発があった。	No sooner X than Y	[sound:69b107d3160b.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:low source:shin-kanzen
+ながらに: While literary.	While literary	かれはあるきながらにかんがえた。	彼は歩きながらに考えた。	While doing X; literary form	[sound:e065cde4a80f.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top10k source:shin-kanzen
+ながらにして: While literary.	While literary	まなびながらにしてせいちょうした。	学びながらにして成長した。	While doing X; literary form	[sound:a01895bc8709.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+にして: At time of; manner.	At time of; manner	わかきにちにしてすでにさいのうをしめした。	若き日にして既に才能を示した。	Marks time or manner; literary	[sound:614412a282a9.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+にして: At time of; manner.	At time of; manner	いっしゅんにしてすべてがかわった。	一瞬にして全てが変わった。	Marks time or manner; literary	[sound:7a6cbc844b73.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+にあって: In/during.	In/during	たたかいのさいちゅうにあってれいせいさをたもつ。	戦いの最中にあって冷静さを保つ。	During; in situation	[sound:d927f62ff721.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:low source:shin-kanzen
+にあって: In/during.	In/during	こんなんなじだいにあってあゆみつづけた。	困難な時代にあって歩み続けた。	During; in situation	[sound:af2d68b4bfbb.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:low source:shin-kanzen
+なりに: In own way.	In own way	こどもなりにせいいっぱいがんばった。	子供なりに精一杯頑張った。	Each in own manner	[sound:ebbf2c675df8.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top5k source:shin-kanzen
+なりに: In own way.	In own way	そのじょうきょうなりにたいおうした。	その状況なりに対応した。	Each in own manner	[sound:97401efce7d7.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:low source:shin-kanzen
+なくして: Without.	Without	どりょくなくしてせいこうはない。	努力なくして成功はない。	Marks necessary condition	[sound:c032890755e7.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top10k source:shin-kanzen
+なくしては: Without.	Without	あいなくしてはいきられない。	愛なくしては生きられない。	Marks necessary condition	[sound:c29ae79e8efb.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+ともなれば: If becomes such.	If becomes such	そうともなればいかねばならぬ。	そうともなれば行かねばならぬ。	When circumstances emerge	[sound:5665ac330264.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard source:shin-kanzen
+ともなると: When comes to.	When comes to	せんそうともなるとちがうはなしだ。	戦争ともなると違う話だ。	When condition emerges	[sound:a7890c871425.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top5k source:shin-kanzen
+や否や: No sooner/as soon as.	No sooner/as soon as	かれがきたやひやぎろんがはじまった。	彼が来たや否や議論が始まった。	No sooner X than Y	[sound:9f8ccc424ad2.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+や否や: No sooner/as soon as.	No sooner/as soon as	ひがついたやひやもえひろがった。	火がついたや否や燃え広がった。	No sooner X than Y	[sound:7c26880bb1ab.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+や否や: No sooner/as soon as.	No sooner/as soon as	みつけたやひやだれもがはしってきた。	見つけたや否や誰もが走ってきた。	No sooner X than Y	[sound:03d97c44abfb.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+ながらにして: While literary.	While literary	よみながらにしてりかいした。	読みながらにして理解した。	While doing X; literary form	[sound:7916e19f8e33.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+ながらにして: While literary.	While literary	ききながらにしてまなんだ。	聞きながらにして学んだ。	While doing X; literary form	[sound:b0dcb2ea51fd.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top10k source:shin-kanzen
+にして: At time of; manner.	At time of; manner	そのにちにしておわりだ。	その日にして終わりだ。	Marks time or manner; literary	[sound:d6ab054ff1cc.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top5k source:shin-kanzen
+にあって: In/during.	In/during	あんこくのじだいにあってひかりをもとめた。	暗黒の時代にあって光を求めた。	During; in situation	[sound:87dad89c4152.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top5k source:shin-kanzen
+なりに: In own way.	In own way	へいわのじだいなりにしんぽした。	平和の時代なりに進歩した。	Each in own manner	[sound:ccb7b0fbb095.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+なくして: Without.	Without	ちしきなくしてはんだんできない。	知識なくして判断できない。	Marks necessary condition	[sound:3de2025e7cb9.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+ともなると: When comes to.	When comes to	けっこんともなるとじんせいがかわる。	結婚ともなると人生が変わる。	When condition emerges	[sound:567a46298fc5.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+や否や: No sooner/as soon as.	No sooner/as soon as	かれがそういったやひやはんろんした。	彼がそう言ったや否や反論した。	No sooner X than Y	[sound:7261b0f18041.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+ながらにして: While literary.	While literary	はしりながらにしてよんだ。	走りながらにして呼んだ。	While doing X; literary form	[sound:9968131bb297.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro source:shin-kanzen
+にして: At time of; manner.	At time of; manner	はたちにしてどくりつした。	二十歳にして独立した。	Marks time or manner; literary	[sound:50765e07b898.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top10k source:shin-kanzen
+にあって: In/during.	In/during	しけんのさいちゅうにあってあせらない。	試験の最中にあって焦らない。	During; in situation	[sound:56ecc2dabf1f.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:standard frequency:top10k source:shin-kanzen
+なりに: In own way.	In own way	しょしんしゃなりにがんばろう。	初心者なりに頑張ろう。	Each in own manner	[sound:32b4b097051d.mp3]	module:05-n1 jlpt:n1 point:literary-temporal complexity:intro frequency:top10k source:shin-kanzen

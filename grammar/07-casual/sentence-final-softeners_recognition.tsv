@@ -4,37 +4,37 @@
 #notetype:Recognition
 #deck:Japanese Grammar::07 - Casual::Recognition
 #
-来たのだ。	きたのだ。	He/she came (with emphasis).	Explanatory mood	のだ	Strong assertion	Empathic	のです	[sound:2cea1cd8be71.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来たんだ。	きたんだ。	He/she came, you see.	Casual explanation	んだ	Conversational assertion	Natural	のです	[sound:06ce9562c268.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来たの？	きたの？	You came?	Gentle interrogation	の？	Questioning tone	Soft inquiry	のですか？	[sound:4c687e1d703d.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来たんですか？	きたんですか？	Did you come?	Polite inquiry	んですか	Formal question	Polite	のですか	[sound:ad9542e99e21.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来るでしょ。	くるでしょ。	You'll come, right?	Casual prediction	でしょ	Informal assumption	Conversational	でしょう	[sound:a27b93300282.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-来るだろ。	くるだろ。	He'll probably come.	Rough prediction	だろ	Masculine assumption	Casual	でしょう	[sound:c169d8442e53.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-来るでしょう。	くるでしょう。	You will come, won't you?	Polite assumption	でしょう	Formal prediction	Polite	でしょう	[sound:39dbb5fc1894.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-ねえ、そうですね。	ねえ、そうですね。	That's right, isn't it.	Agreement marker	ね	Seeking confirmation	Polite	ね	[sound:14ec842119a1.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-そっか。	そっか。	I see.	Informal understanding	か	Quick realization	Casual	か	[sound:6c637ae4cef1.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-そよな。	そよな。	That's how it is, huh.	Male acknowledgment	よな	Masculine agreement	Casual male	ね	[sound:7c5bcb95965c.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-好きなんだ。	すきなんだ。	Oh, you like it.	Discovery announcement	んだ	Realization	Casual	のです	[sound:25cc60408a6d.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-好きなの。	すきなの。	I like it.	Explanation (female/soft)	の	Feminine assertion	Soft tone	のです	[sound:a727a5486ce3.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-好きなん。	すきなん。	I like it (Kansai-like).	Regional assertion	ん	Dialectal form	Casual	のです	[sound:00c5f20831e3.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-来ちゃったのね。	きちゃったのね。	Oh, you came already.	Surprised realization	のね	Emphasis + softness	Female tone	のですね	[sound:0084b4a0978c.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来ちゃったんだ。	きちゃったんだ。	You ended up coming.	Casual observation	んだ	Natural comment	Conversational	のです	[sound:fd1c02b386fc.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-雨だから来ないんですよ。	あめだからこないんですよ。	Because it's raining, he's not coming.	Full explanation	んですよ	Polite reason	Explanatory	のですよ	[sound:28d1a2a3e1e2.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-雨だから来ないんだよ。	あめだからこないんだよ。	Because it's raining, he's not coming.	Casual explanation	んだよ	Informal reason	Friendly	のですよ	[sound:c15883b118e0.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来たじゃない。	きたじゃない。	You came!	Accusatory realization	じゃない	Negation-based accusation	Confrontational	じゃない	[sound:b0e0b0d1d983.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-来たじゃん。	きたじゃん。	You came, didn't you!	Contradiction marker	じゃん	Casual contradiction	Conversational	じゃない	[sound:bf08ddc86ec5.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-難しいのね。	むずかしいのね。	Ah, it's difficult.	Understanding announcement	のね	Realization + softness	Female tone	のですね	[sound:4a8fde0cd360.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-難しいんだ。	むずかしいんだ。	Oh, it's difficult.	Discovery	んだ	Casual realization	Conversational	のです	[sound:b5c79fdab078.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-難しいんですね。	むずかしいんですね。	It's difficult, isn't it.	Polite agreement	んですね	Formal sympathy	Polite	のですね	[sound:2e4cdc4d5251.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-好きなんですか？	すきなんですか？	Do you like it?	Polite inquiry	んですか	Formal question	Polite	のですか	[sound:224a8b2f0160.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-好きなん？	すきなん？	You like it?	Casual inquiry	ん？	Quick question	Conversational	のですか	[sound:414b8e7cb910.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-やるんですよ。	やるんですよ。	The thing is, he does it.	Emphatic explanation	んですよ	Polite emphasis	Explanatory	のですよ	[sound:cff3f6348a19.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-やるんだよ。	やるんだよ。	He does it, you know.	Casual emphasis	んだよ	Friendly assertion	Conversational	のですよ	[sound:8ecb8b838009.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-来るのだろうか。	くるのだろうか。	Will he/she come, I wonder.	Emphatic wondering	のだろうか	Literary speculation	Reflective	のでしょうか	[sound:0f9cb6c9d294.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-来るのかな。	くるのかな。	Will he/she come, I wonder.	Casual wondering	のかな	Informal speculation	Conversational	のかな	[sound:c52164d3902f.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-やったのね。	やったのね。	Oh, you did it!	Female realization	のね	Feminine acknowledgment	Female tone	のですね	[sound:61efc407f588.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-やったんだ。	やったんだ。	You did it!	Casual realization	んだ	Informal acknowledgment	Conversational	のです	[sound:7163d4c5a8a9.mp3]	module:07-casual point:sentence-final-softeners complexity:intro
-上手いんですね。	じょうずなんですね。	You're skilled, aren't you.	Polite compliment	んですね	Formal praise	Polite	のですね	[sound:98b2f9e65680.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-上手いんだ。	じょうずなんだ。	Oh, you're good.	Casual compliment	んだ	Informal praise	Conversational	のです	[sound:4f734fd8a622.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k
-不味いのね。	まずいのね。	Oh, it tastes bad.	Female realization	のね	Feminine observation	Female tone	のですね	[sound:5fd349a0ca06.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
-不味いんだ。	まずいんだ。	It tastes bad.	Casual observation	んだ	Informal comment	Conversational	のです	[sound:2f8f523cbb21.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k
+来たのだ。	きたのだ。	He/she came (with emphasis).	Explanatory mood	のだ	Strong assertion	Empathic	のです	[sound:2cea1cd8be71.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来たんだ。	きたんだ。	He/she came, you see.	Casual explanation	んだ	Conversational assertion	Natural	のです	[sound:06ce9562c268.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来たの？	きたの？	You came?	Gentle interrogation	の？	Questioning tone	Soft inquiry	のですか？	[sound:4c687e1d703d.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来たんですか？	きたんですか？	Did you come?	Polite inquiry	んですか	Formal question	Polite	のですか	[sound:ad9542e99e21.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来るでしょ。	くるでしょ。	You'll come, right?	Casual prediction	でしょ	Informal assumption	Conversational	でしょう	[sound:a27b93300282.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+来るだろ。	くるだろ。	He'll probably come.	Rough prediction	だろ	Masculine assumption	Casual	でしょう	[sound:c169d8442e53.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+来るでしょう。	くるでしょう。	You will come, won't you?	Polite assumption	でしょう	Formal prediction	Polite	でしょう	[sound:39dbb5fc1894.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+ねえ、そうですね。	ねえ、そうですね。	That's right, isn't it.	Agreement marker	ね	Seeking confirmation	Polite	ね	[sound:14ec842119a1.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+そっか。	そっか。	I see.	Informal understanding	か	Quick realization	Casual	か	[sound:6c637ae4cef1.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+そよな。	そよな。	That's how it is, huh.	Male acknowledgment	よな	Masculine agreement	Casual male	ね	[sound:7c5bcb95965c.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+好きなんだ。	すきなんだ。	Oh, you like it.	Discovery announcement	んだ	Realization	Casual	のです	[sound:25cc60408a6d.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+好きなの。	すきなの。	I like it.	Explanation (female/soft)	の	Feminine assertion	Soft tone	のです	[sound:a727a5486ce3.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+好きなん。	すきなん。	I like it (Kansai-like).	Regional assertion	ん	Dialectal form	Casual	のです	[sound:00c5f20831e3.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+来ちゃったのね。	きちゃったのね。	Oh, you came already.	Surprised realization	のね	Emphasis + softness	Female tone	のですね	[sound:0084b4a0978c.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来ちゃったんだ。	きちゃったんだ。	You ended up coming.	Casual observation	んだ	Natural comment	Conversational	のです	[sound:fd1c02b386fc.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+雨だから来ないんですよ。	あめだからこないんですよ。	Because it's raining, he's not coming.	Full explanation	んですよ	Polite reason	Explanatory	のですよ	[sound:28d1a2a3e1e2.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+雨だから来ないんだよ。	あめだからこないんだよ。	Because it's raining, he's not coming.	Casual explanation	んだよ	Informal reason	Friendly	のですよ	[sound:c15883b118e0.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来たじゃない。	きたじゃない。	You came!	Accusatory realization	じゃない	Negation-based accusation	Confrontational	じゃない	[sound:b0e0b0d1d983.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+来たじゃん。	きたじゃん。	You came, didn't you!	Contradiction marker	じゃん	Casual contradiction	Conversational	じゃない	[sound:bf08ddc86ec5.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+難しいのね。	むずかしいのね。	Ah, it's difficult.	Understanding announcement	のね	Realization + softness	Female tone	のですね	[sound:4a8fde0cd360.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+難しいんだ。	むずかしいんだ。	Oh, it's difficult.	Discovery	んだ	Casual realization	Conversational	のです	[sound:b5c79fdab078.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+難しいんですね。	むずかしいんですね。	It's difficult, isn't it.	Polite agreement	んですね	Formal sympathy	Polite	のですね	[sound:2e4cdc4d5251.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+好きなんですか？	すきなんですか？	Do you like it?	Polite inquiry	んですか	Formal question	Polite	のですか	[sound:224a8b2f0160.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+好きなん？	すきなん？	You like it?	Casual inquiry	ん？	Quick question	Conversational	のですか	[sound:414b8e7cb910.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+やるんですよ。	やるんですよ。	The thing is, he does it.	Emphatic explanation	んですよ	Polite emphasis	Explanatory	のですよ	[sound:cff3f6348a19.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+やるんだよ。	やるんだよ。	He does it, you know.	Casual emphasis	んだよ	Friendly assertion	Conversational	のですよ	[sound:8ecb8b838009.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+来るのだろうか。	くるのだろうか。	Will he/she come, I wonder.	Emphatic wondering	のだろうか	Literary speculation	Reflective	のでしょうか	[sound:0f9cb6c9d294.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+来るのかな。	くるのかな。	Will he/she come, I wonder.	Casual wondering	のかな	Informal speculation	Conversational	のかな	[sound:c52164d3902f.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+やったのね。	やったのね。	Oh, you did it!	Female realization	のね	Feminine acknowledgment	Female tone	のですね	[sound:61efc407f588.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+やったんだ。	やったんだ。	You did it!	Casual realization	んだ	Informal acknowledgment	Conversational	のです	[sound:7163d4c5a8a9.mp3]	module:07-casual point:sentence-final-softeners complexity:intro source:imabi
+上手いんですね。	じょうずなんですね。	You're skilled, aren't you.	Polite compliment	んですね	Formal praise	Polite	のですね	[sound:98b2f9e65680.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+上手いんだ。	じょうずなんだ。	Oh, you're good.	Casual compliment	んだ	Informal praise	Conversational	のです	[sound:4f734fd8a622.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top1k source:imabi
+不味いのね。	まずいのね。	Oh, it tastes bad.	Female realization	のね	Feminine observation	Female tone	のですね	[sound:5fd349a0ca06.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi
+不味いんだ。	まずいんだ。	It tastes bad.	Casual observation	んだ	Informal comment	Conversational	のです	[sound:2f8f523cbb21.mp3]	module:07-casual point:sentence-final-softeners complexity:intro frequency:top10k source:imabi

@@ -31,6 +31,23 @@ MODULE_TO_JLPT = {
     "12-beyond-n1": "beyond",
 }
 
+MODULE_TO_SOURCE = {
+    "00-foundation": "source:curated-jpgram",
+    "01-n5": "source:shin-kanzen",
+    "02-n4": "source:shin-kanzen",
+    "03-n3": "source:shin-kanzen",
+    "04-n2": "source:shin-kanzen",
+    "05-n1": "source:shin-kanzen",
+    "06-keigo": "source:dictionary-of-jp-grammar",
+    "07-casual": "source:imabi",
+    "08-slang": "source:tofugu",
+    "09-sfp-aizuchi": "source:dictionary-of-jp-grammar",
+    "10-onomatopoeia": "source:dictionary-of-jp-grammar",
+    "11-classical": "source:imabi",
+    "12-beyond-n1": "source:dictionary-of-jp-grammar",
+    "13-l1": "source:curated-jpgram",
+}
+
 
 def derive_path_tags(path: Path) -> list[str]:
     """Tags inferred purely from file location + name."""
@@ -42,6 +59,7 @@ def derive_path_tags(path: Path) -> list[str]:
             tags.append(f"module:{p}")
             if p in MODULE_TO_JLPT:
                 tags.append(f"jlpt:{MODULE_TO_JLPT[p]}")
+            tags.append(MODULE_TO_SOURCE.get(p, "source:curated-jpgram"))
             break
     # point slug = filename stem minus the trailing _<notetype>
     stem = path.stem

@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::10 - Onomatopoeia::Production
+#
+Fluffy/soft.	onomatopoeia	ふわふわ	フワフワ	state desc	[sound:14c9ade9e23b.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Crispy.	onomatopoeia	さくさく	サクサク	state desc	[sound:5219986d4daf.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Smooth/slippery.	onomatopoeia	つるつる	ツルツル	state desc	[sound:6887b4d6304f.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Smooth/silky.	onomatopoeia	さらさら	サラサラ	state desc	[sound:887d405b93eb.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Smoothly/fluently.	onomatopoeia	すらすら	スラスラ	state desc	[sound:dd0096f5ce99.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Gritty/sandy.	onomatopoeia	じゃりじゃり	ジャリジャリ	state desc	[sound:dcf915853bcc.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Precise/neat.	onomatopoeia	きちりっ	キチリッ	state desc	[sound:bf979272c304.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Stiff/mechanical.	onomatopoeia	ろぼろぼ	ロボロボ	state desc	[sound:561c856509ce.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Warm and pleasant.	onomatopoeia	ぽかぽか	ポカポカ	state desc	[sound:fa5a2029e1ed.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Heart pounding.	onomatopoeia	どきどき	ドキドキ	state desc	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Quietly sobbing.	onomatopoeia	しくしく	シクシク	state desc	[sound:d55d75871547.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Tense/strained.	onomatopoeia	びりびり	ビリビリ	state desc	[sound:5504f489cd71.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Close-fitting/tight.	onomatopoeia	ぴたぴた	ピタピタ	state desc	[sound:ca66e82ae123.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Fluffy/plump.	onomatopoeia	もふもふ	モフモフ	state desc	[sound:e68b45bcefba.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Mushy/messy.	onomatopoeia	ぐちゃぐちゃ	ぐちゃぐちゃ	state desc	[sound:8d2c7303f002.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Gloomy/murky.	onomatopoeia	どんより	どんより	state desc	[sound:c3ae45c1e797.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Gentle breeze.	onomatopoeia	そよそよ	そよそよ	state desc	[sound:1e823f3f891b.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Damp/humid.	onomatopoeia	じっとり	じっとり	state desc	[sound:cd6e94431179.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Full of scent.	onomatopoeia	ふんぶん	ふんぶん	state desc	[sound:d73a9e327082.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Shaky/unstable.	onomatopoeia	ぐらぐら	ぐらぐら	state desc	[sound:d55fdad4a693.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Baggy/loose.	onomatopoeia	ぶかぶか	ぶかぶか	state desc	[sound:2bcef5cec01a.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Glittering state.	onomatopoeia	きらきら	きらきら	state desc	[sound:70789e8665a3.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Soft/squishy.	onomatopoeia	ふにゃふにゃ	ふにゃふにゃ	state desc	[sound:c26b0acba679.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Glossy/shiny.	onomatopoeia	つやつや	つやつや	state desc	[sound:b0cf439700ea.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Sparkling clean.	onomatopoeia	ぴかぴか	ぴかぴか	state desc	[sound:ab1f927845ce.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Sticky/gooey.	onomatopoeia	ねばねば	ねばねば	state desc	[sound:74cf35cb5430.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Tacky/oily.	onomatopoeia	べたべた	べたべた	state desc	[sound:805ecc04aa97.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Bushy/thick.	onomatopoeia	ふさふさ	ふさふさ	state desc	[sound:911724639a66.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Hard/rigid.	onomatopoeia	かちかち	かちかち	state desc	[sound:a1b440620dcd.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar
+Tightly packed.	onomatopoeia	ぎゅぎゅ	ぎゅぎゅ	state desc	[sound:a63c3d98ca59.mp3]	module:10-onomatopoeia point:gitaigo-states complexity:intro source:dictionary-of-jp-grammar

@@ -4,18 +4,18 @@
 #notetype:Production
 #deck:Japanese Grammar::00 - Foundation::Production
 #
-Conjugate to negative-past polite: 帰る	帰りませんでした。	かえりませんでした。	didn't go home	帰る = Group 1	[sound:24249b0f58b0.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard
-Conjugate to negative-past polite: 食べる	食べませんでした。	たべませんでした。	didn't eat	食べる = Group 2	[sound:91b84b656d59.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to negative: 買う	買いません。	かいません。	don't buy	買う = Group 1	[sound:c527e651e3f6.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to negative: 見る	見ません。	みません。	don't see	見る = Group 2	[sound:c373f4eaab6e.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to past: 来る	来ました。	きました。	came	来る = Irregular	[sound:6348bfd0c48e.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to negative: する	しません。	しません。	don't do	する = Irregular	[sound:72af7703037d.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to te-form: 飲む	飲んで	のんで	drink and/then	飲む = Group 1	[sound:1a3e4ed08076.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard
-Conjugate to te-form: 書く	書いて	かいて	write and/then	書く = Group 1	[sound:708f451425b4.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard
-Conjugate to te-form: 死ぬ	死んで	しんで	die and/then	死ぬ = Group 1	[sound:f6940dddf52d.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to te-form: 読む	読んで	よんで	read and/then	読む = Group 1	[sound:1ea4b0e9bc07.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard
-Conjugate to past: 走る	走りました。	はしりました。	ran	走る = Group 1	[sound:24765b4c90fc.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to past: 建てる	建てました。	たてました。	built	建てる = Group 2	[sound:353c847ec3d5.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to negative-past: 行く	行きませんでした。	いきませんでした。	didn't go	行く = Group 1	[sound:44116979ca3f.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to negative-past: 寝る	寝ませんでした。	ねませんでした。	didn't sleep	寝る = Group 2	[sound:2440f7a9ab87.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
-Conjugate to masu-form: 切る	切ります。	きります。	cut polite	切る = Group 2	[sound:b4ac1b5ba90f.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro
+Conjugate to negative-past polite: 帰る	帰りませんでした。	かえりませんでした。	didn't go home	帰る = Group 1	[sound:24249b0f58b0.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard source:curated-jpgram
+Conjugate to negative-past polite: 食べる	食べませんでした。	たべませんでした。	didn't eat	食べる = Group 2	[sound:91b84b656d59.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to negative: 買う	買いません。	かいません。	don't buy	買う = Group 1	[sound:c527e651e3f6.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to negative: 見る	見ません。	みません。	don't see	見る = Group 2	[sound:c373f4eaab6e.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to past: 来る	来ました。	きました。	came	来る = Irregular	[sound:6348bfd0c48e.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to negative: する	しません。	しません。	don't do	する = Irregular	[sound:72af7703037d.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to te-form: 飲む	飲んで	のんで	drink and/then	飲む = Group 1	[sound:1a3e4ed08076.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard source:curated-jpgram
+Conjugate to te-form: 書く	書いて	かいて	write and/then	書く = Group 1	[sound:708f451425b4.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard source:curated-jpgram
+Conjugate to te-form: 死ぬ	死んで	しんで	die and/then	死ぬ = Group 1	[sound:f6940dddf52d.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to te-form: 読む	読んで	よんで	read and/then	読む = Group 1	[sound:1ea4b0e9bc07.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:standard source:curated-jpgram
+Conjugate to past: 走る	走りました。	はしりました。	ran	走る = Group 1	[sound:24765b4c90fc.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to past: 建てる	建てました。	たてました。	built	建てる = Group 2	[sound:353c847ec3d5.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to negative-past: 行く	行きませんでした。	いきませんでした。	didn't go	行く = Group 1	[sound:44116979ca3f.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to negative-past: 寝る	寝ませんでした。	ねませんでした。	didn't sleep	寝る = Group 2	[sound:2440f7a9ab87.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram
+Conjugate to masu-form: 切る	切ります。	きります。	cut polite	切る = Group 2	[sound:b4ac1b5ba90f.mp3]	module:00-foundation jlpt:n5 point:verb-groups complexity:intro source:curated-jpgram

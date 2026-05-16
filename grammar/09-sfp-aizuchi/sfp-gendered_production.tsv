@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::09 - Sfp Aizuchi::Production
+#
+A man should stay quiet.	だぜ	おとこならだまってろだぜ	男なら黙ってろだぜ	rough male assertion	[sound:e5260674f1f4.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+I'll go, I'm telling you.	だぜ	おれがいくだぜ	俺が行くだぜ	male emphatic intent	[sound:db2482e2ac32.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:low source:dictionary-of-jp-grammar
+No way, buddy.	だぜ	そんなわけねーだぜ	そんなわけねーだぜ	emphatic male denial	[sound:0af3d84f1c6f.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+I can do it.	やぜ	できるやぜ	できるやぜ	male emphatic ability	[sound:1d788a4741c1.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+It's true, I tell you.	やぜ	ほんとうだやぜ	本当だやぜ	regional male assertion	[sound:6059d570eded.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+What do you mean?	じゃねーかー	なんだってじゃねーかー	何だってじゃねーかー	rough male questioning	[sound:071f3656f931.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+You can do it, can't you?	じゃねーかー	できるじゃねーかー	できるじゃねーかー	male pointing out ability	[sound:0ba8aaa0ede2.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+I know it.	わい	しってるわい	知ってるわい	male regional assertion	[sound:d4e1f7617301.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+I'm going home.	わい	かえるわい	帰るわい	male regional statement	[sound:03f4eac0c352.mp3]	pos:sfp register:masculine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+Big sister, you're wonderful.	のよ	ねえさん、すてきのよ	姉さん、素敵のよ	female emphatic expression	[sound:18843cd3c9ef.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top10k source:dictionary-of-jp-grammar
+I really do like it, you see.	のよ	ほんとうにすきなのよ	本当に好きなのよ	female emphatic reason	[sound:634efae4cf95.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+It was hard, you know.	のよ	たいへんだったのよ	大変だったのよ	female personal story	[sound:d0bbe404c5cc.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+It's beautiful, you know.	わよ	きれいだわよ	綺麗だわよ	female emphasis	[sound:4b9533831580.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+It's fine.	わよ	いいわよ	いいわよ	female casual acceptance	[sound:a99b1b404bd2.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+It's true.	わよ	ほんとうだわよ	本当だわよ	female emphatic agreement	[sound:89c85e2dfc7c.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+Whose are we talking about?	かしら	だれのことかしら	誰のことかしら	female rhetorical question	[sound:2cc950f02b01.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+I wonder what happened.	かしら	どうしたのかしら	どうしたのかしら	female musing aloud	[sound:8e79ab7a290b.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+I wonder if it's really okay.	かしら	ほんとうにいいのかしら	本当にいいのかしら	female self-questioning	[sound:5586636d5c76.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+I grew to like it.	てよ	すきなってよ	好きなってよ	female past experience marker	[sound:398eb32aaaa8.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+Now I understand.	てよ	わかってよ	分かってよ	female present understanding	[sound:cf939cfe9872.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top10k source:dictionary-of-jp-grammar
+I'm happy, aren't I?	わよね	うれしいわよね	嬉しいわよね	female combo: assertion+agreement	[sound:821da64531ab.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top5k source:dictionary-of-jp-grammar
+It was tough, wasn't it?	わね	たいへんだったわね	大変だったわね	female shared experience	[sound:6d41d9f7a9c2.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+It was pretty, wasn't it?	わね	きれいだったわね	綺麗だったわね	female shared recollection	[sound:786c8a8f5f7b.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+It's hot today, isn't it?	わね	こんにちはあついわね	今日は暑いわね	female shared weather remark	[sound:5adb01c894d2.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+Mom, are you tired?	の	おかあさん、つかれたの?	お母さん、疲れたの?	female rising intonation question	[sound:9250a99e6b53.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top10k source:dictionary-of-jp-grammar
+What are you doing?	の	なにしてるの?	何してるの?	female inquisitive tone	[sound:9d9ec3fc9770.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+Do you know?	の	しってるの?	知ってるの?	female questioning with surprise	[sound:5fb0643684ca.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro source:dictionary-of-jp-grammar
+Do you like it?	の	すきなの?	好きなの?	female intimate asking	[sound:1a4b965c285c.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top1k source:dictionary-of-jp-grammar
+It's because I'm a child.	のよ	こどもなのよ	子どもなのよ	female extended explanation	[sound:0afec98c4cb0.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top5k source:dictionary-of-jp-grammar
+I don't have money, you see.	のよ	おきんがないのよ	お金がないのよ	female personal difficulty	[sound:35ef77926de8.mp3]	pos:sfp register:feminine module:09-sfp-aizuchi point:sfp-gendered complexity:intro frequency:top10k source:dictionary-of-jp-grammar

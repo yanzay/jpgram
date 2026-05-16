@@ -124,6 +124,12 @@ rt {
   margin: 0.3em 0;
 }
 
+.pitch-meta {
+  margin-top: 0.35em;
+  font-size: 0.82em;
+  color: var(--muted);
+}
+
 /* Metadata rows */
 .metadata-row {
   display: flex;

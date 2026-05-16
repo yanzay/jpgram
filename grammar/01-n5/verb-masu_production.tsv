@@ -4,18 +4,18 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 #
-Say 'I eat' (polite).	私は食べます。	わたしはたべます。	I eat [polite]	ます form	[sound:801e543bf64a.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'I don't eat' (polite).	私は食べません。	わたしはたべません。	I don't eat [polite negative]	ません form	[sound:b70bc065c107.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:advanced
-Say 'I ate' (polite past).	私は食べました。	わたしはたべました。	I ate [polite past]	ました form	[sound:2202e5d93231.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'I didn't eat' (polite past neg).	私は食べませんでした。	わたしはたべませんでした。	Didn't eat [polite past neg]	ませんでした	[sound:a89cae1f8d88.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'He goes' (polite).	彼は行きます。	かれはいきます。	He goes [polite]	ます form	[sound:8c5d984a965b.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'She doesn't go' (polite neg).	彼女は行きません。	かのじょはいきません。	She doesn't go	ません form	[sound:fec2f9ccace3.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'They came' (polite past).	彼らは来ました。	かれらはきました。	They came [polite past]	irregular + ました	[sound:c05c78716f80.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'We didn't study' (polite past neg).	私たちは勉強しませんでした。	わたしたちはべんきょうしませんでした。	Didn't study	ませんでした	[sound:362d9a33181f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-Say 'I am watching' (polite).	私は見ています。	わたしはみています。	I am watching	ます + ている	[sound:728613c7042e.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-Say 'You were writing' (polite past).	あなたは書いていました。	あなたはかいていました。	You were writing	ます + ていた	[sound:45f2c62a40c7.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'I will eat'.	私は食べます。	わたしはたべます。	I will eat [future=ます]	future uses ます	[sound:6899298dc14f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard
-Say 'Do you drink?'	あなたは飲みますか？	あなたはのみますか？	Do you drink?	ます + か	[sound:5f58f4de9f95.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-Say 'Please drink'.	飲んでください。	のんでください。	Please drink	te-form + ください	[sound:f7bcfb591d46.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-Say 'Can you cook?'	あなたは料理できますか？	あなたはりょうりできますか？	Can you cook?	できます	[sound:ccf3ffa457fe.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
-Say 'I want to eat'.	私は食べたいです。	わたしはたべたいです。	I want to eat	たい form	[sound:0c0e9d1a7300.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro
+Say 'I eat' (polite).	私は食べます。	わたしはたべます。	I eat [polite]	ます form	[sound:801e543bf64a.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'I don't eat' (polite).	私は食べません。	わたしはたべません。	I don't eat [polite negative]	ません form	[sound:b70bc065c107.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:advanced source:shin-kanzen
+Say 'I ate' (polite past).	私は食べました。	わたしはたべました。	I ate [polite past]	ました form	[sound:2202e5d93231.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'I didn't eat' (polite past neg).	私は食べませんでした。	わたしはたべませんでした。	Didn't eat [polite past neg]	ませんでした	[sound:a89cae1f8d88.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'He goes' (polite).	彼は行きます。	かれはいきます。	He goes [polite]	ます form	[sound:8c5d984a965b.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'She doesn't go' (polite neg).	彼女は行きません。	かのじょはいきません。	She doesn't go	ません form	[sound:fec2f9ccace3.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'They came' (polite past).	彼らは来ました。	かれらはきました。	They came [polite past]	irregular + ました	[sound:c05c78716f80.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'We didn't study' (polite past neg).	私たちは勉強しませんでした。	わたしたちはべんきょうしませんでした。	Didn't study	ませんでした	[sound:362d9a33181f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+Say 'I am watching' (polite).	私は見ています。	わたしはみています。	I am watching	ます + ている	[sound:728613c7042e.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+Say 'You were writing' (polite past).	あなたは書いていました。	あなたはかいていました。	You were writing	ます + ていた	[sound:45f2c62a40c7.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'I will eat'.	私は食べます。	わたしはたべます。	I will eat [future=ます]	future uses ます	[sound:6899298dc14f.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:standard source:shin-kanzen
+Say 'Do you drink?'	あなたは飲みますか？	あなたはのみますか？	Do you drink?	ます + か	[sound:5f58f4de9f95.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+Say 'Please drink'.	飲んでください。	のんでください。	Please drink	te-form + ください	[sound:f7bcfb591d46.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+Say 'Can you cook?'	あなたは料理できますか？	あなたはりょうりできますか？	Can you cook?	できます	[sound:ccf3ffa457fe.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen
+Say 'I want to eat'.	私は食べたいです。	わたしはたべたいです。	I want to eat	たい form	[sound:0c0e9d1a7300.mp3]	module:01-n5 jlpt:n5 point:verb-masu complexity:intro source:shin-kanzen

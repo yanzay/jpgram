@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::11 - Classical::Production
+#
+Government announces countermeasures (headline style).	ニュース見出し	せいふがたいさくをはっぴょう	政府が対策を発表	動詞+目的語	[sound:13f67738a1bb.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Company sales reach all-time high (headline).	ニュース見出し	きぎょうのうりあげ、かこさいこう	企業の売上、過去最高	名詞のみ（省略形）	[sound:031d76ddfb54.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Fire at Tokyo Station, injuries too (headline).	ニュース見出し	とうきょうえきでかさい、けがにんも	東京駅で火災、けが人も	複数の述語	[sound:0ceb5ff284c2.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi
+New coronavirus strain, infections increase (headline).	ニュース見出し	しんがたころな、かんせんしゃぞうか	新型コロナ、感染者増加	名詞＋現象（省略）	[sound:5f72e0e3c85b.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Minister resignation reported (reported that...).	ニュース見出し	だいじんがじにんとのほうどう	大臣が辞任との報道	と～の形	[sound:c152c25ec51b.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Stock prices momentarily exceed 20,000 yen (headline).	ニュース見出し	かぶか、いちじにまんえんこえ	株価、一時２万円超え	数字＋現象	[sound:411f36c8f0da.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Olympic athlete delegation enters village (headline).	ニュース見出し	ごりんせんしゅだんがいりむら	五輪選手団が入村	動詞te形（省略）	[sound:d0331a778015.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi
+Typhoon No. 15 expected to make landfall tonight.	ニュース見出し	たいふういちごごう、こんやじょうりくよてい	台風15号、今夜上陸予定	名詞+予定	[sound:3d8f1f86ce3d.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Major companies to raise salaries.	ニュース見出し	おおてきぎょう、きゅうよひきあげへ	大手企業、給与引き上げへ	へ＋方向性	[sound:78234eee8f57.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Opposition party submits alternative proposal.	ニュース見出し	やとう、たいあんをていしゅつ	野党、対案を提出	動詞目的語形	[sound:36da5e10bc57.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi
+BOJ keeps interest rates unchanged.	ニュース見出し	にちぎん、きんりすえおき	日銀、金利据え置き	名詞＋行為	[sound:d8162ce50993.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi
+Defense budget hits record high.	ニュース見出し	ぼうえいひ、かこさいだい	防衛費、過去最大	名詞のみ	[sound:904a45db1024.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Temperature significantly exceeds seasonal average.	ニュース見出し	きおん、きせつへいねんあたいをおおきくうわまわる	気温、季節平年値を大きく上回る	動詞連鎖	[sound:9c2c57ef8e61.mp3]	module:11-classical point:news-headline-grammar complexity:standard frequency:low source:imabi
+Students release statement.	ニュース見出し	がくせいら、せいめいをはっぴょう	学生ら、声明を発表	ら＋行為	[sound:5da7b04568fb.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi
+Yen exchange rate surges.	ニュース見出し	えんそうば、きゅうじょうしょう	円相場、急上昇	名詞のみ	[sound:77fb891c27ac.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Reform proposal passes with majority support.	ニュース見出し	かいかくあん、さんせいたすうでかけつ	改革案、賛成多数で可決	で＋手段	[sound:5c5a338cedea.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Infections decline for first time.	ニュース見出し	かんせんしゃ、はつのげんしょう	感染者、初の減少	初の+名詞	[sound:1d30abbd61e4.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Disaster relief spending exceeds 100 billion yen.	ニュース見出し	さいがいたいさくひ、せんおくえんちょう	災害対策費、1000億円超	名詞＋額	[sound:5d15c62df4ef.mp3]	module:11-classical point:news-headline-grammar complexity:standard frequency:low source:imabi
+Major banks to consolidate branches.	ニュース見出し	おおてぎんこう、してんとうごうへ	大手銀行、支店統合へ	へ＋方向	[sound:9618f496124f.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Performance exceeds expectations.	ニュース見出し	ぎょうせき、よそうをうわまわる	業績、予想を上回る	動詞＋結果	[sound:b16d7f31efa5.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+PM directs economic measures.	ニュース見出し	しゅしょう、けいざいたいさくをしじ	首相、経済対策を指示	動詞目的語	[sound:205d6ba06cff.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Crude oil rises 24 dollars.	ニュース見出し	げんゆ、によんどるじょうしょう	原油、24ドル上昇	数字＋上昇	[sound:942848b09ea3.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Rescue team departs for the site.	ニュース見出し	きゅうじょたいがげんちにしゅっぱつ	救助隊が現地に出発	に＋方向	[sound:e9004091c7e0.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Japan secures quarterfinal berth.	ニュース見出し	にっぽん、はちきょういりをけってい	日本、8強入りを決定	を＋対象	[sound:05090bfb556f.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+National Police Agency issues alert.	ニュース見出し	けいさつちょう、ちゅういかんき	警察庁、注意喚起	名詞＋行為	[sound:8ec746932646.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top5k source:imabi
+Government bonds surge.	ニュース見出し	こくさいがきゅうとう	国債が急騰	が＋上昇	[sound:ef9fe17a6827.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top5k source:imabi
+Manufacturing down six months straight.	ニュース見出し	せいぞうぎょう、ろくゖがつれんぞくていか	製造業、6ヶ月連続低下	数字＋期間＋現象	[sound:e50557df5c3d.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:low source:imabi
+Monthly unemployment rises for first time in 3 years.	ニュース見出し	こんげつのしつぎょうりつ、さんねんぶりじょうしょう	今月の失業率、3年ぶり上昇	期間+現象	[sound:e64f74f050a8.mp3]	module:11-classical point:news-headline-grammar complexity:standard frequency:low source:imabi
+Damage estimated at 10 million yen.	ニュース見出し	ひがい、せんまんえんそうとう	被害、1000万円相当	金額+推定	[sound:e035fee81b0d.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi
+Oil drops below $50.	ニュース見出し	せきゆ、ごぜろどるわれ	石油、50ドル割れ	価格+低下	[sound:9479804d8b0a.mp3]	module:11-classical point:news-headline-grammar complexity:intro frequency:top10k source:imabi

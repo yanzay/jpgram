@@ -28,13 +28,15 @@ Build flow:
 """
 
 import csv
+import hashlib
+import json
 import os
 import re
 import subprocess
 import sys
 from pathlib import Path
 
-VERSION = "0.1.0"
+VERSION = "0.3.0"
 DECK_NAME = "Japanese Grammar"
 GRAMMAR_DIR = Path("grammar")
 MEDIA_DIR = Path("media")
@@ -59,6 +61,12 @@ NOTE_TYPES = {
     "Contrast": [
         "JP", "OptionA", "OptionB", "Answer", "Why", "Tip",
         "Audio", "Tags",
+    ],
+    "Listening": [
+        "Audio", "Transcript", "Reading", "EN", "Hint", "Tags",
+    ],
+    "Dictation": [
+        "Audio", "Prompt", "Answer", "Reading", "EN", "Tags",
     ],
 }
 
@@ -96,6 +104,8 @@ def detect_note_type(tsv_path: Path) -> str:
     if "production"  in name: return "Production"
     if "cloze"       in name: return "Cloze"
     if "contrast"    in name: return "Contrast"
+    if "listening"   in name: return "Listening"
+    if "dictation"   in name: return "Dictation"
     return "Recognition"
 
 
@@ -110,7 +120,6 @@ def _run_hook(label: str, argv: list[str]) -> int:
 
 def main() -> int:
     import argparse
-    import json
     import shutil
     import tempfile
 
@@ -123,6 +132,8 @@ def main() -> int:
                         help="Skip media copy")
     parser.add_argument("--out", type=Path, default=OUTPUT,
                         help="Output .apkg path")
+    parser.add_argument("--allow-validation-failures", action="store_true",
+                        help="Bypass strict data validation failure gate")
     args = parser.parse_args()
 
     if not GRAMMAR_DIR.exists():
@@ -140,12 +151,14 @@ def main() -> int:
                      [sys.executable, "apply_taxonomy_tags.py"]) != 0:
             return 2
 
-    # 2. Validate the corpus (optional - continue if it fails due to missing audio files).
+    # 2. Validate the corpus (strict by default).
     validation_result = _run_hook("validate_anki_data",
                                   [sys.executable, "validate_anki_data.py"])
-    if validation_result != 0:
-        print(f"  ⚠ Validation had warnings but continuing (audio files may still be missing)")
-        # Don't return - continue building despite validation warnings
+    if validation_result != 0 and not args.allow_validation_failures:
+        print("  ✗ Validation failed (strict gate); aborting build.")
+        return 3
+    if validation_result != 0 and args.allow_validation_failures:
+        print("  ⚠ Validation failed but bypassed by --allow-validation-failures")
 
     print(f"\nBuilding {args.out} (v{VERSION}) from {len(tsvs)} TSV(s)…")
     
@@ -163,8 +176,10 @@ def main() -> int:
     try:
         col = Collection(str(col_path))
         
-        # Create 4 note types
+        # Create note types
         models = _create_note_types(col)
+        furigana_entries = _load_json_entries(Path("media/furigana_index.json"))
+        pitch_entries = _load_json_entries(Path("media/pitchaccent_index.json"))
         
         # Track deck IDs and stats
         deck_ids = {}
@@ -204,6 +219,8 @@ def main() -> int:
                     try:
                         note = col.new_note(model)
                         
+                        row = _enrich_row(header, row, note_type_str, furigana_entries, pitch_entries)
+
                         # Assign field values
                         for i, field_name in enumerate(header):
                             if i < len(row):
@@ -323,7 +340,7 @@ def _get_or_create_deck(col, deck_name: str) -> int:
 
 
 def _create_note_types(col):
-    """Create 4 note types in collection. Return dict of model_name -> model."""
+    """Create note types in collection. Return dict of model_name -> model."""
     models = {}
     
     # Recognition (10 fields)
@@ -354,6 +371,18 @@ def _create_note_types(col):
         ["JP", "OptionA", "OptionB", "Answer", "Why", "Tip", "Audio", "Tags"],
         is_cloze=False
     )
+
+    models["Listening"] = _create_note_type(
+        col, "Listening",
+        ["Audio", "Transcript", "Reading", "EN", "Hint", "Tags"],
+        is_cloze=False
+    )
+
+    models["Dictation"] = _create_note_type(
+        col, "Dictation",
+        ["Audio", "Prompt", "Answer", "Reading", "EN", "Tags"],
+        is_cloze=False
+    )
     
     return models
 
@@ -373,14 +402,9 @@ def _create_note_type(col, name: str, fields: list, is_cloze: bool = False):
     # Add template(s)
     template = col.models.new_template(name)
     
-    if is_cloze:
-        # Cloze template
-        front_html = "{{cloze:Text}}"
-        back_html = "{{cloze:Text}}<hr id=answer>{{Hint}}{{Audio}}"
-    else:
-        # Load from file or use minimal default
-        front_html = _load_template(name, "front")
-        back_html = _load_template(name, "back")
+    # Load all templates from file (including Cloze), fallback to defaults.
+    front_html = _load_template(name, "front")
+    back_html = _load_template(name, "back")
     
     template["qfmt"] = front_html
     template["afmt"] = back_html
@@ -401,15 +425,86 @@ def _load_template(note_type: str, part: str) -> str:
     template_path = Path("templates") / f"{note_type}.{part}.{ext}"
     
     if template_path.exists():
-        return template_path.read_text(encoding="utf-8")
+        body = template_path.read_text(encoding="utf-8")
+        if part == "style":
+            common_path = Path("templates") / "_common.css"
+            common_css = common_path.read_text(encoding="utf-8") if common_path.exists() else ""
+            return f"{common_css}\n\n{body}".strip()
+        return body
     
     # Minimal defaults - show FrontSide for all
     if part == "front":
+        if note_type == "Cloze":
+            return "{{cloze:Text}}"
+        if note_type == "Listening":
+            return "<div class='front-section'>{{Audio}}</div>"
+        if note_type == "Dictation":
+            return "<div class='front-section'>{{Audio}}<div>{{Prompt}}</div></div>"
         return "<div style='font-size:1.2em;'>{{#JP}}{{JP}}<br>{{/JP}}{{#Prompt}}{{Prompt}}<br>{{/Prompt}}{{#Text}}{{Text}}<br>{{/Text}}</div>"
     elif part == "back":
+        if note_type == "Cloze":
+            return "{{cloze:Text}}<hr id=answer>{{Hint}}{{Audio}}"
+        if note_type == "Listening":
+            return "<div>{{Audio}}<hr id=answer>{{Transcript}}<br>{{Reading}}<br>{{EN}}<br>{{Hint}}</div>"
+        if note_type == "Dictation":
+            return "<div>{{Audio}}<hr id=answer>{{Prompt}}<br>{{Answer}}<br>{{Reading}}<br>{{EN}}</div>"
         return "<div>{{FrontSide}}<hr id=answer><div style='font-size:1em;'>{{#EN}}EN: {{EN}}<br>{{/EN}}{{#Target}}Target: {{Target}}<br>{{/Target}}{{#Reading}}Reading: {{Reading}}<br>{{/Reading}}{{#OptionA}}A: {{OptionA}}<br>{{/OptionA}}{{#OptionB}}B: {{OptionB}}<br>{{/OptionB}}{{#Answer}}Answer: {{Answer}}<br>{{/Answer}}{{#Why}}{{Why}}<br>{{/Why}}{{#Hint}}{{Hint}}<br>{{/Hint}}{{#Audio}}{{Audio}}<br>{{/Audio}}</div></div>"
     else:  # style
         return ".card { font-family: Arial; font-size: 20px; color: #000; background: #fff; } hr { border: 1px solid #ccc; } #answer { margin: 1em 0; }"
+
+
+def _load_json_entries(path: Path) -> dict:
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        return data.get("entries", {})
+    except Exception:
+        return {}
+
+
+def _strip_cloze(text: str) -> str:
+    return re.sub(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}", r"\1", text)
+
+
+def _source_sentence(row_by_field: dict[str, str], note_type: str) -> str:
+    if note_type == "Production":
+        return row_by_field.get("Sample", "").strip()
+    if note_type == "Cloze":
+        return _strip_cloze(row_by_field.get("Text", "").strip())
+    if note_type == "Contrast":
+        jp = row_by_field.get("JP", "").strip()
+        ans = row_by_field.get("Answer", "").strip()
+        return jp.replace("___", ans) if jp and ans else jp
+    if note_type == "Listening":
+        return row_by_field.get("Transcript", "").strip()
+    if note_type == "Dictation":
+        return row_by_field.get("Answer", "").strip()
+    return row_by_field.get("JP", "").strip()
+
+
+def _enrich_row(header: list[str], row: list[str], note_type: str,
+                furigana_entries: dict, pitch_entries: dict) -> list[str]:
+    row_by_field = {header[i]: row[i] for i in range(min(len(header), len(row)))}
+    sentence = _source_sentence(row_by_field, note_type)
+    if not sentence:
+        return row
+    h = hashlib.sha1(sentence.strip().encode("utf-8")).hexdigest()[:12]
+    fur = furigana_entries.get(h)
+    if "Reading" in row_by_field and (not row_by_field["Reading"].strip()) and fur:
+        row_by_field["Reading"] = fur.get("ruby") or fur.get("hira") or row_by_field["Reading"]
+    if "Reading" in row_by_field and row_by_field["Reading"].strip():
+        tokens = re.findall(r"[一-龯ぁ-んァ-ンー]+", sentence)
+        pitch_hits = []
+        for token in tokens:
+            hit = pitch_entries.get(token)
+            if hit and hit.get("accent"):
+                pitch_hits.append(f"{token}:{hit.get('accent')}")
+            if len(pitch_hits) >= 2:
+                break
+        if pitch_hits and "pitch:" not in row_by_field["Reading"]:
+            row_by_field["Reading"] += f"<div class='pitch-meta'>pitch: {' / '.join(pitch_hits)}</div>"
+    return [row_by_field.get(f, row[i] if i < len(row) else "") for i, f in enumerate(header)]
 
 
 if __name__ == "__main__":

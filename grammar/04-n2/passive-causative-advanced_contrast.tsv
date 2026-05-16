@@ -4,13 +4,13 @@
 #notetype:Contrast
 #deck:Japanese Grammar::04 - N2 Grammar::Contrast
 #
-雨に打たれた。	～させられた	尊敬受身	直接受身	直接受身 = direct action upon subject	Was beaten by rain	[sound:b2039dea4b25.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro
-先生に褒められた。	～させられた	被害受身	尊敬受身	尊敬受身 = honorific passive	Was praised by teacher	[sound:365360edd19a.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro
-兄に厳しく育てさせられた。	直接受身	尊敬受身	～させられた	～させられた = suffering/passive-causative	Was made to be raised strictly by brother	[sound:9139877a922e.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:standard
-親に強制されさせられた。	直接受身	尊敬受身	～させられた	～させられた = forced to do/suffer	Was forced by parents	[sound:85044c76bee8.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:low complexity:intro
-先生がお話しになった。	～させられた	被害受身	尊敬受身	尊敬受身 = honorific of speak	Teacher spoke (honorific)	[sound:347220a9fd75.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro
-先生に怒られた。	～させられた	尊敬受身	被害受身	被害受身 = receiving negative action	Was scolded by teacher (negative impact)	[sound:17cdda800acc.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro
-風に飛ばされた。	～させられた	尊敬受身	直接受身	直接受身 = direct action on subject	Was blown away by wind	[sound:817c699d7c44.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro
-兄に無視されて、悔しかった。	～させられた	尊敬受身	被害受身	被害受身 = suffering passive	Was ignored by brother, frustrated	[sound:5e7e27e1f44d.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top10k complexity:standard
-田中さんがいらっしゃった。	～させられた	被害受身	尊敬受身	尊敬受身 = honorific of come	Tanaka came (honorific)	[sound:2599c5045bbc.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top10k complexity:standard
-友達に騙されてしまった。	～させられた	尊敬受身	被害受身	被害受身 = deceived (negative result)	Was deceived by friend	[sound:a7bc7696cb11.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro
+雨に打たれた。	～させられた	尊敬受身	直接受身	直接受身 = direct action upon subject	Was beaten by rain	[sound:b2039dea4b25.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro source:shin-kanzen
+先生に褒められた。	～させられた	被害受身	尊敬受身	尊敬受身 = honorific passive	Was praised by teacher	[sound:365360edd19a.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro source:shin-kanzen
+兄に厳しく育てさせられた。	直接受身	尊敬受身	～させられた	～させられた = suffering/passive-causative	Was made to be raised strictly by brother	[sound:9139877a922e.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:standard source:shin-kanzen
+親に強制されさせられた。	直接受身	尊敬受身	～させられた	～させられた = forced to do/suffer	Was forced by parents	[sound:85044c76bee8.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:low complexity:intro source:shin-kanzen
+先生がお話しになった。	～させられた	被害受身	尊敬受身	尊敬受身 = honorific of speak	Teacher spoke (honorific)	[sound:347220a9fd75.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro source:shin-kanzen
+先生に怒られた。	～させられた	尊敬受身	被害受身	被害受身 = receiving negative action	Was scolded by teacher (negative impact)	[sound:17cdda800acc.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro source:shin-kanzen
+風に飛ばされた。	～させられた	尊敬受身	直接受身	直接受身 = direct action on subject	Was blown away by wind	[sound:817c699d7c44.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro source:shin-kanzen
+兄に無視されて、悔しかった。	～させられた	尊敬受身	被害受身	被害受身 = suffering passive	Was ignored by brother, frustrated	[sound:5e7e27e1f44d.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top10k complexity:standard source:shin-kanzen
+田中さんがいらっしゃった。	～させられた	被害受身	尊敬受身	尊敬受身 = honorific of come	Tanaka came (honorific)	[sound:2599c5045bbc.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top10k complexity:standard source:shin-kanzen
+友達に騙されてしまった。	～させられた	尊敬受身	被害受身	被害受身 = deceived (negative result)	Was deceived by friend	[sound:a7bc7696cb11.mp3]	module:04-n2 jlpt:n2 register:formal point:passive-causative-advanced pos:expr frequency:top1k complexity:intro source:shin-kanzen

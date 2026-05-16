@@ -3,42 +3,42 @@
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
 #deck:Japanese Grammar::11 - Classical::Recognition
-彼はこの仕事をせぬ	かれはこのしごとをせぬ	Negation (古典).	ん/ぬ negation	古典否定	古い否定形	modern ぬ = ない		[sound:d9047be5782a.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
-我輩はこれを為さん	わがはいはこれをなさん	Volitional (古典).	ん volitional	古典意志	古い意志形	modern ～う/～よう		[sound:5f5389920648.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-学べし	まなべし	Should/must (古典).	べし modal	古典当為	～べき・～はずだ	modern べき/はずだ		[sound:434b63631d27.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-行くべきか	いくべきか	Ought/should (古典).	べし modal	古典当為	～べき・～はずだ	modern べき/はずだ		[sound:2d2e34c7b342.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-するべからず	するべからず	Must not (古典).	べし + neg	古典禁止	～べきではない	modern ～はずがない		[sound:e904fd8d8d08.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-決してやるべまじ	けっしてやるべまじ	Forbidden (古典).	まじ modal	古典禁止	～てはいけない	modern ～てはいけない		[sound:0e1a030ad5d8.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
-それ故に行かぬ	それゆえにいかぬ	Therefore not (古典).	ぬ negation	古典否定	古い否定形	modern いかない		[sound:3258f3176a39.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-知るざり	しるざり	Neg perfective (古典).	ざり aspect	古典過去否定	～ぬかった	modern ～なかった		[sound:0f5d75732ff3.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-彼はかかる人たり	かれはかかるにんたり	Is such a person (古典).	たり copula	古典完了	～た・～である	modern ～た/～である		[sound:08721444351b.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
-我が輩そうろう	わがやからそうろう	I am (literary 様).	そうろう copula	古典敬語	おります・あります	modern おります		[sound:23b22c16c75d.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-誰がそれを言わん	だれがそれをいわん	Who would say that.	ん volitional neg	古典意志否定	～ようない	modern ～まい		[sound:a8af8fa33a0e.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-行かざるべからず	いかざるべからず	Cannot help but go.	ざる+べし	古典必然	～ないわけにはいかない	modern ～ないわけにはいかない		[sound:e8e4e8ed36e7.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-汝何ぞ知らん	なんじなにぞしらん	How would you know.	ん volitional	古典修辞	～ようか	modern ～ようか		[sound:a1ddd757a97f.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-信じたり信じずたり	しんじたりしんじずたり	Whether believing or not.	たり alternative	古典選択	～たり～たり	modern ～たり～たり		[sound:85eddb44ff1b.mp3]	module:11-classical point:classical-aux-verbs complexity:standard
-来たれ	きたれ	Come (command).	れ imperative	古典命令	～ろ・～よ	modern ～ろ・～よ		[sound:eb13e6491447.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-するなら	するなら	If do/when do.	なら conditional	古典仮定	～たら・～ば	modern ～たら・～ば		[sound:e8de11727ace.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-見えたり	みえたり	Appears/seems.	たり perfective	古典完了	～た・～である	modern ～た・～である		[sound:db888d20ef52.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-知らぬ人	しらぬにん	Person who doesn't know.	ぬ adjective	古典否定形容詞化	～ない人	modern ～ない人		[sound:635e292ad4a7.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-為すべし	なすべし	Should do/must do.	べし modal	古典当為	～べき・～はずだ	modern べき/はずだ		[sound:7c41f61ff6f7.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-彼こそ行きたるべし	かれこそいきたるべし	He is the one who went.	べし perfective	古典完了当為	～たはずだ	modern ～たはずだ		[sound:c30f718895fd.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-弟子の言葉聞かまほし	でしのことばきかまほし	Want to hear disciple's words.	まほし desiderative	古典願望	～たい・～ほしい	modern ～たい		[sound:acba18a40de0.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-如何にしたりや	いかにしたりや	What has happened.	たり+や interrogative	古典疑問完了	～たのか	modern ～たのか		[sound:a348a2062377.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-此の如き者あり	このごときものあり	There exists such a person.	あり existence	古典存在	いる・ある	modern いる・ある		[sound:2ac11c012b62.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-我これを知れり	われこれをしれり	I know this.	れり perfective	古典完了	～た・～である	modern ～た・～である		[sound:23883d306a0d.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-遠からん未来に	とおからんみらいに	In the distant future.	ん volitional/future	古典未来推測	～だろう・～でしょう	modern ～だろう・～でしょう		[sound:0398c38f895c.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-人は皆死なん	にんはみなしなん	All people will die.	ん future	古典必然未来	～だろう	modern ～だろう		[sound:68ffa7ac9336.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-願わくば成功せん	ねがわくばせいこうせん	I wish it would succeed.	ん optative	古典願望	～ように	modern ～ように		[sound:73f2caf6a981.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-否定の言葉にはあらず	ひていのことばにはあらず	It is not words of negation.	あらず negation	古典存在否定	ない・ではない	modern ない・ではない		[sound:66880239c277.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-彼はむべなるかな	かれはむべなるかな	He is reasonable indeed.	むべなり reasonable	古典評価	～のは当然だ	modern ～のは当然だ		[sound:a3d8600ca2ee.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
-惜しむべき人物なり	おしむべきじんぶつなり	A person to be regretted.	べき modal+なり	古典当為完了	～べき～である	modern ～べき～である		[sound:11d943dfceef.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-君も行かねばならぬ	くんもいかねばならぬ	You must also go.	ねばならぬ necessity	古典必然	～なければならない	modern ～なければならない		[sound:7def5d879fa4.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
-死して後已む	ししてのちやむ	Cease only after death.	て+後 temporal	古典時間表現	～た後	modern ～した後		[sound:4930129eb4da.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k
-然くいえども	ぜんくいえども	Though so saying.	いえども concessive	古典譲歩	といっても・けれども	modern といっても・けれども		[sound:e32c7a83c002.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-如く見える	ごとくみえる	Appears as if.	如く manner	古典様態	～のように・～ごとく	modern ～のように・～ごとく		[sound:d3e82e766081.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
-言わずもがな	いわずもがな	Goes without saying.	ずもがな rhetorical	古典修辞否定	言わずとも明らか	modern 言うまでもなく		[sound:d18f09296243.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-終に至りて	ついにいたりて	Finally reaching.	至りて reaching	古典到達	～に至る	modern ～に至る		[sound:5755390b7be1.mp3]	module:11-classical point:classical-aux-verbs complexity:intro
-道を見失わん	みちをけんうしなわん	Will lose the way.	ん future	古典未来	～だろう・～でしょう	modern ～だろう・～でしょう		[sound:ca8d3555ef82.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k
-此の如きは稀なり	このごときはまれなり	Such things are rare.	稀 rare	古典述語形容詞	珍しい・まれだ	modern まれだ・珍しい		[sound:115ece647202.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low
-何も為さざりし	なにもなさざりし	Accomplished nothing.	ざりし neg past	古典過去否定完了	～なかった	modern ～なかった		[sound:83eb36f7fd24.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k
+彼はこの仕事をせぬ	かれはこのしごとをせぬ	Negation (古典).	ん/ぬ negation	古典否定	古い否定形	modern ぬ = ない		[sound:d9047be5782a.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi
+我輩はこれを為さん	わがはいはこれをなさん	Volitional (古典).	ん volitional	古典意志	古い意志形	modern ～う/～よう		[sound:5f5389920648.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+学べし	まなべし	Should/must (古典).	べし modal	古典当為	～べき・～はずだ	modern べき/はずだ		[sound:434b63631d27.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+行くべきか	いくべきか	Ought/should (古典).	べし modal	古典当為	～べき・～はずだ	modern べき/はずだ		[sound:2d2e34c7b342.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+するべからず	するべからず	Must not (古典).	べし + neg	古典禁止	～べきではない	modern ～はずがない		[sound:e904fd8d8d08.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+決してやるべまじ	けっしてやるべまじ	Forbidden (古典).	まじ modal	古典禁止	～てはいけない	modern ～てはいけない		[sound:0e1a030ad5d8.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi
+それ故に行かぬ	それゆえにいかぬ	Therefore not (古典).	ぬ negation	古典否定	古い否定形	modern いかない		[sound:3258f3176a39.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+知るざり	しるざり	Neg perfective (古典).	ざり aspect	古典過去否定	～ぬかった	modern ～なかった		[sound:0f5d75732ff3.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+彼はかかる人たり	かれはかかるにんたり	Is such a person (古典).	たり copula	古典完了	～た・～である	modern ～た/～である		[sound:08721444351b.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi
+我が輩そうろう	わがやからそうろう	I am (literary 様).	そうろう copula	古典敬語	おります・あります	modern おります		[sound:23b22c16c75d.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+誰がそれを言わん	だれがそれをいわん	Who would say that.	ん volitional neg	古典意志否定	～ようない	modern ～まい		[sound:a8af8fa33a0e.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+行かざるべからず	いかざるべからず	Cannot help but go.	ざる+べし	古典必然	～ないわけにはいかない	modern ～ないわけにはいかない		[sound:e8e4e8ed36e7.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+汝何ぞ知らん	なんじなにぞしらん	How would you know.	ん volitional	古典修辞	～ようか	modern ～ようか		[sound:a1ddd757a97f.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+信じたり信じずたり	しんじたりしんじずたり	Whether believing or not.	たり alternative	古典選択	～たり～たり	modern ～たり～たり		[sound:85eddb44ff1b.mp3]	module:11-classical point:classical-aux-verbs complexity:standard source:imabi
+来たれ	きたれ	Come (command).	れ imperative	古典命令	～ろ・～よ	modern ～ろ・～よ		[sound:eb13e6491447.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+するなら	するなら	If do/when do.	なら conditional	古典仮定	～たら・～ば	modern ～たら・～ば		[sound:e8de11727ace.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+見えたり	みえたり	Appears/seems.	たり perfective	古典完了	～た・～である	modern ～た・～である		[sound:db888d20ef52.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+知らぬ人	しらぬにん	Person who doesn't know.	ぬ adjective	古典否定形容詞化	～ない人	modern ～ない人		[sound:635e292ad4a7.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+為すべし	なすべし	Should do/must do.	べし modal	古典当為	～べき・～はずだ	modern べき/はずだ		[sound:7c41f61ff6f7.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+彼こそ行きたるべし	かれこそいきたるべし	He is the one who went.	べし perfective	古典完了当為	～たはずだ	modern ～たはずだ		[sound:c30f718895fd.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+弟子の言葉聞かまほし	でしのことばきかまほし	Want to hear disciple's words.	まほし desiderative	古典願望	～たい・～ほしい	modern ～たい		[sound:acba18a40de0.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+如何にしたりや	いかにしたりや	What has happened.	たり+や interrogative	古典疑問完了	～たのか	modern ～たのか		[sound:a348a2062377.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+此の如き者あり	このごときものあり	There exists such a person.	あり existence	古典存在	いる・ある	modern いる・ある		[sound:2ac11c012b62.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+我これを知れり	われこれをしれり	I know this.	れり perfective	古典完了	～た・～である	modern ～た・～である		[sound:23883d306a0d.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+遠からん未来に	とおからんみらいに	In the distant future.	ん volitional/future	古典未来推測	～だろう・～でしょう	modern ～だろう・～でしょう		[sound:0398c38f895c.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+人は皆死なん	にんはみなしなん	All people will die.	ん future	古典必然未来	～だろう	modern ～だろう		[sound:68ffa7ac9336.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+願わくば成功せん	ねがわくばせいこうせん	I wish it would succeed.	ん optative	古典願望	～ように	modern ～ように		[sound:73f2caf6a981.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+否定の言葉にはあらず	ひていのことばにはあらず	It is not words of negation.	あらず negation	古典存在否定	ない・ではない	modern ない・ではない		[sound:66880239c277.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+彼はむべなるかな	かれはむべなるかな	He is reasonable indeed.	むべなり reasonable	古典評価	～のは当然だ	modern ～のは当然だ		[sound:a3d8600ca2ee.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi
+惜しむべき人物なり	おしむべきじんぶつなり	A person to be regretted.	べき modal+なり	古典当為完了	～べき～である	modern ～べき～である		[sound:11d943dfceef.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+君も行かねばならぬ	くんもいかねばならぬ	You must also go.	ねばならぬ necessity	古典必然	～なければならない	modern ～なければならない		[sound:7def5d879fa4.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi
+死して後已む	ししてのちやむ	Cease only after death.	て+後 temporal	古典時間表現	～た後	modern ～した後		[sound:4930129eb4da.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top10k source:imabi
+然くいえども	ぜんくいえども	Though so saying.	いえども concessive	古典譲歩	といっても・けれども	modern といっても・けれども		[sound:e32c7a83c002.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+如く見える	ごとくみえる	Appears as if.	如く manner	古典様態	～のように・～ごとく	modern ～のように・～ごとく		[sound:d3e82e766081.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi
+言わずもがな	いわずもがな	Goes without saying.	ずもがな rhetorical	古典修辞否定	言わずとも明らか	modern 言うまでもなく		[sound:d18f09296243.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+終に至りて	ついにいたりて	Finally reaching.	至りて reaching	古典到達	～に至る	modern ～に至る		[sound:5755390b7be1.mp3]	module:11-classical point:classical-aux-verbs complexity:intro source:imabi
+道を見失わん	みちをけんうしなわん	Will lose the way.	ん future	古典未来	～だろう・～でしょう	modern ～だろう・～でしょう		[sound:ca8d3555ef82.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top1k source:imabi
+此の如きは稀なり	このごときはまれなり	Such things are rare.	稀 rare	古典述語形容詞	珍しい・まれだ	modern まれだ・珍しい		[sound:115ece647202.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:low source:imabi
+何も為さざりし	なにもなさざりし	Accomplished nothing.	ざりし neg past	古典過去否定完了	～なかった	modern ～なかった		[sound:83eb36f7fd24.mp3]	module:11-classical point:classical-aux-verbs complexity:intro frequency:top5k source:imabi

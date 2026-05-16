@@ -1,0 +1,46 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar::10 - Onomatopoeia::Production
+#
+Woof woof.	onomatopoeia	わんわん	ワンワン	actual sound	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Meow meow.	onomatopoeia	にゃーにゃー	ニャーニャー	actual sound	[sound:b52e76022102.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Clang/click.	onomatopoeia	がちゃん	ガチャン	actual sound	[sound:9c6d1a4da546.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Rumble/rolling.	onomatopoeia	ごろごろ	ゴロゴロ	actual sound	[sound:938a3cd2d0da.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Thump/pounding.	onomatopoeia	どきどき	ドキドキ	actual sound	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Pouring/streaming.	onomatopoeia	ざーざー	ザーザー	actual sound	[sound:9d4f1cd9c7a2.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Shoo/go away.	onomatopoeia	しっしっ	シッシッ	actual sound	[sound:ddd98d823fd2.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Trickling.	onomatopoeia	ちょろちょろ	チョロチョロ	actual sound	[sound:a8e06dc996d1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Plop/drip.	onomatopoeia	ぽつん	ポツン	actual sound	[sound:c97b76c8d165.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Sparkling/twinkling.	onomatopoeia	きらきら	キラキラ	actual sound	[sound:b926dc0626cd.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Clicking/rattling.	onomatopoeia	かしゃかしゃ	カシャカシャ	actual sound	[sound:528a6735b548.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Sneaking/whispering.	onomatopoeia	こそこそ	コソコソ	actual sound	[sound:360d5a32b761.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Patter/trotting.	onomatopoeia	とことこ	トコトコ	actual sound	[sound:348cc7e49bc3.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Coughing repeatedly.	onomatopoeia	せきせき	セキセキ	actual sound	[sound:7e2deb5ac634.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Mumbling/muttering.	onomatopoeia	ぼそぼそ	ボソボソ	actual sound	[sound:e6ba5ff54860.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Fluttering/falling.	onomatopoeia	はらはら	ハラハラ	actual sound	[sound:e70e6f5442ae.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Crunching/crackling.	onomatopoeia	ぱりぱり	パリパリ	actual sound	[sound:aad036e313bc.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Fluffy/floating.	onomatopoeia	ふわふわ	フワフワ	actual sound	[sound:14c9ade9e23b.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Flapping/pattering.	onomatopoeia	ぱたぱた	パタパタ	actual sound	[sound:7f9b03813dbb.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Jingling/jangling.	onomatopoeia	じゃらじゃら	ジャラジャラ	actual sound	[sound:57d75019061a.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Soaking/drenched.	onomatopoeia	びしょびしょ	ビショビショ	actual sound	[sound:2cc8de583681.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Bubbling.	onomatopoeia	ぶくぶく	ブクブク	actual sound	[sound:f0136e9a8a7d.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Fluttering heavily.	onomatopoeia	ばたばた	バタバタ	actual sound	[sound:5453e00f7d66.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Crunching underfoot.	onomatopoeia	ざっざっ	ザッザッ	actual sound	[sound:99294b73cc7c.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Ripping/tearing.	onomatopoeia	びりびり	ビリビリ	actual sound	[sound:5504f489cd71.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Cracking/sparking.	onomatopoeia	ばちばち	バチバチ	actual sound	[sound:d806bf441b15.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Stinging/tingling.	onomatopoeia	ぴりぴり	ピリピリ	actual sound	[sound:523931cb2084.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Gritty grinding.	onomatopoeia	ざりざり	ザリザリ	actual sound	[sound:e37503117769.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Hissing/steaming.	onomatopoeia	しゅー	シュー	actual sound	[sound:7d03c52b2902.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Slurping.	onomatopoeia	ずずず	ズズズ	actual sound	[sound:f9d6299216af.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Crunching/crumpling.	onomatopoeia	くしゃくしゃ	クシャクシャ	actual sound	[sound:55933a5ac05a.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Rustling softly.	onomatopoeia	しょりしょり	ショリショリ	actual sound	[sound:aba02c1db367.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Startled sound.	onomatopoeia	びっくり	ビックリ	actual sound	[sound:4c56163e11ab.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Simmering/bubbling.	onomatopoeia	ぐつぐつ	グツグツ	actual sound	[sound:f2cf25ebf2e1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Humming/grunting.	onomatopoeia	ふんふん	フンフン	actual sound	[sound:1bfc6d5dfda1.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Rapid tapping.	onomatopoeia	すたたた	スタタタ	actual sound	[sound:1bd9252745be.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Pop pop sound.	onomatopoeia	ぽんぽん	ポンポン	actual sound	[sound:19ce7d348ccf.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Boom boom.	onomatopoeia	どんどん	ドンドン	actual sound	[sound:5f2dac4cce1c.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Slipping smoothly.	onomatopoeia	するする	スルスル	actual sound	[sound:6a5170b2512d.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+Scrubbing roughly.	onomatopoeia	ごしごし	ゴシゴシ	actual sound	[sound:757ad5e2f1c8.mp3]	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
