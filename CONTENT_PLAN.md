@@ -21,7 +21,7 @@ challenges — listening discrimination + dictation):
 | Note type | Front shows | Back shows | Purpose |
 |---|---|---|---|
 | **Recognition** | Japanese sentence | label · formula · main use · quick cue · contrast · pitch · 🔊 | "I see this in the wild — what is it?" |
-| **Production** | English prompt + target form | model JP sentence + reading + why + 🔊 (alt-voice + slow) | "I need to say X — how?" |
+| **Production** | English prompt + target form | model JP sentence + reading + why + 🔊 (alt-voice optional) | "I need to say X — how?" |
 | **Cloze** | sentence with `{{c1::…}}` blank | full sentence + reading + hint + 🔊 | Fill-in-the-blank, builds collocation memory |
 | **Contrast** | sentence + two options | answer + why + tip + 🔊 | A/B minimal-pair drill (は vs が, に vs で, etc.) |
 | **Listening** | 🔊 only | transcript + furigana + meaning | Discriminate near-homophones (-ている vs -てる, -てある vs -ている) |
@@ -36,7 +36,7 @@ Every card carries machine-generated furigana (hiragana over kanji), a
 Hepburn romaji line on the back, an NHK-style pitch-accent overlay
 (when the token is in `media/pitchaccent_index.json`), and at least one
 Google-Cloud-TTS Japanese audio clip of the JP sentence (primary voice
-plus optional `_alt.mp3` and `_slow.mp3` variants for variety + shadowing).
+plus an optional `_alt.mp3` second-voice variant for variety).
 
 ---
 
