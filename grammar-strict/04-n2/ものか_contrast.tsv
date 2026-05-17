@@ -1,0 +1,48 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Contrast
+
+今、出かけようとしている。	つもりだ	予定だ	ようとする	ようとする = about to/on the verge of	About to leave now	[sound:b467b8be2d42.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:intro source:shin-kanzen
+来月引っ越そうとしている。	つもりだ	予定だ	ようとする	ようとする = prepare to/be about to	Preparing to move next month	[sound:83022588ac2a.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top1k complexity:standard source:shin-kanzen
+明日は東京に行くつもりだ。	ようとする	予定だ	つもりだ	つもりだ = intend/plan to (personal decision)	Intend to go to Tokyo tomorrow	[sound:551a12006858.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top1k complexity:standard source:shin-kanzen
+大学に進学するつもりだ。	ようとする	予定だ	つもりだ	つもりだ = personal intention/plan	Plan to attend university	[sound:474d41395ea1.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:intro source:shin-kanzen
+来週の会議は出席予定です。	つもりだ	ようとする	予定だ	予定だ = scheduled/scheduled plan	Scheduled to attend next week's meeting	[sound:82c6fc5ffad7.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top5k complexity:standard source:shin-kanzen
+今年中に完成予定である。	つもりだ	ようとする	予定だ	予定だ = scheduled/official plan	Scheduled to be completed this year	[sound:526767030846.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:intro source:shin-kanzen
+今すぐ別れようとしている。	つもりだ	予定だ	ようとする	ようとする = be on the point of doing	About to break up right now	[sound:2fa7488d4d3c.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:standard source:shin-kanzen
+この仕事を辞めるつもりだ。	ようとする	予定だ	つもりだ	つもりだ = firm intention	Intend to quit this job	[sound:acbf8b0ca8b2.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:standard source:shin-kanzen
+プロジェクト開始予定は来月です。	つもりだ	ようとする	予定だ	予定だ = planned/scheduled date	Project start date is next month	[sound:9dd28f3075f3.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:standard source:shin-kanzen
+その瞬間、彼は大声を出そうとした。	つもりだ	予定だ	ようとする	ようとする = about to/on the verge of	At that moment, he was about to shout	[sound:e345114e1d05.mp3]	module:04-n2 jlpt:n2 register:formal point:ものか pos:expr frequency:top10k complexity:standard source:shin-kanzen
+この課題は完成___ 。	ざるを得ない	しかない	ざるを得ない	ざるを得ない = inevitable consequence; しかない = only option	ざるを得ない is more emphatic about inevitability	[sound:05ec801e10dd.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:しかない frequency:top10k source:shin-kanzen
+政府は対策を取___。	ざるを得ない	ねばならない	ざるを得ない	ざるを得ない = no choice; ねばならない = formal requirement	ざるを得ない emphasizes external force	[sound:77f3ff3dcc24.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:ねばならない frequency:low source:shin-kanzen
+これをするより___。	ほかない	しかない	ほかない	より他ない = literally 'no other way'; しかない = only choice	より他ない is more literary/formal	[sound:8faa4a834802.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:しかない source:shin-kanzen
+ねえ、毎日勉強___。	しなければならない	ざるを得ない	しなければならない	ねばならない = direct obligation; ざるを得ない = forced inevitability	ねばならない for general rules	[sound:c571ac051835.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:ざるを得ない frequency:top1k source:shin-kanzen
+時間に遅れては___。	ならない	いけない	ならない	ならない = prohibition (formal); いけない = negation (common)	ならない is more formal	[sound:aa58970642fa.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:いけない frequency:top10k source:shin-kanzen
+その約束は守ら___。	なければならない	ずにはすまない	なければならない	ねばならない = obligation; ずにはすまない = inevitable necessity	ねばならない for simple duty	[sound:3b5551862c6d.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:ずにはすまない frequency:top5k source:shin-kanzen
+彼は来るに___。	違いない	はずだ	違いない	に違いない = strong conviction; はずだ = expected outcome	に違いない shows certainty	[sound:a7755a71d167.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:はずだ frequency:top5k source:shin-kanzen
+結果は明日___。	わかるはずだ	わかるに違いない	わかるはずだ	はずだ = logical expectation; に違いない = firm conviction	はずだ for natural conclusions	[sound:347133154bb6.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:わかるに違いない frequency:top10k source:shin-kanzen
+その計画は成功___。	するはずがない	するに違いない	するはずがない	はずがない = denial of expectation; に違いない = affirmation	Opposite meanings - choose based on context	[sound:513e4e4f359c.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:するに違いない frequency:top10k source:shin-kanzen
+あなたは疲れている___。	はずです	に違いない	はずです	はずだ = expected; に違いない = inferred certainty	はずだ for objective expectation	[sound:b7024f9e0c4b.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:standard confusable-with:に違いない frequency:top10k source:shin-kanzen
+彼女は怒っているに___。	違いない	はずだ	違いない	に違いない = deduced certainty; はずだ = expected state	に違いない for emotional inference	[sound:ad41681adedf.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:standard confusable-with:はずだ frequency:top5k source:shin-kanzen
+彼は医者に___。	なるべきだ	なるほうがいい	なるべきだ	べきだ = normative obligation; ほうがいい = practical advice	べきだ for moral/duty context	[sound:f62ca25d8a8f.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:なるほうがいい frequency:top5k source:shin-kanzen
+毎日運動___。	すべきだ	したほうがいい	すべきだ	べきだ = should/ought; ほうがいい = better idea	べきだ stronger obligation	[sound:a31115aa72f6.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:したほうがいい frequency:top5k source:shin-kanzen
+社会人はマナー___。	を守るべきだ	を守ったほうがいい	を守るべきだ	べきだ = duty; ほうがいい = practical benefit	べきだ for social norms	[sound:7ec67e17b99e.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:を守ったほうがいい frequency:top5k source:shin-kanzen
+これ以上待つ___。	べきではない	ほうがいい	べきではない	べきではない = should not; ほうがいい negative = not advisable	べきではない more emphatic	[sound:93fba82774e4.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:ほうがいい frequency:top5k source:shin-kanzen
+そんなことするものか___。	。	、と思った。	。	Standalone = emphatic vow; 思った = past denial	Tone and tense differ	[sound:6073c8e704bf.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:standard confusable-with:と思った source:shin-kanzen
+何ができる___。	か。	ものか。	ものか。	ようか = can we?; ものか = emphatic no way	ものか more emphatic negation	[sound:79fb618721cf.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:か frequency:top1k source:shin-kanzen
+止めようが___。	ない	なかろう	ない	ようがない = impossible; なかろう = archaic possibility negation	ようがない modern, clear	[sound:d2cc5f6bbc6d.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:なかろう source:shin-kanzen
+説得しようがない___。	状態だ	だろう	状態だ	Noun form = descriptive; だろう = speculation	ようがない + noun concrete situation	[sound:0aa7b39f5158.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:だろう frequency:low source:shin-kanzen
+彼は来ないわけに___。	はいかない	いけない	はいかない	ないわけにはいかない = cannot not come; いけない = cannot	わけにはいかない = cannot avoid	[sound:812128998dbc.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:いけない frequency:top10k source:shin-kanzen
+この会議に出席しない___。	わけにはいかない	べきではない	わけにはいかない	わけにはいかない = social obligation; べきではない = shouldn't	わけにはいかない stronger social pressure	[sound:f42fcbdef6ed.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:standard confusable-with:べきではない frequency:top5k source:shin-kanzen
+そのことを言わずに___。	はすまない	はいけない	はすまない	ずにはすまない = must be said; はいけない = cannot	ずにはすまない = inevitable utterance	[sound:fba132ce109b.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:standard confusable-with:はいけない source:shin-kanzen
+この問題に対応___。	せずにはすまない	ぬわけにはいかない	せずにはすまない	ずにはすまない = must respond; わけにはいかない = cannot avoid	ずにはすまない more emphatic inevitability	[sound:127af60f4001.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:ぬわけにはいかない frequency:low source:shin-kanzen
+その証拠に出席率___。	が高い	だろう	が高い	Concrete statement = evidence; だろう = speculation	Evidence requires definite statement	[sound:a2acff5d2144.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:だろう frequency:low source:shin-kanzen
+試験に合格する___。	つもりだ	のはずだ	つもりだ	つもりだ = intention; はずだ = expectation	つもりだ shows personal intent	[sound:5048881fc778.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:のはずだ frequency:top10k source:shin-kanzen
+もっと早く来る___。	つもりだった	はずだった	つもりだった	つもり = intended; はずだった = should have	つもり for personal plan	[sound:43b21bd298e8.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:はずだった frequency:top1k source:shin-kanzen
+ものを何を言っているんだ。				Dummy card - skip analysis	Dummy card; skip.	[sound:2857abf87df7.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:standard frequency:top1k source:shin-kanzen
+彼の真意を知る___。	べく質問した	つもりで質問した	べく質問した	べく = formal intention; つもり = informal intention	べく more literary/formal	[sound:e2d69af05852.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:つもりで質問した frequency:top10k source:shin-kanzen
+成功するべく___。	最善を尽くした	つもりで努力した	最善を尽くした	べく = purposeful action; つもり = simple intent	べく expresses purpose formally	[sound:4505b70cdf68.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:つもりで努力した frequency:top10k source:shin-kanzen
+何も言う___。	べくもない	つもりもない	べくもない	べくもない = cannot say; つもりもない = don't intend	べくもない shows impossibility	[sound:c5d83c0305d4.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:つもりもない frequency:top1k source:shin-kanzen
+彼が助けてくる___。	ものか	わけがない	ものか	ものか = emphatic no way; わけがない = logically impossible	ものか more vehement/sarcastic	[sound:2d73223fc5b3.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro confusable-with:わけがない frequency:low source:shin-kanzen

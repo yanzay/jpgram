@@ -29,6 +29,11 @@ from typing import Any
 from urllib.error import URLError
 from urllib.request import Request, urlopen
 
+SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPTS_DIR))
+from grammar_reference import parse_bunpro_id  # noqa: E402
+
 
 ROOT = Path(__file__).resolve().parent.parent
 GRAMMAR_DIR = ROOT / "grammar"
@@ -36,6 +41,24 @@ TAXONOMY_PATH = ROOT / "data/grammar_taxonomy.tsv"
 BUNPRO_LIVE_PATH = ROOT / "data/grammar-refs/bunpro_live_index.json"
 REPORT_JSON_PATH = ROOT / "research-reports/coverage_audit_report.json"
 REPORT_MD_PATH = ROOT / "research-reports/coverage_audit_report.md"
+
+
+def configure_paths(
+    *,
+    taxonomy: Path | None = None,
+    grammar_dir: Path | None = None,
+    report_json: Path | None = None,
+    report_md: Path | None = None,
+) -> None:
+    global GRAMMAR_DIR, TAXONOMY_PATH, REPORT_JSON_PATH, REPORT_MD_PATH
+    if taxonomy is not None:
+        TAXONOMY_PATH = taxonomy
+    if grammar_dir is not None:
+        GRAMMAR_DIR = grammar_dir
+    if report_json is not None:
+        REPORT_JSON_PATH = report_json
+    if report_md is not None:
+        REPORT_MD_PATH = report_md
 
 SOURCE_BUNPRO_URL = "https://bunpro.jp/grammar_points"
 
@@ -207,27 +230,6 @@ def collect_usage() -> dict[str, PointUsage]:
     return usage
 
 
-def parse_bunpro_id(bunpro_id: str) -> tuple[str, str]:
-    """
-    Returns (status, normalized_slug)
-    status in: auto | missing | malformed | resolved
-    """
-    value = bunpro_id.strip()
-    if not value:
-        return "missing", ""
-    if value.startswith("bunpro:auto/"):
-        return "auto", value.split("bunpro:auto/", 1)[1].strip()
-    if not value.startswith("bunpro:"):
-        return "malformed", ""
-    payload = value.split("bunpro:", 1)[1].strip()
-    if not payload:
-        return "malformed", ""
-    normalized = payload.split("/")[-1].strip()
-    if not normalized:
-        return "malformed", ""
-    return "resolved", normalized
-
-
 def build_report(
     taxonomy_rows: list[dict[str, str]],
     usage: dict[str, PointUsage],
@@ -237,6 +239,7 @@ def build_report(
     min_unique_sentences_foundation: int,
     enforce_note_types: bool,
     require_full_bunpro_resolution: bool,
+    allow_partial_point_usage: bool = False,
 ) -> dict[str, Any]:
     taxonomy_points = {r["point_slug"] for r in taxonomy_rows if r["point_slug"]}
     used_points = set(usage.keys())
@@ -300,9 +303,15 @@ def build_report(
                 }
             )
 
-    # Strict objective gates
-    internal_closed_set_pass = not missing_in_grammar and not extra_in_grammar
-    bunpro_mapping_resolved_pass = bunpro_status["resolved"] == len(taxonomy_rows)
+    internal_closed_set_pass = not extra_in_grammar and (
+        allow_partial_point_usage or not missing_in_grammar
+    )
+    mapping_debt = (
+        bunpro_status["auto"]
+        + bunpro_status["missing"]
+        + bunpro_status["malformed"]
+    )
+    bunpro_mapping_resolved_pass = mapping_debt == 0
     # Valid means every explicitly-resolved mapping points to a live Bunpro slug.
     # Unresolved auto-mappings are tracked separately as mapping debt.
     bunpro_mapping_valid_pass = bunpro_match["unmatched"] == 0
@@ -312,6 +321,8 @@ def build_report(
     taxonomy_total = len(taxonomy_rows)
     used_total = len(used_points)
     resolved_total = bunpro_status["resolved"]
+    exempt_total = bunpro_status["exempt"]
+    mapped_total = resolved_total + exempt_total
     matched_total = bunpro_match["matched"]
     sparse_examples_total = len(sparse_examples)
     sparse_note_types_total = len(sparse_note_types)
@@ -320,7 +331,7 @@ def build_report(
         round((used_total / taxonomy_total) * 100, 2) if taxonomy_total else 0.0
     )
     bunpro_resolution_coverage_pct = (
-        round((resolved_total / taxonomy_total) * 100, 2) if taxonomy_total else 0.0
+        round((mapped_total / taxonomy_total) * 100, 2) if taxonomy_total else 0.0
     )
     bunpro_resolved_validity_pct = (
         round((matched_total / resolved_total) * 100, 2) if resolved_total else 0.0
@@ -362,6 +373,7 @@ def build_report(
             "extra_points_in_grammar_not_in_taxonomy": len(extra_in_grammar),
             "bunpro_live_points_total": len(bunpro_live_points),
             "bunpro_mapping_status": dict(bunpro_status),
+            "bunpro_mapping_debt": mapping_debt,
             "bunpro_mapping_matches": dict(bunpro_match),
             "points_below_min_unique_sentences": sparse_examples_total,
             "points_below_min_note_types": sparse_note_types_total,
@@ -379,6 +391,7 @@ def build_report(
             "min_note_types_per_point": min_note_types,
             "enforce_note_types": enforce_note_types,
             "require_full_bunpro_resolution": require_full_bunpro_resolution,
+            "allow_partial_point_usage": allow_partial_point_usage,
         },
         "details": {
             "missing_in_grammar": missing_in_grammar,
@@ -443,7 +456,12 @@ def render_markdown(report: dict[str, Any]) -> str:
         f"- Internal point coverage: `{coverage.get('internal_point_coverage_pct', 0.0)}%`"
     )
     lines.append(
-        f"- Bunpro resolution coverage: `{coverage.get('bunpro_resolution_coverage_pct', 0.0)}%`"
+        f"- Bunpro mapping closure (resolved+exempt): "
+        f"`{coverage.get('bunpro_resolution_coverage_pct', 0.0)}%`"
+    )
+    lines.append(
+        f"- Bunpro mapping debt (auto/missing/malformed): "
+        f"`{counts.get('bunpro_mapping_debt', 0)}`"
     )
     lines.append(
         f"- Bunpro resolved validity: `{coverage.get('bunpro_resolved_validity_pct', 0.0)}%`"
@@ -521,7 +539,43 @@ def main() -> int:
         action="store_true",
         help="Do not fetch Bunpro live page. Reuse local bunpro_live_index.json.",
     )
+    parser.add_argument(
+        "--taxonomy",
+        type=Path,
+        default=None,
+        help="Taxonomy TSV path (default: data/grammar_taxonomy.tsv).",
+    )
+    parser.add_argument(
+        "--grammar-dir",
+        type=Path,
+        default=None,
+        help="Grammar TSV root (default: grammar/).",
+    )
+    parser.add_argument(
+        "--report-json",
+        type=Path,
+        default=None,
+        help="Output JSON report path.",
+    )
+    parser.add_argument(
+        "--report-md",
+        type=Path,
+        default=None,
+        help="Output Markdown report path.",
+    )
+    parser.add_argument(
+        "--allow-partial-point-usage",
+        action="store_true",
+        help="Pass internal closure when grammar tags are valid, even if many taxonomy rows lack cards yet.",
+    )
     args = parser.parse_args()
+
+    configure_paths(
+        taxonomy=(ROOT / args.taxonomy) if args.taxonomy else None,
+        grammar_dir=(ROOT / args.grammar_dir) if args.grammar_dir else None,
+        report_json=(ROOT / args.report_json) if args.report_json else None,
+        report_md=(ROOT / args.report_md) if args.report_md else None,
+    )
 
     if not TAXONOMY_PATH.exists():
         print(f"Missing taxonomy file: {TAXONOMY_PATH}", file=sys.stderr)
@@ -555,6 +609,7 @@ def main() -> int:
         min_unique_sentences_foundation=args.min_unique_sentences_foundation,
         enforce_note_types=args.enforce_note_types,
         require_full_bunpro_resolution=args.require_full_bunpro_resolution,
+        allow_partial_point_usage=args.allow_partial_point_usage,
     )
 
     REPORT_JSON_PATH.parent.mkdir(parents=True, exist_ok=True)

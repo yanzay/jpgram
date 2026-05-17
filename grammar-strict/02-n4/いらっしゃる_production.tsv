@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+The teacher is here (honorific).	いらっしゃる	せんせいがいらっしゃいます。	先生がいらっしゃいます。	honorific existence	[sound:4628b61b4fa1.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Please have (something to eat/drink).	召し上がる	おきゃくさまがめしあがってください。	お客様が召し上がってください。	honorific eating/drinking	[sound:2062ad0996f6.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Did you look at that picture?	ご覧になる	そのえをごらんになりましたか。	その絵をご覧になりましたか。	honorific viewing	[sound:20b29e16083a.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher said.	おっしゃる	せんせいがぎょういました。	先生が仰いました。	honorific speaking	[sound:be5ee600b696.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher wrote it.	お・になる	せんせいがおかきになりました。	先生がお書きになりました。	honorific + stem + になる	[sound:4100774244d7.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Father is here (archaic).	おられる	おとうさんがおられます。	お父さんがおられます。	archaic honorific existence	[sound:14600ebb6eb2.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Please go ahead and eat.	召し上がる	どうぞめしあがってください。	どうぞ召し上がってください。	invitation to eat	[sound:c0a926978472.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Father returned home.	お・になる	おとうさんがおかえりになりました。	お父さんがお帰りになりました。	honorific returning	[sound:e8ea819bb6c6.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher knows.	ご存じだ	せんせいがごぞんじです。	先生がご存じです。	honorific knowing	[sound:4b8dc92f97c3.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Mother considered.	お・になる	ははがおかんがえになりました。	母がお考えになりました。	honorific thinking	[sound:4180ada5a787.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher read it.	お・になる	せんせいはおよみになりました。	先生はお読みになりました。	honorific reading	[sound:2c6ce06a1f03.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+A baby was born.	お・になる	あかちゃんがおうまれになりました。	赤ちゃんがお生まれになりました。	honorific birth	[sound:1a965968bb1c.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The doctor said.	おっしゃる	いしゃさんがおっしゃいました。	医者さんがおっしゃいました。	honorific speaking	[sound:eea354e18e61.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Tanaka came.	いらっしゃる	たなかさんがいらっしゃいました。	田中さんがいらっしゃいました。	honorific arrival	[sound:d805c26ed5be.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+It will rain.	お・になる	あめがおおりになります。	雨がお降りになります。	honorific weather	[sound:9b6e87a0eb2f.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher made it.	お・になる	せんせいがおつくりになりました。	先生がお作りになりました。	honorific creation	[sound:04ffd4f2ff5f.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+The guest is waiting.	お・です	おきゃくさまがおまちです。	お客様がお待ちです。	honorific waiting	[sound:edc88c9ce34a.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+My boss will look.	ご・になる	じょうしがごらんになります。	上司がご覧になります。	honorific viewing	[sound:0b5a093c82a0.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The president spoke.	お・になる	しゃちょうがおはなしになりました。	社長がお話しになりました。	honorific speaking	[sound:0bcd1d4e4fe6.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The senior gave (it).	下さる	せんぱいがおくださいました。	先輩がくださいました。	honorific giving	[sound:54436fffceef.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher will take a rest.	お・になる	せんせいがおやすみになります。	先生がお休みになります。	honorific resting	[sound:d91e77f990a3.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Mother appeared.	お見えになる	おかあさんがおみえになりました。	お母さんがお見えになりました。	honorific appearing	[sound:d6b803e5f80e.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+An employee came.	お越しになる	しゃいんがおこしになりました。	社員がお越しになりました。	honorific coming	[sound:a062a6ffadfd.mp3]	module:02-n4 point:いらっしゃる complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher is busy.	お・です	せんせいがおいそがしいです。	先生がお忙しいです。	honorific adjective	[sound:c7f99e1c1da7.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Father is not here.	いらっしゃる	おとうさんがいらっしゃらない。	お父さんがいらっしゃらない。	negative honorific	[sound:54d5a517a977.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Tanaka lives (in).	お・になる	たなかさんがおすみになります。	田中さんがお住みになります。	honorific living	[sound:614152140868.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher accepted.	お・になる	せんせいがおうけになりました。	先生がお受けになりました。	honorific accepting	[sound:4634a2dfbef7.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The doctor was there.	おられる	おいしゃさんがおられました。	お医者さんがおられました。	archaic honorific past	[sound:0428aa85d9ed.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The senior invited.	お・になる	せんぱいがおさそいになりました。	先輩がお誘いになりました。	honorific inviting	[sound:7ee7b536ca4d.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The company was established.	お・になる	きぎょうがおたちになりました。	企業がお立ちになりました。	honorific establishment	[sound:119a4002d0bb.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The customer ate.	召し上がられる	おきゃくさんがめしあがられました。	お客さんが召し上がられました。	passive honorific eating	[sound:f40559e8f8da.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher has/carries.	お・になる	せんせいがおもちになります。	先生がお持ちになります。	honorific having	[sound:27a8aa71caac.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Father will write.	お・になる	おとうさんがおかきになります。	お父さんがお書きになります。	double honorific writing	[sound:b4b1e6a82c72.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher will ask.	お・になる	せんせいがおききになります。	先生がお聞きになります。	honorific asking	[sound:221ca88b36a7.mp3]	module:02-n4 point:いらっしゃる complexity:intro frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Tanaka decided.	お・になる	たなかさんがおきめになりました。	田中さんがお決めになりました。	honorific deciding	[sound:f6fa1a3f498f.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+The doctor spoke (alternate form).	お・される	おいしゃさんがおはなしされました。	お医者さんがお話しされました。	alternate honorific speaking	[sound:f55d5c0a7ab0.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+The senior drank.	お・になる	せんぱいがおのみになりました。	先輩がお飲みになりました。	double honorific drinking	[sound:d612e15af707.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Mother will make.	お・になる	おかあさんがおつくりになります。	お母さんがお作りになります。	double honorific making	[sound:5618492a72a1.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+The teacher arrived.	お・になる	せんせいがおつきになりました。	先生がお着きになりました。	honorific arrival	[sound:4c00e4c49225.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives
+Father will eat.	召し上がられる	おとうさんがめしあがられます。	お父さんが召し上がられます。	passive honorific eating	[sound:01c254ce23ee.mp3]	module:02-n4 point:いらっしゃる complexity:standard frequency:top1k source:dictionary-of-jp-grammar sense:keigo-alternatives

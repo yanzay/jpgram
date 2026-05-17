@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Prompt	Answer	Reading	EN	Tags
+#notetype:Dictation
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Dictation
+
+[sound:c5122f6fffe6.mp3]	彼の行動___信じられず、笑ってしようがない。	彼の行動は信じられず、笑ってしようがない。	かのこうどうはしんじられず、わらってしようがない。	I can't help but laugh at his behavior.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+[sound:e23a96221671.mp3]	疲れて、眠くてしかた___ない。	疲れて、眠くてしかたがない。	つかれて、ねむくてしかたがない。	I'm tired and can't help but be sleepy.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+[sound:8b52fcd58961.mp3]	その香り___良くて、たまらない。	その香りは良くて、たまらない。	そのかおりはよくて、たまらない。	That smell is wonderful, absolutely delightful.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+[sound:b0b712346e5e.mp3]	子どもの泣き声___大きくて、たまらない。	子どもの泣き声は大きくて、たまらない。	こどものなきこえはおおきくて、たまらない。	The child's crying is loud and unbearable.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+[sound:9017105c57b9.mp3]	その映画___見ずにはいられず、見てならない。	その映画は見ずにはいられず、見てならない。	そのえいがはみずにはいられず、みてならない。	I can't help but watch that movie.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top1k source:shin-kanzen
+[sound:3c0f2820b7f5.mp3]	彼___優秀どころか、完璧だ。	彼は優秀どころか、完璧だ。	かれはゆうしゅうどころか、かんぺきだ。	He's not just excellent; he's perfect.	module:03-n3 jlpt:n3 point:どころか complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:f2c8395fcfc4.mp3]	助けるどころか、邪魔___している。	助けるどころか、邪魔をしている。	たすけるどころか、じゃまをしている。	Far from helping, he's getting in the way.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+[sound:ab179755a9e7.mp3]	このご時世、遊んでいるどころで___ない。	このご時世、遊んでいるどころではない。	このごじせい、あそんでいるどころではない。	In times like these, we can't afford to play around.	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen

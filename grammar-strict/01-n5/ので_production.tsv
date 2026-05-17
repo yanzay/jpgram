@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using ので	（ので）の例文1です。		（ので）の例文1です。	Because, So, Since, The reason being	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ので scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ので	（ので）の例文2です。		（ので）の例文2です。	Because, So, Since, The reason being	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ので scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ので	（ので）の例文3です。		（ので）の例文3です。	Because, So, Since, The reason being	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ので scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ので	（ので）の例文4です。		（ので）の例文4です。	Because, So, Since, The reason being	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ので scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ので	（ので）の例文5です。		（ので）の例文5です。	Because, So, Since, The reason being	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ので scaffold:pending-content scaffold:pending-audio source:bunpro

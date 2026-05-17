@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+
+雨が降{{c1::れば}}、行きません。	あめがふ{{c1::れば}}、いきません。	if rain	[sound:ae1e49e24daf.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:intro source:shin-kanzen sense:conditionals
+毎日勉強{{c1::すれば}}、上手になります。	まいにちべんきょう{{c1::すれば}}、じょうずになります。	if study	[sound:64a9c0710749.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:standard source:shin-kanzen sense:conditionals
+雨が降{{c1::れば}}試合は中止だ。	あめがふ{{c1::れば}}しあいはちゅうしだ。	hypothetical conditional	[sound:6b208e7be95e.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:intro source:shin-kanzen sense:conditionals
+ボタンを押{{c1::せば}}ドアが開く。	ぼたんをお{{c1::せば}}どあがひらく。	general principle	[sound:f49a360f50b0.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:intro source:shin-kanzen sense:conditionals
+もっと勉強すれ{{c1::ば}}受かったのに。	もっとべんきょうすれ{{c1::ば}}うかったのに。	contrary-to-fact regret	[sound:2f730dd48717.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:standard source:shin-kanzen sense:conditionals
+彼が来なけれ{{c1::ば}}、会議は延期される。	かれがこなけれ{{c1::ば}}、かいぎはえんきされる。	conditional without him	[sound:24d0503d12e7.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:standard source:shin-kanzen sense:conditionals
+毎日練習すれ{{c1::ば}}上手になるよ。	まいにちれんしゅうすれ{{c1::ば}}じょうずになるよ。	habitual conditional	[sound:d55a7f45aa58.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:standard source:shin-kanzen sense:conditionals
+このボタンを押せ{{c1::ば}}、アラームが鳴る。	このぼたんをおせ{{c1::ば}}、あらーむがなる。	pressing button consequence	[sound:6d0a87af179c.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top5k complexity:standard source:shin-kanzen sense:conditionals
+難しけれ{{c1::ば}}質問してください。	むずかしけれ{{c1::ば}}しつもんしてください。	if difficult ask	[sound:e161dc3d6bcf.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:standard source:shin-kanzen sense:conditionals
+寒けれ{{c1::ば}}、コートを着てください。	さむけれ{{c1::ば}}、こーとをきてください。	if cold wear coat	[sound:1f787fc7d1fb.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:standard source:shin-kanzen sense:conditionals

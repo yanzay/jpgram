@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using か	（か）の例文1です。		（か）の例文1です。	Or	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:か-or scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using か	（か）の例文2です。		（か）の例文2です。	Or	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:か-or scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using か	（か）の例文3です。		（か）の例文3です。	Or	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:か-or scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using か	（か）の例文4です。		（か）の例文4です。	Or	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:か-or scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using か	（か）の例文5です。		（か）の例文5です。	Or	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:か-or scaffold:pending-content scaffold:pending-audio source:bunpro

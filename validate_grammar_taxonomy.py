@@ -10,6 +10,7 @@ Checks:
 """
 from __future__ import annotations
 
+import argparse
 import csv
 import sys
 from collections import Counter
@@ -19,11 +20,11 @@ GRAMMAR_DIR = Path("grammar")
 TAXONOMY_PATH = Path("data/grammar_taxonomy.tsv")
 
 
-def load_taxonomy_points() -> tuple[set[str], list[str]]:
-    if not TAXONOMY_PATH.exists():
-        return set(), [f"missing {TAXONOMY_PATH}"]
+def load_taxonomy_points(taxonomy_path: Path) -> tuple[set[str], list[str]]:
+    if not taxonomy_path.exists():
+        return set(), [f"missing {taxonomy_path}"]
     points: list[str] = []
-    for raw in TAXONOMY_PATH.read_text(encoding="utf-8").splitlines():
+    for raw in taxonomy_path.read_text(encoding="utf-8").splitlines():
         if not raw or raw.startswith("#"):
             continue
         row = next(csv.reader([raw], delimiter="\t", quotechar='"'))
@@ -31,17 +32,19 @@ def load_taxonomy_points() -> tuple[set[str], list[str]]:
             points.append(row[0].strip())
     errs: list[str] = []
     if not points:
-        errs.append(f"{TAXONOMY_PATH}: no taxonomy rows")
+        errs.append(f"{taxonomy_path}: no taxonomy rows")
     dupes = [p for p, n in Counter(points).items() if n > 1]
     for p in sorted(dupes):
-        errs.append(f"{TAXONOMY_PATH}: duplicate point_slug '{p}'")
+        errs.append(f"{taxonomy_path}: duplicate point_slug '{p}'")
     return set(points), errs
 
 
-def collect_points_from_grammar() -> tuple[set[str], list[str]]:
+def collect_points_from_grammar(grammar_dir: Path) -> tuple[set[str], list[str]]:
     used: set[str] = set()
     errs: list[str] = []
-    for path in sorted(GRAMMAR_DIR.rglob("*.tsv")):
+    if not grammar_dir.exists():
+        return used, errs
+    for path in sorted(grammar_dir.rglob("*.tsv")):
         for ln, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
             if not raw or raw.startswith("#"):
                 continue
@@ -61,12 +64,27 @@ def collect_points_from_grammar() -> tuple[set[str], list[str]]:
 
 
 def main() -> int:
-    taxonomy_points, errs = load_taxonomy_points()
-    used_points, usage_errs = collect_points_from_grammar()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--taxonomy",
+        type=Path,
+        default=TAXONOMY_PATH,
+        help="Taxonomy TSV (default: data/grammar_taxonomy.tsv)",
+    )
+    parser.add_argument(
+        "--grammar-dir",
+        type=Path,
+        default=GRAMMAR_DIR,
+        help="Grammar TSV root (default: grammar/)",
+    )
+    args = parser.parse_args()
+
+    taxonomy_points, errs = load_taxonomy_points(args.taxonomy)
+    used_points, usage_errs = collect_points_from_grammar(args.grammar_dir)
     errs.extend(usage_errs)
     for p in sorted(used_points):
         if p not in taxonomy_points:
-            errs.append(f"point '{p}' used in grammar/ but missing in {TAXONOMY_PATH}")
+            errs.append(f"point '{p}' used in {args.grammar_dir}/ but missing in {args.taxonomy}")
     if errs:
         for e in errs:
             print(e)
@@ -74,11 +92,10 @@ def main() -> int:
         return 1
     print(
         f"✓ taxonomy validation passed: {len(used_points)} used points mapped in "
-        f"{TAXONOMY_PATH}"
+        f"{args.taxonomy}"
     )
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
-

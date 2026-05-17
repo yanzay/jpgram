@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+What structure shows expectation violation?	ーのに	かれはきたのに、なにもいわなかった。	彼は来たのに、何も言わなかった。	Contradicts expectation; 'but/yet'	[sound:79e39e00e355.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Complete: 'Although it's raining, ___'	ーのに	あめなのに、みながそとにでた。	雨なのに、皆が外に出た。	Despite adverse condition	[sound:1e010020a3a2.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
+Which form marks 'contrary to expectation'?	ーのに	きゅうりょうがたかいのに、まんぞくしていない。	給料が高いのに、満足していない。	Despite good conditions, dissatisfied	[sound:a93169214556.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Fill: 'Although I studied, ___'	ーのに〜なかった	べんきょうしたのに、しけんにおちた。	勉強したのに、試験に落ちた。	Study ≠ passed, contradiction	[sound:07ce8fa0b7b3.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k source:shin-kanzen
+What shows unmet expectation?	ーのに	かれはいしゃなのに、かんじゃをたすけなかった。	彼は医者なのに、患者を助けなかった。	Role doesn't match action	[sound:f5c85990016f.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:low source:shin-kanzen
+Fill: 'Although knowledgeable, ___'	ーのに〜ない	ちしきゆたかなのに、えんりょぶかい。	知識豊かなのに、遠慮深い。	Despite knowledge, still modest	[sound:3e875ce0244a.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
+Which structure expresses 'despite the fact'?	ーのに	しんせつなのに、みんながさける。	親切なのに、みんなが避ける。	Kindness but avoidance	[sound:ba86fedde042.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Fill: 'I told him to do it, but ___'	ーのに〜ない	やめろといったのに、つづけている。	やめろと言ったのに、続けている。	Instruction not followed	[sound:bc6ea17007a4.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k source:shin-kanzen
+What marks 'in spite of, although'?	ーのに	じかんがあるのに、いかなかった。	時間があるのに、行かなかった。	Time available but didn't go	[sound:5f77bfd74423.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top1k source:shin-kanzen
+Complete: 'Although I asked, ___'	ーのに〜ない	たのんだのに、だれもこなかった。	頼んだのに、誰も来なかった。	Request not fulfilled	[sound:62819e08d558.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k source:shin-kanzen

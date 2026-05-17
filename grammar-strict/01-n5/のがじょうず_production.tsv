@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using のがじょうず	（のがじょうず）の例文1です。		（のがじょうず）の例文1です。	To be good at, Proficient	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のがじょうず scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using のがじょうず	（のがじょうず）の例文2です。		（のがじょうず）の例文2です。	To be good at, Proficient	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のがじょうず scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using のがじょうず	（のがじょうず）の例文3です。		（のがじょうず）の例文3です。	To be good at, Proficient	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のがじょうず scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using のがじょうず	（のがじょうず）の例文4です。		（のがじょうず）の例文4です。	To be good at, Proficient	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のがじょうず scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using のがじょうず	（のがじょうず）の例文5です。		（のがじょうず）の例文5です。	To be good at, Proficient	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のがじょうず scaffold:pending-content scaffold:pending-audio source:bunpro

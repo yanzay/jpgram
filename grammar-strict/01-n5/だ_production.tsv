@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using だ	（だ）の例文1です。		（だ）の例文1です。	To be, Is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だ	（だ）の例文2です。		（だ）の例文2です。	To be, Is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だ	（だ）の例文3です。		（だ）の例文3です。	To be, Is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だ	（だ）の例文4です。		（だ）の例文4です。	To be, Is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だ	（だ）の例文5です。		（だ）の例文5です。	To be, Is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だ scaffold:pending-content scaffold:pending-audio source:bunpro

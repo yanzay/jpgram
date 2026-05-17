@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Transcript	Reading	EN	Hint	Tags
+#notetype:Listening
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+
+[sound:c3ba4c6f2bf1.mp3]	何ぞ知らん	なにぞしらん	How would one know.	modern なぜ	module:03-n3 point:つまり complexity:intro frequency:top1k source:imabi complexity:standard
+[sound:f9a23777825a.mp3]	もとより然るべし	もとよりしかるべし	Naturally it should be so.	modern もともと	module:03-n3 point:つまり complexity:intro source:imabi complexity:standard
+[sound:e8f638347e78.mp3]	然くして	ぜんくして	Thus/in this way.	modern そのようにして	module:03-n3 point:つまり complexity:intro source:imabi complexity:standard
+[sound:3e1bb87f8390.mp3]	如何なる者ぞや	いかなるものぞや	What kind of person is it.	modern どんな～か	module:03-n3 point:つまり complexity:intro frequency:top10k source:imabi complexity:standard
+[sound:9a47eab64ec9.mp3]	きわめて美し	きわめてうつくし	Extremely beautiful.	modern 極めて・非常に	module:03-n3 point:つまり complexity:intro frequency:low source:imabi complexity:standard
+[sound:87519f1b836e.mp3]	古人のいわく	こじんのいわく	The ancients say.	modern ～という	module:03-n3 point:つまり complexity:intro frequency:top1k source:imabi complexity:standard
+[sound:1a4f64e6a220.mp3]	故に行く	ゆえにいく	Therefore he goes.	modern だから・そのため	module:03-n3 point:つまり complexity:intro frequency:low source:imabi complexity:standard
+[sound:b661c5df104a.mp3]	不幸にして死す	ふこうにしてしす	Unfortunately he dies.	modern あいにく	module:03-n3 point:つまり complexity:intro frequency:top10k source:imabi complexity:standard

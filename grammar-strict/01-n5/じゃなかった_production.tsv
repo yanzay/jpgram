@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using じゃなかった	（じゃなかった）の例文1です。		（じゃなかった）の例文1です。	Was not, Wasn't	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:じゃなかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using じゃなかった	（じゃなかった）の例文2です。		（じゃなかった）の例文2です。	Was not, Wasn't	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:じゃなかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using じゃなかった	（じゃなかった）の例文3です。		（じゃなかった）の例文3です。	Was not, Wasn't	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:じゃなかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using じゃなかった	（じゃなかった）の例文4です。		（じゃなかった）の例文4です。	Was not, Wasn't	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:じゃなかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using じゃなかった	（じゃなかった）の例文5です。		（じゃなかった）の例文5です。	Was not, Wasn't	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:じゃなかった scaffold:pending-content scaffold:pending-audio source:bunpro

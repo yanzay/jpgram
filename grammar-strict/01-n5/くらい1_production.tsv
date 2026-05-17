@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using くらい ①	（くらい ①）の例文1です。		（くらい ①）の例文1です。	About, Approximately	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:くらい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using くらい ①	（くらい ①）の例文2です。		（くらい ①）の例文2です。	About, Approximately	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:くらい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using くらい ①	（くらい ①）の例文3です。		（くらい ①）の例文3です。	About, Approximately	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:くらい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using くらい ①	（くらい ①）の例文4です。		（くらい ①）の例文4です。	About, Approximately	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:くらい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using くらい ①	（くらい ①）の例文5です。		（くらい ①）の例文5です。	About, Approximately	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:くらい1 scaffold:pending-content scaffold:pending-audio source:bunpro

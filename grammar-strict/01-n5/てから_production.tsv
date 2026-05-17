@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using てから	（てから）の例文1です。		（てから）の例文1です。	Once...is done, Once...happens, After doing	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using てから	（てから）の例文2です。		（てから）の例文2です。	Once...is done, Once...happens, After doing	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using てから	（てから）の例文3です。		（てから）の例文3です。	Once...is done, Once...happens, After doing	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using てから	（てから）の例文4です。		（てから）の例文4です。	Once...is done, Once...happens, After doing	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using てから	（てから）の例文5です。		（てから）の例文5です。	Once...is done, Once...happens, After doing	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てから scaffold:pending-content scaffold:pending-audio source:bunpro

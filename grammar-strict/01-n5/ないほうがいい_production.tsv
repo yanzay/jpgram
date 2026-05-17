@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using ないほうがいい	（ないほうがいい）の例文1です。		（ないほうがいい）の例文1です。	It'd be better not to, Shouldn't do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ないほうがいい	（ないほうがいい）の例文2です。		（ないほうがいい）の例文2です。	It'd be better not to, Shouldn't do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ないほうがいい	（ないほうがいい）の例文3です。		（ないほうがいい）の例文3です。	It'd be better not to, Shouldn't do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ないほうがいい	（ないほうがいい）の例文4です。		（ないほうがいい）の例文4です。	It'd be better not to, Shouldn't do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ないほうがいい	（ないほうがいい）の例文5です。		（ないほうがいい）の例文5です。	It'd be better not to, Shouldn't do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro

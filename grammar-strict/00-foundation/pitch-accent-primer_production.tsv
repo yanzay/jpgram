@@ -1,0 +1,87 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::00 - Foundation::Production
+
+(hard) candy (heiban (0))	飴	あめ	飴	LH	[sound:bad670d2cb1b.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Nose (heiban (0)).	鼻	はな	鼻	LH	[sound:8940dd82b056.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To step on (heiban (0)).	踏む	ふむ	踏む	LH	[sound:cb853a3dc807.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Mostly (heiban (0)).	大抵	たいてい	大抵	LHHH	[sound:314de1bca77e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Red (heiban (0)).	赤い	あかい	赤い	LHH	[sound:b9e5f9eea82a.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To sound (heiban (0)).	鳴る	なる	鳴る	LH	[sound:45794015d5f3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To open (heiban (0)).	開く	あく	開く	LH	[sound:119daf93eeb9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To open (a door, etc.) (heiban (0)).	開ける	あける	開ける	LHH	[sound:8d2086f34297.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To raise (heiban (0)).	上げる	あげる	上げる	LHH	[sound:0c5229f0adec.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To grow hot (e.g. water) (heiban (0)).	沸く	わく	沸く	LH	[sound:6d1142468f08.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Cartoon (heiban (0)).	漫画	まんが	漫画	LHH	[sound:6a0b30d36103.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To play (games, sports) (heiban (0)).	遊ぶ	あすぶ	遊ぶ	LHH	[sound:4e0d1a774877.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To be heard (heiban (0)).	聞こえる	きこえる	聞こえる	LHHH	[sound:d50309a25593.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Thick (heiban (0)).	厚い	あつい	厚い	LHH	[sound:a102b13e22a5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Always (heiban (0)).	必ず	かならず	必ず	LHHH	[sound:bde673b44384.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Barbershop (heiban (0)).	床屋	とこや	床屋	LHH	[sound:7f25a21ec2bf.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Older sister (heiban (0)).	姉	あね	姉	LH	[sound:b1a3afebdb30.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Exercise (heiban (0)).	運動	うんどう	運動	LHHH	[sound:d5d3ea280b3f.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To cease (heiban (0)).	止む	やむ	止む	LH	[sound:6f0fc75b07e6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To dash over oneself (e.g. water) (heiban (0)).	浴びる	あびる	浴びる	LHH	[sound:fb2046cced43.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Rain (atamadaka (1)).	雨	あめ	雨	HL	[sound:8995b8979971.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Bridge (atamadaka (1)).	橋	きょう	橋	HL	[sound:2e824838874a.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Chopsticks (atamadaka (1)).	箸	はし	箸	HL	[sound:692fc057a2cc.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To meet (atamadaka (1)).	会う	あう	会う	HL	[sound:848921dea97e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Blue (atamadaka (1)).	青	あお	青	HL	[sound:845d1da87f89.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Red (atamadaka (1)).	赤	あか	赤	HL	[sound:72776ab68f81.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Time (atamadaka (1)).	秋	あき	秋	HL	[sound:8d8f4aeca850.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Morning (atamadaka (1)).	朝	あさ	朝	HL	[sound:695aad811ab9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Opinion (atamadaka (1)).	意見	いけん	意見	HLL	[sound:a18d39bb05c6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Medicine (atamadaka (1)).	医学	いがく	医学	HLL	[sound:ef710fe9eab5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To break (atamadaka (1)).	折る	おる	折る	HL	[sound:34b78f606779.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Servant (atamadaka (1)).	僕	ぼく	僕	HL	[sound:d9b58894b25e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Behind (atamadaka (1)).	後	あと	後	HL	[sound:a1a8cfd1dec3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Older brother (atamadaka (1)).	兄	あに	兄	HL	[sound:1b60f62fba6e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To be (atamadaka (1)).	在る	ある	在る	HL	[sound:857265f4ac88.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To be (atamadaka (1)).	有る	ある	有る	HL	[sound:156efeaf0de7.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Suburb (atamadaka (1)).	郊外	こうがい	郊外	HLLL	[sound:768df1b2712e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Dot (atamadaka (1)).	点	ちょぼ	点	HL	[sound:1d59ea7cbbee.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+This time (atamadaka (1)).	今度	こんど	今度	HLL	[sound:0634ffc8add8.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Now (atamadaka (1)).	今	いま	今	HL	[sound:d2130d70a08e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Blue (nakadaka (2)).	青い	あおい	青い	LHL	[sound:c6ae5797b9b3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To steal (nakadaka (2)).	盗む	ぬすむ	盗む	LHL	[sound:9c123be3ddcb.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To live (nakadaka (2)).	生きる	いきる	生きる	LHL	[sound:37f4e3d32a37.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Bitter (nakadaka (2)).	苦い	にがい	苦い	LHL	[sound:6188849bbec2.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Breakfast (nakadaka (3)).	朝御飯	あさごはん	朝御飯	LHHLL	[sound:6d08b094b141.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Day after tomorrow (nakadaka (2)).	明後日	あさって	明後日	LHLL	[sound:f8d01afc1ef8.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Warm (nakadaka (4)).	暖かい	あたたかい	暖かい	LHHHL	[sound:c141850f9e8a.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+New (nakadaka (4)).	新しい	あたらしい	新しい	LHHHL	[sound:7905abb96ea3.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Hot (nakadaka (2)).	暑い	あつい	暑い	LHL	[sound:2f7806f919a5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Hot (to the touch) (nakadaka (2)).	熱い	あつい	熱い	LHL	[sound:51bcc9d34833.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+To break (nakadaka (2)).	壊す	こわす	壊す	LHL	[sound:b2310d9143b9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To get angry (nakadaka (2)).	怒る	いかる	怒る	LHL	[sound:44180d9e2486.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Driver (nakadaka (3)).	運転手	うんてんしゅ	運転手	LHHLL	[sound:7e2a65748ee9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Soft (nakadaka (4)).	柔らかい	やわらかい	柔らかい	LHHHL	[sound:14890280c401.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+To walk (nakadaka (2)).	歩く	あるく	歩く	LHL	[sound:661cf28cf5e9.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Busy (nakadaka (4)).	忙しい	いそがしい	忙しい	LHHHL	[sound:03f65015f9e6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Painful (nakadaka (2)).	痛い	いたい	痛い	LHL	[sound:2d7d31a9ab4e.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Discourtesy (nakadaka (2)).	失礼	しつれい	失礼	LHLL	[sound:e7b05a197f63.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Very hard (nakadaka (5)).	一生懸命	いっしょうけんめい	一生懸命	LHHHHLLL	[sound:bb15e1db0fca.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Five (nakadaka (2)).	五つ	いつつ	五つ	LHL	[sound:c664873dbc35.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Flower (odaka).	花	はな	花	LH	[sound:9be4611e164b.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Tomorrow (odaka).	明日	あした	明日	LHH	[sound:762ffcba27ad.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Counter for large animals (e.g. head of cattle) (odaka).	頭	かしら	頭	LHH	[sound:e349ae133850.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Surface (odaka).	表	おもて	表	LHH	[sound:6a954390e365.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+House (odaka).	家	いえ	家	LH	[sound:7de8177ce74b.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+New Year (esp. first three days) (odaka).	正月	しょうがつ	正月	LHHH	[sound:8d94d31e6e43.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Pond (odaka).	池	いけ	池	LH	[sound:33dda9d445d7.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+One (odaka).	一	いち	一	LH	[sound:d274eee8a175.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+One day (odaka).	一日	いちじつ	一日	LHHH	[sound:d193f69c03f5.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Dog (Canis (lupus) familiaris) (odaka).	犬	いぬ	犬	LH	[sound:022dd77d5cf1.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Disliking (odaka).	嫌	いや	嫌	LH	[sound:7b59b16db1db.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Colour (odaka).	色	いろ	色	LH	[sound:1391f4a4c627.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Song (odaka).	歌	うた	歌	LH	[sound:3a3857bfa3f6.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Parent (odaka).	親	おや	親	LH	[sound:2995b69f5a42.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Younger brother (odaka).	弟	おと	弟	LH	[sound:276330ed9702.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Indicates storeys, structures, or materials used in a building (odaka).	建て	たて	建て	LH	[sound:2545f47b51fd.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Key (odaka).	鍵	かぎ	鍵	LH	[sound:287a06131f4d.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Force (odaka).	力	ちから	力	LHH	[sound:a81c2ab80e37.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top5k source:curated-jpgram
+Direction (odaka).	方	かた	方	LH	[sound:2e9c5afd29ff.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram
+Paper (odaka).	紙	かみ	紙	LH	[sound:c899fb51e356.mp3]	module:00-foundation jlpt:n5 point:pitch-accent-primer complexity:intro frequency:top1k source:curated-jpgram

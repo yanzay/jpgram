@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using ている①	（ている①）の例文1です。		（ている①）の例文1です。	Is, Am, Are (~ing)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ている1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ている①	（ている①）の例文2です。		（ている①）の例文2です。	Is, Am, Are (~ing)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ている1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ている①	（ている①）の例文3です。		（ている①）の例文3です。	Is, Am, Are (~ing)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ている1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ている①	（ている①）の例文4です。		（ている①）の例文4です。	Is, Am, Are (~ing)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ている1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ている①	（ている①）の例文5です。		（ている①）の例文5です。	Is, Am, Are (~ing)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ている1 scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using あの	（あの）の例文1です。		（あの）の例文1です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あの scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using あの	（あの）の例文2です。		（あの）の例文2です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あの scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using あの	（あの）の例文3です。		（あの）の例文3です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あの scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using あの	（あの）の例文4です。		（あの）の例文4です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あの scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using あの	（あの）の例文5です。		（あの）の例文5です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あの scaffold:pending-content scaffold:pending-audio source:bunpro

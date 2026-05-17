@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using う-Verb (Negative)	（う-Verb (Negative)）の例文1です。		（う-Verb (Negative)）の例文1です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:うverb--ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using う-Verb (Negative)	（う-Verb (Negative)）の例文2です。		（う-Verb (Negative)）の例文2です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:うverb--ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using う-Verb (Negative)	（う-Verb (Negative)）の例文3です。		（う-Verb (Negative)）の例文3です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:うverb--ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using う-Verb (Negative)	（う-Verb (Negative)）の例文4です。		（う-Verb (Negative)）の例文4です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:うverb--ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using う-Verb (Negative)	（う-Verb (Negative)）の例文5です。		（う-Verb (Negative)）の例文5です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:うverb--ない scaffold:pending-content scaffold:pending-audio source:bunpro

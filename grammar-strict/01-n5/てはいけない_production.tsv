@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using てはいけない	（てはいけない）の例文1です。		（てはいけない）の例文1です。	Must not, May not	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てはいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using てはいけない	（てはいけない）の例文2です。		（てはいけない）の例文2です。	Must not, May not	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てはいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using てはいけない	（てはいけない）の例文3です。		（てはいけない）の例文3です。	Must not, May not	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てはいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using てはいけない	（てはいけない）の例文4です。		（てはいけない）の例文4です。	Must not, May not	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てはいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using てはいけない	（てはいけない）の例文5です。		（てはいけない）の例文5です。	Must not, May not	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てはいけない scaffold:pending-content scaffold:pending-audio source:bunpro

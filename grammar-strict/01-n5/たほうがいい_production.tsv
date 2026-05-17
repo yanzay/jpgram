@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using たほうがいい	（たほうがいい）の例文1です。		（たほうがいい）の例文1です。	It'd be better to, Should do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:たほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using たほうがいい	（たほうがいい）の例文2です。		（たほうがいい）の例文2です。	It'd be better to, Should do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:たほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using たほうがいい	（たほうがいい）の例文3です。		（たほうがいい）の例文3です。	It'd be better to, Should do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:たほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using たほうがいい	（たほうがいい）の例文4です。		（たほうがいい）の例文4です。	It'd be better to, Should do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:たほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using たほうがいい	（たほうがいい）の例文5です。		（たほうがいい）の例文5です。	It'd be better to, Should do	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:たほうがいい scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using や	（や）の例文1です。		（や）の例文1です。	Things like, And the like	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:や scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using や	（や）の例文2です。		（や）の例文2です。	Things like, And the like	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:や scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using や	（や）の例文3です。		（や）の例文3です。	Things like, And the like	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:や scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using や	（や）の例文4です。		（や）の例文4です。	Things like, And the like	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:や scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using や	（や）の例文5です。		（や）の例文5です。	Things like, And the like	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:や scaffold:pending-content scaffold:pending-audio source:bunpro

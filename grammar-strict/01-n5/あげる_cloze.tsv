@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Cloze
+
+母に弁当を作って{{c1::もらった}}。	ははにべんとうをつくって{{c1::もらった}}	receive favor	[sound:0d197bd08e5f.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro source:shin-kanzen
+先生に論文を見て{{c1::もらった}}。	せんせいにろんぶんをみて{{c1::もらった}}	receive service	[sound:5b71be3d8a64.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro source:shin-kanzen
+兄に手伝って{{c1::もらった}}。	あににてつだって{{c1::もらった}}	receive help	[sound:0df135316fa0.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro source:shin-kanzen
+友達に説明して{{c1::あげた}}。	ともだちにせつめいして{{c1::あげた}}	give favor	[sound:ca0d1925efd7.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top5k complexity:intro source:shin-kanzen
+先輩に宿題を教えて{{c1::もらっています}}。	せんぱいにしゅくだいをおしえて{{c1::もらっています}}	ongoing instruction	[sound:78586e52a05f.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro source:shin-kanzen
+彼女に花を買って{{c1::あげた}}。	かのじょにはなをかって{{c1::あげた}}	gift giving	[sound:c36eda04cbe5.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top5k complexity:intro source:shin-kanzen
+子供に本を読んで{{c1::あげました}}。	こどもにほんをよんで{{c1::あげました}}	do favor	[sound:0a42c881054a.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro source:shin-kanzen
+店員さんに荷物を運んで{{c1::もらいました}}。	てんいんさんににもつをはこんで{{c1::もらいました}}	service	[sound:b76b204f5b87.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard source:shin-kanzen
+医者に見て{{c1::もらいました}}。	いしゃにみて{{c1::もらいました}}	exam	[sound:2b551150e62b.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro source:shin-kanzen
+先生にご指導いただいて{{c1::います}}。	せんせいにごしどういただいて{{c1::います}}	keigo	[sound:325b05be38df.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard source:shin-kanzen
+親友に秘密を聞いて{{c1::もらった}}。	しんゆうにひみつをきいて{{c1::もらった}}	confidence	[sound:aa6194ac7fde.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro source:shin-kanzen
+妻に服を買って{{c1::あげた}}。	つまにふくをかって{{c1::あげた}}	buy	[sound:bc9299e085bb.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top5k complexity:intro source:shin-kanzen
+同僚に報告書を見て{{c1::もらった}}。	どうりょうにほうこくしょをみて{{c1::もらった}}	review	[sound:da7e96cd61ff.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro source:shin-kanzen
+子供に宿題を手伝って{{c1::あげました}}。	こどもにしゅくだいをてつだって{{c1::あげました}}	help	[sound:e1661d2dc28f.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro source:shin-kanzen
+セキュリティに確認して{{c1::もらった}}。	せきゅりてぃにかくにんして{{c1::もらった}}	verify	[sound:a74f67c2a4aa.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard source:shin-kanzen
+{{c1::田中さんに本をあげた。}}	たなかさんにほんをあげた。	giving action with あげる	[sound:727a74464e5a.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::友達がボールペンをくれた。}}	ともだちがぼーるぺんをくれた。	receiving from peer with くれる	[sound:e0e2bcdd74a3.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::親からお金をもらった。}}	したしからおきんをもらった。	receiving with もらう	[sound:ed3cbace95d8.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::彼は妹にプレゼントをあげた。}}	かれはいもうとにぷれぜんとをあげた。	giving to family	[sound:11ff0e333fcd.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::先生が宿題をくれた。}}	せんせいがしゅくだいをくれた。	benefactive giving	[sound:265562ec72ff.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::この本を君にあげます。}}	このほんをくんにあげます。	future giving	[sound:8fd2ad497477.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::両親が腕時計をくれた。}}	りょうしんがうでどけいをくれた。	receiving from parents	[sound:e8dce9915823.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::電話番号をくれませんか。}}	でんわばんごうをくれませんか。	polite request for giving	[sound:69707af01e3d.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::祖母から手紙をもらった。}}	そぼからてがみをもらった。	receiving from elder	[sound:1ae854863c8a.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top5k complexity:intro
+{{c1::彼に書類をあげてください。}}	かれにしょるいをあげてください。	imperative giving	[sound:7e166b280b9f.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::兄は古い自転車をくれた。}}	あにはふるいじてんしゃをくれた。	family giving	[sound:86764800d386.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::明日は荷物をもらいます。}}	あしたはにもつをもらいます。	future receiving	[sound:27485de8c800.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+{{c1::客がチップをくれた。}}	きゃくがちっぷをくれた。	service industry giving	[sound:374e318c06f2.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
+{{c1::提案をあげてもいいですか。}}	ていあんをあげてもいいですか。	offering giving	[sound:7db0c412c420.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::彼女はボーイフレンドから花をもらった。}}	かのじょはぼーいふれんどからはなをもらった。	romantic giving	[sound:e8f7a4e38193.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro

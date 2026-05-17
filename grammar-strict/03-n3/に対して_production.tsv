@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+こそ: Emphatic.	Emphatic	いまこそはじめるべきときだ。	今こそ始めるべき時だ。	Marks heightened emphasis on preceding element	[sound:05f11672b23b.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top5k source:shin-kanzen
+こそ: Emphatic.	Emphatic	かれこそがしんはんにんだ。	彼こそが真犯人だ。	Marks heightened emphasis on preceding element	[sound:98238e92886a.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+こそ: Emphatic.	Emphatic	くなんこそがにんをせいちょうさせる。	苦難こそが人を成長させる。	Marks heightened emphasis on preceding element	[sound:d83d90e43429.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen
+こそ: Emphatic.	Emphatic	こんねんこそごうかくしたい。	今年こそ合格したい。	Marks heightened emphasis on preceding element	[sound:6385574dfa48.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+こそ: Emphatic.	Emphatic	くんこそふさわしい。	君こそ相応しい。	Marks heightened emphasis on preceding element	[sound:c8d08af17b0d.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen
+だに: Even-not.	Even-not	そうぞうだにむずかしい。	想像だに難しい。	Marks extreme difficulty to imagine	[sound:6c035ada0da8.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+だに: Even-not.	Even-not	なまえだにしらない。	名前だに知らない。	Marks extreme difficulty to imagine	[sound:779c65e44c9a.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top1k source:shin-kanzen
+だに: Even-not.	Even-not	よむことだにこんなんだ。	読むことだに困難だ。	Marks extreme difficulty to imagine	[sound:64ff6832773f.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+だに: Even-not.	Even-not	せっしょくすることだにゆるされない。	接触することだに許されない。	Marks extreme difficulty to imagine	[sound:a6510236fcbd.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:low source:shin-kanzen
+だに: Even-not.	Even-not	ことばだにない。	言葉だにない。	Marks extreme difficulty to imagine	[sound:99042908c84d.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top1k source:shin-kanzen
+すら: Even.	Even	こどもすらしっている。	子供すら知っている。	Marks lowest/furthest extent	[sound:6de5ecedb616.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top1k source:shin-kanzen
+すら: Even.	Even	かのじょすらいかった。	彼女すら怒った。	Marks lowest/furthest extent	[sound:8f574b7dc309.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top5k source:shin-kanzen
+すら: Even.	Even	ふじさんすらみえない。	富士山すら見えない。	Marks lowest/furthest extent	[sound:af07ea83d08f.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen
+すら: Even.	Even	ひとことすらいわない。	一言すら言わない。	Marks lowest/furthest extent	[sound:0f42f500afda.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+すら: Even.	Even	みずすらのめない。	水すら飲めない。	Marks lowest/furthest extent	[sound:1caf0a1662a7.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top1k source:shin-kanzen
+さえ: Even (conditional).	Even (conditional)	どりょくさえすればせいこうする。	努力さえすれば成功する。	Marks condition; if only you	[sound:125adbf1ebb6.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+さえ: Even (conditional).	Even (conditional)	じかんさえあればいきたい。	時間さえあれば行きたい。	Marks condition; if only you	[sound:d37da1fe6785.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+さえ: Even (conditional).	Even (conditional)	けんこうさえうったらおわり。	健康さえ失ったら終わり。	Marks condition; if only you	[sound:759a008fbe66.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+さえ: Even (conditional).	Even (conditional)	せいいさえあればゆるされる。	誠意さえあれば許される。	Marks condition; if only you	[sound:eaf815352135.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen
+のみ: Only.	Only	きんせんのみがもくてきではない。	金銭のみが目的ではない。	Marks sole/exclusive	[sound:0a478addab4d.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+のみならず: Not only.	Not only	いまのみならずみらいもたいせつ。	今のみならず未来も大切。	Marks not only X but also	[sound:f7a954f7294f.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+のみ: Only.	Only	かのみがしっている。	彼のみが知っている。	Marks sole/exclusive	[sound:be552e7fb351.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top5k source:shin-kanzen
+のみならず: Not only.	Not only	べんきょうのみならずうんどうもじゅうよう。	勉強のみならず運動も重要。	Marks not only X but also	[sound:a77ff6eecb18.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen
+きり: Only/Once.	Only/Once	いちどきりのきかい。	一度きりの機会。	Marks single occurrence	[sound:95acf131ec42.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top5k source:shin-kanzen
+きり: Only/Once.	Only/Once	いまきりのこくはく。	今きりの告白。	Marks single occurrence	[sound:a8efef349020.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen
+きり: Only/Once.	Only/Once	かれとはこれきりだ。	彼とはこれきりだ。	Marks single occurrence	[sound:9964c4879adb.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top5k source:shin-kanzen
+どころか: Far from.	Far from	ごうかくどころかじゅけんもしなかった。	合格どころか受験もしなかった。	Marks negation of both stated/implied	[sound:bd5277d87a54.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:low source:shin-kanzen
+どころか: Far from.	Far from	じょげんどころかむしされた。	助言どころか無視された。	Marks negation of both stated/implied	[sound:70b5ffb1f773.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen
+どころか: Far from.	Far from	へんじどころかれんらくすらない。	返事どころか連絡すらない。	Marks negation of both stated/implied	[sound:83ba8297712f.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top5k source:shin-kanzen
+とて: Literary how.	Literary how	なんとてそんなことができるか。	何とてそんなことができるか。	Old form of として	[sound:a9b19ebd7023.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top1k source:shin-kanzen
+とて: Literary no matter who.	Literary no matter who	だれとてこれをとけない。	誰とてこれを解けない。	No matter who; archaic	[sound:4fa36c5bb07d.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top1k source:shin-kanzen
+とて: Literary despite.	Literary despite	いかなることとてなしとげよう。	いかなることとてなし遂げよう。	Despite anything	[sound:a473998ccddc.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard source:shin-kanzen
+とて〜まい: Literary determination.	Literary determination	こんなんとてこれをなしとげるまいとはおもわない。	困難とてこれを成し遂げるまいとは思わない。	Emphasizes commitment despite hardship	[sound:1b68412dc0b4.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:low source:shin-kanzen
+とて〜まい: Literary determination.	Literary determination	てきとてこれをふせぎえまい。	敵とてこれを防ぎ得まい。	Emphasizes commitment despite hardship	[sound:31599e73c0c4.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+とて〜まい: Literary determination.	Literary determination	いかなこんなんとてもうしりぞくまい。	いかな困難とてもう退くまい。	Emphasizes commitment despite hardship	[sound:b5c2e98765c7.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen
+とて〜まい: Literary determination.	Literary determination	なにごととてこれをじっこうするまい。	何ごととてこれを実行するまい。	Emphasizes commitment despite hardship	[sound:4204a9812707.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen
+こそ: Emphatic.	Emphatic	そのひみつこそがかれをかえたのだ。	その秘密こそが彼を変えたのだ。	Marks heightened emphasis on preceding element	[sound:5ea17dd2be78.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen
+こそ: Emphatic.	Emphatic	かれこそがゆいいつのきぼうだ。	彼こそが唯一の希望だ。	Marks heightened emphasis on preceding element	[sound:68b56218dc90.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen
+こそ: Emphatic.	Emphatic	このときこそがしょうぶどきだ。	この時こそが勝負どきだ。	Marks heightened emphasis on preceding element	[sound:d0f2e2fa638f.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen
+こそ: Emphatic.	Emphatic	そのえいこうこそがかのじんせいだ。	その栄光こそが彼の人生だ。	Marks heightened emphasis on preceding element	[sound:7006ce8deabc.mp3]	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen

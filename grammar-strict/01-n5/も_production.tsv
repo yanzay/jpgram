@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using も	（も）の例文1です。		（も）の例文1です。	Also, Too, As well, Even, Either, Neither	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using も	（も）の例文2です。		（も）の例文2です。	Also, Too, As well, Even, Either, Neither	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using も	（も）の例文3です。		（も）の例文3です。	Also, Too, As well, Even, Either, Neither	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using も	（も）の例文4です。		（も）の例文4です。	Also, Too, As well, Even, Either, Neither	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using も	（も）の例文5です。		（も）の例文5です。	Also, Too, As well, Even, Either, Neither	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:も scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+
+私は日本に行った___。	ことがある	たことがある	たことがある	たことがある = specific past experience (went once or more). ことがある = possible/occasional event.	Personal experience = たことがある. General possibility = ことがある.	[sound:fc122be940d1.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ことがある frequency:top10k source:shin-kanzen
+雨の日に事故が起こった___。	ことがある	たことがある	ことがある	たことがある = happened specifically to me. ことがある = can happen (general).	My incident = たことがある. Possible event = ことがある.	[sound:30666d7ef7af.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:standard confusable-with:たことがある frequency:top5k source:shin-kanzen
+猫は家に入ってくる___。	ことがある	たことがある	ことがある	ことがある = cats sometimes enter (possible behavior). たことがある = I experienced it.	General behavior = ことがある. Personal memory = たことがある.	[sound:284960ed83c1.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:standard confusable-with:たことがある frequency:top1k source:shin-kanzen
+本を三回なくした___。	たことがある	ことがある	たことがある	たことがある = I lost books (personal experience). ことがある = books get lost (general).	My experience = たことがある. General possibility = ことがある.	[sound:a749c3b41e5f.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ことがある frequency:top1k source:shin-kanzen
+朝寝坊して遅刻した___。	たことがある	ことがある	たことがある	たことがある = I overslept and was late (past event). ことがある = I sometimes oversleep.	Specific incident = たことがある.	[sound:0740d6f3a13f.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:standard confusable-with:ことがある frequency:low source:shin-kanzen
+ご飯を食べた___。	ばかり	ところ	ばかり	ばかり = just finished eating. ところ = in the middle or just started.	Completion = ばかり. Middle/start = ところ.	[sound:98bd2bcb0c8d.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ところ frequency:top10k source:shin-kanzen
+映画が始まった___。	ところ	ばかり	ところ	ところ = just starting now. ばかり = already started/finished.	Beginning moment = ところ. Finished action = ばかり.	[sound:543648edf3ca.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ばかり frequency:top1k source:shin-kanzen
+荷物が到着した___。	ばかり	ところ	ばかり	ばかり = just arrived. ところ = arriving process.	Just arrived = ばかり.	[sound:64a3cfabeee1.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ところ frequency:top10k source:shin-kanzen
+試験に合格した___。	ばかり	ところ	ばかり	ばかり = just passed. ところ = results coming soon.	Just confirmed = ばかり.	[sound:ca78f690b401.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ところ frequency:top10k source:shin-kanzen
+部屋を掃除し始めた___。	ところ	ばかり	ところ	ところ = just started cleaning. ばかり = already finished.	Just starting = ところ. Just completed = ばかり.	[sound:8e02314cfe04.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:standard confusable-with:ばかり frequency:top1k source:shin-kanzen

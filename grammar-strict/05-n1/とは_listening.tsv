@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Transcript	Reading	EN	Hint	Tags
+#notetype:Listening
+#
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Listening
+
+[sound:b82243ae42fc.mp3]	させていただく。	させていただく。	I humbly request permission to do.	stacking pattern	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:2ce803fd53a6.mp3]	させていただいてもよろしいでしょうか。	させていただいてもよろしいでしょうか。	May I humbly do this?	stacking pattern	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:e8c1b0dcf416.mp3]	たまわる。	たまわる。	I humbly receive (archaic).	stacking pattern	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:ed731e70fd21.mp3]	させていただきました。	させていただきました。	I humbly did.	stacking pattern	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:7ce85ab81407.mp3]	そのようなことをさせていただけるとは。	そのようなことをさせていただけるとは。	I can scarcely believe I am permitted to do such a thing.	stacking pattern	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:7d3b2fdea228.mp3]	この度はお約束をさせていただきたく。	このどはおやくそくをさせていただきたく。	This time I wish to humbly make a promise.	stacking pattern	module:05-n1 point:とは complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:d10e28418715.mp3]	させていただくことができました。	させていただくことができました。	I was able to humbly do.	stacking pattern	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:d4cfa7592053.mp3]	されるようになった。	されるようになった。	He/she came to be done to (passive as honorific).	stacking pattern	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives

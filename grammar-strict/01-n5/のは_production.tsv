@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using の	（の）の例文1です。		（の）の例文1です。	Verb nominalizer, The one who..., That which...	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using の	（の）の例文2です。		（の）の例文2です。	Verb nominalizer, The one who..., That which...	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using の	（の）の例文3です。		（の）の例文3です。	Verb nominalizer, The one who..., That which...	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using の	（の）の例文4です。		（の）の例文4です。	Verb nominalizer, The one who..., That which...	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using の	（の）の例文5です。		（の）の例文5です。	Verb nominalizer, The one who..., That which...	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のは scaffold:pending-content scaffold:pending-audio source:bunpro

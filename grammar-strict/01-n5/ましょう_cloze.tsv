@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Cloze
+
+{{c1::店に行こう。}}	みせにいこう。	volitional intention with よう	[sound:c6f6a4f56030.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::一緒にコーヒーを飲みましょう。}}	いっしょにこーひーをのみましょう。	polite suggestion with ましょう	[sound:b94e0ff1559d.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::留学しようと思う。}}	りゅうがくしようとおもう。	intention expression with ようと思う	[sound:3896e8e32e5f.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+{{c1::来年卒業するつもりです。}}	らいねんそつぎょうするつもりです。	firm plan with つもり	[sound:e583e6101b4c.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::全力を尽くそう。}}	ぜんりょくをつくそう。	collective determination	[sound:e7ceb2d8c901.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
+{{c1::会議を始めましょう。}}	かいぎをはじめましょう。	polite proposal	[sound:91d5becac7a5.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+{{c1::金曜日までに終わらせるつもりだ。}}	きんようびまでにおわらせるつもりだ。	clear intention	[sound:a26cc97185f1.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::母に電話しようと思っています。}}	ははにでんわしようとおもっています。	planned action	[sound:1291a6039cf3.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+{{c1::ビーチに行きましょうか。}}	びーちにいきましょうか。	polite question suggestion	[sound:db52f0d91fe0.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+{{c1::来月仕事を変えるつもりです。}}	らいげつしごとをかえるつもりです。	definite plan	[sound:3f07f0d419c2.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:advanced source:shin-kanzen frequency:top5k complexity:intro

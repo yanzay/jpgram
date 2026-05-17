@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using の (Questions)	（の (Questions)）の例文1です。		（の (Questions)）の例文1です。	Contextual and Explanatory Questions	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:の-questions scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using の (Questions)	（の (Questions)）の例文2です。		（の (Questions)）の例文2です。	Contextual and Explanatory Questions	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:の-questions scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using の (Questions)	（の (Questions)）の例文3です。		（の (Questions)）の例文3です。	Contextual and Explanatory Questions	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:の-questions scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using の (Questions)	（の (Questions)）の例文4です。		（の (Questions)）の例文4です。	Contextual and Explanatory Questions	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:の-questions scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using の (Questions)	（の (Questions)）の例文5です。		（の (Questions)）の例文5です。	Contextual and Explanatory Questions	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:の-questions scaffold:pending-content scaffold:pending-audio source:bunpro
