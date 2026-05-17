@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using すこしも～ない	（すこしも～ない）の例文1です。		（すこしも～ない）の例文1です。	Not even a little, Not at all, Not in the least, Never	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:すこしも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using すこしも～ない	（すこしも～ない）の例文2です。		（すこしも～ない）の例文2です。	Not even a little, Not at all, Not in the least, Never	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:すこしも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using すこしも～ない	（すこしも～ない）の例文3です。		（すこしも～ない）の例文3です。	Not even a little, Not at all, Not in the least, Never	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:すこしも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using すこしも～ない	（すこしも～ない）の例文4です。		（すこしも～ない）の例文4です。	Not even a little, Not at all, Not in the least, Never	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:すこしも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using すこしも～ない	（すこしも～ない）の例文5です。		（すこしも～ない）の例文5です。	Not even a little, Not at all, Not in the least, Never	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:すこしも-ない scaffold:pending-content scaffold:pending-audio source:bunpro

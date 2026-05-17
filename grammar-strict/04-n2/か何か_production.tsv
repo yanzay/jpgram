@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using か何か	（か何か）の例文1です。		（か何か）の例文1です。	Or something, Or something like that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:か何か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using か何か	（か何か）の例文2です。		（か何か）の例文2です。	Or something, Or something like that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:か何か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using か何か	（か何か）の例文3です。		（か何か）の例文3です。	Or something, Or something like that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:か何か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using か何か	（か何か）の例文4です。		（か何か）の例文4です。	Or something, Or something like that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:か何か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using か何か	（か何か）の例文5です。		（か何か）の例文5です。	Or something, Or something like that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:か何か scaffold:pending-content scaffold:pending-audio source:bunpro

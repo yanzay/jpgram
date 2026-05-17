@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ばよかった	（ばよかった）の例文1です。		（ばよかった）の例文1です。	Should have, I wish, It would have been better to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ばよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ばよかった	（ばよかった）の例文2です。		（ばよかった）の例文2です。	Should have, I wish, It would have been better to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ばよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ばよかった	（ばよかった）の例文3です。		（ばよかった）の例文3です。	Should have, I wish, It would have been better to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ばよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ばよかった	（ばよかった）の例文4です。		（ばよかった）の例文4です。	Should have, I wish, It would have been better to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ばよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ばよかった	（ばよかった）の例文5です。		（ばよかった）の例文5です。	Should have, I wish, It would have been better to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ばよかった scaffold:pending-content scaffold:pending-audio source:bunpro

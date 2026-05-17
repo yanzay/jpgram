@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 一体	（一体）の例文1です。		（一体）の例文1です。	(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一体 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 一体	（一体）の例文2です。		（一体）の例文2です。	(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一体 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 一体	（一体）の例文3です。		（一体）の例文3です。	(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一体 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 一体	（一体）の例文4です。		（一体）の例文4です。	(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一体 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 一体	（一体）の例文5です。		（一体）の例文5です。	(What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一体 scaffold:pending-content scaffold:pending-audio source:bunpro

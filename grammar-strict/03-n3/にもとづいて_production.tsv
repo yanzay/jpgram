@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using にもとづいて	（にもとづいて）の例文1です。		（にもとづいて）の例文1です。	Based on, In accordance with	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にもとづいて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using にもとづいて	（にもとづいて）の例文2です。		（にもとづいて）の例文2です。	Based on, In accordance with	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にもとづいて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using にもとづいて	（にもとづいて）の例文3です。		（にもとづいて）の例文3です。	Based on, In accordance with	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にもとづいて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using にもとづいて	（にもとづいて）の例文4です。		（にもとづいて）の例文4です。	Based on, In accordance with	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にもとづいて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using にもとづいて	（にもとづいて）の例文5です。		（にもとづいて）の例文5です。	Based on, In accordance with	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にもとづいて scaffold:pending-content scaffold:pending-audio source:bunpro

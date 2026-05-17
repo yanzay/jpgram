@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using にしろ～にしろ	（にしろ～にしろ）の例文1です。		（にしろ～にしろ）の例文1です。	Whether… or	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にしろ-にしろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using にしろ～にしろ	（にしろ～にしろ）の例文2です。		（にしろ～にしろ）の例文2です。	Whether… or	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にしろ-にしろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using にしろ～にしろ	（にしろ～にしろ）の例文3です。		（にしろ～にしろ）の例文3です。	Whether… or	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にしろ-にしろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using にしろ～にしろ	（にしろ～にしろ）の例文4です。		（にしろ～にしろ）の例文4です。	Whether… or	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にしろ-にしろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using にしろ～にしろ	（にしろ～にしろ）の例文5です。		（にしろ～にしろ）の例文5です。	Whether… or	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にしろ-にしろ scaffold:pending-content scaffold:pending-audio source:bunpro

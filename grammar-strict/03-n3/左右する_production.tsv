@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 左右する	（左右する）の例文1です。		（左右する）の例文1です。	Influence, Impact, Control	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:左右する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 左右する	（左右する）の例文2です。		（左右する）の例文2です。	Influence, Impact, Control	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:左右する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 左右する	（左右する）の例文3です。		（左右する）の例文3です。	Influence, Impact, Control	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:左右する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 左右する	（左右する）の例文4です。		（左右する）の例文4です。	Influence, Impact, Control	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:左右する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 左右する	（左右する）の例文5です。		（左右する）の例文5です。	Influence, Impact, Control	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:左右する scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using わけではない	（わけではない）の例文1です。		（わけではない）の例文1です。	It doesn't mean that, It is not the case, It's not like	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけではない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using わけではない	（わけではない）の例文2です。		（わけではない）の例文2です。	It doesn't mean that, It is not the case, It's not like	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけではない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using わけではない	（わけではない）の例文3です。		（わけではない）の例文3です。	It doesn't mean that, It is not the case, It's not like	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけではない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using わけではない	（わけではない）の例文4です。		（わけではない）の例文4です。	It doesn't mean that, It is not the case, It's not like	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけではない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using わけではない	（わけではない）の例文5です。		（わけではない）の例文5です。	It doesn't mean that, It is not the case, It's not like	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけではない scaffold:pending-content scaffold:pending-audio source:bunpro

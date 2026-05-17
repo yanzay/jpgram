@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 必ずしも 	（必ずしも ）の例文1です。		（必ずしも ）の例文1です。	Not always, Not entirely, Not necessarily	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:必ずしも scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 必ずしも 	（必ずしも ）の例文2です。		（必ずしも ）の例文2です。	Not always, Not entirely, Not necessarily	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:必ずしも scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 必ずしも 	（必ずしも ）の例文3です。		（必ずしも ）の例文3です。	Not always, Not entirely, Not necessarily	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:必ずしも scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 必ずしも 	（必ずしも ）の例文4です。		（必ずしも ）の例文4です。	Not always, Not entirely, Not necessarily	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:必ずしも scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 必ずしも 	（必ずしも ）の例文5です。		（必ずしも ）の例文5です。	Not always, Not entirely, Not necessarily	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:必ずしも scaffold:pending-content scaffold:pending-audio source:bunpro

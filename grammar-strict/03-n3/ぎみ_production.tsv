@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ぎみ	（ぎみ）の例文1です。		（ぎみ）の例文1です。	Looking, Feeling a little, Touch of, Tending to, Slightly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ぎみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ぎみ	（ぎみ）の例文2です。		（ぎみ）の例文2です。	Looking, Feeling a little, Touch of, Tending to, Slightly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ぎみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ぎみ	（ぎみ）の例文3です。		（ぎみ）の例文3です。	Looking, Feeling a little, Touch of, Tending to, Slightly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ぎみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ぎみ	（ぎみ）の例文4です。		（ぎみ）の例文4です。	Looking, Feeling a little, Touch of, Tending to, Slightly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ぎみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ぎみ	（ぎみ）の例文5です。		（ぎみ）の例文5です。	Looking, Feeling a little, Touch of, Tending to, Slightly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ぎみ scaffold:pending-content scaffold:pending-audio source:bunpro

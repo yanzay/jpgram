@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using に (Frequency)	（に (Frequency)）の例文1です。		（に (Frequency)）の例文1です。	Times (In each time period), Every, Frequency of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:に-frequency scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に (Frequency)	（に (Frequency)）の例文2です。		（に (Frequency)）の例文2です。	Times (In each time period), Every, Frequency of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:に-frequency scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に (Frequency)	（に (Frequency)）の例文3です。		（に (Frequency)）の例文3です。	Times (In each time period), Every, Frequency of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:に-frequency scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に (Frequency)	（に (Frequency)）の例文4です。		（に (Frequency)）の例文4です。	Times (In each time period), Every, Frequency of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:に-frequency scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に (Frequency)	（に (Frequency)）の例文5です。		（に (Frequency)）の例文5です。	Times (In each time period), Every, Frequency of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:に-frequency scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using く・に	（く・に）の例文1です。		（く・に）の例文1です。	～ly (Describing verbs), Adverbs	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:describing-verbs scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using く・に	（く・に）の例文2です。		（く・に）の例文2です。	～ly (Describing verbs), Adverbs	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:describing-verbs scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using く・に	（く・に）の例文3です。		（く・に）の例文3です。	～ly (Describing verbs), Adverbs	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:describing-verbs scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using く・に	（く・に）の例文4です。		（く・に）の例文4です。	～ly (Describing verbs), Adverbs	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:describing-verbs scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using く・に	（く・に）の例文5です。		（く・に）の例文5です。	～ly (Describing verbs), Adverbs	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:describing-verbs scaffold:pending-content scaffold:pending-audio source:bunpro

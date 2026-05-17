@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using と～と、どちらが 	（と～と、どちらが ）の例文1です。		（と～と、どちらが ）の例文1です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using と～と、どちらが 	（と～と、どちらが ）の例文2です。		（と～と、どちらが ）の例文2です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using と～と、どちらが 	（と～と、どちらが ）の例文3です。		（と～と、どちらが ）の例文3です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using と～と、どちらが 	（と～と、どちらが ）の例文4です。		（と～と、どちらが ）の例文4です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using と～と、どちらが 	（と～と、どちらが ）の例文5です。		（と～と、どちらが ）の例文5です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ないうちに	（ないうちに）の例文1です。		（ないうちに）の例文1です。	Before it becomes, Before ~ occurs, Without	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないうちに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ないうちに	（ないうちに）の例文2です。		（ないうちに）の例文2です。	Before it becomes, Before ~ occurs, Without	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないうちに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ないうちに	（ないうちに）の例文3です。		（ないうちに）の例文3です。	Before it becomes, Before ~ occurs, Without	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないうちに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ないうちに	（ないうちに）の例文4です。		（ないうちに）の例文4です。	Before it becomes, Before ~ occurs, Without	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないうちに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ないうちに	（ないうちに）の例文5です。		（ないうちに）の例文5です。	Before it becomes, Before ~ occurs, Without	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないうちに scaffold:pending-content scaffold:pending-audio source:bunpro

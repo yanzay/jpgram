@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using をよそに	（をよそに）の例文1です。		（をよそに）の例文1です。	Ignoring, Disregarding, Despite	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をよそに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using をよそに	（をよそに）の例文2です。		（をよそに）の例文2です。	Ignoring, Disregarding, Despite	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をよそに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using をよそに	（をよそに）の例文3です。		（をよそに）の例文3です。	Ignoring, Disregarding, Despite	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をよそに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using をよそに	（をよそに）の例文4です。		（をよそに）の例文4です。	Ignoring, Disregarding, Despite	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をよそに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using をよそに	（をよそに）の例文5です。		（をよそに）の例文5です。	Ignoring, Disregarding, Despite	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をよそに scaffold:pending-content scaffold:pending-audio source:bunpro

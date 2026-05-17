@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using そこで	（そこで）の例文1です。		（そこで）の例文1です。	Accordingly, Now, Therefore, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そこで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そこで	（そこで）の例文2です。		（そこで）の例文2です。	Accordingly, Now, Therefore, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そこで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そこで	（そこで）の例文3です。		（そこで）の例文3です。	Accordingly, Now, Therefore, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そこで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そこで	（そこで）の例文4です。		（そこで）の例文4です。	Accordingly, Now, Therefore, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そこで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そこで	（そこで）の例文5です。		（そこで）の例文5です。	Accordingly, Now, Therefore, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そこで scaffold:pending-content scaffold:pending-audio source:bunpro

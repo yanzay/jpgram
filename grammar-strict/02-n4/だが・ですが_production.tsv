@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using だが・ですが	（だが・ですが）の例文1です。		（だが・ですが）の例文1です。	But, Still, However, Nevertheless	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だが・ですが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だが・ですが	（だが・ですが）の例文2です。		（だが・ですが）の例文2です。	But, Still, However, Nevertheless	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だが・ですが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だが・ですが	（だが・ですが）の例文3です。		（だが・ですが）の例文3です。	But, Still, However, Nevertheless	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だが・ですが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だが・ですが	（だが・ですが）の例文4です。		（だが・ですが）の例文4です。	But, Still, However, Nevertheless	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だが・ですが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だが・ですが	（だが・ですが）の例文5です。		（だが・ですが）の例文5です。	But, Still, However, Nevertheless	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だが・ですが scaffold:pending-content scaffold:pending-audio source:bunpro

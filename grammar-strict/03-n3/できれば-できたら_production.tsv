@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using できれば・できたら	（できれば・できたら）の例文1です。		（できれば・できたら）の例文1です。	If possible	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:できれば-できたら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using できれば・できたら	（できれば・できたら）の例文2です。		（できれば・できたら）の例文2です。	If possible	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:できれば-できたら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using できれば・できたら	（できれば・できたら）の例文3です。		（できれば・できたら）の例文3です。	If possible	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:できれば-できたら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using できれば・できたら	（できれば・できたら）の例文4です。		（できれば・できたら）の例文4です。	If possible	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:できれば-できたら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using できれば・できたら	（できれば・できたら）の例文5です。		（できれば・できたら）の例文5です。	If possible	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:できれば-できたら scaffold:pending-content scaffold:pending-audio source:bunpro

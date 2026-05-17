@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Verb[て] + B	（Verb[て] + B）の例文1です。		（Verb[て] + B）の例文1です。	Non-sequence, And, But (Contrast), Parallel action/state	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[て] + B	（Verb[て] + B）の例文2です。		（Verb[て] + B）の例文2です。	Non-sequence, And, But (Contrast), Parallel action/state	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[て] + B	（Verb[て] + B）の例文3です。		（Verb[て] + B）の例文3です。	Non-sequence, And, But (Contrast), Parallel action/state	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[て] + B	（Verb[て] + B）の例文4です。		（Verb[て] + B）の例文4です。	Non-sequence, And, But (Contrast), Parallel action/state	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[て] + B	（Verb[て] + B）の例文5です。		（Verb[て] + B）の例文5です。	Non-sequence, And, But (Contrast), Parallel action/state	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b scaffold:pending-content scaffold:pending-audio source:bunpro

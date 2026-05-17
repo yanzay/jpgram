@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using はたして	（はたして）の例文1です。		（はたして）の例文1です。	Wonder if ~ (really)?, Wonder how ~ (actually)?, Sure enough, As expected	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はたして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using はたして	（はたして）の例文2です。		（はたして）の例文2です。	Wonder if ~ (really)?, Wonder how ~ (actually)?, Sure enough, As expected	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はたして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using はたして	（はたして）の例文3です。		（はたして）の例文3です。	Wonder if ~ (really)?, Wonder how ~ (actually)?, Sure enough, As expected	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はたして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using はたして	（はたして）の例文4です。		（はたして）の例文4です。	Wonder if ~ (really)?, Wonder how ~ (actually)?, Sure enough, As expected	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はたして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using はたして	（はたして）の例文5です。		（はたして）の例文5です。	Wonder if ~ (really)?, Wonder how ~ (actually)?, Sure enough, As expected	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はたして scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using っぱなし	（っぱなし）の例文1です。		（っぱなし）の例文1です。	Leaving something in a certain state, Left as is, Keep on -ing	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っぱなし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using っぱなし	（っぱなし）の例文2です。		（っぱなし）の例文2です。	Leaving something in a certain state, Left as is, Keep on -ing	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っぱなし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using っぱなし	（っぱなし）の例文3です。		（っぱなし）の例文3です。	Leaving something in a certain state, Left as is, Keep on -ing	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っぱなし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using っぱなし	（っぱなし）の例文4です。		（っぱなし）の例文4です。	Leaving something in a certain state, Left as is, Keep on -ing	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っぱなし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using っぱなし	（っぱなし）の例文5です。		（っぱなし）の例文5です。	Leaving something in a certain state, Left as is, Keep on -ing	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っぱなし scaffold:pending-content scaffold:pending-audio source:bunpro

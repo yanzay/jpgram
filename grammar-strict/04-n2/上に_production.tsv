@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 上に	（上に）の例文1です。		（上に）の例文1です。	As well, Besides, In addition to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 上に	（上に）の例文2です。		（上に）の例文2です。	As well, Besides, In addition to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 上に	（上に）の例文3です。		（上に）の例文3です。	As well, Besides, In addition to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 上に	（上に）の例文4です。		（上に）の例文4です。	As well, Besides, In addition to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 上に	（上に）の例文5です。		（上に）の例文5です。	As well, Besides, In addition to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上に scaffold:pending-content scaffold:pending-audio source:bunpro

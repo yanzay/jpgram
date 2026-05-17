@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ような気がする	（ような気がする）の例文1です。		（ような気がする）の例文1です。	Have a feeling that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ような気がする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ような気がする	（ような気がする）の例文2です。		（ような気がする）の例文2です。	Have a feeling that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ような気がする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ような気がする	（ような気がする）の例文3です。		（ような気がする）の例文3です。	Have a feeling that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ような気がする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ような気がする	（ような気がする）の例文4です。		（ような気がする）の例文4です。	Have a feeling that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ような気がする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ような気がする	（ような気がする）の例文5です。		（ような気がする）の例文5です。	Have a feeling that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ような気がする scaffold:pending-content scaffold:pending-audio source:bunpro

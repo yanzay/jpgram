@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using 真(っ)	（真(っ)）の例文1です。		（真(っ)）の例文1です。	Completely, Exactly, Right	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:真(っ) scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 真(っ)	（真(っ)）の例文2です。		（真(っ)）の例文2です。	Completely, Exactly, Right	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:真(っ) scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 真(っ)	（真(っ)）の例文3です。		（真(っ)）の例文3です。	Completely, Exactly, Right	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:真(っ) scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 真(っ)	（真(っ)）の例文4です。		（真(っ)）の例文4です。	Completely, Exactly, Right	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:真(っ) scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 真(っ)	（真(っ)）の例文5です。		（真(っ)）の例文5です。	Completely, Exactly, Right	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:真(っ) scaffold:pending-content scaffold:pending-audio source:bunpro

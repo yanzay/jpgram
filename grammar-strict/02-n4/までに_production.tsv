@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using までに	（までに）の例文1です。		（までに）の例文1です。	By ~, By the time that ~, Before ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:までに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using までに	（までに）の例文2です。		（までに）の例文2です。	By ~, By the time that ~, Before ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:までに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using までに	（までに）の例文3です。		（までに）の例文3です。	By ~, By the time that ~, Before ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:までに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using までに	（までに）の例文4です。		（までに）の例文4です。	By ~, By the time that ~, Before ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:までに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using までに	（までに）の例文5です。		（までに）の例文5です。	By ~, By the time that ~, Before ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:までに scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using 如何	（如何）の例文1です。		（如何）の例文1です。	Depending on	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:如何 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 如何	（如何）の例文2です。		（如何）の例文2です。	Depending on	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:如何 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 如何	（如何）の例文3です。		（如何）の例文3です。	Depending on	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:如何 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 如何	（如何）の例文4です。		（如何）の例文4です。	Depending on	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:如何 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 如何	（如何）の例文5です。		（如何）の例文5です。	Depending on	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:如何 scaffold:pending-content scaffold:pending-audio source:bunpro

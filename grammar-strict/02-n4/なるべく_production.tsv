@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using なるべく	（なるべく）の例文1です。		（なるべく）の例文1です。	As ~ as possible, Wherever practicable	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なるべく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なるべく	（なるべく）の例文2です。		（なるべく）の例文2です。	As ~ as possible, Wherever practicable	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なるべく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なるべく	（なるべく）の例文3です。		（なるべく）の例文3です。	As ~ as possible, Wherever practicable	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なるべく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なるべく	（なるべく）の例文4です。		（なるべく）の例文4です。	As ~ as possible, Wherever practicable	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なるべく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なるべく	（なるべく）の例文5です。		（なるべく）の例文5です。	As ~ as possible, Wherever practicable	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なるべく scaffold:pending-content scaffold:pending-audio source:bunpro

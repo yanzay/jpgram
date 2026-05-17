@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using だけに	（だけに）の例文1です。		（だけに）の例文1です。	As might be expected, Because, All the more because, It's only natural	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:だけに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だけに	（だけに）の例文2です。		（だけに）の例文2です。	As might be expected, Because, All the more because, It's only natural	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:だけに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だけに	（だけに）の例文3です。		（だけに）の例文3です。	As might be expected, Because, All the more because, It's only natural	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:だけに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だけに	（だけに）の例文4です。		（だけに）の例文4です。	As might be expected, Because, All the more because, It's only natural	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:だけに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だけに	（だけに）の例文5です。		（だけに）の例文5です。	As might be expected, Because, All the more because, It's only natural	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:だけに scaffold:pending-content scaffold:pending-audio source:bunpro

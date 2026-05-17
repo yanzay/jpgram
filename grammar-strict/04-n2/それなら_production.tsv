@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using それなら	（それなら）の例文1です。		（それなら）の例文1です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using それなら	（それなら）の例文2です。		（それなら）の例文2です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using それなら	（それなら）の例文3です。		（それなら）の例文3です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using それなら	（それなら）の例文4です。		（それなら）の例文4です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using それなら	（それなら）の例文5です。		（それなら）の例文5です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro

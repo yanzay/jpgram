@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using てくれてありがとう	（てくれてありがとう）の例文1です。		（てくれてありがとう）の例文1です。	Thank you for ~ ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てくれてありがとう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using てくれてありがとう	（てくれてありがとう）の例文2です。		（てくれてありがとう）の例文2です。	Thank you for ~ ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てくれてありがとう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using てくれてありがとう	（てくれてありがとう）の例文3です。		（てくれてありがとう）の例文3です。	Thank you for ~ ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てくれてありがとう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using てくれてありがとう	（てくれてありがとう）の例文4です。		（てくれてありがとう）の例文4です。	Thank you for ~ ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てくれてありがとう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using てくれてありがとう	（てくれてありがとう）の例文5です。		（てくれてありがとう）の例文5です。	Thank you for ~ ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てくれてありがとう scaffold:pending-content scaffold:pending-audio source:bunpro

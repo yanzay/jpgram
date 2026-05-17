@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using 飽くまで(も)	（飽くまで(も)）の例文1です。		（飽くまで(も)）の例文1です。	Just, Only, Merely, Strictly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:飽くまで-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 飽くまで(も)	（飽くまで(も)）の例文2です。		（飽くまで(も)）の例文2です。	Just, Only, Merely, Strictly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:飽くまで-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 飽くまで(も)	（飽くまで(も)）の例文3です。		（飽くまで(も)）の例文3です。	Just, Only, Merely, Strictly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:飽くまで-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 飽くまで(も)	（飽くまで(も)）の例文4です。		（飽くまで(も)）の例文4です。	Just, Only, Merely, Strictly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:飽くまで-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 飽くまで(も)	（飽くまで(も)）の例文5です。		（飽くまで(も)）の例文5です。	Just, Only, Merely, Strictly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:飽くまで-も scaffold:pending-content scaffold:pending-audio source:bunpro

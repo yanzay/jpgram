@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using １～たりとも～ない	（１～たりとも～ない）の例文1です。		（１～たりとも～ない）の例文1です。	Not even one, Not a single, No (at all)	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:１-りとも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using １～たりとも～ない	（１～たりとも～ない）の例文2です。		（１～たりとも～ない）の例文2です。	Not even one, Not a single, No (at all)	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:１-りとも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using １～たりとも～ない	（１～たりとも～ない）の例文3です。		（１～たりとも～ない）の例文3です。	Not even one, Not a single, No (at all)	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:１-りとも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using １～たりとも～ない	（１～たりとも～ない）の例文4です。		（１～たりとも～ない）の例文4です。	Not even one, Not a single, No (at all)	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:１-りとも-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using １～たりとも～ない	（１～たりとも～ない）の例文5です。		（１～たりとも～ない）の例文5です。	Not even one, Not a single, No (at all)	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:１-りとも-ない scaffold:pending-content scaffold:pending-audio source:bunpro

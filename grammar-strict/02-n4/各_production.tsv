@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using 各	（各）の例文1です。		（各）の例文1です。	Each, Every, Respective, Various	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:各 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 各	（各）の例文2です。		（各）の例文2です。	Each, Every, Respective, Various	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:各 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 各	（各）の例文3です。		（各）の例文3です。	Each, Every, Respective, Various	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:各 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 各	（各）の例文4です。		（各）の例文4です。	Each, Every, Respective, Various	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:各 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 各	（各）の例文5です。		（各）の例文5です。	Each, Every, Respective, Various	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:各 scaffold:pending-content scaffold:pending-audio source:bunpro

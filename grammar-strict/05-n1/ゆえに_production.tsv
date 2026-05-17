@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using ゆえに	（ゆえに）の例文1です。		（ゆえに）の例文1です。	Because, The reason is, Due to, Therefore, So	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ゆえに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ゆえに	（ゆえに）の例文2です。		（ゆえに）の例文2です。	Because, The reason is, Due to, Therefore, So	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ゆえに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ゆえに	（ゆえに）の例文3です。		（ゆえに）の例文3です。	Because, The reason is, Due to, Therefore, So	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ゆえに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ゆえに	（ゆえに）の例文4です。		（ゆえに）の例文4です。	Because, The reason is, Due to, Therefore, So	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ゆえに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ゆえに	（ゆえに）の例文5です。		（ゆえに）の例文5です。	Because, The reason is, Due to, Therefore, So	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ゆえに scaffold:pending-content scaffold:pending-audio source:bunpro

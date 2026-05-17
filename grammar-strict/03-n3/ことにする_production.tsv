@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ことにする	（ことにする）の例文1です。		（ことにする）の例文1です。	To decide on, Have decided to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことにする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ことにする	（ことにする）の例文2です。		（ことにする）の例文2です。	To decide on, Have decided to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことにする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ことにする	（ことにする）の例文3です。		（ことにする）の例文3です。	To decide on, Have decided to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことにする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ことにする	（ことにする）の例文4です。		（ことにする）の例文4です。	To decide on, Have decided to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことにする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ことにする	（ことにする）の例文5です。		（ことにする）の例文5です。	To decide on, Have decided to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことにする scaffold:pending-content scaffold:pending-audio source:bunpro

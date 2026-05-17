@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using はともかく	（はともかく）の例文1です。		（はともかく）の例文1です。	Setting aside, Apart from	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はともかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using はともかく	（はともかく）の例文2です。		（はともかく）の例文2です。	Setting aside, Apart from	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はともかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using はともかく	（はともかく）の例文3です。		（はともかく）の例文3です。	Setting aside, Apart from	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はともかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using はともかく	（はともかく）の例文4です。		（はともかく）の例文4です。	Setting aside, Apart from	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はともかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using はともかく	（はともかく）の例文5です。		（はともかく）の例文5です。	Setting aside, Apart from	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:はともかく scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using Particle + の	（Particle + の）の例文1です。		（Particle + の）の例文1です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Particle + の	（Particle + の）の例文2です。		（Particle + の）の例文2です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Particle + の	（Particle + の）の例文3です。		（Particle + の）の例文3です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Particle + の	（Particle + の）の例文4です。		（Particle + の）の例文4です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Particle + の	（Particle + の）の例文5です。		（Particle + の）の例文5です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro

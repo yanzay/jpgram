@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using やすい	（やすい）の例文1です。		（やすい）の例文1です。	Easy to, Likely to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:やすい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using やすい	（やすい）の例文2です。		（やすい）の例文2です。	Easy to, Likely to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:やすい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using やすい	（やすい）の例文3です。		（やすい）の例文3です。	Easy to, Likely to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:やすい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using やすい	（やすい）の例文4です。		（やすい）の例文4です。	Easy to, Likely to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:やすい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using やすい	（やすい）の例文5です。		（やすい）の例文5です。	Easy to, Likely to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:やすい scaffold:pending-content scaffold:pending-audio source:bunpro

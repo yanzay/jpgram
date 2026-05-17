@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ～は～で有名	（～は～で有名）の例文1です。		（～は～で有名）の例文1です。	Is famous for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-で有名 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～は～で有名	（～は～で有名）の例文2です。		（～は～で有名）の例文2です。	Is famous for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-で有名 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～は～で有名	（～は～で有名）の例文3です。		（～は～で有名）の例文3です。	Is famous for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-で有名 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～は～で有名	（～は～で有名）の例文4です。		（～は～で有名）の例文4です。	Is famous for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-で有名 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～は～で有名	（～は～で有名）の例文5です。		（～は～で有名）の例文5です。	Is famous for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-で有名 scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using に決まっている	（に決まっている）の例文1です。		（に決まっている）の例文1です。	Surely, Bound to, Certainly, Be decided	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に決まっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に決まっている	（に決まっている）の例文2です。		（に決まっている）の例文2です。	Surely, Bound to, Certainly, Be decided	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に決まっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に決まっている	（に決まっている）の例文3です。		（に決まっている）の例文3です。	Surely, Bound to, Certainly, Be decided	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に決まっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に決まっている	（に決まっている）の例文4です。		（に決まっている）の例文4です。	Surely, Bound to, Certainly, Be decided	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に決まっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に決まっている	（に決まっている）の例文5です。		（に決まっている）の例文5です。	Surely, Bound to, Certainly, Be decided	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に決まっている scaffold:pending-content scaffold:pending-audio source:bunpro

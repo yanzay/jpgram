@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ついでに	（ついでに）の例文1です。		（ついでに）の例文1です。	While you are at it, On the occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ついでに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ついでに	（ついでに）の例文2です。		（ついでに）の例文2です。	While you are at it, On the occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ついでに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ついでに	（ついでに）の例文3です。		（ついでに）の例文3です。	While you are at it, On the occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ついでに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ついでに	（ついでに）の例文4です。		（ついでに）の例文4です。	While you are at it, On the occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ついでに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ついでに	（ついでに）の例文5です。		（ついでに）の例文5です。	While you are at it, On the occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ついでに scaffold:pending-content scaffold:pending-audio source:bunpro

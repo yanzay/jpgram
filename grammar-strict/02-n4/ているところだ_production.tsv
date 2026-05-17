@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ているところだ	（ているところだ）の例文1です。		（ているところだ）の例文1です。	In the process of doing ~ right now/at this moment	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ているところだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ているところだ	（ているところだ）の例文2です。		（ているところだ）の例文2です。	In the process of doing ~ right now/at this moment	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ているところだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ているところだ	（ているところだ）の例文3です。		（ているところだ）の例文3です。	In the process of doing ~ right now/at this moment	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ているところだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ているところだ	（ているところだ）の例文4です。		（ているところだ）の例文4です。	In the process of doing ~ right now/at this moment	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ているところだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ているところだ	（ているところだ）の例文5です。		（ているところだ）の例文5です。	In the process of doing ~ right now/at this moment	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ているところだ scaffold:pending-content scaffold:pending-audio source:bunpro

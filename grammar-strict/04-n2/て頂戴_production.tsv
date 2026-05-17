@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ～て頂戴	（～て頂戴）の例文1です。		（～て頂戴）の例文1です。	Please do	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て頂戴 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～て頂戴	（～て頂戴）の例文2です。		（～て頂戴）の例文2です。	Please do	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て頂戴 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～て頂戴	（～て頂戴）の例文3です。		（～て頂戴）の例文3です。	Please do	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て頂戴 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～て頂戴	（～て頂戴）の例文4です。		（～て頂戴）の例文4です。	Please do	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て頂戴 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～て頂戴	（～て頂戴）の例文5です。		（～て頂戴）の例文5です。	Please do	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て頂戴 scaffold:pending-content scaffold:pending-audio source:bunpro

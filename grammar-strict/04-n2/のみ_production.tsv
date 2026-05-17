@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using のみ	（のみ）の例文1です。		（のみ）の例文1です。	Only (formal)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using のみ	（のみ）の例文2です。		（のみ）の例文2です。	Only (formal)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using のみ	（のみ）の例文3です。		（のみ）の例文3です。	Only (formal)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using のみ	（のみ）の例文4です。		（のみ）の例文4です。	Only (formal)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のみ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using のみ	（のみ）の例文5です。		（のみ）の例文5です。	Only (formal)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のみ scaffold:pending-content scaffold:pending-audio source:bunpro

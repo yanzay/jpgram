@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using あまりに	（あまりに）の例文1です。		（あまりに）の例文1です。	So much...that, (Way) too...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あまりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using あまりに	（あまりに）の例文2です。		（あまりに）の例文2です。	So much...that, (Way) too...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あまりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using あまりに	（あまりに）の例文3です。		（あまりに）の例文3です。	So much...that, (Way) too...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あまりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using あまりに	（あまりに）の例文4です。		（あまりに）の例文4です。	So much...that, (Way) too...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あまりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using あまりに	（あまりに）の例文5です。		（あまりに）の例文5です。	So much...that, (Way) too...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あまりに scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using たら〜で	（たら〜で）の例文1です。		（たら〜で）の例文1です。	Even if, If	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:たら-で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using たら〜で	（たら〜で）の例文2です。		（たら〜で）の例文2です。	Even if, If	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:たら-で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using たら〜で	（たら〜で）の例文3です。		（たら〜で）の例文3です。	Even if, If	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:たら-で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using たら〜で	（たら〜で）の例文4です。		（たら〜で）の例文4です。	Even if, If	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:たら-で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using たら〜で	（たら〜で）の例文5です。		（たら〜で）の例文5です。	Even if, If	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:たら-で scaffold:pending-content scaffold:pending-audio source:bunpro

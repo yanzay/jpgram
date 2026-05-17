@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using は～くらいです	（は～くらいです）の例文1です。		（は～くらいです）の例文1です。	About the only, To the extent that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-くらいです scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using は～くらいです	（は～くらいです）の例文2です。		（は～くらいです）の例文2です。	About the only, To the extent that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-くらいです scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using は～くらいです	（は～くらいです）の例文3です。		（は～くらいです）の例文3です。	About the only, To the extent that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-くらいです scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using は～くらいです	（は～くらいです）の例文4です。		（は～くらいです）の例文4です。	About the only, To the extent that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-くらいです scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using は～くらいです	（は～くらいです）の例文5です。		（は～くらいです）の例文5です。	About the only, To the extent that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-くらいです scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using にて	（にて）の例文1です。		（にて）の例文1です。	In, At, With, Using, By	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using にて	（にて）の例文2です。		（にて）の例文2です。	In, At, With, Using, By	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using にて	（にて）の例文3です。		（にて）の例文3です。	In, At, With, Using, By	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using にて	（にて）の例文4です。		（にて）の例文4です。	In, At, With, Using, By	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using にて	（にて）の例文5です。		（にて）の例文5です。	In, At, With, Using, By	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:にて scaffold:pending-content scaffold:pending-audio source:bunpro

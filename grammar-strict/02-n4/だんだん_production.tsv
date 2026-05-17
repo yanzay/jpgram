@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using だんだん	（だんだん）の例文1です。		（だんだん）の例文1です。	Gradually, Little by little, Step by step	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だんだん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だんだん	（だんだん）の例文2です。		（だんだん）の例文2です。	Gradually, Little by little, Step by step	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だんだん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だんだん	（だんだん）の例文3です。		（だんだん）の例文3です。	Gradually, Little by little, Step by step	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だんだん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だんだん	（だんだん）の例文4です。		（だんだん）の例文4です。	Gradually, Little by little, Step by step	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だんだん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だんだん	（だんだん）の例文5です。		（だんだん）の例文5です。	Gradually, Little by little, Step by step	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だんだん scaffold:pending-content scaffold:pending-audio source:bunpro

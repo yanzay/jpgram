@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using おわる	（おわる）の例文1です。		（おわる）の例文1です。	To finish, To end	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:おわる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using おわる	（おわる）の例文2です。		（おわる）の例文2です。	To finish, To end	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:おわる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using おわる	（おわる）の例文3です。		（おわる）の例文3です。	To finish, To end	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:おわる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using おわる	（おわる）の例文4です。		（おわる）の例文4です。	To finish, To end	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:おわる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using おわる	（おわる）の例文5です。		（おわる）の例文5です。	To finish, To end	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:おわる scaffold:pending-content scaffold:pending-audio source:bunpro

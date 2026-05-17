@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using と言える	（と言える）の例文1です。		（と言える）の例文1です。	Would or could say that..., Can probably say that..., Fair to say that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using と言える	（と言える）の例文2です。		（と言える）の例文2です。	Would or could say that..., Can probably say that..., Fair to say that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using と言える	（と言える）の例文3です。		（と言える）の例文3です。	Would or could say that..., Can probably say that..., Fair to say that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using と言える	（と言える）の例文4です。		（と言える）の例文4です。	Would or could say that..., Can probably say that..., Fair to say that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using と言える	（と言える）の例文5です。		（と言える）の例文5です。	Would or could say that..., Can probably say that..., Fair to say that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言える scaffold:pending-content scaffold:pending-audio source:bunpro

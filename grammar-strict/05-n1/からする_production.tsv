@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using からする	（からする）の例文1です。		（からする）の例文1です。	About, Or more, Over, Starts at	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:からする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using からする	（からする）の例文2です。		（からする）の例文2です。	About, Or more, Over, Starts at	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:からする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using からする	（からする）の例文3です。		（からする）の例文3です。	About, Or more, Over, Starts at	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:からする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using からする	（からする）の例文4です。		（からする）の例文4です。	About, Or more, Over, Starts at	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:からする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using からする	（からする）の例文5です。		（からする）の例文5です。	About, Or more, Over, Starts at	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:からする scaffold:pending-content scaffold:pending-audio source:bunpro

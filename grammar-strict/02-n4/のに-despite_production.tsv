@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using のに 	（のに ）の例文1です。		（のに ）の例文1です。	Despite, Although, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:のに-despite scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using のに 	（のに ）の例文2です。		（のに ）の例文2です。	Despite, Although, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:のに-despite scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using のに 	（のに ）の例文3です。		（のに ）の例文3です。	Despite, Although, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:のに-despite scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using のに 	（のに ）の例文4です。		（のに ）の例文4です。	Despite, Although, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:のに-despite scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using のに 	（のに ）の例文5です。		（のに ）の例文5です。	Despite, Although, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:のに-despite scaffold:pending-content scaffold:pending-audio source:bunpro

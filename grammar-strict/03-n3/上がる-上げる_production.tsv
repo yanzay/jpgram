@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 上がる・上げる	（上がる・上げる）の例文1です。		（上がる・上げる）の例文1です。	Something is finished, To finish something, Something has come to an end, To do something completely, To do something through	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 上がる・上げる	（上がる・上げる）の例文2です。		（上がる・上げる）の例文2です。	Something is finished, To finish something, Something has come to an end, To do something completely, To do something through	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 上がる・上げる	（上がる・上げる）の例文3です。		（上がる・上げる）の例文3です。	Something is finished, To finish something, Something has come to an end, To do something completely, To do something through	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 上がる・上げる	（上がる・上げる）の例文4です。		（上がる・上げる）の例文4です。	Something is finished, To finish something, Something has come to an end, To do something completely, To do something through	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 上がる・上げる	（上がる・上げる）の例文5です。		（上がる・上げる）の例文5です。	Something is finished, To finish something, Something has come to an end, To do something completely, To do something through	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる scaffold:pending-content scaffold:pending-audio source:bunpro

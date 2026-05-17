@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using がたい	（がたい）の例文1です。		（がたい）の例文1です。	Hard to, Difficult to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がたい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using がたい	（がたい）の例文2です。		（がたい）の例文2です。	Hard to, Difficult to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がたい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using がたい	（がたい）の例文3です。		（がたい）の例文3です。	Hard to, Difficult to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がたい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using がたい	（がたい）の例文4です。		（がたい）の例文4です。	Hard to, Difficult to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がたい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using がたい	（がたい）の例文5です。		（がたい）の例文5です。	Hard to, Difficult to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がたい scaffold:pending-content scaffold:pending-audio source:bunpro

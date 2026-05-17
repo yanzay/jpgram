@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using が気になる	（が気になる）の例文1です。		（が気になる）の例文1です。	To be interested in, To be concerned about	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:が気になる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using が気になる	（が気になる）の例文2です。		（が気になる）の例文2です。	To be interested in, To be concerned about	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:が気になる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using が気になる	（が気になる）の例文3です。		（が気になる）の例文3です。	To be interested in, To be concerned about	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:が気になる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using が気になる	（が気になる）の例文4です。		（が気になる）の例文4です。	To be interested in, To be concerned about	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:が気になる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using が気になる	（が気になる）の例文5です。		（が気になる）の例文5です。	To be interested in, To be concerned about	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:が気になる scaffold:pending-content scaffold:pending-audio source:bunpro

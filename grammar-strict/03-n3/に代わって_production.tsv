@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using に代わって	（に代わって）の例文1です。		（に代わって）の例文1です。	In place of, On behalf of, To succeed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に代わって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に代わって	（に代わって）の例文2です。		（に代わって）の例文2です。	In place of, On behalf of, To succeed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に代わって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に代わって	（に代わって）の例文3です。		（に代わって）の例文3です。	In place of, On behalf of, To succeed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に代わって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に代わって	（に代わって）の例文4です。		（に代わって）の例文4です。	In place of, On behalf of, To succeed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に代わって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に代わって	（に代わって）の例文5です。		（に代わって）の例文5です。	In place of, On behalf of, To succeed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に代わって scaffold:pending-content scaffold:pending-audio source:bunpro

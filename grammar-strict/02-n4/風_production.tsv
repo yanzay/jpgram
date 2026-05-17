@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using 風	（風）の例文1です。		（風）の例文1です。	-style, Way, Fashion	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:風 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 風	（風）の例文2です。		（風）の例文2です。	-style, Way, Fashion	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:風 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 風	（風）の例文3です。		（風）の例文3です。	-style, Way, Fashion	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:風 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 風	（風）の例文4です。		（風）の例文4です。	-style, Way, Fashion	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:風 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 風	（風）の例文5です。		（風）の例文5です。	-style, Way, Fashion	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:風 scaffold:pending-content scaffold:pending-audio source:bunpro

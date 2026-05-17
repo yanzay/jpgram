@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ねばならない	（ねばならない）の例文1です。		（ねばならない）の例文1です。	Must, Have to, Should	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ねばならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ねばならない	（ねばならない）の例文2です。		（ねばならない）の例文2です。	Must, Have to, Should	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ねばならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ねばならない	（ねばならない）の例文3です。		（ねばならない）の例文3です。	Must, Have to, Should	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ねばならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ねばならない	（ねばならない）の例文4です。		（ねばならない）の例文4です。	Must, Have to, Should	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ねばならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ねばならない	（ねばならない）の例文5です。		（ねばならない）の例文5です。	Must, Have to, Should	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ねばならない scaffold:pending-content scaffold:pending-audio source:bunpro

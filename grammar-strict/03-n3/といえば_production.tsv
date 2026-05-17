@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using といえば	（といえば）の例文1です。		（といえば）の例文1です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using といえば	（といえば）の例文2です。		（といえば）の例文2です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using といえば	（といえば）の例文3です。		（といえば）の例文3です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using といえば	（といえば）の例文4です。		（といえば）の例文4です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using といえば	（といえば）の例文5です。		（といえば）の例文5です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro

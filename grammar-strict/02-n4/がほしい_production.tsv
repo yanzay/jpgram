@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using がほしい	（がほしい）の例文1です。		（がほしい）の例文1です。	To want something, To be in need of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using がほしい	（がほしい）の例文2です。		（がほしい）の例文2です。	To want something, To be in need of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using がほしい	（がほしい）の例文3です。		（がほしい）の例文3です。	To want something, To be in need of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using がほしい	（がほしい）の例文4です。		（がほしい）の例文4です。	To want something, To be in need of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using がほしい	（がほしい）の例文5です。		（がほしい）の例文5です。	To want something, To be in need of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がほしい scaffold:pending-content scaffold:pending-audio source:bunpro

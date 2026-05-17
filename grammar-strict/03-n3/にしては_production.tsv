@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using にしては	（にしては）の例文1です。		（にしては）の例文1です。	(Even) considering, (Even) for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using にしては	（にしては）の例文2です。		（にしては）の例文2です。	(Even) considering, (Even) for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using にしては	（にしては）の例文3です。		（にしては）の例文3です。	(Even) considering, (Even) for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using にしては	（にしては）の例文4です。		（にしては）の例文4です。	(Even) considering, (Even) for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using にしては	（にしては）の例文5です。		（にしては）の例文5です。	(Even) considering, (Even) for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしては scaffold:pending-content scaffold:pending-audio source:bunpro

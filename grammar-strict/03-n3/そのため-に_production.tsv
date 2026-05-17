@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using そのため(に)	（そのため(に)）の例文1です。		（そのため(に)）の例文1です。	For that reason, Because of that, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そのため-に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そのため(に)	（そのため(に)）の例文2です。		（そのため(に)）の例文2です。	For that reason, Because of that, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そのため-に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そのため(に)	（そのため(に)）の例文3です。		（そのため(に)）の例文3です。	For that reason, Because of that, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そのため-に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そのため(に)	（そのため(に)）の例文4です。		（そのため(に)）の例文4です。	For that reason, Because of that, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そのため-に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そのため(に)	（そのため(に)）の例文5です。		（そのため(に)）の例文5です。	For that reason, Because of that, To that end	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そのため-に scaffold:pending-content scaffold:pending-audio source:bunpro

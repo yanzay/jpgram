@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using としては	（としては）の例文1です。		（としては）の例文1です。	As a, For a, As for	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:としては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using としては	（としては）の例文2です。		（としては）の例文2です。	As a, For a, As for	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:としては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using としては	（としては）の例文3です。		（としては）の例文3です。	As a, For a, As for	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:としては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using としては	（としては）の例文4です。		（としては）の例文4です。	As a, For a, As for	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:としては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using としては	（としては）の例文5です。		（としては）の例文5です。	As a, For a, As for	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:としては scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ごとに	（ごとに）の例文1です。		（ごとに）の例文1です。	Each, Every	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごとに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ごとに	（ごとに）の例文2です。		（ごとに）の例文2です。	Each, Every	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごとに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ごとに	（ごとに）の例文3です。		（ごとに）の例文3です。	Each, Every	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごとに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ごとに	（ごとに）の例文4です。		（ごとに）の例文4です。	Each, Every	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごとに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ごとに	（ごとに）の例文5です。		（ごとに）の例文5です。	Each, Every	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごとに scaffold:pending-content scaffold:pending-audio source:bunpro

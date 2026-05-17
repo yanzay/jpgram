@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using に先立ち	（に先立ち）の例文1です。		（に先立ち）の例文1です。	Before, Prior to, In preference over	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に先立ち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に先立ち	（に先立ち）の例文2です。		（に先立ち）の例文2です。	Before, Prior to, In preference over	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に先立ち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に先立ち	（に先立ち）の例文3です。		（に先立ち）の例文3です。	Before, Prior to, In preference over	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に先立ち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に先立ち	（に先立ち）の例文4です。		（に先立ち）の例文4です。	Before, Prior to, In preference over	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に先立ち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に先立ち	（に先立ち）の例文5です。		（に先立ち）の例文5です。	Before, Prior to, In preference over	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に先立ち scaffold:pending-content scaffold:pending-audio source:bunpro

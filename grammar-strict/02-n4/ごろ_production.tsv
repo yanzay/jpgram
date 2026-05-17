@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ごろ	（ごろ）の例文1です。		（ごろ）の例文1です。	Around, About	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ごろ	（ごろ）の例文2です。		（ごろ）の例文2です。	Around, About	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ごろ	（ごろ）の例文3です。		（ごろ）の例文3です。	Around, About	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ごろ	（ごろ）の例文4です。		（ごろ）の例文4です。	Around, About	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごろ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ごろ	（ごろ）の例文5です。		（ごろ）の例文5です。	Around, About	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ごろ scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 決して〜ない	（決して〜ない）の例文1です。		（決して〜ない）の例文1です。	Never, By no means	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:決して-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 決して〜ない	（決して〜ない）の例文2です。		（決して〜ない）の例文2です。	Never, By no means	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:決して-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 決して〜ない	（決して〜ない）の例文3です。		（決して〜ない）の例文3です。	Never, By no means	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:決して-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 決して〜ない	（決して〜ない）の例文4です。		（決して〜ない）の例文4です。	Never, By no means	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:決して-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 決して〜ない	（決して〜ない）の例文5です。		（決して〜ない）の例文5です。	Never, By no means	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:決して-ない scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using ものとする	（ものとする）の例文1です。		（ものとする）の例文1です。	Shall, To assume, To suppose, To consider	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ものとする	（ものとする）の例文2です。		（ものとする）の例文2です。	Shall, To assume, To suppose, To consider	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ものとする	（ものとする）の例文3です。		（ものとする）の例文3です。	Shall, To assume, To suppose, To consider	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ものとする	（ものとする）の例文4です。		（ものとする）の例文4です。	Shall, To assume, To suppose, To consider	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ものとする	（ものとする）の例文5です。		（ものとする）の例文5です。	Shall, To assume, To suppose, To consider	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものとする scaffold:pending-content scaffold:pending-audio source:bunpro

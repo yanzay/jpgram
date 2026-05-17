@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 別に〜ない	（別に〜ない）の例文1です。		（別に〜ない）の例文1です。	Not really, Not particularly, It's not like...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:別に-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 別に〜ない	（別に〜ない）の例文2です。		（別に〜ない）の例文2です。	Not really, Not particularly, It's not like...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:別に-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 別に〜ない	（別に〜ない）の例文3です。		（別に〜ない）の例文3です。	Not really, Not particularly, It's not like...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:別に-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 別に〜ない	（別に〜ない）の例文4です。		（別に〜ない）の例文4です。	Not really, Not particularly, It's not like...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:別に-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 別に〜ない	（別に〜ない）の例文5です。		（別に〜ない）の例文5です。	Not really, Not particularly, It's not like...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:別に-ない scaffold:pending-content scaffold:pending-audio source:bunpro

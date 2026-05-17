@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using いがい	（いがい）の例文1です。		（いがい）の例文1です。	Except・besides, Other than, With the exception of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:いがい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using いがい	（いがい）の例文2です。		（いがい）の例文2です。	Except・besides, Other than, With the exception of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:いがい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using いがい	（いがい）の例文3です。		（いがい）の例文3です。	Except・besides, Other than, With the exception of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:いがい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using いがい	（いがい）の例文4です。		（いがい）の例文4です。	Except・besides, Other than, With the exception of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:いがい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using いがい	（いがい）の例文5です。		（いがい）の例文5です。	Except・besides, Other than, With the exception of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:いがい scaffold:pending-content scaffold:pending-audio source:bunpro

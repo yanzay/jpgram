@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 何といっても	（何といっても）の例文1です。		（何といっても）の例文1です。	By any account, All the same, No doubt	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:何といっても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 何といっても	（何といっても）の例文2です。		（何といっても）の例文2です。	By any account, All the same, No doubt	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:何といっても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 何といっても	（何といっても）の例文3です。		（何といっても）の例文3です。	By any account, All the same, No doubt	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:何といっても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 何といっても	（何といっても）の例文4です。		（何といっても）の例文4です。	By any account, All the same, No doubt	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:何といっても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 何といっても	（何といっても）の例文5です。		（何といっても）の例文5です。	By any account, All the same, No doubt	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:何といっても scaffold:pending-content scaffold:pending-audio source:bunpro

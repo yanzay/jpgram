@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using たまえ	（たまえ）の例文1です。		（たまえ）の例文1です。	(Please) do!, Ask to, Beg to, (Order somebody to do something)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:たまえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using たまえ	（たまえ）の例文2です。		（たまえ）の例文2です。	(Please) do!, Ask to, Beg to, (Order somebody to do something)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:たまえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using たまえ	（たまえ）の例文3です。		（たまえ）の例文3です。	(Please) do!, Ask to, Beg to, (Order somebody to do something)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:たまえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using たまえ	（たまえ）の例文4です。		（たまえ）の例文4です。	(Please) do!, Ask to, Beg to, (Order somebody to do something)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:たまえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using たまえ	（たまえ）の例文5です。		（たまえ）の例文5です。	(Please) do!, Ask to, Beg to, (Order somebody to do something)	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:たまえ scaffold:pending-content scaffold:pending-audio source:bunpro

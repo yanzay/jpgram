@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using んだって	（んだって）の例文1です。		（んだって）の例文1です。	I heard that, He or She said that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んだって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using んだって	（んだって）の例文2です。		（んだって）の例文2です。	I heard that, He or She said that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んだって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using んだって	（んだって）の例文3です。		（んだって）の例文3です。	I heard that, He or She said that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んだって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using んだって	（んだって）の例文4です。		（んだって）の例文4です。	I heard that, He or She said that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んだって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using んだって	（んだって）の例文5です。		（んだって）の例文5です。	I heard that, He or She said that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んだって scaffold:pending-content scaffold:pending-audio source:bunpro

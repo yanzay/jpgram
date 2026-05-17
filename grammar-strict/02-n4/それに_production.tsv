@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using それに	（それに）の例文1です。		（それに）の例文1です。	And, Besides, Moreover, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using それに	（それに）の例文2です。		（それに）の例文2です。	And, Besides, Moreover, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using それに	（それに）の例文3です。		（それに）の例文3です。	And, Besides, Moreover, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using それに	（それに）の例文4です。		（それに）の例文4です。	And, Besides, Moreover, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using それに	（それに）の例文5です。		（それに）の例文5です。	And, Besides, Moreover, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それに scaffold:pending-content scaffold:pending-audio source:bunpro

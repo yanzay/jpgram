@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 最中に	（最中に）の例文1です。		（最中に）の例文1です。	In the middle of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:最中に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 最中に	（最中に）の例文2です。		（最中に）の例文2です。	In the middle of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:最中に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 最中に	（最中に）の例文3です。		（最中に）の例文3です。	In the middle of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:最中に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 最中に	（最中に）の例文4です。		（最中に）の例文4です。	In the middle of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:最中に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 最中に	（最中に）の例文5です。		（最中に）の例文5です。	In the middle of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:最中に scaffold:pending-content scaffold:pending-audio source:bunpro

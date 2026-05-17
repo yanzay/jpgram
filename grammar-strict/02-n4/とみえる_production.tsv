@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using とみえる	（とみえる）の例文1です。		（とみえる）の例文1です。	It seems that, It can be deduced, One can conclude that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とみえる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using とみえる	（とみえる）の例文2です。		（とみえる）の例文2です。	It seems that, It can be deduced, One can conclude that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とみえる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using とみえる	（とみえる）の例文3です。		（とみえる）の例文3です。	It seems that, It can be deduced, One can conclude that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とみえる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using とみえる	（とみえる）の例文4です。		（とみえる）の例文4です。	It seems that, It can be deduced, One can conclude that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とみえる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using とみえる	（とみえる）の例文5です。		（とみえる）の例文5です。	It seems that, It can be deduced, One can conclude that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とみえる scaffold:pending-content scaffold:pending-audio source:bunpro

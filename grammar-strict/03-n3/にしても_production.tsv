@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using にしても	（にしても）の例文1です。		（にしても）の例文1です。	Even though, Even if, Even when, Also	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using にしても	（にしても）の例文2です。		（にしても）の例文2です。	Even though, Even if, Even when, Also	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using にしても	（にしても）の例文3です。		（にしても）の例文3です。	Even though, Even if, Even when, Also	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using にしても	（にしても）の例文4です。		（にしても）の例文4です。	Even though, Even if, Even when, Also	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using にしても	（にしても）の例文5です。		（にしても）の例文5です。	Even though, Even if, Even when, Also	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:にしても scaffold:pending-content scaffold:pending-audio source:bunpro

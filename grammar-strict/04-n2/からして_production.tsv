@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using からして	（からして）の例文1です。		（からして）の例文1です。	Even..., Judging from, Based on	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:からして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using からして	（からして）の例文2です。		（からして）の例文2です。	Even..., Judging from, Based on	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:からして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using からして	（からして）の例文3です。		（からして）の例文3です。	Even..., Judging from, Based on	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:からして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using からして	（からして）の例文4です。		（からして）の例文4です。	Even..., Judging from, Based on	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:からして scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using からして	（からして）の例文5です。		（からして）の例文5です。	Even..., Judging from, Based on	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:からして scaffold:pending-content scaffold:pending-audio source:bunpro

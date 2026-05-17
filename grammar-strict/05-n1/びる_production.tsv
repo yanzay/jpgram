@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using びる	（びる）の例文1です。		（びる）の例文1です。	-like, Looking, Feeling, With an air of, To become	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:びる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using びる	（びる）の例文2です。		（びる）の例文2です。	-like, Looking, Feeling, With an air of, To become	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:びる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using びる	（びる）の例文3です。		（びる）の例文3です。	-like, Looking, Feeling, With an air of, To become	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:びる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using びる	（びる）の例文4です。		（びる）の例文4です。	-like, Looking, Feeling, With an air of, To become	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:びる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using びる	（びる）の例文5です。		（びる）の例文5です。	-like, Looking, Feeling, With an air of, To become	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:びる scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ～に値する	（～に値する）の例文1です。		（～に値する）の例文1です。	Be worthy of, Deserving of, Amounts to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に値する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～に値する	（～に値する）の例文2です。		（～に値する）の例文2です。	Be worthy of, Deserving of, Amounts to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に値する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～に値する	（～に値する）の例文3です。		（～に値する）の例文3です。	Be worthy of, Deserving of, Amounts to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に値する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～に値する	（～に値する）の例文4です。		（～に値する）の例文4です。	Be worthy of, Deserving of, Amounts to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に値する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～に値する	（～に値する）の例文5です。		（～に値する）の例文5です。	Be worthy of, Deserving of, Amounts to	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:に値する scaffold:pending-content scaffold:pending-audio source:bunpro

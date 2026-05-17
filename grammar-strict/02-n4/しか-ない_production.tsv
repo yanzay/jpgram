@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using しか～ない 	（しか～ない ）の例文1です。		（しか～ない ）の例文1です。	There's only, Nothing but	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using しか～ない 	（しか～ない ）の例文2です。		（しか～ない ）の例文2です。	There's only, Nothing but	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using しか～ない 	（しか～ない ）の例文3です。		（しか～ない ）の例文3です。	There's only, Nothing but	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using しか～ない 	（しか～ない ）の例文4です。		（しか～ない ）の例文4です。	There's only, Nothing but	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using しか～ない 	（しか～ない ）の例文5です。		（しか～ない ）の例文5です。	There's only, Nothing but	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro

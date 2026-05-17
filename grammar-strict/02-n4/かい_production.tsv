@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using かい	（かい）の例文1です。		（かい）の例文1です。	Question marker	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using かい	（かい）の例文2です。		（かい）の例文2です。	Question marker	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using かい	（かい）の例文3です。		（かい）の例文3です。	Question marker	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using かい	（かい）の例文4です。		（かい）の例文4です。	Question marker	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using かい	（かい）の例文5です。		（かい）の例文5です。	Question marker	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かい scaffold:pending-content scaffold:pending-audio source:bunpro

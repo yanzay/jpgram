@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ては	（ては）の例文1です。		（ては）の例文1です。	If, With, Since, Because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ては	（ては）の例文2です。		（ては）の例文2です。	If, With, Since, Because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ては	（ては）の例文3です。		（ては）の例文3です。	If, With, Since, Because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ては	（ては）の例文4です。		（ては）の例文4です。	If, With, Since, Because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ては scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ては	（ては）の例文5です。		（ては）の例文5です。	If, With, Since, Because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ては scaffold:pending-content scaffold:pending-audio source:bunpro

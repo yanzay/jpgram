@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 〜得ない	（〜得ない）の例文1です。		（〜得ない）の例文1です。	Unable to, Cannot	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:得ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 〜得ない	（〜得ない）の例文2です。		（〜得ない）の例文2です。	Unable to, Cannot	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:得ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 〜得ない	（〜得ない）の例文3です。		（〜得ない）の例文3です。	Unable to, Cannot	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:得ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 〜得ない	（〜得ない）の例文4です。		（〜得ない）の例文4です。	Unable to, Cannot	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:得ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 〜得ない	（〜得ない）の例文5です。		（〜得ない）の例文5です。	Unable to, Cannot	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:得ない scaffold:pending-content scaffold:pending-audio source:bunpro

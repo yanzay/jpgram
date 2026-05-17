@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using Adj限りだ	（Adj限りだ）の例文1です。		（Adj限りだ）の例文1です。	Extremely, Really, Very, As ... as one can be	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:adj限りだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Adj限りだ	（Adj限りだ）の例文2です。		（Adj限りだ）の例文2です。	Extremely, Really, Very, As ... as one can be	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:adj限りだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Adj限りだ	（Adj限りだ）の例文3です。		（Adj限りだ）の例文3です。	Extremely, Really, Very, As ... as one can be	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:adj限りだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Adj限りだ	（Adj限りだ）の例文4です。		（Adj限りだ）の例文4です。	Extremely, Really, Very, As ... as one can be	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:adj限りだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Adj限りだ	（Adj限りだ）の例文5です。		（Adj限りだ）の例文5です。	Extremely, Really, Very, As ... as one can be	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:adj限りだ scaffold:pending-content scaffold:pending-audio source:bunpro

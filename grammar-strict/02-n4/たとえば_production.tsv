@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using たとえば	（たとえば）の例文1です。		（たとえば）の例文1です。	For example	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たとえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using たとえば	（たとえば）の例文2です。		（たとえば）の例文2です。	For example	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たとえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using たとえば	（たとえば）の例文3です。		（たとえば）の例文3です。	For example	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たとえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using たとえば	（たとえば）の例文4です。		（たとえば）の例文4です。	For example	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たとえば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using たとえば	（たとえば）の例文5です。		（たとえば）の例文5です。	For example	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たとえば scaffold:pending-content scaffold:pending-audio source:bunpro

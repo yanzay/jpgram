@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using Verb[volitional] + としたが	（Verb[volitional] + としたが）の例文1です。		（Verb[volitional] + としたが）の例文1です。	Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitional-としたが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[volitional] + としたが	（Verb[volitional] + としたが）の例文2です。		（Verb[volitional] + としたが）の例文2です。	Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitional-としたが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[volitional] + としたが	（Verb[volitional] + としたが）の例文3です。		（Verb[volitional] + としたが）の例文3です。	Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitional-としたが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[volitional] + としたが	（Verb[volitional] + としたが）の例文4です。		（Verb[volitional] + としたが）の例文4です。	Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitional-としたが scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[volitional] + としたが	（Verb[volitional] + としたが）の例文5です。		（Verb[volitional] + としたが）の例文5です。	Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitional-としたが scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using しかない	（しかない）の例文1です。		（しかない）の例文1です。	Have no choice but, Only, Just	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:しかない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using しかない	（しかない）の例文2です。		（しかない）の例文2です。	Have no choice but, Only, Just	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:しかない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using しかない	（しかない）の例文3です。		（しかない）の例文3です。	Have no choice but, Only, Just	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:しかない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using しかない	（しかない）の例文4です。		（しかない）の例文4です。	Have no choice but, Only, Just	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:しかない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using しかない	（しかない）の例文5です。		（しかない）の例文5です。	Have no choice but, Only, Just	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:しかない scaffold:pending-content scaffold:pending-audio source:bunpro

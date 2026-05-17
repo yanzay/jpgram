@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using どうしても	（どうしても）の例文1です。		（どうしても）の例文1です。	Regardless of, No matter what	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:どうしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using どうしても	（どうしても）の例文2です。		（どうしても）の例文2です。	Regardless of, No matter what	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:どうしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using どうしても	（どうしても）の例文3です。		（どうしても）の例文3です。	Regardless of, No matter what	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:どうしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using どうしても	（どうしても）の例文4です。		（どうしても）の例文4です。	Regardless of, No matter what	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:どうしても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using どうしても	（どうしても）の例文5です。		（どうしても）の例文5です。	Regardless of, No matter what	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:どうしても scaffold:pending-content scaffold:pending-audio source:bunpro

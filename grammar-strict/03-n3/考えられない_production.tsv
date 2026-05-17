@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 考えられない	（考えられない）の例文1です。		（考えられない）の例文1です。	Unthinkable, Inconceivable, Unimaginable, Cannot think	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:考えられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 考えられない	（考えられない）の例文2です。		（考えられない）の例文2です。	Unthinkable, Inconceivable, Unimaginable, Cannot think	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:考えられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 考えられない	（考えられない）の例文3です。		（考えられない）の例文3です。	Unthinkable, Inconceivable, Unimaginable, Cannot think	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:考えられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 考えられない	（考えられない）の例文4です。		（考えられない）の例文4です。	Unthinkable, Inconceivable, Unimaginable, Cannot think	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:考えられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 考えられない	（考えられない）の例文5です。		（考えられない）の例文5です。	Unthinkable, Inconceivable, Unimaginable, Cannot think	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:考えられない scaffold:pending-content scaffold:pending-audio source:bunpro

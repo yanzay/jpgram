@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using なんか・なんて	（なんか・なんて）の例文1です。		（なんか・なんて）の例文1です。	Such as, Things like, Emphasis	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なんか-なんて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なんか・なんて	（なんか・なんて）の例文2です。		（なんか・なんて）の例文2です。	Such as, Things like, Emphasis	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なんか-なんて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なんか・なんて	（なんか・なんて）の例文3です。		（なんか・なんて）の例文3です。	Such as, Things like, Emphasis	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なんか-なんて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なんか・なんて	（なんか・なんて）の例文4です。		（なんか・なんて）の例文4です。	Such as, Things like, Emphasis	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なんか-なんて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なんか・なんて	（なんか・なんて）の例文5です。		（なんか・なんて）の例文5です。	Such as, Things like, Emphasis	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なんか-なんて scaffold:pending-content scaffold:pending-audio source:bunpro

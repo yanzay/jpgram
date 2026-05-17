@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using てよかった	（てよかった）の例文1です。		（てよかった）の例文1です。	I'm glad that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using てよかった	（てよかった）の例文2です。		（てよかった）の例文2です。	I'm glad that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using てよかった	（てよかった）の例文3です。		（てよかった）の例文3です。	I'm glad that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using てよかった	（てよかった）の例文4です。		（てよかった）の例文4です。	I'm glad that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てよかった scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using てよかった	（てよかった）の例文5です。		（てよかった）の例文5です。	I'm glad that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てよかった scaffold:pending-content scaffold:pending-audio source:bunpro

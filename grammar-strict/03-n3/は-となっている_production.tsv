@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ～は～となっている	（～は～となっている）の例文1です。		（～は～となっている）の例文1です。	It is (has been), Have/has become, Happen to be, Has been established	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-となっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～は～となっている	（～は～となっている）の例文2です。		（～は～となっている）の例文2です。	It is (has been), Have/has become, Happen to be, Has been established	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-となっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～は～となっている	（～は～となっている）の例文3です。		（～は～となっている）の例文3です。	It is (has been), Have/has become, Happen to be, Has been established	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-となっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～は～となっている	（～は～となっている）の例文4です。		（～は～となっている）の例文4です。	It is (has been), Have/has become, Happen to be, Has been established	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-となっている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～は～となっている	（～は～となっている）の例文5です。		（～は～となっている）の例文5です。	It is (has been), Have/has become, Happen to be, Has been established	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:は-となっている scaffold:pending-content scaffold:pending-audio source:bunpro

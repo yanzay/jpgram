@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using そうにない	（そうにない）の例文1です。		（そうにない）の例文1です。	Unlikely to, Showing no signs of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:そうにない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そうにない	（そうにない）の例文2です。		（そうにない）の例文2です。	Unlikely to, Showing no signs of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:そうにない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そうにない	（そうにない）の例文3です。		（そうにない）の例文3です。	Unlikely to, Showing no signs of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:そうにない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そうにない	（そうにない）の例文4です。		（そうにない）の例文4です。	Unlikely to, Showing no signs of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:そうにない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そうにない	（そうにない）の例文5です。		（そうにない）の例文5です。	Unlikely to, Showing no signs of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:そうにない scaffold:pending-content scaffold:pending-audio source:bunpro

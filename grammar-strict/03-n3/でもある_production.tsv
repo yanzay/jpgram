@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using でもある	（でもある）の例文1です。		（でもある）の例文1です。	Be also, It also is	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:でもある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using でもある	（でもある）の例文2です。		（でもある）の例文2です。	Be also, It also is	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:でもある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using でもある	（でもある）の例文3です。		（でもある）の例文3です。	Be also, It also is	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:でもある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using でもある	（でもある）の例文4です。		（でもある）の例文4です。	Be also, It also is	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:でもある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using でもある	（でもある）の例文5です。		（でもある）の例文5です。	Be also, It also is	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:でもある scaffold:pending-content scaffold:pending-audio source:bunpro

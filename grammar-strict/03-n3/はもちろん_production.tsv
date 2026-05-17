@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using はもちろん	（はもちろん）の例文1です。		（はもちろん）の例文1です。	Not only but also, Let alone, Not to mention, Of course	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:はもちろん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using はもちろん	（はもちろん）の例文2です。		（はもちろん）の例文2です。	Not only but also, Let alone, Not to mention, Of course	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:はもちろん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using はもちろん	（はもちろん）の例文3です。		（はもちろん）の例文3です。	Not only but also, Let alone, Not to mention, Of course	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:はもちろん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using はもちろん	（はもちろん）の例文4です。		（はもちろん）の例文4です。	Not only but also, Let alone, Not to mention, Of course	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:はもちろん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using はもちろん	（はもちろん）の例文5です。		（はもちろん）の例文5です。	Not only but also, Let alone, Not to mention, Of course	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:はもちろん scaffold:pending-content scaffold:pending-audio source:bunpro

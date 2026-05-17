@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ちゃんと・きちんと	（ちゃんと・きちんと）の例文1です。		（ちゃんと・きちんと）の例文1です。	Properly, Neatly, Orderly, Sufficiently, Decently	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ちゃんと-きちんと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ちゃんと・きちんと	（ちゃんと・きちんと）の例文2です。		（ちゃんと・きちんと）の例文2です。	Properly, Neatly, Orderly, Sufficiently, Decently	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ちゃんと-きちんと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ちゃんと・きちんと	（ちゃんと・きちんと）の例文3です。		（ちゃんと・きちんと）の例文3です。	Properly, Neatly, Orderly, Sufficiently, Decently	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ちゃんと-きちんと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ちゃんと・きちんと	（ちゃんと・きちんと）の例文4です。		（ちゃんと・きちんと）の例文4です。	Properly, Neatly, Orderly, Sufficiently, Decently	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ちゃんと-きちんと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ちゃんと・きちんと	（ちゃんと・きちんと）の例文5です。		（ちゃんと・きちんと）の例文5です。	Properly, Neatly, Orderly, Sufficiently, Decently	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ちゃんと-きちんと scaffold:pending-content scaffold:pending-audio source:bunpro

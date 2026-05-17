@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ようにいのる	（ようにいのる）の例文1です。		（ようにいのる）の例文1です。	Pray that/for, Hope that/for, Keep fingers crossed that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ようにいのる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ようにいのる	（ようにいのる）の例文2です。		（ようにいのる）の例文2です。	Pray that/for, Hope that/for, Keep fingers crossed that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ようにいのる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ようにいのる	（ようにいのる）の例文3です。		（ようにいのる）の例文3です。	Pray that/for, Hope that/for, Keep fingers crossed that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ようにいのる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ようにいのる	（ようにいのる）の例文4です。		（ようにいのる）の例文4です。	Pray that/for, Hope that/for, Keep fingers crossed that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ようにいのる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ようにいのる	（ようにいのる）の例文5です。		（ようにいのる）の例文5です。	Pray that/for, Hope that/for, Keep fingers crossed that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ようにいのる scaffold:pending-content scaffold:pending-audio source:bunpro

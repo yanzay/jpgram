@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using なさる	（なさる）の例文1です。		（なさる）の例文1です。	To do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なさる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なさる	（なさる）の例文2です。		（なさる）の例文2です。	To do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なさる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なさる	（なさる）の例文3です。		（なさる）の例文3です。	To do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なさる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なさる	（なさる）の例文4です。		（なさる）の例文4です。	To do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なさる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なさる	（なさる）の例文5です。		（なさる）の例文5です。	To do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なさる scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using とかんがえられている	（とかんがえられている）の例文1です。		（とかんがえられている）の例文1です。	Is considered, Is thought of as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とかんがえられている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using とかんがえられている	（とかんがえられている）の例文2です。		（とかんがえられている）の例文2です。	Is considered, Is thought of as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とかんがえられている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using とかんがえられている	（とかんがえられている）の例文3です。		（とかんがえられている）の例文3です。	Is considered, Is thought of as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とかんがえられている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using とかんがえられている	（とかんがえられている）の例文4です。		（とかんがえられている）の例文4です。	Is considered, Is thought of as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とかんがえられている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using とかんがえられている	（とかんがえられている）の例文5です。		（とかんがえられている）の例文5です。	Is considered, Is thought of as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とかんがえられている scaffold:pending-content scaffold:pending-audio source:bunpro

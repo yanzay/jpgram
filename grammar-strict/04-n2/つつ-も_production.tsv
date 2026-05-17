@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using つつ(も)	（つつ(も)）の例文1です。		（つつ(も)）の例文1です。	Even while ~ing, Even though ~ing, Despite ~ing, Although ~ing	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:つつ-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using つつ(も)	（つつ(も)）の例文2です。		（つつ(も)）の例文2です。	Even while ~ing, Even though ~ing, Despite ~ing, Although ~ing	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:つつ-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using つつ(も)	（つつ(も)）の例文3です。		（つつ(も)）の例文3です。	Even while ~ing, Even though ~ing, Despite ~ing, Although ~ing	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:つつ-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using つつ(も)	（つつ(も)）の例文4です。		（つつ(も)）の例文4です。	Even while ~ing, Even though ~ing, Despite ~ing, Although ~ing	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:つつ-も scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using つつ(も)	（つつ(も)）の例文5です。		（つつ(も)）の例文5です。	Even while ~ing, Even though ~ing, Despite ~ing, Although ~ing	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:つつ-も scaffold:pending-content scaffold:pending-audio source:bunpro

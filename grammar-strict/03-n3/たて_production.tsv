@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using たて	（たて）の例文1です。		（たて）の例文1です。	Freshly ~ed, Just ~ed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using たて	（たて）の例文2です。		（たて）の例文2です。	Freshly ~ed, Just ~ed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using たて	（たて）の例文3です。		（たて）の例文3です。	Freshly ~ed, Just ~ed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using たて	（たて）の例文4です。		（たて）の例文4です。	Freshly ~ed, Just ~ed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using たて	（たて）の例文5です。		（たて）の例文5です。	Freshly ~ed, Just ~ed	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たて scaffold:pending-content scaffold:pending-audio source:bunpro
