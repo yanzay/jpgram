@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Prompt	Answer	Reading	EN	Tags
+#notetype:Dictation
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Dictation
+
+[sound:36a45750ad25.mp3]	彼___来たばかりだ。	彼は来たばかりだ。	かれはきたばかりだ。	He just arrived.	module:03-n3 jlpt:n3 point:ばかり complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:4812a5625121.mp3]	私___食べたばかりだ。	私は食べたばかりだ。	わたしはたべたばかりだ。	I just ate.	module:03-n3 jlpt:n3 point:ばかり complexity:intro frequency:top1k source:shin-kanzen complexity:standard
+[sound:cd314ce43661.mp3]	仕事___終えたばかりだ。	仕事を終えたばかりだ。	しごとをおえたばかりだ。	I just finished the work.	module:03-n3 jlpt:n3 point:ばかり complexity:intro frequency:top1k source:shin-kanzen complexity:standard
+[sound:c63fb2cfc4ee.mp3]	引っ越したばかりなの___、まだ片付けていない。	引っ越したばかりなので、まだ片付けていない。	ひっこしたばかりなので、まだかたづけていない。	Since I just moved, I haven't unpacked yet.	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:low source:shin-kanzen
+[sound:6b1d8ce30b4b.mp3]	結婚したばかりの新婚夫婦。	結婚したばかりの新婚夫婦。	けっこんしたばかりのしんこんふうふ。	A newlywed couple who just got married.	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:low source:shin-kanzen
+[sound:47bdf31004ec.mp3]	彼の一言だけに、みんな___笑った。	彼の一言だけに、みんなが笑った。	かのひとことだけに、みんながわらった。	Because of his remark alone, everyone laughed.	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:top10k source:shin-kanzen
+[sound:b4251c8506be.mp3]	その日ばかりに、特別な事___起きた。	その日ばかりに、特別な事が起きた。	そのにちばかりに、とくべつなことがおきた。	It was precisely on that day that something special happened.	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:top5k source:shin-kanzen
+[sound:0966d11b535b.mp3]	君ばかりに、こんな難しい仕事___任せられない。	君ばかりに、こんな難しい仕事は任せられない。	くんばかりに、こんなむずかしいしごとはまかせられない。	Because it's you, I can't entrust such difficult work.	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:top5k source:shin-kanzen

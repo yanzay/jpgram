@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using ～ましょうか	（～ましょうか）の例文1です。		（～ましょうか）の例文1です。	Shall we, Shall I	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ましょうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～ましょうか	（～ましょうか）の例文2です。		（～ましょうか）の例文2です。	Shall we, Shall I	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ましょうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～ましょうか	（～ましょうか）の例文3です。		（～ましょうか）の例文3です。	Shall we, Shall I	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ましょうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～ましょうか	（～ましょうか）の例文4です。		（～ましょうか）の例文4です。	Shall we, Shall I	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ましょうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～ましょうか	（～ましょうか）の例文5です。		（～ましょうか）の例文5です。	Shall we, Shall I	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ましょうか scaffold:pending-content scaffold:pending-audio source:bunpro

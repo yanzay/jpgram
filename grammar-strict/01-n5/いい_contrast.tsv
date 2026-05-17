@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+
+この部屋は___きれいです。	きれいな	きれいです	きれいな	きれい is a な-adjective despite looking like い. Need な before noun.	きれいな dress, きれいです (predicate)	[sound:a0006546305b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard confusable-with:きれいです frequency:top1k source:shin-kanzen
+その男性は___です。	ハンサムな	ハンサム	ハンサムな	ハンサム must have な as attributive. Solo predicate ハンサムです is correct but attributive needs な.	ハンサムな person, ハンサムです	[sound:96b683e28ec4.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:ハンサム frequency:top5k source:shin-kanzen
+この情報は___くないです。	新しく	新しい	新しく	Negative of い-adjective: い → くない. Not くないない.	新しい → 新しくない	[sound:5cbf63ef0036.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard confusable-with:新しい frequency:top10k source:shin-kanzen
+その建物は___かったです。	大きく	大きい	大きく	Past tense of い-adjective: い → かった. 大きかった (not 大きいかった).	大きい → 大きかった	[sound:007840455cec.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard confusable-with:大きい frequency:top1k source:shin-kanzen
+その映画は___です。	いい	いいです	いい	いい is non-standard; よい is standard. Both accepted, but よい → よくない, いい → いいです.	いい/よい (both exist)	[sound:58e92a6714d3.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:いいです frequency:top1k source:shin-kanzen
+それは___いです。	良	悪	悪	悪 (bad/ugly) vs 良/よい (good). Different adjectives entirely.	Opposite meanings: 悪い ↔ いい/よい	[sound:32f08ddb7e0b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:良 source:shin-kanzen
+その犬は___いです。	小さ	小ぶり	小さ	小さい is the standard い-adjective. 小ぶり is a different word.	小さい (tiny adjective)	[sound:99f25df92e31.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:小ぶり frequency:top1k source:shin-kanzen
+___な環境で___く走ります。	静かな	速く	静かな	静か (quiet) is な-adjective: 静かな. 速い (fast) is い-adjective: 速く (adverbial).	Mix: 静かな + 速い	[sound:727c38483169.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard confusable-with:速く frequency:top10k source:shin-kanzen
+あの景色は___です。	きれい	きれいな	きれい	Predicate: きれいです (not きれいなです). Attributive: きれいな noun.	Pred: きれいです. Attr: きれいな	[sound:4be096a81900.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:きれいな frequency:top5k source:shin-kanzen
+___俳優はハンサムです。	ハンサムな	ハンサムな	ハンサムな	Attributive of na-adj: add な. ハンサムな俳優 (handsome actor).	Attr: ハンサムな. Pred: ハンサムです	[sound:624700e184d0.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard confusable-with:ハンサムな frequency:top10k source:shin-kanzen
+___コンピュータです。	新しい	新しく	新しい	い-adjective attributive: just add the adjective. 新しいコンピュータ.	い-attr: just the word. な-attr: add な.	[sound:38a8e0927c2b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:新しく source:shin-kanzen
+___歌手です。	有名な	有名い	有名な	有名 is な-adjective. No い form. 有名な singer (not 有名い).	有名: na-adj only. No い version.	[sound:3c3fe0bf82fc.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:有名い frequency:top10k source:shin-kanzen
+先生は___です。	親切	親切な	親切	Both are correct: predicate 親切です OR attributive 親切な先生. This asks for predicate.	親切: na-adj. Pred: 親切です. Attr: 親切な.	[sound:3be90d236ddc.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:親切な frequency:top1k source:shin-kanzen
+___機能があります。	便利な	便利	便利な	Attributive of な-adjective: 便利な. Predicate: 便利です.	便利: na-adj. Attr: 便利な. Pred: 便利です.	[sound:8e6f72ea5763.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:便利 frequency:top10k source:shin-kanzen
+この本は___です。	いい	良い	いい	いい (informal) = よい (formal). Both acceptable. よい is preferred in formal writing.	いい vs よい: same meaning, different registers	[sound:685e4f11678f.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:良い frequency:top1k source:shin-kanzen
+暑い vs 暑かった	暑い	暑かった	暑かった	Present vs past tense	Past: かった	[sound:9f57b09a7802.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top1k complexity:intro confusable-with:暑い source:shin-kanzen
+いい vs よい	いい	よい	いい	Both mean good; いい is more common	Standard form: いい	[sound:7b9cfe73df3c.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:よい source:shin-kanzen
+暑くない vs 暑くなかった	暑くない	暑くなかった	暑くなかった	Present vs past negative	Past negative: なかった	[sound:b89a665ace2b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro confusable-with:暑くない source:shin-kanzen complexity:standard
+高い vs 高くない	高い	高くない	高くない	Affirmative vs negative	Negative: くない	[sound:ed37772be238.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top1k complexity:intro confusable-with:高い source:shin-kanzen
+安かった vs 安くなかった	安かった	安くなかった	安くなかった	Affirmative vs negative past	Past negative: くなかった	[sound:a816ed17edc5.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard confusable-with:安かった source:shin-kanzen
+面白い vs よかったの違い	よかった	面白かった	面白かった	Both past; different meanings	Different adjectives	[sound:17218256a1a1.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top10k complexity:standard confusable-with:よかった source:shin-kanzen
+新しい vs 新しかった	新しい	新しかった	新しかった	Present vs past	Depends on tense	[sound:57ff5a3bafd7.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top1k complexity:intro confusable-with:新しい source:shin-kanzen
+難しい vs 難しくない	難しい	難しくない	難しくない	Positive vs negative	Opposite: くない	[sound:60b1655fd3e2.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top10k complexity:intro confusable-with:難しい source:shin-kanzen
+きれい vs 綺麗な	い	な	な	Different form: な-adj	Kanji form: na-adj	[sound:b63956916f55.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top1k complexity:intro confusable-with:い source:shin-kanzen
+美しい vs 美しくない	美しい	美しくない	美しくない	Positive vs negative	Negated: くない	[sound:a3affd69804d.mp3]	module:01-n5 jlpt:n5 point:いい frequency:low complexity:intro confusable-with:美しい source:shin-kanzen
+忙しい vs 忙しかった	忙しい	忙しかった	忙しかった	Present vs past tense	Past: かった	[sound:a691754633d1.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top1k complexity:intro confusable-with:忙しい source:shin-kanzen
+大きい vs 大きくない	大きい	大きくない	大きくない	Positive vs negative	Negative: くない	[sound:a7c4368263f8.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top10k complexity:intro confusable-with:大きい source:shin-kanzen
+小さい vs 小さかった	小さい	小さかった	小さかった	Present vs past	Past: かった	[sound:a9b78d4c372b.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top10k complexity:intro confusable-with:小さい source:shin-kanzen
+楽しい vs 楽しかないです	楽しい	楽しかないです	楽しかないです	Present vs past negative polite	Past negative: かない	[sound:b40235136bfe.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top10k complexity:intro confusable-with:楽しい source:shin-kanzen complexity:standard
+美味しい vs まずい違い	美味しい	まずい	美味しい	Opposite meanings	Different adj entirely	[sound:454af7ad6c7e.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top10k complexity:intro confusable-with:まずい source:shin-kanzen

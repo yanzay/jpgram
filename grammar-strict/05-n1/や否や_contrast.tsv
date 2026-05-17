@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Contrast
+
+扉を開けるや否や、声が聞こえた。	が早いか	なり	や否や	や否や = as soon as (formal)	As soon as opened door, heard voice	[sound:35c27acf90a4.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:low complexity:standard source:shin-kanzen
+彼が来るや否や、トラブルが起きた。	が早いか	なり	や否や	や否や = the moment/no sooner	The moment he came, trouble arose	[sound:1f0c5454e078.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:low complexity:standard source:shin-kanzen
+雨が降るが早いか、傘をさした。	や否や	なり	が早いか	が早いか = no sooner than/immediately	No sooner did it rain, I opened umbrella	[sound:2387cbefcf27.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top1k complexity:standard source:shin-kanzen
+会議が始まるが早いか、激論になった。	や否や	なり	が早いか	が早いか = immediately upon	Immediately after meeting started, fierce debate	[sound:7e1133a7bbb8.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top5k complexity:standard source:shin-kanzen
+彼は到着するなり、仕事に取り掛かった。	や否や	が早いか	なり	なり = upon/as soon as	Upon arriving, he started work	[sound:6044685d77d9.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top10k complexity:standard source:shin-kanzen
+朝日が出るなり、町が目覚めた。	や否や	が早いか	なり	なり = the moment/upon	As morning sun rose, town awoke	[sound:cbb68c603618.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top5k complexity:standard source:shin-kanzen
+火をつけるや否や、爆発した。	が早いか	なり	や否や	や否や = instant after/no sooner	Instant after lit fire, exploded	[sound:ead443c174e8.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top10k complexity:standard source:shin-kanzen
+彼女が笑うが早いか、誰もが笑った。	や否や	なり	が早いか	が早いか = the moment/no sooner	No sooner she laughed, everyone laughed	[sound:449f82287735.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top5k complexity:standard source:shin-kanzen
+鐘が鳴るなり、走り始めた。	や否や	が早いか	なり	なり = upon sound of bell	Upon bell ringing, started running	[sound:0e95700c0169.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top10k complexity:intro source:shin-kanzen
+試験が終わるや否や、皆は退出した。	が早いか	なり	や否や	や否や = directly after/upon	Directly after exam ended, all left	[sound:6b9031a0a2ac.mp3]	module:05-n1 jlpt:n1 register:literary point:や否や pos:expr frequency:top10k complexity:standard source:shin-kanzen

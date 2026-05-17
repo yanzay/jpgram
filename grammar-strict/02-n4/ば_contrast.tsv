@@ -1,0 +1,16 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+
+雨が降れば、___ vs 降ると、___。	れば	ると	れば	ば = hypothetical generalization	ば = open-ended if	[sound:bcfc0d909786.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:standard confusable-with:ると source:shin-kanzen sense:conditionals
+毎日走れば、体が強くなりますvs毎日走ると、強くなります。	れば	ると	ると	と = automatic consequence	と = natural result	[sound:632b826db3b7.mp3]	module:02-n4 jlpt:n4 point:ば frequency:low complexity:advanced confusable-with:れば source:shin-kanzen sense:conditionals
+お金があれば、旅行に___vs あったら、旅行に___。	れば	たら	れば	ば = open hypothetical	ば = state condition	[sound:f7ba5f8f117e.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:standard confusable-with:たら source:shin-kanzen sense:conditionals
+忙しければ、休んでくださいvs忙しいなら、休んでください。	ければ	なら	ければ	ば = generic hypothetical	ば = if ever busy	[sound:ec029a3860a4.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:advanced confusable-with:なら source:shin-kanzen sense:conditionals
+走れば、疲れますvs走るなら、疲れます。	れば	なら	れば	ば = generic condition	ば = hypothetical	[sound:7a00dedcaeb4.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:standard confusable-with:なら source:shin-kanzen sense:conditionals
+毎日勉強すれば、上手になりますvs毎日勉強したら、上手になります。	すれば	したら	すれば	ば = generic consequence	ば = hypothetical habit	[sound:9a1038206032.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:advanced confusable-with:したら source:shin-kanzen sense:conditionals
+値段が安ければ、買うかもvs安かったら、買うかも。	ければ	かったら	ければ	ば = generic hypothesis	ば = open state	[sound:d494adbc3814.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top5k complexity:standard confusable-with:かったら source:shin-kanzen sense:conditionals
+水を熱すれば、沸きますvs水を熱したら、沸きました。	すれば	したら	すれば	ば = automatic result	ば = scientific law	[sound:01f3a72553ac.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top5k complexity:standard confusable-with:したら source:shin-kanzen sense:conditionals
+そうであれば、賛成です。	ば	なら	ば	ば = hypothetical agreement	ば = open acceptance	[sound:cb6ff7f800a7.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:intro confusable-with:なら source:shin-kanzen sense:conditionals
+天気がよければ、ハイキングに行きましょう。	ければ	たら	ければ	ば = hypothetical trigger	ば = generic condition	[sound:0415bfa941db.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:standard confusable-with:たら source:shin-kanzen sense:conditionals

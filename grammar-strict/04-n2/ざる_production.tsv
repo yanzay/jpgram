@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+べし: Obligation.	Obligation	しょくんはどりょくすべしといわれた。	諸君は努力すべしと言われた。	Classical obligation; modern: 〜べき	[sound:f709cafca604.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:low source:shin-kanzen
+べし: Obligation.	Obligation	がくもんをおさむべし。	学問を修むべし。	Classical obligation; modern: 〜べき	[sound:87c1ff8590a0.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+べし: Obligation.	Obligation	このひみつはまもるべし。	この秘密は守るべし。	Classical obligation; modern: 〜べき	[sound:1bf083753ea7.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+べからず: Prohibition.	Prohibition	にんをきずつくべからず。	人を傷つくべからず。	Classical prohibition; modern: べきではない	[sound:56bde85e2dc9.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+べからず: Prohibition.	Prohibition	うそをつくべからず。	嘘をつくべからず。	Classical prohibition; modern: べきではない	[sound:84d37f438b13.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+べし: Obligation.	Obligation	くんにしたがうべし。	君に従うべし。	Classical obligation; modern: 〜べき	[sound:a9eca42ec4a0.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+べし: Obligation.	Obligation	はやくこうどうすべきときがきた。	早く行動すべき時が来た。	Classical obligation; modern: 〜べき	[sound:12b69f380a3b.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+まじ: Negative assumption.	Negative assumption	そんなことはおこるまじ。	そんなことは起こるまじ。	Classical unlikely; modern: まい	[sound:a026e1055d53.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+まじ: Negative assumption.	Negative assumption	かれがそれをしるまじきりゆうがある。	彼がそれを知るまじき理由がある。	Classical unlikely; modern: まい	[sound:d336caeaad0c.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:top5k source:shin-kanzen
+まじ: Negative assumption.	Negative assumption	しっぱいすることはあるまじ。	失敗することはあるまじ。	Classical unlikely; modern: まい	[sound:1a03d5d48b95.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+まじ: Negative assumption.	Negative assumption	かれはもうきまじ。	彼はもう来まじ。	Classical unlikely; modern: まい	[sound:2561e3a5d3d8.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+ざる: Classical negation.	Classical negation	かれはこれをみとめざるをえなかった。	彼はこれを認めざるを得なかった。	Classical negation; modern: ない	[sound:f2f639a34b71.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:top5k source:shin-kanzen
+ざる: Classical negation.	Classical negation	そのじじつはかくしがたくみざるをえない。	その事実は隠しがたく見ざるを得ない。	Classical negation; modern: ない	[sound:53bb710c6831.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:top10k source:shin-kanzen
+ざる: Classical negation.	Classical negation	いわざることもある。	言わざることもある。	Classical negation; modern: ない	[sound:822c1a60201e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
+ざる: Classical negation.	Classical negation	かれはそれをしらざりき。	彼はそれを知らざりき。	Classical negation; modern: ない	[sound:4657857ba468.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+ぬ: Classical negation.	Classical negation	かれはそれをしりぬ。	彼はそれを知りぬ。	Classical negation; modern: ない	[sound:188bfd4b15a6.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+ぬ: Classical negation.	Classical negation	かぜはとみぬ。	風は止みぬ。	Classical negation; modern: ない	[sound:0259356fc8d3.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
+ぬ: Classical negation.	Classical negation	かれはいきぬ。	彼は行きぬ。	Classical negation; modern: ない	[sound:90dcfb226bf9.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+つ: Perfective.	Perfective	にちはくれつ。	日は暮れつ。	Marks completion in classical	[sound:66adcb030d46.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+ぬ: Perfective.	Perfective	かれはさりぬ。	彼は去りぬ。	Marks completion in classical	[sound:c1415ba3c466.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+む: Volitional/future.	Volitional/future	あしたいかむ。	明日行かむ。	Classical volitional; modern: う	[sound:3edd03dd22c4.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
+ん: Volitional/future.	Volitional/future	なにをなさんとするや。	何をなさんとするや。	Classical volitional contraction	[sound:23bbe65aaa6e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
+ん: Volitional/future.	Volitional/future	しなんとす。	死なんとす。	Classical volitional contraction	[sound:5b3437b5a9e3.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+たり: Copular state.	Copular state	かれはいしゃたり。	彼は医者たり。	Marks profession; modern: だ	[sound:ab2efa724456.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+たり: Copular state.	Copular state	それはしんじつたりえない。	それは真実たり得ない。	Marks state/profession; modern: だ	[sound:1dc584a97f2f.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:low source:shin-kanzen
+たり: Copular state.	Copular state	かしこきものたるべし。	賢き者たるべし。	Marks state/profession; modern: だ	[sound:14fc968f64c4.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+たり: Copular state.	Copular state	かれはがくしゃたりかつしじんたり。	彼は学者たり且つ詩人たり。	Marks state/profession; modern: だ	[sound:da758f61a4ad.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:low source:shin-kanzen
+けり: Perfective retrospective.	Perfective retrospective	きのうかれがきたけり。	昨日彼が来たけり。	Classical perfect with hindsight	[sound:d1490a5b7ed2.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+けむ: Conjectural past.	Conjectural past	いかなることかあったけむ。	いかなることかあったけむ。	Classical conjecture about past	[sound:e4fdd3b0f24c.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard source:shin-kanzen
+けむ: Conjectural past.	Conjectural past	かれはそういったけむ。	彼はそう言ったけむ。	Classical conjecture about past	[sound:d88866c8e011.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+けり: Perfective retrospective.	Perfective retrospective	そのにちはよいにちだったけり。	その日は良い日だったけり。	Classical perfect with hindsight	[sound:bcc2e35640a6.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:top10k source:shin-kanzen
+けり: Perfective retrospective.	Perfective retrospective	くんはそれをみたけり。	君はそれを見たけり。	Classical perfect with hindsight	[sound:e780f8044aa3.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
+む: Volitional/future.	Volitional/future	いかむとしていかず。	行かむとして行かず。	Classical volitional; modern: う	[sound:d129fd1709d9.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
+ん: Volitional/future.	Volitional/future	なにならむや。	何ならむや。	Classical volitional contraction	[sound:3ef65864c8bc.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
+たり: Copular state.	Copular state	かのことばはりっぽうたり。	彼の言葉は律法たり。	Marks state/profession; modern: だ	[sound:3889f6369aaa.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+たり: Copular state.	Copular state	そのみちはせいぎたり。	その道は正義たり。	Marks state/profession; modern: だ	[sound:20ec1e7dc5bf.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:low source:shin-kanzen
+たり: Copular state.	Copular state	かれはまことのともたり。	彼はまことの友たり。	Marks state/profession; modern: だ	[sound:81dce7a262ee.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+けり: Perfective retrospective.	Perfective retrospective	よあけぞきたるけり。	夜明けぞ来たるけり。	Classical perfect with hindsight	[sound:9fdf8e95548e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
+けり: Perfective retrospective.	Perfective retrospective	かかるときこそけり。	かかる時こそけり。	Classical perfect with hindsight	[sound:b6f66ac18e7e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
+けり: Perfective retrospective.	Perfective retrospective	ゆきてまたきたけり。	往きてまた来たけり。	Classical perfect with hindsight	[sound:b1b741dabae0.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen

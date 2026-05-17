@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+
+会議が___。	始まるところ	始まったところ	始まるところ	imminent future vs just happened	するところ = about to / したところ = just finished	[sound:eac1e99fa1bb.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:始まったところ source:shin-kanzen
+彼は___食べています。	食べるところ	食べているところ	食べているところ	about to eat vs actively eating	進行中 = currently happening	[sound:f452e543641b.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:食べるところ source:shin-kanzen
+私は勉強を___。	するところ	したところ	したところ	about to study vs just studied	完了時点 = completion moment	[sound:ce5c76f53f66.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top1k complexity:intro confusable-with:するところ source:shin-kanzen
+電車が___。	発車するところ	発車したばかり	発車するところ	imminent departure vs just left	直前 = immediate future	[sound:74efbe5ea8a4.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top1k complexity:intro confusable-with:発車したばかり source:shin-kanzen
+会議は___。	始まるところ	始まったばかり	始まったばかり	about to start vs just started	最近性 = very recent	[sound:6ed136b1867e.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:始まるところ source:shin-kanzen
+プログラムが___。	終わるところ	終わったところ	終わったところ	about to end vs just ended	終了時点 = at conclusion	[sound:3ecdc95f6ba3.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top10k complexity:intro confusable-with:終わるところ source:shin-kanzen
+彼女は___。	家を出るところ	家を出たばかり	家を出たばかり	about to leave home vs just left	最近完了 = just happened	[sound:ff359c77e2c6.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:家を出るところ source:shin-kanzen
+私たちは___。	出発するところ	出発しているところ	出発しているところ	about to depart vs in transit	進行状態 = in progress	[sound:5e3e92942f67.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top1k complexity:intro confusable-with:出発するところ source:shin-kanzen
+彼は___。	到着するところ	到着したところ	到着したところ	about to arrive vs just arrived	到着直後 = right after arrival	[sound:e161f90f7be7.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:到着するところ source:shin-kanzen

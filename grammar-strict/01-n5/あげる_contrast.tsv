@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+
+兄が妹に宿題を教えた。	あげる	もらう	あげる	brother does action	あげる = giver perspective	[sound:8665c1c390d9.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro confusable-with:もらう source:shin-kanzen
+妹が兄に宿題を教えてもらった。	あげる	もらう	もらう	sister receives	もらう = receiver perspective	[sound:11de1e3c7a4b.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard confusable-with:あげる source:shin-kanzen
+彼が彼女に花をくれた。	あげる	くれる	くれる	naturally benefits her	くれる = to me/us/you	[sound:aab4fb2ec930.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top5k complexity:intro confusable-with:あげる source:shin-kanzen
+先生に宿題を見て___。	あげた	もらった	もらった	request service	もらった = ask someone	[sound:8f9f88ba3514.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro confusable-with:あげた source:shin-kanzen
+家族に荷物を運んで___。	あげた	もらった	あげた	volunteer to help	あげた = offer freely	[sound:3c310999c5cb.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard confusable-with:もらった source:shin-kanzen
+先輩に教えて___。	あげる	もらう	あげる	offer upward	〜てあげる = offer help	[sound:37135fc583dd.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro confusable-with:もらう source:shin-kanzen
+友達に助言をくれた。	くれる	あげる	くれる	benefits speaker	くれる = to speaker	[sound:b2b678dc3552.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:low complexity:intro confusable-with:あげる source:shin-kanzen
+患者に薬を飲ませて___。	あげた	もらった	あげた	doctor does action	〜てあげた = caregiver	[sound:069a1966c970.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard confusable-with:もらった source:shin-kanzen
+子供に時間を使って___。	あげた	もらった	あげた	sacrifice time	〜てあげた = I sacrifice	[sound:5cc920954cbf.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:standard confusable-with:もらった source:shin-kanzen
+秘書に資料を準備して___。	あげた	もらった	もらった	receive benefit	〜てもらった = I benefit	[sound:ecf6183ec6c8.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:low complexity:standard confusable-with:あげた source:shin-kanzen
+彼女が花をくれた。	あげる	くれる	くれる	benefits listener	くれる = to you	[sound:481bc3fee032.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top5k complexity:intro confusable-with:あげる source:shin-kanzen
+兄が妹に手伝った。	あげる	くれる	あげる	brother's perspective	あげる = I do	[sound:86304e38d378.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro confusable-with:くれる source:shin-kanzen
+妹は兄が手伝った。	あげる	くれる	くれる	sister's perspective	くれる = he did	[sound:cf36ce7d7568.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top1k complexity:intro confusable-with:あげる source:shin-kanzen
+親に助言をもらった。	あげた	もらった	もらった	receive from parent	もらった = request	[sound:42e3f2c618ec.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:low complexity:intro confusable-with:あげた source:shin-kanzen
+先生にご指導いただいた。	あげる	いただく	いただく	keigo receive	いただく = humble	[sound:d5cd1f89c325.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro confusable-with:あげる source:shin-kanzen
+私は友達に本を___。	あげる	もらう	あげる	Direction: I→friend (give). もらう = I receive from.	give/receive direction	[sound:d88dec52429f.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:intro confusable-with:もらう frequency:top1k source:shin-kanzen
+父は私に時計を___。	あげる	くれる	くれる	Family: in-group. くれる for me. あげる=away from me.	in-group uses くれる	[sound:042edc330385.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:intro confusable-with:あげる frequency:top1k source:shin-kanzen
+先生に感謝状を___。	あげる	さしあげる	さしあげる	To superior: humble さしあげる required.	hierarchy: to superior	[sound:048e2e38b909.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:intro confusable-with:あげる frequency:top10k source:shin-kanzen
+子供にお菓子を___。	あげる	やる	やる	To child: casual やる. あげる=neutral.	casual: child/junior	[sound:dceef4ada556.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:intro confusable-with:あげる frequency:top10k source:shin-kanzen
+私は田中さんから本を___。	あげる	もらう	もらう	Direction: I receive from (←). あげる=give away.	receive from	[sound:922add7a75e3.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:あげる frequency:top10k source:shin-kanzen
+先生から丁寧に教えて___。	もらう	いただく	いただく	From superior: humble いただく.	from superior: いただく	[sound:fb5a4b996f17.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:もらう frequency:top10k source:shin-kanzen
+親友が私に助言を___。	くれる	あげる	くれる	Close friend→me=in-group. くれる=natural.	friend gives: くれる	[sound:914719008ad6.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:intro confusable-with:あげる frequency:low source:shin-kanzen
+上司が部下に指示を___。	くれる	あげる	あげる	Superior→subordinate=out-group. あげる=correct.	superior→subordinate: あげる	[sound:f088645c051a.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:くれる frequency:low source:shin-kanzen
+先生が学生に宿題を___。	くれる	あげる	あげる	Teacher→student=formal out-group.	formal: teacher gives	[sound:334fee7a1c9b.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:くれる frequency:top1k source:shin-kanzen
+兄弟で手伝い合って___。	あげる	くれる	both OK	Family: both work, but くれる=closer.	family: flexible	[sound:1f595236b6d6.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top10k source:shin-kanzen
+彼女は私に誕生日プレゼントを___。	あげる	くれる	くれる	Girlfriend (intimate)→me: くれる=closer.	intimate: くれる	[sound:3729abd1d057.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:あげる frequency:top5k source:shin-kanzen
+両親が子供に教育費を___。	あげる	くれる	both OK	Parent context: both work, くれる=natural.	parents: both work	[sound:0f2e0eea2607.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top5k source:shin-kanzen
+ボスが従業員にボーナスを___。	くれる	あげる	あげる	Formal hierarchy: superior→subordinate=あげる.	hierarchy: あげる	[sound:78c91ac7a457.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:くれる frequency:low source:shin-kanzen
+看護師が患者にお薬を___。	あげる	くれる	あげる	Professional service: out-group=あげる.	professional: あげる	[sound:6f97d1e2bb2b.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:くれる frequency:low source:shin-kanzen
+姉が妹に洋服を___。	あげる	くれる	both OK	Siblings: flexible, くれる=closer bond.	siblings: flexible	[sound:bd7bd776ec94.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:intro frequency:top1k source:shin-kanzen
+私は友人に本を貸して___。	あげる	やる	あげる	Loan to equal: あげる=standard.	to equal: あげる	[sound:cf6634951d95.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:やる frequency:top10k source:shin-kanzen
+先輩が後輩に仕事の秘訣を___。	あげる	くれる	both OK	Workplace mentor: both work, あげる=formal.	mentor: flexible	[sound:0df6d63e6b20.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top10k source:shin-kanzen
+祖母が孫にお小遣いを___。	あげる	くれる	くれる	Grandparent (elder affection): くれる=natural.	elder+affection: くれる	[sound:b1209742b0a1.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:あげる frequency:low source:shin-kanzen
+店員さんが客に袋を___。	あげる	くれる	あげる	Service transaction: out-group=あげる.	service: あげる	[sound:b8806c91661d.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:くれる frequency:top10k source:shin-kanzen
+先生が学生に高い評価を___。	くれる	あげる	あげる	Teacher→student: formal=あげる.	formal hierarchy: あげる	[sound:f3f610d692b3.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard confusable-with:くれる frequency:top10k source:shin-kanzen

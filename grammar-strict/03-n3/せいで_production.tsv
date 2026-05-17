@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+What structure expresses cause-result with natural consequence?	ーので	たなかさんがきたので、みんなよろこんだ。	田中さんが来たので、みんな喜んだ。	Expresses natural result from cause	[sound:b1f840867d25.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Complete: 'Because it rains, ___'	ーので	あめがふったので、うんどうかいがえんきになった。	雨が降ったので、運動会が延期になった。	Cause-result relationship	[sound:1a56cb0c8060.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Which form marks reason with explanation?	ーだから	こんにちはげつようびだから、がっこうがある。	今日は月曜日だから、学校がある。	Explains reason for action or state	[sound:848829f9fa40.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top1k source:shin-kanzen
+What marks sudden or dramatic result?	ーたとたんに	かれがあらわれたとたんに、みんなしずかになった。	彼が現れたとたんに、みんな静かになった。	Marks immediate consequence	[sound:b8410256fc69.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Complete: '___、計画が変わった' (because of mistake)	ーせいで	そのけいさんみすのせいで、けいかくがかわった。	その計算ミスのせいで、計画が変わった。	Marks negative consequence	[sound:8597f0b014d9.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Which form emphasizes 'as a result of'?	ーため、ーために	どりょくのため、せいこうした。	努力のため、成功した。	Marks result achieved through effort	[sound:6e24bf9af6c9.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
+Fill: 'Because of 〜だけあって'	ーだけあって	だいがくきょうじゅだけあって、ちしきがほうふだ。	大学教授だけあって、知識が豊富だ。	Shows expected result from cause	[sound:a4cd4f142174.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+What structure shows 'there is no other reason'?	ーしか___ない	じかんがないので、はしるしかない。	時間がないので、走るしかない。	Only choice given circumstances	[sound:050d2ee2ecdf.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top1k source:shin-kanzen
+Complete: 'Because she studied, ___'	ーので、〜だから	べんきょうしたので、しけんにごうかくした。	勉強したので、試験に合格した。	Cause precedes result naturally	[sound:38c8fa8e68f6.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Which shows 'resulting in negative outcome'?	ーおかげで (negative)	あめのため、いべんとがちゅうしになった。	雨のため、イベントが中止になった。	Negative result from cause	[sound:5875c59de8c8.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+What marks 'the reason is only'?	ーだけが〜ない	かれだけがこなかったから、さびしかった。	彼だけが来なかったから、寂しかった。	Single cause of emptiness/sadness	[sound:73fc2a16d3ea.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Complete: 'As a result of ___'	ーため〜ため	じこのため、こうつうがこんらんした。	事故のため、交通が混乱した。	Result stemming from incident	[sound:0128faba1e2d.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Which structure expresses 'thanks to'?	ーおかげで	くんのおかげで、せいこうできた。	君のおかげで、成功できた。	Positive result from someone/something	[sound:2099232d7f1a.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
+Fill: 'Because it broke, ___'	ーので〜だ	きかいがこわれたので、なおさないといけない。	機械が壊れたので、直さないといけない。	Need to act on cause	[sound:f3585f040348.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+What marks 'due to, caused by'?	ーによって	そのけっていによって、じょうきょうがかわった。	その決定によって、状況が変わった。	Marks clear causal agent	[sound:0ace9cbb8d7a.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k source:shin-kanzen

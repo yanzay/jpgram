@@ -1,0 +1,61 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+
+あいつは必ず来るにちがいない	あいつはかならずくるにちがいない	He will certainly come.	-にちがいない	certainty / no doubt	prediction	[sound:6c1a2f4e8b9a].mp3		[sound:cfdf565be43d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top5k source:shin-kanzen
+これは間違いなく最高傑作にちがいない	これはまちがいなくさいこうけっさくにちがいない	This is undoubtedly a masterpiece.	-にちがいない	certainty / no doubt	inference	[sound:3d5f7a2e1c4b].mp3		[sound:9d36002afb57.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:low source:shin-kanzen
+雨が降るにちがいない	あめがふるにちがいない	It will definitely rain.	-にちがいない	certainty / no doubt	prediction	[sound:8e2c4f1a9d7b].mp3		[sound:d2a7d2ac401c.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+彼は忙しいにちがいない	かれはいそがしいにちがいない	He must be busy.	-にちがいない	certainty / no doubt	inference	[sound:5b8d3a9f2e1c].mp3		[sound:7b55b68fe3d7.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+誰かが来たにちがいない	だれかがきたにちがいない	Someone definitely came.	-にちがいない	certainty / no doubt	inference	[sound:2f7c4e9a1d3b].mp3		[sound:1b7ac3c69efe.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+それは違うにちがいない	それはちがうにちがいない	That must be wrong.	-にちがいない	certainty / no doubt	inference	[sound:9a3b1e5d7f2c].mp3		[sound:08617ade0229.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+田中さんは来るはずだ	たなかさんはくるはずだ	Tanaka should come (as expected).	-はずだ	supposed to / expectation	expectation	[sound:4c9e2f1a8d3b].mp3		[sound:383f96e8f1bd.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+昨日届くはずだった	きのうとどくはずだった	It was supposed to arrive yesterday.	-はずだった	supposed to / past expectation	expectation	[sound:7a2d8f3c1b5e].mp3		[sound:3e2e5fe62024.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+完成するはずだ	かんせいするはずだ	It's supposed to be completed.	-はずだ	supposed to / expectation	expectation	[sound:1f5a3c9e2d7b].mp3		[sound:4e33097d9997.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+そんなはずがない	そんなはずがない	That can't be right.	-はずがない	contradiction / disbelief	negation	[sound:6d3a7f1c2e9b].mp3		[sound:8bf3f33df4fb.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+君が知らないはずがない	きみがしらないはずがない	You can't not know.	-はずがない	contradiction / disbelief	negation	[sound:9c2b5e7f1d4a].mp3		[sound:785e8619c4ee.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+彼が嘘をつくはずがない	かれがうそをつくはずがない	He can't be lying.	-はずがない	contradiction / disbelief	negation	[sound:3e8a1d5c9f2b].mp3		[sound:ffe8bbba5559.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+すぐに着くはずだ	すぐにつくはずだ	It should arrive soon.	-はずだ	supposed to / expectation	expectation	[sound:5f2d9a3e1c7b].mp3		[sound:372bda617596.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+これで終わるはずだった	これでおわるはずだった	This was supposed to end it.	-はずだった	supposed to / past expectation	expectation	[sound:8b1f4c7d2e9a].mp3		[sound:db190e193def.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+天気が良くなると思う	てんきがよくなるとおもう	I think the weather will improve.	-と思う	conjecture / opinion	opinion	[sound:2c7a1e9d3f5b].mp3		[sound:b365e600edb0.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+彼は優秀だと思われる	かれはゆうしゅうだとおもわれる	He is thought to be excellent.	-と思われる	passive conjecture	inference	[sound:4d9f2a1e7c3b].mp3		[sound:da2edc7a0041.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+これは間違いだと見られる	これはまちがいだとみられる	This appears to be a mistake.	-と見られる	appearance / seems	inference	[sound:7e3f1a5d2c8b].mp3		[sound:9113ceefb368.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top10k source:shin-kanzen
+雨が降ると思う	あめがふるとおもう	I think it will rain.	-と思う	conjecture / opinion	opinion	[sound:1b8d5c9f2a3e].mp3		[sound:e614e993e8a8.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+その判断は適切だと思われる	そのはんだんはてきせつだとおもわれる	That decision seems appropriate.	-と思われる	passive conjecture	inference	[sound:6a2f1d8e3c7b].mp3		[sound:92df95dfffa2.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top10k source:shin-kanzen
+彼は来そうにない	かれはこそうにない	He doesn't seem likely to come.	-そうにない	negative appearance	negation	[sound:3f7c2e1d9a5b].mp3		[sound:c2160ee5722a.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+上手くいきそうもない	うまくいきそうもない	It doesn't look like it will go well.	-そうもない	negative appearance	negation	[sound:8a3e5f1c2d9b].mp3		[sound:3735cfd9573b.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+改善されそうにない	かいぜんされそうにない	It doesn't appear to improve.	-そうにない	negative appearance	negation	[sound:5c1a9d7f2b3e].mp3		[sound:3b8cebd3809f.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+終わりそうもない	おわりそうもない	It doesn't seem to be ending.	-そうもない	negative appearance	negation	[sound:2e9b3a5f1c7d].mp3		[sound:3776cce0cf90.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+成功しそうにない	せいこうしそうにない	It doesn't look like it will succeed.	-そうにない	negative appearance	negation	[sound:7b2d1a8f3c5e].mp3		[sound:95582954473d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+明日は晴れるだろう	あしたははれるだろう	It will probably be sunny tomorrow (speaker judgment).	-だろう	conjecture / judgment	conjecture	[sound:4a1f8c3e2d5b].mp3		[sound:69ca16b5db76.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+これはそうでしょう	これはそうでしょう	This is probably so (interactive).	-でしょう	conjecture / politeness	conjecture	[sound:9d2c5f7a1b3e].mp3		[sound:3770522c0158.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+雨が降るだろう	あめがふるだろう	Rain will probably fall.	-だろう	conjecture / judgment	conjecture	[sound:1e5a3d8f2c7b].mp3		[sound:210470741473.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+やめた方がいいでしょう	やめたほうがいいでしょう	You probably should stop.	-でしょう	conjecture / advice	advice	[sound:6f2a1d9c3e5b].mp3		[sound:92fa83790d92.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+事実はどうだろう	じじつはどうだろう	What is the actual fact? (rhetorical).	-だろう	rhetorical question	question	[sound:3b8e2f1a7d5c].mp3		[sound:631a6fef74b6.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+分かったでしょう	わかったでしょう	You understand now (checking).	-でしょう	checking understanding	confirmation	[sound:7c3a1e9f2b5d].mp3		[sound:10577b8ab3b9.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+彼はここへ来ぬ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	いかない vs modern form	[sound:b426e4836034.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi
+それはせぬことだ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	しないことだ vs modern form	[sound:7cb77239c0d3.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+此の剣ざるべし		古典 ざる vs 現代 ない	contrast-derived	古典形	古典 ざる vs 現代 ない	古典と現代の対比	この剣ではない（はず） vs modern form	[sound:243fe7d40498.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+去るべし		古典 べし vs 現代 はずだ	contrast-derived	古典形	古典 べし vs 現代 はずだ	古典と現代の対比	行くはずだ vs modern form	[sound:1009e1c92816.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi
+王なりし		古典 ましし vs 現代 だった	contrast-derived	古典形	古典 ましし vs 現代 だった	古典と現代の対比	王だった vs modern form	[sound:114549de77c4.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi
+我は彼を愛したり		古典 たり vs 現代 た	contrast-derived	古典形	古典 たり vs 現代 た	古典と現代の対比	僕は彼を愛した vs modern form	[sound:27e4c7787cbf.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi
+するな		古典 な禁止 vs 現代 な禁止	contrast-derived	古典形	古典 な禁止 vs 現代 な禁止	古典と現代の対比	するな vs modern form	[sound:3821b0ca69c5.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+ねばならぬ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	しなければならない vs modern form	[sound:732a3eeb83d3.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+未だ知らざり		古典 ざり vs 現代 なかった	contrast-derived	古典形	古典 ざり vs 現代 なかった	古典と現代の対比	まだ知らなかった vs modern form	[sound:ab43e9d5182a.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi
+此の事あり		古典 あり vs 現代 ある	contrast-derived	古典形	古典 あり vs 現代 ある	古典と現代の対比	この事がある vs modern form	[sound:7d49077da8dd.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top5k source:imabi
+王たり		古典 たり vs 現代 である	contrast-derived	古典形	古典 たり vs 現代 である	古典と現代の対比	王である vs modern form	[sound:fe345c7bf3d0.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi
+去らぬ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	行かない vs modern form	[sound:7ed4633ef098.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+見たり		古典 たり vs 現代 た	contrast-derived	古典形	古典 たり vs 現代 た	古典と現代の対比	見た vs modern form	[sound:066ee4917305.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+愛すべからず		古典 べからず vs 現代 べきではない	contrast-derived	古典形	古典 べからず vs 現代 べきではない	古典と現代の対比	愛すべきではない vs modern form	[sound:d95ecd3f6288.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi
+知れたり		古典 たり vs 現代 た	contrast-derived	古典形	古典 たり vs 現代 た	古典と現代の対比	知れた vs modern form	[sound:ac7980d7edf6.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+人にあらず		古典 あらず vs 現代 ではない	contrast-derived	古典形	古典 あらず vs 現代 ではない	古典と現代の対比	人ではない vs modern form	[sound:01c7495a765b.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top1k source:imabi
+言わぬ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	言わない vs modern form	[sound:b2b0135dbf44.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+来るべし		古典 べし vs 現代 はずだ	contrast-derived	古典形	古典 べし vs 現代 はずだ	古典と現代の対比	来るはずだ vs modern form	[sound:4029f2000aba.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top1k source:imabi
+されたり		古典 たり vs 現代 た	contrast-derived	古典形	古典 たり vs 現代 た	古典と現代の対比	された vs modern form	[sound:6a9e2ab40377.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+往かぬ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	行かない vs modern form	[sound:99c28369086a.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi
+為りたり		古典 たり vs 現代 た	contrast-derived	古典形	古典 たり vs 現代 た	古典と現代の対比	なった vs modern form	[sound:3cbdfbef463c.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top5k source:imabi
+知るぞ		古典 ぞ vs 現代 のだ	contrast-derived	古典形	古典 ぞ vs 現代 のだ	古典と現代の対比	知るのだ vs modern form	[sound:5aace5cfd11f.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top1k source:imabi
+無し		古典 無し vs 現代 ない	contrast-derived	古典形	古典 無し vs 現代 ない	古典と現代の対比	ない vs modern form	[sound:583066c0e658.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi
+果てぬ		古典 ぬ vs 現代 ない	contrast-derived	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	果てない vs modern form	[sound:82192e8322ce.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi
+結びたり		古典 たり vs 現代 た	contrast-derived	古典形	古典 たり vs 現代 た	古典と現代の対比	結んだ vs modern form	[sound:34a61d04139b.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi

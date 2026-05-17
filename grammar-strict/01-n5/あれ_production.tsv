@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using あれ	（あれ）の例文1です。		（あれ）の例文1です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using あれ	（あれ）の例文2です。		（あれ）の例文2です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using あれ	（あれ）の例文3です。		（あれ）の例文3です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using あれ	（あれ）の例文4です。		（あれ）の例文4です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using あれ	（あれ）の例文5です。		（あれ）の例文5です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro

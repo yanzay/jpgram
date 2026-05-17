@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "description": "Provable grammar-completeness contract for jpgram. Primary external checklist is Bunpro live; deck-native lanes use bunpro:exempt/* and are tracked separately in reverse coverage.",
+  "primary_reference": {
+    "id": "bunpro_live",
+    "snapshot_path": "data/grammar-refs/bunpro_live_index.json",
+    "source_url": "https://bunpro.jp/grammar_points",
+    "reverse_coverage_levels": ["JLPT5", "JLPT4", "JLPT3", "JLPT2", "JLPT1"]
+  },
+  "strict_deck": {
+    "taxonomy_path": "data/grammar_taxonomy_bunpro.tsv",
+    "grammar_dir": "grammar-strict",
+    "manifest_path": "data/grammar-refs/strict_deck_manifest.json",
+    "description": "Parallel Bunpro-atomic deck; legacy grammar/ + grammar_taxonomy.tsv remain until cutover."
+  },
+  "taxonomy_exemptions": [
+    {
+      "point_slug": "kana",
+      "exempt_id": "bunpro:exempt/writing-system",
+      "lane": "deck-native",
+      "notes": "Hiragana/katakana; outside Bunpro grammar tree"
+    },
+    {
+      "point_slug": "pitch-accent-primer",
+      "exempt_id": "bunpro:exempt/pitch-accent",
+      "lane": "deck-native",
+      "notes": "Prosody primer; deck-specific reference"
+    },
+    {
+      "point_slug": "pitch-accent",
+      "exempt_id": "bunpro:exempt/pitch-accent",
+      "lane": "deck-native",
+      "notes": "Per-card pitch overlays; not a Bunpro grammar point"
+    },
+    {
+      "point_slug": "onomatopoeia",
+      "exempt_id": "bunpro:exempt/onomatopoeia",
+      "lane": "content-plan",
+      "notes": "Module root; atomic onomatopoeia items are CONTENT_PLAN-owned"
+    },
+    {
+      "point_slug": "giongo-sounds",
+      "exempt_id": "bunpro:exempt/onomatopoeia",
+      "lane": "content-plan",
+      "notes": "擬音語 bucket"
+    },
+    {
+      "point_slug": "giseigo-voices",
+      "exempt_id": "bunpro:exempt/onomatopoeia",
+      "lane": "content-plan",
+      "notes": "擬声語 bucket"
+    },
+    {
+      "point_slug": "gitaigo-states",
+      "exempt_id": "bunpro:exempt/onomatopoeia",
+      "lane": "content-plan",
+      "notes": "擬態語 bucket"
+    },
+    {
+      "point_slug": "emotional-onomatopoeia",
+      "exempt_id": "bunpro:exempt/onomatopoeia",
+      "lane": "content-plan",
+      "notes": "Emotional mimesis bucket"
+    },
+    {
+      "point_slug": "l1-articles-and-number",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills; not Bunpro-modeled"
+    },
+    {
+      "point_slug": "l1-givereceive-direction",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills"
+    },
+    {
+      "point_slug": "l1-particles-overlap",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills"
+    },
+    {
+      "point_slug": "l1-pronoun-overuse",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills"
+    },
+    {
+      "point_slug": "l1-relative-clauses",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills"
+    },
+    {
+      "point_slug": "l1-tense-aspect",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills"
+    },
+    {
+      "point_slug": "l1-yes-no_negative-questions",
+      "exempt_id": "bunpro:exempt/l1-interference",
+      "lane": "content-plan",
+      "notes": "L1 contrast drills"
+    }
+  ],
+  "taxonomy_normalize_buckets": [
+    { "point_slug": "n5-misc", "target_levels": ["JLPT5"] },
+    { "point_slug": "n2-misc", "target_levels": ["JLPT2"] },
+    { "point_slug": "n2-set-phrases", "target_levels": ["JLPT2"] },
+    { "point_slug": "n3-misc-modality", "target_levels": ["JLPT3"] },
+    { "point_slug": "business-phrases", "target_levels": ["JLPT3", "JLPT2", "JLPT1"] },
+    { "point_slug": "keigo", "target_levels": ["JLPT3", "JLPT2", "JLPT1"] },
+    { "point_slug": "sonkei-vs-kenjo", "target_levels": ["JLPT3", "JLPT2"] },
+    { "point_slug": "teineigo-bikago", "target_levels": ["JLPT4", "JLPT3"] },
+    { "point_slug": "slang", "target_levels": ["Non-JLPT"] },
+    { "point_slug": "internet-slang", "target_levels": ["Non-JLPT"] },
+    { "point_slug": "youth-slang", "target_levels": ["Non-JLPT"] },
+    { "point_slug": "copula", "target_levels": ["JLPT5"] },
+    { "point_slug": "demonstratives", "target_levels": ["JLPT5"] },
+    { "point_slug": "counters", "target_levels": ["JLPT5"] },
+    { "point_slug": "verb-groups", "target_levels": ["JLPT5"] },
+    { "point_slug": "na-adjectives", "target_levels": ["JLPT5"] },
+    { "point_slug": "passive", "target_levels": ["JLPT4"] },
+    { "point_slug": "voice", "target_levels": ["JLPT4"] },
+    { "point_slug": "transitive-intransitive", "target_levels": ["JLPT4"] },
+    { "point_slug": "wake-koto-mono", "target_levels": ["JLPT3"] },
+    { "point_slug": "uchi-aida", "target_levels": ["JLPT3"] },
+    { "point_slug": "extent-inference", "target_levels": ["JLPT2"] },
+    { "point_slug": "temporal-conditional", "target_levels": ["JLPT2"] },
+    { "point_slug": "classical-negation", "target_levels": ["JLPT1"] },
+    { "point_slug": "n1-modality-stiff", "target_levels": ["JLPT1"] },
+    { "point_slug": "n1-aux-suffixes", "target_levels": ["JLPT1"] },
+    { "point_slug": "n1-prefixes-counters", "target_levels": ["JLPT1"] },
+    { "point_slug": "n1-rare-relative", "target_levels": ["JLPT1"] },
+    { "point_slug": "n1-suffixes", "target_levels": ["JLPT1"] },
+    { "point_slug": "casual", "target_levels": ["JLPT4", "JLPT3"] },
+    { "point_slug": "classical", "target_levels": ["JLPT1"] },
+    { "point_slug": "sfp", "target_levels": ["JLPT4", "JLPT3"] },
+    { "point_slug": "academic-jargon", "target_levels": ["JLPT1"] }
+  ]
+}

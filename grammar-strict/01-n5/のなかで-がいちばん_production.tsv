@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using のなかで～がいちばん～	（のなかで～がいちばん～）の例文1です。		（のなかで～がいちばん～）の例文1です。	Out of ~, ~ is the best/most ~	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のなかで-がいちばん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using のなかで～がいちばん～	（のなかで～がいちばん～）の例文2です。		（のなかで～がいちばん～）の例文2です。	Out of ~, ~ is the best/most ~	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のなかで-がいちばん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using のなかで～がいちばん～	（のなかで～がいちばん～）の例文3です。		（のなかで～がいちばん～）の例文3です。	Out of ~, ~ is the best/most ~	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のなかで-がいちばん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using のなかで～がいちばん～	（のなかで～がいちばん～）の例文4です。		（のなかで～がいちばん～）の例文4です。	Out of ~, ~ is the best/most ~	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のなかで-がいちばん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using のなかで～がいちばん～	（のなかで～がいちばん～）の例文5です。		（のなかで～がいちばん～）の例文5です。	Out of ~, ~ is the best/most ~	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:のなかで-がいちばん scaffold:pending-content scaffold:pending-audio source:bunpro

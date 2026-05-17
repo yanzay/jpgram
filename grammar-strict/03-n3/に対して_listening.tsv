@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Transcript	Reading	EN	Hint	Tags
+#notetype:Listening
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+
+[sound:05f11672b23b.mp3]	今こそ始めるべき時だ。	いまこそはじめるべきときだ。	こそ: Emphatic.	Signals 'THIS is the time'	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top5k source:shin-kanzen complexity:standard
+[sound:98238e92886a.mp3]	彼こそが真犯人だ。	かれこそがしんはんにんだ。	こそ: Emphatic.	Points to the REAL culprit	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:d83d90e43429.mp3]	苦難こそが人を成長させる。	くなんこそがにんをせいちょうさせる。	こそ: Emphatic.	Hardship itself builds character	module:03-n3 jlpt:n3 point:に対して complexity:standard frequency:top10k source:shin-kanzen
+[sound:6385574dfa48.mp3]	今年こそ合格したい。	こんねんこそごうかくしたい。	こそ: Emphatic.	THIS year I want to pass	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:c8d08af17b0d.mp3]	君こそ相応しい。	くんこそふさわしい。	こそ: Emphatic.	You're THE one	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:low source:shin-kanzen complexity:standard
+[sound:6c035ada0da8.mp3]	想像だに難しい。	そうぞうだにむずかしい。	だに: Even-not.	Hard to even imagine	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:779c65e44c9a.mp3]	名前だに知らない。	なまえだにしらない。	だに: Even-not.	Don't even know the name	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top1k source:shin-kanzen complexity:standard
+[sound:64ff6832773f.mp3]	読むことだに困難だ。	よむことだにこんなんだ。	だに: Even-not.	Hard to even read	module:03-n3 jlpt:n3 point:に対して complexity:intro frequency:top10k source:shin-kanzen complexity:standard

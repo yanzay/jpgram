@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using する	（する）の例文1です。		（する）の例文1です。	To do, To make into	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using する	（する）の例文2です。		（する）の例文2です。	To do, To make into	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using する	（する）の例文3です。		（する）の例文3です。	To do, To make into	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using する	（する）の例文4です。		（する）の例文4です。	To do, To make into	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:する scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using する	（する）の例文5です。		（する）の例文5です。	To do, To make into	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:する scaffold:pending-content scaffold:pending-audio source:bunpro

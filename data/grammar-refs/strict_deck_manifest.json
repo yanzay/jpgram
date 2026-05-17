@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-05-17T09:08:37.961320+00:00",
+  "taxonomy_path": "data/grammar_taxonomy_bunpro.tsv",
+  "grammar_dir": "grammar-strict",
+  "counts": {
+    "bunpro_atomic_rows": 945,
+    "exempt_rows": 15,
+    "total_rows": 960
+  },
+  "in_scope_levels": [
+    "JLPT5",
+    "JLPT4",
+    "JLPT3",
+    "JLPT2",
+    "JLPT1"
+  ]
+}

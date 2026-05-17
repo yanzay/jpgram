@@ -1,0 +1,962 @@
+#columns:point_slug	jlpt	module	bunpro_id	tofugu_url	imabi_url	shinkanzen_ref	djg_page	notes
+
+-んです-のです	n5	01-n5	bunpro:-んです-のです			sk:auto/n5	djg:bunpro/-んです-のです	strict-deck; bunpro:-んです-のです; ～んです・のです; Explanatory, Emphasis, The fact is
+adjective-て-b	n5	01-n5	bunpro:adjective-て-b			sk:auto/n5	djg:bunpro/adjective-て-b	strict-deck; bunpro:adjective-て-b; Adjective + て + B; And..., Both and (Conjunctive)
+adjective-て-noun-で	n5	01-n5	bunpro:adjective-て-noun-で			sk:auto/n5	djg:bunpro/adjective-て-noun-で	strict-deck; bunpro:adjective-て-noun-で; Adjective + て・Noun + で; And... (Conjunctive)
+adjective-の-は	n5	01-n5	bunpro:adjective-の-は			sk:auto/n5	djg:bunpro/adjective-の-は	strict-deck; bunpro:adjective-の-は; Adjective + の(は); The 'one' that... (Indefinite pronoun, Adjective nominalization)
+negative-い-adjectives	n5	01-n5	bunpro:negative-い-adjectives			sk:auto/n5	djg:bunpro/negative-い-adjectives	strict-deck; bunpro:negative-い-adjectives; い-Adjectives くない; Not (Adjective)
+noun-まで	n5	01-n5	bunpro:noun-まで			sk:auto/n5	djg:bunpro/noun-まで	strict-deck; bunpro:noun-まで; Noun + まで; Until, Till,  To (but no further than)
+past-tense-い-adjectives	n5	01-n5	bunpro:past-tense-い-adjectives			sk:auto/n5	djg:bunpro/past-tense-い-adjectives	strict-deck; bunpro:past-tense-い-adjectives; い-Adjective (Past); Was, Were (Past tense)
+polite-verb-endings	n5	01-n5	bunpro:polite-verb-endings			sk:auto/n5	djg:bunpro/polite-verb-endings	strict-deck; bunpro:polite-verb-endings; ます; Polite Verb Endings
+v-まで	n5	01-n5	bunpro:v-まで			sk:auto/n5	djg:bunpro/v-まで	strict-deck; bunpro:v-まで; Verb + まで; Until (something) happens
+verb-non-past	n5	01-n5	bunpro:verb-non-past			sk:auto/n5	djg:bunpro/verb-non-past	strict-deck; bunpro:verb-non-past; Verbs (Non-past); (Non-past)
+verb-た-noun	n5	01-n5	bunpro:verb-た-noun			sk:auto/n5	djg:bunpro/verb-た-noun	strict-deck; bunpro:verb-た-noun; Verb［た・ている］+ Noun; Verb modified noun, Relative clause
+verb-て	n5	01-n5	bunpro:verb-て			sk:auto/n5	djg:bunpro/verb-て	strict-deck; bunpro:verb-て; Verb + て; And, Then (Linking events)
+verb-て-b	n5	01-n5	bunpro:verb-て-b			sk:auto/n5	djg:bunpro/verb-て-b	strict-deck; bunpro:verb-て-b; Verb + て+ B; And, And then, After that (sequence)
+verb-てもいい	n5	01-n5	bunpro:verb-てもいい			sk:auto/n5	djg:bunpro/verb-てもいい	strict-deck; bunpro:verb-てもいい; Verb + てもいい; It's okay to, It's alright to, Can/may
+verb-にいく	n5	01-n5	bunpro:verb-にいく			sk:auto/n5	djg:bunpro/verb-にいく	strict-deck; bunpro:verb-にいく; Verb + にいく; To go ~, To go in order to ~
+あげる	n5	01-n5	bunpro:あげる			sk:auto/n5	djg:bunpro/あげる	strict-deck; bunpro:あげる; あげる; To give (away), To present, To provide
+あそこ	n5	01-n5	bunpro:あそこ			sk:auto/n5	djg:bunpro/あそこ	strict-deck; bunpro:あそこ; あそこ; Over there
+あの	n5	01-n5	bunpro:あの			sk:auto/n5	djg:bunpro/あの	strict-deck; bunpro:あの; あの; That (over there)
+あれ	n5	01-n5	bunpro:あれ			sk:auto/n5	djg:bunpro/あれ	strict-deck; bunpro:あれ; あれ; That (over there)
+い-Adjective-くなかった	n5	01-n5	bunpro:い-Adjective-くなかった			sk:auto/n5	djg:bunpro/い-Adjective-くなかった	strict-deck; bunpro:い-Adjective-くなかった; い-Adjective くなかった; Was not, Wasn't (Adjective)
+い-adjective-noun	n5	01-n5	bunpro:い-adjective-noun			sk:auto/n5	djg:bunpro/い-adjective-noun	strict-deck; bunpro:い-adjective-noun; い-Adjective + Noun; Describing a noun
+い-adjective-predicate	n5	01-n5	bunpro:い-adjective-predicate			sk:auto/n5	djg:bunpro/い-adjective-predicate	strict-deck; bunpro:い-adjective-predicate; い-Adjective (Predicate); い-Adjective (Predicate)
+い-adjectives	n5	01-n5	bunpro:い-adjectives			sk:auto/n5	djg:bunpro/い-adjectives	strict-deck; bunpro:い-adjectives; い-Adjectives; Adjectives ending in い
+いい	n5	01-n5	bunpro:いい			sk:auto/n5	djg:bunpro/いい	strict-deck; bunpro:いい; いい; い-Adjective meaning 'good'
+う-Verbs	n5	01-n5	bunpro:う-Verbs			sk:auto/n5	djg:bunpro/う-Verbs	strict-deck; bunpro:う-Verbs; う-Verb (Dictionary); う + ます (Godan Verbs)
+う-verb-neg-past	n5	01-n5	bunpro:う-verb-neg-past			sk:auto/n5	djg:bunpro/う-verb-neg-past	strict-deck; bunpro:う-verb-neg-past; う-Verb (Negative-Past); う - Verbs (Negative-past tense)
+う-verb-past	n5	01-n5	bunpro:う-verb-past			sk:auto/n5	djg:bunpro/う-verb-past	strict-deck; bunpro:う-verb-past; う-Verb (Past); う - Verbs (Past tense)
+うverb--ない	n5	01-n5	bunpro:うverb--ない			sk:auto/n5	djg:bunpro/うverb--ない	strict-deck; bunpro:うverb--ない; う-Verb (Negative); Will/Does/Do (not)
+か	n5	01-n5	bunpro:か			sk:auto/n5	djg:bunpro/か	strict-deck; bunpro:か; か; Question marking particle
+か-or	n5	01-n5	bunpro:か-or			sk:auto/n5	djg:bunpro/か-or	strict-deck; bunpro:か-or; か; Or
+から	n5	01-n5	bunpro:から			sk:auto/n5	djg:bunpro/から	strict-deck; bunpro:から; から; From
+から-because	n5	01-n5	bunpro:から-because			sk:auto/n5	djg:bunpro/から-because	strict-deck; bunpro:から-because; から; Because, Since
+が	n5	01-n5	bunpro:が			sk:auto/n5	djg:bunpro/が	strict-deck; bunpro:が; が; Subject marking particle, Identification particle
+が-but	n5	01-n5	bunpro:が-but			sk:auto/n5	djg:bunpro/が-but	strict-deck; bunpro:が-but; が; But, However
+がある	n5	01-n5	bunpro:がある			sk:auto/n5	djg:bunpro/がある	strict-deck; bunpro:がある; がある; To be, There is
+がある-noun	n5	01-n5	bunpro:がある-noun			sk:auto/n5	djg:bunpro/がある-noun	strict-deck; bunpro:がある-noun; がある + Noun; Noun (B) that has Noun (A), Noun (B) with Noun (A)
+がいる	n5	01-n5	bunpro:がいる			sk:auto/n5	djg:bunpro/がいる	strict-deck; bunpro:がいる; がいる; To be, There is,  To remain (in a state)
+きらい	n5	01-n5	bunpro:きらい			sk:auto/n5	djg:bunpro/きらい	strict-deck; bunpro:きらい; きらい; Dislike, Not fond of
+くらい1	n5	01-n5	bunpro:くらい1			sk:auto/n5	djg:bunpro/くらい1	strict-deck; bunpro:くらい1; くらい ①; About, Approximately
+くる	n5	01-n5	bunpro:くる			sk:auto/n5	djg:bunpro/くる	strict-deck; bunpro:くる; くる; To come
+くれる	n5	01-n5	bunpro:くれる			sk:auto/n5	djg:bunpro/くれる	strict-deck; bunpro:くれる; くれる; To give (me), To be given
+けっこう	n5	01-n5	bunpro:けっこう			sk:auto/n5	djg:bunpro/けっこう	strict-deck; bunpro:けっこう; けっこう; Quite, A lot, Fairly, Rather
+けど-だけど	n5	01-n5	bunpro:けど-だけど			sk:auto/n5	djg:bunpro/けど-だけど	strict-deck; bunpro:けど-だけど; けど・だけど; But, However
+けれども	n5	01-n5	bunpro:けれども			sk:auto/n5	djg:bunpro/けれども	strict-deck; bunpro:けれども; けれども; But, Although
+ここ	n5	01-n5	bunpro:ここ			sk:auto/n5	djg:bunpro/ここ	strict-deck; bunpro:ここ; ここ; Here, This place
+この	n5	01-n5	bunpro:この			sk:auto/n5	djg:bunpro/この	strict-deck; bunpro:この; この; This
+これ	n5	01-n5	bunpro:これ			sk:auto/n5	djg:bunpro/これ	strict-deck; bunpro:これ; これ; This
+じゃない	n5	01-n5	bunpro:じゃない			sk:auto/n5	djg:bunpro/じゃない	strict-deck; bunpro:じゃない; じゃない; Is not, Isn't
+じゃなかった	n5	01-n5	bunpro:じゃなかった			sk:auto/n5	djg:bunpro/じゃなかった	strict-deck; bunpro:じゃなかった; じゃなかった; Was not, Wasn't
+すき	n5	01-n5	bunpro:すき			sk:auto/n5	djg:bunpro/すき	strict-deck; bunpro:すき; 好き; Like, Fond of
+すぎる	n5	01-n5	bunpro:すぎる			sk:auto/n5	djg:bunpro/すぎる	strict-deck; bunpro:すぎる; すぎる; Too much, Very
+する	n5	01-n5	bunpro:する			sk:auto/n5	djg:bunpro/する	strict-deck; bunpro:する; する; To do, To make into
+そこ	n5	01-n5	bunpro:そこ			sk:auto/n5	djg:bunpro/そこ	strict-deck; bunpro:そこ; そこ; There, That place
+その	n5	01-n5	bunpro:その			sk:auto/n5	djg:bunpro/その	strict-deck; bunpro:その; その; That
+それ	n5	01-n5	bunpro:それ			sk:auto/n5	djg:bunpro/それ	strict-deck; bunpro:それ; それ; That
+たい	n5	01-n5	bunpro:たい			sk:auto/n5	djg:bunpro/たい	strict-deck; bunpro:たい; たい; Want to do
+たくさん	n5	01-n5	bunpro:たくさん			sk:auto/n5	djg:bunpro/たくさん	strict-deck; bunpro:たくさん; たくさん; Many, A lot of, Plenty, Enough
+たことがある	n5	01-n5	bunpro:たことがある			sk:auto/n5	djg:bunpro/たことがある	strict-deck; bunpro:たことがある; たことがある; Have done before
+たほうがいい	n5	01-n5	bunpro:たほうがいい			sk:auto/n5	djg:bunpro/たほうがいい	strict-deck; bunpro:たほうがいい; たほうがいい; It'd be better to, Should do
+たり-たりする	n5	01-n5	bunpro:たり-たりする			sk:auto/n5	djg:bunpro/たり-たりする	strict-deck; bunpro:たり-たりする; たり～たりする; Things like ~ and ~
+だ	n5	01-n5	bunpro:だ			sk:auto/n5	djg:bunpro/だ	strict-deck; bunpro:だ; だ; To be, Is
+だけ	n5	01-n5	bunpro:だけ			sk:auto/n5	djg:bunpro/だけ	strict-deck; bunpro:だけ; だけ; Only, Just
+だった-でした	n5	01-n5	bunpro:だった-でした			sk:auto/n5	djg:bunpro/だった-でした	strict-deck; bunpro:だった-でした; だった・でした; Was, Were (Past tense)
+だれ	n5	01-n5	bunpro:だれ			sk:auto/n5	djg:bunpro/だれ	strict-deck; bunpro:だれ; 誰; Who
+だろう	n5	01-n5	bunpro:だろう			sk:auto/n5	djg:bunpro/だろう	strict-deck; bunpro:だろう; だろう; Right?, Probably, Isn't it?
+って	n5	01-n5	bunpro:って			sk:auto/n5	djg:bunpro/って	strict-deck; bunpro:って; って; Casual quotation
+つもりだ	n5	01-n5	bunpro:つもりだ			sk:auto/n5	djg:bunpro/つもりだ	strict-deck; bunpro:つもりだ; つもりだ; To plan to, To intend to
+ている1	n5	01-n5	bunpro:ている1			sk:auto/n5	djg:bunpro/ている1	strict-deck; bunpro:ている1; ている①; Is, Am, Are (~ing)
+ている2	n5	01-n5	bunpro:ている2			sk:auto/n5	djg:bunpro/ている2	strict-deck; bunpro:ている2; ている②; State of being, Has (have) done
+ている3	n5	01-n5	bunpro:ている3			sk:auto/n5	djg:bunpro/ている3	strict-deck; bunpro:ている3; ている③; Has/have done, Is ~ing (Repetition)
+てから	n5	01-n5	bunpro:てから			sk:auto/n5	djg:bunpro/てから	strict-deck; bunpro:てから; てから; Once...is done, Once...happens, After doing
+てください	n5	01-n5	bunpro:てください			sk:auto/n5	djg:bunpro/てください	strict-deck; bunpro:てください; てください; Please do (Polite request)
+てはいけない	n5	01-n5	bunpro:てはいけない			sk:auto/n5	djg:bunpro/てはいけない	strict-deck; bunpro:てはいけない; てはいけない; Must not, May not
+てもいい	n5	01-n5	bunpro:てもいい			sk:auto/n5	djg:bunpro/てもいい	strict-deck; bunpro:てもいい; てもいい; It is alright/fine/okay even if, Can/may, ~ is also okay
+で	n5	01-n5	bunpro:で			sk:auto/n5	djg:bunpro/で	strict-deck; bunpro:で; で; At, In
+で-by	n5	01-n5	bunpro:で-by			sk:auto/n5	djg:bunpro/で-by	strict-deck; bunpro:で-by; で; With, By (using)
+でしょう	n5	01-n5	bunpro:でしょう			sk:auto/n5	djg:bunpro/でしょう	strict-deck; bunpro:でしょう; でしょう; Right?, Probably, Isn't it?
+です	n5	01-n5	bunpro:です			sk:auto/n5	djg:bunpro/です	strict-deck; bunpro:です; です; To be, Is
+と	n5	01-n5	bunpro:と			sk:auto/n5	djg:bunpro/と	strict-deck; bunpro:と; と; Quotation
+と-and	n5	01-n5	bunpro:と-and			sk:auto/n5	djg:bunpro/と-and	strict-deck; bunpro:と-and; と; And
+と-with	n5	01-n5	bunpro:と-with			sk:auto/n5	djg:bunpro/と-with	strict-deck; bunpro:と-with; と; With
+どうして	n5	01-n5	bunpro:どうして			sk:auto/n5	djg:bunpro/どうして	strict-deck; bunpro:どうして; どうして; Why
+どこ	n5	01-n5	bunpro:どこ			sk:auto/n5	djg:bunpro/どこ	strict-deck; bunpro:どこ; どこ; Where
+どの	n5	01-n5	bunpro:どの			sk:auto/n5	djg:bunpro/どの	strict-deck; bunpro:どの; どの; Which (of three or more), What (kind)
+どれ	n5	01-n5	bunpro:どれ			sk:auto/n5	djg:bunpro/どれ	strict-deck; bunpro:どれ; どれ; Which (of three or more)
+な	n5	01-n5	bunpro:な			sk:auto/n5	djg:bunpro/な	strict-deck; bunpro:な; な; Do not, Don't (Prohibitive)
+な-adjective-noun	n5	01-n5	bunpro:な-adjective-noun			sk:auto/n5	djg:bunpro/な-adjective-noun	strict-deck; bunpro:な-adjective-noun; な-Adjective + Noun; Describing a noun
+な-adjective-predicate	n5	01-n5	bunpro:な-adjective-predicate			sk:auto/n5	djg:bunpro/な-adjective-predicate	strict-deck; bunpro:な-adjective-predicate; な-Adjective だ; な-Adjective (Predicate)
+な-adjectives	n5	01-n5	bunpro:な-adjectives			sk:auto/n5	djg:bunpro/な-adjectives	strict-deck; bunpro:な-adjectives; な-Adjectives; Adjectives that are also nouns
+ないでください	n5	01-n5	bunpro:ないでください			sk:auto/n5	djg:bunpro/ないでください	strict-deck; bunpro:ないでください; ないでください; Please don't (Polite request)
+ないほうがいい	n5	01-n5	bunpro:ないほうがいい			sk:auto/n5	djg:bunpro/ないほうがいい	strict-deck; bunpro:ないほうがいい; ないほうがいい; It'd be better not to, Shouldn't do
+なくちゃ-なきゃ	n5	01-n5	bunpro:なくちゃ-なきゃ			sk:auto/n5	djg:bunpro/なくちゃ-なきゃ	strict-deck; bunpro:なくちゃ-なきゃ; なくちゃ・なきゃ; Must do, Have to do
+なくてはいけない	n5	01-n5	bunpro:なくてはいけない			sk:auto/n5	djg:bunpro/なくてはいけない	strict-deck; bunpro:なくてはいけない; なくてはいけない; Must do, Have to do
+なくてはならない	n5	01-n5	bunpro:なくてはならない			sk:auto/n5	djg:bunpro/なくてはならない	strict-deck; bunpro:なくてはならない; なくてはならない; Must do, Have to do
+なぜ	n5	01-n5	bunpro:なぜ			sk:auto/n5	djg:bunpro/なぜ	strict-deck; bunpro:なぜ; なぜ; Why
+なにか-なにも	n5	01-n5	bunpro:なにか-なにも			sk:auto/n5	djg:bunpro/なにか-なにも	strict-deck; bunpro:なにか-なにも; なにか・なにも; Something, Nothing, Anything, Not anything, Some kind of, Not any kind of
+なんで	n5	01-n5	bunpro:なんで			sk:auto/n5	djg:bunpro/なんで	strict-deck; bunpro:なんで; なんで; Why
+に	n5	01-n5	bunpro:に			sk:auto/n5	djg:bunpro/に	strict-deck; bunpro:に; に; In, At, To, For, On
+にする	n5	01-n5	bunpro:にする			sk:auto/n5	djg:bunpro/にする	strict-deck; bunpro:にする; にする; To decide on, To choose, To make something into, To view something as
+になる-くなる	n5	01-n5	bunpro:になる-くなる			sk:auto/n5	djg:bunpro/になる-くなる	strict-deck; bunpro:になる-くなる; ～になる・～くなる; To become (Adjective)
+ね	n5	01-n5	bunpro:ね			sk:auto/n5	djg:bunpro/ね	strict-deck; bunpro:ね; ね; Isn't it?, Right? (Sentence ending particle)
+の	n5	01-n5	bunpro:の			sk:auto/n5	djg:bunpro/の	strict-deck; bunpro:の; の; Indicates possession
+の-noun-ommission	n5	01-n5	bunpro:の-noun-ommission			sk:auto/n5	djg:bunpro/の-noun-ommission	strict-deck; bunpro:の-noun-ommission; の; Possessive use (Noun omission)
+の-questions	n5	01-n5	bunpro:の-questions			sk:auto/n5	djg:bunpro/の-questions	strict-deck; bunpro:の-questions; の (Questions); Contextual and Explanatory Questions
+の-subject	n5	01-n5	bunpro:の-subject			sk:auto/n5	djg:bunpro/の-subject	strict-deck; bunpro:の-subject; が・の (Subject); Particle Swapping
+のがじょうず	n5	01-n5	bunpro:のがじょうず			sk:auto/n5	djg:bunpro/のがじょうず	strict-deck; bunpro:のがじょうず; のがじょうず; To be good at, Proficient
+のがすき	n5	01-n5	bunpro:のがすき			sk:auto/n5	djg:bunpro/のがすき	strict-deck; bunpro:のがすき; のがすき; Like doing, Love doing
+のがへた	n5	01-n5	bunpro:のがへた			sk:auto/n5	djg:bunpro/のがへた	strict-deck; bunpro:のがへた; のがへた; To be bad at, Poor at, Unskillful
+ので	n5	01-n5	bunpro:ので			sk:auto/n5	djg:bunpro/ので	strict-deck; bunpro:ので; ので; Because, So, Since, The reason being
+のなかで-がいちばん	n5	01-n5	bunpro:のなかで-がいちばん			sk:auto/n5	djg:bunpro/のなかで-がいちばん	strict-deck; bunpro:のなかで-がいちばん; のなかで～がいちばん～; Out of ~, ~ is the best/most ~
+のは	n5	01-n5	bunpro:のは			sk:auto/n5	djg:bunpro/のは	strict-deck; bunpro:のは; の; Verb nominalizer, The one who..., That which...
+は	n5	01-n5	bunpro:は			sk:auto/n5	djg:bunpro/は	strict-deck; bunpro:は; は; As for... (Highlights sentence topic)
+へ	n5	01-n5	bunpro:へ			sk:auto/n5	djg:bunpro/へ	strict-deck; bunpro:へ; へ; To, Toward
+へいく	n5	01-n5	bunpro:へいく			sk:auto/n5	djg:bunpro/へいく	strict-deck; bunpro:へいく; へいく; To go to, To head toward
+まえに	n5	01-n5	bunpro:まえに			sk:auto/n5	djg:bunpro/まえに	strict-deck; bunpro:まえに; まえに; Before, In front of
+ましょう	n5	01-n5	bunpro:ましょう			sk:auto/n5	djg:bunpro/ましょう	strict-deck; bunpro:ましょう; ましょう; Let's, Shall we (Polite volitional)
+ましょうか	n5	01-n5	bunpro:ましょうか			sk:auto/n5	djg:bunpro/ましょうか	strict-deck; bunpro:ましょうか; ～ましょうか; Shall we, Shall I
+ませんか	n5	01-n5	bunpro:ませんか			sk:auto/n5	djg:bunpro/ませんか	strict-deck; bunpro:ませんか; ませんか; Won't you, Would you not, Why don't we
+まだ	n5	01-n5	bunpro:まだ			sk:auto/n5	djg:bunpro/まだ	strict-deck; bunpro:まだ; まだ; Still
+まだ-ていません	n5	01-n5	bunpro:まだ-ていません			sk:auto/n5	djg:bunpro/まだ-ていません	strict-deck; bunpro:まだ-ていません; まだ～ていません; Still haven't done (something)
+も	n5	01-n5	bunpro:も			sk:auto/n5	djg:bunpro/も	strict-deck; bunpro:も; も; Also, Too, As well, Even, Either, Neither
+もう	n5	01-n5	bunpro:もう			sk:auto/n5	djg:bunpro/もう	strict-deck; bunpro:もう; もう; Already, Anymore
+もらう	n5	01-n5	bunpro:もらう			sk:auto/n5	djg:bunpro/もらう	strict-deck; bunpro:もらう; もらう; To receive, To get, To obtain
+や	n5	01-n5	bunpro:や			sk:auto/n5	djg:bunpro/や	strict-deck; bunpro:や; や; Things like, And the like
+よ	n5	01-n5	bunpro:よ			sk:auto/n5	djg:bunpro/よ	strict-deck; bunpro:よ; よ; Emphasis (Sentence ending particle)
+より-のほうが	n5	01-n5	bunpro:より-のほうが			sk:auto/n5	djg:bunpro/より-のほうが	strict-deck; bunpro:より-のほうが; より～のほうが; To be more ~ than ~
+る-Verbs	n5	01-n5	bunpro:る-Verbs			sk:auto/n5	djg:bunpro/る-Verbs	strict-deck; bunpro:る-Verbs; る-Verb (Dictionary); る + ます (Ichidan Verbs)
+る-verb-neg-past	n5	01-n5	bunpro:る-verb-neg-past			sk:auto/n5	djg:bunpro/る-verb-neg-past	strict-deck; bunpro:る-verb-neg-past; る-Verb (Negative-Past); る - Verbs (Negative-past tense)
+る-verb-past	n5	01-n5	bunpro:る-verb-past			sk:auto/n5	djg:bunpro/る-verb-past	strict-deck; bunpro:る-verb-past; る-Verb (Past); る - Verbs (Past tense)
+るverb-ない	n5	01-n5	bunpro:るverb-ない			sk:auto/n5	djg:bunpro/るverb-ない	strict-deck; bunpro:るverb-ない; る-Verb (Negative); Will/Does/Do (not)
+を	n5	01-n5	bunpro:を			sk:auto/n5	djg:bunpro/を	strict-deck; bunpro:を; を; Object marking particle
+誰か-どこか-誰も-どこも	n5	01-n5	bunpro:誰か-どこか-誰も-どこも			sk:auto/n5	djg:bunpro/誰か-どこか-誰も-どこも	strict-deck; bunpro:誰か-どこか-誰も-どこも; 誰か・どこか・誰も・どこも; Someone, Somewhere, Not anyone, Not anywhere
+Verb[passive]	n4	02-n4	bunpro:Verb[passive]			sk:auto/n4	djg:bunpro/Verb[passive]	strict-deck; bunpro:Verb[passive]; Verb［れる・られる］; Was done to ~ by ~, Done without consent, Done to one's dismay
+Verb[potential]	n4	02-n4	bunpro:Verb[potential]			sk:auto/n4	djg:bunpro/Verb[potential]	strict-deck; bunpro:Verb[potential]; れる・られる (Potential); To be able, Can (Potential)
+causative	n4	02-n4	bunpro:causative			sk:auto/n4	djg:bunpro/causative	strict-deck; bunpro:causative; Verb［せる・させる］; To make/let/have (somebody do something)
+causative-passive	n4	02-n4	bunpro:causative-passive			sk:auto/n4	djg:bunpro/causative-passive	strict-deck; bunpro:causative-passive; Causative-Passive; Verbs (Causative-passive voice), To be made to do something, To be forced to do
+describing-verbs	n4	02-n4	bunpro:describing-verbs			sk:auto/n4	djg:bunpro/describing-verbs	strict-deck; bunpro:describing-verbs; く・に; ～ly (Describing verbs), Adverbs
+number-amount-は	n4	02-n4	bunpro:number-amount-は			sk:auto/n4	djg:bunpro/number-amount-は	strict-deck; bunpro:number-amount-は; Number/Amount + は; At least, Sort of, Or so
+number-しか-ない	n4	02-n4	bunpro:number-しか-ない			sk:auto/n4	djg:bunpro/number-しか-ない	strict-deck; bunpro:number-しか-ない; Number + しか〜ない; No more than, Not exceeding, As few as・as little as, Only
+number-も	n4	02-n4	bunpro:number-も			sk:auto/n4	djg:bunpro/number-も	strict-deck; bunpro:number-も; Number + も; Emphasis, As ~ as, Not even
+question-phrase-か	n4	02-n4	bunpro:question-phrase-か			sk:auto/n4	djg:bunpro/question-phrase-か	strict-deck; bunpro:question-phrase-か; Question-phrase + か; Including questions within sentences
+transitive-intransitive-verbs	n4	02-n4	bunpro:transitive-intransitive-verbs			sk:auto/n4	djg:bunpro/transitive-intransitive-verbs	strict-deck; bunpro:transitive-intransitive-verbs; 他動詞・自動詞; Done through action vs. occurring on its own
+verb-て-noun-で-b	n4	02-n4	bunpro:verb-て-noun-で-b			sk:auto/n4	djg:bunpro/verb-て-noun-で-b	strict-deck; bunpro:verb-て-noun-で-b; Verb[て]・Noun[で] + B; By, With, On, By means of, ~ing with
+verb-ないで	n4	02-n4	bunpro:verb-ないで			sk:auto/n4	djg:bunpro/verb-ないで	strict-deck; bunpro:verb-ないで; Verb[ないで]; (Please) do not (for me), Casual request
+verbて-b	n4	02-n4	bunpro:verbて-b			sk:auto/n4	djg:bunpro/verbて-b	strict-deck; bunpro:verbて-b; Verb[て] + B; Non-sequence, And, But (Contrast), Parallel action/state
+verbて-b2	n4	02-n4	bunpro:verbて-b2			sk:auto/n4	djg:bunpro/verbて-b2	strict-deck; bunpro:verbて-b2; Verb[て] + B; And・and so, Due to, Because of, Since, Conjunctive
+verbて-request	n4	02-n4	bunpro:verbて-request			sk:auto/n4	djg:bunpro/verbて-request	strict-deck; bunpro:verbて-request; Verb[て]; Please do for me (Casual request)
+あとで	n4	02-n4	bunpro:あとで			sk:auto/n4	djg:bunpro/あとで	strict-deck; bunpro:あとで; あとで; After, Later
+あまり-ない	n4	02-n4	bunpro:あまり-ない			sk:auto/n4	djg:bunpro/あまり-ない	strict-deck; bunpro:あまり-ない; あまり～ない; Not very, Not much, Not really, Hardly
+いか	n4	02-n4	bunpro:いか			sk:auto/n4	djg:bunpro/いか	strict-deck; bunpro:いか; いか; Less than (or equal to), Under・(and) below, Any less・fewer, Not exceeding
+いがい	n4	02-n4	bunpro:いがい			sk:auto/n4	djg:bunpro/いがい	strict-deck; bunpro:いがい; いがい; Except・besides, Other than, With the exception of
+いたす	n4	02-n4	bunpro:いたす			sk:auto/n4	djg:bunpro/いたす	strict-deck; bunpro:いたす; いたす; To do (Humble), To venerably do
+いらっしゃる	n4	02-n4	bunpro:いらっしゃる			sk:auto/n4	djg:bunpro/いらっしゃる	strict-deck; bunpro:いらっしゃる; いらっしゃる; To be (Honorific), To come (Honorific), To go (Honorific)
+お-ください	n4	02-n4	bunpro:お-ください			sk:auto/n4	djg:bunpro/お-ください	strict-deck; bunpro:お-ください; お～ください ; Please do (Honorific)
+お-する	n4	02-n4	bunpro:お-する			sk:auto/n4	djg:bunpro/お-する	strict-deck; bunpro:お-する; お〜する; I humbly do, I am obliged to do, Humble speech
+お-になる	n4	02-n4	bunpro:お-になる			sk:auto/n4	djg:bunpro/お-になる	strict-deck; bunpro:お-になる; お～になる ; To do (Honorific)
+おわる	n4	02-n4	bunpro:おわる			sk:auto/n4	djg:bunpro/おわる	strict-deck; bunpro:おわる; おわる; To finish, To end
+かい	n4	02-n4	bunpro:かい			sk:auto/n4	djg:bunpro/かい	strict-deck; bunpro:かい; かい; Question marker
+かかる-time-cost	n4	02-n4	bunpro:かかる-time-cost			sk:auto/n4	djg:bunpro/かかる-time-cost	strict-deck; bunpro:かかる-time-cost; かかる (Time/Price); Costs (money), Takes (time)
+かしら	n4	02-n4	bunpro:かしら			sk:auto/n4	djg:bunpro/かしら	strict-deck; bunpro:かしら; かしら; I wonder
+かた	n4	02-n4	bunpro:かた			sk:auto/n4	djg:bunpro/かた	strict-deck; bunpro:かた; かた; Way of ~ing, How to ~, Manner of ~ing
+かどうか	n4	02-n4	bunpro:かどうか			sk:auto/n4	djg:bunpro/かどうか	strict-deck; bunpro:かどうか; かどうか; Whether or not, If...or not
+かな	n4	02-n4	bunpro:かな			sk:auto/n4	djg:bunpro/かな	strict-deck; bunpro:かな; かな; I wonder
+かもしれない	n4	02-n4	bunpro:かもしれない			sk:auto/n4	djg:bunpro/かもしれない	strict-deck; bunpro:かもしれない; かもしれない; Might, Maybe, Probably
+がする	n4	02-n4	bunpro:がする			sk:auto/n4	djg:bunpro/がする	strict-deck; bunpro:がする; がする; To give off, Smell, Sound, Taste, Sensation
+がひつよう	n4	02-n4	bunpro:がひつよう			sk:auto/n4	djg:bunpro/がひつよう	strict-deck; bunpro:がひつよう; がひつよう; Need, Necessary
+がほしい	n4	02-n4	bunpro:がほしい			sk:auto/n4	djg:bunpro/がほしい	strict-deck; bunpro:がほしい; がほしい; To want something, To be in need of
+がみられる	n4	02-n4	bunpro:がみられる			sk:auto/n4	djg:bunpro/がみられる	strict-deck; bunpro:がみられる; がみられる; Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something
+がる	n4	02-n4	bunpro:がる			sk:auto/n4	djg:bunpro/がる	strict-deck; bunpro:がる; がる; To feel, To think, To act as if, To want, To desire
+くは	n4	02-n4	bunpro:くは			sk:auto/n4	djg:bunpro/くは	strict-deck; bunpro:くは; くは; Emphasis and Contrast
+こと	n4	02-n4	bunpro:こと			sk:auto/n4	djg:bunpro/こと	strict-deck; bunpro:こと; こと; Converting a verb into a noun
+ことができる	n4	02-n4	bunpro:ことができる			sk:auto/n4	djg:bunpro/ことができる	strict-deck; bunpro:ことができる; ことができる; Can, Be able to
+ございます	n4	02-n4	bunpro:ございます			sk:auto/n4	djg:bunpro/ございます	strict-deck; bunpro:ございます; ございます; To be, To exist (Polite)
+ごとに	n4	02-n4	bunpro:ごとに			sk:auto/n4	djg:bunpro/ごとに	strict-deck; bunpro:ごとに; ごとに; Each, Every
+ごろ	n4	02-n4	bunpro:ごろ			sk:auto/n4	djg:bunpro/ごろ	strict-deck; bunpro:ごろ; ごろ; Around, About
+さ	n4	02-n4	bunpro:さ			sk:auto/n4	djg:bunpro/さ	strict-deck; bunpro:さ; さ; Converting adjectives to nouns
+し-し	n4	02-n4	bunpro:し-し			sk:auto/n4	djg:bunpro/し-し	strict-deck; bunpro:し-し; し～し ; And, Giving reasons
+しか-ない	n4	02-n4	bunpro:しか-ない			sk:auto/n4	djg:bunpro/しか-ない	strict-deck; bunpro:しか-ない; しか～ない ; There's only, Nothing but
+じゃないか	n4	02-n4	bunpro:じゃないか			sk:auto/n4	djg:bunpro/じゃないか	strict-deck; bunpro:じゃないか; じゃないか; Isn't it?, Is it not?
+すくなくない	n4	02-n4	bunpro:すくなくない			sk:auto/n4	djg:bunpro/すくなくない	strict-deck; bunpro:すくなくない; すくなくない; Quite a few, Quite a lot, Many, Not a few, Not a little
+すこしも-ない	n4	02-n4	bunpro:すこしも-ない			sk:auto/n4	djg:bunpro/すこしも-ない	strict-deck; bunpro:すこしも-ない; すこしも～ない; Not even a little, Not at all, Not in the least, Never
+する-cost	n4	02-n4	bunpro:する-cost			sk:auto/n4	djg:bunpro/する-cost	strict-deck; bunpro:する-cost; する (Cost); Cost (money), Run you about (a certain price)
+する-wear	n4	02-n4	bunpro:する-wear			sk:auto/n4	djg:bunpro/する-wear	strict-deck; bunpro:する-wear; する (Have/Wear); Have (a feature), Wear (an accessory)
+ずっと1	n4	02-n4	bunpro:ずっと1			sk:auto/n4	djg:bunpro/ずっと1	strict-deck; bunpro:ずっと1; ずっと ①; Continuously, All throughout, Entire time, Ever (since), The whole time, All the way
+ぜんぜん	n4	02-n4	bunpro:ぜんぜん			sk:auto/n4	djg:bunpro/ぜんぜん	strict-deck; bunpro:ぜんぜん; ぜんぜん; (Not) at all
+そう	n4	02-n4	bunpro:そう			sk:auto/n4	djg:bunpro/そう	strict-deck; bunpro:そう; そう ; Look like, Appear, Seem, Have a feeling that
+そういう	n4	02-n4	bunpro:そういう			sk:auto/n4	djg:bunpro/そういう	strict-deck; bunpro:そういう; そういう; Like that, Kind of
+そうに-そうな	n4	02-n4	bunpro:そうに-そうな			sk:auto/n4	djg:bunpro/そうに-そうな	strict-deck; bunpro:そうに-そうな; そうに・そうな ; Seem, Look like, Sound
+それで	n4	02-n4	bunpro:それで			sk:auto/n4	djg:bunpro/それで	strict-deck; bunpro:それで; それで; Because of that, So?, And then?, Therefore, With that
+それでも	n4	02-n4	bunpro:それでも			sk:auto/n4	djg:bunpro/それでも	strict-deck; bunpro:それでも; それでも; But still, And yet, Even so, Nevertheless
+それに	n4	02-n4	bunpro:それに			sk:auto/n4	djg:bunpro/それに	strict-deck; bunpro:それに; それに; And, Besides, Moreover, In addition
+そんな-こんな-あんな-どんな	n4	02-n4	bunpro:そんな-こんな-あんな-どんな			sk:auto/n4	djg:bunpro/そんな-こんな-あんな-どんな	strict-deck; bunpro:そんな-こんな-あんな-どんな; そんな・こんな・あんな・どんな; Such a・Kind of, Something like ~
+そんなに	n4	02-n4	bunpro:そんなに			sk:auto/n4	djg:bunpro/そんなに	strict-deck; bunpro:そんなに; そんなに; So (much), That much, Like that
+たがる	n4	02-n4	bunpro:たがる			sk:auto/n4	djg:bunpro/たがる	strict-deck; bunpro:たがる; たがる; To want to (Third person)
+たとえば	n4	02-n4	bunpro:たとえば			sk:auto/n4	djg:bunpro/たとえば	strict-deck; bunpro:たとえば; たとえば; For example
+たところだ	n4	02-n4	bunpro:たところだ			sk:auto/n4	djg:bunpro/たところだ	strict-deck; bunpro:たところだ; たところだ; Just finished doing, Was just doing
+たばかり	n4	02-n4	bunpro:たばかり			sk:auto/n4	djg:bunpro/たばかり	strict-deck; bunpro:たばかり; たばかり; Just did, Something just happened
+たら	n4	02-n4	bunpro:たら			sk:auto/n4	djg:bunpro/たら	strict-deck; bunpro:たら; たら; When, From when, Just when, If
+たらどう	n4	02-n4	bunpro:たらどう			sk:auto/n4	djg:bunpro/たらどう	strict-deck; bunpro:たらどう; たらどう; Why don't you...?, What if you did...?
+だいたい	n4	02-n4	bunpro:だいたい			sk:auto/n4	djg:bunpro/だいたい	strict-deck; bunpro:だいたい; だいたい; Most・mostly, Adequately・generally, For the most part, Roughly・approximately, In the first place
+だが・ですが	n4	02-n4	bunpro:だが・ですが			sk:auto/n4	djg:bunpro/だが・ですが	strict-deck; bunpro:だが・ですが; だが・ですが; But, Still, However, Nevertheless
+だけで	n4	02-n4	bunpro:だけで			sk:auto/n4	djg:bunpro/だけで	strict-deck; bunpro:だけで; だけで; Just by, Just with
+だけでなく	n4	02-n4	bunpro:だけでなく			sk:auto/n4	djg:bunpro/だけでなく	strict-deck; bunpro:だけでなく; だけでなく; Not only… but also
+だす	n4	02-n4	bunpro:だす			sk:auto/n4	djg:bunpro/だす	strict-deck; bunpro:だす; だす; To suddenly begin, To start doing
+だんだん	n4	02-n4	bunpro:だんだん			sk:auto/n4	djg:bunpro/だんだん	strict-deck; bunpro:だんだん; だんだん; Gradually, Little by little, Step by step
+って感じ	n4	02-n4	bunpro:って感じ			sk:auto/n4	djg:bunpro/って感じ	strict-deck; bunpro:って感じ; って感じ; Kind of thing, Kind of vibe, Kind of feeling
+つづける	n4	02-n4	bunpro:つづける			sk:auto/n4	djg:bunpro/つづける	strict-deck; bunpro:つづける; つづける; To continue
+づらい	n4	02-n4	bunpro:づらい			sk:auto/n4	djg:bunpro/づらい	strict-deck; bunpro:づらい; づらい; Hard to, Tough to, Painful to, Difficult to
+てあげる	n4	02-n4	bunpro:てあげる			sk:auto/n4	djg:bunpro/てあげる	strict-deck; bunpro:てあげる; てあげる; To do something for someone, As a favor for
+てある	n4	02-n4	bunpro:てある			sk:auto/n4	djg:bunpro/てある	strict-deck; bunpro:てある; てある ; Something is done, Has been done, Remaining state
+ていく	n4	02-n4	bunpro:ていく			sk:auto/n4	djg:bunpro/ていく	strict-deck; bunpro:ていく; ていく; To ~ and go, To go on, To start
+ていた	n4	02-n4	bunpro:ていた			sk:auto/n4	djg:bunpro/ていた	strict-deck; bunpro:ていた; ていた ; Was doing ~
+ていただけませんか	n4	02-n4	bunpro:ていただけませんか			sk:auto/n4	djg:bunpro/ていただけませんか	strict-deck; bunpro:ていただけませんか; ていただけませんか; Won't you, Could you please (Humble request)
+ているあいだに	n4	02-n4	bunpro:ているあいだに			sk:auto/n4	djg:bunpro/ているあいだに	strict-deck; bunpro:ているあいだに; ているあいだに; While, During the time that ~
+ているところだ	n4	02-n4	bunpro:ているところだ			sk:auto/n4	djg:bunpro/ているところだ	strict-deck; bunpro:ているところだ; ているところだ; In the process of doing ~ right now/at this moment
+ておく	n4	02-n4	bunpro:ておく			sk:auto/n4	djg:bunpro/ておく	strict-deck; bunpro:ておく; ておく; To do something in advance
+てくる	n4	02-n4	bunpro:てくる			sk:auto/n4	djg:bunpro/てくる	strict-deck; bunpro:てくる; てくる ; To come to, To become, To continue, To be starting to, Has been ~ing
+てくれてありがとう	n4	02-n4	bunpro:てくれてありがとう			sk:auto/n4	djg:bunpro/てくれてありがとう	strict-deck; bunpro:てくれてありがとう; てくれてありがとう; Thank you for ~ ing
+てくれない-てもらえない	n4	02-n4	bunpro:てくれない-てもらえない			sk:auto/n4	djg:bunpro/てくれない-てもらえない	strict-deck; bunpro:てくれない-てもらえない; てくれない・てもらえない; Won't you?, Will you?, Could you?, Can you?, Would you?
+てくれる	n4	02-n4	bunpro:てくれる			sk:auto/n4	djg:bunpro/てくれる	strict-deck; bunpro:てくれる; てくれる; To do something for someone (usually you)
+てしまう-ちゃう	n4	02-n4	bunpro:てしまう-ちゃう			sk:auto/n4	djg:bunpro/てしまう-ちゃう	strict-deck; bunpro:てしまう-ちゃう; てしまう・ちゃう; To do something by accident, To finish completely・totally, Unfortunately
+てすみません	n4	02-n4	bunpro:てすみません			sk:auto/n4	djg:bunpro/てすみません	strict-deck; bunpro:てすみません; てすみません; I'm sorry for
+てほしい	n4	02-n4	bunpro:てほしい			sk:auto/n4	djg:bunpro/てほしい	strict-deck; bunpro:てほしい; てほしい; I want you to
+てみる	n4	02-n4	bunpro:てみる			sk:auto/n4	djg:bunpro/てみる	strict-deck; bunpro:てみる; てみる; To try to
+ても	n4	02-n4	bunpro:ても			sk:auto/n4	djg:bunpro/ても	strict-deck; bunpro:ても; ても; Even if, Even though
+てもらう	n4	02-n4	bunpro:てもらう			sk:auto/n4	djg:bunpro/てもらう	strict-deck; bunpro:てもらう; てもらう; To get someone to do, To have someone do
+てよかった	n4	02-n4	bunpro:てよかった			sk:auto/n4	djg:bunpro/てよかった	strict-deck; bunpro:てよかった; てよかった; I'm glad that
+でございます	n4	02-n4	bunpro:でございます			sk:auto/n4	djg:bunpro/でございます	strict-deck; bunpro:でございます; でございます; To be, Polite copula
+でできる-からできる	n4	02-n4	bunpro:でできる-からできる			sk:auto/n4	djg:bunpro/でできる-からできる	strict-deck; bunpro:でできる-からできる; でできる・からできる; Made of, Made from, Produced from, Come from
+でも	n4	02-n4	bunpro:でも			sk:auto/n4	djg:bunpro/でも	strict-deck; bunpro:でも; でも; Or something,  Any... (with question words), No matter (who)
+でも-でも	n4	02-n4	bunpro:でも-でも			sk:auto/n4	djg:bunpro/でも-でも	strict-deck; bunpro:でも-でも; 〜でも 〜でも; Whether ~ or, Neither ~ or
+と-conditional	n4	02-n4	bunpro:と-conditional			sk:auto/n4	djg:bunpro/と-conditional	strict-deck; bunpro:と-conditional; と; If, When, Whenever, And, [Conditional]
+と-と-どちらが	n4	02-n4	bunpro:と-と-どちらが			sk:auto/n4	djg:bunpro/と-と-どちらが	strict-deck; bunpro:と-と-どちらが; と～と、どちらが ; Between ~ which one
+といい	n4	02-n4	bunpro:といい			sk:auto/n4	djg:bunpro/といい	strict-deck; bunpro:といい; といい; I hope, I wish, You should, It would be good
+ということ	n4	02-n4	bunpro:ということ			sk:auto/n4	djg:bunpro/ということ	strict-deck; bunpro:ということ; ということ; ~ing, The ~ that ~ (Nominalization)
+といってもいい	n4	02-n4	bunpro:といってもいい			sk:auto/n4	djg:bunpro/といってもいい	strict-deck; bunpro:といってもいい; といってもいい; You could say, You might say
+といわれている	n4	02-n4	bunpro:といわれている			sk:auto/n4	djg:bunpro/といわれている	strict-deck; bunpro:といわれている; といわれている; It is said that, Is known as
+とうとう	n4	02-n4	bunpro:とうとう			sk:auto/n4	djg:bunpro/とうとう	strict-deck; bunpro:とうとう; とうとう; Finally, After all
+とおもう	n4	02-n4	bunpro:とおもう			sk:auto/n4	djg:bunpro/とおもう	strict-deck; bunpro:とおもう; とおもう; I think
+とか-とか	n4	02-n4	bunpro:とか-とか			sk:auto/n4	djg:bunpro/とか-とか	strict-deck; bunpro:とか-とか; とか～とか; Among other things, For example, Such as
+とかんがえられている	n4	02-n4	bunpro:とかんがえられている			sk:auto/n4	djg:bunpro/とかんがえられている	strict-deck; bunpro:とかんがえられている; とかんがえられている; Is considered, Is thought of as
+とき	n4	02-n4	bunpro:とき			sk:auto/n4	djg:bunpro/とき	strict-deck; bunpro:とき; とき; When, At the time of
+ときいた	n4	02-n4	bunpro:ときいた			sk:auto/n4	djg:bunpro/ときいた	strict-deck; bunpro:ときいた; ときいた; I heard that
+とされている	n4	02-n4	bunpro:とされている			sk:auto/n4	djg:bunpro/とされている	strict-deck; bunpro:とされている; とされている; To be considered, To be deemed, Be regarded as, Be accepted as, To be said, To be accredited with
+とみえる	n4	02-n4	bunpro:とみえる			sk:auto/n4	djg:bunpro/とみえる	strict-deck; bunpro:とみえる; とみえる; It seems that, It can be deduced, One can conclude that
+どんどん	n4	02-n4	bunpro:どんどん			sk:auto/n4	djg:bunpro/どんどん	strict-deck; bunpro:どんどん; どんどん; Progressively, Rapidly increasing, More and more
+ない-はない	n4	02-n4	bunpro:ない-はない			sk:auto/n4	djg:bunpro/ない-はない	strict-deck; bunpro:ない-はない; ～ない～はない; There is not ~ that is not/does not
+ないで	n4	02-n4	bunpro:ないで			sk:auto/n4	djg:bunpro/ないで	strict-deck; bunpro:ないで; ないで; Without doing, Not ~ and ~
+ないと	n4	02-n4	bunpro:ないと			sk:auto/n4	djg:bunpro/ないと	strict-deck; bunpro:ないと; ないと; Must, Have to
+なおす	n4	02-n4	bunpro:なおす			sk:auto/n4	djg:bunpro/なおす	strict-deck; bunpro:なおす; なおす; To do over, To redo
+ながら	n4	02-n4	bunpro:ながら			sk:auto/n4	djg:bunpro/ながら	strict-deck; bunpro:ながら; ながら; While ~ing, During, As
+なくて	n4	02-n4	bunpro:なくて			sk:auto/n4	djg:bunpro/なくて	strict-deck; bunpro:なくて; なくて; Not ~ and, Not so, Because not (Examples)
+なくて-conjunction	n4	02-n4	bunpro:なくて-conjunction			sk:auto/n4	djg:bunpro/なくて-conjunction	strict-deck; bunpro:なくて-conjunction; なくて; To not ~ and ~, Not ~ and ~ (Conjugations)
+なくてもいい	n4	02-n4	bunpro:なくてもいい			sk:auto/n4	djg:bunpro/なくてもいい	strict-deck; bunpro:なくてもいい; なくてもいい; Don't have to
+なければいけない	n4	02-n4	bunpro:なければいけない			sk:auto/n4	djg:bunpro/なければいけない	strict-deck; bunpro:なければいけない; なければいけない; Must do, Have to do
+なければならない	n4	02-n4	bunpro:なければならない			sk:auto/n4	djg:bunpro/なければならない	strict-deck; bunpro:なければならない; なければならない; Must do, Have to do
+なさい	n4	02-n4	bunpro:なさい			sk:auto/n4	djg:bunpro/なさい	strict-deck; bunpro:なさい; なさい; Command to do
+なさる	n4	02-n4	bunpro:なさる			sk:auto/n4	djg:bunpro/なさる	strict-deck; bunpro:なさる; なさる; To do (Honorific)
+など	n4	02-n4	bunpro:など			sk:auto/n4	djg:bunpro/など	strict-deck; bunpro:など; など; Such as, Things like, Etc., And so on
+なら	n4	02-n4	bunpro:なら			sk:auto/n4	djg:bunpro/なら	strict-deck; bunpro:なら; なら; Were it, If, If it's the case, As for (Conditional)
+なるべく	n4	02-n4	bunpro:なるべく			sk:auto/n4	djg:bunpro/なるべく	strict-deck; bunpro:なるべく; なるべく; As ~ as possible, Wherever practicable
+なん-counter-か	n4	02-n4	bunpro:なん-counter-か			sk:auto/n4	djg:bunpro/なん-counter-か	strict-deck; bunpro:なん-counter-か; なん + counter + か; Some, Several, A few
+に-frequency	n4	02-n4	bunpro:に-frequency			sk:auto/n4	djg:bunpro/に-frequency	strict-deck; bunpro:に-frequency; に (Frequency); Times (In each time period), Every, Frequency of
+にきがつく	n4	02-n4	bunpro:にきがつく			sk:auto/n4	djg:bunpro/にきがつく	strict-deck; bunpro:にきがつく; にきがつく; To notice (that), To realize (that)
+にくい	n4	02-n4	bunpro:にくい			sk:auto/n4	djg:bunpro/にくい	strict-deck; bunpro:にくい; にくい; Difficult to, Hard to
+にする-くする	n4	02-n4	bunpro:にする-くする			sk:auto/n4	djg:bunpro/にする-くする	strict-deck; bunpro:にする-くする; ～にする・～くする; Adjective + する, To make something/someone (more)
+にみえる	n4	02-n4	bunpro:にみえる			sk:auto/n4	djg:bunpro/にみえる	strict-deck; bunpro:にみえる; にみえる; To look, To seem, To appear
+のだろうか	n4	02-n4	bunpro:のだろうか			sk:auto/n4	djg:bunpro/のだろうか	strict-deck; bunpro:のだろうか; ～のだろうか; I wonder...
+のなかで	n4	02-n4	bunpro:のなかで			sk:auto/n4	djg:bunpro/のなかで	strict-deck; bunpro:のなかで; のなかで; In, Among, Within
+のに-despite	n4	02-n4	bunpro:のに-despite			sk:auto/n4	djg:bunpro/のに-despite	strict-deck; bunpro:のに-despite; のに ; Despite, Although, Even though
+のように-のような	n4	02-n4	bunpro:のように-のような			sk:auto/n4	djg:bunpro/のように-のような	strict-deck; bunpro:のように-のような; のように・のような ; Like (Noun), Similar to (Noun)
+の次に	n4	02-n4	bunpro:の次に			sk:auto/n4	djg:bunpro/の次に	strict-deck; bunpro:の次に; の次に; Next to (rank), Second to, Ranked after
+は-の一つだ	n4	02-n4	bunpro:は-の一つだ			sk:auto/n4	djg:bunpro/は-の一つだ	strict-deck; bunpro:は-の一つだ; ～は～の一つだ; 〜 is one of (many) 〜
+はじめる	n4	02-n4	bunpro:はじめる			sk:auto/n4	djg:bunpro/はじめる	strict-deck; bunpro:はじめる; はじめる; To start, To begin to
+はずがない	n4	02-n4	bunpro:はずがない			sk:auto/n4	djg:bunpro/はずがない	strict-deck; bunpro:はずがない; はずがない; Hardly possible, Cannot be, Highly unlikely, Improbable
+はずだ	n4	02-n4	bunpro:はずだ			sk:auto/n4	djg:bunpro/はずだ	strict-deck; bunpro:はずだ; はずだ; Bound to (be), Expected to (be), Should be (able)
+ば	n4	02-n4	bunpro:ば			sk:auto/n4	djg:bunpro/ば	strict-deck; bunpro:ば; ば; If… then, (Conditional)
+ばあいは	n4	02-n4	bunpro:ばあいは			sk:auto/n4	djg:bunpro/ばあいは	strict-deck; bunpro:ばあいは; ばあいは; In the event of, In the case of
+ばよかった	n4	02-n4	bunpro:ばよかった			sk:auto/n4	djg:bunpro/ばよかった	strict-deck; bunpro:ばよかった; ばよかった; Should have, I wish, It would have been better to
+ひつようがある	n4	02-n4	bunpro:ひつようがある			sk:auto/n4	djg:bunpro/ひつようがある	strict-deck; bunpro:ひつようがある; ひつようがある; It is necessary to
+ほかにも-ほかには	n4	02-n4	bunpro:ほかにも-ほかには			sk:auto/n4	djg:bunpro/ほかにも-ほかには	strict-deck; bunpro:ほかにも-ほかには; ほかに(も)・ほか(に)は; Other, Another, Any other, Anything else, As well as, Besides, In addition
+ほとんど	n4	02-n4	bunpro:ほとんど			sk:auto/n4	djg:bunpro/ほとんど	strict-deck; bunpro:ほとんど; ほとんど; Almost all, Most, Hardly any, Few (Adverbial noun)
+まい-のように	n4	02-n4	bunpro:まい-のように			sk:auto/n4	djg:bunpro/まい-のように	strict-deck; bunpro:まい-のように; まい～のように; Almost every ~, Nearly every ~, On a ~ basis
+まず	n4	02-n4	bunpro:まず			sk:auto/n4	djg:bunpro/まず	strict-deck; bunpro:まず; まず; To start with, Firstly
+また	n4	02-n4	bunpro:また			sk:auto/n4	djg:bunpro/また	strict-deck; bunpro:また; また; Also, As well, Moreover, Again, Additionally
+まで	n4	02-n4	bunpro:まで			sk:auto/n4	djg:bunpro/まで	strict-deck; bunpro:まで; まで; Even, To even, To the extent of
+までに	n4	02-n4	bunpro:までに			sk:auto/n4	djg:bunpro/までに	strict-deck; bunpro:までに; までに; By ~, By the time that ~, Before ~
+みたい	n4	02-n4	bunpro:みたい			sk:auto/n4	djg:bunpro/みたい	strict-deck; bunpro:みたい; みたい; Like, Similar to, Resembling
+みたいに-みたいな	n4	02-n4	bunpro:みたいに-みたいな			sk:auto/n4	djg:bunpro/みたいに-みたいな	strict-deck; bunpro:みたいに-みたいな; みたいに・みたいな; Like, Similar to, Resembling
+もし	n4	02-n4	bunpro:もし			sk:auto/n4	djg:bunpro/もし	strict-deck; bunpro:もし; もし; If (For emphasis)
+やすい	n4	02-n4	bunpro:やすい			sk:auto/n4	djg:bunpro/やすい	strict-deck; bunpro:やすい; やすい; Easy to, Likely to
+よう-おう	n4	02-n4	bunpro:よう-おう			sk:auto/n4	djg:bunpro/よう-おう	strict-deck; bunpro:よう-おう; Verb[よう]; Let's, I shall (Casual volitional)
+ようだ	n4	02-n4	bunpro:ようだ			sk:auto/n4	djg:bunpro/ようだ	strict-deck; bunpro:ようだ; ようだ; It seems that, It appears that, It looks like
+ようと思う-おうと思う	n4	02-n4	bunpro:ようと思う-おうと思う			sk:auto/n4	djg:bunpro/ようと思う-おうと思う	strict-deck; bunpro:ようと思う-おうと思う; 〜ようと思う・〜おうと思う; I think I will, I think I shall, Going to, Gonna (Volitional + と思う)
+ように	n4	02-n4	bunpro:ように			sk:auto/n4	djg:bunpro/ように	strict-deck; bunpro:ように; ように; So that, In order to, In such a way that
+ように-てほしい	n4	02-n4	bunpro:ように-てほしい			sk:auto/n4	djg:bunpro/ように-てほしい	strict-deck; bunpro:ように-てほしい; ように～てほしい; Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~
+ように-ような	n4	02-n4	bunpro:ように-ような			sk:auto/n4	djg:bunpro/ように-ような	strict-deck; bunpro:ように-ような; ように・ような; As・like, Just like
+ようにいう	n4	02-n4	bunpro:ようにいう			sk:auto/n4	djg:bunpro/ようにいう	strict-deck; bunpro:ようにいう; ようにいう; To tell, request, or order to do (in such a way)
+ようにいのる	n4	02-n4	bunpro:ようにいのる			sk:auto/n4	djg:bunpro/ようにいのる	strict-deck; bunpro:ようにいのる; ようにいのる; Pray that/for, Hope that/for, Keep fingers crossed that
+ようにする	n4	02-n4	bunpro:ようにする			sk:auto/n4	djg:bunpro/ようにする	strict-deck; bunpro:ようにする; ようにする; To try to, To make sure to, To endeavor to
+ようになる	n4	02-n4	bunpro:ようになる			sk:auto/n4	djg:bunpro/ようになる	strict-deck; bunpro:ようになる; ようになる; To reach the point that, To come to be that, To turn into
+よていだ	n4	02-n4	bunpro:よていだ			sk:auto/n4	djg:bunpro/よていだ	strict-deck; bunpro:よていだ; よていだ; Plan to, Intend to
+より	n4	02-n4	bunpro:より			sk:auto/n4	djg:bunpro/より	strict-deck; bunpro:より; より; More than, Over
+ら	n4	02-n4	bunpro:ら			sk:auto/n4	djg:bunpro/ら	strict-deck; bunpro:ら; ～ら; We, Them, They, These, Those
+らしい1	n4	02-n4	bunpro:らしい1			sk:auto/n4	djg:bunpro/らしい1	strict-deck; bunpro:らしい1; らしい ①; Seems like, Apparently, I heard
+らしい2	n4	02-n4	bunpro:らしい2			sk:auto/n4	djg:bunpro/らしい2	strict-deck; bunpro:らしい2; らしい ②; typical of, -ish・like, appropriate for, becoming of, befitting
+るところだ	n4	02-n4	bunpro:るところだ			sk:auto/n4	djg:bunpro/るところだ	strict-deck; bunpro:るところだ; るところだ; About to, On the verge of
+んだけど-んですが	n4	02-n4	bunpro:んだけど-んですが			sk:auto/n4	djg:bunpro/んだけど-んですが	strict-deck; bunpro:んだけど-んですが; んだけど・んですが; But..., And...
+代	n4	02-n4	bunpro:代			sk:auto/n4	djg:bunpro/代	strict-deck; bunpro:代; ～代; Teens, Twenties, Thirties, 1910s, 20s/30s
+以上1	n4	02-n4	bunpro:以上1			sk:auto/n4	djg:bunpro/以上1	strict-deck; bunpro:以上1; 以上 ①; More than (or equal to), Over・(and) above, Any more・Greater, Exceeding
+化する	n4	02-n4	bunpro:化する			sk:auto/n4	djg:bunpro/化する	strict-deck; bunpro:化する; 化する; -ification, -ization, To make something, To change, To become, Transform into
+各	n4	02-n4	bunpro:各			sk:auto/n4	djg:bunpro/各	strict-deck; bunpro:各; 各; Each, Every, Respective, Various
+命令形	n4	02-n4	bunpro:命令形			sk:auto/n4	djg:bunpro/命令形	strict-deck; bunpro:命令形; 命令形; (Verb)!, Do (something)!
+真(っ)	n4	02-n4	bunpro:真(っ)			sk:auto/n4	djg:bunpro/真(っ)	strict-deck; bunpro:真(っ); 真(っ); Completely, Exactly, Right
+聞こえる	n4	02-n4	bunpro:聞こえる			sk:auto/n4	djg:bunpro/聞こえる	strict-deck; bunpro:聞こえる; 聞こえる; To be audible, To sound (like), (Can) hear, To be heard
+見える	n4	02-n4	bunpro:見える			sk:auto/n4	djg:bunpro/見える	strict-deck; bunpro:見える; 見える; To be visible, To seem, To be in sight
+風	n4	02-n4	bunpro:風			sk:auto/n4	djg:bunpro/風	strict-deck; bunpro:風; 風; -style, Way, Fashion
+-ようとしない	n3	03-n3	bunpro:-ようとしない			sk:auto/n3	djg:bunpro/-ようとしない	strict-deck; bunpro:-ようとしない; 〜ようとしない; Not willing to, Not make an effort to, To not attempt or try to, Volitional + としない
+noun-型	n3	03-n3	bunpro:noun-型			sk:auto/n3	djg:bunpro/noun-型	strict-deck; bunpro:noun-型; Noun＋型; Model, Type, Pattern, Kind, Shape, Size(d)
+particle-の	n3	03-n3	bunpro:particle-の			sk:auto/n3	djg:bunpro/particle-の	strict-deck; bunpro:particle-の; Particle + の; Combined particles
+verb-volitional-としたが	n3	03-n3	bunpro:verb-volitional-としたが			sk:auto/n3	djg:bunpro/verb-volitional-としたが	strict-deck; bunpro:verb-volitional-としたが; Verb[volitional] + としたが; Tried to ~ but ~, Was about to ~ but ~, Was going to ~ but ~
+verb-volitionalとする	n3	03-n3	bunpro:verb-volitionalとする			sk:auto/n3	djg:bunpro/verb-volitionalとする	strict-deck; bunpro:verb-volitionalとする; Verb[volitional]とする; Try to, Attempt to, To be about to
+あまり	n3	03-n3	bunpro:あまり			sk:auto/n3	djg:bunpro/あまり	strict-deck; bunpro:あまり; あまり; So much...that
+あまりに	n3	03-n3	bunpro:あまりに			sk:auto/n3	djg:bunpro/あまりに	strict-deck; bunpro:あまりに; あまりに; So much...that, (Way) too...
+あり	n3	03-n3	bunpro:あり			sk:auto/n3	djg:bunpro/あり	strict-deck; bunpro:あり; あり; Possibility, To have, With
+あるいは	n3	03-n3	bunpro:あるいは			sk:auto/n3	djg:bunpro/あるいは	strict-deck; bunpro:あるいは; あるいは; Or, Possibly, Maybe, Perhaps, Or possibly
+いくら-でも	n3	03-n3	bunpro:いくら-でも			sk:auto/n3	djg:bunpro/いくら-でも	strict-deck; bunpro:いくら-でも; いくら〜でも; No matter how (much)
+うちに	n3	03-n3	bunpro:うちに			sk:auto/n3	djg:bunpro/うちに	strict-deck; bunpro:うちに; うちに; While, During
+おかげで	n3	03-n3	bunpro:おかげで			sk:auto/n3	djg:bunpro/おかげで	strict-deck; bunpro:おかげで; おかげで; Thanks to, Because of
+おきに	n3	03-n3	bunpro:おきに			sk:auto/n3	djg:bunpro/おきに	strict-deck; bunpro:おきに; おきに; Repeated at intervals, Every other, Every, At intervals of
+かけ	n3	03-n3	bunpro:かけ			sk:auto/n3	djg:bunpro/かけ	strict-deck; bunpro:かけ; かけ; Half-, Not yet finished, About to, Begin to
+かというと1	n3	03-n3	bunpro:かというと1			sk:auto/n3	djg:bunpro/かというと1	strict-deck; bunpro:かというと1; ～かというと ①; Why? Well..., Why? Because..., If you ask me why..., The reason why is..., It is because...
+かというと2	n3	03-n3	bunpro:かというと2			sk:auto/n3	djg:bunpro/かというと2	strict-deck; bunpro:かというと2; ～かというと ②; If you ask me..., If I had to say, If I were to say, If I were to choose one, I'd rather
+かなり	n3	03-n3	bunpro:かなり			sk:auto/n3	djg:bunpro/かなり	strict-deck; bunpro:かなり; かなり; Quite, Considerably, Pretty, Fairly
+かは-によって違う	n3	03-n3	bunpro:かは-によって違う			sk:auto/n3	djg:bunpro/かは-によって違う	strict-deck; bunpro:かは-によって違う; 〜かは〜によって違う; Depends on, Changes depending on, Differ depending on
+からこそ	n3	03-n3	bunpro:からこそ			sk:auto/n3	djg:bunpro/からこそ	strict-deck; bunpro:からこそ; からこそ; Emphasized because, Precisely because
+から言うと	n3	03-n3	bunpro:から言うと			sk:auto/n3	djg:bunpro/から言うと	strict-deck; bunpro:から言うと; から言うと; Speaking in terms of, From the point of view of
+がたい	n3	03-n3	bunpro:がたい			sk:auto/n3	djg:bunpro/がたい	strict-deck; bunpro:がたい; がたい; Hard to, Difficult to
+がち	n3	03-n3	bunpro:がち			sk:auto/n3	djg:bunpro/がち	strict-deck; bunpro:がち; がち; Apt to do, Tend to do, Prone to do
+きり	n3	03-n3	bunpro:きり			sk:auto/n3	djg:bunpro/きり	strict-deck; bunpro:きり; きり; Only, Just, Since
+ぎみ	n3	03-n3	bunpro:ぎみ			sk:auto/n3	djg:bunpro/ぎみ	strict-deck; bunpro:ぎみ; ぎみ; Looking, Feeling a little, Touch of, Tending to, Slightly
+くせに	n3	03-n3	bunpro:くせに			sk:auto/n3	djg:bunpro/くせに	strict-deck; bunpro:くせに; くせに; Even though, And yet, Despite
+くらい2	n3	03-n3	bunpro:くらい2			sk:auto/n3	djg:bunpro/くらい2	strict-deck; bunpro:くらい2; くらい ②; To the extent that, So…that, About the only thing that...
+こそ	n3	03-n3	bunpro:こそ			sk:auto/n3	djg:bunpro/こそ	strict-deck; bunpro:こそ; こそ; For sure, For certain, Even more so, Underlined or bolded text
+ことか	n3	03-n3	bunpro:ことか			sk:auto/n3	djg:bunpro/ことか	strict-deck; bunpro:ことか; ことか; How…, What..., God knows...
+ことから	n3	03-n3	bunpro:ことから			sk:auto/n3	djg:bunpro/ことから	strict-deck; bunpro:ことから; ことから; From the fact that
+ことがある	n3	03-n3	bunpro:ことがある			sk:auto/n3	djg:bunpro/ことがある	strict-deck; bunpro:ことがある; ことがある; Something is possible, Sometimes, Occasionally, There are times when
+ことだ	n3	03-n3	bunpro:ことだ			sk:auto/n3	djg:bunpro/ことだ	strict-deck; bunpro:ことだ; ことだ; Should, Ought
+ことなの	n3	03-n3	bunpro:ことなの			sk:auto/n3	djg:bunpro/ことなの	strict-deck; bunpro:ことなの; ことなの; (A) is (Description of A), (A) means that (Description of A)
+ことに	n3	03-n3	bunpro:ことに			sk:auto/n3	djg:bunpro/ことに	strict-deck; bunpro:ことに; ことに; Extremely, Especially, To my ...
+ことにする	n3	03-n3	bunpro:ことにする			sk:auto/n3	djg:bunpro/ことにする	strict-deck; bunpro:ことにする; ことにする; To decide on, Have decided to
+ことになる	n3	03-n3	bunpro:ことになる			sk:auto/n3	djg:bunpro/ことになる	strict-deck; bunpro:ことになる; ことになる; It will end up being, It is the result of, It has been decided that
+ことはない	n3	03-n3	bunpro:ことはない			sk:auto/n3	djg:bunpro/ことはない	strict-deck; bunpro:ことはない; ことはない; There is no need to, Never happens
+さ-casualよ	n3	03-n3	bunpro:さ-casualよ			sk:auto/n3	djg:bunpro/さ-casualよ	strict-deck; bunpro:さ-casualよ; さ - Casual よ; Casual よ
+さ-filler	n3	03-n3	bunpro:さ-filler			sk:auto/n3	djg:bunpro/さ-filler	strict-deck; bunpro:さ-filler; さ - Filler; Like, You know, You see, Listen, Uhh
+さ-interjection	n3	03-n3	bunpro:さ-interjection			sk:auto/n3	djg:bunpro/さ-interjection	strict-deck; bunpro:さ-interjection; さ - Interjection; All right, There we go, Now, You see, Well (I don't know, let me see)
+さえ	n3	03-n3	bunpro:さえ			sk:auto/n3	djg:bunpro/さえ	strict-deck; bunpro:さえ; さえ; Even
+さえ-ば	n3	03-n3	bunpro:さえ-ば			sk:auto/n3	djg:bunpro/さえ-ば	strict-deck; bunpro:さえ-ば; さえ〜ば; If only…then, As long as..., Provided..., Only thing ... needs for ... is ...
+させてもらう	n3	03-n3	bunpro:させてもらう			sk:auto/n3	djg:bunpro/させてもらう	strict-deck; bunpro:させてもらう; させてもらう; To have the honor of doing, To take the liberty of doing, To do (polite, formal)
+さて	n3	03-n3	bunpro:さて			sk:auto/n3	djg:bunpro/さて	strict-deck; bunpro:さて; さて; Well, Well then
+しかない	n3	03-n3	bunpro:しかない			sk:auto/n3	djg:bunpro/しかない	strict-deck; bunpro:しかない; しかない; Have no choice but, Only, Just
+すでに	n3	03-n3	bunpro:すでに			sk:auto/n3	djg:bunpro/すでに	strict-deck; bunpro:すでに; すでに; Already, Too late
+すると	n3	03-n3	bunpro:すると			sk:auto/n3	djg:bunpro/すると	strict-deck; bunpro:すると; すると; Having done..., If...is done..., (And/just) then, Thereupon, If so
+ずっと2	n3	03-n3	bunpro:ずっと2			sk:auto/n3	djg:bunpro/ずっと2	strict-deck; bunpro:ずっと2; ずっと ②; By far, Way, Far...er, Far...more
+ずつ	n3	03-n3	bunpro:ずつ			sk:auto/n3	djg:bunpro/ずつ	strict-deck; bunpro:ずつ; ～ずつ; One at a time, Per, Each, Gradually
+ずに	n3	03-n3	bunpro:ずに			sk:auto/n3	djg:bunpro/ずに	strict-deck; bunpro:ずに; ずに; Without doing
+ずにはいられない	n3	03-n3	bunpro:ずにはいられない			sk:auto/n3	djg:bunpro/ずにはいられない	strict-deck; bunpro:ずにはいられない; ずにはいられない; Cannot help doing something, Cannot resist doing something
+せいで	n3	03-n3	bunpro:せいで			sk:auto/n3	djg:bunpro/せいで	strict-deck; bunpro:せいで; せいで; Because of, Due to, Blame
+せっかく	n3	03-n3	bunpro:せっかく			sk:auto/n3	djg:bunpro/せっかく	strict-deck; bunpro:せっかく; 折角; With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion
+そうすると	n3	03-n3	bunpro:そうすると			sk:auto/n3	djg:bunpro/そうすると	strict-deck; bunpro:そうすると; そうすると; Having done that..., If that is done..., (And/just) then, Thereupon, If so
+そうだ	n3	03-n3	bunpro:そうだ			sk:auto/n3	djg:bunpro/そうだ	strict-deck; bunpro:そうだ; そうだ ; I heard that, It is said that
+そうもない	n3	03-n3	bunpro:そうもない			sk:auto/n3	djg:bunpro/そうもない	strict-deck; bunpro:そうもない; そうもない; Very unlikely to, Does not seem that, Does not appear that
+そこで	n3	03-n3	bunpro:そこで			sk:auto/n3	djg:bunpro/そこで	strict-deck; bunpro:そこで; そこで; Accordingly, Now, Therefore, To that end
+そのため-に	n3	03-n3	bunpro:そのため-に			sk:auto/n3	djg:bunpro/そのため-に	strict-deck; bunpro:そのため-に; そのため(に); For that reason, Because of that, To that end
+その結果	n3	03-n3	bunpro:その結果			sk:auto/n3	djg:bunpro/その結果	strict-deck; bunpro:その結果; その結果; As a result
+それぞれ	n3	03-n3	bunpro:それぞれ			sk:auto/n3	djg:bunpro/それぞれ	strict-deck; bunpro:それぞれ; それぞれ; Each, Respectively
+たて	n3	03-n3	bunpro:たて			sk:auto/n3	djg:bunpro/たて	strict-deck; bunpro:たて; たて; Freshly ~ed, Just ~ed
+たとえ-ても	n3	03-n3	bunpro:たとえ-ても			sk:auto/n3	djg:bunpro/たとえ-ても	strict-deck; bunpro:たとえ-ても; たとえ〜ても; Even if…is the case, Supposing that
+たとたんに	n3	03-n3	bunpro:たとたんに			sk:auto/n3	djg:bunpro/たとたんに	strict-deck; bunpro:たとたんに; たとたんに; The instant or moment, As soon as, Just as
+たびに	n3	03-n3	bunpro:たびに			sk:auto/n3	djg:bunpro/たびに	strict-deck; bunpro:たびに; たびに; Each time, Every time, Whenever
+ため-に	n3	03-n3	bunpro:ため-に			sk:auto/n3	djg:bunpro/ため-に	strict-deck; bunpro:ため-に; ため(に); For, For the sake of, In order to
+ために	n3	03-n3	bunpro:ために			sk:auto/n3	djg:bunpro/ために	strict-deck; bunpro:ために; ために; Due to, Because of, As a result of
+たものだ	n3	03-n3	bunpro:たものだ			sk:auto/n3	djg:bunpro/たものだ	strict-deck; bunpro:たものだ; たものだ; Used to
+たらいい-といい	n3	03-n3	bunpro:たらいい-といい			sk:auto/n3	djg:bunpro/たらいい-といい	strict-deck; bunpro:たらいい-といい; たらいい・といい; It would be nice if, It would be good if, Should, I hope
+だけしか	n3	03-n3	bunpro:だけしか			sk:auto/n3	djg:bunpro/だけしか	strict-deck; bunpro:だけしか; だけしか;  To emphasize '~only', Nothing but
+だけでなく-て-も	n3	03-n3	bunpro:だけでなく-て-も			sk:auto/n3	djg:bunpro/だけでなく-て-も	strict-deck; bunpro:だけでなく-て-も; だけでなく(て)～も; Not only ~ but ~ also, Not just ~ but ~ also
+だって	n3	03-n3	bunpro:だって			sk:auto/n3	djg:bunpro/だって	strict-deck; bunpro:だって; だって; I heard/was said, Because, But, Even or also, Even if or even though
+だらけ	n3	03-n3	bunpro:だらけ			sk:auto/n3	djg:bunpro/だらけ	strict-deck; bunpro:だらけ; だらけ; Completely covered in, Full of
+ちゃんと-きちんと	n3	03-n3	bunpro:ちゃんと-きちんと			sk:auto/n3	djg:bunpro/ちゃんと-きちんと	strict-deck; bunpro:ちゃんと-きちんと; ちゃんと・きちんと; Properly, Neatly, Orderly, Sufficiently, Decently
+っけ	n3	03-n3	bunpro:っけ			sk:auto/n3	djg:bunpro/っけ	strict-deck; bunpro:っけ; っけ; What is…again?, Was it... that... ?, Did you say...?
+って-slang	n3	03-n3	bunpro:って-slang			sk:auto/n3	djg:bunpro/って-slang	strict-deck; bunpro:って-slang; って; As for, Speaking of, Casual は (Sentence topic marker)
+っぱなし	n3	03-n3	bunpro:っぱなし			sk:auto/n3	djg:bunpro/っぱなし	strict-deck; bunpro:っぱなし; っぱなし; Leaving something in a certain state, Left as is, Keep on -ing
+っぽい	n3	03-n3	bunpro:っぽい			sk:auto/n3	djg:bunpro/っぽい	strict-deck; bunpro:っぽい; っぽい; -ish, -like, Characteristic of, Typical of, Tendency to
+つい	n3	03-n3	bunpro:つい			sk:auto/n3	djg:bunpro/つい	strict-deck; bunpro:つい; つい; Accidentally, Unconsciously, Against one's better judgement
+ついでに	n3	03-n3	bunpro:ついでに			sk:auto/n3	djg:bunpro/ついでに	strict-deck; bunpro:ついでに; ついでに; While you are at it, On the occasion
+つまり	n3	03-n3	bunpro:つまり			sk:auto/n3	djg:bunpro/つまり	strict-deck; bunpro:つまり; つまり; In short, To sum up, In other words
+てごらん	n3	03-n3	bunpro:てごらん			sk:auto/n3	djg:bunpro/てごらん	strict-deck; bunpro:てごらん; てごらん; (Please) try to, (Please) look
+ても-なくても	n3	03-n3	bunpro:ても-なくても			sk:auto/n3	djg:bunpro/ても-なくても	strict-deck; bunpro:ても-なくても; ～ても～なくても; Whether ~ or not
+てもかまわない	n3	03-n3	bunpro:てもかまわない			sk:auto/n3	djg:bunpro/てもかまわない	strict-deck; bunpro:てもかまわない; てもかまわない; It doesn't matter if, I don't mind
+て初めて	n3	03-n3	bunpro:て初めて			sk:auto/n3	djg:bunpro/て初めて	strict-deck; bunpro:て初めて; て初めて; For the first time, Not until, Only after, Only when, Only because
+である	n3	03-n3	bunpro:である			sk:auto/n3	djg:bunpro/である	strict-deck; bunpro:である; である; Formal or literary だ, Authoritative, Copula
+できれば-できたら	n3	03-n3	bunpro:できれば-できたら			sk:auto/n3	djg:bunpro/できれば-できたら	strict-deck; bunpro:できれば-できたら; できれば・できたら; If possible
+では-それでは-じゃあ	n3	03-n3	bunpro:では-それでは-じゃあ			sk:auto/n3	djg:bunpro/では-それでは-じゃあ	strict-deck; bunpro:では-それでは-じゃあ; では・それでは・じゃあ; If so, Well (then), In that case
+ではなくて-じゃなくて	n3	03-n3	bunpro:ではなくて-じゃなくて			sk:auto/n3	djg:bunpro/ではなくて-じゃなくて	strict-deck; bunpro:ではなくて-じゃなくて; ではなくて・じゃなくて; Not A but B, Conjunctive
+でもある	n3	03-n3	bunpro:でもある			sk:auto/n3	djg:bunpro/でもある	strict-deck; bunpro:でもある; でもある; Be also, It also is
+でよければ	n3	03-n3	bunpro:でよければ			sk:auto/n3	djg:bunpro/でよければ	strict-deck; bunpro:でよければ; でよければ; If it is alright, If you don't mind, If you would like, If possible
+で言うと	n3	03-n3	bunpro:で言うと			sk:auto/n3	djg:bunpro/で言うと	strict-deck; bunpro:で言うと; で言うと; In, Of, According to
+という-called	n3	03-n3	bunpro:という-called			sk:auto/n3	djg:bunpro/という-called	strict-deck; bunpro:という-called; という; Called, Named, Known as, As much as
+ということだ	n3	03-n3	bunpro:ということだ			sk:auto/n3	djg:bunpro/ということだ	strict-deck; bunpro:ということだ; ということだ; I heard that, Rumor has it that, It is said that, It means that
+というのは	n3	03-n3	bunpro:というのは			sk:auto/n3	djg:bunpro/というのは	strict-deck; bunpro:というのは; というのは; ~ Known as ~ is, ~ Called ~ is, ~ Means ~, Because
+というのは事実だ	n3	03-n3	bunpro:というのは事実だ			sk:auto/n3	djg:bunpro/というのは事実だ	strict-deck; bunpro:というのは事実だ; ～というのは事実だ; It is a fact that ~, There is no doubt that
+というより	n3	03-n3	bunpro:というより			sk:auto/n3	djg:bunpro/というより	strict-deck; bunpro:というより; というより; ...is more of a... than a..., Rather than saying that...
+という理由で	n3	03-n3	bunpro:という理由で			sk:auto/n3	djg:bunpro/という理由で	strict-deck; bunpro:という理由で; という理由で; For (that) reason; on the grounds of (that), With the reasoning, Under the pretext of, Due to
+といえば	n3	03-n3	bunpro:といえば			sk:auto/n3	djg:bunpro/といえば	strict-deck; bunpro:といえば; といえば; Speaking of, If it were the case that
+とおり	n3	03-n3	bunpro:とおり			sk:auto/n3	djg:bunpro/とおり	strict-deck; bunpro:とおり; とおり; In that way, Exactly, Precisely, Just as
+ところが	n3	03-n3	bunpro:ところが			sk:auto/n3	djg:bunpro/ところが	strict-deck; bunpro:ところが; ところが; Even so, However, Even though, But
+ところだった1	n3	03-n3	bunpro:ところだった1			sk:auto/n3	djg:bunpro/ところだった1	strict-deck; bunpro:ところだった1; ところだった ①; Almost, Nearly, About to, On the verge of
+ところで	n3	03-n3	bunpro:ところで			sk:auto/n3	djg:bunpro/ところで	strict-deck; bunpro:ところで; ところで; By the way, Incidentally
+としたら-とすれば-とすると	n3	03-n3	bunpro:としたら-とすれば-とすると			sk:auto/n3	djg:bunpro/としたら-とすれば-とすると	strict-deck; bunpro:としたら-とすれば-とすると; としたら・とすれば・とすると; If it were the case that, Assuming that...
+として	n3	03-n3	bunpro:として			sk:auto/n3	djg:bunpro/として	strict-deck; bunpro:として; として; As (i.e. in the role of), For
+とても-ない	n3	03-n3	bunpro:とても-ない			sk:auto/n3	djg:bunpro/とても-ない	strict-deck; bunpro:とても-ない; とても～ない; Not ~ at all, Cannot ~ at all
+とは限らない	n3	03-n3	bunpro:とは限らない			sk:auto/n3	djg:bunpro/とは限らない	strict-deck; bunpro:とは限らない; とは限らない; Not necessarily so, Is not always true, There is no guarantee that
+と並んで	n3	03-n3	bunpro:と並んで			sk:auto/n3	djg:bunpro/と並んで	strict-deck; bunpro:と並んで; と並んで; In line with, Comparable with, Along with, Just like, As … as
+と共に	n3	03-n3	bunpro:と共に			sk:auto/n3	djg:bunpro/と共に	strict-deck; bunpro:と共に; と共に; Together with, At the same time,  As well as
+と同じくらい	n3	03-n3	bunpro:と同じくらい			sk:auto/n3	djg:bunpro/と同じくらい	strict-deck; bunpro:と同じくらい; と同じくらい; About the same as, About as, No less
+と同じで-と違って	n3	03-n3	bunpro:と同じで-と違って			sk:auto/n3	djg:bunpro/と同じで-と違って	strict-deck; bunpro:と同じで-と違って; と同じで・と違って; Like, Similar to, Unlike, Dissimilar to
+と同時に	n3	03-n3	bunpro:と同時に			sk:auto/n3	djg:bunpro/と同時に	strict-deck; bunpro:と同時に; と同時に; At the same time as, The instant, The moment, As well as
+と言える	n3	03-n3	bunpro:と言える			sk:auto/n3	djg:bunpro/と言える	strict-deck; bunpro:と言える; と言える; Would or could say that..., Can probably say that..., Fair to say that...
+と言っても	n3	03-n3	bunpro:と言っても			sk:auto/n3	djg:bunpro/と言っても	strict-deck; bunpro:と言っても;  ～と言っても; Although ~ might say that ~
+どうしても	n3	03-n3	bunpro:どうしても			sk:auto/n3	djg:bunpro/どうしても	strict-deck; bunpro:どうしても; どうしても; Regardless of, No matter what
+どころか	n3	03-n3	bunpro:どころか			sk:auto/n3	djg:bunpro/どころか	strict-deck; bunpro:どころか; どころか; Far from, Anything but
+どんなに-ても	n3	03-n3	bunpro:どんなに-ても			sk:auto/n3	djg:bunpro/どんなに-ても	strict-deck; bunpro:どんなに-ても; どんなに〜ても; No matter how
+ないうちに	n3	03-n3	bunpro:ないうちに			sk:auto/n3	djg:bunpro/ないうちに	strict-deck; bunpro:ないうちに; ないうちに; Before it becomes, Before ~ occurs, Without
+ないことはない	n3	03-n3	bunpro:ないことはない			sk:auto/n3	djg:bunpro/ないことはない	strict-deck; bunpro:ないことはない; ないことはない; Is not impossible, It doesn't mean that it isn't
+なかなか	n3	03-n3	bunpro:なかなか			sk:auto/n3	djg:bunpro/なかなか	strict-deck; bunpro:なかなか;  なかなか; Very, Quite, Considerably
+なかなか-ない	n3	03-n3	bunpro:なかなか-ない			sk:auto/n3	djg:bunpro/なかなか-ない	strict-deck; bunpro:なかなか-ない; なかなか～ない; Not really, Hardly, Not easily or readily, By no means, Far from
+ながらも	n3	03-n3	bunpro:ながらも			sk:auto/n3	djg:bunpro/ながらも	strict-deck; bunpro:ながらも; ながらも; But, Even while, Even though, Despite, Although
+なし	n3	03-n3	bunpro:なし			sk:auto/n3	djg:bunpro/なし	strict-deck; bunpro:なし; なし; Without, No
+なぜなら-から	n3	03-n3	bunpro:なぜなら-から			sk:auto/n3	djg:bunpro/なぜなら-から	strict-deck; bunpro:なぜなら-から; なぜなら〜から; Because, The reason is, That is because
+なんか-なんて	n3	03-n3	bunpro:なんか-なんて			sk:auto/n3	djg:bunpro/なんか-なんて	strict-deck; bunpro:なんか-なんて; なんか・なんて; Such as, Things like, Emphasis
+において-における	n3	03-n3	bunpro:において-における			sk:auto/n3	djg:bunpro/において-における	strict-deck; bunpro:において-における; において・における; In, On, At, Regarding, In terms of
+にかけて	n3	03-n3	bunpro:にかけて			sk:auto/n3	djg:bunpro/にかけて	strict-deck; bunpro:にかけて; にかけて; Over (a period), From ~ until, Through
+にしては	n3	03-n3	bunpro:にしては			sk:auto/n3	djg:bunpro/にしては	strict-deck; bunpro:にしては; にしては; (Even) considering, (Even) for
+にしても	n3	03-n3	bunpro:にしても			sk:auto/n3	djg:bunpro/にしても	strict-deck; bunpro:にしても; にしても; Even though, Even if, Even when, Also
+について	n3	03-n3	bunpro:について			sk:auto/n3	djg:bunpro/について	strict-deck; bunpro:について; について; Concerning, About, Regarding
+につれて	n3	03-n3	bunpro:につれて			sk:auto/n3	djg:bunpro/につれて	strict-deck; bunpro:につれて; につれて; As…then, In proportion to, (Along) with
+にもとづいて	n3	03-n3	bunpro:にもとづいて			sk:auto/n3	djg:bunpro/にもとづいて	strict-deck; bunpro:にもとづいて; にもとづいて; Based on, In accordance with
+によって-による	n3	03-n3	bunpro:によって-による			sk:auto/n3	djg:bunpro/によって-による	strict-deck; bunpro:によって-による; によって・による; By means of, According to, Depending on, Because of, Due to
+によると-によれば	n3	03-n3	bunpro:によると-によれば			sk:auto/n3	djg:bunpro/によると-によれば	strict-deck; bunpro:によると-によれば; によると・によれば; According to
+に代わって	n3	03-n3	bunpro:に代わって			sk:auto/n3	djg:bunpro/に代わって	strict-deck; bunpro:に代わって; に代わって; In place of, On behalf of, To succeed
+に取って	n3	03-n3	bunpro:に取って			sk:auto/n3	djg:bunpro/に取って	strict-deck; bunpro:に取って; に取って; To, For, Concerning
+に合わせて-に合った	n3	03-n3	bunpro:に合わせて-に合った			sk:auto/n3	djg:bunpro/に合わせて-に合った	strict-deck; bunpro:に合わせて-に合った; に合わせて・に合った; In accordance with, Matching, Fitting, Suitable for, Adjust or tune to
+に対して	n3	03-n3	bunpro:に対して			sk:auto/n3	djg:bunpro/に対して	strict-deck; bunpro:に対して; に対して; In contrast to, While, In regard to, Whereas
+に当たる	n3	03-n3	bunpro:に当たる			sk:auto/n3	djg:bunpro/に当たる	strict-deck; bunpro:に当たる; に当たる; Correspond to, Amounts to, Equals to, Is appropriate
+に比べて	n3	03-n3	bunpro:に比べて			sk:auto/n3	djg:bunpro/に比べて	strict-deck; bunpro:に比べて; に比べて; Compared to, When compared to
+に違いない	n3	03-n3	bunpro:に違いない			sk:auto/n3	djg:bunpro/に違いない	strict-deck; bunpro:に違いない; に違いない; There is no doubt that, I'm sure
+に関する-に関して	n3	03-n3	bunpro:に関する-に関して			sk:auto/n3	djg:bunpro/に関する-に関して	strict-deck; bunpro:に関する-に関して; に関する・に関して; Related to, About, Regarding
+に限る	n3	03-n3	bunpro:に限る			sk:auto/n3	djg:bunpro/に限る	strict-deck; bunpro:に限る; に限る; Nothing better than, There's nothing like, Limited to
+のに	n3	03-n3	bunpro:のに			sk:auto/n3	djg:bunpro/のに	strict-deck; bunpro:のに; のに; In order to
+のはxの方だ	n3	03-n3	bunpro:のはxの方だ			sk:auto/n3	djg:bunpro/のはxの方だ	strict-deck; bunpro:のはxの方だ; のはXの方だ; It is...that..., It is...who..., ...is the one that..., ...is the one who...
+の姿	n3	03-n3	bunpro:の姿			sk:auto/n3	djg:bunpro/の姿	strict-deck; bunpro:の姿; ～(の)姿; Figure, Shape, Appearance, Looks, Wearing, Dressed in, Presence
+の間に	n3	03-n3	bunpro:の間に			sk:auto/n3	djg:bunpro/の間に	strict-deck; bunpro:の間に; の間に; While, During, Between, Period
+は-くらいです	n3	03-n3	bunpro:は-くらいです			sk:auto/n3	djg:bunpro/は-くらいです	strict-deck; bunpro:は-くらいです; は～くらいです; About the only, To the extent that
+は-で有名	n3	03-n3	bunpro:は-で有名			sk:auto/n3	djg:bunpro/は-で有名	strict-deck; bunpro:は-で有名; ～は～で有名; Is famous for
+は-となっている	n3	03-n3	bunpro:は-となっている			sk:auto/n3	djg:bunpro/は-となっている	strict-deck; bunpro:は-となっている; ～は～となっている; It is (has been), Have/has become, Happen to be, Has been established
+はもちろん	n3	03-n3	bunpro:はもちろん			sk:auto/n3	djg:bunpro/はもちろん	strict-deck; bunpro:はもちろん; はもちろん; Not only but also, Let alone, Not to mention, Of course
+は言うまでもない1	n3	03-n3	bunpro:は言うまでもない1			sk:auto/n3	djg:bunpro/は言うまでもない1	strict-deck; bunpro:は言うまでもない1; は言うまでもない ①; It goes without saying (that), (It is) needless to say, I don't need to remind you
+ば-ほど	n3	03-n3	bunpro:ば-ほど			sk:auto/n3	djg:bunpro/ば-ほど	strict-deck; bunpro:ば-ほど; ば〜ほど; The more…the more
+ばいい	n3	03-n3	bunpro:ばいい			sk:auto/n3	djg:bunpro/ばいい	strict-deck; bunpro:ばいい; ばいい; Can, Should, It'd be good if
+ばかり	n3	03-n3	bunpro:ばかり			sk:auto/n3	djg:bunpro/ばかり	strict-deck; bunpro:ばかり; ばかり; Just, Only, Nothing but
+ばかりだ	n3	03-n3	bunpro:ばかりだ			sk:auto/n3	djg:bunpro/ばかりだ	strict-deck; bunpro:ばかりだ; ばかりだ; (Only) continue to, Keep on -ing, More and more
+ばかりでなく	n3	03-n3	bunpro:ばかりでなく			sk:auto/n3	djg:bunpro/ばかりでなく	strict-deck; bunpro:ばかりでなく; ばかりでなく; Not only…but also, As well as
+ばかりに	n3	03-n3	bunpro:ばかりに			sk:auto/n3	djg:bunpro/ばかりに	strict-deck; bunpro:ばかりに; ばかりに; Simply because, Only because, Just because, Simply on account of
+ふりをする	n3	03-n3	bunpro:ふりをする			sk:auto/n3	djg:bunpro/ふりをする	strict-deck; bunpro:ふりをする; ふりをする; To pretend, To act as if
+べき	n3	03-n3	bunpro:べき			sk:auto/n3	djg:bunpro/べき	strict-deck; bunpro:べき; べき; Must, Should , Ought to
+べきではない	n3	03-n3	bunpro:べきではない			sk:auto/n3	djg:bunpro/べきではない	strict-deck; bunpro:べきではない; べきではない; Should not, Must not , Ought not to
+ほど	n3	03-n3	bunpro:ほど			sk:auto/n3	djg:bunpro/ほど	strict-deck; bunpro:ほど; ほど; The more, About, To the extent that, So much… that
+ほど～ない	n3	03-n3	bunpro:ほど～ない			sk:auto/n3	djg:bunpro/ほど～ない	strict-deck; bunpro:ほど～ない; ほど～ない; Is not as…as, Isn't... like..., Not to the extent of...
+まさか	n3	03-n3	bunpro:まさか			sk:auto/n3	djg:bunpro/まさか	strict-deck; bunpro:まさか; まさか; I never dreamed, Never, No way, Don't tell me, You don't say
+ますます	n3	03-n3	bunpro:ますます			sk:auto/n3	djg:bunpro/ますます	strict-deck; bunpro:ますます; ますます; Increasingly, More and more, Decreasingly, Less and less, Keep -ing
+まま	n3	03-n3	bunpro:まま			sk:auto/n3	djg:bunpro/まま	strict-deck; bunpro:まま; まま(に); As is, While remaining, Left in a state
+まるで-ようだ	n3	03-n3	bunpro:まるで-ようだ			sk:auto/n3	djg:bunpro/まるで-ようだ	strict-deck; bunpro:まるで-ようだ; まるで…ようだ; It is entirely as if, It is just as though
+み	n3	03-n3	bunpro:み			sk:auto/n3	djg:bunpro/み	strict-deck; bunpro:み; み; ~ness, Used to indicate conditions or nature
+むしろ	n3	03-n3	bunpro:むしろ			sk:auto/n3	djg:bunpro/むしろ	strict-deck; bunpro:むしろ; むしろ; Rather, Instead, Over
+めったに-ない	n3	03-n3	bunpro:めったに-ない			sk:auto/n3	djg:bunpro/めったに-ない	strict-deck; bunpro:めったに-ない; めったに〜ない; Hardly, Rarely, Seldom
+もしかしたら	n3	03-n3	bunpro:もしかしたら			sk:auto/n3	djg:bunpro/もしかしたら	strict-deck; bunpro:もしかしたら; もしかしたら; Perhaps, Maybe, Possibly
+もしも～なら・もしも～でも	n3	03-n3	bunpro:もしも～なら・もしも～でも			sk:auto/n3	djg:bunpro/もしも～なら・もしも～でも	strict-deck; bunpro:もしも～なら・もしも～でも; もしも～なら・もしも～でも;  If, Supposing
+もっとも	n3	03-n3	bunpro:もっとも			sk:auto/n3	djg:bunpro/もっとも	strict-deck; bunpro:もっとも; もっとも; Although, But, However, For all that, Provided that
+もの-もん	n3	03-n3	bunpro:もの-もん			sk:auto/n3	djg:bunpro/もの-もん	strict-deck; bunpro:もの-もん; もの・もん; Because, Cause
+ものだ	n3	03-n3	bunpro:ものだ			sk:auto/n3	djg:bunpro/ものだ	strict-deck; bunpro:ものだ; ものだ; Supposed to, Should, That's the way it is
+ような気がする	n3	03-n3	bunpro:ような気がする			sk:auto/n3	djg:bunpro/ような気がする	strict-deck; bunpro:ような気がする; ような気がする; Have a feeling that
+わけがない	n3	03-n3	bunpro:わけがない			sk:auto/n3	djg:bunpro/わけがない	strict-deck; bunpro:わけがない; わけがない; There is no way, There is no reason, It is impossible, Cannot be
+わけだ	n3	03-n3	bunpro:わけだ			sk:auto/n3	djg:bunpro/わけだ	strict-deck; bunpro:わけだ; わけだ; For that reason, No wonder, As you'd expect, Naturally, Thus, This is why
+わけではない	n3	03-n3	bunpro:わけではない			sk:auto/n3	djg:bunpro/わけではない	strict-deck; bunpro:わけではない; わけではない; It doesn't mean that, It is not the case, It's not like
+わけにはいかない	n3	03-n3	bunpro:わけにはいかない			sk:auto/n3	djg:bunpro/わけにはいかない	strict-deck; bunpro:わけにはいかない; わけにはいかない; Cannot afford to, No way, Impossible to do
+わざわざ	n3	03-n3	bunpro:わざわざ			sk:auto/n3	djg:bunpro/わざわざ	strict-deck; bunpro:わざわざ; わざわざ; Expressly, Especially, Go out of one's way, Take the trouble to
+わりに	n3	03-n3	bunpro:わりに			sk:auto/n3	djg:bunpro/わりに	strict-deck; bunpro:わりに; 割に; Although, Despite, Rather...for, Unexpectedly, Comparatively, Considering
+をはじめ	n3	03-n3	bunpro:をはじめ			sk:auto/n3	djg:bunpro/をはじめ	strict-deck; bunpro:をはじめ; をはじめ; Not only...but also..., Starting with
+んじゃない	n3	03-n3	bunpro:んじゃない			sk:auto/n3	djg:bunpro/んじゃない	strict-deck; bunpro:んじゃない; んじゃない; Don't, Mustn't, Shouldn't have
+んだって	n3	03-n3	bunpro:んだって			sk:auto/n3	djg:bunpro/んだって	strict-deck; bunpro:んだって; んだって; I heard that, He or She said that
+一体	n3	03-n3	bunpro:一体			sk:auto/n3	djg:bunpro/一体	strict-deck; bunpro:一体; 一体; (What) the heck?, (Who) in the world?, (Where) on earth?, (How many) f*ing...
+一方だ	n3	03-n3	bunpro:一方だ			sk:auto/n3	djg:bunpro/一方だ	strict-deck; bunpro:一方だ; 一方だ; More and more, Continue to, Keep on, -er and -er
+一方で	n3	03-n3	bunpro:一方で			sk:auto/n3	djg:bunpro/一方で	strict-deck; bunpro:一方で; 一方で; On the other hand, At the same time, While
+上がる-上げる	n3	03-n3	bunpro:上がる-上げる			sk:auto/n3	djg:bunpro/上がる-上げる	strict-deck; bunpro:上がる-上げる; 上がる・上げる; Something is finished, To finish something, Something has come to an end, To do something completely, To do something through
+上で	n3	03-n3	bunpro:上で			sk:auto/n3	djg:bunpro/上で	strict-deck; bunpro:上で; 上で; After, Upon
+中	n3	03-n3	bunpro:中			sk:auto/n3	djg:bunpro/中	strict-deck; bunpro:中; 中; During, While, Throughout, In the process of
+代わりに	n3	03-n3	bunpro:代わりに			sk:auto/n3	djg:bunpro/代わりに	strict-deck; bunpro:代わりに; 代わりに; Instead of,  In place of, In exchange for
+全く-ない	n3	03-n3	bunpro:全く-ない			sk:auto/n3	djg:bunpro/全く-ない	strict-deck; bunpro:全く-ない; 全く～ない; Not~at all
+再び	n3	03-n3	bunpro:再び			sk:auto/n3	djg:bunpro/再び	strict-deck; bunpro:再び; 再び; Again, Once more, A second time
+切る	n3	03-n3	bunpro:切る			sk:auto/n3	djg:bunpro/切る	strict-deck; bunpro:切る; 切る; To do something completely to the end, Utterly, Resolutely
+切れない	n3	03-n3	bunpro:切れない			sk:auto/n3	djg:bunpro/切れない	strict-deck; bunpro:切れない; 切れない; Being unable to finish or complete
+別に-ない	n3	03-n3	bunpro:別に-ない			sk:auto/n3	djg:bunpro/別に-ない	strict-deck; bunpro:別に-ない; 別に〜ない; Not really, Not particularly, It's not like...
+前者は-後者は	n3	03-n3	bunpro:前者は-後者は			sk:auto/n3	djg:bunpro/前者は-後者は	strict-deck; bunpro:前者は-後者は; 前者は・後者は; The former ~ the latter, The first ~ the second
+即ち	n3	03-n3	bunpro:即ち			sk:auto/n3	djg:bunpro/即ち	strict-deck; bunpro:即ち; 即ち; In other words, That is, Namely
+却って	n3	03-n3	bunpro:却って			sk:auto/n3	djg:bunpro/却って	strict-deck; bunpro:却って; 却って; All the more, On the contrary, Conversely
+又-も	n3	03-n3	bunpro:又-も			sk:auto/n3	djg:bunpro/又-も	strict-deck; bunpro:又-も; 又〜も; Moreover, Additionally, And also, In addition, Furthermore, Or
+合う	n3	03-n3	bunpro:合う			sk:auto/n3	djg:bunpro/合う	strict-deck; bunpro:合う; 合う; To do for one another, Mutually, With
+同士	n3	03-n3	bunpro:同士			sk:auto/n3	djg:bunpro/同士	strict-deck; bunpro:同士; 同士; Fellow, With each other, Mutually, Between, Among, Together, With
+向き	n3	03-n3	bunpro:向き			sk:auto/n3	djg:bunpro/向き	strict-deck; bunpro:向き; 向き; Suitable for, Facing
+向け	n3	03-n3	bunpro:向け			sk:auto/n3	djg:bunpro/向け	strict-deck; bunpro:向け; 向け; Intended for, Aimed at
+左右する	n3	03-n3	bunpro:左右する			sk:auto/n3	djg:bunpro/左右する	strict-deck; bunpro:左右する; 左右する; Influence, Impact, Control
+当たり	n3	03-n3	bunpro:当たり			sk:auto/n3	djg:bunpro/当たり	strict-deck; bunpro:当たり; 当たり; Per~, A~, Apiece, Each
+必ずしも	n3	03-n3	bunpro:必ずしも			sk:auto/n3	djg:bunpro/必ずしも	strict-deck; bunpro:必ずしも; 必ずしも ; Not always, Not entirely, Not necessarily
+最中に	n3	03-n3	bunpro:最中に			sk:auto/n3	djg:bunpro/最中に	strict-deck; bunpro:最中に; 最中に; In the middle of
+次第	n3	03-n3	bunpro:次第			sk:auto/n3	djg:bunpro/次第	strict-deck; bunpro:次第; 次第; As soon as
+決して-ない	n3	03-n3	bunpro:決して-ない			sk:auto/n3	djg:bunpro/決して-ない	strict-deck; bunpro:決して-ない; 決して〜ない; Never, By no means
+点	n3	03-n3	bunpro:点			sk:auto/n3	djg:bunpro/点	strict-deck; bunpro:点; 点; Aspect, Respect, Point, Way, In terms of, In that, From the point of view
+的	n3	03-n3	bunpro:的			sk:auto/n3	djg:bunpro/的	strict-deck; bunpro:的; 的; ~ly・~like・~al, Typical
+直ちに	n3	03-n3	bunpro:直ちに			sk:auto/n3	djg:bunpro/直ちに	strict-deck; bunpro:直ちに; 直ちに; At once, Immediately, As soon as
+第一	n3	03-n3	bunpro:第一			sk:auto/n3	djg:bunpro/第一	strict-deck; bunpro:第一; 第一; Start, First (point), Foremost, To begin with
+考えられない	n3	03-n3	bunpro:考えられない			sk:auto/n3	djg:bunpro/考えられない	strict-deck; bunpro:考えられない; 考えられない; Unthinkable, Inconceivable, Unimaginable, Cannot think
+言うまでもない2	n3	03-n3	bunpro:言うまでもない2			sk:auto/n3	djg:bunpro/言うまでもない2	strict-deck; bunpro:言うまでもない2; 言うまでもない ②; It goes without saying, It is needless to say, Of course, Obviously
+込む1	n3	03-n3	bunpro:込む1			sk:auto/n3	djg:bunpro/込む1	strict-deck; bunpro:込む1; 込む ①; To go into, To put into
+込む2	n3	03-n3	bunpro:込む2			sk:auto/n3	djg:bunpro/込む2	strict-deck; bunpro:込む2; 込む ②; Remain, To do thoroughly, Deeply, Intensely
+連用形	n3	03-n3	bunpro:連用形			sk:auto/n3	djg:bunpro/連用形	strict-deck; bunpro:連用形; 連用形; Formal Conjunctive
+遂に	n3	03-n3	bunpro:遂に			sk:auto/n3	djg:bunpro/遂に	strict-deck; bunpro:遂に; 遂に; Finally, At last
+関係がある	n3	03-n3	bunpro:関係がある			sk:auto/n3	djg:bunpro/関係がある	strict-deck; bunpro:関係がある; 関係がある; (Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to
+-てこそ	n2	04-n2	bunpro:-てこそ			sk:auto/n2	djg:bunpro/-てこそ	strict-deck; bunpro:-てこそ; ～てこそ; Only if, Because, By, Unless, Until
+-のうち-で	n2	04-n2	bunpro:-のうち-で			sk:auto/n2	djg:bunpro/-のうち-で	strict-deck; bunpro:-のうち-で; ～のうち(で); Of the, Among(st)
+あげく	n2	04-n2	bunpro:あげく			sk:auto/n2	djg:bunpro/あげく	strict-deck; bunpro:あげく; あげく; After, In the end, After all, Eventually
+いきなり	n2	04-n2	bunpro:いきなり			sk:auto/n2	djg:bunpro/いきなり	strict-deck; bunpro:いきなり; いきなり; For no reason, Suddenly, All of a sudden
+いつの間にか	n2	04-n2	bunpro:いつの間にか			sk:auto/n2	djg:bunpro/いつの間にか	strict-deck; bunpro:いつの間にか; いつの間にか; Suddenly, Unnoticed, Without noticing, Too soon
+いよいよ	n2	04-n2	bunpro:いよいよ			sk:auto/n2	djg:bunpro/いよいよ	strict-deck; bunpro:いよいよ; いよいよ; At last, Finally, More and more
+いわゆる	n2	04-n2	bunpro:いわゆる			sk:auto/n2	djg:bunpro/いわゆる	strict-deck; bunpro:いわゆる; いわゆる; What is called, So-called, Generally known
+お-願う	n2	04-n2	bunpro:お-願う			sk:auto/n2	djg:bunpro/お-願う	strict-deck; bunpro:お-願う; お～願う; Please, Could you please
+おおよそ	n2	04-n2	bunpro:おおよそ			sk:auto/n2	djg:bunpro/おおよそ	strict-deck; bunpro:おおよそ; おおよそ; Approximately, Roughly, About, Outline, Gist
+おそらく	n2	04-n2	bunpro:おそらく			sk:auto/n2	djg:bunpro/おそらく	strict-deck; bunpro:おそらく; おそらく; Probably, Perhaps, (Most) likely, (I) fear that
+おまけに	n2	04-n2	bunpro:おまけに			sk:auto/n2	djg:bunpro/おまけに	strict-deck; bunpro:おまけに; おまけに; In addition, On top of that, What is more, To make matters worse
+および	n2	04-n2	bunpro:および			sk:auto/n2	djg:bunpro/および	strict-deck; bunpro:および; および; And, As well as
+か-ないかのうちに	n2	04-n2	bunpro:か-ないかのうちに			sk:auto/n2	djg:bunpro/か-ないかのうちに	strict-deck; bunpro:か-ないかのうちに; か〜ないかのうちに; Right after, As soon as, Just when, Barely
+かと思ったら-かと思うと	n2	04-n2	bunpro:かと思ったら-かと思うと			sk:auto/n2	djg:bunpro/かと思ったら-かと思うと	strict-deck; bunpro:かと思ったら-かと思うと; かと思ったら・かと思うと; Then again, Just when I thought, No sooner than
+かねない	n2	04-n2	bunpro:かねない			sk:auto/n2	djg:bunpro/かねない	strict-deck; bunpro:かねない; かねない; Might, Could be, Capable of, Possible
+かねる	n2	04-n2	bunpro:かねる			sk:auto/n2	djg:bunpro/かねる	strict-deck; bunpro:かねる; かねる; Cannot, Be unable to, Hard to, Hesitant to
+かのようだ	n2	04-n2	bunpro:かのようだ			sk:auto/n2	djg:bunpro/かのようだ	strict-deck; bunpro:かのようだ; かのようだ; As if, Just like
+からして	n2	04-n2	bunpro:からして			sk:auto/n2	djg:bunpro/からして	strict-deck; bunpro:からして; からして; Even..., Judging from, Based on
+からすると-からすれば	n2	04-n2	bunpro:からすると-からすれば			sk:auto/n2	djg:bunpro/からすると-からすれば	strict-deck; bunpro:からすると-からすれば; からすると・からすれば; Judging from, Considering
+からといって	n2	04-n2	bunpro:からといって			sk:auto/n2	djg:bunpro/からといって	strict-deck; bunpro:からといって; からといって; Just because
+からには	n2	04-n2	bunpro:からには			sk:auto/n2	djg:bunpro/からには	strict-deck; bunpro:からには; からには; As long as, Since, Given
+から見ると	n2	04-n2	bunpro:から見ると			sk:auto/n2	djg:bunpro/から見ると	strict-deck; bunpro:から見ると; から見ると; From the point of view of, By the look of
+か何か	n2	04-n2	bunpro:か何か			sk:auto/n2	djg:bunpro/か何か	strict-deck; bunpro:か何か; か何か; Or something, Or something like that
+がけに	n2	04-n2	bunpro:がけに			sk:auto/n2	djg:bunpro/がけに	strict-deck; bunpro:がけに; がけに; On the way to, As you go
+が気になる	n2	04-n2	bunpro:が気になる			sk:auto/n2	djg:bunpro/が気になる	strict-deck; bunpro:が気になる; が気になる; To be interested in, To be concerned about
+きっかけ	n2	04-n2	bunpro:きっかけ			sk:auto/n2	djg:bunpro/きっかけ	strict-deck; bunpro:きっかけ; きっかけ; Lead to, Because of, As a start or trigger of, An opportunity
+げ	n2	04-n2	bunpro:げ			sk:auto/n2	djg:bunpro/げ	strict-deck; bunpro:げ; げ; Seemingly, Giving appearance of, [Expresses emotions or feelings]
+ことだから	n2	04-n2	bunpro:ことだから			sk:auto/n2	djg:bunpro/ことだから	strict-deck; bunpro:ことだから; ことだから; It is exactly because
+ことなく	n2	04-n2	bunpro:ことなく			sk:auto/n2	djg:bunpro/ことなく	strict-deck; bunpro:ことなく; ことなく; Without ~ing
+ことになっている	n2	04-n2	bunpro:ことになっている			sk:auto/n2	djg:bunpro/ことになっている	strict-deck; bunpro:ことになっている; ことになっている; To be expected to, To be scheduled to
+ことにはならない	n2	04-n2	bunpro:ことにはならない			sk:auto/n2	djg:bunpro/ことにはならない	strict-deck; bunpro:ことにはならない; ことにはならない; Just because… doesn't mean…
+ことは-が	n2	04-n2	bunpro:ことは-が			sk:auto/n2	djg:bunpro/ことは-が	strict-deck; bunpro:ことは-が; ことは〜が; It is true...but, although, but
+さすが	n2	04-n2	bunpro:さすが			sk:auto/n2	djg:bunpro/さすが	strict-deck; bunpro:さすが; さすが; as one would expect, only natural, that is just like..., even
+さらに	n2	04-n2	bunpro:さらに			sk:auto/n2	djg:bunpro/さらに	strict-deck; bunpro:さらに; 更に; Even more or further, Again, More and more
+ざる	n2	04-n2	bunpro:ざる			sk:auto/n2	djg:bunpro/ざる	strict-deck; bunpro:ざる; ～ざる; To not ~, Un~
+ざるを得ない	n2	04-n2	bunpro:ざるを得ない			sk:auto/n2	djg:bunpro/ざるを得ない	strict-deck; bunpro:ざるを得ない; ざるを得ない; Can't help doing, Have no choice but
+しかしながら	n2	04-n2	bunpro:しかしながら			sk:auto/n2	djg:bunpro/しかしながら	strict-deck; bunpro:しかしながら; しかしながら; However, Nevertheless, But
+しかも	n2	04-n2	bunpro:しかも			sk:auto/n2	djg:bunpro/しかも	strict-deck; bunpro:しかも; しかも; Moreover, Furthermore
+したがって	n2	04-n2	bunpro:したがって			sk:auto/n2	djg:bunpro/したがって	strict-deck; bunpro:したがって; したがって; Therefore, Thus, As a result
+ずに済む	n2	04-n2	bunpro:ずに済む			sk:auto/n2	djg:bunpro/ずに済む	strict-deck; bunpro:ずに済む; ずに済む; Get by without doing something, To get away with
+せめて	n2	04-n2	bunpro:せめて			sk:auto/n2	djg:bunpro/せめて	strict-deck; bunpro:せめて; せめて; At least
+そういえば	n2	04-n2	bunpro:そういえば			sk:auto/n2	djg:bunpro/そういえば	strict-deck; bunpro:そういえば; そういえば; Speaking of which, By the way, Come to think of it
+そうにない	n2	04-n2	bunpro:そうにない			sk:auto/n2	djg:bunpro/そうにない	strict-deck; bunpro:そうにない; そうにない; Unlikely to, Showing no signs of
+その上	n2	04-n2	bunpro:その上			sk:auto/n2	djg:bunpro/その上	strict-deck; bunpro:その上; その上; Besides, In addition, Furthermore
+それとも	n2	04-n2	bunpro:それとも			sk:auto/n2	djg:bunpro/それとも	strict-deck; bunpro:それとも; それとも; Or, Or else, Rather
+それなのに	n2	04-n2	bunpro:それなのに			sk:auto/n2	djg:bunpro/それなのに	strict-deck; bunpro:それなのに; それなのに; And yet, Despite this
+それなら	n2	04-n2	bunpro:それなら			sk:auto/n2	djg:bunpro/それなら	strict-deck; bunpro:それなら; それなら; Then, If that's the case
+それにしても	n2	04-n2	bunpro:それにしても			sk:auto/n2	djg:bunpro/それにしても	strict-deck; bunpro:それにしても; それにしても; Nevertheless, Even so
+たちまち	n2	04-n2	bunpro:たちまち			sk:auto/n2	djg:bunpro/たちまち	strict-deck; bunpro:たちまち; たちまち; Immediately, Quickly, Suddenly, In a moment or flash
+たった-の	n2	04-n2	bunpro:たった-の			sk:auto/n2	djg:bunpro/たった-の	strict-deck; bunpro:たった-の; たった(の); Only, Just, No more than
+たって	n2	04-n2	bunpro:たって			sk:auto/n2	djg:bunpro/たって	strict-deck; bunpro:たって; たって; Even if, Even though, No matter how
+たまえ	n2	04-n2	bunpro:たまえ			sk:auto/n2	djg:bunpro/たまえ	strict-deck; bunpro:たまえ; たまえ; (Please) do!, Ask to, Beg to, (Order somebody to do something)
+た末-の末	n2	04-n2	bunpro:た末-の末			sk:auto/n2	djg:bunpro/た末-の末	strict-deck; bunpro:た末-の末; た末・の末; After, As a conclusion of
+だけあって	n2	04-n2	bunpro:だけあって			sk:auto/n2	djg:bunpro/だけあって	strict-deck; bunpro:だけあって; だけあって; Is only natural, …Being the case, Because, As might be expected
+だけに	n2	04-n2	bunpro:だけに			sk:auto/n2	djg:bunpro/だけに	strict-deck; bunpro:だけに; だけに; As might be expected, Because, All the more because, It's only natural
+だけのことはある	n2	04-n2	bunpro:だけのことはある			sk:auto/n2	djg:bunpro/だけのことはある	strict-deck; bunpro:だけのことはある; だけのことはある; No wonder, Not surprising that, As expected
+だけは	n2	04-n2	bunpro:だけは			sk:auto/n2	djg:bunpro/だけは	strict-deck; bunpro:だけは; だけは; To do all that one can, As much or many ~ as one could
+だけましだ	n2	04-n2	bunpro:だけましだ			sk:auto/n2	djg:bunpro/だけましだ	strict-deck; bunpro:だけましだ; だけましだ; At least, It's better than..., One should feel grateful for
+っこない	n2	04-n2	bunpro:っこない			sk:auto/n2	djg:bunpro/っこない	strict-deck; bunpro:っこない; っこない; There is no chance of, There is no way of, Impossible
+つつ	n2	04-n2	bunpro:つつ			sk:auto/n2	djg:bunpro/つつ	strict-deck; bunpro:つつ; つつ; While, And
+つつ-も	n2	04-n2	bunpro:つつ-も			sk:auto/n2	djg:bunpro/つつ-も	strict-deck; bunpro:つつ-も; つつ(も); Even while ~ing, Even though ~ing, Despite ~ing, Although ~ing
+つつある	n2	04-n2	bunpro:つつある			sk:auto/n2	djg:bunpro/つつある	strict-deck; bunpro:つつある; つつある; -ing, Be -ing
+つもりで	n2	04-n2	bunpro:つもりで			sk:auto/n2	djg:bunpro/つもりで	strict-deck; bunpro:つもりで; つもりで; With the intention of doing, Instead of..., Act as if or pretend, Believing that..., Thinking that...
+ていては	n2	04-n2	bunpro:ていては			sk:auto/n2	djg:bunpro/ていては	strict-deck; bunpro:ていては; ていては; If one keeps doing something, When, If something is...
+てからでないと	n2	04-n2	bunpro:てからでないと			sk:auto/n2	djg:bunpro/てからでないと	strict-deck; bunpro:てからでないと; てからでないと; (Not) unless ~ cannot, (Not) until ~ cannot
+てしょうがない	n2	04-n2	bunpro:てしょうがない			sk:auto/n2	djg:bunpro/てしょうがない	strict-deck; bunpro:てしょうがない; てしょうがない; Extremely, Very, Really, It can't be helped
+てたまらない	n2	04-n2	bunpro:てたまらない			sk:auto/n2	djg:bunpro/てたまらない	strict-deck; bunpro:てたまらない; てたまらない; Can't help but want to, Very, Extremely
+てでも	n2	04-n2	bunpro:てでも			sk:auto/n2	djg:bunpro/てでも	strict-deck; bunpro:てでも; てでも; Even if I have to, By any or all means, No matter what
+てならない	n2	04-n2	bunpro:てならない			sk:auto/n2	djg:bunpro/てならない	strict-deck; bunpro:てならない; てならない; Very, Extremely, Can't help but do
+ては	n2	04-n2	bunpro:ては			sk:auto/n2	djg:bunpro/ては	strict-deck; bunpro:ては; ては; If, With, Since, Because
+ては-ては	n2	04-n2	bunpro:ては-ては			sk:auto/n2	djg:bunpro/ては-ては	strict-deck; bunpro:ては-ては; ては〜ては; Repeating action, If, Since
+てはいられない	n2	04-n2	bunpro:てはいられない			sk:auto/n2	djg:bunpro/てはいられない	strict-deck; bunpro:てはいられない; てはいられない; Can't afford to, Unable to
+てはならない	n2	04-n2	bunpro:てはならない			sk:auto/n2	djg:bunpro/てはならない	strict-deck; bunpro:てはならない; てはならない; Must not, Cannot, Should not
+て当然だ	n2	04-n2	bunpro:て当然だ			sk:auto/n2	djg:bunpro/て当然だ	strict-deck; bunpro:て当然だ; て当然だ; Natural, As a matter of course
+て頂戴	n2	04-n2	bunpro:て頂戴			sk:auto/n2	djg:bunpro/て頂戴	strict-deck; bunpro:て頂戴; ～て頂戴; Please do
+でしかない	n2	04-n2	bunpro:でしかない			sk:auto/n2	djg:bunpro/でしかない	strict-deck; bunpro:でしかない; でしかない; Merely, Nothing but, No more than
+ということは	n2	04-n2	bunpro:ということは			sk:auto/n2	djg:bunpro/ということは	strict-deck; bunpro:ということは; ということは; That means, That is to say
+というものだ	n2	04-n2	bunpro:というものだ			sk:auto/n2	djg:bunpro/というものだ	strict-deck; bunpro:というものだ; というものだ; Speaker's impression, Criticism or conclusion
+というものでもない	n2	04-n2	bunpro:というものでもない			sk:auto/n2	djg:bunpro/というものでもない	strict-deck; bunpro:というものでもない; というものでもない; There is no guarantee that…, Not necessarily
+というわけではない	n2	04-n2	bunpro:というわけではない			sk:auto/n2	djg:bunpro/というわけではない	strict-deck; bunpro:というわけではない; というわけではない; It is not that, It doesn't mean that, It is not always the case
+という点から考えると	n2	04-n2	bunpro:という点から考えると			sk:auto/n2	djg:bunpro/という点から考えると	strict-deck; bunpro:という点から考えると; という点から考えると; From the standpoint of, From the perspective of, From the viewpoint of, Think in terms of, Viewed from the angle of
+という風に	n2	04-n2	bunpro:という風に			sk:auto/n2	djg:bunpro/という風に	strict-deck; bunpro:という風に; という風に; As if to say, As if to suggest that, In such a way that, Things like
+といった	n2	04-n2	bunpro:といった			sk:auto/n2	djg:bunpro/といった	strict-deck; bunpro:といった; といった; Such as, Like, So much as
+とか	n2	04-n2	bunpro:とか			sk:auto/n2	djg:bunpro/とか	strict-deck; bunpro:とか; とか; I heard that… something like, They said ... or something
+ところだった2	n2	04-n2	bunpro:ところだった2			sk:auto/n2	djg:bunpro/ところだった2	strict-deck; bunpro:ところだった2; ところだった ②; Was just about to do something, Was in the middle of...
+ところを見ると	n2	04-n2	bunpro:ところを見ると			sk:auto/n2	djg:bunpro/ところを見ると	strict-deck; bunpro:ところを見ると; ところを見ると; Judging from, Seeing that
+としては	n2	04-n2	bunpro:としては			sk:auto/n2	djg:bunpro/としては	strict-deck; bunpro:としては; としては; As a, For a, As for
+としても	n2	04-n2	bunpro:としても			sk:auto/n2	djg:bunpro/としても	strict-deck; bunpro:としても; としても; Even if (we assume), Assuming,  Also as
+とっくに	n2	04-n2	bunpro:とっくに			sk:auto/n2	djg:bunpro/とっくに	strict-deck; bunpro:とっくに; とっくに; Already, A long time ago, Long ago
+とも	n2	04-n2	bunpro:とも			sk:auto/n2	djg:bunpro/とも	strict-deck; bunpro:とも; とも; Even if, No matter
+と考えられる	n2	04-n2	bunpro:と考えられる			sk:auto/n2	djg:bunpro/と考えられる	strict-deck; bunpro:と考えられる; と考えられる; Can be considered as, Is thought to be, One can think that, It is conceivable that
+どうせ	n2	04-n2	bunpro:どうせ			sk:auto/n2	djg:bunpro/どうせ	strict-deck; bunpro:どうせ; どうせ; Anyhow, At any rate, In any case, I have no doubt that, Probably
+どうやら	n2	04-n2	bunpro:どうやら			sk:auto/n2	djg:bunpro/どうやら	strict-deck; bunpro:どうやら; どうやら; Apparently, Looks Like, Seems like
+どころではない	n2	04-n2	bunpro:どころではない			sk:auto/n2	djg:bunpro/どころではない	strict-deck; bunpro:どころではない; どころではない; This is not the time for…, Far from, Out of the question
+ないことには-ない	n2	04-n2	bunpro:ないことには-ない			sk:auto/n2	djg:bunpro/ないことには-ない	strict-deck; bunpro:ないことには-ない; ないことには～ない; Unless you do something
+ないではいられない	n2	04-n2	bunpro:ないではいられない			sk:auto/n2	djg:bunpro/ないではいられない	strict-deck; bunpro:ないではいられない; ないではいられない; Cannot help doing something, Cannot resist doing something
+ないわけにはいかない	n2	04-n2	bunpro:ないわけにはいかない			sk:auto/n2	djg:bunpro/ないわけにはいかない	strict-deck; bunpro:ないわけにはいかない; ないわけにはいかない; Can't not, No way to avoid
+なお1	n2	04-n2	bunpro:なお1			sk:auto/n2	djg:bunpro/なお1	strict-deck; bunpro:なお1; なお①; Still, Even, Yet
+なお2	n2	04-n2	bunpro:なお2			sk:auto/n2	djg:bunpro/なお2	strict-deck; bunpro:なお2; なお②; In addition, Incidentally, Furthermore, Moreover
+なくはない	n2	04-n2	bunpro:なくはない			sk:auto/n2	djg:bunpro/なくはない	strict-deck; bunpro:なくはない; なくはない; It's not that…, Kind of, might, Slightly, Somewhat, In some respects
+なにやら	n2	04-n2	bunpro:なにやら			sk:auto/n2	djg:bunpro/なにやら	strict-deck; bunpro:なにやら; なにやら; Something (or other), Some kind of
+ならともかく	n2	04-n2	bunpro:ならともかく			sk:auto/n2	djg:bunpro/ならともかく	strict-deck; bunpro:ならともかく; ならともかく; If it's (A), sure, but (B), Putting aside (A), (B)
+にあたり-にあたって	n2	04-n2	bunpro:にあたり-にあたって			sk:auto/n2	djg:bunpro/にあたり-にあたって	strict-deck; bunpro:にあたり-にあたって; にあたり・にあたって; When, When doing something, On the occasion, At the time
+にかかわらず	n2	04-n2	bunpro:にかかわらず			sk:auto/n2	djg:bunpro/にかかわらず	strict-deck; bunpro:にかかわらず; にかかわらず; Regardless of, Whether or, No matter, With or without
+にかかわる	n2	04-n2	bunpro:にかかわる			sk:auto/n2	djg:bunpro/にかかわる	strict-deck; bunpro:にかかわる; にかかわる; To relate to, To have to do with, Concerning, Depends on
+にかけては	n2	04-n2	bunpro:にかけては			sk:auto/n2	djg:bunpro/にかけては	strict-deck; bunpro:にかけては; にかけては; When it comes to, Regarding, Concerning
+にしたがって	n2	04-n2	bunpro:にしたがって			sk:auto/n2	djg:bunpro/にしたがって	strict-deck; bunpro:にしたがって; にしたがって; As, Following, As then, According to, In accordance with
+にしたら	n2	04-n2	bunpro:にしたら			sk:auto/n2	djg:bunpro/にしたら	strict-deck; bunpro:にしたら; にしたら; From the point of view of
+にしても-にしても	n2	04-n2	bunpro:にしても-にしても			sk:auto/n2	djg:bunpro/にしても-にしても	strict-deck; bunpro:にしても-にしても; にしても～にしても; Regardless of whether
+にしろ-にしろ	n2	04-n2	bunpro:にしろ-にしろ			sk:auto/n2	djg:bunpro/にしろ-にしろ	strict-deck; bunpro:にしろ-にしろ; にしろ～にしろ; Whether… or
+にすぎない	n2	04-n2	bunpro:にすぎない			sk:auto/n2	djg:bunpro/にすぎない	strict-deck; bunpro:にすぎない; にすぎない; No more than, Just, Merely
+にせよ-にしろ	n2	04-n2	bunpro:にせよ-にしろ			sk:auto/n2	djg:bunpro/にせよ-にしろ	strict-deck; bunpro:にせよ-にしろ; にせよ・にしろ; Even if, Even though, No matter, Whether… or
+につき	n2	04-n2	bunpro:につき			sk:auto/n2	djg:bunpro/につき	strict-deck; bunpro:につき; につき; Due to, On account of, Each or every
+につけ	n2	04-n2	bunpro:につけ			sk:auto/n2	djg:bunpro/につけ	strict-deck; bunpro:につけ; につけ; Whenever, Every time something happens
+にて	n2	04-n2	bunpro:にて			sk:auto/n2	djg:bunpro/にて	strict-deck; bunpro:にて; にて; In, At, With, Using, By
+には	n2	04-n2	bunpro:には			sk:auto/n2	djg:bunpro/には	strict-deck; bunpro:には; には; In order to, In regard to, For
+にほかならない	n2	04-n2	bunpro:にほかならない			sk:auto/n2	djg:bunpro/にほかならない	strict-deck; bunpro:にほかならない; にほかならない; Nothing but, None other than, Simply
+にもかかわらず	n2	04-n2	bunpro:にもかかわらず			sk:auto/n2	djg:bunpro/にもかかわらず	strict-deck; bunpro:にもかかわらず; にもかかわらず; Despite, In spite of, Regardless, Nevertheless
+にわたって	n2	04-n2	bunpro:にわたって			sk:auto/n2	djg:bunpro/にわたって	strict-deck; bunpro:にわたって; にわたって; Across, Throughout, Extends, Over (a period of time or range)
+に伴って-に伴い	n2	04-n2	bunpro:に伴って-に伴い			sk:auto/n2	djg:bunpro/に伴って-に伴い	strict-deck; bunpro:に伴って-に伴い; に伴って・に伴い; As, Due,  Along with, Hand-in-hand with, Resulted in, Be consequent upon
+に値する	n2	04-n2	bunpro:に値する			sk:auto/n2	djg:bunpro/に値する	strict-deck; bunpro:に値する; ～に値する; Be worthy of, Deserving of, Amounts to
+に先立ち	n2	04-n2	bunpro:に先立ち			sk:auto/n2	djg:bunpro/に先立ち	strict-deck; bunpro:に先立ち; に先立ち; Before, Prior to, In preference over
+に加えて	n2	04-n2	bunpro:に加えて			sk:auto/n2	djg:bunpro/に加えて	strict-deck; bunpro:に加えて; に加えて; Not only...but also, In addition, Not to mention
+に反して	n2	04-n2	bunpro:に反して			sk:auto/n2	djg:bunpro/に反して	strict-deck; bunpro:に反して; に反して; Go against, Contrary to
+に向かって-に向けて	n2	04-n2	bunpro:に向かって-に向けて			sk:auto/n2	djg:bunpro/に向かって-に向けて	strict-deck; bunpro:に向かって-に向けて; に向かって・に向けて; Towards, To face, To head to
+に応えて	n2	04-n2	bunpro:に応えて			sk:auto/n2	djg:bunpro/に応えて	strict-deck; bunpro:に応えて; に応えて; In response to, Meet
+に応じて	n2	04-n2	bunpro:に応じて			sk:auto/n2	djg:bunpro/に応じて	strict-deck; bunpro:に応じて; に応じて; Depending or based on, According to, In response to, Suitable for or to
+に気をつける	n2	04-n2	bunpro:に気をつける			sk:auto/n2	djg:bunpro/に気をつける	strict-deck; bunpro:に気をつける; に気をつける; Take care, Be careful, Pay attention, Make sure, Watch out
+に決まっている	n2	04-n2	bunpro:に決まっている			sk:auto/n2	djg:bunpro/に決まっている	strict-deck; bunpro:に決まっている; に決まっている; Surely, Bound to, Certainly, Be decided
+に沿って	n2	04-n2	bunpro:に沿って			sk:auto/n2	djg:bunpro/に沿って	strict-deck; bunpro:に沿って; に沿って; Along, In accordance with, In line with
+に相違ない	n2	04-n2	bunpro:に相違ない			sk:auto/n2	djg:bunpro/に相違ない	strict-deck; bunpro:に相違ない; に相違ない; Without a doubt, Certainly, Surely, Not mistaken
+に越したことはない	n2	04-n2	bunpro:に越したことはない			sk:auto/n2	djg:bunpro/に越したことはない	strict-deck; bunpro:に越したことはない; に越したことはない; There is nothing better than, It is the best, Would be the best
+に限って	n2	04-n2	bunpro:に限って			sk:auto/n2	djg:bunpro/に限って	strict-deck; bunpro:に限って; に限って; Particularly when, Those who, Only when
+に限らず	n2	04-n2	bunpro:に限らず			sk:auto/n2	djg:bunpro/に限らず	strict-deck; bunpro:に限らず; に限らず; Not just, Not only… but also
+に際して	n2	04-n2	bunpro:に際して			sk:auto/n2	djg:bunpro/に際して	strict-deck; bunpro:に際して; に際して; On the occasion of, At the time of
+ぬ	n2	04-n2	bunpro:ぬ			sk:auto/n2	djg:bunpro/ぬ	strict-deck; bunpro:ぬ; ぬ; Classical negative, Classical verb [ない]
+ねばならない	n2	04-n2	bunpro:ねばならない			sk:auto/n2	djg:bunpro/ねばならない	strict-deck; bunpro:ねばならない; ねばならない; Must, Have to, Should
+のではないだろうか	n2	04-n2	bunpro:のではないだろうか			sk:auto/n2	djg:bunpro/のではないだろうか	strict-deck; bunpro:のではないだろうか; のではないだろうか; I think ... isn't it?, It might be that..., Don't you agree?
+のみ	n2	04-n2	bunpro:のみ			sk:auto/n2	djg:bunpro/のみ	strict-deck; bunpro:のみ; のみ; Only (formal)
+のみならず	n2	04-n2	bunpro:のみならず			sk:auto/n2	djg:bunpro/のみならず	strict-deck; bunpro:のみならず; のみならず; Not only...but, Not just...but, What is more
+のももっともだ	n2	04-n2	bunpro:のももっともだ			sk:auto/n2	djg:bunpro/のももっともだ	strict-deck; bunpro:のももっともだ; のももっともだ; May well, Have or has good reason for, No wonder, … Is only natural
+のも当然だ	n2	04-n2	bunpro:のも当然だ			sk:auto/n2	djg:bunpro/のも当然だ	strict-deck; bunpro:のも当然だ; のも当然だ; It is only natural that, It is no wonder
+の下で	n2	04-n2	bunpro:の下で			sk:auto/n2	djg:bunpro/の下で	strict-deck; bunpro:の下で; の下で; Under, Under the supervision of, On the basis of
+はたして	n2	04-n2	bunpro:はたして			sk:auto/n2	djg:bunpro/はたして	strict-deck; bunpro:はたして; はたして; Wonder if ~ (really)?, Wonder how ~ (actually)?, Sure enough, As expected
+はともかく	n2	04-n2	bunpro:はともかく			sk:auto/n2	djg:bunpro/はともかく	strict-deck; bunpro:はともかく; はともかく; Setting aside, Apart from
+はもとより	n2	04-n2	bunpro:はもとより			sk:auto/n2	djg:bunpro/はもとより	strict-deck; bunpro:はもとより; はもとより; Not only... but also, Let alone, Of course
+は別として	n2	04-n2	bunpro:は別として			sk:auto/n2	djg:bunpro/は別として	strict-deck; bunpro:は別として; は別として; Apart from, (Setting) aside, Whether or, Except for, Save for
+ふうに	n2	04-n2	bunpro:ふうに			sk:auto/n2	djg:bunpro/ふうに	strict-deck; bunpro:ふうに; ふうに; ~ way, In a way that suggests, Like ~
+ぶりに	n2	04-n2	bunpro:ぶりに			sk:auto/n2	djg:bunpro/ぶりに	strict-deck; bunpro:ぶりに; ぶりに; For the first time in, Haven't done for some time
+まい	n2	04-n2	bunpro:まい			sk:auto/n2	djg:bunpro/まい	strict-deck; bunpro:まい; まい; Won't, Intend not to, Probably not
+も-ば-も	n2	04-n2	bunpro:も-ば-も			sk:auto/n2	djg:bunpro/も-ば-も	strict-deck; bunpro:も-ば-も; も～ば～も; …And…, Both ... and ..., ... And ... as well
+もかまわず	n2	04-n2	bunpro:もかまわず			sk:auto/n2	djg:bunpro/もかまわず	strict-deck; bunpro:もかまわず; も構わず; Without worrying about
+ものか	n2	04-n2	bunpro:ものか			sk:auto/n2	djg:bunpro/ものか	strict-deck; bunpro:ものか; ものか; Definitely not, Absolutely not, Impossible, Do you really think~?
+ものがある	n2	04-n2	bunpro:ものがある			sk:auto/n2	djg:bunpro/ものがある	strict-deck; bunpro:ものがある; ものがある; Strong judgement, There is something, Feel strongly that
+ものだから	n2	04-n2	bunpro:ものだから			sk:auto/n2	djg:bunpro/ものだから	strict-deck; bunpro:ものだから; ものだから; Because, The reason is
+ものですから-もので	n2	04-n2	bunpro:ものですから-もので			sk:auto/n2	djg:bunpro/ものですから-もので	strict-deck; bunpro:ものですから-もので; ものですから・もので; Because, My excuse is, My explanation is
+ものなら①	n2	04-n2	bunpro:ものなら①			sk:auto/n2	djg:bunpro/ものなら①	strict-deck; bunpro:ものなら①; ものなら①; If, If one could, If something would be possible
+ものの	n2	04-n2	bunpro:ものの			sk:auto/n2	djg:bunpro/ものの	strict-deck; bunpro:ものの; ものの; Although, But, Even Though
+も又	n2	04-n2	bunpro:も又			sk:auto/n2	djg:bunpro/も又	strict-deck; bunpro:も又; も又; Too, Also (with more emphasis than も alone), Again
+やがて	n2	04-n2	bunpro:やがて			sk:auto/n2	djg:bunpro/やがて	strict-deck; bunpro:やがて; やがて; Before long, All too soon, In the end, Eventually
+やら-やら	n2	04-n2	bunpro:やら-やら			sk:auto/n2	djg:bunpro/やら-やら	strict-deck; bunpro:やら-やら; やら～やら; Whether or, Things like, And … so on
+ようがない・ようもない	n2	04-n2	bunpro:ようがない・ようもない			sk:auto/n2	djg:bunpro/ようがない・ようもない	strict-deck; bunpro:ようがない・ようもない; ようがない・ようもない; There's no way to, It's impossible to
+ようでは-ようじゃ	n2	04-n2	bunpro:ようでは-ようじゃ			sk:auto/n2	djg:bunpro/ようでは-ようじゃ	strict-deck; bunpro:ようでは-ようじゃ; ようでは・ようじゃ; If, If it is true that
+ようではないか	n2	04-n2	bunpro:ようではないか			sk:auto/n2	djg:bunpro/ようではないか	strict-deck; bunpro:ようではないか; 〜ようではないか; Let's do something, Why don't we
+よりしかたがない	n2	04-n2	bunpro:よりしかたがない			sk:auto/n2	djg:bunpro/よりしかたがない	strict-deck; bunpro:よりしかたがない; よりしかたがない; There is no choice but, Can't be helped, Inevitable
+よりほかない	n2	04-n2	bunpro:よりほかない			sk:auto/n2	djg:bunpro/よりほかない	strict-deck; bunpro:よりほかない; よりほかない; To have no choice but, No other way than, Have to
+を-に任せる	n2	04-n2	bunpro:を-に任せる			sk:auto/n2	djg:bunpro/を-に任せる	strict-deck; bunpro:を-に任せる; ～を～に任せる; Leave 〜 up to, Entrust 〜 to
+をもとに	n2	04-n2	bunpro:をもとに			sk:auto/n2	djg:bunpro/をもとに	strict-deck; bunpro:をもとに; をもとに; Based on, From, According to
+を中心に	n2	04-n2	bunpro:を中心に			sk:auto/n2	djg:bunpro/を中心に	strict-deck; bunpro:を中心に; を中心に; Focused on, Centered on or around, Mainly, Most notably
+を問わず	n2	04-n2	bunpro:を問わず			sk:auto/n2	djg:bunpro/を問わず	strict-deck; bunpro:を問わず; を問わず; Regardless of, Whether or not, No matter, With or without
+を契機に	n2	04-n2	bunpro:を契機に			sk:auto/n2	djg:bunpro/を契機に	strict-deck; bunpro:を契機に; を契機に; Lead to, As a good opportunity to, As a result of, As a trigger
+を巡って	n2	04-n2	bunpro:を巡って			sk:auto/n2	djg:bunpro/を巡って	strict-deck; bunpro:を巡って; を巡って; Concerning, In regard to, About, (Split) over
+を込めて	n2	04-n2	bunpro:を込めて			sk:auto/n2	djg:bunpro/を込めて	strict-deck; bunpro:を込めて; を込めて; Full of, Filled with, With ～
+を通じて-を通して	n2	04-n2	bunpro:を通じて-を通して			sk:auto/n2	djg:bunpro/を通じて-を通して	strict-deck; bunpro:を通じて-を通して; を通じて・を通して; Through, Via, Throughout
+を除いて	n2	04-n2	bunpro:を除いて			sk:auto/n2	djg:bunpro/を除いて	strict-deck; bunpro:を除いて; を除いて; Except, With the exception of, Unless
+一応1	n2	04-n2	bunpro:一応1			sk:auto/n2	djg:bunpro/一応1	strict-deck; bunpro:一応1; 一応 ①; Just in case, Just to be sure
+一応2	n2	04-n2	bunpro:一応2			sk:auto/n2	djg:bunpro/一応2	strict-deck; bunpro:一応2; 一応 ②; more or less, for the time being, tentatively, roughly
+一旦	n2	04-n2	bunpro:一旦			sk:auto/n2	djg:bunpro/一旦	strict-deck; bunpro:一旦; 一旦; Once …, If … for a short time, Temporarily (stop), For now or the time being
+万が一	n2	04-n2	bunpro:万が一			sk:auto/n2	djg:bunpro/万が一	strict-deck; bunpro:万が一; 万が一; Just in case, In the worst-case scenario, In the unlikely event, By any chance
+上	n2	04-n2	bunpro:上			sk:auto/n2	djg:bunpro/上	strict-deck; bunpro:上; 上; From the standpoint of
+上に	n2	04-n2	bunpro:上に			sk:auto/n2	djg:bunpro/上に	strict-deck; bunpro:上に; 上に; As well, Besides, In addition to
+上は	n2	04-n2	bunpro:上は			sk:auto/n2	djg:bunpro/上は	strict-deck; bunpro:上は; 上は; Once, Since, Now that, As long as
+中を	n2	04-n2	bunpro:中を			sk:auto/n2	djg:bunpro/中を	strict-deck; bunpro:中を; 中を; In, On, Into, Inside of
+以上2	n2	04-n2	bunpro:以上2			sk:auto/n2	djg:bunpro/以上2	strict-deck; bunpro:以上2; 以上 ②; Since, Now that, As long as, If
+以上に	n2	04-n2	bunpro:以上に			sk:auto/n2	djg:bunpro/以上に	strict-deck; bunpro:以上に; 以上に; More than, No less than, Even more
+以来	n2	04-n2	bunpro:以来			sk:auto/n2	djg:bunpro/以来	strict-deck; bunpro:以来; 以来; Since, Henceforth
+何から何まで	n2	04-n2	bunpro:何から何まで			sk:auto/n2	djg:bunpro/何から何まで	strict-deck; bunpro:何から何まで; 何から何まで; Everything and anything, From A to Z, From head to toe, Everything
+何しろ	n2	04-n2	bunpro:何しろ			sk:auto/n2	djg:bunpro/何しろ	strict-deck; bunpro:何しろ; 何しろ; No wonder, After all, In fact, Because, At any rate
+何といっても	n2	04-n2	bunpro:何といっても			sk:auto/n2	djg:bunpro/何といっても	strict-deck; bunpro:何といっても; 何といっても; By any account, All the same, No doubt
+何より	n2	04-n2	bunpro:何より			sk:auto/n2	djg:bunpro/何より	strict-deck; bunpro:何より; 何より; Be glad, Be relieved, Most, Best, Above all else, More than anything
+傾向がある	n2	04-n2	bunpro:傾向がある			sk:auto/n2	djg:bunpro/傾向がある	strict-deck; bunpro:傾向がある; 傾向がある; Tendency, Trend, Inclination
+僅かに	n2	04-n2	bunpro:僅かに			sk:auto/n2	djg:bunpro/僅かに	strict-deck; bunpro:僅かに; 僅かに; Only, Slightly, A little, Barely, Merely
+反面	n2	04-n2	bunpro:反面			sk:auto/n2	djg:bunpro/反面	strict-deck; bunpro:反面; 反面; While, On the other hand, Although, However, On the flip side
+幸い-幸いなことに	n2	04-n2	bunpro:幸い-幸いなことに			sk:auto/n2	djg:bunpro/幸い-幸いなことに	strict-deck; bunpro:幸い-幸いなことに; 幸い・幸いなことに; Luckily, Fortunately
+弱	n2	04-n2	bunpro:弱			sk:auto/n2	djg:bunpro/弱	strict-deck; bunpro:弱; 弱; Just less than
+強	n2	04-n2	bunpro:強			sk:auto/n2	djg:bunpro/強	strict-deck; bunpro:強; 強; Just more than
+後-のnoun	n2	04-n2	bunpro:後-のnoun			sk:auto/n2	djg:bunpro/後-のnoun	strict-deck; bunpro:後-のnoun; 後(の) Noun; …left, Rest, Remaining, In, …to, …else
+得ない	n2	04-n2	bunpro:得ない			sk:auto/n2	djg:bunpro/得ない	strict-deck; bunpro:得ない; 〜得ない; Unable to, Cannot
+得る-得る	n2	04-n2	bunpro:得る-得る			sk:auto/n2	djg:bunpro/得る-得る	strict-deck; bunpro:得る-得る; 得る・得る; Is able to, Can, Possible
+思うように	n2	04-n2	bunpro:思うように			sk:auto/n2	djg:bunpro/思うように	strict-deck; bunpro:思うように; 思うように; As one hopes, As desired, As one thought
+恐れがある	n2	04-n2	bunpro:恐れがある			sk:auto/n2	djg:bunpro/恐れがある	strict-deck; bunpro:恐れがある; 恐れがある; There is a risk or fear that, Be in danger of, Possibility of
+手前	n2	04-n2	bunpro:手前			sk:auto/n2	djg:bunpro/手前	strict-deck; bunpro:手前; 手前; Before, In front of, From one's standpoint or side
+抜きで	n2	04-n2	bunpro:抜きで			sk:auto/n2	djg:bunpro/抜きで	strict-deck; bunpro:抜きで; 抜きで; Without, Unless
+抜く	n2	04-n2	bunpro:抜く			sk:auto/n2	djg:bunpro/抜く	strict-deck; bunpro:抜く; 抜く; All~, Completely, See through, Overcome, To the bitter end
+未だに	n2	04-n2	bunpro:未だに			sk:auto/n2	djg:bunpro/未だに	strict-deck; bunpro:未だに; 未だに; Still, Not yet, Even now
+次第だ-次第で	n2	04-n2	bunpro:次第だ-次第で			sk:auto/n2	djg:bunpro/次第だ-次第で	strict-deck; bunpro:次第だ-次第で; 次第だ・次第で; Depending on, So
+次第に	n2	04-n2	bunpro:次第に			sk:auto/n2	djg:bunpro/次第に	strict-deck; bunpro:次第に; 次第に; Gradually
+気	n2	04-n2	bunpro:気			sk:auto/n2	djg:bunpro/気	strict-deck; bunpro:気; 気; Feel like ~, Spirit
+活かす	n2	04-n2	bunpro:活かす			sk:auto/n2	djg:bunpro/活かす	strict-deck; bunpro:活かす; 活かす; To make use of (something), To take full advantage of, To capitalize on, To leverage (skills), Bring out (the quality of)
+甲斐がある	n2	04-n2	bunpro:甲斐がある			sk:auto/n2	djg:bunpro/甲斐がある	strict-deck; bunpro:甲斐がある; 甲斐がある; To be (not) worth, To (not) pay off
+確かに	n2	04-n2	bunpro:確かに			sk:auto/n2	djg:bunpro/確かに	strict-deck; bunpro:確かに; 確かに; Surely, Certainly
+精々	n2	04-n2	bunpro:精々			sk:auto/n2	djg:bunpro/精々	strict-deck; bunpro:精々; 精々; (At) most , (At) best, No more than, Barely
+結果・の結果	n2	04-n2	bunpro:結果・の結果			sk:auto/n2	djg:bunpro/結果・の結果	strict-deck; bunpro:結果・の結果; 結果・の結果; As a result of
+要するに	n2	04-n2	bunpro:要するに			sk:auto/n2	djg:bunpro/要するに	strict-deck; bunpro:要するに; 要するに; To sum up, In summary, In short
+逆に	n2	04-n2	bunpro:逆に			sk:auto/n2	djg:bunpro/逆に	strict-deck; bunpro:逆に; 逆に; On the contrary
+途中に・途中で	n2	04-n2	bunpro:途中に・途中で			sk:auto/n2	djg:bunpro/途中に・途中で	strict-deck; bunpro:途中に・途中で; 途中に・途中で; On the way, Partway, In the middle of
+限り	n2	04-n2	bunpro:限り			sk:auto/n2	djg:bunpro/限り	strict-deck; bunpro:限り; 限り; As long as, While… is the case, Limited to
+陸に-ない	n2	04-n2	bunpro:陸に-ない			sk:auto/n2	djg:bunpro/陸に-ない	strict-deck; bunpro:陸に-ない; 陸に～ない; Not well or properly, Not much or enough, Barely, Hardly
+際に	n2	04-n2	bunpro:際に			sk:auto/n2	djg:bunpro/際に	strict-deck; bunpro:際に; 際に; When, At the time of, In case of, On the occasion of
+～ところに・～ところへ	n2	04-n2	bunpro:～ところに・～ところへ			sk:auto/n2	djg:bunpro/～ところに・～ところへ	strict-deck; bunpro:～ところに・～ところへ; ～ところに・～ところへ; At the time, When, While, Timing
+～ばと思います	n2	04-n2	bunpro:～ばと思います			sk:auto/n2	djg:bunpro/～ばと思います	strict-deck; bunpro:～ばと思います; ～ばと思います; I would appreciate it if, If you could, I would like to think that
+-なり-なり	n1	05-n1	bunpro:-なり-なり			sk:auto/n1	djg:bunpro/-なり-なり	strict-deck; bunpro:-なり-なり; ～なり～なり; Or, Either or
+-に-ない	n1	05-n1	bunpro:-に-ない			sk:auto/n1	djg:bunpro/-に-ない	strict-deck; bunpro:-に-ない; 〜に〜ない; Cannot even...if wants, Would like to...but cannot, Wants to...but cannot
+-よう--う-まい-が-と	n1	05-n1	bunpro:-よう--う-まい-が-と			sk:auto/n1	djg:bunpro/-よう--う-まい-が-と	strict-deck; bunpro:-よう--う-まい-が-と; ようが～まいが; Even if, No matter what, Whether or not, [Emphatic], Volitional + が
+adj限りだ	n1	05-n1	bunpro:adj限りだ			sk:auto/n1	djg:bunpro/adj限りだ	strict-deck; bunpro:adj限りだ; Adj限りだ; Extremely, Really, Very, As ... as one can be
+verb-passive-ままに	n1	05-n1	bunpro:verb-passive-ままに			sk:auto/n1	djg:bunpro/verb-passive-ままに	strict-deck; bunpro:verb-passive-ままに; れる・られる + ままに; Do as (one is told or ordered…), In accordance with, In compliance with, Just like
+verb-だに	n1	05-n1	bunpro:verb-だに			sk:auto/n1	djg:bunpro/verb-だに	strict-deck; bunpro:verb-だに; Verb + だに; Just, Even just, Even merely
+verb-て-みせる	n1	05-n1	bunpro:verb-て-みせる			sk:auto/n1	djg:bunpro/verb-て-みせる	strict-deck; bunpro:verb-て-みせる; Verb[て] + みせる; I will definitely, I will certainly, Just watch, Whatever it takes, I swear, for sure
+verb-ないもの-だろうか	n1	05-n1	bunpro:verb-ないもの-だろうか			sk:auto/n1	djg:bunpro/verb-ないもの-だろうか	strict-deck; bunpro:verb-ないもの-だろうか; Verb[ない]もの(だろう)か; (Why) can’t, Isn’t there, Wish that, If only
+あくまでも	n1	05-n1	bunpro:あくまでも			sk:auto/n1	djg:bunpro/あくまでも	strict-deck; bunpro:あくまでも; あくまでも; To the (bitter) end, Stubbornly, Persistently
+あっての	n1	05-n1	bunpro:あっての			sk:auto/n1	djg:bunpro/あっての	strict-deck; bunpro:あっての; あっての; Exist only because of or due to, Owe everything to
+い-adj-く-もなんともない	n1	05-n1	bunpro:い-adj-く-もなんともない			sk:auto/n1	djg:bunpro/い-adj-く-もなんともない	strict-deck; bunpro:い-adj-く-もなんともない; い-Adj[く] + もなんともない; Not... or anything, Not at all, Not, By no means, Definitely not, Nothing like that
+いかなる	n1	05-n1	bunpro:いかなる			sk:auto/n1	djg:bunpro/いかなる	strict-deck; bunpro:いかなる; いかなる; What kind of, No matter what kind of, No … (with a negative verb), Any... (with a negative verb)
+いかん-ず	n1	05-n1	bunpro:いかん-ず			sk:auto/n1	djg:bunpro/いかん-ず	strict-deck; bunpro:いかん-ず; いかん〜ず; Regardless of (whatever … is), Irrespective of (whatever … is)
+かたがた	n1	05-n1	bunpro:かたがた			sk:auto/n1	djg:bunpro/かたがた	strict-deck; bunpro:かたがた; かたがた; Partly for (the purpose of), In addition to, Along with, By the way, And also to, Incidentally, While
+かたわら	n1	05-n1	bunpro:かたわら			sk:auto/n1	djg:bunpro/かたわら	strict-deck; bunpro:かたわら; かたわら; While, Besides, In addition to
+からある	n1	05-n1	bunpro:からある			sk:auto/n1	djg:bunpro/からある	strict-deck; bunpro:からある; からある; As much as, As many as, At least
+からする	n1	05-n1	bunpro:からする			sk:auto/n1	djg:bunpro/からする	strict-deck; bunpro:からする; からする; About, Or more, Over, Starts at
+かれ-かれ	n1	05-n1	bunpro:かれ-かれ			sk:auto/n1	djg:bunpro/かれ-かれ	strict-deck; bunpro:かれ-かれ; かれ〜かれ; Or, Either or
+か否か	n1	05-n1	bunpro:か否か			sk:auto/n1	djg:bunpro/か否か	strict-deck; bunpro:か否か; か否か; Whether or not
+がてら	n1	05-n1	bunpro:がてら			sk:auto/n1	djg:bunpro/がてら	strict-deck; bunpro:がてら; がてら; On the occasion of, While … as well, While …  (one is) at it, During, Along the way
+がん-totally	n1	05-n1	bunpro:がん-totally			sk:auto/n1	djg:bunpro/がん-totally	strict-deck; bunpro:がん-totally; がん～; Totally, Seriously, Completely, Furiously, Majorly
+が早いか	n1	05-n1	bunpro:が早いか			sk:auto/n1	djg:bunpro/が早いか	strict-deck; bunpro:が早いか; が早いか; As soon as, No sooner than, The instant that, No sooner had
+きらいがある	n1	05-n1	bunpro:きらいがある			sk:auto/n1	djg:bunpro/きらいがある	strict-deck; bunpro:きらいがある; きらいがある; Have a tendency to, Tend to, Be slightly~
+ぐらいなら	n1	05-n1	bunpro:ぐらいなら			sk:auto/n1	djg:bunpro/ぐらいなら	strict-deck; bunpro:ぐらいなら; ぐらいなら; Would rather...than, Rather than, Better off
+ぐるみで	n1	05-n1	bunpro:ぐるみで			sk:auto/n1	djg:bunpro/ぐるみで	strict-deck; bunpro:ぐるみで; ぐるみで; Whole, -wide, Across the, Entire, All of, With … altogether
+こそすれ-ない	n1	05-n1	bunpro:こそすれ-ない			sk:auto/n1	djg:bunpro/こそすれ-ない	strict-deck; bunpro:こそすれ-ない; こそすれ〜ない; And certainly not, But certainly not, But, Although, Even though
+ことだし	n1	05-n1	bunpro:ことだし			sk:auto/n1	djg:bunpro/ことだし	strict-deck; bunpro:ことだし; ことだし; (And) so, Because, Since
+こととて	n1	05-n1	bunpro:こととて			sk:auto/n1	djg:bunpro/こととて	strict-deck; bunpro:こととて; こととて; Due to, Since, On account of, Because
+さぞ	n1	05-n1	bunpro:さぞ			sk:auto/n1	djg:bunpro/さぞ	strict-deck; bunpro:さぞ; さぞ; You must be very, How … you must be, I dare to say, I am sure or certain that you must be very
+じゃあるまいし	n1	05-n1	bunpro:じゃあるまいし			sk:auto/n1	djg:bunpro/じゃあるまいし	strict-deck; bunpro:じゃあるまいし; じゃあるまいし; You are not ~ so..., it isn't ~ so...
+すら	n1	05-n1	bunpro:すら			sk:auto/n1	djg:bunpro/すら	strict-deck; bunpro:すら; すら; Even
+ずくめ	n1	05-n1	bunpro:ずくめ			sk:auto/n1	djg:bunpro/ずくめ	strict-deck; bunpro:ずくめ; ずくめ; Completely, Entirely, All in, Nothing but, A real streak of, Without exception, Jet
+ずじまい	n1	05-n1	bunpro:ずじまい			sk:auto/n1	djg:bunpro/ずじまい	strict-deck; bunpro:ずじまい; ずじまい; Ended up not, Did not (in the end), Never did
+ずとも	n1	05-n1	bunpro:ずとも			sk:auto/n1	djg:bunpro/ずとも	strict-deck; bunpro:ずとも; ずとも; Even if not, Without, Don't have to
+ずにはおかない	n1	05-n1	bunpro:ずにはおかない			sk:auto/n1	djg:bunpro/ずにはおかない	strict-deck; bunpro:ずにはおかない; ずにはおかない; Will definitely, Will certainly, Bound to, Not fail to
+ずにはすまない	n1	05-n1	bunpro:ずにはすまない			sk:auto/n1	djg:bunpro/ずにはすまない	strict-deck; bunpro:ずにはすまない; ずにはすまない; Won't get away without, Won't get off without, Have to, Have no choice but to, Can’t not
+そばから	n1	05-n1	bunpro:そばから			sk:auto/n1	djg:bunpro/そばから	strict-deck; bunpro:そばから; そばから; As soon as, Right after, Even if … still
+それまでだ	n1	05-n1	bunpro:それまでだ			sk:auto/n1	djg:bunpro/それまでだ	strict-deck; bunpro:それまでだ; それまでだ; If… then it is all in vain, It's done, It is useless, No point, It is a waste, That's it, It is all gone,
+ただ-のみ	n1	05-n1	bunpro:ただ-のみ			sk:auto/n1	djg:bunpro/ただ-のみ	strict-deck; bunpro:ただ-のみ; ただ〜のみ; Nothing but, Should, Have to, Only, All that remains,
+たところで	n1	05-n1	bunpro:たところで			sk:auto/n1	djg:bunpro/たところで	strict-deck; bunpro:たところで; たところで; Even if ~ cannot or will not, Even though ~ not
+たなり-なり	n1	05-n1	bunpro:たなり-なり			sk:auto/n1	djg:bunpro/たなり-なり	strict-deck; bunpro:たなり-なり; たなり・なり; While... ~ing, Remaining, Not or ever since, Keep or leave
+たまでだ	n1	05-n1	bunpro:たまでだ			sk:auto/n1	djg:bunpro/たまでだ	strict-deck; bunpro:たまでだ; ～たまでだ; Just, Merely, Simply, Only
+たら-で	n1	05-n1	bunpro:たら-で			sk:auto/n1	djg:bunpro/たら-で	strict-deck; bunpro:たら-で; たら〜で; Even if, If
+たら最後	n1	05-n1	bunpro:たら最後			sk:auto/n1	djg:bunpro/たら最後	strict-deck; bunpro:たら最後; たら最後; Once, Now that, As soon as
+たる	n1	05-n1	bunpro:たる			sk:auto/n1	djg:bunpro/たる	strict-deck; bunpro:たる; たる; To be (in a position of), As a, For
+だに-しない	n1	05-n1	bunpro:だに-しない			sk:auto/n1	djg:bunpro/だに-しない	strict-deck; bunpro:だに-しない; だに + しない; Not even, Not at all, Never could have
+だの	n1	05-n1	bunpro:だの			sk:auto/n1	djg:bunpro/だの	strict-deck; bunpro:だの; だの; Things like, And so on, Or something, And whatnot
+ったら-といったら	n1	05-n1	bunpro:ったら-といったら			sk:auto/n1	djg:bunpro/ったら-といったら	strict-deck; bunpro:ったら-といったら; ったら・といったら; Cannot tell, describe, say, express or find words for how, Words cannot express, Too … for words, Extremely
+ったらない・といったらない	n1	05-n1	bunpro:ったらない・といったらない			sk:auto/n1	djg:bunpro/ったらない・といったらない	strict-deck; bunpro:ったらない・といったらない; ったらない・といったらない; Cannot tell, describe, say or express how, Words cannot express, Too … for words, Extremely
+ってば-ったら	n1	05-n1	bunpro:ってば-ったら			sk:auto/n1	djg:bunpro/ってば-ったら	strict-deck; bunpro:ってば-ったら; ってば・ったら; I said...!, I told you...!, !
+つ-つ	n1	05-n1	bunpro:つ-つ			sk:auto/n1	djg:bunpro/つ-つ	strict-deck; bunpro:つ-つ; つ〜つ; two contrasting actions
+てからというもの	n1	05-n1	bunpro:てからというもの			sk:auto/n1	djg:bunpro/てからというもの	strict-deck; bunpro:てからというもの; てからというもの; After, Since, Ever since then
+てはかなわない	n1	05-n1	bunpro:てはかなわない			sk:auto/n1	djg:bunpro/てはかなわない	strict-deck; bunpro:てはかなわない; てはかなわない; It's unbearable when, It'd be unbearable if, I can't stand it when, I couldn’t stand it if
+ても差し支えない	n1	05-n1	bunpro:ても差し支えない			sk:auto/n1	djg:bunpro/ても差し支えない	strict-deck; bunpro:ても差し支えない; ても差し支えない; May, Is it a bother if, Do you mind if, Is it a problem if
+てやまない	n1	05-n1	bunpro:てやまない			sk:auto/n1	djg:bunpro/てやまない	strict-deck; bunpro:てやまない; てやまない; Never cease to, Always, Sincerely, Greatly, From the bottom of one's heart
+てやる	n1	05-n1	bunpro:てやる			sk:auto/n1	djg:bunpro/てやる	strict-deck; bunpro:てやる; ～てやる; Just wait and see, Just you wait, To do a favor, For you, Definitely, For sure
+であれ	n1	05-n1	bunpro:であれ			sk:auto/n1	djg:bunpro/であれ	strict-deck; bunpro:であれ; であれ; Even if, Even, No matter
+であれ-であれ	n1	05-n1	bunpro:であれ-であれ			sk:auto/n1	djg:bunpro/であれ-であれ	strict-deck; bunpro:であれ-であれ; であれ〜であれ; Whether or, Or, No matter which, In either case
+でなくてなんだろう	n1	05-n1	bunpro:でなくてなんだろう			sk:auto/n1	djg:bunpro/でなくてなんだろう	strict-deck; bunpro:でなくてなんだろう; でなくてなんだろう; If … is not … then what is?
+でもなんでもない	n1	05-n1	bunpro:でもなんでもない			sk:auto/n1	djg:bunpro/でもなんでもない	strict-deck; bunpro:でもなんでもない; でもなんでもない; Not at all, By no means, Definitely not, Nothing like that, Not really
+とあって	n1	05-n1	bunpro:とあって			sk:auto/n1	djg:bunpro/とあって	strict-deck; bunpro:とあって; とあって; Since...(it is no wonder that), Because...(it is no wonder that), Due to...(it is no wonder that)
+とあれば	n1	05-n1	bunpro:とあれば			sk:auto/n1	djg:bunpro/とあれば	strict-deck; bunpro:とあれば; とあれば; (Emphatic) if, If it is the case that, As (you wish)
+という	n1	05-n1	bunpro:という			sk:auto/n1	djg:bunpro/という	strict-deck; bunpro:という; という; Every single, Each and every, Emphasis, Everything that could be called
+というところ	n1	05-n1	bunpro:というところ			sk:auto/n1	djg:bunpro/というところ	strict-deck; bunpro:というところ; というところ; I would say (about), I guess (about), It could be said that, About, At best
+といえども	n1	05-n1	bunpro:といえども			sk:auto/n1	djg:bunpro/といえども	strict-deck; bunpro:といえども; といえども; Even (if), Although, Even though
+といおうか	n1	05-n1	bunpro:といおうか			sk:auto/n1	djg:bunpro/といおうか	strict-deck; bunpro:といおうか; といおうか; How to put it, How shall I put it, How should I put it, Or perhaps, Or maybe, Call it … or
+といわず	n1	05-n1	bunpro:といわず			sk:auto/n1	djg:bunpro/といわず	strict-deck; bunpro:といわず; といわず; Not only A or B but every-; A, B and every-; Not only A or B but all over;  A, B both, whether A or B
+ときたら1	n1	05-n1	bunpro:ときたら1			sk:auto/n1	djg:bunpro/ときたら1	strict-deck; bunpro:ときたら1; ときたら; When it comes to, That or this … of mine, That or this darn …, That or this blasted …
+ときたら2	n1	05-n1	bunpro:ときたら2			sk:auto/n1	djg:bunpro/ときたら2	strict-deck; bunpro:ときたら2; と来たら; For …(is the best), When it comes to, Concerning
+ところを	n1	05-n1	bunpro:ところを			sk:auto/n1	djg:bunpro/ところを	strict-deck; bunpro:ところを; ところを; When, While, In spite of (the circumstances), Regardless of (the circumstances)
+との	n1	05-n1	bunpro:との			sk:auto/n1	djg:bunpro/との	strict-deck; bunpro:との; との; That, To
+とは	n1	05-n1	bunpro:とは			sk:auto/n1	djg:bunpro/とは	strict-deck; bunpro:とは; とは; That..., (Surprised) that..., (Never expected) that..., (Shocked) that...
+とはいえ	n1	05-n1	bunpro:とはいえ			sk:auto/n1	djg:bunpro/とはいえ	strict-deck; bunpro:とはいえ; とはいえ; Though, Although (I admit that), Be that as it may, Nonetheless
+とは比べものにならない	n1	05-n1	bunpro:とは比べものにならない			sk:auto/n1	djg:bunpro/とは比べものにならない	strict-deck; bunpro:とは比べものにならない; とは比べものにならない; Nothing compared to, Cannot be compared to, Much more, Way better, Above comparison (beyond comparison), Far greater than
+とは言うものの	n1	05-n1	bunpro:とは言うものの			sk:auto/n1	djg:bunpro/とは言うものの	strict-deck; bunpro:とは言うものの; とは言うものの; Although, But, Although I say, Although it is said, Having said that
+とばかり	n1	05-n1	bunpro:とばかり			sk:auto/n1	djg:bunpro/とばかり	strict-deck; bunpro:とばかり; とばかり（に）; As if (to say), Seeming that
+ともあろう	n1	05-n1	bunpro:ともあろう			sk:auto/n1	djg:bunpro/ともあろう	strict-deck; bunpro:ともあろう; ともあろう; Of all people, Such,
+ともなく-ともなしに	n1	05-n1	bunpro:ともなく-ともなしに			sk:auto/n1	djg:bunpro/ともなく-ともなしに	strict-deck; bunpro:ともなく-ともなしに; ともなく・ともなしに; Absentmindedly, Mindlessly, Unconsciously, Without paying attention
+ともなると-にもなると	n1	05-n1	bunpro:ともなると-にもなると			sk:auto/n1	djg:bunpro/ともなると-にもなると	strict-deck; bunpro:ともなると-にもなると; ともなると・にもなると; When, If, Once, As
+と思いきや	n1	05-n1	bunpro:と思いきや			sk:auto/n1	djg:bunpro/と思いきや	strict-deck; bunpro:と思いきや; と思いきや; Thought...but, When...thought that...but, Despite having thought...
+どうにか	n1	05-n1	bunpro:どうにか			sk:auto/n1	djg:bunpro/どうにか	strict-deck; bunpro:どうにか; どうにか; Somehow (or other)
+どうにも	n1	05-n1	bunpro:どうにも			sk:auto/n1	djg:bunpro/どうにも	strict-deck; bunpro:どうにも; どうにも; Cannot, There is no way one can, Nothing one can do, Cannot possibly not by any means, Cannot do no matter how hard one tries, Nothing will come out, It is meaningless to
+ないでもない	n1	05-n1	bunpro:ないでもない			sk:auto/n1	djg:bunpro/ないでもない	strict-deck; bunpro:ないでもない; ないでもない; Kind of, Might, Slightly, It’s not (impossible) that, Somewhat, In some respects
+ないまでも	n1	05-n1	bunpro:ないまでも			sk:auto/n1	djg:bunpro/ないまでも	strict-deck; bunpro:ないまでも; ないまでも; May not … but (at least), Even though not, Even if not
+ながらに	n1	05-n1	bunpro:ながらに			sk:auto/n1	djg:bunpro/ながらに	strict-deck; bunpro:ながらに; ながらに; While being, Born (with), Traditional (old-fashioned, as it was long ago), As always, While crying or in tears, (Burned) alive
+なくして-は	n1	05-n1	bunpro:なくして-は			sk:auto/n1	djg:bunpro/なくして-は	strict-deck; bunpro:なくして-は; なくして(は); Without, If not for
+なら-で	n1	05-n1	bunpro:なら-で			sk:auto/n1	djg:bunpro/なら-で	strict-deck; bunpro:なら-で; なら〜で; If ~ should, Before ~ should
+ならでは	n1	05-n1	bunpro:ならでは			sk:auto/n1	djg:bunpro/ならでは	strict-deck; bunpro:ならでは; ならでは; Unique to, Only, Impossible if not, Expected only of
+ならばいざ知らず	n1	05-n1	bunpro:ならばいざ知らず			sk:auto/n1	djg:bunpro/ならばいざ知らず	strict-deck; bunpro:ならばいざ知らず; ならいざ知らず; Don’t know about it, Maybe it would or might be possible for
+ならまだしも	n1	05-n1	bunpro:ならまだしも			sk:auto/n1	djg:bunpro/ならまだしも	strict-deck; bunpro:ならまだしも; ならまだしも; A is fine...but B is not, If it's ~ then it is ok...but ~ is not, It's different when...but, It's not so bad when...but
+なり	n1	05-n1	bunpro:なり			sk:auto/n1	djg:bunpro/なり	strict-deck; bunpro:なり; なり; As soon as, The moment, When
+なりとも	n1	05-n1	bunpro:なりとも			sk:auto/n1	djg:bunpro/なりとも	strict-deck; bunpro:なりとも; なりとも; Even (a little), At least
+なりに	n1	05-n1	bunpro:なりに			sk:auto/n1	djg:bunpro/なりに	strict-deck; bunpro:なりに; なりに; In one's own way, Of someone's own, Do one's best in one's own way, As much as one can
+にあって	n1	05-n1	bunpro:にあって			sk:auto/n1	djg:bunpro/にあって	strict-deck; bunpro:にあって; にあって; At, In the (place or situation), Under ~ conditions or circumstances, During, Suited to
+にかかっている	n1	05-n1	bunpro:にかかっている			sk:auto/n1	djg:bunpro/にかかっている	strict-deck; bunpro:にかかっている; にかかっている; To depend on
+にかこつけて	n1	05-n1	bunpro:にかこつけて			sk:auto/n1	djg:bunpro/にかこつけて	strict-deck; bunpro:にかこつけて; にかこつけて; In the name of, Using the excuse of, To use as a pretext of, Under the guise or pretense of
+にしたところで	n1	05-n1	bunpro:にしたところで			sk:auto/n1	djg:bunpro/にしたところで	strict-deck; bunpro:にしたところで; にしたところで; Even, Even for, Even from the perspective of, Even in the case of
+にして1	n1	05-n1	bunpro:にして1			sk:auto/n1	djg:bunpro/にして1	strict-deck; bunpro:にして1; にして①; At, Over, In, Only (after, when, or because)
+にして2	n1	05-n1	bunpro:にして2			sk:auto/n1	djg:bunpro/にして2	strict-deck; bunpro:にして2; にして②; To be ~ and ~, To be ~ as well as ~, Both ~ and ~
+にしてみれば	n1	05-n1	bunpro:にしてみれば			sk:auto/n1	djg:bunpro/にしてみれば	strict-deck; bunpro:にしてみれば; にしてみれば; For (A), In the case of (A), From (A)'s point of view, In the eyes of (A)
+にとどまらず	n1	05-n1	bunpro:にとどまらず			sk:auto/n1	djg:bunpro/にとどまらず	strict-deck; bunpro:にとどまらず; にとどまらず; Not limited to, Not only...but also, Not stopping at
+には及ばない1	n1	05-n1	bunpro:には及ばない1			sk:auto/n1	djg:bunpro/には及ばない1	strict-deck; bunpro:には及ばない1; には及ばない①; There is no need to, It is fine if you don’t, Unnecessary
+には及ばない②	n1	05-n1	bunpro:には及ばない②			sk:auto/n1	djg:bunpro/には及ばない②	strict-deck; bunpro:には及ばない②; には及ばない②; To be no match (for), To not compare (with), To fall short (of), To not reach, Cannot win with, To be out of reach (for), To not be on par (with)
+には当たらない	n1	05-n1	bunpro:には当たらない			sk:auto/n1	djg:bunpro/には当たらない	strict-deck; bunpro:には当たらない; には当たらない; No need to/for, Cannot, Not worth it to, Not suitable
+にひきかえ	n1	05-n1	bunpro:にひきかえ			sk:auto/n1	djg:bunpro/にひきかえ	strict-deck; bunpro:にひきかえ; にひきかえ; In stark contrast, In comparison, On the other hand, While, In sharp contrast
+にまつわる	n1	05-n1	bunpro:にまつわる			sk:auto/n1	djg:bunpro/にまつわる	strict-deck; bunpro:にまつわる; にまつわる; Surrounding, Related or relating to, Associated with, Connected to
+にも-ない	n1	05-n1	bunpro:にも-ない			sk:auto/n1	djg:bunpro/にも-ない	strict-deck; bunpro:にも-ない; にも～ない; Cannot... even if one wants or tries, Would like but cannot, Wants or tries but cannot
+にもほどがある	n1	05-n1	bunpro:にもほどがある			sk:auto/n1	djg:bunpro/にもほどがある	strict-deck; bunpro:にもほどがある; にもほどがある; There is a limit to, You are too ..., How …!, How … one can be!
+にもまして	n1	05-n1	bunpro:にもまして			sk:auto/n1	djg:bunpro/にもまして	strict-deck; bunpro:にもまして; にもまして; Even -er than, Even more than, More than anything, More than anybody, More than ever
+に先駆けて	n1	05-n1	bunpro:に先駆けて			sk:auto/n1	djg:bunpro/に先駆けて	strict-deck; bunpro:に先駆けて; に先駆けて; First, Prior to, Pioneer, Ahead of
+に則って-に則り	n1	05-n1	bunpro:に則って-に則り			sk:auto/n1	djg:bunpro/に則って-に則り	strict-deck; bunpro:に則って-に則り; に則って・に則り; According to, In accordance with, Based on, In line with
+に即して	n1	05-n1	bunpro:に即して			sk:auto/n1	djg:bunpro/に即して	strict-deck; bunpro:に即して; に即して; In line with, Based on, In accordance with
+に堪えない	n1	05-n1	bunpro:に堪えない			sk:auto/n1	djg:bunpro/に堪えない	strict-deck; bunpro:に堪えない; に堪えない; Cannot bear to, Cannot stand to, Too much to, Cannot go on doing, Cannot tolerate
+に恥じない	n1	05-n1	bunpro:に恥じない			sk:auto/n1	djg:bunpro/に恥じない	strict-deck; bunpro:に恥じない; に恥じない; Lives up to, Truly to …’s name, Worthy of, Not dishonor, Not putting to shame, Measure to
+に照らして・に照らすと	n1	05-n1	bunpro:に照らして・に照らすと			sk:auto/n1	djg:bunpro/に照らして・に照らすと	strict-deck; bunpro:に照らして・に照らすと; に照らして・に照らすと; In light of, Based on, According to, Referencing, Comparing against, In view of
+に至って-に至り	n1	05-n1	bunpro:に至って-に至り			sk:auto/n1	djg:bunpro/に至って-に至り	strict-deck; bunpro:に至って-に至り; に至って・に至り; When it came to, Only when, Only after, Go as far as
+に至っては	n1	05-n1	bunpro:に至っては			sk:auto/n1	djg:bunpro/に至っては	strict-deck; bunpro:に至っては; に至っては; When it comes to, As for, In particular, What is worse or more
+に至っても	n1	05-n1	bunpro:に至っても			sk:auto/n1	djg:bunpro/に至っても	strict-deck; bunpro:に至っても; に至っても; Even when
+に至るまで	n1	05-n1	bunpro:に至るまで			sk:auto/n1	djg:bunpro/に至るまで	strict-deck; bunpro:に至るまで; に至るまで; (Everything) from...to..., From…up until..., Starting with...ending with...
+に言わせれば	n1	05-n1	bunpro:に言わせれば			sk:auto/n1	djg:bunpro/に言わせれば	strict-deck; bunpro:に言わせれば; に言わせれば・に言わせると・に言わせたら; If you ask, In … opinion, According to
+に足りない	n1	05-n1	bunpro:に足りない			sk:auto/n1	djg:bunpro/に足りない	strict-deck; bunpro:に足りない; に足りない; To not be worthy, To not be enough, To not be sufficient, To lack
+に足る	n1	05-n1	bunpro:に足る			sk:auto/n1	djg:bunpro/に足る	strict-deck; bunpro:に足る; に足る; To be worthy of, To be enough, To be sufficient
+に限ったことではない	n1	05-n1	bunpro:に限ったことではない			sk:auto/n1	djg:bunpro/に限ったことではない	strict-deck; bunpro:に限ったことではない; に限ったことではない; Not limited to, Not restricted to, Not only
+に難くない	n1	05-n1	bunpro:に難くない			sk:auto/n1	djg:bunpro/に難くない	strict-deck; bunpro:に難くない; に難くない; Not hard to, Not difficult to, Easy to, Is obvious that
+のなんのって	n1	05-n1	bunpro:のなんのって			sk:auto/n1	djg:bunpro/のなんのって	strict-deck; bunpro:のなんのって; のなんのって; So much that, Extremely, Very
+の極み	n1	05-n1	bunpro:の極み			sk:auto/n1	djg:bunpro/の極み	strict-deck; bunpro:の極み; の極み; Ultimate, Extreme, Utter, Epitome, Peak
+の至り	n1	05-n1	bunpro:の至り			sk:auto/n1	djg:bunpro/の至り	strict-deck; bunpro:の至り; の至り; Utmost, Height of, Extreme, Heartiest, Such a, Very, really, Completely, Deeply
+はおろか	n1	05-n1	bunpro:はおろか			sk:auto/n1	djg:bunpro/はおろか	strict-deck; bunpro:はおろか; はおろか; Let alone, Much less, Needless to say, Not to mention, Not only but also
+はさておき-はさておいて	n1	05-n1	bunpro:はさておき-はさておいて			sk:auto/n1	djg:bunpro/はさておき-はさておいて	strict-deck; bunpro:はさておき-はさておいて; はさておき・はさておいて; (Leaving or putting) aside, Apart
+ばこそ	n1	05-n1	bunpro:ばこそ			sk:auto/n1	djg:bunpro/ばこそ	strict-deck; bunpro:ばこそ; ～ばこそ; Precisely because, Only because, Because, Due to, Only if
+びる	n1	05-n1	bunpro:びる			sk:auto/n1	djg:bunpro/びる	strict-deck; bunpro:びる; びる; -like, Looking, Feeling, With an air of, To become
+べからず	n1	05-n1	bunpro:べからず			sk:auto/n1	djg:bunpro/べからず	strict-deck; bunpro:べからず; べからず; Do not, Must not, Should not, Cannot (べからざる)
+べく	n1	05-n1	bunpro:べく			sk:auto/n1	djg:bunpro/べく	strict-deck; bunpro:べく; べく; For the purpose of, In order to, To ensure
+べくして	n1	05-n1	bunpro:べくして			sk:auto/n1	djg:bunpro/べくして	strict-deck; bunpro:べくして; べくして; As expected, Meant to, Supposed to, Destined to, Sure to
+べくもない	n1	05-n1	bunpro:べくもない			sk:auto/n1	djg:bunpro/べくもない	strict-deck; bunpro:べくもない; べくもない; No (doubt or hope), There is no way, It is impossible, Not a hope in hell
+まくる	n1	05-n1	bunpro:まくる			sk:auto/n1	djg:bunpro/まくる	strict-deck; bunpro:まくる; まくる; Like crazy, Keep doing (without a second thought), Nothing but, On and on, Do … all around, To do a lot of, One after another, All over, Keep, Everything, Constantly, All the time
+まじき	n1	05-n1	bunpro:まじき			sk:auto/n1	djg:bunpro/まじき	strict-deck; bunpro:まじき; まじき; Unbecoming of, Unworthy of, Not proper for, Should not, Must not, Cannot
+までもない	n1	05-n1	bunpro:までもない			sk:auto/n1	djg:bunpro/までもない	strict-deck; bunpro:までもない; までもない; There is no need to, Do not have to, It is not necessary to, Needless to
+ままに	n1	05-n1	bunpro:ままに			sk:auto/n1	djg:bunpro/ままに	strict-deck; bunpro:ままに; まま(に); As (one likes, feels or pleases), Spur of the moment, Wherever one fancies, Spontaneously, On a whim
+めく-めいた	n1	05-n1	bunpro:めく-めいた			sk:auto/n1	djg:bunpro/めく-めいた	strict-deck; bunpro:めく-めいた; めく・めいた; Like, To show signs of,  To have the appearance of, To come to a (state) similar to, Somewhat, An air of,  Feels almost like
+もさることながら	n1	05-n1	bunpro:もさることながら			sk:auto/n1	djg:bunpro/もさることながら	strict-deck; bunpro:もさることながら; もさることながら; It is a fact that, But, Even more than, It goes without saying, Not only but also,
+ものとして	n1	05-n1	bunpro:ものとして			sk:auto/n1	djg:bunpro/ものとして	strict-deck; bunpro:ものとして; ものとして; Assuming, Supposing, (Interpret) as, On the assumption, Regarding, Considering
+ものとする	n1	05-n1	bunpro:ものとする			sk:auto/n1	djg:bunpro/ものとする	strict-deck; bunpro:ものとする; ものとする; Shall, To assume, To suppose, To consider
+ものと思う	n1	05-n1	bunpro:ものと思う			sk:auto/n1	djg:bunpro/ものと思う	strict-deck; bunpro:ものと思う; ものと思う; Think that, Believe that, Expect that, Have confidence that, Absolutely
+ものと思っていた	n1	05-n1	bunpro:ものと思っていた			sk:auto/n1	djg:bunpro/ものと思っていた	strict-deck; bunpro:ものと思っていた; ものと思っていた; Was under the impression that, (Always) the thought used to think
+ものなら②	n1	05-n1	bunpro:ものなら②			sk:auto/n1	djg:bunpro/ものなら②	strict-deck; bunpro:ものなら②; ものなら②; If you were to do, If you try to, If … happens, Should there be
+ものを	n1	05-n1	bunpro:ものを			sk:auto/n1	djg:bunpro/ものを	strict-deck; bunpro:ものを; ものを; But, Although, If only, I wish I had
+や否や	n1	05-n1	bunpro:や否や			sk:auto/n1	djg:bunpro/や否や	strict-deck; bunpro:や否や; や否や; As soon as, No sooner than, The minute
+ゆえに	n1	05-n1	bunpro:ゆえに			sk:auto/n1	djg:bunpro/ゆえに	strict-deck; bunpro:ゆえに; ゆえに; Because, The reason is, Due to, Therefore, So
+ようによっては	n1	05-n1	bunpro:ようによっては			sk:auto/n1	djg:bunpro/ようによっては	strict-deck; bunpro:ようによっては; ようによっては; Depending on the way, Depending on how
+わ-わ	n1	05-n1	bunpro:わ-わ			sk:auto/n1	djg:bunpro/わ-わ	strict-deck; bunpro:わ-わ; わ〜わ; ~and ~and, Keep ~ing, One after another, So much, So many, One after the other
+わ-わで	n1	05-n1	bunpro:わ-わで			sk:auto/n1	djg:bunpro/わ-わで	strict-deck; bunpro:わ-わで; わ〜わ（で）; And...so, And...because, Since
+をいいことに	n1	05-n1	bunpro:をいいことに			sk:auto/n1	djg:bunpro/をいいことに	strict-deck; bunpro:をいいことに; をいいことに; To take advantage of
+をおいてほかに-ない	n1	05-n1	bunpro:をおいてほかに-ない			sk:auto/n1	djg:bunpro/をおいてほかに-ない	strict-deck; bunpro:をおいてほかに-ない; をおいてほかに〜ない; No...but, Nothing else but, None other than
+をもって	n1	05-n1	bunpro:をもって			sk:auto/n1	djg:bunpro/をもって	strict-deck; bunpro:をもって; をもって; As of, With, Effective from
+をものともせず	n1	05-n1	bunpro:をものともせず			sk:auto/n1	djg:bunpro/をものともせず	strict-deck; bunpro:をものともせず; をものともせず; Making nothing of, Ignoring, In defiance of, Regardless of, Disregarding
+をよそに	n1	05-n1	bunpro:をよそに			sk:auto/n1	djg:bunpro/をよそに	strict-deck; bunpro:をよそに; をよそに; Ignoring, Disregarding, Despite
+を以て	n1	05-n1	bunpro:を以て			sk:auto/n1	djg:bunpro/を以て	strict-deck; bunpro:を以て; を以て; By means of, With, By, Via, In view of
+を余儀なくさせる	n1	05-n1	bunpro:を余儀なくさせる			sk:auto/n1	djg:bunpro/を余儀なくさせる	strict-deck; bunpro:を余儀なくさせる; を余儀なくさせる; Force to, To compel, Make unavoidable
+を余儀なくされる	n1	05-n1	bunpro:を余儀なくされる			sk:auto/n1	djg:bunpro/を余儀なくされる	strict-deck; bunpro:を余儀なくされる; を余儀なくされる; To be forced to do something
+を兼ねて	n1	05-n1	bunpro:を兼ねて			sk:auto/n1	djg:bunpro/を兼ねて	strict-deck; bunpro:を兼ねて; を兼ねて; And also, Also (partly) to, Also (partly) for (the purpose of), At the same time, To double as, When … also, While … as well, And as
+を前提に	n1	05-n1	bunpro:を前提に			sk:auto/n1	djg:bunpro/を前提に	strict-deck; bunpro:を前提に; を前提に; On the premise of
+を境に	n1	05-n1	bunpro:を境に			sk:auto/n1	djg:bunpro/を境に	strict-deck; bunpro:を境に; を境に; After (that moment), From (that time)
+を機に	n1	05-n1	bunpro:を機に			sk:auto/n1	djg:bunpro/を機に	strict-deck; bunpro:を機に; を機に; Opportunity, Occasion
+を皮切りに	n1	05-n1	bunpro:を皮切りに			sk:auto/n1	djg:bunpro/を皮切りに	strict-deck; bunpro:を皮切りに; を皮切りに; Beginning of, Starting with
+を禁じ得ない	n1	05-n1	bunpro:を禁じ得ない			sk:auto/n1	djg:bunpro/を禁じ得ない	strict-deck; bunpro:を禁じ得ない; を禁じ得ない; Cannot help feeling, Cannot but, Cannot hold back
+を経て	n1	05-n1	bunpro:を経て			sk:auto/n1	djg:bunpro/を経て	strict-deck; bunpro:を経て; を経て; Via, Through, After (experience at job, university, etc.), Pass through
+を踏まえて	n1	05-n1	bunpro:を踏まえて			sk:auto/n1	djg:bunpro/を踏まえて	strict-deck; bunpro:を踏まえて; を踏まえて; Based on, Considering, Keeping in mind, Taking into account, Therefore
+を限りに	n1	05-n1	bunpro:を限りに			sk:auto/n1	djg:bunpro/を限りに	strict-deck; bunpro:を限りに; を限りに; As of (the end of), (Starting) from, (No longer) after, By (the), Ending with
+を顧みず	n1	05-n1	bunpro:を顧みず			sk:auto/n1	djg:bunpro/を顧みず	strict-deck; bunpro:を顧みず; を顧みず; Without regard for, Ignoring, Without concern for
+んがため-に	n1	05-n1	bunpro:んがため-に			sk:auto/n1	djg:bunpro/んがため-に	strict-deck; bunpro:んがため-に; んがため(に); In order to, To, For the purpose of
+んばかりに	n1	05-n1	bunpro:んばかりに			sk:auto/n1	djg:bunpro/んばかりに	strict-deck; bunpro:んばかりに; んばかりに; As if, As if it were about to, About to
+並み	n1	05-n1	bunpro:並み			sk:auto/n1	djg:bunpro/並み	strict-deck; bunpro:並み; 並み; As, On par with, Worthy of
+以前	n1	05-n1	bunpro:以前			sk:auto/n1	djg:bunpro/以前	strict-deck; bunpro:以前; 以前; Before, Not even, Before even, Precede, Far from
+塗れ	n1	05-n1	bunpro:塗れ			sk:auto/n1	djg:bunpro/塗れ	strict-deck; bunpro:塗れ; 塗れ; Stained, Covered in, Smeared, Dirty with, Soaked in
+如く-如き-如し	n1	05-n1	bunpro:如く-如き-如し			sk:auto/n1	djg:bunpro/如く-如き-如し	strict-deck; bunpro:如く-如き-如し; 如く・如き・如し; Like, Similar to, As if, The same as
+如何	n1	05-n1	bunpro:如何			sk:auto/n1	djg:bunpro/如何	strict-deck; bunpro:如何; 如何; Depending on
+始末だ	n1	05-n1	bunpro:始末だ			sk:auto/n1	djg:bunpro/始末だ	strict-deck; bunpro:始末だ; 始末だ; Ends up, Finally, In the end, (Unfortunately) As a result, This is what happened, To come about, To wind up
+折には	n1	05-n1	bunpro:折には			sk:auto/n1	djg:bunpro/折には	strict-deck; bunpro:折には; 折には; When, Occasion, Opportunity, Time
+極まりない-極まる	n1	05-n1	bunpro:極まりない-極まる			sk:auto/n1	djg:bunpro/極まりない-極まる	strict-deck; bunpro:極まりない-極まる; 極まりない・極まる; Extreme, Extremely
+次第です	n1	05-n1	bunpro:次第です			sk:auto/n1	djg:bunpro/次第です	strict-deck; bunpro:次第です; 次第です; Because the reason is, Therefore, The present situation is like this, This is how (it is), Those are the circumstances, This is why
+相まって	n1	05-n1	bunpro:相まって			sk:auto/n1	djg:bunpro/相まって	strict-deck; bunpro:相まって; 相まって; Combined with, Coupled with, Together with
+訳あり	n1	05-n1	bunpro:訳あり			sk:auto/n1	djg:bunpro/訳あり	strict-deck; bunpro:訳あり; 訳あり(訳あって); ～ with reasons, Due to reasons, Defective, Problematic, Unique
+飽くまで-も	n1	05-n1	bunpro:飽くまで-も			sk:auto/n1	djg:bunpro/飽くまで-も	strict-deck; bunpro:飽くまで-も; 飽くまで(も); Just, Only, Merely, Strictly
+１-りとも-ない	n1	05-n1	bunpro:１-りとも-ない			sk:auto/n1	djg:bunpro/１-りとも-ない	strict-deck; bunpro:１-りとも-ない; １～たりとも～ない; Not even one, Not a single, No (at all)
+～たはいいが	n1	05-n1	bunpro:～たはいいが			sk:auto/n1	djg:bunpro/～たはいいが	strict-deck; bunpro:～たはいいが; ～たはいいが; It's all well and good but...
+～るまでだ	n1	05-n1	bunpro:～るまでだ			sk:auto/n1	djg:bunpro/～るまでだ	strict-deck; bunpro:～るまでだ; ～るまでだ; Just, Merely, Simply, Only
+emotional-onomatopoeia		10-onomatopoeia	bunpro:exempt/onomatopoeia	https://www.tofugu.com/japanese-grammar/na/	https://www.imabi.org/search?q=emotional-onomatopoeia	sk:auto/unknown	djg:auto/emotional-onomatopoeia	auto-generated mapping; refine sources as curated
+giongo-sounds		10-onomatopoeia	bunpro:exempt/onomatopoeia		https://www.imabi.org/search?q=giongo-sounds	sk:auto/unknown	djg:auto/giongo-sounds	auto-generated mapping; refine sources as curated
+giseigo-voices		10-onomatopoeia	bunpro:exempt/onomatopoeia		https://www.imabi.org/search?q=giseigo-voices	sk:auto/unknown	djg:auto/giseigo-voices	auto-generated mapping; refine sources as curated
+gitaigo-states		10-onomatopoeia	bunpro:exempt/onomatopoeia		https://www.imabi.org/search?q=gitaigo-states	sk:auto/unknown	djg:auto/gitaigo-states	auto-generated mapping; refine sources as curated
+kana	n5	00-foundation	bunpro:exempt/writing-system	https://www.tofugu.com/japanese-grammar/na/	https://www.imabi.org/search?q=kana	sk:auto/n5	djg:auto/kana	auto-generated mapping; refine sources as curated
+l1-articles-and-number		13-l1	bunpro:exempt/l1-interference		https://www.imabi.org/search?q=l1-articles-and-number	sk:auto/unknown	djg:auto/l1-articles-and-number	auto-generated mapping; refine sources as curated
+l1-givereceive-direction		13-l1	bunpro:exempt/l1-interference		https://www.imabi.org/search?q=l1-givereceive-direction	sk:auto/unknown	djg:auto/l1-givereceive-direction	auto-generated mapping; refine sources as curated
+l1-particles-overlap		13-l1	bunpro:exempt/l1-interference		https://www.imabi.org/search?q=l1-particles-overlap	sk:auto/unknown	djg:auto/l1-particles-overlap	auto-generated mapping; refine sources as curated
+l1-pronoun-overuse		13-l1	bunpro:exempt/l1-interference	https://www.tofugu.com/japanese-grammar/noun/	https://www.imabi.org/search?q=l1-pronoun-overuse	sk:auto/unknown	djg:auto/l1-pronoun-overuse	auto-generated mapping; refine sources as curated
+l1-relative-clauses		13-l1	bunpro:exempt/l1-interference		https://www.imabi.org/search?q=l1-relative-clauses	sk:auto/unknown	djg:auto/l1-relative-clauses	auto-generated mapping; refine sources as curated
+l1-tense-aspect		13-l1	bunpro:exempt/l1-interference		https://www.imabi.org/search?q=l1-tense-aspect	sk:auto/unknown	djg:auto/l1-tense-aspect	auto-generated mapping; refine sources as curated
+l1-yes-no_negative-questions		13-l1	bunpro:exempt/l1-interference		https://www.imabi.org/search?q=l1-yes-no_negative-questions	sk:auto/unknown	djg:auto/l1-yes-no_negative-questions	auto-generated mapping; refine sources as curated
+onomatopoeia		10-onomatopoeia	bunpro:exempt/onomatopoeia		https://www.imabi.org/search?q=onomatopoeia	sk:auto/unknown	djg:auto/onomatopoeia	auto-generated mapping; refine sources as curated
+pitch-accent	n5	00-foundation	bunpro:exempt/pitch-accent		https://www.imabi.org/search?q=pitch-accent	sk:auto/n5	djg:auto/pitch-accent	auto-generated mapping; refine sources as curated
+pitch-accent-primer	n5	00-foundation	bunpro:exempt/pitch-accent		https://www.imabi.org/search?q=pitch-accent-primer	sk:auto/n5	djg:auto/pitch-accent-primer	auto-generated mapping; refine sources as curated

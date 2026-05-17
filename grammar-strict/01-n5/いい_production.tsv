@@ -1,0 +1,47 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say 'it is hot' (polite).	暑いです。	あついです。	暑いです。	i-adj + です	[sound:685082d0018b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'it was hot' (polite past).	暑かったです。	あつかったです。	暑かったです。	i-adj-past + です	[sound:b184715a9d8a.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen complexity:intro
+Say 'it is not hot' (polite negative).	暑くないです。	あつくないです。	暑くないです。	i-adj negative = くない	[sound:e7426b7c788b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen complexity:intro
+Say 'it is good' (polite).	いいです。	いいです。	いいです。	いい is irregular	[sound:f78086ad19e3.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen complexity:intro
+Say 'it was good' (polite past).	よかったです。	よかったです。	よかったです。	いい → よかった	[sound:cdbcbfe58add.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen complexity:intro
+Say 'book is interesting' (polite).	本は面白いです。	ほんはおもしろいです。	本は面白いです。	i-adj + です	[sound:0d3512d7f97d.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'movie was long' (polite past).	映画は長かったです。	えいがはながかったです。	映画は長かったです。	long → かった	[sound:114831d1ea1b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'room is not bright' (polite neg).	部屋は明るくないです。	へやはあかるくないです。	部屋は明るくないです。	bright → くない	[sound:68531c05c482.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'coffee is cold' (polite).	このコーヒーは冷たいです。	このこーひーはつめたいです。	このコーヒーは冷たいです。	cold → い	[sound:1a19e5151dcf.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k
+Say 'weather will be nice'.	天気はいいでしょう。	てんきはいいでしょう。	天気はいいでしょう。	i-adj + でしょう	[sound:437c3bbe1756.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'path is narrow' (polite).	道は狭いです。	みちはせまいです。	道は狭いです。	narrow → い	[sound:7ca3bdaf4bab.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'food is delicious' (polite).	食べ物はおいしいです。	たべものはおいしいです。	食べ物はおいしいです。	delicious (i-adj)	[sound:a008b2178469.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'it is expensive' (polite).	高いです。	たかいです。	高いです。	expensive → い	[sound:f4f709d9edf9.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say 'it was cheap' (polite past).	安かったです。	やすかったです。	安かったです。	cheap → かった	[sound:15c5b649ebe0.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen complexity:intro
+Say 'work is difficult' (polite).	仕事は難しいです。	しごとはむずかしいです。	仕事は難しいです。	difficult → い	[sound:13048852982c.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+You're from Kansai.	や	かんさいじんやん。	関西人やん。	Kansai assertion	[sound:63472d5b92b6.mp3]	module:01-n5 point:いい complexity:intro frequency:low source:imabi
+You're cute!	や	かわいいやん。	可愛いやん。	Kansai emphasis	[sound:5f4467e1d30f.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+It's like that.	や	そんなんやん。	そんなんやん。	Kansai natural	[sound:302030cb581c.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+It's different!	や	ちがうやん。	違うやん。	Kansai negation	[sound:ad5033f9c58b.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+You like it!	や	すきやん。	好きやん。	Kansai copula	[sound:93f719c7f9bb.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+That's wrong, you see.	やねん	それ、ちがうやねん。	それ、違うやねん。	Kansai negative	[sound:035c8336cd2b.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+I'm telling you it's different.	やねん	ちがうやねんて。	違うやねんて。	Kansai insistence	[sound:9715a6a7d329.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+That's right.	や	ほんまやん。	本当やん。	Kansai agreement	[sound:f418948e6f09.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+Honestly, I really like it.	めっちゃ	ほんま、めっちゃすき。	ほんま、めっちゃ好き。	Kansai very	[sound:a972767bd67d.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+Really skillful.	めっちゃ	めっちゃじょうずい。	めっちゃ上手い。	Kansai emphasis	[sound:b3a6e8348cf5.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+Really important.	めっちゃ	めっちゃだいじ。	めっちゃ大事。	Kansai emphasis	[sound:e823b25e46b2.mp3]	module:01-n5 point:いい complexity:intro frequency:top5k source:imabi
+What are you doing!	てん	なにしてんのよ。	何してんのよ。	Kansai continuous	[sound:00c6965bc8ac.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+Are you watching?	てん	みてんのか。	見てんのか。	Kansai -ing form	[sound:3d790c45f97e.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+I'm waiting, okay.	てん	まってんで。	待ってんで。	Kansai progressive	[sound:cac22910333c.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+Who are you?	あんた	あんた、だれなん？	あんた、誰なん？	Kansai informal address	[sound:ed81298c1a86.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+What are you saying!	あんた＋てん	あんた、なにいってんの？	あんた、何言ってんの？	Kansai accusation	[sound:f4632b18f4fb.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+That's impossible.	ん＋や	そんなん、むりやん。	そんなん、無理やん。	Kansai negation	[sound:4466353f8599.mp3]	module:01-n5 point:いい complexity:intro frequency:top5k source:imabi
+Really?	ほんま	ほんま？	ほんま？	Kansai confirmation	[sound:69a0be844b95.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+That's what I think.	てんで	そうおもってんで。	そう思ってんで。	Kansai continuous	[sound:8c3f626500ef.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+What's good?	が＋いい	なにがいい？	何がいい？	Kansai choice	[sound:cbf2b27e59dd.mp3]	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi
+Don't lie.	な	うそつくなよ。	嘘つくなよ。	Kansai prohibition	[sound:c13f60b74b00.mp3]	module:01-n5 point:いい complexity:intro frequency:top5k source:imabi
+Come on.	い	こいよ。	来いよ。	Kansai imperative	[sound:d7029e60e5f0.mp3]	module:01-n5 point:いい complexity:intro frequency:top10k source:imabi
+It's already done.	や	もうおわったやん。	もう終わったやん。	Kansai copula	[sound:97420fb49030.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+That won't work!	や	それ、あかんやん。	それ、あかんやん。	Kansai copula	[sound:a8f91ecd5eed.mp3]	module:01-n5 point:いい complexity:intro source:imabi
+I don't know.	がな	しらんがな。	知らんがな。	Kansai particle	[sound:0df6f1252312.mp3]	module:01-n5 point:いい complexity:intro source:imabi

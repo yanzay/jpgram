@@ -1,0 +1,42 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+I can't help but laugh at his behavior.	V-て + しようがない	かのこうどうはしんじられず、わらってしようがない。	彼の行動は信じられず、笑ってしようがない。	involuntary	[sound:c5122f6fffe6.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+I'm tired and can't help but be sleepy.	V-te / adj-くて + しかたがない	つかれて、ねむくてしかたがない。	疲れて、眠くてしかたがない。	overwhelming	[sound:e23a96221671.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+That smell is wonderful, absolutely delightful.	V-te / adj-くて + たまらない	そのかおりはよくて、たまらない。	その香りは良くて、たまらない。	intense pleasure	[sound:8b52fcd58961.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+The child's crying is loud and unbearable.	adj-くて + たまらない	こどものなきこえはおおきくて、たまらない。	子どもの泣き声は大きくて、たまらない。	unpleasant	[sound:b0b712346e5e.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+I can't help but watch that movie.	V-て + ならない	そのえいがはみずにはいられず、みてならない。	その映画は見ずにはいられず、見てならない。	compulsion	[sound:9017105c57b9.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top1k source:shin-kanzen
+He's not just excellent; he's perfect.	noun + どころか + degree	かれはゆうしゅうどころか、かんぺきだ。	彼は優秀どころか、完璧だ。	escalation	[sound:3c0f2820b7f5.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:intro frequency:top10k source:shin-kanzen
+Far from helping, he's getting in the way.	verb + どころか + opposite	たすけるどころか、じゃまをしている。	助けるどころか、邪魔をしている。	opposite	[sound:f2c8395fcfc4.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+In times like these, we can't afford to play around.	V-ing + どころではない	このごじせい、あそんでいるどころではない。	このご時世、遊んでいるどころではない。	impossible	[sound:ab179755a9e7.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+Even the children laughed.	noun + まで + particle	こどもまでがわらった。	子どもまでが笑った。	inclusive	[sound:09f462c54f40.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:intro frequency:top5k source:shin-kanzen
+There are even problems that teachers don't know.	noun + まで + verb	せんせいさえしらないもんだいまである。	先生さえ知らない問題まである。	extreme	[sound:393bc1fadde6.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top1k source:shin-kanzen
+Not only work but also private life is fulfilling.	noun + ばかりか + noun + も	しごとばかりか、ぷらいべーともじゅうじつしている。	仕事ばかりか、プライベートも充実している。	expansion	[sound:b1cf61d6343a.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:low source:shin-kanzen
+Not only effort but also talent is necessary.	noun + ばかりでなく + noun + も	どりょくばかりでなく、さいのうもひつようだ。	努力ばかりでなく、才能も必要だ。	formal expansion	[sound:ca36137a26bd.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+I'm so frustrated I can't speak.	adj-くて + verb	くやしくて、ことばがでてこない。	悔しくて、言葉が出てこない。	frustration	[sound:ca8fca45b9a5.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+His humming is surprisingly good.	adj + でたまらない	かのはなうたはじょうずでたまらない。	彼の鼻歌は上手でたまらない。	surprise praise	[sound:b8d5a583b1b7.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top5k source:shin-kanzen
+Work is tough and I desperately want a break.	V-たい-くて + しかたがない	しごとがたいへんで、やすみたくてしかたがない。	仕事が大変で、休みたくてしかたがない。	craving	[sound:04e3ee0cad37.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top1k source:shin-kanzen
+I can't help but be bewildered by her actions.	V-て + しようがない	かのじょのこうどうはりかいできず、とまどってしようがない。	彼女の行動は理解できず、戸惑ってしようがない。	confusion	[sound:0dc29749ecba.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+The successful candidates are not just from this school but also from other universities.	noun + ばかりか + noun + も	ごうかくしゃはこのがっこうばかりか、ただいがくもふくむ。	合格者はこの学校ばかりか、他大学も含む。	inclusion	[sound:b3b96997d3dd.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+I'm ill and can't move no matter how much I want to.	V-たくても + どうにも + neg	びょうきで、うごきたくてもどうにもならない。	病気で、動きたくてもどうにもならない。	inability	[sound:46fe1292d82b.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:low source:shin-kanzen
+Today's test isn't just difficult; it's impossible.	adj + どころか + adj	きょうのてすとはむずかしいどころか、ふかのうだ。	今日のテストは難しいどころか、不可能だ。	escalation	[sound:56e16d6693bc.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+Not only parents but friends are also worried.	noun + ばかりでなく + noun + も	おやばかりでなく、ともだちもしんぱいしている。	親ばかりでなく、友達も心配している。	concern	[sound:d498035d87e0.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top5k source:shin-kanzen
+I was completely captivated by that scene.	V-て + しまう	そのこうけいには、こころうばわれてしまった。	その光景には、心奪われてしまった。	completion	[sound:c3155960403f.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+So beautiful I can't help but stare.	V + ずにはいられない	うつくしすぎて、みつめずにはいられない。	美しすぎて、見つめずにはいられない。	compulsion	[sound:ac57808dc5c5.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:low source:shin-kanzen
+I was impressed by his talent.	noun + に + V-させられた	かのさいのうには、かんしんさせられた。	彼の才能には、感心させられた。	involuntary	[sound:766d907c6b3c.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+This job is too much; I can't handle it.	V + えない	このしごとはたいへんで、てにおえない。	この仕事は大変で、手に負えない。	inability	[sound:dbcd827d096b.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top1k source:shin-kanzen
+The novel was so interesting I stayed up all night.	V-て + しまった	そのしょうせつはおもしろくて、てつやしてしまった。	その小説は面白くて、徹夜してしまった。	unintended result	[sound:b34bb04d3777.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+His story is so funny I can't stop laughing.	V + 止まらない	かのはなしはおもしろくて、わらいとまらない。	彼の話は面白くて、笑い止まらない。	continuous action	[sound:7856451f367d.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+The food is so delicious I can't stop eating.	V + られない	たべものがおいしくて、やめられない。	食べ物が美味しくて、止められない。	inability	[sound:0aa26292a663.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:low source:shin-kanzen
+I couldn't help but cry at her kindness.	adj + に + 思わず + verb	かのじょのやさしさに、おもわずないてしまった。	彼女の優しさに、思わず泣いてしまった。	involuntary	[sound:ba736ce0916d.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+This scenery is so beautiful I can't take my eyes off.	V + られない	このけしきはきれいで、めをはなせない。	この景色は綺麗で、目を離せない。	inability	[sound:a8fb19f3c7fa.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top5k source:shin-kanzen
+The child's smile is so cute I can't stand it.	noun + は + adj + たまらない	こどものえがおはかわいくて、たまらない。	子どもの笑顔は可愛くて、たまらない。	overwhelming joy	[sound:3f781e1f4570.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+The work is not just busy; it's really hard.	adj + どころか + adj	しごとはいそがしいどころか、たいへんだ。	仕事は忙しいどころか、大変だ。	intensification	[sound:8ac122c0f375.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top1k source:shin-kanzen
+Far from supporting him, I disagree.	verb + どころか + opposite	かのいけんはどころか、はんたいである。	彼の意見はどころか、反対である。	opposition	[sound:4c5265476a1e.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top5k source:shin-kanzen
+Not only was I surprised, I was moved.	V + ばかりでなく + verb	おどろくばかりでなく、かんどうした。	驚くばかりでなく、感動した。	expansion	[sound:f17cc9c4aa25.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+I couldn't believe the story and got confused.	V-て + しまった	そのはなしはしんじられず、こんらんしてしまった。	その話は信じられず、混乱してしまった。	unexpected	[sound:69587606d36d.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top10k source:shin-kanzen
+One can't help but be amazed at his intelligence.	noun + は + V + ずにはいられない	かのあたまのよさは、おどろかずにはいられない。	彼の頭の良さは、驚かずにはいられない。	involuntary	[sound:0d2009d9645c.mp3]	module:03-n3 jlpt:n3 point:どころか complexity:standard frequency:top5k source:shin-kanzen

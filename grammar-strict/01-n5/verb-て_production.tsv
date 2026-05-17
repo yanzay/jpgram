@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using Verb + て	（Verb + て）の例文1です。		（Verb + て）の例文1です。	And, Then (Linking events)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb + て	（Verb + て）の例文2です。		（Verb + て）の例文2です。	And, Then (Linking events)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb + て	（Verb + て）の例文3です。		（Verb + て）の例文3です。	And, Then (Linking events)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb + て	（Verb + て）の例文4です。		（Verb + て）の例文4です。	And, Then (Linking events)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb + て	（Verb + て）の例文5です。		（Verb + て）の例文5です。	And, Then (Linking events)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,26 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+
+{{c1::今勉強している。}}	いまべんきょうしている。	ongoing action with ている	[sound:0a880b4012e4.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::窓が開いてある。}}	まどがひらいてある。	state resultant with てある	[sound:16290eee525c.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::前もって準備しておこう。}}	まえもってじゅんびしておこう。	preparatory action with ておく	[sound:a856460341fe.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
+{{c1::花瓶をうっかり壊してしまった。}}	かびんをうっかりこわしてしまった。	regrettable completion with てしまう	[sound:7e250d4456bd.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::これを食べてみましょう。}}	これをたべてみましょう。	attempt action with てみる	[sound:1d5ca8b79aaa.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family complexity:intro
+{{c1::雨がこちらに来ている。}}	あめがこちらにきている。	progressive approach	[sound:6cc7be6518b8.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
+{{c1::宿題を終わらせてしまった。}}	しゅくだいをおわらせてしまった。	regrettable completion	[sound:8c95801f2ec5.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::荷物が詰め込んである。}}	にもつがつめこんである。	state resultant packing	[sound:74811bb7c531.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::彼女は笑い続けている。}}	かのじょはわらいつづけている。	continuous action	[sound:3674a63bedc6.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
+{{c1::後でメールを送っておきます。}}	あとでめーるをおくっておきます。	preparatory action	[sound:7b32c2a08aa1.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::住所をもう一度確認してみます。}}	じゅうしょをもういちどかくにんしてみます。	attempt verification	[sound:5ccb840cb369.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
+{{c1::状況が悪くなっていく。}}	じょうきょうがわるくなっていく。	progressive deterioration	[sound:ba4087b68866.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
+{{c1::すべての仕事を済ませてしまった。}}	すべてのしごとをすませてしまった。	complete ending	[sound:3065d2477dcb.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::本が棚に積んであります。}}	ほんがたなにつんであります。	arranged state	[sound:6a7e6a582d0d.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top5k complexity:intro
+{{c1::スキーをしてみたいですか。}}	すきーをしてみたいですか。	desire to attempt	[sound:62f7d183170d.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
+{{c1::雪が積もっていく。}}	ゆきがつもっていく。	progressive accumulation	[sound:2c98eb7942e1.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::ここで5年働いている。}}	ここで5ねんはたらいている。	continuing state	[sound:5d9e0e3643f8.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::チケットを今から予約しておきます。}}	ちけっとをいまからよやくしておきます。	advance preparation	[sound:50cf518339c6.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top5k complexity:intro
+{{c1::花が咲いてしまった。}}	はながさいてしまった。	unexpected completion	[sound:addce8983495.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::夕日を眺めている。}}	ゆうひをながめている。	ongoing observation	[sound:40f1606d3866.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:low complexity:intro

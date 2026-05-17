@@ -1,0 +1,23 @@
+#separator:tab
+#html:true
+#columns:Audio	Transcript	Reading	EN	Hint	Tags
+#notetype:Listening
+#
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Listening
+
+[sound:e1ef2f1b2f82.mp3]	よろしくお願いいたします。	よろしくおねがいいたします。	Please help me / Best regards.	request	module:02-n4 point:いたす complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:4ef57b12ba4a.mp3]	ご不明な点はございませんか。	ごふめいなてんはございませんか。	Are there any unclear points?	clarification	module:02-n4 point:いたす complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:f7fe55ae2712.mp3]	こちらこそありがとうございます。	こちらこそありがとうございます。	Thank you too (reciprocal).	thanks	module:02-n4 point:いたす complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:de08ee67f0d7.mp3]	大変恐れ入りますが。	たいへんおそれいりますが。	I'm very sorry to trouble you.	apology	module:02-n4 point:いたす complexity:intro frequency:low source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:73f8368083ec.mp3]	何かご不明な点がございましたら。	なにかごふめいなてんがございましたら。	If you have any unclear points.	conditional	module:02-n4 point:いたす complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:5ab081f46a72.mp3]	こちらをご覧ください。	こちらをごらんください。	Please look at this.	instruction	module:02-n4 point:いたす complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:1dcd9fb73f3e.mp3]	ご不明な点についてお聞かせください。	ごふめいなてんについておきかせください。	Please tell me if there are unclear points.	request	module:02-n4 point:いたす complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:e0ee71d1ce16.mp3]	どちらでもかまいませんが。	どちらでもかまいませんが。	Either is fine, but.	choice	module:02-n4 point:いたす complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:4f045262bebe.mp3]	いらっしゃいませ。	いらっしゃいませ。	Welcome (store greeting).	greeting	module:02-n4 point:いたす complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:7def632fb9f8.mp3]	ちょうだいいただいてもよろしいでしょうか。	ちょうだいいただいてもよろしいでしょうか。	May I take your order?	question	module:02-n4 point:いたす complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:690a0ea409a0.mp3]	予約を承ります。	よやくをうけたまわります。	I will take your reservation.	acknowledgment	module:02-n4 point:いたす complexity:intro frequency:top5k source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:94a15fae10a0.mp3]	ご証明書を拝見いたします。	ごしょうめいしょをはいけんいたします。	I will humbly view your ID.	checking	module:02-n4 point:いたす complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:ef2c6a90ace4.mp3]	レジにてお会計をお願いいたします。	れじにておかいけいをおねがいいたします。	Please proceed to the register for payment.	instruction	module:02-n4 point:いたす complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:9468dea9799f.mp3]	ご注文をお伺いいたします。	ごちゅうもんをおうかがいいたします。	May I take your order?	taking	module:02-n4 point:いたす complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:07c8d10bd58f.mp3]	こちらがお手洗いでございます。	こちらがおてあらいでございます。	This is the restroom.	direction	module:02-n4 point:いたす complexity:standard frequency:low source:dictionary-of-jp-grammar sense:keigo-alternatives
+[sound:1a08f70e9799.mp3]	お食事はいかがでしょうか。	おしょくじはいかがでしょうか。	How is your meal?	inquiry	module:02-n4 point:いたす complexity:standard frequency:top5k source:dictionary-of-jp-grammar sense:keigo-alternatives

@@ -62,6 +62,16 @@ python scripts/coverage_audit.py
 # Strict profile: also require full Bunpro resolution and multi-note-type spread.
 python scripts/coverage_audit.py --enforce-note-types --require-full-bunpro-resolution
 
+# Grammar completeness (reference closure + reverse Bunpro coverage + expansion plan)
+python scripts/grammar_completeness_audit.py --skip-bunpro-fetch
+# Strict mapping closure (no bunpro:auto debt; exempt rows allowed per reference_closure.json)
+python scripts/grammar_completeness_audit.py --skip-bunpro-fetch --require-full-bunpro-resolution
+
+# Parallel strict deck (Bunpro-atomic taxonomy; legacy grammar/ unchanged)
+python scripts/setup_strict_deck.py
+python3 validate_grammar_taxonomy.py --taxonomy data/grammar_taxonomy_bunpro.tsv --grammar-dir grammar-strict
+python scripts/strict_deck_audit.py --skip-bunpro-fetch --require-full-bunpro-resolution
+
 # 3. Render audio (uses .secrets/gcp-adc.json automatically)
 python build_audio.py --limit 5 --dry-run                          # cost smoke
 python build_audio.py                                              # primary voice

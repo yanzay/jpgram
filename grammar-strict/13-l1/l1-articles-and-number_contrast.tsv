@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+
+学生です	学生です	学生です	学生です	I am a student (no article needed)	Drop English 'a'	[sound:1156be0eef82.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:学生です source:curated-jpgram
+猫を飼っています	猫を飼っています	猫を飼っています	猫を飼っています	I am raising a cat (no article)	Drop English 'a'	[sound:ea558070b6b6.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:猫を飼っています source:curated-jpgram
+本を読みました	本を読みました	本を読みました	本を読みました	I read a book (no article)	Drop English 'a'	[sound:bb1a0c98cb52.mp3]	module:13-l1 point:l1-articles-and-number frequency:top10k complexity:intro confusable-with:本を読みました source:curated-jpgram
+机の上にペンがあります	机の上にペンがあります	机の上にペンがあります	机の上にペンがあります	There is a pen on the desk	Drop English 'a'	[sound:7f83bee072da.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:机の上にペンがあります source:curated-jpgram
+りんごを食べました	りんごを食べました	りんごを食べました	りんごを食べました	I ate an apple (no article)	Drop English 'an'	[sound:acb5d4029673.mp3]	module:13-l1 point:l1-articles-and-number complexity:intro confusable-with:りんごを食べました source:curated-jpgram
+病院に行きました	病院に行きました	病院に行きました	病院に行きました	I went to a hospital (no article)	Drop English 'a'	[sound:68e83cd35ee9.mp3]	module:13-l1 point:l1-articles-and-number frequency:top10k complexity:intro confusable-with:病院に行きました source:curated-jpgram
+花を育てています	花を育てています	花を育てています	花を育てています	I am growing a flower	Drop English 'a'	[sound:b9d77bd3132f.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:花を育てています source:curated-jpgram
+子ども がいます	子ども がいます	子ども がいます	子ども がいます	I have a child	Drop English 'a'	[sound:9f4e02e21f7d.mp3]	module:13-l1 point:l1-articles-and-number frequency:top5k complexity:intro confusable-with:子ども-がいます source:curated-jpgram
+車を持っています	車を持っています	車を持っています	車を持っています	I own a car	Drop English 'a'	[sound:37dec91fcd34.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:車を持っています source:curated-jpgram
+約束をしました	約束をしました	約束をしました	約束をしました	I made a promise	Drop English 'a'	[sound:22aee9b140f9.mp3]	module:13-l1 point:l1-articles-and-number frequency:top5k complexity:intro confusable-with:約束をしました source:curated-jpgram
+兄がいます	兄がいます	兄がいます	兄がいます	I have an older brother	Drop English 'an'	[sound:2cf1198129f2.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:兄がいます source:curated-jpgram
+手紙を書きました	手紙を書きました	手紙を書きました	手紙を書きました	I wrote a letter	Drop English 'a'	[sound:f7bbda723945.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:手紙を書きました source:curated-jpgram
+塩が必要です	塩が必要です	塩が必要です	塩が必要です	Salt is necessary (no article)	No definite article	[sound:da040253090b.mp3]	module:13-l1 point:l1-articles-and-number frequency:top5k complexity:intro confusable-with:塩が必要です source:curated-jpgram
+音楽が好きです	音楽が好きです	音楽が好きです	音楽が好きです	I like music (no 'the')	No definite article	[sound:f73eaff76ef1.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:音楽が好きです source:curated-jpgram
+雨が降りました	雨が降りました	雨が降りました	雨が降りました	It rained (no article)	No article for phenomena	[sound:cba20aedbdd0.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:雨が降りました source:curated-jpgram
+人を助けました	人を助けました	人を助けました	人を助けました	I helped a person	Drop English 'a'	[sound:faebc647c1ed.mp3]	module:13-l1 point:l1-articles-and-number frequency:low complexity:intro confusable-with:人を助けました source:curated-jpgram
+家を建てました	家を建てました	家を建てました	家を建てました	I built a house	Drop English 'a'	[sound:f03f37e014b1.mp3]	module:13-l1 point:l1-articles-and-number frequency:top5k complexity:intro confusable-with:家を建てました source:curated-jpgram
+医者 です	医者 です	医者 です	医者 です	I am a doctor	Drop English 'a'	[sound:3df3b215a916.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:医者-です source:curated-jpgram
+犬を見かけました	犬を見かけました	犬を見かけました	犬を見かけました	I spotted a dog	Drop English 'a'	[sound:80b9e6d393ab.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:犬を見かけました source:curated-jpgram
+仕事をしています	仕事をしています	仕事をしています	仕事をしています	I am doing a job	Drop English 'a'	[sound:fb5c95c54200.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:仕事をしています source:curated-jpgram
+店に入りました	店に入りました	店に入りました	店に入りました	I entered a shop	Drop English 'a'	[sound:5430f3ed1bcc.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:店に入りました source:curated-jpgram
+歌を歌いました	歌を歌いました	歌を歌いました	歌を歌いました	I sang a song	Drop English 'a'	[sound:7ff7b16f9c6c.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:歌を歌いました source:curated-jpgram
+川で泳ぎました	川で泳ぎました	川で泳ぎました	川で泳ぎました	I swam in a river	Drop English 'a'	[sound:af8fe16f4faf.mp3]	module:13-l1 point:l1-articles-and-number frequency:top10k complexity:intro confusable-with:川で泳ぎました source:curated-jpgram
+帽子をかぶっています	帽子をかぶっています	帽子をかぶっています	帽子をかぶっています	I am wearing a hat	Drop English 'a'	[sound:ca6d5cb290c5.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:帽子をかぶっています source:curated-jpgram
+時間がありません	時間がありません	時間がありません	時間がありません	I don't have time (no 'any')	No quantifier needed	[sound:88fd1c50ef79.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:時間がありません source:curated-jpgram

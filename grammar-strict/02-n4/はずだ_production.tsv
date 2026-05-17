@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+He will certainly come.	あいつは必ず来るにちがいない	あいつはかならずくるにちがいない	あいつは必ず来るにちがいない	prediction	[sound:cfdf565be43d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top5k source:shin-kanzen
+This is undoubtedly a masterpiece.	これは間違いなく最高傑作にちがいない	これはまちがいなくさいこうけっさくにちがいない	これは間違いなく最高傑作にちがいない	inference	[sound:9d36002afb57.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:low source:shin-kanzen
+It will definitely rain.	雨が降るにちがいない	あめがふるにちがいない	雨が降るにちがいない	prediction	[sound:d2a7d2ac401c.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+He must be busy.	彼は忙しいにちがいない	かれはいそがしいにちがいない	彼は忙しいにちがいない	inference	[sound:7b55b68fe3d7.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+Someone definitely came.	誰かが来たにちがいない	だれかがきたにちがいない	誰かが来たにちがいない	inference	[sound:1b7ac3c69efe.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+That must be wrong.	それは違うにちがいない	それはちがうにちがいない	それは違うにちがいない	inference	[sound:08617ade0229.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+Tanaka should come (as expected).	田中さんは来るはずだ	たなかさんはくるはずだ	田中さんは来るはずだ	expectation	[sound:383f96e8f1bd.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+It was supposed to arrive yesterday.	昨日届くはずだった	きのうとどくはずだった	昨日届くはずだった	expectation	[sound:3e2e5fe62024.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+It's supposed to be completed.	完成するはずだ	かんせいするはずだ	完成するはずだ	expectation	[sound:4e33097d9997.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+That can't be right.	そんなはずがない	そんなはずがない	そんなはずがない	negation	[sound:8bf3f33df4fb.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+You can't not know.	君が知らないはずがない	きみがしらないはずがない	君が知らないはずがない	negation	[sound:785e8619c4ee.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+He can't be lying.	彼が嘘をつくはずがない	かれがうそをつくはずがない	彼が嘘をつくはずがない	negation	[sound:ffe8bbba5559.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+It should arrive soon.	すぐに着くはずだ	すぐにつくはずだ	すぐに着くはずだ	expectation	[sound:372bda617596.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+This was supposed to end it.	これで終わるはずだった	これでおわるはずだった	これで終わるはずだった	expectation	[sound:db190e193def.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+I think the weather will improve.	天気が良くなると思う	てんきがよくなるとおもう	天気が良くなると思う	opinion	[sound:b365e600edb0.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+He is thought to be excellent.	彼は優秀だと思われる	かれはゆうしゅうだとおもわれる	彼は優秀だと思われる	inference	[sound:da2edc7a0041.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+This appears to be a mistake.	これは間違いだと見られる	これはまちがいだとみられる	これは間違いだと見られる	inference	[sound:9113ceefb368.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top10k source:shin-kanzen
+I think it will rain.	雨が降ると思う	あめがふるとおもう	雨が降ると思う	opinion	[sound:e614e993e8a8.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+That decision seems appropriate.	その判断は適切だと思われる	そのはんだんはてきせつだとおもわれる	その判断は適切だと思われる	inference	[sound:92df95dfffa2.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top10k source:shin-kanzen
+He doesn't seem likely to come.	彼は来そうにない	かれはこそうにない	彼は来そうにない	negation	[sound:c2160ee5722a.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+It doesn't look like it will go well.	上手くいきそうもない	うまくいきそうもない	上手くいきそうもない	negation	[sound:3735cfd9573b.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+It doesn't appear to improve.	改善されそうにない	かいぜんされそうにない	改善されそうにない	negation	[sound:3b8cebd3809f.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+It doesn't seem to be ending.	終わりそうもない	おわりそうもない	終わりそうもない	negation	[sound:3776cce0cf90.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+It doesn't look like it will succeed.	成功しそうにない	せいこうしそうにない	成功しそうにない	negation	[sound:95582954473d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+It will probably be sunny tomorrow (speaker judgment).	明日は晴れるだろう	あしたははれるだろう	明日は晴れるだろう	conjecture	[sound:69ca16b5db76.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+This is probably so (interactive).	これはそうでしょう	これはそうでしょう	これはそうでしょう	conjecture	[sound:3770522c0158.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+Rain will probably fall.	雨が降るだろう	あめがふるだろう	雨が降るだろう	conjecture	[sound:210470741473.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+You probably should stop.	やめた方がいいでしょう	やめたほうがいいでしょう	やめた方がいいでしょう	advice	[sound:92fa83790d92.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+What is the actual fact? (rhetorical).	事実はどうだろう	じじつはどうだろう	事実はどうだろう	question	[sound:631a6fef74b6.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+You understand now (checking).	分かったでしょう	わかったでしょう	分かったでしょう	confirmation	[sound:10577b8ab3b9.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen

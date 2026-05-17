@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using その	（その）の例文1です。		（その）の例文1です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using その	（その）の例文2です。		（その）の例文2です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using その	（その）の例文3です。		（その）の例文3です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using その	（その）の例文4です。		（その）の例文4です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using その	（その）の例文5です。		（その）の例文5です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro

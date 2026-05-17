@@ -1,0 +1,17 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+
+雨が降りそう vs 雨が降るそう。	ふりそう	ふるそう	ふりそう	~そう = appearance/likely	~そう = observation	[sound:fdb5a76382bc.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top1k complexity:standard confusable-with:ふるそう source:shin-kanzen sense:evidentials
+その食べ物が美味しそう vs 美味しいそう。	おいしそう	おいしいそう	おいしそう	~そう = looks delicious	~そう = appearance	[sound:e00308179417.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:low complexity:standard confusable-with:おいしいそう source:shin-kanzen sense:evidentials
+試験が難しそう vs 難しいそう。	むずかしそう	むずかしいそう	むずかしそう	~そう = appears difficult	~そう = observation	[sound:467e44ffd8a0.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top10k complexity:standard confusable-with:むずかしいそう source:shin-kanzen sense:evidentials
+雪が降りそう vs 降るそうです。	ふりそう	ふるそうです	ふりそう	~そう = might fall (appearance)	~そう = seems certain	[sound:8932a3fff461.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top1k complexity:standard confusable-with:ふるそうです source:shin-kanzen sense:evidentials
+彼女が疲れていそう vs 疲れているそう。	つかれていそう	つかれているそう	つかれていそう	~そう = looks tired (observation)	~そう = heard she is tired	[sound:7456b485ddb7.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top10k complexity:standard confusable-with:つかれているそう source:shin-kanzen sense:evidentials
+そのケーキが甘そう vs 甘いそう。	あまそう	あまいそう	あまそう	~そう = looks sweet (observation)	~そう = seems sweet	[sound:ea6f94bbdade.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top5k complexity:standard confusable-with:あまいそう source:shin-kanzen sense:evidentials
+雨が降りそう vs 降るそうですね。	ふりそう	ふるそうですね	ふりそう	~そう = likely to rain (appearance)	~そう = apparently will rain	[sound:ffa572251fe4.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top1k complexity:standard confusable-with:ふるそうですね source:shin-kanzen sense:evidentials
+そのレストランが閉まっていそう vs 閉まっているそう。	しまっていそう	しまっているそう	しまっていそう	~そう = looks closed (observation)	~そう = heard it's closed	[sound:039acdb88eab.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:low complexity:advanced confusable-with:しまっているそう source:shin-kanzen sense:evidentials
+その人が忙しそう vs 忙しいそう。	いそがしそう	いそがしいそう	いそがしそう	~そう = looks busy (observation)	~そう = appears busy	[sound:c6c6c0d5ee95.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top1k complexity:standard confusable-with:いそがしいそう source:shin-kanzen sense:evidentials
+子どもが元気そう vs 元気だそう。	げんきそう	げんきだそう	げんきそう	~そう = looks energetic (observation)	~そう = heard is energetic	[sound:7d8b8a704ae3.mp3]	module:03-n3 jlpt:n3 register:neutral point:そうだ pos:expr frequency:top5k complexity:standard confusable-with:げんきだそう source:shin-kanzen sense:evidentials

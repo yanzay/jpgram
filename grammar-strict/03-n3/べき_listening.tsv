@@ -1,0 +1,23 @@
+#separator:tab
+#html:true
+#columns:Audio	Transcript	Reading	EN	Hint	Tags
+#notetype:Listening
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+
+[sound:d9047be5782a.mp3]	彼はこの仕事をせぬ	かれはこのしごとをせぬ	Negation (古典).	modern ぬ = ない	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi complexity:standard
+[sound:5f5389920648.mp3]	我輩はこれを為さん	わがはいはこれをなさん	Volitional (古典).	modern ～う/～よう	module:03-n3 point:べき complexity:intro frequency:low source:imabi complexity:standard
+[sound:434b63631d27.mp3]	学べし	まなべし	Should/must (古典).	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi complexity:standard
+[sound:2d2e34c7b342.mp3]	行くべきか	いくべきか	Ought/should (古典).	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi complexity:standard
+[sound:e904fd8d8d08.mp3]	するべからず	するべからず	Must not (古典).	modern ～はずがない	module:03-n3 point:べき complexity:intro source:imabi complexity:standard
+[sound:0e1a030ad5d8.mp3]	決してやるべまじ	けっしてやるべまじ	Forbidden (古典).	modern ～てはいけない	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi complexity:standard
+[sound:3258f3176a39.mp3]	それ故に行かぬ	それゆえにいかぬ	Therefore not (古典).	modern いかない	module:03-n3 point:べき complexity:intro frequency:low source:imabi complexity:standard
+[sound:0f5d75732ff3.mp3]	知るざり	しるざり	Neg perfective (古典).	modern ～なかった	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi complexity:standard
+[sound:ef594bfb5311.mp3]	すべき	すべきではありません	Should (strong obligation)	べき = you MUST (moral)	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:e382e8be9a15.mp3]	できます	できません	Can (ability)	can = CAN DO (skill)	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:ca7e82a37528.mp3]	てもいいです	てはいけません	May (permission)	may = you MAY (allowed)	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:8fb892cf517b.mp3]	つもりです	予定です	Will (intention)	will = I PLAN to	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:888e767b758b.mp3]	なければなりません	なくてはいけません	Must (necessity)	must = HAVE TO	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:aa758a018c0f.mp3]	だろう	そうだ	Will (prediction)	will = probably WILL	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:89f2b686561f.mp3]	かもしれません	かもしれない	Might (possibility)	might = MAYBE will	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard
+[sound:4249bdc7da22.mp3]	ようにする	ようにしろ	Try to (effort/intention)	try to = try hard	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard

@@ -1,0 +1,36 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Ask if I can teach you.	教えてあげましょうか？	おしえてあげましょうか？	教えてあげましょうか？	offer favor	[sound:75289ac2cd60.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+Suggest helping with homework.	宿題を手伝ってあげましょう。	しゅくだいをてつだってあげましょう。	宿題を手伝ってあげましょう。	favor offer	[sound:83f0df4bd83b.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top1k
+Offer to carry luggage.	荷物を持ってあげましょうか？	にもつをもってあげましょうか？	荷物を持ってあげましょうか？	service offer	[sound:37b387080d05.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top1k
+Tell brother you'll do it.	兄さん、僕がやってあげるよ。	にいさん、ぼくがやってあげるよ。	兄さん、僕がやってあげるよ。	informal offer	[sound:3ee4f2582e94.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top5k
+Ask mom to teach cooking.	お母さん、料理を教えてもらえますか？	おかあさん、りょうりをおしえてもらえますか？	お母さん、料理を教えてもらえますか？	request service	[sound:2761dca35a43.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top10k
+Ask teacher to review essay.	先生、論文を見てもらってもいいですか？	せんせい、ろんぶんをみてもらってもいいですか？	先生、論文を見てもらってもいいですか？	humble request	[sound:a6b16e905a46.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top10k
+Tell friend you'll wait.	友達、ここで待ってあげるからね。	ともだち、ここでまってあげるからね。	友達、ここで待ってあげるからね。	patience	[sound:622c807fdbbc.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top1k
+Ask sister for homework help.	お姉さん、宿題を教えてもらいたい。	おねえさん、しゅくだいをおしえてもらいたい。	お姉さん、宿題を教えてもらいたい。	humble request	[sound:efb56d435c76.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top10k
+Offer to explain to team.	皆さんに説明してあげましょう。	みなさんにせつめいしてあげましょう。	皆さんに説明してあげましょう。	group favor	[sound:5cc10bf2cb23.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top5k
+Ask coworker to teach task.	先輩、仕事を教えてもらえますか？	せんぱい、しごとをおしえてもらえますか？	先輩、仕事を教えてもらえますか？	workplace request	[sound:89a7b9323f96.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top10k
+Offer to pick up.	荷物を拾ってあげましょう。	にもつをひろってあげましょう。	荷物を拾ってあげましょう。	help	[sound:0d63230c0dd2.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top1k
+Ask to receive advice.	アドバイスをもらってもいいですか？	あどばいすをもらってもいいですか？	アドバイスをもらってもいいですか？	request	[sound:b0130c4cefd4.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen
+Offer to carry books.	本を運んであげましょうか？	ほんをはこんであげましょうか？	本を運んであげましょうか？	help	[sound:201dfb3668ef.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:top10k
+Ask mom to teach meal prep.	お母さん、お弁当の作り方を教えてもらいたいです。	おかあさん、おべんとうのつくりかたをおしえてもらいたいです。	お母さん、お弁当の作り方を教えてもらいたいです。	family	[sound:df554b78634e.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen frequency:low
+Offer advice to junior.	アドバイスをあげましょうか？	あどばいすをあげましょうか？	アドバイスをあげましょうか？	mentor	[sound:57aefddf945a.mp3]	module:01-n5 jlpt:n5 point:あげる complexity:standard source:shin-kanzen
+I gave a book to Tanaka.	田中さんに本をあげた。	たなかさんにほんをあげた。	田中さんに本をあげた。	giving action with あげる	[sound:727a74464e5a.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
+My friend gave me a pen.	友達がボールペンをくれた。	ともだちがぼーるぺんをくれた。	友達がボールペンをくれた。	receiving from peer with くれる	[sound:e0e2bcdd74a3.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top10k
+I received money from my parents.	親からお金をもらった。	したしからおきんをもらった。	親からお金をもらった。	receiving with もらう	[sound:ed3cbace95d8.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
+He gave a gift to his sister.	彼は妹にプレゼントをあげた。	かれはいもうとにぷれぜんとをあげた。	彼は妹にプレゼントをあげた。	giving to family	[sound:11ff0e333fcd.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top5k
+The teacher gave us homework.	先生が宿題をくれた。	せんせいがしゅくだいをくれた。	先生が宿題をくれた。	benefactive giving	[sound:265562ec72ff.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+I'll give this book to you.	この本を君にあげます。	このほんをくんにあげます。	この本を君にあげます。	future giving	[sound:8fd2ad497477.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+My parents gave me a watch.	両親が腕時計をくれた。	りょうしんがうでどけいをくれた。	両親が腕時計をくれた。	receiving from parents	[sound:e8dce9915823.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
+Can you give me your phone number?	電話番号をくれませんか。	でんわばんごうをくれませんか。	電話番号をくれませんか。	polite request for giving	[sound:69707af01e3d.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+I received a letter from my grandmother.	祖母から手紙をもらった。	そぼからてがみをもらった。	祖母から手紙をもらった。	receiving from elder	[sound:1ae854863c8a.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top5k complexity:intro
+Please give him the documents.	彼に書類をあげてください。	かれにしょるいをあげてください。	彼に書類をあげてください。	imperative giving	[sound:7e166b280b9f.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:standard
+My brother gave me his old bike.	兄は古い自転車をくれた。	あにはふるいじてんしゃをくれた。	兄は古い自転車をくれた。	family giving	[sound:86764800d386.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+I'll receive the package tomorrow.	明日は荷物をもらいます。	あしたはにもつをもらいます。	明日は荷物をもらいます。	future receiving	[sound:27485de8c800.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top1k complexity:intro
+The customer gave me a tip.	客がチップをくれた。	きゃくがちっぷをくれた。	客がチップをくれた。	service industry giving	[sound:374e318c06f2.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
+Can I give you a suggestion?	提案をあげてもいいですか。	ていあんをあげてもいいですか。	提案をあげてもいいですか。	offering giving	[sound:7db0c412c420.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:standard source:shin-kanzen frequency:top10k
+She received flowers from her boyfriend.	彼女はボーイフレンドから花をもらった。	かのじょはぼーいふれんどからはなをもらった。	彼女はボーイフレンドから花をもらった。	romantic giving	[sound:e8f7a4e38193.mp3]	module:01-n5 jlpt:n5 register:neutral point:あげる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:standard

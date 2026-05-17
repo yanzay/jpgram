@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using ね	（ね）の例文1です。		（ね）の例文1です。	Isn't it?, Right? (Sentence ending particle) 	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ね scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ね	（ね）の例文2です。		（ね）の例文2です。	Isn't it?, Right? (Sentence ending particle) 	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ね scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ね	（ね）の例文3です。		（ね）の例文3です。	Isn't it?, Right? (Sentence ending particle) 	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ね scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ね	（ね）の例文4です。		（ね）の例文4です。	Isn't it?, Right? (Sentence ending particle) 	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ね scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ね	（ね）の例文5です。		（ね）の例文5です。	Isn't it?, Right? (Sentence ending particle) 	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:ね scaffold:pending-content scaffold:pending-audio source:bunpro

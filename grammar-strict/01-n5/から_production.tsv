@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using から	（から）の例文1です。		（から）の例文1です。	From	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using から	（から）の例文2です。		（から）の例文2です。	From	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using から	（から）の例文3です。		（から）の例文3です。	From	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using から	（から）の例文4です。		（から）の例文4です。	From	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using から	（から）の例文5です。		（から）の例文5です。	From	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:から scaffold:pending-content scaffold:pending-audio source:bunpro

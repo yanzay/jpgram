@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Prompt	Answer	Reading	EN	Tags
+#notetype:Dictation
+#
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Dictation
+
+[sound:f709cafca604.mp3]	諸君___努力すべしと言われた。	諸君は努力すべしと言われた。	しょくんはどりょくすべしといわれた。	べし: Obligation.	module:04-n2 jlpt:n2 point:ざる complexity:standard frequency:low source:shin-kanzen
+[sound:87c1ff8590a0.mp3]	学問___修むべし。	学問を修むべし。	がくもんをおさむべし。	べし: Obligation.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:1bf083753ea7.mp3]	この秘密___守るべし。	この秘密は守るべし。	このひみつはまもるべし。	べし: Obligation.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:56bde85e2dc9.mp3]	人___傷つくべからず。	人を傷つくべからず。	にんをきずつくべからず。	べからず: Prohibition.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:84d37f438b13.mp3]	嘘___つくべからず。	嘘をつくべからず。	うそをつくべからず。	べからず: Prohibition.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen complexity:standard
+[sound:a9eca42ec4a0.mp3]	君___従うべし。	君に従うべし。	くんにしたがうべし。	べし: Obligation.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:12b69f380a3b.mp3]	早く行動すべき時___来た。	早く行動すべき時が来た。	はやくこうどうすべきときがきた。	べし: Obligation.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:a026e1055d53.mp3]	そんなこと___起こるまじ。	そんなことは起こるまじ。	そんなことはおこるまじ。	まじ: Negative assumption.	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen complexity:standard

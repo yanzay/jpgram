@@ -1,0 +1,27 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+
+田中さんに本をあげました	田中さんに本をくれました	田中さんに本をあげました	田中さんに本をあげました	I gave Tanaka a book (I→other)	Giving away from self	[sound:7b4eb85c75e5.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:田中さんに本をくれました source:curated-jpgram
+先生が本をくださいました	先生が本をあげました	先生が本をくださいました	先生が本をくださいました	The teacher gave me a book (other→me)	Receiving from honored person	[sound:57dcfe84aa69.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:standard confusable-with:先生が本をあげました source:curated-jpgram
+母が私にセーターをくれました	母が私にセーターをあげました	母が私にセーターをくれました	母が私にセーターをくれました	My mother gave me a sweater	Receiving from family	[sound:c6c2fb3c2fd5.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:standard confusable-with:母が私にセーターをあげました source:curated-jpgram
+友達に本をあげました	友達に本をくれました	友達に本をあげました	友達に本をあげました	I gave my friend a book	Giving to peer	[sound:5a9e8fde792c.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:intro confusable-with:友達に本をくれました source:curated-jpgram
+兄に手伝ってもらいました	兄に手伝ってあげました	兄に手伝ってもらいました	兄に手伝ってもらいました	I got my brother to help me	Receiving help from other	[sound:09152b53d0b3.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:standard confusable-with:兄に手伝ってあげました source:curated-jpgram
+兄を手伝ってあげました	兄を手伝ってもらいました	兄を手伝ってあげました	兄を手伝ってあげました	I helped my brother (favoring him)	Giving favor to other	[sound:840ab590514d.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:intro confusable-with:兄を手伝ってもらいました source:curated-jpgram
+社長が褒めてくださいました	社長が褒めてあげました	社長が褒めてくださいました	社長が褒めてくださいました	The CEO praised me (honored→me)	Receiving praise from superior	[sound:2dddcdb96d00.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top5k complexity:standard confusable-with:社長が褒めてあげました source:curated-jpgram
+子どもに説明してあげました	子どもに説明してくれました	子どもに説明してあげました	子どもに説明してあげました	I explained to the child (favoring them)	Giving favor to lower	[sound:3ada598a266d.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top5k complexity:standard confusable-with:子どもに説明してくれました source:curated-jpgram
+お医者さんに診てもらいました	お医者さんに診てあげました	お医者さんに診てもらいました	お医者さんに診てもらいました	I got examined by the doctor	Receiving service	[sound:8f6b02c7447c.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:standard confusable-with:お医者さんに診てあげました source:curated-jpgram
+先生に教えてもらいました	先生に教えてあげました	先生に教えてもらいました	先生に教えてもらいました	I got taught by the teacher	Receiving instruction	[sound:f18bf0b92c96.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:先生に教えてあげました source:curated-jpgram
+彼女に花をあげました	彼女に花をくれました	彼女に花をあげました	彼女に花をあげました	I gave flowers to my girlfriend	Giving to recipient	[sound:45dca3f07e8b.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top5k complexity:intro confusable-with:彼女に花をくれました source:curated-jpgram
+親戚がお金をくれました	親戚がお金をあげました	親戚がお金をくれました	親戚がお金をくれました	A relative gave me money	Receiving from relative	[sound:050924defa01.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:intro confusable-with:親戚がお金をあげました source:curated-jpgram
+祖母が着物をくれました	祖母が着物をあげました	祖母が着物をくれました	祖母が着物をくれました	My grandmother gave me a kimono	Receiving from elder	[sound:e117c447c344.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top5k complexity:intro confusable-with:祖母が着物をあげました source:curated-jpgram
+ボーイフレンドがプレゼントをくれました	ボーイフレンドがプレゼントをあげました	ボーイフレンドがプレゼントをくれました	ボーイフレンドがプレゼントをくれました	My boyfriend gave me a present	Receiving gift	[sound:b16afb0f9a87.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:ボーイフレンドがプレゼントをあげました source:curated-jpgram
+妹にお金をあげました	妹にお金をくれました	妹にお金をあげました	妹にお金をあげました	I gave money to my younger sister	Giving to family	[sound:6f5ba114d1e1.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:intro confusable-with:妹にお金をくれました source:curated-jpgram
+部長が報告書を直してくださいました	部長が報告書を直してあげました	部長が報告書を直してくださいました	部長が報告書を直してくださいました	The department head corrected the report for me	Receiving favor from superior	[sound:a9d165bb4fd0.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:部長が報告書を直してあげました source:curated-jpgram
+新入社員に仕事を教えてあげました	新入社員に仕事を教えてくれました	新入社員に仕事を教えてあげました	新入社員に仕事を教えてあげました	I taught the new employee (favoring them)	Giving instruction	[sound:26cc2b7a3c4b.mp3]	module:13-l1 point:l1-givereceive-direction frequency:low complexity:standard confusable-with:新入社員に仕事を教えてくれました source:curated-jpgram
+お姉さんに借りました	お姉さんに借りてあげました	お姉さんに借りました	お姉さんに借りました	I borrowed from my older sister	Receiving loan	[sound:e653e5615ef3.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:intro confusable-with:お姉さんに借りてあげました source:curated-jpgram
+田中さんにコンピュータを修理してもらいました	田中さんにコンピュータを修理してあげました	田中さんにコンピュータを修理してもらいました	田中さんにコンピュータを修理してもらいました	I had Tanaka repair my computer	Receiving repair service	[sound:2163f4c095ec.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:田中さんにコンピュータを修理してあげました source:curated-jpgram
+先輩に運転を教えてもらいました	先輩に運転を教えてあげました	先輩に運転を教えてもらいました	先輩に運転を教えてもらいました	I got my senior to teach me to drive	Receiving instruction	[sound:c941fb8b563a.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:先輩に運転を教えてあげました source:curated-jpgram

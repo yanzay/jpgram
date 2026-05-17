@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using あそこ	（あそこ）の例文1です。		（あそこ）の例文1です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using あそこ	（あそこ）の例文2です。		（あそこ）の例文2です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using あそこ	（あそこ）の例文3です。		（あそこ）の例文3です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using あそこ	（あそこ）の例文4です。		（あそこ）の例文4です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using あそこ	（あそこ）の例文5です。		（あそこ）の例文5です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro

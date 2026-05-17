@@ -1,0 +1,42 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Why did you come.	古典疑問	なんじなにぞきたりや	汝何ぞ来たりや	？	[sound:99cfaa23b48e.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+What is this person's height.	古典疑問	このもののみのたけや	この者の身のたけや	？	[sound:ba8331bd5c6b.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+In that it is the king's word.	古典主語	おうのいのちなるに	王の命なるに	の・の者	[sound:2b3321594684.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+It is his words.	古典所有	かのことばなり	彼の言葉なり	～の・～である	[sound:a8186ad805c0.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+Commit a crime (object marker).	古典対格	つみをおかし	罪を犯し	を・で	[sound:6541dd912f39.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Will lose one's life.	古典対格	いのちをうしなわん	命を失わん	を・で	[sound:05a817ab6496.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+O fire, burn.	古典呼格	ひよもえよ	火よ燃えよ	～よ（呼びかけ）	[sound:8025c4bc4e5f.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+From knowledge.	古典起点	ちしきよりして	知識よりして	から・により	[sound:3646557081a9.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+It is the capital Nara.	古典所有属性	ならのみやこなり	奈良の都なり	～の・～である	[sound:f64b3e19195e.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+It is the ancients who know.	古典焦点	こじんぞしる	古人ぞ知る	～ぞ・～こそ	[sound:6aacc9451bbd.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+You are the king.	古典強調	くんこそおうなれ	君こそ王なれ	こそ・ぞ	[sound:3d4c6afc1aeb.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Precisely because it is spring.	古典条件強調	はるなればこそ	春なればこそ	～ばこそ・～ばカコソ	[sound:09fff5c16f46.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+To what kind of person.	古典疑問	いかなるものにか	如何なる者にか	か・や	[sound:ae8b626095fa.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+This is that.	古典説明	これれすなわちそれなり	此れ即ちそれなり	すなわち・つまり	[sound:3de4be0929f2.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+Spring is abundantly beautiful.	古典様態	はるはこうぜんとしてうつくし	春は盎然として美し	として・のように	[sound:45470e3c387f.mp3]	module:03-n3 point:こそ complexity:intro frequency:low source:imabi
+It is the path for people to go.	古典述語	にんのいくべきみちなり	人の行くべき道なり	～である・～だ	[sound:f1e8617fe1e5.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+Even though (someone is) an old person.	古典譲歩	ろうじんといえども	老人といえども	といえども・ながら	[sound:2ad2a251153b.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+I hear he is a brave man.	古典伝聞焦点	かれはゆうしゃとぞきく	彼は勇者とぞ聞く	と聞く・ぞ	[sound:c266245c3c3c.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Before this.	古典比較	これれよりさき	此れより先	より・～方が	[sound:431d4324bff6.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+Have you come, (my) lord.	古典呼格疑問	くんやきたるか	君や来たるか	や（呼びかけ）	[sound:1c4352af98de.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+It is ancient matters that remain today.	古典焦点	こじぞいまに	古事ぞ今に	ぞ・こそ	[sound:9dc84f1e157c.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+In that way/thus.	古典様態	ぜんくてなり	然くてなり	て・として	[sound:df13b3aa0da3.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+He will leave death to me.	古典与格	われにしをのこさん	我に死を遺さん	に・へ	[sound:f45c962e96b5.mp3]	module:03-n3 point:こそ complexity:intro frequency:low source:imabi
+It is not Tanaka.	古典所在	たなかにあらず	田中にあらず	に・で・が	[sound:e25abecf79d4.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Becomes a tiger and emerges.	古典変化	とらとなりていづ	虎となりて出づ	となる・に変わる	[sound:406ec30bcf1d.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Rain falling from the mountain.	古典起点	やまよりふるあめ	山より降る雨	から・により	[sound:cba78c279f94.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+The sound of birds singing is heard.	古典所有	とりのなくしょうもんこゆ	鳥の鳴く声聞こゆ	～の	[sound:1193f6247958.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+Perhaps thus.	古典様態	あるいはかくも	或いはかくも	このように・かように	[sound:f6b19ded0a98.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+That is the true way.	古典強調述語	おっとこそまことのみちなれ	夫こそ真の道なれ	こそ～である	[sound:5a282a22d8ac.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+People-like beings.	古典比較	ひとびとのごときもの	人々の如き者	～のような・～ごとき	[sound:8391987cee44.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Suffices in you.	古典手段	なんじにてたれり	汝にて足れり	で・により	[sound:58222cd06086.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+Goes against one's heart.	古典譲歩	こころならずもいく	心ならずも行く	いやいや・～ながら	[sound:68ec594c1c4d.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+Will dwell there.	古典所在	そこにすまん	其処に住まん	に・で	[sound:eb85b5912ca4.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+Alas!/oh!	古典感動詞	ああかな	嗚呼かな	か・な（感動）	[sound:3bc026d5688d.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+Will go together.	古典共格	ともにさらん	共に去らん	と一緒に・ともに	[sound:69cb955acc94.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi

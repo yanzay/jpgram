@@ -55,6 +55,8 @@ def bunpro_status(bunpro_id: str) -> str:
         return "missing"
     if value.startswith("bunpro:auto/"):
         return "auto"
+    if value.startswith("bunpro:exempt/"):
+        return "exempt"
     if value.startswith("bunpro:"):
         payload = value.split("bunpro:", 1)[1].strip()
         return "resolved" if payload else "malformed"
@@ -99,7 +101,7 @@ def main() -> int:
     unresolved_bunpro = []
     for point_slug, row in taxonomy.items():
         status = bunpro_status(row["bunpro_id"])
-        if status in {"auto", "missing", "malformed"}:
+        if status in {"auto", "missing", "malformed"}:  # exempt rows are closed
             bucket_like = bool(BUCKET_RE.search(point_slug))
             unresolved_bunpro.append(
                 {

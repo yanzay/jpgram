@@ -1,0 +1,41 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Recognition
+
+汝何ぞ来たりや	なんじなにぞきたりや	Why did you come.	や interrogative	古典疑問	？	modern か		[sound:99cfaa23b48e.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+この者の身のたけや	このもののみのたけや	What is this person's height.	や interrogative	古典疑問	？	modern か		[sound:ba8331bd5c6b.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+王の命なるに	おうのいのちなるに	In that it is the king's word.	の literary subject	古典主語	の・の者	modern の・が		[sound:2b3321594684.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+彼の言葉なり	かのことばなり	It is his words.	の possession	古典所有	～の・～である	modern ～の・～である		[sound:a8186ad805c0.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+罪を犯し	つみをおかし	Commit a crime (object marker).	を literary object	古典対格	を・で	modern を		[sound:6541dd912f39.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+命を失わん	いのちをうしなわん	Will lose one's life.	を object marker	古典対格	を・で	modern を		[sound:05a817ab6496.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+火よ燃えよ	ひよもえよ	O fire, burn.	よ vocative	古典呼格	～よ（呼びかけ）	modern ～よ・～ね		[sound:8025c4bc4e5f.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+知識よりして	ちしきよりして	From knowledge.	より origin	古典起点	から・により	modern から・に		[sound:3646557081a9.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+奈良の都なり	ならのみやこなり	It is the capital Nara.	の possession	古典所有属性	～の・～である	modern ～の・～である		[sound:f64b3e19195e.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+古人ぞ知る	こじんぞしる	It is the ancients who know.	ぞ focus particle	古典焦点	～ぞ・～こそ	modern こそ		[sound:6aacc9451bbd.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+君こそ王なれ	くんこそおうなれ	You are the king.	こそ focus emphasis	古典強調	こそ・ぞ	modern こそ		[sound:3d4c6afc1aeb.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+春なればこそ	はるなればこそ	Precisely because it is spring.	ばこそ condition-emphasis	古典条件強調	～ばこそ・～ばカコソ	modern ～ばこそ		[sound:09fff5c16f46.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+如何なる者にか	いかなるものにか	To what kind of person.	か interrogative	古典疑問	か・や	modern か		[sound:ae8b626095fa.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+此れ即ちそれなり	これれすなわちそれなり	This is that.	すなわち namely	古典説明	すなわち・つまり	modern すなわち・つまり		[sound:3de4be0929f2.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+春は盎然として美し	はるはこうぜんとしてうつくし	Spring is abundantly beautiful.	として as/with	古典様態	として・のように	modern として・のように		[sound:45470e3c387f.mp3]	module:03-n3 point:こそ complexity:intro frequency:low source:imabi
+人の行くべき道なり	にんのいくべきみちなり	It is the path for people to go.	なり predicative	古典述語	～である・～だ	modern ～である		[sound:f1e8617fe1e5.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+老人といえども	ろうじんといえども	Even though (someone is) an old person.	といえども concessive	古典譲歩	といえども・ながら	modern ～ても・～ながら		[sound:2ad2a251153b.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+彼は勇者とぞ聞く	かれはゆうしゃとぞきく	I hear he is a brave man.	と+ぞ reportative	古典伝聞焦点	と聞く・ぞ	modern と聞く		[sound:c266245c3c3c.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+此れより先	これれよりさき	Before this.	より comparative	古典比較	より・～方が	modern より・～方が		[sound:431d4324bff6.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+君や来たるか	くんやきたるか	Have you come, (my) lord.	や vocative+interrogative	古典呼格疑問	や（呼びかけ）	modern か・ね		[sound:1c4352af98de.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+古事ぞ今に	こじぞいまに	It is ancient matters that remain today.	ぞ focus	古典焦点	ぞ・こそ	modern こそ		[sound:9dc84f1e157c.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+然くてなり	ぜんくてなり	In that way/thus.	て manner	古典様態	て・として	modern て・として		[sound:df13b3aa0da3.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+我に死を遺さん	われにしをのこさん	He will leave death to me.	に recipient/target	古典与格	に・へ	modern に・へ		[sound:f45c962e96b5.mp3]	module:03-n3 point:こそ complexity:intro frequency:low source:imabi
+田中にあらず	たなかにあらず	It is not Tanaka.	に at/to identity	古典所在	に・で・が	modern に・で・が		[sound:e25abecf79d4.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+虎となりて出づ	とらとなりていづ	Becomes a tiger and emerges.	となる become	古典変化	となる・に変わる	modern になる・に変わる		[sound:406ec30bcf1d.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+山より降る雨	やまよりふるあめ	Rain falling from the mountain.	より source	古典起点	から・により	modern から・に		[sound:cba78c279f94.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+鳥の鳴く声聞こゆ	とりのなくしょうもんこゆ	The sound of birds singing is heard.	の possession	古典所有	～の	modern ～の		[sound:1193f6247958.mp3]	module:03-n3 point:こそ complexity:intro frequency:top1k source:imabi
+或いはかくも	あるいはかくも	Perhaps thus.	かくも manner/degree	古典様態	このように・かように	modern かように・このように		[sound:f6b19ded0a98.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+夫こそ真の道なれ	おっとこそまことのみちなれ	That is the true way.	こそ+なれ	古典強調述語	こそ～である	modern こそ～である		[sound:5a282a22d8ac.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+人々の如き者	ひとびとのごときもの	People-like beings.	の+如き	古典比較	～のような・～ごとき	modern ～のような		[sound:8391987cee44.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+汝にて足れり	なんじにてたれり	Suffices in you.	にて instrumental	古典手段	で・により	modern で・により		[sound:58222cd06086.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+心ならずも行く	こころならずもいく	Goes against one's heart.	ならずも unwilling	古典譲歩	いやいや・～ながら	modern いやいや・～ながら		[sound:68ec594c1c4d.mp3]	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi
+其処に住まん	そこにすまん	Will dwell there.	に location	古典所在	に・で	modern に・で		[sound:eb85b5912ca4.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi
+嗚呼かな	ああかな	Alas!/oh!	かな exclamatory	古典感動詞	か・な（感動）	modern ～なあ・～なあ		[sound:3bc026d5688d.mp3]	module:03-n3 point:こそ complexity:intro source:imabi
+共に去らん	ともにさらん	Will go together.	に companionship	古典共格	と一緒に・ともに	modern と一緒に・ともに		[sound:69cb955acc94.mp3]	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi

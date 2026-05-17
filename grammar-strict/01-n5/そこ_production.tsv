@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using そこ	（そこ）の例文1です。		（そこ）の例文1です。	There, That place	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:そこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そこ	（そこ）の例文2です。		（そこ）の例文2です。	There, That place	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:そこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そこ	（そこ）の例文3です。		（そこ）の例文3です。	There, That place	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:そこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そこ	（そこ）の例文4です。		（そこ）の例文4です。	There, That place	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:そこ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そこ	（そこ）の例文5です。		（そこ）の例文5です。	There, That place	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:そこ scaffold:pending-content scaffold:pending-audio source:bunpro

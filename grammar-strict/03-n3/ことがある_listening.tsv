@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Transcript	Reading	EN	Hint	Tags
+#notetype:Listening
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+
+[sound:659475942627.mp3]	運動したほうがいいです。	うんどうしたほうがいいです。	You should exercise.	suggests better option	module:03-n3 jlpt:n3 point:ことがある complexity:intro frequency:top5k source:shin-kanzen complexity:standard
+[sound:a5f2d09f0daa.mp3]	もっと勉強したほうがいいですよ。	もっとべんきょうしたほうがいいですよ。	You should study more.	advises improvement	module:03-n3 jlpt:n3 point:ことがある complexity:standard frequency:top1k source:shin-kanzen
+[sound:647ab444b352.mp3]	野菜を食べたほうがいいです。	やさいをたべたほうがいいです。	You should eat vegetables.	recommends diet	module:03-n3 jlpt:n3 point:ことがある complexity:standard frequency:top1k source:shin-kanzen
+[sound:ba47d2d2262b.mp3]	早く寝たほうがいいですね。	はやくねたほうがいいですね。	You should sleep early.	suggests schedule	module:03-n3 jlpt:n3 point:ことがある complexity:standard source:shin-kanzen
+[sound:4cfb8b23bec4.mp3]	医者に行ったほうがいいですよ。	いしゃにいったほうがいいですよ。	You should see a doctor.	suggests medical care	module:03-n3 jlpt:n3 point:ことがある complexity:standard frequency:top1k source:shin-kanzen
+[sound:daf048c442b3.mp3]	そんなことはしないほうがいいです。	そんなことはしないほうがいいです。	You shouldn't do that.	negative recommendation	module:03-n3 jlpt:n3 point:ことがある complexity:standard source:shin-kanzen
+[sound:8b28edf76973.mp3]	その人と関わらないほうがいいですよ。	そのひととかかわらないほうがいいですよ。	Better not get involved.	advises distance	module:03-n3 jlpt:n3 point:ことがある complexity:standard frequency:top1k source:shin-kanzen
+[sound:0675f4789bb0.mp3]	今は言わないほうがいいですね。	いまはいわないほうがいいですね。	Better not say it now.	timing advice	module:03-n3 jlpt:n3 point:ことがある complexity:standard frequency:top1k source:shin-kanzen

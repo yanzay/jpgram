@@ -1,0 +1,22 @@
+#separator:tab
+#html:true
+#columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
+#notetype:Contrast
+#
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+
+誰 vs 何違い	誰	何	誰	誰=who (people); 何=what (things)	People: 誰	[sound:a5fb904e75f0.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:何 source:shin-kanzen
+どこ vs どちら違い	どこ	どちら	どこ	どこ=where; どちら=which direction	Place: どこ	[sound:fc2a4bb47467.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どちら source:shin-kanzen
+なぜ vs どうして違い	なぜ	どうして	なぜ	Both mean why; どうして more conversational	Formal: なぜ	[sound:103787b16933.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どうして source:shin-kanzen
+どう vs どうして違い	どう	どうして	どう	どう=how; どうして=why/how	How (method): どう	[sound:7a7eabc9220d.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どうして source:shin-kanzen
+いくら vs 何個違い	いくら	何個	いくら	いくら=price; 何個=count	Price: いくら	[sound:42667da9865b.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:何個 source:shin-kanzen
+何人 vs 何個違い	何人	何個	何人	何人=people count; 何個=object count	People: 何人	[sound:1a263c1fccf2.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:何個 source:shin-kanzen
+どれ vs どの違い	どれ	どの	どの	どれ=which (standalone); どの=before noun	Before noun: どの	[sound:551a99bfbea3.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どれ source:shin-kanzen
+誰の vs だれ違い	誰の	だれ	誰の	誰の=whose; だれ=who	Possessive: 誰の	[sound:e9f4599540b8.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:だれ source:shin-kanzen
+どんな vs どう違い	どんな	どう	どんな	どんな=what kind; どう=how	Kind/type: どんな	[sound:a327f4b108c0.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どう source:shin-kanzen
+いつ vs いつまで違い	いつ	いつまで	いつまで	いつ=when; いつまで=until when	Duration endpoint: いつまで	[sound:02b8addb1e6a.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:いつ source:shin-kanzen
+どのくらい vs どれくらい違い	どのくらい	どれくらい	どのくらい	Both similar; 形容詞修飾 vs 単語修飾	Standard: どのくらい	[sound:214f4faa9990.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:standard confusable-with:どれくらい source:shin-kanzen
+何が vs 誰が違い	何が	誰が	誰が	何=what; 誰=who	Person subject: 誰が	[sound:9f982911e35c.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:何が source:shin-kanzen
+なに vs なん違い	なに	なん	なん	Both mean what; なん before counters	Before counters: なん	[sound:331c305bce0e.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:なに source:shin-kanzen
+誰と vs 誰に違い	誰と	誰に	誰と	誰と=with whom; 誰に=to whom	Accompaniment: 誰と	[sound:75e82fa8e24f.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:誰に source:shin-kanzen
+どこへ vs どこに違い	どこへ	どこに	どこに	Both go to; へ emphasizes direction	Both OK; へ=direction	[sound:20662c609554.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どこへ source:shin-kanzen

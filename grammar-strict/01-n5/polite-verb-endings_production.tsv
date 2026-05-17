@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+
+Say: example 1 using ます	（ます）の例文1です。		（ます）の例文1です。	Polite Verb Endings	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:polite-verb-endings scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ます	（ます）の例文2です。		（ます）の例文2です。	Polite Verb Endings	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:polite-verb-endings scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ます	（ます）の例文3です。		（ます）の例文3です。	Polite Verb Endings	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:polite-verb-endings scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ます	（ます）の例文4です。		（ます）の例文4です。	Polite Verb Endings	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:polite-verb-endings scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ます	（ます）の例文5です。		（ます）の例文5です。	Polite Verb Endings	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:polite-verb-endings scaffold:pending-content scaffold:pending-audio source:bunpro

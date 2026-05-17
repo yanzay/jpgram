@@ -1,0 +1,27 @@
+#separator:tab
+#html:true
+#columns:Text	Reading	Hint	Audio	Tags
+#notetype:Cloze
+#
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Cloze
+
+実はあんなに勉強したのに、{{c1::試験に落ちた}}。	じつはあんなにべんきょうしたのに、{{c1::しけんにおちた}}。	Studied so much, yet failed exam.	[sound:a5720ece0223.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+実は毎日練習しているのに、{{c1::上手にならない}}。	じつはまいにちれんしゅうしているのに、{{c1::じょうずにならない}}。	Practice daily, yet don't improve.	[sound:35b9e59d29cf.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+実は天気がいいのに、{{c1::外に出ません}}。	じつはてんきがいいのに、{{c1::そとにでません}}。	Nice weather, yet I won't go out.	[sound:683c528322a7.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:intro frequency:top10k source:shin-kanzen
+実は兄弟なのに、{{c1::仲が悪い}}。	じつはきょうだいなのに、{{c1::なかがわるい}}。	We're brothers, yet don't get along.	[sound:ee578ed74bc0.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:intro frequency:top10k source:shin-kanzen
+実は何度も説明したのに、{{c1::理解できない}}。	じつはなんどもせつめいしたのに、{{c1::りかいできない}}。	Explained multiple times, yet can't understand.	[sound:a9ed0781fcc5.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+実は新しい靴を買ったのに、{{c1::合わない}}。	じつはあたらしいくつをかったのに、{{c1::あわない}}。	Bought new shoes, yet they don't fit.	[sound:8b67eb06f4ce.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+ところで値段は高いとはいえ、{{c1::品質は最高}}だ。	ところでねだんはたかいとはいえ、{{c1::ひんしつはさいこう}}だ。	Though expensive, quality is excellent.	[sound:2b5aa8c171f2.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:low source:shin-kanzen
+実は初めてとはいえ、{{c1::失敗するべきではない}}。	じつははじめてとはいえ、{{c1::しっぱいするべきではない}}。	Though it's my first time, shouldn't have failed.	[sound:3fa7e385813f.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:intro frequency:top10k source:shin-kanzen
+実は貧困にもかかわらず、{{c1::彼は成功した}}。	じつはひんこんにもかかわらず、{{c1::かれはせいこうした}}。	Despite poverty, he succeeded.	[sound:1862dfeddf15.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:low source:shin-kanzen
+ところで反対にもかかわらず、{{c1::計画を進めた}}。	ところではんたいにもかかわらず、{{c1::けいかくをすすめた}}。	Despite opposition, proceeded with plan.	[sound:c8b519025496.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top5k source:shin-kanzen
+実は高いものの、{{c1::品質が良い}}。	じつはたかいものの、{{c1::ひんしつがよい}}。	Though expensive, quality is good.	[sound:406331ad5393.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:intro frequency:low source:shin-kanzen
+実は雨が降っているものの、{{c1::野球は続く}}。	じつはあめがふっているものの、{{c1::やきゅうはつづく}}。	Though it's raining, baseball continues.	[sound:4a6f950c1b14.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+ところで若いながらも、{{c1::経験が豊か}}だ。	ところでわかいながらも、{{c1::けいけんがゆたか}}だ。	Though young, experienced.	[sound:68905bbc9a08.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+ところで反対しながらも、{{c1::協力した}}。	ところではんたいしながらも、{{c1::きょうりょくした}}。	Though I opposed, I cooperated.	[sound:296f6fc26493.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+ところで忙しいながらも、{{c1::時間を作った}}。	ところでいそがしいながらも、{{c1::じかんをつくった}}。	Though busy, I made time.	[sound:2743eb36baf2.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+実は失敗したとしても、{{c1::また挑戦する}}。	じつはしっぱいしたとしても、{{c1::またちょうせんする}}。	Even if I fail, I'll try again.	[sound:a1ed8ffb3f48.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:intro frequency:top10k source:shin-kanzen
+実は誰が何を言ったとしても、{{c1::信じない}}。	じつはだれがなにをいったとしても、{{c1::しんじない}}。	No matter what anyone says, I won't believe it.	[sound:5e3fdb92cabc.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+実は親だとしても、{{c1::完璧ではない}}。	じつはおやだとしても、{{c1::かんぺきではない}}。	Even if one is a parent, they're not perfect.	[sound:4a17b036d16c.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:intro frequency:top10k source:shin-kanzen
+実は彼は頭が良い。それに、{{c1::努力家}}だ。	じつはかれはあたまがよい。それに、{{c1::どりょくか}}だ。	He's intelligent. And moreover, hardworking.	[sound:69bbc0f1136a.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
+実は不景気だ。それにしても、{{c1::我が社は成長}}している。	じつはふけいきだ。それにしても、{{c1::わがしゃはせいちょう}}している。	It's a recession. Despite that, our company grows.	[sound:a6a667571c74.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:low source:shin-kanzen

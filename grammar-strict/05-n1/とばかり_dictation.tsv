@@ -1,0 +1,15 @@
+#separator:tab
+#html:true
+#columns:Audio	Prompt	Answer	Reading	EN	Tags
+#notetype:Dictation
+#
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Dictation
+
+[sound:d0a135e03ec3.mp3]	彼___何ともやら、不安そうに見えた。	彼は何ともやら、不安そうに見えた。	かれはなんともやら、ふあんそうにみえた。	He seemed anxious in some indescribable way.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:low source:dictionary-of-jp-grammar
+[sound:c4a3654b575d.mp3]	母の声と見えて、彼___立ち上がった。	母の声と見えて、彼は立ち上がった。	ははのこえとみえて、かれはたちあがった。	What seemed mother voice made him stand.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top5k source:dictionary-of-jp-grammar
+[sound:776e3c878f66.mp3]	もう一度だけ、と言わんばかり___懇願した。	もう一度だけ、と言わんばかりに懇願した。	もういちどだけ、といわんばかりにこんがんした。	He pleaded as if saying just once more.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top5k source:dictionary-of-jp-grammar
+[sound:14a687c025c6.mp3]	小説___して扱われるべき作品だ。	小説として扱われるべき作品だ。	しょうせつとしてあつかわれるべきさくひんだ。	It is a work should be treated as novel.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top10k source:dictionary-of-jp-grammar
+[sound:afa76542359a.mp3]	喜びととも___、不安も訪れた。	喜びとともに、不安も訪れた。	よろこびとともに、ふあんもおとずれた。	Along with joy came anxiety.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top10k source:dictionary-of-jp-grammar
+[sound:9ea525fd76e6.mp3]	うまくいくとばかり思っていたが、現実___違った。	うまくいくとばかり思っていたが、現実は違った。	うまくいくとばかりおもっていたが、げんじつはちがった。	He thought it would work, but reality differed.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top10k source:dictionary-of-jp-grammar
+[sound:185667b36e8d.mp3]	まるで別の人間のように、彼___変わっていた。	まるで別の人間のように、彼は変わっていた。	まるでべつのにんげんのように、かれはかわっていた。	Like a different person, he had changed.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top10k source:dictionary-of-jp-grammar
+[sound:b3e282ee48b6.mp3]	静寂の中で、彼女の心臓の音___聞こえるとやら。	静寂の中で、彼女の心臓の音が聞こえるとやら。	せいじゃくのなかで、かのじょのしんぞうのおとがきこえるとやら。	In silence, one might hear her heartbeat.	module:05-n1 jlpt:n1 point:とばかり complexity:standard frequency:top10k source:dictionary-of-jp-grammar
