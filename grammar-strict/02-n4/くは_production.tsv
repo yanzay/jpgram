@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using くは	（くは）の例文1です。		（くは）の例文1です。	Emphasis and Contrast	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:くは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using くは	（くは）の例文2です。		（くは）の例文2です。	Emphasis and Contrast	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:くは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using くは	（くは）の例文3です。		（くは）の例文3です。	Emphasis and Contrast	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:くは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using くは	（くは）の例文4です。		（くは）の例文4です。	Emphasis and Contrast	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:くは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using くは	（くは）の例文5です。		（くは）の例文5です。	Emphasis and Contrast	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:くは scaffold:pending-content scaffold:pending-audio source:bunpro

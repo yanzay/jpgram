@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using さえ〜ば	（さえ〜ば）の例文1です。		（さえ〜ば）の例文1です。	If only…then, As long as..., Provided..., Only thing ... needs for ... is ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ-ば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using さえ〜ば	（さえ〜ば）の例文2です。		（さえ〜ば）の例文2です。	If only…then, As long as..., Provided..., Only thing ... needs for ... is ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ-ば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using さえ〜ば	（さえ〜ば）の例文3です。		（さえ〜ば）の例文3です。	If only…then, As long as..., Provided..., Only thing ... needs for ... is ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ-ば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using さえ〜ば	（さえ〜ば）の例文4です。		（さえ〜ば）の例文4です。	If only…then, As long as..., Provided..., Only thing ... needs for ... is ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ-ば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using さえ〜ば	（さえ〜ば）の例文5です。		（さえ〜ば）の例文5です。	If only…then, As long as..., Provided..., Only thing ... needs for ... is ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ-ば scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using だって	（だって）の例文1です。		（だって）の例文1です。	I heard/was said, Because, But, Even or also, Even if or even though	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だって	（だって）の例文2です。		（だって）の例文2です。	I heard/was said, Because, But, Even or also, Even if or even though	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だって	（だって）の例文3です。		（だって）の例文3です。	I heard/was said, Because, But, Even or also, Even if or even though	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だって	（だって）の例文4です。		（だって）の例文4です。	I heard/was said, Because, But, Even or also, Even if or even though	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だって scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だって	（だって）の例文5です。		（だって）の例文5です。	I heard/was said, Because, But, Even or also, Even if or even though	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だって scaffold:pending-content scaffold:pending-audio source:bunpro

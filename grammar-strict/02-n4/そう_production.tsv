@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using そう 	（そう ）の例文1です。		（そう ）の例文1です。	Look like, Appear, Seem, Have a feeling that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そう 	（そう ）の例文2です。		（そう ）の例文2です。	Look like, Appear, Seem, Have a feeling that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そう 	（そう ）の例文3です。		（そう ）の例文3です。	Look like, Appear, Seem, Have a feeling that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そう 	（そう ）の例文4です。		（そう ）の例文4です。	Look like, Appear, Seem, Have a feeling that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そう 	（そう ）の例文5です。		（そう ）の例文5です。	Look like, Appear, Seem, Have a feeling that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そう scaffold:pending-content scaffold:pending-audio source:bunpro

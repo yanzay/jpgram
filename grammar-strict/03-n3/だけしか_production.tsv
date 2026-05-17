@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using だけしか	（だけしか）の例文1です。		（だけしか）の例文1です。	 To emphasize '~only', Nothing but	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だけしか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だけしか	（だけしか）の例文2です。		（だけしか）の例文2です。	 To emphasize '~only', Nothing but	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だけしか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だけしか	（だけしか）の例文3です。		（だけしか）の例文3です。	 To emphasize '~only', Nothing but	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だけしか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だけしか	（だけしか）の例文4です。		（だけしか）の例文4です。	 To emphasize '~only', Nothing but	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だけしか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だけしか	（だけしか）の例文5です。		（だけしか）の例文5です。	 To emphasize '~only', Nothing but	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:だけしか scaffold:pending-content scaffold:pending-audio source:bunpro

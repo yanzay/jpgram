@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using こと	（こと）の例文1です。		（こと）の例文1です。	Converting a verb into a noun	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:こと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using こと	（こと）の例文2です。		（こと）の例文2です。	Converting a verb into a noun	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:こと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using こと	（こと）の例文3です。		（こと）の例文3です。	Converting a verb into a noun	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:こと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using こと	（こと）の例文4です。		（こと）の例文4です。	Converting a verb into a noun	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:こと scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using こと	（こと）の例文5です。		（こと）の例文5です。	Converting a verb into a noun	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:こと scaffold:pending-content scaffold:pending-audio source:bunpro

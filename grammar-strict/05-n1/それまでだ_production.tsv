@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using それまでだ	（それまでだ）の例文1です。		（それまでだ）の例文1です。	If… then it is all in vain, It's done, It is useless, No point, It is a waste, That's it, It is all gone, 	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:それまでだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using それまでだ	（それまでだ）の例文2です。		（それまでだ）の例文2です。	If… then it is all in vain, It's done, It is useless, No point, It is a waste, That's it, It is all gone, 	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:それまでだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using それまでだ	（それまでだ）の例文3です。		（それまでだ）の例文3です。	If… then it is all in vain, It's done, It is useless, No point, It is a waste, That's it, It is all gone, 	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:それまでだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using それまでだ	（それまでだ）の例文4です。		（それまでだ）の例文4です。	If… then it is all in vain, It's done, It is useless, No point, It is a waste, That's it, It is all gone, 	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:それまでだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using それまでだ	（それまでだ）の例文5です。		（それまでだ）の例文5です。	If… then it is all in vain, It's done, It is useless, No point, It is a waste, That's it, It is all gone, 	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:それまでだ scaffold:pending-content scaffold:pending-audio source:bunpro

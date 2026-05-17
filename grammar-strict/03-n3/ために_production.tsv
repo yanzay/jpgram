@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ために	（ために）の例文1です。		（ために）の例文1です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ために	（ために）の例文2です。		（ために）の例文2です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ために	（ために）の例文3です。		（ために）の例文3です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ために	（ために）の例文4です。		（ために）の例文4です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ために	（ために）の例文5です。		（ために）の例文5です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using なお①	（なお①）の例文1です。		（なお①）の例文1です。	Still, Even, Yet	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:なお1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なお①	（なお①）の例文2です。		（なお①）の例文2です。	Still, Even, Yet	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:なお1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なお①	（なお①）の例文3です。		（なお①）の例文3です。	Still, Even, Yet	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:なお1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なお①	（なお①）の例文4です。		（なお①）の例文4です。	Still, Even, Yet	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:なお1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なお①	（なお①）の例文5です。		（なお①）の例文5です。	Still, Even, Yet	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:なお1 scaffold:pending-content scaffold:pending-audio source:bunpro

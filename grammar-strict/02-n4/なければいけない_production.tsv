@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using なければいけない	（なければいけない）の例文1です。		（なければいけない）の例文1です。	Must do, Have to do	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なければいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なければいけない	（なければいけない）の例文2です。		（なければいけない）の例文2です。	Must do, Have to do	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なければいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なければいけない	（なければいけない）の例文3です。		（なければいけない）の例文3です。	Must do, Have to do	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なければいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なければいけない	（なければいけない）の例文4です。		（なければいけない）の例文4です。	Must do, Have to do	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なければいけない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なければいけない	（なければいけない）の例文5です。		（なければいけない）の例文5です。	Must do, Have to do	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なければいけない scaffold:pending-content scaffold:pending-audio source:bunpro

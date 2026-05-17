@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using がん～	（がん～）の例文1です。		（がん～）の例文1です。	Totally, Seriously, Completely, Furiously, Majorly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:がん-totally scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using がん～	（がん～）の例文2です。		（がん～）の例文2です。	Totally, Seriously, Completely, Furiously, Majorly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:がん-totally scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using がん～	（がん～）の例文3です。		（がん～）の例文3です。	Totally, Seriously, Completely, Furiously, Majorly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:がん-totally scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using がん～	（がん～）の例文4です。		（がん～）の例文4です。	Totally, Seriously, Completely, Furiously, Majorly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:がん-totally scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using がん～	（がん～）の例文5です。		（がん～）の例文5です。	Totally, Seriously, Completely, Furiously, Majorly	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:がん-totally scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using てほしい	（てほしい）の例文1です。		（てほしい）の例文1です。	I want you to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using てほしい	（てほしい）の例文2です。		（てほしい）の例文2です。	I want you to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using てほしい	（てほしい）の例文3です。		（てほしい）の例文3です。	I want you to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using てほしい	（てほしい）の例文4です。		（てほしい）の例文4です。	I want you to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using てほしい	（てほしい）の例文5です。		（てほしい）の例文5です。	I want you to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:てほしい scaffold:pending-content scaffold:pending-audio source:bunpro

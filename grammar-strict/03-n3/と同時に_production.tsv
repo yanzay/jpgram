@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using と同時に	（と同時に）の例文1です。		（と同時に）の例文1です。	At the same time as, The instant, The moment, As well as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と同時に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using と同時に	（と同時に）の例文2です。		（と同時に）の例文2です。	At the same time as, The instant, The moment, As well as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と同時に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using と同時に	（と同時に）の例文3です。		（と同時に）の例文3です。	At the same time as, The instant, The moment, As well as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と同時に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using と同時に	（と同時に）の例文4です。		（と同時に）の例文4です。	At the same time as, The instant, The moment, As well as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と同時に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using と同時に	（と同時に）の例文5です。		（と同時に）の例文5です。	At the same time as, The instant, The moment, As well as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と同時に scaffold:pending-content scaffold:pending-audio source:bunpro

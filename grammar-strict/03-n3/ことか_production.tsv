@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ことか	（ことか）の例文1です。		（ことか）の例文1です。	How…, What..., God knows...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ことか	（ことか）の例文2です。		（ことか）の例文2です。	How…, What..., God knows...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ことか	（ことか）の例文3です。		（ことか）の例文3です。	How…, What..., God knows...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ことか	（ことか）の例文4です。		（ことか）の例文4です。	How…, What..., God knows...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ことか	（ことか）の例文5です。		（ことか）の例文5です。	How…, What..., God knows...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことか scaffold:pending-content scaffold:pending-audio source:bunpro

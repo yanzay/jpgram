@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 結果・の結果	（結果・の結果）の例文1です。		（結果・の結果）の例文1です。	As a result of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:結果・の結果 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 結果・の結果	（結果・の結果）の例文2です。		（結果・の結果）の例文2です。	As a result of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:結果・の結果 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 結果・の結果	（結果・の結果）の例文3です。		（結果・の結果）の例文3です。	As a result of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:結果・の結果 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 結果・の結果	（結果・の結果）の例文4です。		（結果・の結果）の例文4です。	As a result of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:結果・の結果 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 結果・の結果	（結果・の結果）の例文5です。		（結果・の結果）の例文5です。	As a result of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:結果・の結果 scaffold:pending-content scaffold:pending-audio source:bunpro

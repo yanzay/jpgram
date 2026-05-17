@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using に限る	（に限る）の例文1です。		（に限る）の例文1です。	Nothing better than, There's nothing like, Limited to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に限る scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に限る	（に限る）の例文2です。		（に限る）の例文2です。	Nothing better than, There's nothing like, Limited to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に限る scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に限る	（に限る）の例文3です。		（に限る）の例文3です。	Nothing better than, There's nothing like, Limited to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に限る scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に限る	（に限る）の例文4です。		（に限る）の例文4です。	Nothing better than, There's nothing like, Limited to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に限る scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に限る	（に限る）の例文5です。		（に限る）の例文5です。	Nothing better than, There's nothing like, Limited to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に限る scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using きっかけ	（きっかけ）の例文1です。		（きっかけ）の例文1です。	Lead to, Because of, As a start or trigger of, An opportunity	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:きっかけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using きっかけ	（きっかけ）の例文2です。		（きっかけ）の例文2です。	Lead to, Because of, As a start or trigger of, An opportunity	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:きっかけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using きっかけ	（きっかけ）の例文3です。		（きっかけ）の例文3です。	Lead to, Because of, As a start or trigger of, An opportunity	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:きっかけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using きっかけ	（きっかけ）の例文4です。		（きっかけ）の例文4です。	Lead to, Because of, As a start or trigger of, An opportunity	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:きっかけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using きっかけ	（きっかけ）の例文5です。		（きっかけ）の例文5です。	Lead to, Because of, As a start or trigger of, An opportunity	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:きっかけ scaffold:pending-content scaffold:pending-audio source:bunpro

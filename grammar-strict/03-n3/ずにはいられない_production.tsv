@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ずにはいられない	（ずにはいられない）の例文1です。		（ずにはいられない）の例文1です。	Cannot help doing something, Cannot resist doing something	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ずにはいられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ずにはいられない	（ずにはいられない）の例文2です。		（ずにはいられない）の例文2です。	Cannot help doing something, Cannot resist doing something	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ずにはいられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ずにはいられない	（ずにはいられない）の例文3です。		（ずにはいられない）の例文3です。	Cannot help doing something, Cannot resist doing something	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ずにはいられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ずにはいられない	（ずにはいられない）の例文4です。		（ずにはいられない）の例文4です。	Cannot help doing something, Cannot resist doing something	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ずにはいられない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ずにはいられない	（ずにはいられない）の例文5です。		（ずにはいられない）の例文5です。	Cannot help doing something, Cannot resist doing something	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ずにはいられない scaffold:pending-content scaffold:pending-audio source:bunpro

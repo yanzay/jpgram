@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using み	（み）の例文1です。		（み）の例文1です。	~ness, Used to indicate conditions or nature	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:み scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using み	（み）の例文2です。		（み）の例文2です。	~ness, Used to indicate conditions or nature	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:み scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using み	（み）の例文3です。		（み）の例文3です。	~ness, Used to indicate conditions or nature	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:み scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using み	（み）の例文4です。		（み）の例文4です。	~ness, Used to indicate conditions or nature	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:み scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using み	（み）の例文5です。		（み）の例文5です。	~ness, Used to indicate conditions or nature	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:み scaffold:pending-content scaffold:pending-audio source:bunpro

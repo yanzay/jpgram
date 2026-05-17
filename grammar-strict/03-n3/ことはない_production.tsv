@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ことはない	（ことはない）の例文1です。		（ことはない）の例文1です。	There is no need to, Never happens	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ことはない	（ことはない）の例文2です。		（ことはない）の例文2です。	There is no need to, Never happens	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ことはない	（ことはない）の例文3です。		（ことはない）の例文3です。	There is no need to, Never happens	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ことはない	（ことはない）の例文4です。		（ことはない）の例文4です。	There is no need to, Never happens	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ことはない	（ことはない）の例文5です。		（ことはない）の例文5です。	There is no need to, Never happens	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことはない scaffold:pending-content scaffold:pending-audio source:bunpro

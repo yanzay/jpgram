@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using Verb[ない]もの(だろう)か	（Verb[ない]もの(だろう)か）の例文1です。		（Verb[ない]もの(だろう)か）の例文1です。	(Why) can’t, Isn’t there, Wish that, If only	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:verb-ないもの-だろうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[ない]もの(だろう)か	（Verb[ない]もの(だろう)か）の例文2です。		（Verb[ない]もの(だろう)か）の例文2です。	(Why) can’t, Isn’t there, Wish that, If only	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:verb-ないもの-だろうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[ない]もの(だろう)か	（Verb[ない]もの(だろう)か）の例文3です。		（Verb[ない]もの(だろう)か）の例文3です。	(Why) can’t, Isn’t there, Wish that, If only	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:verb-ないもの-だろうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[ない]もの(だろう)か	（Verb[ない]もの(だろう)か）の例文4です。		（Verb[ない]もの(だろう)か）の例文4です。	(Why) can’t, Isn’t there, Wish that, If only	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:verb-ないもの-だろうか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[ない]もの(だろう)か	（Verb[ない]もの(だろう)か）の例文5です。		（Verb[ない]もの(だろう)か）の例文5です。	(Why) can’t, Isn’t there, Wish that, If only	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:verb-ないもの-だろうか scaffold:pending-content scaffold:pending-audio source:bunpro

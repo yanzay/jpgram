@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using わけがない	（わけがない）の例文1です。		（わけがない）の例文1です。	There is no way, There is no reason, It is impossible, Cannot be	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけがない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using わけがない	（わけがない）の例文2です。		（わけがない）の例文2です。	There is no way, There is no reason, It is impossible, Cannot be	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけがない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using わけがない	（わけがない）の例文3です。		（わけがない）の例文3です。	There is no way, There is no reason, It is impossible, Cannot be	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけがない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using わけがない	（わけがない）の例文4です。		（わけがない）の例文4です。	There is no way, There is no reason, It is impossible, Cannot be	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけがない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using わけがない	（わけがない）の例文5です。		（わけがない）の例文5です。	There is no way, There is no reason, It is impossible, Cannot be	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:わけがない scaffold:pending-content scaffold:pending-audio source:bunpro

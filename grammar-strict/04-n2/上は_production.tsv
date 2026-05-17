@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 上は	（上は）の例文1です。		（上は）の例文1です。	Once, Since, Now that, As long as	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 上は	（上は）の例文2です。		（上は）の例文2です。	Once, Since, Now that, As long as	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 上は	（上は）の例文3です。		（上は）の例文3です。	Once, Since, Now that, As long as	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 上は	（上は）の例文4です。		（上は）の例文4です。	Once, Since, Now that, As long as	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 上は	（上は）の例文5です。		（上は）の例文5です。	Once, Since, Now that, As long as	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:上は scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ところを見ると	（ところを見ると）の例文1です。		（ところを見ると）の例文1です。	Judging from, Seeing that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ところを見ると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ところを見ると	（ところを見ると）の例文2です。		（ところを見ると）の例文2です。	Judging from, Seeing that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ところを見ると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ところを見ると	（ところを見ると）の例文3です。		（ところを見ると）の例文3です。	Judging from, Seeing that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ところを見ると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ところを見ると	（ところを見ると）の例文4です。		（ところを見ると）の例文4です。	Judging from, Seeing that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ところを見ると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ところを見ると	（ところを見ると）の例文5です。		（ところを見ると）の例文5です。	Judging from, Seeing that	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ところを見ると scaffold:pending-content scaffold:pending-audio source:bunpro

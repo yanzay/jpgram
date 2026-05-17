@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ～てこそ	（～てこそ）の例文1です。		（～てこそ）の例文1です。	Only if, Because, By, Unless, Until	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:-てこそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～てこそ	（～てこそ）の例文2です。		（～てこそ）の例文2です。	Only if, Because, By, Unless, Until	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:-てこそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～てこそ	（～てこそ）の例文3です。		（～てこそ）の例文3です。	Only if, Because, By, Unless, Until	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:-てこそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～てこそ	（～てこそ）の例文4です。		（～てこそ）の例文4です。	Only if, Because, By, Unless, Until	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:-てこそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～てこそ	（～てこそ）の例文5です。		（～てこそ）の例文5です。	Only if, Because, By, Unless, Until	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:-てこそ scaffold:pending-content scaffold:pending-audio source:bunpro

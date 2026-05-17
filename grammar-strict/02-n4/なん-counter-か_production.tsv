@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using なん + counter + か	（なん + counter + か）の例文1です。		（なん + counter + か）の例文1です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なん + counter + か	（なん + counter + か）の例文2です。		（なん + counter + か）の例文2です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なん + counter + か	（なん + counter + か）の例文3です。		（なん + counter + か）の例文3です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なん + counter + か	（なん + counter + か）の例文4です。		（なん + counter + か）の例文4です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なん + counter + か	（なん + counter + か）の例文5です。		（なん + counter + か）の例文5です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro

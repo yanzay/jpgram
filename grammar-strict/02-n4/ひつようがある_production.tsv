@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ひつようがある	（ひつようがある）の例文1です。		（ひつようがある）の例文1です。	It is necessary to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ひつようがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ひつようがある	（ひつようがある）の例文2です。		（ひつようがある）の例文2です。	It is necessary to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ひつようがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ひつようがある	（ひつようがある）の例文3です。		（ひつようがある）の例文3です。	It is necessary to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ひつようがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ひつようがある	（ひつようがある）の例文4です。		（ひつようがある）の例文4です。	It is necessary to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ひつようがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ひつようがある	（ひつようがある）の例文5です。		（ひつようがある）の例文5です。	It is necessary to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ひつようがある scaffold:pending-content scaffold:pending-audio source:bunpro

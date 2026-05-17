@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using という	（という）の例文1です。		（という）の例文1です。	Called, Named, Known as, As much as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:という-called scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using という	（という）の例文2です。		（という）の例文2です。	Called, Named, Known as, As much as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:という-called scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using という	（という）の例文3です。		（という）の例文3です。	Called, Named, Known as, As much as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:という-called scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using という	（という）の例文4です。		（という）の例文4です。	Called, Named, Known as, As much as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:という-called scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using という	（という）の例文5です。		（という）の例文5です。	Called, Named, Known as, As much as	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:という-called scaffold:pending-content scaffold:pending-audio source:bunpro

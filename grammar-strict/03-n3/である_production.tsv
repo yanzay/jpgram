@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using である	（である）の例文1です。		（である）の例文1です。	Formal or literary だ, Authoritative, Copula	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:である scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using である	（である）の例文2です。		（である）の例文2です。	Formal or literary だ, Authoritative, Copula	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:である scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using である	（である）の例文3です。		（である）の例文3です。	Formal or literary だ, Authoritative, Copula	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:である scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using である	（である）の例文4です。		（である）の例文4です。	Formal or literary だ, Authoritative, Copula	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:である scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using である	（である）の例文5です。		（である）の例文5です。	Formal or literary だ, Authoritative, Copula	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:である scaffold:pending-content scaffold:pending-audio source:bunpro

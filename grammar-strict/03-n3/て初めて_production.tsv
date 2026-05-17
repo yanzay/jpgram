@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using て初めて	（て初めて）の例文1です。		（て初めて）の例文1です。	For the first time, Not until, Only after, Only when, Only because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:て初めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using て初めて	（て初めて）の例文2です。		（て初めて）の例文2です。	For the first time, Not until, Only after, Only when, Only because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:て初めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using て初めて	（て初めて）の例文3です。		（て初めて）の例文3です。	For the first time, Not until, Only after, Only when, Only because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:て初めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using て初めて	（て初めて）の例文4です。		（て初めて）の例文4です。	For the first time, Not until, Only after, Only when, Only because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:て初めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using て初めて	（て初めて）の例文5です。		（て初めて）の例文5です。	For the first time, Not until, Only after, Only when, Only because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:て初めて scaffold:pending-content scaffold:pending-audio source:bunpro

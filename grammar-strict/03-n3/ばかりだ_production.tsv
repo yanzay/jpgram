@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ばかりだ	（ばかりだ）の例文1です。		（ばかりだ）の例文1です。	(Only) continue to, Keep on -ing, More and more	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばかりだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ばかりだ	（ばかりだ）の例文2です。		（ばかりだ）の例文2です。	(Only) continue to, Keep on -ing, More and more	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばかりだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ばかりだ	（ばかりだ）の例文3です。		（ばかりだ）の例文3です。	(Only) continue to, Keep on -ing, More and more	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばかりだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ばかりだ	（ばかりだ）の例文4です。		（ばかりだ）の例文4です。	(Only) continue to, Keep on -ing, More and more	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばかりだ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ばかりだ	（ばかりだ）の例文5です。		（ばかりだ）の例文5です。	(Only) continue to, Keep on -ing, More and more	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばかりだ scaffold:pending-content scaffold:pending-audio source:bunpro

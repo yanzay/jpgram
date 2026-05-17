@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using お～願う	（お～願う）の例文1です。		（お～願う）の例文1です。	Please, Could you please	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:お-願う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using お～願う	（お～願う）の例文2です。		（お～願う）の例文2です。	Please, Could you please	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:お-願う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using お～願う	（お～願う）の例文3です。		（お～願う）の例文3です。	Please, Could you please	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:お-願う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using お～願う	（お～願う）の例文4です。		（お～願う）の例文4です。	Please, Could you please	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:お-願う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using お～願う	（お～願う）の例文5です。		（お～願う）の例文5です。	Please, Could you please	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:お-願う scaffold:pending-content scaffold:pending-audio source:bunpro

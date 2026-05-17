@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ほとんど	（ほとんど）の例文1です。		（ほとんど）の例文1です。	Almost all, Most, Hardly any, Few (Adverbial noun)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほとんど scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ほとんど	（ほとんど）の例文2です。		（ほとんど）の例文2です。	Almost all, Most, Hardly any, Few (Adverbial noun)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほとんど scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ほとんど	（ほとんど）の例文3です。		（ほとんど）の例文3です。	Almost all, Most, Hardly any, Few (Adverbial noun)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほとんど scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ほとんど	（ほとんど）の例文4です。		（ほとんど）の例文4です。	Almost all, Most, Hardly any, Few (Adverbial noun)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほとんど scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ほとんど	（ほとんど）の例文5です。		（ほとんど）の例文5です。	Almost all, Most, Hardly any, Few (Adverbial noun)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほとんど scaffold:pending-content scaffold:pending-audio source:bunpro

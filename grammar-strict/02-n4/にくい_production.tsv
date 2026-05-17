@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using にくい	（にくい）の例文1です。		（にくい）の例文1です。	Difficult to, Hard to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にくい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using にくい	（にくい）の例文2です。		（にくい）の例文2です。	Difficult to, Hard to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にくい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using にくい	（にくい）の例文3です。		（にくい）の例文3です。	Difficult to, Hard to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にくい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using にくい	（にくい）の例文4です。		（にくい）の例文4です。	Difficult to, Hard to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にくい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using にくい	（にくい）の例文5です。		（にくい）の例文5です。	Difficult to, Hard to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にくい scaffold:pending-content scaffold:pending-audio source:bunpro

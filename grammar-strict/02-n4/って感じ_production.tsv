@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using って感じ	（って感じ）の例文1です。		（って感じ）の例文1です。	Kind of thing, Kind of vibe, Kind of feeling	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:って感じ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using って感じ	（って感じ）の例文2です。		（って感じ）の例文2です。	Kind of thing, Kind of vibe, Kind of feeling	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:って感じ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using って感じ	（って感じ）の例文3です。		（って感じ）の例文3です。	Kind of thing, Kind of vibe, Kind of feeling	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:って感じ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using って感じ	（って感じ）の例文4です。		（って感じ）の例文4です。	Kind of thing, Kind of vibe, Kind of feeling	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:って感じ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using って感じ	（って感じ）の例文5です。		（って感じ）の例文5です。	Kind of thing, Kind of vibe, Kind of feeling	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:って感じ scaffold:pending-content scaffold:pending-audio source:bunpro

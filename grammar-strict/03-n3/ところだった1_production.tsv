@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ところだった ①	（ところだった ①）の例文1です。		（ところだった ①）の例文1です。	Almost, Nearly, About to, On the verge of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ところだった1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ところだった ①	（ところだった ①）の例文2です。		（ところだった ①）の例文2です。	Almost, Nearly, About to, On the verge of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ところだった1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ところだった ①	（ところだった ①）の例文3です。		（ところだった ①）の例文3です。	Almost, Nearly, About to, On the verge of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ところだった1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ところだった ①	（ところだった ①）の例文4です。		（ところだった ①）の例文4です。	Almost, Nearly, About to, On the verge of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ところだった1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ところだった ①	（ところだった ①）の例文5です。		（ところだった ①）の例文5です。	Almost, Nearly, About to, On the verge of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ところだった1 scaffold:pending-content scaffold:pending-audio source:bunpro

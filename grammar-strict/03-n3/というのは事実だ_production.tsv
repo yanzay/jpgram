@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ～というのは事実だ	（～というのは事実だ）の例文1です。		（～というのは事実だ）の例文1です。	It is a fact that ~, There is no doubt that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というのは事実だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～というのは事実だ	（～というのは事実だ）の例文2です。		（～というのは事実だ）の例文2です。	It is a fact that ~, There is no doubt that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というのは事実だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～というのは事実だ	（～というのは事実だ）の例文3です。		（～というのは事実だ）の例文3です。	It is a fact that ~, There is no doubt that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というのは事実だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～というのは事実だ	（～というのは事実だ）の例文4です。		（～というのは事実だ）の例文4です。	It is a fact that ~, There is no doubt that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というのは事実だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～というのは事実だ	（～というのは事実だ）の例文5です。		（～というのは事実だ）の例文5です。	It is a fact that ~, There is no doubt that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というのは事実だ scaffold:pending-content scaffold:pending-audio source:bunpro

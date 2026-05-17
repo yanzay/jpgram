@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using といえども	（といえども）の例文1です。		（といえども）の例文1です。	Even (if), Although, Even though	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:といえども scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using といえども	（といえども）の例文2です。		（といえども）の例文2です。	Even (if), Although, Even though	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:といえども scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using といえども	（といえども）の例文3です。		（といえども）の例文3です。	Even (if), Although, Even though	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:といえども scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using といえども	（といえども）の例文4です。		（といえども）の例文4です。	Even (if), Although, Even though	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:といえども scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using といえども	（といえども）の例文5です。		（といえども）の例文5です。	Even (if), Although, Even though	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:といえども scaffold:pending-content scaffold:pending-audio source:bunpro

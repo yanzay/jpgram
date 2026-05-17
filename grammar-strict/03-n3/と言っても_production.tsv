@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using  ～と言っても	（ ～と言っても）の例文1です。		（ ～と言っても）の例文1です。	Although ~ might say that ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言っても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using  ～と言っても	（ ～と言っても）の例文2です。		（ ～と言っても）の例文2です。	Although ~ might say that ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言っても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using  ～と言っても	（ ～と言っても）の例文3です。		（ ～と言っても）の例文3です。	Although ~ might say that ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言っても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using  ～と言っても	（ ～と言っても）の例文4です。		（ ～と言っても）の例文4です。	Although ~ might say that ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言っても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using  ～と言っても	（ ～と言っても）の例文5です。		（ ～と言っても）の例文5です。	Although ~ might say that ~	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:と言っても scaffold:pending-content scaffold:pending-audio source:bunpro

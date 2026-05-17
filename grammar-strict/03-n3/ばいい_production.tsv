@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ばいい	（ばいい）の例文1です。		（ばいい）の例文1です。	Can, Should, It'd be good if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ばいい	（ばいい）の例文2です。		（ばいい）の例文2です。	Can, Should, It'd be good if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ばいい	（ばいい）の例文3です。		（ばいい）の例文3です。	Can, Should, It'd be good if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ばいい	（ばいい）の例文4です。		（ばいい）の例文4です。	Can, Should, It'd be good if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ばいい	（ばいい）の例文5です。		（ばいい）の例文5です。	Can, Should, It'd be good if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ばいい scaffold:pending-content scaffold:pending-audio source:bunpro

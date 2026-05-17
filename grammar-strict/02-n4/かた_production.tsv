@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using かた	（かた）の例文1です。		（かた）の例文1です。	Way of ~ing, How to ~, Manner of ~ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using かた	（かた）の例文2です。		（かた）の例文2です。	Way of ~ing, How to ~, Manner of ~ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using かた	（かた）の例文3です。		（かた）の例文3です。	Way of ~ing, How to ~, Manner of ~ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using かた	（かた）の例文4です。		（かた）の例文4です。	Way of ~ing, How to ~, Manner of ~ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using かた	（かた）の例文5です。		（かた）の例文5です。	Way of ~ing, How to ~, Manner of ~ing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かた scaffold:pending-content scaffold:pending-audio source:bunpro

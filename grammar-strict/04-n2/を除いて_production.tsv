@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using を除いて	（を除いて）の例文1です。		（を除いて）の例文1です。	Except, With the exception of, Unless	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を除いて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using を除いて	（を除いて）の例文2です。		（を除いて）の例文2です。	Except, With the exception of, Unless	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を除いて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using を除いて	（を除いて）の例文3です。		（を除いて）の例文3です。	Except, With the exception of, Unless	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を除いて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using を除いて	（を除いて）の例文4です。		（を除いて）の例文4です。	Except, With the exception of, Unless	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を除いて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using を除いて	（を除いて）の例文5です。		（を除いて）の例文5です。	Except, With the exception of, Unless	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を除いて scaffold:pending-content scaffold:pending-audio source:bunpro

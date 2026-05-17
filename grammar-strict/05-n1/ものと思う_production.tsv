@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using ものと思う	（ものと思う）の例文1です。		（ものと思う）の例文1です。	Think that, Believe that, Expect that, Have confidence that, Absolutely	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものと思う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ものと思う	（ものと思う）の例文2です。		（ものと思う）の例文2です。	Think that, Believe that, Expect that, Have confidence that, Absolutely	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものと思う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ものと思う	（ものと思う）の例文3です。		（ものと思う）の例文3です。	Think that, Believe that, Expect that, Have confidence that, Absolutely	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものと思う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ものと思う	（ものと思う）の例文4です。		（ものと思う）の例文4です。	Think that, Believe that, Expect that, Have confidence that, Absolutely	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものと思う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ものと思う	（ものと思う）の例文5です。		（ものと思う）の例文5です。	Think that, Believe that, Expect that, Have confidence that, Absolutely	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ものと思う scaffold:pending-content scaffold:pending-audio source:bunpro

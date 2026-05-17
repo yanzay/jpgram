@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using しかしながら	（しかしながら）の例文1です。		（しかしながら）の例文1です。	However, Nevertheless, But	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:しかしながら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using しかしながら	（しかしながら）の例文2です。		（しかしながら）の例文2です。	However, Nevertheless, But	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:しかしながら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using しかしながら	（しかしながら）の例文3です。		（しかしながら）の例文3です。	However, Nevertheless, But	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:しかしながら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using しかしながら	（しかしながら）の例文4です。		（しかしながら）の例文4です。	However, Nevertheless, But	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:しかしながら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using しかしながら	（しかしながら）の例文5です。		（しかしながら）の例文5です。	However, Nevertheless, But	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:しかしながら scaffold:pending-content scaffold:pending-audio source:bunpro

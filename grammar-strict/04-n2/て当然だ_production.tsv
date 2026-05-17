@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using て当然だ	（て当然だ）の例文1です。		（て当然だ）の例文1です。	Natural, As a matter of course	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using て当然だ	（て当然だ）の例文2です。		（て当然だ）の例文2です。	Natural, As a matter of course	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using て当然だ	（て当然だ）の例文3です。		（て当然だ）の例文3です。	Natural, As a matter of course	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using て当然だ	（て当然だ）の例文4です。		（て当然だ）の例文4です。	Natural, As a matter of course	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using て当然だ	（て当然だ）の例文5です。		（て当然だ）の例文5です。	Natural, As a matter of course	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:て当然だ scaffold:pending-content scaffold:pending-audio source:bunpro

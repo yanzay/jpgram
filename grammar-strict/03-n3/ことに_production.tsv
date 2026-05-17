@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ことに	（ことに）の例文1です。		（ことに）の例文1です。	Extremely, Especially, To my ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ことに	（ことに）の例文2です。		（ことに）の例文2です。	Extremely, Especially, To my ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ことに	（ことに）の例文3です。		（ことに）の例文3です。	Extremely, Especially, To my ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ことに	（ことに）の例文4です。		（ことに）の例文4です。	Extremely, Especially, To my ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ことに	（ことに）の例文5です。		（ことに）の例文5です。	Extremely, Especially, To my ...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ことに scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using もし	（もし）の例文1です。		（もし）の例文1です。	If (For emphasis)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:もし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using もし	（もし）の例文2です。		（もし）の例文2です。	If (For emphasis)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:もし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using もし	（もし）の例文3です。		（もし）の例文3です。	If (For emphasis)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:もし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using もし	（もし）の例文4です。		（もし）の例文4です。	If (For emphasis)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:もし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using もし	（もし）の例文5です。		（もし）の例文5です。	If (For emphasis)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:もし scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using といわれている	（といわれている）の例文1です。		（といわれている）の例文1です。	It is said that, Is known as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といわれている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using といわれている	（といわれている）の例文2です。		（といわれている）の例文2です。	It is said that, Is known as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といわれている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using といわれている	（といわれている）の例文3です。		（といわれている）の例文3です。	It is said that, Is known as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といわれている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using といわれている	（といわれている）の例文4です。		（といわれている）の例文4です。	It is said that, Is known as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といわれている scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using といわれている	（といわれている）の例文5です。		（といわれている）の例文5です。	It is said that, Is known as	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といわれている scaffold:pending-content scaffold:pending-audio source:bunpro

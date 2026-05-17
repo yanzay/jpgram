@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 気	（気）の例文1です。		（気）の例文1です。	Feel like ~, Spirit	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:気 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 気	（気）の例文2です。		（気）の例文2です。	Feel like ~, Spirit	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:気 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 気	（気）の例文3です。		（気）の例文3です。	Feel like ~, Spirit	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:気 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 気	（気）の例文4です。		（気）の例文4です。	Feel like ~, Spirit	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:気 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 気	（気）の例文5です。		（気）の例文5です。	Feel like ~, Spirit	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:気 scaffold:pending-content scaffold:pending-audio source:bunpro

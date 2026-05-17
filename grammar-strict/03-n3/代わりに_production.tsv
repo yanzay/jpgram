@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 代わりに	（代わりに）の例文1です。		（代わりに）の例文1です。	Instead of,  In place of, In exchange for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:代わりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 代わりに	（代わりに）の例文2です。		（代わりに）の例文2です。	Instead of,  In place of, In exchange for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:代わりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 代わりに	（代わりに）の例文3です。		（代わりに）の例文3です。	Instead of,  In place of, In exchange for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:代わりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 代わりに	（代わりに）の例文4です。		（代わりに）の例文4です。	Instead of,  In place of, In exchange for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:代わりに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 代わりに	（代わりに）の例文5です。		（代わりに）の例文5です。	Instead of,  In place of, In exchange for	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:代わりに scaffold:pending-content scaffold:pending-audio source:bunpro

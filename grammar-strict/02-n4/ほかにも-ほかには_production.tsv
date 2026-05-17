@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ほかに(も)・ほか(に)は	（ほかに(も)・ほか(に)は）の例文1です。		（ほかに(も)・ほか(に)は）の例文1です。	Other, Another, Any other, Anything else, As well as, Besides, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ほかに(も)・ほか(に)は	（ほかに(も)・ほか(に)は）の例文2です。		（ほかに(も)・ほか(に)は）の例文2です。	Other, Another, Any other, Anything else, As well as, Besides, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ほかに(も)・ほか(に)は	（ほかに(も)・ほか(に)は）の例文3です。		（ほかに(も)・ほか(に)は）の例文3です。	Other, Another, Any other, Anything else, As well as, Besides, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ほかに(も)・ほか(に)は	（ほかに(も)・ほか(に)は）の例文4です。		（ほかに(も)・ほか(に)は）の例文4です。	Other, Another, Any other, Anything else, As well as, Besides, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ほかに(も)・ほか(に)は	（ほかに(も)・ほか(に)は）の例文5です。		（ほかに(も)・ほか(に)は）の例文5です。	Other, Another, Any other, Anything else, As well as, Besides, In addition	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには scaffold:pending-content scaffold:pending-audio source:bunpro

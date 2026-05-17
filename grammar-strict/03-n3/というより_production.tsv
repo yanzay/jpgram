@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using というより	（というより）の例文1です。		（というより）の例文1です。	...is more of a... than a..., Rather than saying that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というより scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using というより	（というより）の例文2です。		（というより）の例文2です。	...is more of a... than a..., Rather than saying that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というより scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using というより	（というより）の例文3です。		（というより）の例文3です。	...is more of a... than a..., Rather than saying that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というより scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using というより	（というより）の例文4です。		（というより）の例文4です。	...is more of a... than a..., Rather than saying that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というより scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using というより	（というより）の例文5です。		（というより）の例文5です。	...is more of a... than a..., Rather than saying that...	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:というより scaffold:pending-content scaffold:pending-audio source:bunpro

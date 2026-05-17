@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ことだから	（ことだから）の例文1です。		（ことだから）の例文1です。	It is exactly because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことだから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ことだから	（ことだから）の例文2です。		（ことだから）の例文2です。	It is exactly because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことだから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ことだから	（ことだから）の例文3です。		（ことだから）の例文3です。	It is exactly because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことだから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ことだから	（ことだから）の例文4です。		（ことだから）の例文4です。	It is exactly because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことだから scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ことだから	（ことだから）の例文5です。		（ことだから）の例文5です。	It is exactly because	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことだから scaffold:pending-content scaffold:pending-audio source:bunpro

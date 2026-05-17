@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ないことはない	（ないことはない）の例文1です。		（ないことはない）の例文1です。	Is not impossible, It doesn't mean that it isn't	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ないことはない	（ないことはない）の例文2です。		（ないことはない）の例文2です。	Is not impossible, It doesn't mean that it isn't	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ないことはない	（ないことはない）の例文3です。		（ないことはない）の例文3です。	Is not impossible, It doesn't mean that it isn't	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ないことはない	（ないことはない）の例文4です。		（ないことはない）の例文4です。	Is not impossible, It doesn't mean that it isn't	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないことはない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ないことはない	（ないことはない）の例文5です。		（ないことはない）の例文5です。	Is not impossible, It doesn't mean that it isn't	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ないことはない scaffold:pending-content scaffold:pending-audio source:bunpro

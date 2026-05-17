@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using 以上 ①	（以上 ①）の例文1です。		（以上 ①）の例文1です。	More than (or equal to), Over・(and) above, Any more・Greater, Exceeding	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:以上1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 以上 ①	（以上 ①）の例文2です。		（以上 ①）の例文2です。	More than (or equal to), Over・(and) above, Any more・Greater, Exceeding	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:以上1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 以上 ①	（以上 ①）の例文3です。		（以上 ①）の例文3です。	More than (or equal to), Over・(and) above, Any more・Greater, Exceeding	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:以上1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 以上 ①	（以上 ①）の例文4です。		（以上 ①）の例文4です。	More than (or equal to), Over・(and) above, Any more・Greater, Exceeding	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:以上1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 以上 ①	（以上 ①）の例文5です。		（以上 ①）の例文5です。	More than (or equal to), Over・(and) above, Any more・Greater, Exceeding	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:以上1 scaffold:pending-content scaffold:pending-audio source:bunpro

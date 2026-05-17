@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using かもしれない	（かもしれない）の例文1です。		（かもしれない）の例文1です。	Might, Maybe, Probably	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かもしれない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using かもしれない	（かもしれない）の例文2です。		（かもしれない）の例文2です。	Might, Maybe, Probably	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かもしれない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using かもしれない	（かもしれない）の例文3です。		（かもしれない）の例文3です。	Might, Maybe, Probably	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かもしれない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using かもしれない	（かもしれない）の例文4です。		（かもしれない）の例文4です。	Might, Maybe, Probably	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かもしれない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using かもしれない	（かもしれない）の例文5です。		（かもしれない）の例文5です。	Might, Maybe, Probably	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かもしれない scaffold:pending-content scaffold:pending-audio source:bunpro

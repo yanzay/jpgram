@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using あるいは	（あるいは）の例文1です。		（あるいは）の例文1です。	Or, Possibly, Maybe, Perhaps, Or possibly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あるいは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using あるいは	（あるいは）の例文2です。		（あるいは）の例文2です。	Or, Possibly, Maybe, Perhaps, Or possibly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あるいは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using あるいは	（あるいは）の例文3です。		（あるいは）の例文3です。	Or, Possibly, Maybe, Perhaps, Or possibly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あるいは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using あるいは	（あるいは）の例文4です。		（あるいは）の例文4です。	Or, Possibly, Maybe, Perhaps, Or possibly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あるいは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using あるいは	（あるいは）の例文5です。		（あるいは）の例文5です。	Or, Possibly, Maybe, Perhaps, Or possibly	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:あるいは scaffold:pending-content scaffold:pending-audio source:bunpro

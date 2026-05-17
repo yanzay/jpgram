@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using など	（など）の例文1です。		（など）の例文1です。	Such as, Things like, Etc., And so on	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:など scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using など	（など）の例文2です。		（など）の例文2です。	Such as, Things like, Etc., And so on	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:など scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using など	（など）の例文3です。		（など）の例文3です。	Such as, Things like, Etc., And so on	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:など scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using など	（など）の例文4です。		（など）の例文4です。	Such as, Things like, Etc., And so on	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:など scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using など	（など）の例文5です。		（など）の例文5です。	Such as, Things like, Etc., And so on	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:など scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using のも当然だ	（のも当然だ）の例文1です。		（のも当然だ）の例文1です。	It is only natural that, It is no wonder	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のも当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using のも当然だ	（のも当然だ）の例文2です。		（のも当然だ）の例文2です。	It is only natural that, It is no wonder	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のも当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using のも当然だ	（のも当然だ）の例文3です。		（のも当然だ）の例文3です。	It is only natural that, It is no wonder	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のも当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using のも当然だ	（のも当然だ）の例文4です。		（のも当然だ）の例文4です。	It is only natural that, It is no wonder	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のも当然だ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using のも当然だ	（のも当然だ）の例文5です。		（のも当然だ）の例文5です。	It is only natural that, It is no wonder	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:のも当然だ scaffold:pending-content scaffold:pending-audio source:bunpro

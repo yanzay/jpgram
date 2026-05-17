@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using といってもいい	（といってもいい）の例文1です。		（といってもいい）の例文1です。	You could say, You might say	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といってもいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using といってもいい	（といってもいい）の例文2です。		（といってもいい）の例文2です。	You could say, You might say	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といってもいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using といってもいい	（といってもいい）の例文3です。		（といってもいい）の例文3です。	You could say, You might say	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といってもいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using といってもいい	（といってもいい）の例文4です。		（といってもいい）の例文4です。	You could say, You might say	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といってもいい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using といってもいい	（といってもいい）の例文5です。		（といってもいい）の例文5です。	You could say, You might say	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といってもいい scaffold:pending-content scaffold:pending-audio source:bunpro

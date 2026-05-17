@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Verb[よう]	（Verb[よう]）の例文1です。		（Verb[よう]）の例文1です。	Let's, I shall (Casual volitional)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:よう-おう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[よう]	（Verb[よう]）の例文2です。		（Verb[よう]）の例文2です。	Let's, I shall (Casual volitional)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:よう-おう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[よう]	（Verb[よう]）の例文3です。		（Verb[よう]）の例文3です。	Let's, I shall (Casual volitional)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:よう-おう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[よう]	（Verb[よう]）の例文4です。		（Verb[よう]）の例文4です。	Let's, I shall (Casual volitional)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:よう-おう scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[よう]	（Verb[よう]）の例文5です。		（Verb[よう]）の例文5です。	Let's, I shall (Casual volitional)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:よう-おう scaffold:pending-content scaffold:pending-audio source:bunpro

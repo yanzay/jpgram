@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using らしい ①	（らしい ①）の例文1です。		（らしい ①）の例文1です。	Seems like, Apparently, I heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:らしい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using らしい ①	（らしい ①）の例文2です。		（らしい ①）の例文2です。	Seems like, Apparently, I heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:らしい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using らしい ①	（らしい ①）の例文3です。		（らしい ①）の例文3です。	Seems like, Apparently, I heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:らしい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using らしい ①	（らしい ①）の例文4です。		（らしい ①）の例文4です。	Seems like, Apparently, I heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:らしい1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using らしい ①	（らしい ①）の例文5です。		（らしい ①）の例文5です。	Seems like, Apparently, I heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:らしい1 scaffold:pending-content scaffold:pending-audio source:bunpro

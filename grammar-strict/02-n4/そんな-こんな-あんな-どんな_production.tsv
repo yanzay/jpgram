@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using そんな・こんな・あんな・どんな	（そんな・こんな・あんな・どんな）の例文1です。		（そんな・こんな・あんな・どんな）の例文1です。	Such a・Kind of, Something like ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そんな-こんな-あんな-どんな scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そんな・こんな・あんな・どんな	（そんな・こんな・あんな・どんな）の例文2です。		（そんな・こんな・あんな・どんな）の例文2です。	Such a・Kind of, Something like ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そんな-こんな-あんな-どんな scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そんな・こんな・あんな・どんな	（そんな・こんな・あんな・どんな）の例文3です。		（そんな・こんな・あんな・どんな）の例文3です。	Such a・Kind of, Something like ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そんな-こんな-あんな-どんな scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そんな・こんな・あんな・どんな	（そんな・こんな・あんな・どんな）の例文4です。		（そんな・こんな・あんな・どんな）の例文4です。	Such a・Kind of, Something like ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そんな-こんな-あんな-どんな scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そんな・こんな・あんな・どんな	（そんな・こんな・あんな・どんな）の例文5です。		（そんな・こんな・あんな・どんな）の例文5です。	Such a・Kind of, Something like ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:そんな-こんな-あんな-どんな scaffold:pending-content scaffold:pending-audio source:bunpro

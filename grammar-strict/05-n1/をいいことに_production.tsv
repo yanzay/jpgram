@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using をいいことに	（をいいことに）の例文1です。		（をいいことに）の例文1です。	To take advantage of	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をいいことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using をいいことに	（をいいことに）の例文2です。		（をいいことに）の例文2です。	To take advantage of	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をいいことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using をいいことに	（をいいことに）の例文3です。		（をいいことに）の例文3です。	To take advantage of	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をいいことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using をいいことに	（をいいことに）の例文4です。		（をいいことに）の例文4です。	To take advantage of	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をいいことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using をいいことに	（をいいことに）の例文5です。		（をいいことに）の例文5です。	To take advantage of	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:をいいことに scaffold:pending-content scaffold:pending-audio source:bunpro

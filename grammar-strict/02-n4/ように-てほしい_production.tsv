@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ように～てほしい	（ように～てほしい）の例文1です。		（ように～てほしい）の例文1です。	Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ように-てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ように～てほしい	（ように～てほしい）の例文2です。		（ように～てほしい）の例文2です。	Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ように-てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ように～てほしい	（ように～てほしい）の例文3です。		（ように～てほしい）の例文3です。	Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ように-てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ように～てほしい	（ように～てほしい）の例文4です。		（ように～てほしい）の例文4です。	Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ように-てほしい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ように～てほしい	（ように～てほしい）の例文5です。		（ように～てほしい）の例文5です。	Want ~ to ~ like ~, Want ~ to be able to ~, Want ~ to ~ in the way of ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ように-てほしい scaffold:pending-content scaffold:pending-audio source:bunpro

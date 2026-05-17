@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ぬ	（ぬ）の例文1です。		（ぬ）の例文1です。	Classical negative, Classical verb [ない]	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ぬ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ぬ	（ぬ）の例文2です。		（ぬ）の例文2です。	Classical negative, Classical verb [ない]	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ぬ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ぬ	（ぬ）の例文3です。		（ぬ）の例文3です。	Classical negative, Classical verb [ない]	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ぬ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ぬ	（ぬ）の例文4です。		（ぬ）の例文4です。	Classical negative, Classical verb [ない]	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ぬ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ぬ	（ぬ）の例文5です。		（ぬ）の例文5です。	Classical negative, Classical verb [ない]	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ぬ scaffold:pending-content scaffold:pending-audio source:bunpro

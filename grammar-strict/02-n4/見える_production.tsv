@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using 見える	（見える）の例文1です。		（見える）の例文1です。	To be visible, To seem, To be in sight	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:見える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 見える	（見える）の例文2です。		（見える）の例文2です。	To be visible, To seem, To be in sight	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:見える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 見える	（見える）の例文3です。		（見える）の例文3です。	To be visible, To seem, To be in sight	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:見える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 見える	（見える）の例文4です。		（見える）の例文4です。	To be visible, To seem, To be in sight	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:見える scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 見える	（見える）の例文5です。		（見える）の例文5です。	To be visible, To seem, To be in sight	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:見える scaffold:pending-content scaffold:pending-audio source:bunpro

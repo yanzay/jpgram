@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using た末・の末	（た末・の末）の例文1です。		（た末・の末）の例文1です。	After, As a conclusion of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:た末-の末 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using た末・の末	（た末・の末）の例文2です。		（た末・の末）の例文2です。	After, As a conclusion of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:た末-の末 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using た末・の末	（た末・の末）の例文3です。		（た末・の末）の例文3です。	After, As a conclusion of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:た末-の末 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using た末・の末	（た末・の末）の例文4です。		（た末・の末）の例文4です。	After, As a conclusion of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:た末-の末 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using た末・の末	（た末・の末）の例文5です。		（た末・の末）の例文5です。	After, As a conclusion of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:た末-の末 scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using とか	（とか）の例文1です。		（とか）の例文1です。	I heard that… something like, They said ... or something 	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:とか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using とか	（とか）の例文2です。		（とか）の例文2です。	I heard that… something like, They said ... or something 	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:とか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using とか	（とか）の例文3です。		（とか）の例文3です。	I heard that… something like, They said ... or something 	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:とか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using とか	（とか）の例文4です。		（とか）の例文4です。	I heard that… something like, They said ... or something 	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:とか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using とか	（とか）の例文5です。		（とか）の例文5です。	I heard that… something like, They said ... or something 	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:とか scaffold:pending-content scaffold:pending-audio source:bunpro

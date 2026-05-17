@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using づらい	（づらい）の例文1です。		（づらい）の例文1です。	Hard to, Tough to, Painful to, Difficult to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:づらい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using づらい	（づらい）の例文2です。		（づらい）の例文2です。	Hard to, Tough to, Painful to, Difficult to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:づらい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using づらい	（づらい）の例文3です。		（づらい）の例文3です。	Hard to, Tough to, Painful to, Difficult to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:づらい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using づらい	（づらい）の例文4です。		（づらい）の例文4です。	Hard to, Tough to, Painful to, Difficult to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:づらい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using づらい	（づらい）の例文5です。		（づらい）の例文5です。	Hard to, Tough to, Painful to, Difficult to	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:づらい scaffold:pending-content scaffold:pending-audio source:bunpro

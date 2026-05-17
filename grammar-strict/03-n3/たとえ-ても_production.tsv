@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using たとえ〜ても	（たとえ〜ても）の例文1です。		（たとえ〜ても）の例文1です。	Even if…is the case, Supposing that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たとえ-ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using たとえ〜ても	（たとえ〜ても）の例文2です。		（たとえ〜ても）の例文2です。	Even if…is the case, Supposing that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たとえ-ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using たとえ〜ても	（たとえ〜ても）の例文3です。		（たとえ〜ても）の例文3です。	Even if…is the case, Supposing that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たとえ-ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using たとえ〜ても	（たとえ〜ても）の例文4です。		（たとえ〜ても）の例文4です。	Even if…is the case, Supposing that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たとえ-ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using たとえ〜ても	（たとえ〜ても）の例文5です。		（たとえ〜ても）の例文5です。	Even if…is the case, Supposing that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:たとえ-ても scaffold:pending-content scaffold:pending-audio source:bunpro

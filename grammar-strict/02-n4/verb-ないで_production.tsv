@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Verb[ないで]	（Verb[ないで]）の例文1です。		（Verb[ないで]）の例文1です。	(Please) do not (for me), Casual request	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verb-ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[ないで]	（Verb[ないで]）の例文2です。		（Verb[ないで]）の例文2です。	(Please) do not (for me), Casual request	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verb-ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[ないで]	（Verb[ないで]）の例文3です。		（Verb[ないで]）の例文3です。	(Please) do not (for me), Casual request	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verb-ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[ないで]	（Verb[ないで]）の例文4です。		（Verb[ないで]）の例文4です。	(Please) do not (for me), Casual request	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verb-ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[ないで]	（Verb[ないで]）の例文5です。		（Verb[ないで]）の例文5です。	(Please) do not (for me), Casual request	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verb-ないで scaffold:pending-content scaffold:pending-audio source:bunpro

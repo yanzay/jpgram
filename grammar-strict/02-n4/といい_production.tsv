@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using といい	（といい）の例文1です。		（といい）の例文1です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using といい	（といい）の例文2です。		（といい）の例文2です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using といい	（といい）の例文3です。		（といい）の例文3です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using といい	（といい）の例文4です。		（といい）の例文4です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using といい	（といい）の例文5です。		（といい）の例文5です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro

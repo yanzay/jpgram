@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using を込めて	（を込めて）の例文1です。		（を込めて）の例文1です。	Full of, Filled with, With ～	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を込めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using を込めて	（を込めて）の例文2です。		（を込めて）の例文2です。	Full of, Filled with, With ～	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を込めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using を込めて	（を込めて）の例文3です。		（を込めて）の例文3です。	Full of, Filled with, With ～	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を込めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using を込めて	（を込めて）の例文4です。		（を込めて）の例文4です。	Full of, Filled with, With ～	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を込めて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using を込めて	（を込めて）の例文5です。		（を込めて）の例文5です。	Full of, Filled with, With ～	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を込めて scaffold:pending-content scaffold:pending-audio source:bunpro

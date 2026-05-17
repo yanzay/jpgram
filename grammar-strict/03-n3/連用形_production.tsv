@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 連用形	（連用形）の例文1です。		（連用形）の例文1です。	Formal Conjunctive	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:連用形 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 連用形	（連用形）の例文2です。		（連用形）の例文2です。	Formal Conjunctive	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:連用形 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 連用形	（連用形）の例文3です。		（連用形）の例文3です。	Formal Conjunctive	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:連用形 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 連用形	（連用形）の例文4です。		（連用形）の例文4です。	Formal Conjunctive	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:連用形 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 連用形	（連用形）の例文5です。		（連用形）の例文5です。	Formal Conjunctive	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:連用形 scaffold:pending-content scaffold:pending-audio source:bunpro

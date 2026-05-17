@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Number/Amount + は	（Number/Amount + は）の例文1です。		（Number/Amount + は）の例文1です。	At least, Sort of, Or so	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-amount-は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Number/Amount + は	（Number/Amount + は）の例文2です。		（Number/Amount + は）の例文2です。	At least, Sort of, Or so	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-amount-は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Number/Amount + は	（Number/Amount + は）の例文3です。		（Number/Amount + は）の例文3です。	At least, Sort of, Or so	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-amount-は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Number/Amount + は	（Number/Amount + は）の例文4です。		（Number/Amount + は）の例文4です。	At least, Sort of, Or so	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-amount-は scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Number/Amount + は	（Number/Amount + は）の例文5です。		（Number/Amount + は）の例文5です。	At least, Sort of, Or so	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-amount-は scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using さ	（さ）の例文1です。		（さ）の例文1です。	Converting adjectives to nouns	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:さ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using さ	（さ）の例文2です。		（さ）の例文2です。	Converting adjectives to nouns	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:さ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using さ	（さ）の例文3です。		（さ）の例文3です。	Converting adjectives to nouns	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:さ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using さ	（さ）の例文4です。		（さ）の例文4です。	Converting adjectives to nouns	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:さ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using さ	（さ）の例文5です。		（さ）の例文5です。	Converting adjectives to nouns	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:さ scaffold:pending-content scaffold:pending-audio source:bunpro

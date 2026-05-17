@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using おおよそ	（おおよそ）の例文1です。		（おおよそ）の例文1です。	Approximately, Roughly, About, Outline, Gist	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:おおよそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using おおよそ	（おおよそ）の例文2です。		（おおよそ）の例文2です。	Approximately, Roughly, About, Outline, Gist	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:おおよそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using おおよそ	（おおよそ）の例文3です。		（おおよそ）の例文3です。	Approximately, Roughly, About, Outline, Gist	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:おおよそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using おおよそ	（おおよそ）の例文4です。		（おおよそ）の例文4です。	Approximately, Roughly, About, Outline, Gist	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:おおよそ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using おおよそ	（おおよそ）の例文5です。		（おおよそ）の例文5です。	Approximately, Roughly, About, Outline, Gist	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:おおよそ scaffold:pending-content scaffold:pending-audio source:bunpro

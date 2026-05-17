@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using まさか	（まさか）の例文1です。		（まさか）の例文1です。	I never dreamed, Never, No way, Don't tell me, You don't say	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まさか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using まさか	（まさか）の例文2です。		（まさか）の例文2です。	I never dreamed, Never, No way, Don't tell me, You don't say	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まさか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using まさか	（まさか）の例文3です。		（まさか）の例文3です。	I never dreamed, Never, No way, Don't tell me, You don't say	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まさか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using まさか	（まさか）の例文4です。		（まさか）の例文4です。	I never dreamed, Never, No way, Don't tell me, You don't say	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まさか scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using まさか	（まさか）の例文5です。		（まさか）の例文5です。	I never dreamed, Never, No way, Don't tell me, You don't say	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まさか scaffold:pending-content scaffold:pending-audio source:bunpro

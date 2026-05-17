@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 合う	（合う）の例文1です。		（合う）の例文1です。	To do for one another, Mutually, With	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:合う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 合う	（合う）の例文2です。		（合う）の例文2です。	To do for one another, Mutually, With	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:合う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 合う	（合う）の例文3です。		（合う）の例文3です。	To do for one another, Mutually, With	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:合う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 合う	（合う）の例文4です。		（合う）の例文4です。	To do for one another, Mutually, With	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:合う scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 合う	（合う）の例文5です。		（合う）の例文5です。	To do for one another, Mutually, With	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:合う scaffold:pending-content scaffold:pending-audio source:bunpro

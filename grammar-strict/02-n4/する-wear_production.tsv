@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using する (Have/Wear)	（する (Have/Wear)）の例文1です。		（する (Have/Wear)）の例文1です。	Have (a feature), Wear (an accessory)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-wear scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using する (Have/Wear)	（する (Have/Wear)）の例文2です。		（する (Have/Wear)）の例文2です。	Have (a feature), Wear (an accessory)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-wear scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using する (Have/Wear)	（する (Have/Wear)）の例文3です。		（する (Have/Wear)）の例文3です。	Have (a feature), Wear (an accessory)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-wear scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using する (Have/Wear)	（する (Have/Wear)）の例文4です。		（する (Have/Wear)）の例文4です。	Have (a feature), Wear (an accessory)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-wear scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using する (Have/Wear)	（する (Have/Wear)）の例文5です。		（する (Have/Wear)）の例文5です。	Have (a feature), Wear (an accessory)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-wear scaffold:pending-content scaffold:pending-audio source:bunpro

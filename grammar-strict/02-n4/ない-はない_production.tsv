@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ～ない～はない	（～ない～はない）の例文1です。		（～ない～はない）の例文1です。	There is not ~ that is not/does not	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ない-はない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ～ない～はない	（～ない～はない）の例文2です。		（～ない～はない）の例文2です。	There is not ~ that is not/does not	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ない-はない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ～ない～はない	（～ない～はない）の例文3です。		（～ない～はない）の例文3です。	There is not ~ that is not/does not	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ない-はない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ～ない～はない	（～ない～はない）の例文4です。		（～ない～はない）の例文4です。	There is not ~ that is not/does not	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ない-はない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ～ない～はない	（～ない～はない）の例文5です。		（～ない～はない）の例文5です。	There is not ~ that is not/does not	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ない-はない scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using だす	（だす）の例文1です。		（だす）の例文1です。	To suddenly begin, To start doing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だす scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using だす	（だす）の例文2です。		（だす）の例文2です。	To suddenly begin, To start doing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だす scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using だす	（だす）の例文3です。		（だす）の例文3です。	To suddenly begin, To start doing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だす scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using だす	（だす）の例文4です。		（だす）の例文4です。	To suddenly begin, To start doing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だす scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using だす	（だす）の例文5です。		（だす）の例文5です。	To suddenly begin, To start doing	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:だす scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using まい	（まい）の例文1です。		（まい）の例文1です。	Won't, Intend not to, Probably not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:まい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using まい	（まい）の例文2です。		（まい）の例文2です。	Won't, Intend not to, Probably not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:まい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using まい	（まい）の例文3です。		（まい）の例文3です。	Won't, Intend not to, Probably not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:まい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using まい	（まい）の例文4です。		（まい）の例文4です。	Won't, Intend not to, Probably not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:まい scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using まい	（まい）の例文5です。		（まい）の例文5です。	Won't, Intend not to, Probably not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:まい scaffold:pending-content scaffold:pending-audio source:bunpro

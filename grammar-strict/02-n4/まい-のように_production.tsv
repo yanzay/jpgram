@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using まい～のように	（まい～のように）の例文1です。		（まい～のように）の例文1です。	Almost every ~, Nearly every ~, On a ~ basis	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:まい-のように scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using まい～のように	（まい～のように）の例文2です。		（まい～のように）の例文2です。	Almost every ~, Nearly every ~, On a ~ basis	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:まい-のように scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using まい～のように	（まい～のように）の例文3です。		（まい～のように）の例文3です。	Almost every ~, Nearly every ~, On a ~ basis	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:まい-のように scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using まい～のように	（まい～のように）の例文4です。		（まい～のように）の例文4です。	Almost every ~, Nearly every ~, On a ~ basis	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:まい-のように scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using まい～のように	（まい～のように）の例文5です。		（まい～のように）の例文5です。	Almost every ~, Nearly every ~, On a ~ basis	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:まい-のように scaffold:pending-content scaffold:pending-audio source:bunpro

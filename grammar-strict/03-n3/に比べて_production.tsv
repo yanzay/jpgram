@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using に比べて	（に比べて）の例文1です。		（に比べて）の例文1です。	Compared to, When compared to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に比べて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に比べて	（に比べて）の例文2です。		（に比べて）の例文2です。	Compared to, When compared to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に比べて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に比べて	（に比べて）の例文3です。		（に比べて）の例文3です。	Compared to, When compared to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に比べて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に比べて	（に比べて）の例文4です。		（に比べて）の例文4です。	Compared to, When compared to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に比べて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に比べて	（に比べて）の例文5です。		（に比べて）の例文5です。	Compared to, When compared to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に比べて scaffold:pending-content scaffold:pending-audio source:bunpro

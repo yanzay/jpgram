@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using なぜなら〜から	（なぜなら〜から）の例文1です。		（なぜなら〜から）の例文1です。	Because, The reason is, That is because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なぜなら-から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なぜなら〜から	（なぜなら〜から）の例文2です。		（なぜなら〜から）の例文2です。	Because, The reason is, That is because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なぜなら-から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なぜなら〜から	（なぜなら〜から）の例文3です。		（なぜなら〜から）の例文3です。	Because, The reason is, That is because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なぜなら-から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なぜなら〜から	（なぜなら〜から）の例文4です。		（なぜなら〜から）の例文4です。	Because, The reason is, That is because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なぜなら-から scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なぜなら〜から	（なぜなら〜から）の例文5です。		（なぜなら〜から）の例文5です。	Because, The reason is, That is because	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なぜなら-から scaffold:pending-content scaffold:pending-audio source:bunpro

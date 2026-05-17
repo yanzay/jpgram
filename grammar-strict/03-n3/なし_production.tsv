@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using なし	（なし）の例文1です。		（なし）の例文1です。	Without, No	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なし	（なし）の例文2です。		（なし）の例文2です。	Without, No	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なし	（なし）の例文3です。		（なし）の例文3です。	Without, No	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なし	（なし）の例文4です。		（なし）の例文4です。	Without, No	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なし scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なし	（なし）の例文5です。		（なし）の例文5です。	Without, No	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:なし scaffold:pending-content scaffold:pending-audio source:bunpro

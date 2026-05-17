@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 傾向がある	（傾向がある）の例文1です。		（傾向がある）の例文1です。	Tendency, Trend, Inclination	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:傾向がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 傾向がある	（傾向がある）の例文2です。		（傾向がある）の例文2です。	Tendency, Trend, Inclination	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:傾向がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 傾向がある	（傾向がある）の例文3です。		（傾向がある）の例文3です。	Tendency, Trend, Inclination	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:傾向がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 傾向がある	（傾向がある）の例文4です。		（傾向がある）の例文4です。	Tendency, Trend, Inclination	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:傾向がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 傾向がある	（傾向がある）の例文5です。		（傾向がある）の例文5です。	Tendency, Trend, Inclination	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:傾向がある scaffold:pending-content scaffold:pending-audio source:bunpro

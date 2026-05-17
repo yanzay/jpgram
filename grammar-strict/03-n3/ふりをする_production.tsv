@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using ふりをする	（ふりをする）の例文1です。		（ふりをする）の例文1です。	To pretend, To act as if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ふりをする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ふりをする	（ふりをする）の例文2です。		（ふりをする）の例文2です。	To pretend, To act as if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ふりをする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ふりをする	（ふりをする）の例文3です。		（ふりをする）の例文3です。	To pretend, To act as if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ふりをする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ふりをする	（ふりをする）の例文4です。		（ふりをする）の例文4です。	To pretend, To act as if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ふりをする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ふりをする	（ふりをする）の例文5です。		（ふりをする）の例文5です。	To pretend, To act as if	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ふりをする scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Number + しか〜ない	（Number + しか〜ない）の例文1です。		（Number + しか〜ない）の例文1です。	No more than, Not exceeding, As few as・as little as, Only	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Number + しか〜ない	（Number + しか〜ない）の例文2です。		（Number + しか〜ない）の例文2です。	No more than, Not exceeding, As few as・as little as, Only	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Number + しか〜ない	（Number + しか〜ない）の例文3です。		（Number + しか〜ない）の例文3です。	No more than, Not exceeding, As few as・as little as, Only	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Number + しか〜ない	（Number + しか〜ない）の例文4です。		（Number + しか〜ない）の例文4です。	No more than, Not exceeding, As few as・as little as, Only	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Number + しか〜ない	（Number + しか〜ない）の例文5です。		（Number + しか〜ない）の例文5です。	No more than, Not exceeding, As few as・as little as, Only	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:number-しか-ない scaffold:pending-content scaffold:pending-audio source:bunpro

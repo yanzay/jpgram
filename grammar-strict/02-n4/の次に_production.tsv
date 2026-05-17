@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using の次に	（の次に）の例文1です。		（の次に）の例文1です。	Next to (rank), Second to, Ranked after	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:の次に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using の次に	（の次に）の例文2です。		（の次に）の例文2です。	Next to (rank), Second to, Ranked after	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:の次に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using の次に	（の次に）の例文3です。		（の次に）の例文3です。	Next to (rank), Second to, Ranked after	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:の次に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using の次に	（の次に）の例文4です。		（の次に）の例文4です。	Next to (rank), Second to, Ranked after	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:の次に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using の次に	（の次に）の例文5です。		（の次に）の例文5です。	Next to (rank), Second to, Ranked after	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:の次に scaffold:pending-content scaffold:pending-audio source:bunpro

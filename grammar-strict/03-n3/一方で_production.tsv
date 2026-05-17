@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 一方で	（一方で）の例文1です。		（一方で）の例文1です。	On the other hand, At the same time, While	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一方で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 一方で	（一方で）の例文2です。		（一方で）の例文2です。	On the other hand, At the same time, While	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一方で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 一方で	（一方で）の例文3です。		（一方で）の例文3です。	On the other hand, At the same time, While	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一方で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 一方で	（一方で）の例文4です。		（一方で）の例文4です。	On the other hand, At the same time, While	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一方で scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 一方で	（一方で）の例文5です。		（一方で）の例文5です。	On the other hand, At the same time, While	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:一方で scaffold:pending-content scaffold:pending-audio source:bunpro

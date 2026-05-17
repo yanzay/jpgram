@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using そうすると	（そうすると）の例文1です。		（そうすると）の例文1です。	Having done that..., If that is done..., (And/just) then, Thereupon, If so	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そうすると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using そうすると	（そうすると）の例文2です。		（そうすると）の例文2です。	Having done that..., If that is done..., (And/just) then, Thereupon, If so	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そうすると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using そうすると	（そうすると）の例文3です。		（そうすると）の例文3です。	Having done that..., If that is done..., (And/just) then, Thereupon, If so	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そうすると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using そうすると	（そうすると）の例文4です。		（そうすると）の例文4です。	Having done that..., If that is done..., (And/just) then, Thereupon, If so	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そうすると scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using そうすると	（そうすると）の例文5です。		（そうすると）の例文5です。	Having done that..., If that is done..., (And/just) then, Thereupon, If so	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:そうすると scaffold:pending-content scaffold:pending-audio source:bunpro

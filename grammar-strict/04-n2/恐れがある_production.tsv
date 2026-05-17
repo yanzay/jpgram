@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 恐れがある	（恐れがある）の例文1です。		（恐れがある）の例文1です。	There is a risk or fear that, Be in danger of, Possibility of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:恐れがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 恐れがある	（恐れがある）の例文2です。		（恐れがある）の例文2です。	There is a risk or fear that, Be in danger of, Possibility of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:恐れがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 恐れがある	（恐れがある）の例文3です。		（恐れがある）の例文3です。	There is a risk or fear that, Be in danger of, Possibility of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:恐れがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 恐れがある	（恐れがある）の例文4です。		（恐れがある）の例文4です。	There is a risk or fear that, Be in danger of, Possibility of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:恐れがある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 恐れがある	（恐れがある）の例文5です。		（恐れがある）の例文5です。	There is a risk or fear that, Be in danger of, Possibility of	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:恐れがある scaffold:pending-content scaffold:pending-audio source:bunpro

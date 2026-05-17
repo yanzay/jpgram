@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ても	（ても）の例文1です。		（ても）の例文1です。	Even if, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ても	（ても）の例文2です。		（ても）の例文2です。	Even if, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ても	（ても）の例文3です。		（ても）の例文3です。	Even if, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ても	（ても）の例文4です。		（ても）の例文4です。	Even if, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ても scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ても	（ても）の例文5です。		（ても）の例文5です。	Even if, Even though	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ても scaffold:pending-content scaffold:pending-audio source:bunpro

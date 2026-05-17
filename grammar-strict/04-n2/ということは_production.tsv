@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using ということは	（ということは）の例文1です。		（ということは）の例文1です。	That means, That is to say	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ということは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ということは	（ということは）の例文2です。		（ということは）の例文2です。	That means, That is to say	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ということは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ということは	（ということは）の例文3です。		（ということは）の例文3です。	That means, That is to say	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ということは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ということは	（ということは）の例文4です。		（ということは）の例文4です。	That means, That is to say	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ということは scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ということは	（ということは）の例文5です。		（ということは）の例文5です。	That means, That is to say	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ということは scaffold:pending-content scaffold:pending-audio source:bunpro

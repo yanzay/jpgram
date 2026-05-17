@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using っけ	（っけ）の例文1です。		（っけ）の例文1です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using っけ	（っけ）の例文2です。		（っけ）の例文2です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using っけ	（っけ）の例文3です。		（っけ）の例文3です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using っけ	（っけ）の例文4です。		（っけ）の例文4です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using っけ	（っけ）の例文5です。		（っけ）の例文5です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using てはならない	（てはならない）の例文1です。		（てはならない）の例文1です。	Must not, Cannot, Should not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:てはならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using てはならない	（てはならない）の例文2です。		（てはならない）の例文2です。	Must not, Cannot, Should not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:てはならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using てはならない	（てはならない）の例文3です。		（てはならない）の例文3です。	Must not, Cannot, Should not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:てはならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using てはならない	（てはならない）の例文4です。		（てはならない）の例文4です。	Must not, Cannot, Should not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:てはならない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using てはならない	（てはならない）の例文5です。		（てはならない）の例文5です。	Must not, Cannot, Should not	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:てはならない scaffold:pending-content scaffold:pending-audio source:bunpro

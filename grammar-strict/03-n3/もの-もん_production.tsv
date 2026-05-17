@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using もの・もん	（もの・もん）の例文1です。		（もの・もん）の例文1です。	Because, Cause	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:もの-もん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using もの・もん	（もの・もん）の例文2です。		（もの・もん）の例文2です。	Because, Cause	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:もの-もん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using もの・もん	（もの・もん）の例文3です。		（もの・もん）の例文3です。	Because, Cause	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:もの-もん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using もの・もん	（もの・もん）の例文4です。		（もの・もん）の例文4です。	Because, Cause	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:もの-もん scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using もの・もん	（もの・もん）の例文5です。		（もの・もん）の例文5です。	Because, Cause	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:もの-もん scaffold:pending-content scaffold:pending-audio source:bunpro

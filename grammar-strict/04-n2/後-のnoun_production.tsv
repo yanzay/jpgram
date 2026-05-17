@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 後(の) Noun	（後(の) Noun）の例文1です。		（後(の) Noun）の例文1です。	…left, Rest, Remaining, In, …to, …else	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:後-のnoun scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 後(の) Noun	（後(の) Noun）の例文2です。		（後(の) Noun）の例文2です。	…left, Rest, Remaining, In, …to, …else	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:後-のnoun scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 後(の) Noun	（後(の) Noun）の例文3です。		（後(の) Noun）の例文3です。	…left, Rest, Remaining, In, …to, …else	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:後-のnoun scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 後(の) Noun	（後(の) Noun）の例文4です。		（後(の) Noun）の例文4です。	…left, Rest, Remaining, In, …to, …else	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:後-のnoun scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 後(の) Noun	（後(の) Noun）の例文5です。		（後(の) Noun）の例文5です。	…left, Rest, Remaining, In, …to, …else	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:後-のnoun scaffold:pending-content scaffold:pending-audio source:bunpro

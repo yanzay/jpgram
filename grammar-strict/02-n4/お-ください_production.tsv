@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using お～ください 	（お～ください ）の例文1です。		（お～ください ）の例文1です。	Please do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:お-ください scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using お～ください 	（お～ください ）の例文2です。		（お～ください ）の例文2です。	Please do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:お-ください scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using お～ください 	（お～ください ）の例文3です。		（お～ください ）の例文3です。	Please do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:お-ください scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using お～ください 	（お～ください ）の例文4です。		（お～ください ）の例文4です。	Please do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:お-ください scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using お～ください 	（お～ください ）の例文5です。		（お～ください ）の例文5です。	Please do (Honorific)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:お-ください scaffold:pending-content scaffold:pending-audio source:bunpro

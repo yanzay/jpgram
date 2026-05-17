@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using を中心に	（を中心に）の例文1です。		（を中心に）の例文1です。	Focused on, Centered on or around, Mainly, Most notably	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を中心に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using を中心に	（を中心に）の例文2です。		（を中心に）の例文2です。	Focused on, Centered on or around, Mainly, Most notably	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を中心に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using を中心に	（を中心に）の例文3です。		（を中心に）の例文3です。	Focused on, Centered on or around, Mainly, Most notably	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を中心に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using を中心に	（を中心に）の例文4です。		（を中心に）の例文4です。	Focused on, Centered on or around, Mainly, Most notably	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を中心に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using を中心に	（を中心に）の例文5です。		（を中心に）の例文5です。	Focused on, Centered on or around, Mainly, Most notably	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:を中心に scaffold:pending-content scaffold:pending-audio source:bunpro

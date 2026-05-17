@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using では・それでは・じゃあ	（では・それでは・じゃあ）の例文1です。		（では・それでは・じゃあ）の例文1です。	If so, Well (then), In that case	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:では-それでは-じゃあ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using では・それでは・じゃあ	（では・それでは・じゃあ）の例文2です。		（では・それでは・じゃあ）の例文2です。	If so, Well (then), In that case	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:では-それでは-じゃあ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using では・それでは・じゃあ	（では・それでは・じゃあ）の例文3です。		（では・それでは・じゃあ）の例文3です。	If so, Well (then), In that case	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:では-それでは-じゃあ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using では・それでは・じゃあ	（では・それでは・じゃあ）の例文4です。		（では・それでは・じゃあ）の例文4です。	If so, Well (then), In that case	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:では-それでは-じゃあ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using では・それでは・じゃあ	（では・それでは・じゃあ）の例文5です。		（では・それでは・じゃあ）の例文5です。	If so, Well (then), In that case	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:では-それでは-じゃあ scaffold:pending-content scaffold:pending-audio source:bunpro

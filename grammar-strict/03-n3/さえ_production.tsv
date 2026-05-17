@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using さえ	（さえ）の例文1です。		（さえ）の例文1です。	Even	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using さえ	（さえ）の例文2です。		（さえ）の例文2です。	Even	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using さえ	（さえ）の例文3です。		（さえ）の例文3です。	Even	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using さえ	（さえ）の例文4です。		（さえ）の例文4です。	Even	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using さえ	（さえ）の例文5です。		（さえ）の例文5です。	Even	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:さえ scaffold:pending-content scaffold:pending-audio source:bunpro

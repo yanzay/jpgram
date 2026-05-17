@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using とは限らない	（とは限らない）の例文1です。		（とは限らない）の例文1です。	Not necessarily so, Is not always true, There is no guarantee that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:とは限らない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using とは限らない	（とは限らない）の例文2です。		（とは限らない）の例文2です。	Not necessarily so, Is not always true, There is no guarantee that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:とは限らない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using とは限らない	（とは限らない）の例文3です。		（とは限らない）の例文3です。	Not necessarily so, Is not always true, There is no guarantee that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:とは限らない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using とは限らない	（とは限らない）の例文4です。		（とは限らない）の例文4です。	Not necessarily so, Is not always true, There is no guarantee that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:とは限らない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using とは限らない	（とは限らない）の例文5です。		（とは限らない）の例文5です。	Not necessarily so, Is not always true, There is no guarantee that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:とは限らない scaffold:pending-content scaffold:pending-audio source:bunpro

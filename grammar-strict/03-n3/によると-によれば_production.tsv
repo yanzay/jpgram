@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using によると・によれば	（によると・によれば）の例文1です。		（によると・によれば）の例文1です。	According to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:によると-によれば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using によると・によれば	（によると・によれば）の例文2です。		（によると・によれば）の例文2です。	According to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:によると-によれば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using によると・によれば	（によると・によれば）の例文3です。		（によると・によれば）の例文3です。	According to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:によると-によれば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using によると・によれば	（によると・によれば）の例文4です。		（によると・によれば）の例文4です。	According to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:によると-によれば scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using によると・によれば	（によると・によれば）の例文5です。		（によると・によれば）の例文5です。	According to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:によると-によれば scaffold:pending-content scaffold:pending-audio source:bunpro

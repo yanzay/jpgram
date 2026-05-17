@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+
+Say: example 1 using ってば・ったら	（ってば・ったら）の例文1です。		（ってば・ったら）の例文1です。	I said...!, I told you...!, !	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ってば-ったら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ってば・ったら	（ってば・ったら）の例文2です。		（ってば・ったら）の例文2です。	I said...!, I told you...!, !	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ってば-ったら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ってば・ったら	（ってば・ったら）の例文3です。		（ってば・ったら）の例文3です。	I said...!, I told you...!, !	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ってば-ったら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ってば・ったら	（ってば・ったら）の例文4です。		（ってば・ったら）の例文4です。	I said...!, I told you...!, !	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ってば-ったら scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ってば・ったら	（ってば・ったら）の例文5です。		（ってば・ったら）の例文5です。	I said...!, I told you...!, !	[sound:0003cbbf8429.mp3]	module:05-n1 jlpt:n1 point:ってば-ったら scaffold:pending-content scaffold:pending-audio source:bunpro

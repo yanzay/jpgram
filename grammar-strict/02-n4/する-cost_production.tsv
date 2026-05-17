@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using する (Cost)	（する (Cost)）の例文1です。		（する (Cost)）の例文1です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using する (Cost)	（する (Cost)）の例文2です。		（する (Cost)）の例文2です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using する (Cost)	（する (Cost)）の例文3です。		（する (Cost)）の例文3です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using する (Cost)	（する (Cost)）の例文4です。		（する (Cost)）の例文4です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using する (Cost)	（する (Cost)）の例文5です。		（する (Cost)）の例文5です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro

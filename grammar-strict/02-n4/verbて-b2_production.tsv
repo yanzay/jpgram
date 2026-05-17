@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Verb[て] + B	（Verb[て] + B）の例文1です。		（Verb[て] + B）の例文1です。	And・and so, Due to, Because of, Since, Conjunctive	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[て] + B	（Verb[て] + B）の例文2です。		（Verb[て] + B）の例文2です。	And・and so, Due to, Because of, Since, Conjunctive	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[て] + B	（Verb[て] + B）の例文3です。		（Verb[て] + B）の例文3です。	And・and so, Due to, Because of, Since, Conjunctive	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[て] + B	（Verb[て] + B）の例文4です。		（Verb[て] + B）の例文4です。	And・and so, Due to, Because of, Since, Conjunctive	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[て] + B	（Verb[て] + B）の例文5です。		（Verb[て] + B）の例文5です。	And・and so, Due to, Because of, Since, Conjunctive	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 scaffold:pending-content scaffold:pending-audio source:bunpro

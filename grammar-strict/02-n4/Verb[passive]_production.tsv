@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using Verb［れる・られる］	（Verb［れる・られる］）の例文1です。		（Verb［れる・られる］）の例文1です。	Was done to ~ by ~, Done without consent, Done to one's dismay	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb［れる・られる］	（Verb［れる・られる］）の例文2です。		（Verb［れる・られる］）の例文2です。	Was done to ~ by ~, Done without consent, Done to one's dismay	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb［れる・られる］	（Verb［れる・られる］）の例文3です。		（Verb［れる・られる］）の例文3です。	Was done to ~ by ~, Done without consent, Done to one's dismay	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb［れる・られる］	（Verb［れる・られる］）の例文4です。		（Verb［れる・られる］）の例文4です。	Was done to ~ by ~, Done without consent, Done to one's dismay	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb［れる・られる］	（Verb［れる・られる］）の例文5です。		（Verb［れる・られる］）の例文5です。	Was done to ~ by ~, Done without consent, Done to one's dismay	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] scaffold:pending-content scaffold:pending-audio source:bunpro

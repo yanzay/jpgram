@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using それで	（それで）の例文1です。		（それで）の例文1です。	Because of that, So?, And then?, Therefore, With that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using それで	（それで）の例文2です。		（それで）の例文2です。	Because of that, So?, And then?, Therefore, With that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using それで	（それで）の例文3です。		（それで）の例文3です。	Because of that, So?, And then?, Therefore, With that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using それで	（それで）の例文4です。		（それで）の例文4です。	Because of that, So?, And then?, Therefore, With that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using それで	（それで）の例文5です。		（それで）の例文5です。	Because of that, So?, And then?, Therefore, With that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:それで scaffold:pending-content scaffold:pending-audio source:bunpro

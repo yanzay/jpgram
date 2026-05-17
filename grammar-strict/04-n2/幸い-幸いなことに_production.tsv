@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 幸い・幸いなことに	（幸い・幸いなことに）の例文1です。		（幸い・幸いなことに）の例文1です。	Luckily, Fortunately	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:幸い-幸いなことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 幸い・幸いなことに	（幸い・幸いなことに）の例文2です。		（幸い・幸いなことに）の例文2です。	Luckily, Fortunately	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:幸い-幸いなことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 幸い・幸いなことに	（幸い・幸いなことに）の例文3です。		（幸い・幸いなことに）の例文3です。	Luckily, Fortunately	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:幸い-幸いなことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 幸い・幸いなことに	（幸い・幸いなことに）の例文4です。		（幸い・幸いなことに）の例文4です。	Luckily, Fortunately	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:幸い-幸いなことに scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 幸い・幸いなことに	（幸い・幸いなことに）の例文5です。		（幸い・幸いなことに）の例文5です。	Luckily, Fortunately	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:幸い-幸いなことに scaffold:pending-content scaffold:pending-audio source:bunpro

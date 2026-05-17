@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using がみられる	（がみられる）の例文1です。		（がみられる）の例文1です。	Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がみられる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using がみられる	（がみられる）の例文2です。		（がみられる）の例文2です。	Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がみられる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using がみられる	（がみられる）の例文3です。		（がみられる）の例文3です。	Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がみられる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using がみられる	（がみられる）の例文4です。		（がみられる）の例文4です。	Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がみられる scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using がみられる	（がみられる）の例文5です。		（がみられる）の例文5です。	Can see, Can be seen, Can observe, Can be observed, Be evident, Chance to see something	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:がみられる scaffold:pending-content scaffold:pending-audio source:bunpro

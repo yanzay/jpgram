@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+
+Say: example 1 using 以上に	（以上に）の例文1です。		（以上に）の例文1です。	More than, No less than, Even more	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:以上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 以上に	（以上に）の例文2です。		（以上に）の例文2です。	More than, No less than, Even more	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:以上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 以上に	（以上に）の例文3です。		（以上に）の例文3です。	More than, No less than, Even more	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:以上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 以上に	（以上に）の例文4です。		（以上に）の例文4です。	More than, No less than, Even more	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:以上に scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 以上に	（以上に）の例文5です。		（以上に）の例文5です。	More than, No less than, Even more	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:以上に scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 折角	（折角）の例文1です。		（折角）の例文1です。	With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:せっかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 折角	（折角）の例文2です。		（折角）の例文2です。	With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:せっかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 折角	（折角）の例文3です。		（折角）の例文3です。	With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:せっかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 折角	（折角）の例文4です。		（折角）の例文4です。	With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:せっかく scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 折角	（折角）の例文5です。		（折角）の例文5です。	With trouble, At great pains, Take the trouble, Might as well..., Rare/long-awaited occasion	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:せっかく scaffold:pending-content scaffold:pending-audio source:bunpro

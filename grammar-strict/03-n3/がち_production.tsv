@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using がち	（がち）の例文1です。		（がち）の例文1です。	Apt to do, Tend to do, Prone to do	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using がち	（がち）の例文2です。		（がち）の例文2です。	Apt to do, Tend to do, Prone to do	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using がち	（がち）の例文3です。		（がち）の例文3です。	Apt to do, Tend to do, Prone to do	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using がち	（がち）の例文4です。		（がち）の例文4です。	Apt to do, Tend to do, Prone to do	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がち scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using がち	（がち）の例文5です。		（がち）の例文5です。	Apt to do, Tend to do, Prone to do	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:がち scaffold:pending-content scaffold:pending-audio source:bunpro

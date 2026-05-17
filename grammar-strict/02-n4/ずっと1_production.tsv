@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ずっと ①	（ずっと ①）の例文1です。		（ずっと ①）の例文1です。	Continuously, All throughout, Entire time, Ever (since), The whole time, All the way	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ずっと1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ずっと ①	（ずっと ①）の例文2です。		（ずっと ①）の例文2です。	Continuously, All throughout, Entire time, Ever (since), The whole time, All the way	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ずっと1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ずっと ①	（ずっと ①）の例文3です。		（ずっと ①）の例文3です。	Continuously, All throughout, Entire time, Ever (since), The whole time, All the way	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ずっと1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ずっと ①	（ずっと ①）の例文4です。		（ずっと ①）の例文4です。	Continuously, All throughout, Entire time, Ever (since), The whole time, All the way	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ずっと1 scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ずっと ①	（ずっと ①）の例文5です。		（ずっと ①）の例文5です。	Continuously, All throughout, Entire time, Ever (since), The whole time, All the way	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ずっと1 scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using なくて	（なくて）の例文1です。		（なくて）の例文1です。	Not ~ and, Not so, Because not (Examples)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なくて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using なくて	（なくて）の例文2です。		（なくて）の例文2です。	Not ~ and, Not so, Because not (Examples)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なくて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using なくて	（なくて）の例文3です。		（なくて）の例文3です。	Not ~ and, Not so, Because not (Examples)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なくて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using なくて	（なくて）の例文4です。		（なくて）の例文4です。	Not ~ and, Not so, Because not (Examples)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なくて scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using なくて	（なくて）の例文5です。		（なくて）の例文5です。	Not ~ and, Not so, Because not (Examples)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なくて scaffold:pending-content scaffold:pending-audio source:bunpro

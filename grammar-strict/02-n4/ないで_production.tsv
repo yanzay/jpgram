@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ないで	（ないで）の例文1です。		（ないで）の例文1です。	Without doing, Not ~ and ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ないで	（ないで）の例文2です。		（ないで）の例文2です。	Without doing, Not ~ and ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ないで	（ないで）の例文3です。		（ないで）の例文3です。	Without doing, Not ~ and ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ないで	（ないで）の例文4です。		（ないで）の例文4です。	Without doing, Not ~ and ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ないで scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ないで	（ないで）の例文5です。		（ないで）の例文5です。	Without doing, Not ~ and ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ないで scaffold:pending-content scaffold:pending-audio source:bunpro

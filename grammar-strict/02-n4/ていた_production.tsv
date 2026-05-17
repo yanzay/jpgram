@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using ていた 	（ていた ）の例文1です。		（ていた ）の例文1です。	Was doing ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ていた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using ていた 	（ていた ）の例文2です。		（ていた ）の例文2です。	Was doing ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ていた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using ていた 	（ていた ）の例文3です。		（ていた ）の例文3です。	Was doing ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ていた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using ていた 	（ていた ）の例文4です。		（ていた ）の例文4です。	Was doing ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ていた scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using ていた 	（ていた ）の例文5です。		（ていた ）の例文5です。	Was doing ~	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ていた scaffold:pending-content scaffold:pending-audio source:bunpro

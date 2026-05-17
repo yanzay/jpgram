@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say: example 1 using とき	（とき）の例文1です。		（とき）の例文1です。	When, At the time of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とき scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using とき	（とき）の例文2です。		（とき）の例文2です。	When, At the time of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とき scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using とき	（とき）の例文3です。		（とき）の例文3です。	When, At the time of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とき scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using とき	（とき）の例文4です。		（とき）の例文4です。	When, At the time of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とき scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using とき	（とき）の例文5です。		（とき）の例文5です。	When, At the time of	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:とき scaffold:pending-content scaffold:pending-audio source:bunpro

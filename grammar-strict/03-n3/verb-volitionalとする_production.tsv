@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using Verb[volitional]とする	（Verb[volitional]とする）の例文1です。		（Verb[volitional]とする）の例文1です。	Try to, Attempt to, To be about to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitionalとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using Verb[volitional]とする	（Verb[volitional]とする）の例文2です。		（Verb[volitional]とする）の例文2です。	Try to, Attempt to, To be about to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitionalとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using Verb[volitional]とする	（Verb[volitional]とする）の例文3です。		（Verb[volitional]とする）の例文3です。	Try to, Attempt to, To be about to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitionalとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using Verb[volitional]とする	（Verb[volitional]とする）の例文4です。		（Verb[volitional]とする）の例文4です。	Try to, Attempt to, To be about to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitionalとする scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using Verb[volitional]とする	（Verb[volitional]とする）の例文5です。		（Verb[volitional]とする）の例文5です。	Try to, Attempt to, To be about to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:verb-volitionalとする scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 関係がある	（関係がある）の例文1です。		（関係がある）の例文1です。	(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:関係がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 関係がある	（関係がある）の例文2です。		（関係がある）の例文2です。	(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:関係がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 関係がある	（関係がある）の例文3です。		（関係がある）の例文3です。	(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:関係がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 関係がある	（関係がある）の例文4です。		（関係がある）の例文4です。	(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:関係がある scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 関係がある	（関係がある）の例文5です。		（関係がある）の例文5です。	(Not) involved with, (Not) concerned with, (No) connection with, (No) relationship with, (Not) related to	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:関係がある scaffold:pending-content scaffold:pending-audio source:bunpro

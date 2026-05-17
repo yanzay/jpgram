@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using んじゃない	（んじゃない）の例文1です。		（んじゃない）の例文1です。	Don't, Mustn't, Shouldn't have	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んじゃない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using んじゃない	（んじゃない）の例文2です。		（んじゃない）の例文2です。	Don't, Mustn't, Shouldn't have	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んじゃない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using んじゃない	（んじゃない）の例文3です。		（んじゃない）の例文3です。	Don't, Mustn't, Shouldn't have	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んじゃない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using んじゃない	（んじゃない）の例文4です。		（んじゃない）の例文4です。	Don't, Mustn't, Shouldn't have	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んじゃない scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using んじゃない	（んじゃない）の例文5です。		（んじゃない）の例文5です。	Don't, Mustn't, Shouldn't have	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:んじゃない scaffold:pending-content scaffold:pending-audio source:bunpro

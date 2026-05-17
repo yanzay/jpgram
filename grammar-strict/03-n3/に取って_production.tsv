@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using に取って	（に取って）の例文1です。		（に取って）の例文1です。	To, For, Concerning	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に取って scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using に取って	（に取って）の例文2です。		（に取って）の例文2です。	To, For, Concerning	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に取って scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using に取って	（に取って）の例文3です。		（に取って）の例文3です。	To, For, Concerning	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に取って scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using に取って	（に取って）の例文4です。		（に取って）の例文4です。	To, For, Concerning	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に取って scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using に取って	（に取って）の例文5です。		（に取って）の例文5です。	To, For, Concerning	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:に取って scaffold:pending-content scaffold:pending-audio source:bunpro

@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+
+Say: example 1 using 向け	（向け）の例文1です。		（向け）の例文1です。	Intended for, Aimed at	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:向け scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 2 using 向け	（向け）の例文2です。		（向け）の例文2です。	Intended for, Aimed at	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:向け scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 3 using 向け	（向け）の例文3です。		（向け）の例文3です。	Intended for, Aimed at	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:向け scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 4 using 向け	（向け）の例文4です。		（向け）の例文4です。	Intended for, Aimed at	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:向け scaffold:pending-content scaffold:pending-audio source:bunpro
+Say: example 5 using 向け	（向け）の例文5です。		（向け）の例文5です。	Intended for, Aimed at	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:向け scaffold:pending-content scaffold:pending-audio source:bunpro
