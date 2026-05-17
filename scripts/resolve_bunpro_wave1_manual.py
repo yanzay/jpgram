@@ -90,7 +90,84 @@ WAVE1_1_MAP = {
     "taru-gotoki": "たる",
 }
 
-CURATED_MAP = {**WAVE1_MAP, **WAVE1_1_MAP}
+# Wave 1.2: broader batch (evidence >= 2) plus remaining copula/demonstrative atoms
+WAVE1_2_MAP = {
+    "adjectives": "いい",
+    "dake-shika": "だけあって",
+    "tokoro-bakari-dake": "かどうか",
+    "formal-causal-cloze": "あげく",
+    "taru-gotoki-mokushikuwa": "たる",
+    "n4-misc": "なさい",
+    "evidentials-modality": "に違いない",
+    "inference-extent": "ようだ",
+    "literary-particles": "に対して",
+    "n1-abstract-relations": "にしてみれば",
+    "n1-emphasis_set-phrases": "てやまない",
+    "n1-extent-degree": "からある",
+    "n1-modality-advanced": "べくもない",
+    "n1-rare-elevated": "べく",
+    "n1-relative-clause": "という",
+    "n1-stiff-connectives": "もさることながら",
+    "negation-stiff": "ないでもない",
+    "particles": "まで",
+    "n3-modality": "てたまらない",
+    "passive-causative-advanced": "てもらう",
+    "extended-particles": "より",
+    "classical-carryover": "ざる",
+    "classical-particles-conjugations": "こそ",
+    "i-adjectives": "いい",
+    "n5-constructions": "ことができる",
+    "obligation": "ないでください",
+    "question-words": "どこ",
+    "concessive-others": "にもかかわらず",
+    "mono-family": "ものだから",
+    "formal-condition": "に限らず",
+    "sfp-aizuchi": "かしら",
+    "sfp-aizuchi-contrast": "かしら",
+    "sfp-gendered": "かしら",
+    "potential": "ことができる",
+    "n3-misc-conjunctions": "ずに",
+    "n3-misc-suffixes": "だらけ",
+    "keigo-stacking": "いたす",
+    "volitional": "ましょう",
+    "n1-aux-verbs-elevated": "かねる",
+    "casual-vulgar": "ぜんぜん",
+    "sfp-core": "とも",
+    "classical-aux-verbs": "べき",
+    "kanbun-yomi": "つまり",
+    "editorial-style": "とされている",
+    "te-form": "って",
+    "evidentials-n3": "はずだ",
+    "uchi-ni": "の間に",
+    "n1-discourse": "それでも",
+    "l1-modality-mismatch": "べき",
+    "humble-elevation-stacking": "とは",
+    "kansai-basics": "いい",
+    "pragmatic-contractions": "じゃない",
+    "sentence-final-softeners": "でしょう",
+    "gen-z-slang": "それ",
+    "classical-text": "はずだ",
+    "beyond-n1": "と考えられる",
+    "literary-fiction-style": "とばかり",
+    "news-frozen-grammar": "あり",
+    "copula-datta": "だった-でした",
+    "copula-desita": "だった-でした",
+    "copula-desitara": "だった-でした",
+    "copula-desite": "で",
+    "copula-denai": "じゃない",
+    "copula-denakatta": "じゃなかった",
+    "copula-dearimsen": "でございます",
+    "copula-dearimsendesita": "でございます",
+    "copula-demoarimasu": "でございます",
+    "copula-tari": "たり-たりする",
+    "demonstrative-konna": "そんな-こんな-あんな-どんな",
+    "demonstrative-sonna": "そんな-こんな-あんな-どんな",
+    "demonstrative-anna": "そんな-こんな-あんな-どんな",
+    "demonstrative-donna": "そんな-こんな-あんな-どんな",
+    "demonstrative-aa": "あれ",
+}
+
+CURATED_MAP = {**WAVE1_MAP, **WAVE1_1_MAP, **WAVE1_2_MAP}
 
 
 def main() -> int:
@@ -132,7 +209,11 @@ def main() -> int:
 
     print(f"attempted_curated={attempted}")
     print(f"applied_curated={applied}")
-    print(f"wave1_entries={len(WAVE1_MAP)} wave1_1_entries={len(WAVE1_1_MAP)}")
+    print(
+        f"wave1_entries={len(WAVE1_MAP)} "
+        f"wave1_1_entries={len(WAVE1_1_MAP)} "
+        f"wave1_2_entries={len(WAVE1_2_MAP)}"
+    )
     if skipped_missing_slug:
         print("skipped_missing_bunpro_slug:")
         for p, m in skipped_missing_slug:
