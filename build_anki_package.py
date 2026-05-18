@@ -36,7 +36,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-VERSION = "0.11.4"
+VERSION = "0.11.5"
 DECK_NAME = "Japanese Grammar"
 GRAMMAR_DIR = Path("grammar-strict")
 MEDIA_DIR = Path("media")
@@ -344,9 +344,28 @@ def _extract_header(tsv_path: Path, key: str, default: str) -> str:
     return default
 
 
+# Ordered subdeck names for note-type subdecks.
+# TSV headers use bare names; these prefixes force a consistent display order.
+_SUBDECK_ORDER = {
+    "Recognition": "01 · Recognition",
+    "Production":  "02 · Production",
+    "Cloze":       "03 · Cloze",
+    "Contrast":    "04 · Contrast",
+    "Listening":   "05 · Listening",
+    "Dictation":   "06 · Dictation",
+}
+
+
+def _order_deck_name(deck_str: str) -> str:
+    """Rewrite the last path component if it's a bare note-type name."""
+    parts = deck_str.split("::")
+    parts[-1] = _SUBDECK_ORDER.get(parts[-1].strip(), parts[-1])
+    return "::".join(parts)
+
+
 def _get_or_create_deck(col, deck_name: str) -> int:
     """Get or create a deck by hierarchical name (e.g. 'A::B::C')."""
-    return col.decks.id(deck_name)
+    return col.decks.id(_order_deck_name(deck_name))
 
 
 def _create_note_types(col):
