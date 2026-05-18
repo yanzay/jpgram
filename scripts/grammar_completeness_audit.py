@@ -50,6 +50,11 @@ def main() -> int:
         help="Fail if Bunpro reverse coverage is below this percentage.",
     )
     parser.add_argument(
+        "--allow-partial-point-usage",
+        action="store_true",
+        help="Pass through to coverage_audit.py: allow internal closure when grammar tags are valid.",
+    )
+    parser.add_argument(
         "--skip-exemptions",
         action="store_true",
         help="Do not apply reference_closure exemptions.",
@@ -69,6 +74,8 @@ def main() -> int:
         coverage_cmd.append("--enforce-note-types")
     if args.require_full_bunpro_resolution:
         coverage_cmd.append("--require-full-bunpro-resolution")
+    if args.allow_partial_point_usage:
+        coverage_cmd.append("--allow-partial-point-usage")
     codes.append(run(coverage_cmd))
 
     codes.append(

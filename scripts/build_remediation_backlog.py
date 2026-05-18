@@ -22,7 +22,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 AUDIT_PATH = ROOT / "research-reports/coverage_audit_report.json"
-TAXONOMY_PATH = ROOT / "data/grammar_taxonomy.tsv"
+TAXONOMY_PATH = ROOT / "data/grammar_taxonomy_bunpro.tsv"
 OUT_JSON = ROOT / "research-reports/coverage_remediation_backlog.json"
 OUT_MD = ROOT / "research-reports/coverage_remediation_backlog.md"
 

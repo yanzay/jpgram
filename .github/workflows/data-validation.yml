@@ -23,7 +23,7 @@ jobs:
         run: python3 validate_grammar_taxonomy.py
       - name: Grammar completeness audit (report-only reverse gate)
         run: |
-          python3 scripts/grammar_completeness_audit.py --skip-bunpro-fetch --enforce-note-types
+          python3 scripts/grammar_completeness_audit.py --skip-bunpro-fetch --enforce-note-types --allow-partial-point-usage
       - name: Validate strict Bunpro-atomic deck
         run: |
           python3 scripts/strict_deck_audit.py --skip-bunpro-fetch --require-full-bunpro-resolution

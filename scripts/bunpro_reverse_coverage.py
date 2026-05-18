@@ -34,8 +34,8 @@ from grammar_reference import (  # noqa: E402
 
 REPORT_JSON = ROOT / "research-reports/bunpro_reverse_coverage_report.json"
 REPORT_MD = ROOT / "research-reports/bunpro_reverse_coverage_report.md"
-GRAMMAR_DIR = ROOT / "grammar"
-TAXONOMY_PATH: Path | None = None
+GRAMMAR_DIR = ROOT / "grammar-strict"
+TAXONOMY_PATH: Path = ROOT / "data/grammar_taxonomy_bunpro.tsv"
 
 
 def configure_paths(

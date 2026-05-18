@@ -36,8 +36,8 @@ from grammar_reference import parse_bunpro_id  # noqa: E402
 
 
 ROOT = Path(__file__).resolve().parent.parent
-GRAMMAR_DIR = ROOT / "grammar"
-TAXONOMY_PATH = ROOT / "data/grammar_taxonomy.tsv"
+GRAMMAR_DIR = ROOT / "grammar-strict"
+TAXONOMY_PATH = ROOT / "data/grammar_taxonomy_bunpro.tsv"
 BUNPRO_LIVE_PATH = ROOT / "data/grammar-refs/bunpro_live_index.json"
 REPORT_JSON_PATH = ROOT / "research-reports/coverage_audit_report.json"
 REPORT_MD_PATH = ROOT / "research-reports/coverage_audit_report.md"
