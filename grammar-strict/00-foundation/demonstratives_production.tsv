@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::00 - Foundation::Production
 
-Point to something near you: "This is my notebook."	これ	これはわたしののーとです。	これは私のノートです。	これ = standalone pronoun, replaces the noun	[sound:cb4d9ff0ee90.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives
-Refer to something near the listener: "Is that your pen?"	それ	それはあなたのぺんですか。	それはあなたのペンですか。	それ = near listener; question intonation with か	[sound:5b346cb123db.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives
-Ask which train to take (3+ options).	どの	どのでんしゃにのりますか。	どの電車に乗りますか。	どの + noun when choosing among 3 or more	[sound:6c0763f4efb6.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives
-Say "That book over there is interesting" (modify the noun).	あの	あのほんはおもしろいです。	あの本は面白いです。	あの + noun = that (far from both)	[sound:751fab12e3bb.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives
-Ask "Where is the station?"	どこ	えきはどこですか。	駅はどこですか。	どこ = where; は marks it as the topic being asked about	[sound:2743523b6640.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives
+"Point to something near you: ""This is my notebook."""	これ	これはわたしののーとです。	これは私のノートです。	これ = standalone pronoun, replaces the noun	[sound:cb4d9ff0ee90.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top1k complexity:intro
+"Refer to something near the listener: ""Is that your pen?"""	それ	それはあなたのぺんですか。	それはあなたのペンですか。	それ = near listener; question intonation with か	[sound:5b346cb123db.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top1k complexity:standard
+Ask which train to take (3+ options).	どの	どのでんしゃにのりますか。	どの電車に乗りますか。	どの + noun when choosing among 3 or more	[sound:6c0763f4efb6.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top1k complexity:intro
+"Say ""That book over there is interesting"" (modify the noun)."	あの	あのほんはおもしろいです。	あの本は面白いです。	あの + noun = that (far from both)	[sound:751fab12e3bb.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top1k complexity:intro
+"Ask ""Where is the station?"""	どこ	えきはどこですか。	駅はどこですか。	どこ = where; は marks it as the topic being asked about	[sound:2743523b6640.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top1k complexity:intro
