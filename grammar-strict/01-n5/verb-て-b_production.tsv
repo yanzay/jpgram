@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using Verb + て+ B	（Verb + て+ B）の例文1です。		（Verb + て+ B）の例文1です。	And, And then, After that (sequence)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て-b scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using Verb + て+ B	（Verb + て+ B）の例文2です。		（Verb + て+ B）の例文2です。	And, And then, After that (sequence)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て-b scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using Verb + て+ B	（Verb + て+ B）の例文3です。		（Verb + て+ B）の例文3です。	And, And then, After that (sequence)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て-b scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using Verb + て+ B	（Verb + て+ B）の例文4です。		（Verb + て+ B）の例文4です。	And, And then, After that (sequence)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て-b scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using Verb + て+ B	（Verb + て+ B）の例文5です。		（Verb + て+ B）の例文5です。	And, And then, After that (sequence)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:verb-て-b scaffold:pending-content scaffold:pending-audio source:bunpro
+I go to school and study.	学校に行って、勉強します。	がっこうにいって、べんきょうします。	学校に行って、勉強します。	A leads to B	[sound:bf36c90703d4.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored scaffold:pending-audio
+I finished my homework and watched TV.	宿題を終わって、テレビを見ました。	しゅくだいをおわって、てれびをみました。	宿題を終わって、テレビを見ました。	completion of A leads to B	[sound:e7e138e10543.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored scaffold:pending-audio
+I take the train and go to work.	電車に乗って、会社に行きます。	でんしゃにのって、かいしゃにいきます。	電車に乗って、会社に行きます。	means + result	[sound:350d41367a75.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored scaffold:pending-audio
+I made the meal and ate with family.	ご飯を作って、家族と食べた。	ごはんをつくって、かぞくとたべた。	ご飯を作って、家族と食べた。	preparation then action	[sound:b738a8172206.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored scaffold:pending-audio
+I bought a book and read it at home.	本を買って、家で読みました。	ほんをかって、いえでよみました。	本を買って、家で読みました。	purchase then action	[sound:a1effc3e3a0f.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored scaffold:pending-audio

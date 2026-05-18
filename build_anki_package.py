@@ -38,7 +38,7 @@ from pathlib import Path
 
 VERSION = "0.3.1"
 DECK_NAME = "Japanese Grammar"
-GRAMMAR_DIR = Path("grammar")
+GRAMMAR_DIR = Path("grammar-strict")
 MEDIA_DIR = Path("media")
 OUTPUT = Path("japanese_grammar_anki.apkg")
 CHANGELOG_URL = "https://github.com/yanzay/jpgram/blob/main/CHANGELOG.md"

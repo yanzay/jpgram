@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Say: example 1 using いくら〜でも	（いくら〜でも）の例文1です。		（いくら〜でも）の例文1です。	No matter how (much)	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:いくら-でも scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using いくら〜でも	（いくら〜でも）の例文2です。		（いくら〜でも）の例文2です。	No matter how (much)	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:いくら-でも scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using いくら〜でも	（いくら〜でも）の例文3です。		（いくら〜でも）の例文3です。	No matter how (much)	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:いくら-でも scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using いくら〜でも	（いくら〜でも）の例文4です。		（いくら〜でも）の例文4です。	No matter how (much)	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:いくら-でも scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using いくら〜でも	（いくら〜でも）の例文5です。		（いくら〜でも）の例文5です。	No matter how (much)	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:いくら-でも scaffold:pending-content scaffold:pending-audio source:bunpro
+No matter how many times I apologized, she wouldn't forgive me.	いくら謝っても、彼女は許してくれなかった。	いくらあやまっても、かのじょはゆるしてくれなかった。	いくら謝っても、彼女は許してくれなかった。	いくら-でも: repetition doesn't change outcome	[sound:6e4f2f34b5f2.mp3]	module:03-n3 jlpt:n3 point:いくら-でも source:authored scaffold:pending-audio
+No matter how much you hurry, you won't make the last train now.	いくら急いでも、もう終電には間に合わない。	いくらいそいでも、もうしゅうでんにはまにあわない。	いくら急いでも、もう終電には間に合わない。	いくら-でも: effort can't overcome time already lost	[sound:bfa5b01872f0.mp3]	module:03-n3 jlpt:n3 point:いくら-でも source:authored scaffold:pending-audio
+No matter how cheap it is, I won't buy something of poor quality.	いくら安くても、品質が悪いものは買わない。	いくらやすくても、ひんしつがわるいものはかわない。	いくら安くても、品質が悪いものは買わない。	いくら-でも: price doesn't override quality standard	[sound:7257c09c550c.mp3]	module:03-n3 jlpt:n3 point:いくら-でも source:authored scaffold:pending-audio
+I was worried that no matter how much I practiced, I wasn't improving.	いくら練習しても上手くならないと悩んでいた。	いくられんしゅうしてもうまくならないとなやんでいた。	いくら練習しても上手くならないと悩んでいた。	いくら-でも: effort without result is the frustration	[sound:c601ab48861a.mp3]	module:03-n3 jlpt:n3 point:いくら-でも source:authored scaffold:pending-audio
+No matter how sleepy you are, you must never sleep while driving.	いくら眠くても、運転中は絶対に寝てはいけない。	いくらねむくても、うんてんちゅうはぜったいにねてはいけない。	いくら眠くても、運転中は絶対に寝てはいけない。	いくら-でも: extreme drowsiness doesn't justify danger	[sound:8326e0d982bb.mp3]	module:03-n3 jlpt:n3 point:いくら-でも source:authored scaffold:pending-audio

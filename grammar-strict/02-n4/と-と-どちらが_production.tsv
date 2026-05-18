@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using と～と、どちらが 	（と～と、どちらが ）の例文1です。		（と～と、どちらが ）の例文1です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using と～と、どちらが 	（と～と、どちらが ）の例文2です。		（と～と、どちらが ）の例文2です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using と～と、どちらが 	（と～と、どちらが ）の例文3です。		（と～と、どちらが ）の例文3です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using と～と、どちらが 	（と～と、どちらが ）の例文4です。		（と～と、どちらが ）の例文4です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using と～と、どちらが 	（と～と、どちらが ）の例文5です。		（と～と、どちらが ）の例文5です。	Between ~ which one	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが scaffold:pending-content scaffold:pending-audio source:bunpro
+Between dogs and cats, which do you like better?	犬と猫と、どちらが好きですか。	いぬとねこと、どちらがすきですか。	犬と猫と、どちらが好きですか。	two-option preference question	[sound:67be9c56fcdb.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored scaffold:pending-audio
+Between Tokyo and Osaka, which is easier to live in?	東京と大阪と、どちらが住みやすいですか。	とうきょうとおおさかと、どちらがすみやすいですか。	東京と大阪と、どちらが住みやすいですか。	city comparison question	[sound:5c06ed969c07.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored scaffold:pending-audio
+Between walking and taking the train, which is faster?	歩くのと電車に乗るのと、どちらが早いですか。	あるくのとでんしゃにのるのと、どちらがはやいですか。	歩くのと電車に乗るのと、どちらが早いですか。	transportation comparison	[sound:cbdfc0e778b5.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored scaffold:pending-audio
+Between summer and winter, which do you prefer?	夏と冬と、どちらの方が好きですか。	なつとふゆと、どちらのほうがすきですか。	夏と冬と、どちらの方が好きですか。	season preference comparison	[sound:5538bbd58aa7.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored scaffold:pending-audio
+Between these two plans, which do you think is better?	この二つの案と、どちらがいいと思いますか。	このふたつのあんと、どちらがいいとおもいますか。	この二つの案と、どちらがいいと思いますか。	proposal comparison	[sound:f5b81e503a39.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored scaffold:pending-audio

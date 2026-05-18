@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using てください	（てください）の例文1です。		（てください）の例文1です。	Please do (Polite request)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てください scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using てください	（てください）の例文2です。		（てください）の例文2です。	Please do (Polite request)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てください scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using てください	（てください）の例文3です。		（てください）の例文3です。	Please do (Polite request)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てください scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using てください	（てください）の例文4です。		（てください）の例文4です。	Please do (Polite request)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てください scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using てください	（てください）の例文5です。		（てください）の例文5です。	Please do (Polite request)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:てください scaffold:pending-content scaffold:pending-audio source:bunpro
+Please write your name here.	ここに名前を書いてください。	ここになまえをかいてください。	ここに名前を書いてください。	polite request	[sound:8e0adb7b3e70.mp3]	module:01-n5 jlpt:n5 point:てください source:authored scaffold:pending-audio
+Please speak slowly.	ゆっくり話してください。	ゆっくりはなしてください。	ゆっくり話してください。	polite request	[sound:a7693683d547.mp3]	module:01-n5 jlpt:n5 point:てください source:authored scaffold:pending-audio
+Please close the door.	ドアを閉めてください。	どあをしめてください。	ドアを閉めてください。	polite request	[sound:c1788c311258.mp3]	module:01-n5 jlpt:n5 point:てください source:authored scaffold:pending-audio
+Please look at this.	これを見てください。	これをみてください。	これを見てください。	polite request	[sound:bb2225aab25e.mp3]	module:01-n5 jlpt:n5 point:てください source:authored scaffold:pending-audio
+Please say it again.	もう一度言ってください。	もういちどいってください。	もう一度言ってください。	polite request	[sound:9cf597cd6f5e.mp3]	module:01-n5 jlpt:n5 point:てください source:authored scaffold:pending-audio

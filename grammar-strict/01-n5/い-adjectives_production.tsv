@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using い-Adjectives	（い-Adjectives）の例文1です。		（い-Adjectives）の例文1です。	Adjectives ending in い	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:い-adjectives scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using い-Adjectives	（い-Adjectives）の例文2です。		（い-Adjectives）の例文2です。	Adjectives ending in い	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:い-adjectives scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using い-Adjectives	（い-Adjectives）の例文3です。		（い-Adjectives）の例文3です。	Adjectives ending in い	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:い-adjectives scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using い-Adjectives	（い-Adjectives）の例文4です。		（い-Adjectives）の例文4です。	Adjectives ending in い	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:い-adjectives scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using い-Adjectives	（い-Adjectives）の例文5です。		（い-Adjectives）の例文5です。	Adjectives ending in い	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:い-adjectives scaffold:pending-content scaffold:pending-audio source:bunpro
+This book is expensive.	この本は高いです。	このほんはたかいです。	この本は高いです。	い-adj predicate	[sound:3f1f6601b577.mp3]	module:01-n5 jlpt:n5 point:い-adjectives source:authored scaffold:pending-audio
+It's cold today, isn't it.	今日は寒いですね。	きょうはさむいですね。	今日は寒いですね。	い-adj with ね	[sound:b271f17a17ee.mp3]	module:01-n5 jlpt:n5 point:い-adjectives source:authored scaffold:pending-audio
+It was a fun time.	楽しい時間でした。	たのしいじかんでした。	楽しい時間でした。	い-adj attributive	[sound:d5e9a2f061d6.mp3]	module:01-n5 jlpt:n5 point:い-adjectives source:authored scaffold:pending-audio
+I bought new shoes.	新しい靴を買いました。	あたらしいくつをかいました。	新しい靴を買いました。	い-adj attributive	[sound:702da003a437.mp3]	module:01-n5 jlpt:n5 point:い-adjectives source:authored scaffold:pending-audio
+That mountain is high.	あの山は高い。	あのやまはたかい。	あの山は高い。	い-adj plain predicate	[sound:63089006fa16.mp3]	module:01-n5 jlpt:n5 point:い-adjectives source:authored scaffold:pending-audio

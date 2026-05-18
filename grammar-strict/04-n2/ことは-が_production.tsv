@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
 
-Say: example 1 using ことは〜が	（ことは〜が）の例文1です。		（ことは〜が）の例文1です。	It is true...but, although, but	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことは-が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using ことは〜が	（ことは〜が）の例文2です。		（ことは〜が）の例文2です。	It is true...but, although, but	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことは-が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using ことは〜が	（ことは〜が）の例文3です。		（ことは〜が）の例文3です。	It is true...but, although, but	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことは-が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using ことは〜が	（ことは〜が）の例文4です。		（ことは〜が）の例文4です。	It is true...but, although, but	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことは-が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using ことは〜が	（ことは〜が）の例文5です。		（ことは〜が）の例文5です。	It is true...but, although, but	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:ことは-が scaffold:pending-content scaffold:pending-audio source:bunpro
+I will go, but I might be late.	行くことは行くが、遅れるかもしれない。	いくことはいくが、おくれるかもしれない。	行くことは行くが、遅れるかもしれない。	ことは〜が: going is conceded, then lateness is qualified	[sound:673c9587ca8c.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored scaffold:pending-audio
+I do know it, but not in detail.	知っていることは知っているが、詳しくはない。	しっていることはしっているが、くわしくはない。	知っていることは知っているが、詳しくはない。	ことは〜が: knowing is conceded, depth is qualified	[sound:28b0b1007f7b.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored scaffold:pending-audio
+It can be done, but it takes time.	できることはできるが、時間がかかる。	できることはできるが、じかんがかかる。	できることはできるが、時間がかかる。	ことは〜が: feasibility conceded, time cost qualified	[sound:94e015c6768b.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored scaffold:pending-audio
+I'll give it a try, but I don't know if it'll go well.	やってみることはやってみるが、うまくいくか分からない。	やってみることはやってみるが、うまくいくかわからない。	やってみることはやってみるが、うまくいくか分からない。	ことは〜が: attempt conceded, outcome uncertainty qualified	[sound:25c84ea4aaaf.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored scaffold:pending-audio
+I did understand it, but questions still remain.	理解することは理解したが、まだ疑問が残る。	りかいすることはりかいしたが、まだぎもんがのこる。	理解することは理解したが、まだ疑問が残る。	ことは〜が: understanding conceded, residual doubt qualified	[sound:2440ae2971ba.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored scaffold:pending-audio

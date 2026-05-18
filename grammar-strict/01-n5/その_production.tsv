@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using その	（その）の例文1です。		（その）の例文1です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using その	（その）の例文2です。		（その）の例文2です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using その	（その）の例文3です。		（その）の例文3です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using その	（その）の例文4です。		（その）の例文4です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using その	（その）の例文5です。		（その）の例文5です。	That	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:その scaffold:pending-content scaffold:pending-audio source:bunpro
+Please lend me that book.	その本を貸してください。	そのほんをかしてください。	その本を貸してください。	near listener, request	[sound:1337cd8ec3d2.mp3]	module:01-n5 jlpt:n5 point:その source:authored scaffold:pending-audio
+That's a good question.	その質問はいい質問です。	そのしつもんはいいしつもんです。	その質問はいい質問です。	near listener, just mentioned	[sound:13ef1a25f309.mp3]	module:01-n5 jlpt:n5 point:その source:authored scaffold:pending-audio
+I've seen that movie before.	その映画は見たことがあります。	そのえいがはみたことがあります。	その映画は見たことがあります。	responding to listener's topic	[sound:1b08eb52c2ab.mp3]	module:01-n5 jlpt:n5 point:その source:authored scaffold:pending-audio
+Who is that person?	その人は誰ですか。	そのひとはだれですか。	その人は誰ですか。	asking about near listener	[sound:74b2add05ed7.mp3]	module:01-n5 jlpt:n5 point:その source:authored scaffold:pending-audio
+I went at that time.	その時に行きました。	そのときにいきました。	その時に行きました。	anaphoric reference	[sound:d2ebb9db7ddd.mp3]	module:01-n5 jlpt:n5 point:その source:authored scaffold:pending-audio

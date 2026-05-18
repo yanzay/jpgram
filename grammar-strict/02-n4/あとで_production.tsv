@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using あとで	（あとで）の例文1です。		（あとで）の例文1です。	After, Later	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:あとで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using あとで	（あとで）の例文2です。		（あとで）の例文2です。	After, Later	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:あとで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using あとで	（あとで）の例文3です。		（あとで）の例文3です。	After, Later	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:あとで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using あとで	（あとで）の例文4です。		（あとで）の例文4です。	After, Later	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:あとで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using あとで	（あとで）の例文5です。		（あとで）の例文5です。	After, Later	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:あとで scaffold:pending-content scaffold:pending-audio source:bunpro
+I watch TV after doing my homework.	宿題をしたあとで、テレビを見ます。	しゅくだいをしたあとで、てれびをみます。	宿題をしたあとで、テレビを見ます。	sequential order: homework first	[sound:135b2f2ee7c4.mp3]	module:02-n4 jlpt:n4 point:あとで source:authored scaffold:pending-audio
+Let's take a walk after lunch.	昼ごはんのあとで、散歩しましょう。	ひるごはんのあとで、さんぽしましょう。	昼ごはんのあとで、散歩しましょう。	noun + のあとで	[sound:ec460156d541.mp3]	module:02-n4 jlpt:n4 point:あとで source:authored scaffold:pending-audio
+I'll write the report after the meeting.	会議のあとで、報告書を書きます。	かいぎのあとで、ほうこくしょをかきます。	会議のあとで、報告書を書きます。	professional activity sequence	[sound:0b54046c88e6.mp3]	module:02-n4 jlpt:n4 point:あとで source:authored scaffold:pending-audio
+After the exam was over, I hung out with friends.	試験が終わったあとで、友達と遊びました。	しけんがおわったあとで、ともだちとあそびました。	試験が終わったあとで、友達と遊びました。	exam completion triggers leisure	[sound:086d1ead7f1e.mp3]	module:02-n4 jlpt:n4 point:あとで source:authored scaffold:pending-audio
+I go to sleep after taking a shower.	シャワーを浴びたあとで、寝ます。	しゃわーをあびたあとで、ねます。	シャワーを浴びたあとで、寝ます。	nightly routine sequence	[sound:7758853975e7.mp3]	module:02-n4 jlpt:n4 point:あとで source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Say: example 1 using まま(に)	（まま(に)）の例文1です。		（まま(に)）の例文1です。	As is, While remaining, Left in a state	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まま scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using まま(に)	（まま(に)）の例文2です。		（まま(に)）の例文2です。	As is, While remaining, Left in a state	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まま scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using まま(に)	（まま(に)）の例文3です。		（まま(に)）の例文3です。	As is, While remaining, Left in a state	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まま scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using まま(に)	（まま(に)）の例文4です。		（まま(に)）の例文4です。	As is, While remaining, Left in a state	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まま scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using まま(に)	（まま(に)）の例文5です。		（まま(に)）の例文5です。	As is, While remaining, Left in a state	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:まま scaffold:pending-content scaffold:pending-audio source:bunpro
+I entered the room with my shoes still on.	靴を履いたまま部屋に入ってしまった。	くつをはいたままへやにはいってしまった。	靴を履いたまま部屋に入ってしまった。	たまま: shoes-on state persists into next action	[sound:61da4263fd18.mp3]	module:03-n3 jlpt:n3 point:まま source:authored scaffold:pending-audio
+I often fall asleep with the TV still on.	テレビをつけたまま眠ってしまうことが多い。	てれびをつけたままねむってしまうことがおおい。	テレビをつけたまま眠ってしまうことが多い。	たまま: TV-on state unchanged throughout sleep	[sound:90f106f67892.mp3]	module:03-n3 jlpt:n3 point:まま source:authored scaffold:pending-audio
+Going out with the window left open is dangerous.	窓を開けたまま外出するのは危険です。	まどをあけたままがいしゅつするのはきけんです。	窓を開けたまま外出するのは危険です。	たまま: open-window state persists during absence	[sound:36d2e06b4b07.mp3]	module:03-n3 jlpt:n3 point:まま source:authored scaffold:pending-audio
+That issue remains unsolved as it was.	あの問題は未解決のまま残っている。	あのもんだいはみかいけつのままのこっている。	あの問題は未解決のまま残っている。	のまま: state of being unresolved is unchanged	[sound:057b6f9668b7.mp3]	module:03-n3 jlpt:n3 point:まま source:authored scaffold:pending-audio
+He left without saying a word, remaining angry throughout.	彼は怒ったまま、一言も話さずに帰った。	かれはおこったまま、ひとこともはなさずにかえった。	彼は怒ったまま、一言も話さずに帰った。	たまま: emotional state continues through to departure	[sound:bf3b01ce4956.mp3]	module:03-n3 jlpt:n3 point:まま source:authored scaffold:pending-audio

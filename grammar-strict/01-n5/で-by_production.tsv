@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using で	（で）の例文1です。		（で）の例文1です。	With, By (using)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:で-by scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using で	（で）の例文2です。		（で）の例文2です。	With, By (using)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:で-by scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using で	（で）の例文3です。		（で）の例文3です。	With, By (using)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:で-by scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using で	（で）の例文4です。		（で）の例文4です。	With, By (using)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:で-by scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using で	（で）の例文5です。		（で）の例文5です。	With, By (using)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:で-by scaffold:pending-content scaffold:pending-audio source:bunpro
+I go to work by train.	電車で会社に行きます。	でんしゃでかいしゃにいきます。	電車で会社に行きます。	electric train as means	[sound:6e54d714ca7c.mp3]	module:01-n5 jlpt:n5 point:で-by source:authored scaffold:pending-audio
+I eat rice with chopsticks.	箸でご飯を食べます。	はしでごはんをたべます。	箸でご飯を食べます。	chopsticks as tool	[sound:d47e6fe921f1.mp3]	module:01-n5 jlpt:n5 point:で-by source:authored scaffold:pending-audio
+I wrote the email in Japanese.	日本語でメールを書きました。	にほんごでめーるをかきました。	日本語でメールを書きました。	language as means	[sound:27b729e0ed2b.mp3]	module:01-n5 jlpt:n5 point:で-by source:authored scaffold:pending-audio
+I came by bus.	バスで来ました。	ばすできました。	バスで来ました。	transportation	[sound:ce8d9a927695.mp3]	module:01-n5 jlpt:n5 point:で-by source:authored scaffold:pending-audio
+Please write with a pencil.	鉛筆で書いてください。	えんぴつでかいてください。	鉛筆で書いてください。	writing tool	[sound:86dc7ed958bc.mp3]	module:01-n5 jlpt:n5 point:で-by source:authored scaffold:pending-audio

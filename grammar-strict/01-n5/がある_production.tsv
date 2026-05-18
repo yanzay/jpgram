@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using がある	（がある）の例文1です。		（がある）の例文1です。	To be, There is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using がある	（がある）の例文2です。		（がある）の例文2です。	To be, There is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using がある	（がある）の例文3です。		（がある）の例文3です。	To be, There is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using がある	（がある）の例文4です。		（がある）の例文4です。	To be, There is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using がある	（がある）の例文5です。		（がある）の例文5です。	To be, There is	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある scaffold:pending-content scaffold:pending-audio source:bunpro
+There is a book on the desk.	机の上に本があります。	つくえのうえにほんがあります。	机の上に本があります。	physical existence of object	[sound:eb66a2be2a54.mp3]	module:01-n5 jlpt:n5 point:がある source:authored scaffold:pending-audio
+There is a test tomorrow.	明日試験があります。	あしたしけんがあります。	明日試験があります。	scheduled event	[sound:bb45d87a20e7.mp3]	module:01-n5 jlpt:n5 point:がある source:authored scaffold:pending-audio
+There is a big tree in the park.	公園に大きな木があります。	こうえんにおおきなきがあります。	公園に大きな木があります。	natural object existence	[sound:2bbe3b9005b8.mp3]	module:01-n5 jlpt:n5 point:がある source:authored scaffold:pending-audio
+Do you have any questions?	質問がありますか。	しつもんがありますか。	質問がありますか。	abstract noun existence	[sound:c673bda92291.mp3]	module:01-n5 jlpt:n5 point:がある source:authored scaffold:pending-audio
+There's no money in my bag.	鞄の中にお金がありません。	かばんのなかにおかねがありません。	鞄の中にお金がありません。	negative existence	[sound:76065d28fc66.mp3]	module:01-n5 jlpt:n5 point:がある source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Recognition
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
 
-（誰）を使う例文1です。		Who	誰	誰	Who	Scaffold		[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だれ scaffold:pending-content scaffold:pending-audio source:bunpro
-（誰）を使う例文2です。		Who	誰	誰	Who	Scaffold		[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だれ scaffold:pending-content scaffold:pending-audio source:bunpro
-（誰）を使う例文3です。		Who	誰	誰	Who	Scaffold		[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だれ scaffold:pending-content scaffold:pending-audio source:bunpro
-（誰）を使う例文4です。		Who	誰	誰	Who	Scaffold		[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だれ scaffold:pending-content scaffold:pending-audio source:bunpro
-（誰）を使う例文5です。		Who	誰	誰	Who	Scaffold		[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:だれ scaffold:pending-content scaffold:pending-audio source:bunpro
+あの人は誰ですか。	あのひとはだれですか。	Who is that person?	誰 (who)	誰 + が / は / の / を …	asks identity (who)		誰 (who, neutral); どなた (polite)	[sound:373225e71792.mp3]	module:01-n5 jlpt:n5 point:だれ source:authored scaffold:pending-audio
+誰がパンを食べましたか。	だれがぱんをたべましたか。	Who ate the bread?	誰 (who)	誰 + が / は / の / を …	asks identity (who)		誰 (who, neutral); どなた (polite)	[sound:43713dadc9fd.mp3]	module:01-n5 jlpt:n5 point:だれ source:authored scaffold:pending-audio
+これは誰の本ですか。	これはだれのほんですか。	Whose book is this?	誰 (who)	誰 + が / は / の / を …	asks identity (who)		誰 (who, neutral); どなた (polite)	[sound:e63eebfe145f.mp3]	module:01-n5 jlpt:n5 point:だれ source:authored scaffold:pending-audio
+誰と来ましたか。	だれときましたか。	Who did you come with?	誰 (who)	誰 + が / は / の / を …	asks identity (who)		誰 (who, neutral); どなた (polite)	[sound:1a0a19efa32c.mp3]	module:01-n5 jlpt:n5 point:だれ source:authored scaffold:pending-audio
+教室には誰もいません。	きょうしつにはだれもいません。	There's no one in the classroom.	誰 (who)	誰 + が / は / の / を …	asks identity (who)		誰 (who, neutral); どなた (polite)	[sound:e52239bfbeef.mp3]	module:01-n5 jlpt:n5 point:だれ source:authored scaffold:pending-audio

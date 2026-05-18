@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Say: example 1 using ために	（ために）の例文1です。		（ために）の例文1です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using ために	（ために）の例文2です。		（ために）の例文2です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using ために	（ために）の例文3です。		（ために）の例文3です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using ために	（ために）の例文4です。		（ために）の例文4です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using ために	（ために）の例文5です。		（ために）の例文5です。	Due to, Because of, As a result of	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:ために scaffold:pending-content scaffold:pending-audio source:bunpro
+Due to the typhoon, transportation was disrupted.	台風のために、交通機関が乱れた。	たいふうのために、こうつうきかんがみだれた。	台風のために、交通機関が乱れた。	ために: natural disaster as neutral cause	[sound:35c765dfa49e.mp3]	module:03-n3 jlpt:n3 point:ために source:authored scaffold:pending-audio
+Because of carelessness, I keep making the same mistake over and over.	不注意なために、何度も同じミスを繰り返してしまう。	ふちゅういなために、なんどもおなじみすをくりかえしてしまう。	不注意なために、何度も同じミスを繰り返してしまう。	な-Adj+ために: character trait as cause of problem	[sound:b06c6835ae98.mp3]	module:03-n3 jlpt:n3 point:ために source:authored scaffold:pending-audio
+Because the road was congested, I ended up being late for the appointment.	道が混んでいたために、約束の時間に遅れてしまった。	みちがこんでいたために、やくそくのじかんにおくれてしまった。	道が混んでいたために、約束の時間に遅れてしまった。	Adj+ために: traffic condition as cause of lateness	[sound:96bfef21d768.mp3]	module:03-n3 jlpt:n3 point:ために source:authored scaffold:pending-audio
+Because he is very busy, the situation continues where I can't reach him.	彼が多忙なために、連絡が取れない状況が続いている。	かれがたぼうなために、れんらくがとれないじょうきょうがつづいている。	彼が多忙なために、連絡が取れない状況が続いている。	な-Adj+ために: state causing an ongoing difficulty	[sound:107a260c3ccc.mp3]	module:03-n3 jlpt:n3 point:ために source:authored scaffold:pending-audio
+Because the information was insufficient, I made a wrong judgment.	情報が不十分だったために、判断を誤ってしまった。	じょうほうがふじゅうぶんだったために、はんだんをあやまってしまった。	情報が不十分だったために、判断を誤ってしまった。	Adj+ために: inadequacy as cause of error	[sound:b0c042654fe4.mp3]	module:03-n3 jlpt:n3 point:ために source:authored scaffold:pending-audio

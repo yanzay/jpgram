@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using たらどう	（たらどう）の例文1です。		（たらどう）の例文1です。	Why don't you...?, What if you did...?	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たらどう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using たらどう	（たらどう）の例文2です。		（たらどう）の例文2です。	Why don't you...?, What if you did...?	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たらどう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using たらどう	（たらどう）の例文3です。		（たらどう）の例文3です。	Why don't you...?, What if you did...?	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たらどう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using たらどう	（たらどう）の例文4です。		（たらどう）の例文4です。	Why don't you...?, What if you did...?	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たらどう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using たらどう	（たらどう）の例文5です。		（たらどう）の例文5です。	Why don't you...?, What if you did...?	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:たらどう scaffold:pending-content scaffold:pending-audio source:bunpro
+If you're tired, why don't you take a little break?	疲れたら、少し休んだらどうですか。	つかれたら、すこしやすんだらどうですか。	疲れたら、少し休んだらどうですか。	suggestion based on condition	[sound:640f02323d43.mp3]	module:02-n4 jlpt:n4 point:たらどう source:authored scaffold:pending-audio
+If you don't understand, why don't you ask the teacher?	わからなければ、先生に聞いたらどうですか。	わからなければ、せんせいにきいたらどうですか。	わからなければ、先生に聞いたらどうですか。	suggestion for problem-solving	[sound:6faf2a5a3bbc.mp3]	module:02-n4 jlpt:n4 point:たらどう source:authored scaffold:pending-audio
+Why don't you practice a bit more?	もう少し練習したらどう？	もうすこしれんしゅうしたらどう？	もう少し練習したらどう？	casual suggestion to improve	[sound:c8c85a8c0ad1.mp3]	module:02-n4 jlpt:n4 point:たらどう source:authored scaffold:pending-audio
+If you can't go, why don't you let them know early?	もし行けないなら、早めに伝えたらどうですか。	もしいけないなら、はやめにつたえたらどうですか。	もし行けないなら、早めに伝えたらどうですか。	advice on communication	[sound:5e4c61cdc56e.mp3]	module:02-n4 jlpt:n4 point:たらどう source:authored scaffold:pending-audio
+If you're hungry, why don't you eat something?	お腹が空いているなら、何か食べたらどう？	おなかがあいているなら、なにかたべたらどう？	お腹が空いているなら、何か食べたらどう？	practical suggestion	[sound:b70759307c77.mp3]	module:02-n4 jlpt:n4 point:たらどう source:authored scaffold:pending-audio

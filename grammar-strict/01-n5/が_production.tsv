@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using が	（が）の例文1です。		（が）の例文1です。	Subject marking particle, Identification particle	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using が	（が）の例文2です。		（が）の例文2です。	Subject marking particle, Identification particle	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using が	（が）の例文3です。		（が）の例文3です。	Subject marking particle, Identification particle	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using が	（が）の例文4です。		（が）の例文4です。	Subject marking particle, Identification particle	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:が scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using が	（が）の例文5です。		（が）の例文5です。	Subject marking particle, Identification particle	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:が scaffold:pending-content scaffold:pending-audio source:bunpro
+It is raining.	雨が降っています。	あめがふっています。	雨が降っています。	weather phenomenon as new subject	[sound:86cc2bb01330.mp3]	module:01-n5 jlpt:n5 point:が source:authored scaffold:pending-audio
+Who ate the bread?	誰がパンを食べましたか。	だれがぱんをたべましたか。	誰がパンを食べましたか。	question word 誰 always takes が	[sound:43713dadc9fd.mp3]	module:01-n5 jlpt:n5 point:が source:authored scaffold:pending-audio
+There is a cat in front of the door.	猫がドアの前にいます。	ねこがどあのまえにいます。	猫がドアの前にいます。	が introduces newly mentioned subject	[sound:f3e4fe78f068.mp3]	module:01-n5 jlpt:n5 point:が source:authored scaffold:pending-audio
+I am Tanaka. (I'm the one who is Tanaka.)	私が田中です。	わたしがたなかです。	私が田中です。	が highlights 私 as the answer	[sound:f9838ff9eece.mp3]	module:01-n5 jlpt:n5 point:が source:authored scaffold:pending-audio
+The train has come.	電車が来ました。	でんしゃがきました。	電車が来ました。	new arrival, subject marked with が	[sound:4ad24fe617f9.mp3]	module:01-n5 jlpt:n5 point:が source:authored scaffold:pending-audio

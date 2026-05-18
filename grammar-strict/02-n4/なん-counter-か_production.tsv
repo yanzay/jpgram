@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using なん + counter + か	（なん + counter + か）の例文1です。		（なん + counter + か）の例文1です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using なん + counter + か	（なん + counter + か）の例文2です。		（なん + counter + か）の例文2です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using なん + counter + か	（なん + counter + か）の例文3です。		（なん + counter + か）の例文3です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using なん + counter + か	（なん + counter + か）の例文4です。		（なん + counter + か）の例文4です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using なん + counter + か	（なん + counter + か）の例文5です。		（なん + counter + か）の例文5です。	Some, Several, A few	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か scaffold:pending-content scaffold:pending-audio source:bunpro
+I bought some books.	何冊か本を買いました。	なにさつかほんをかいました。	何冊か本を買いました。	何冊か = some (unspecified count)	[sound:40cfdd6f844a.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か source:authored scaffold:pending-audio
+I tried several times, but it didn't work out.	何度か挑戦しましたが、うまくいきませんでした。	なんどかちょうせんしましたが、うまくいきませんでした。	何度か挑戦しましたが、うまくいきませんでした。	何度か = several attempts	[sound:222d1bc9040b.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か source:authored scaffold:pending-audio
+A few people raised their hands.	何人か手を挙げました。	なんにんかてをあげました。	何人か手を挙げました。	何人か = a few people	[sound:7509887bafc8.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か source:authored scaffold:pending-audio
+A few days later, a reply came.	何日か後に、返事が来ました。	なんにちかあとに、へんじがきました。	何日か後に、返事が来ました。	何日か = a few days	[sound:d704b212f03e.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か source:authored scaffold:pending-audio
+I took some photos in advance.	何枚か写真を撮っておきました。	なんまいかしゃしんをとっておきました。	何枚か写真を撮っておきました。	何枚か = some photos	[sound:e992840fc0a0.mp3]	module:02-n4 jlpt:n4 point:なん-counter-か source:authored scaffold:pending-audio

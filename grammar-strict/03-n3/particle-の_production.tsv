@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Say: example 1 using Particle + の	（Particle + の）の例文1です。		（Particle + の）の例文1です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using Particle + の	（Particle + の）の例文2です。		（Particle + の）の例文2です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using Particle + の	（Particle + の）の例文3です。		（Particle + の）の例文3です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using Particle + の	（Particle + の）の例文4です。		（Particle + の）の例文4です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using Particle + の	（Particle + の）の例文5です。		（Particle + の）の例文5です。	Combined particles	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:particle-の scaffold:pending-content scaffold:pending-audio source:bunpro
+'Why are you crying?' 'Something sad happened.'	「どうして泣いてるの?」「悲しいことがあったの。」	「どうしてないてるの?」「かなしいことがあったの。」	「どうして泣いてるの?」「悲しいことがあったの。」	soft question の + soft explanatory answer の	[sound:ee4ad02cd824.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored scaffold:pending-audio
+I have to get up early tomorrow. That's why I'm going to bed early tonight.	明日早く起きなきゃいけないの。だから今夜は早く寝る。	あしたはやくおきなきゃいけないの。だからこんやははやくねる。	明日早く起きなきゃいけないの。だから今夜は早く寝る。	の: explains situation/circumstance to the listener	[sound:74c2d1501676.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored scaffold:pending-audio
+'Are you leaving already?' 'Yeah, because I have work tomorrow.'	「もう帰るの?」「うん、明日仕事があるから。」	「もうかえるの?」「うん、あしたしごとがあるから。」	「もう帰るの?」「うん、明日仕事があるから。」	の?: surprised soft question about departure	[sound:630ceef528ea.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored scaffold:pending-audio
+Actually, you know, I'm going to study abroad starting next week.	実はね、来週から留学するの。	じつはね、らいしゅうからりゅうがくするの。	実はね、来週から留学するの。	の: sharing personal news softly, awaiting response	[sound:fbd9a266770c.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored scaffold:pending-audio
+'You seem down. Did something happen?' 'I'm just a bit tired.'	「元気がないね。何かあったの?」「ちょっと疲れてるだけ。」	「げんきがないね。なにかあったの?」「ちょっとつかれてるだけ。」	「元気がないね。何かあったの?」「ちょっと疲れてるだけ。」	の?: caring question probing for an explanation	[sound:3f979bda865e.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored scaffold:pending-audio

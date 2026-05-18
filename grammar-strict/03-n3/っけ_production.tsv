@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Say: example 1 using っけ	（っけ）の例文1です。		（っけ）の例文1です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using っけ	（っけ）の例文2です。		（っけ）の例文2です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using っけ	（っけ）の例文3です。		（っけ）の例文3です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using っけ	（っけ）の例文4です。		（っけ）の例文4です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using っけ	（っけ）の例文5です。		（っけ）の例文5です。	What is…again?, Was it... that... ?, Did you say...?	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:っけ scaffold:pending-content scaffold:pending-audio source:bunpro
+'When was her birthday again?' 'It's next Monday.'	「彼女の誕生日っていつだっけ?」「来週の月曜日だよ。」	「かのじょのたんじょうひっていつだっけ?」「らいしゅうのげつようひだよ。」	「彼女の誕生日っていつだっけ?」「来週の月曜日だよ。」	っけ: trying to recall a forgotten date	[sound:ffdb4a6d6ba7.mp3]	module:03-n3 jlpt:n3 point:っけ source:authored scaffold:pending-audio
+Have I been here before? I can't quite remember.	ここって、前に来たことがあったっけ?	ここって、まえにきたことがあったっけ?	ここって、前に来たことがあったっけ?	っけ: uncertain recollection of past experience	[sound:0e4dc84ededf.mp3]	module:03-n3 jlpt:n3 point:っけ source:authored scaffold:pending-audio
+'What was the title of that movie again?' 'I think it was Your Name.'	「あの映画のタイトルなんだっけ?」「たしか、君の名は、だよ。」	「あのえいがのたいとるなんだっけ?」「たしか、きみのなは、だよ。」	「あの映画のタイトルなんだっけ?」「たしか、君の名は、だよ。」	っけ: asking to recover a forgotten title	[sound:043c38d3545b.mp3]	module:03-n3 jlpt:n3 point:っけ source:authored scaffold:pending-audio
+He was from Nagoya, wasn't he? I think I remember that.	彼ってたしか、名古屋の出身だったっけ。	かれってたしか、なごやのしゅっしんだったっけ。	彼ってたしか、名古屋の出身だったっけ。	っけ: half-remembered biographical fact being recalled	[sound:5aaeab5a9bc8.mp3]	module:03-n3 jlpt:n3 point:っけ source:authored scaffold:pending-audio
+What did I set the password as again? I can't remember at all.	パスワードって何にしたんだっけ。全然思い出せない。	ぱすわーどってなににしたんだっけ。ぜんぜんおもいだせない。	パスワードって何にしたんだっけ。全然思い出せない。	っけ: seeking to recall one's own past decision	[sound:86d7dea95317.mp3]	module:03-n3 jlpt:n3 point:っけ source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using あそこ	（あそこ）の例文1です。		（あそこ）の例文1です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using あそこ	（あそこ）の例文2です。		（あそこ）の例文2です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using あそこ	（あそこ）の例文3です。		（あそこ）の例文3です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using あそこ	（あそこ）の例文4です。		（あそこ）の例文4です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using あそこ	（あそこ）の例文5です。		（あそこ）の例文5です。	Over there	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あそこ scaffold:pending-content scaffold:pending-audio source:bunpro
+That place over there is a park.	あそこは公園です。	あそこはこうえんです。	あそこは公園です。	identifying distant place	[sound:9f87bcc4df8f.mp3]	module:01-n5 jlpt:n5 point:あそこ source:authored scaffold:pending-audio
+I met my friend over there.	あそこで友達と会いました。	あそこでともだちとあいました。	あそこで友達と会いました。	past meeting at distant spot	[sound:b31949eff65b.mp3]	module:01-n5 jlpt:n5 point:あそこ source:authored scaffold:pending-audio
+There is a cat over there.	あそこに猫がいます。	あそこにねこがいます。	あそこに猫がいます。	existence at distance	[sound:33b6a3c2a473.mp3]	module:01-n5 jlpt:n5 point:あそこ source:authored scaffold:pending-audio
+Let's walk over there.	あそこまで歩きましょう。	あそこまであるきましょう。	あそこまで歩きましょう。	distant destination	[sound:795f59f808ca.mp3]	module:01-n5 jlpt:n5 point:あそこ source:authored scaffold:pending-audio
+It's quiet over there, isn't it.	あそこは静かですね。	あそこはしずかですね。	あそこは静かですね。	describing distant place	[sound:e51277f783ca.mp3]	module:01-n5 jlpt:n5 point:あそこ source:authored scaffold:pending-audio

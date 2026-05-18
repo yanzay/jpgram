@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using う-Verb (Negative-Past)	（う-Verb (Negative-Past)）の例文1です。		（う-Verb (Negative-Past)）の例文1です。	う - Verbs (Negative-past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using う-Verb (Negative-Past)	（う-Verb (Negative-Past)）の例文2です。		（う-Verb (Negative-Past)）の例文2です。	う - Verbs (Negative-past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using う-Verb (Negative-Past)	（う-Verb (Negative-Past)）の例文3です。		（う-Verb (Negative-Past)）の例文3です。	う - Verbs (Negative-past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using う-Verb (Negative-Past)	（う-Verb (Negative-Past)）の例文4です。		（う-Verb (Negative-Past)）の例文4です。	う - Verbs (Negative-past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using う-Verb (Negative-Past)	（う-Verb (Negative-Past)）の例文5です。		（う-Verb (Negative-Past)）の例文5です。	う - Verbs (Negative-past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past scaffold:pending-content scaffold:pending-audio source:bunpro
+I didn't drink coffee yesterday.	昨日コーヒーを飲まなかった。	きのうこーひーをのまなかった。	昨日コーヒーを飲まなかった。	godan 飲む → 飲まなかった	[sound:38c1efa733cb.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past source:authored scaffold:pending-audio
+I didn't write my homework.	宿題を書かなかった。	しゅくだいをかかなかった。	宿題を書かなかった。	godan 書く → 書かなかった	[sound:e01994a1d552.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past source:authored scaffold:pending-audio
+He didn't say anything.	彼は何も話さなかった。	かれはなにもはなさなかった。	彼は何も話さなかった。	godan 話す → 話さなかった	[sound:4b12c7071f20.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past source:authored scaffold:pending-audio
+No one came.	誰も来なかった。	だれもこなかった。	誰も来なかった。	irregular 来る → 来なかった	[sound:2f59bcc32d26.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past source:authored scaffold:pending-audio
+That bus didn't stop.	そのバスは止まらなかった。	そのばすはとまらなかった。	そのバスは止まらなかった。	godan 止まる → 止まらなかった	[sound:805e36d97c87.mp3]	module:01-n5 jlpt:n5 point:う-verb-neg-past source:authored scaffold:pending-audio

@@ -66,7 +66,7 @@ DRY_RUN = bool(os.environ.get("JPG_TTS_DRY_RUN", "").strip())
 
 MEDIA_DIR      = Path("media/audio")
 MANIFEST_PATH  = Path("media/audio_manifest.json")
-GRAMMAR_DIR    = Path("grammar")
+GRAMMAR_DIR    = Path("grammar-strict")
 
 MANIFEST_VERSION = 1
 

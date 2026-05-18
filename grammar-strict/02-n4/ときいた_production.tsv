@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using ときいた	（ときいた）の例文1です。		（ときいた）の例文1です。	I heard that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ときいた scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using ときいた	（ときいた）の例文2です。		（ときいた）の例文2です。	I heard that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ときいた scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using ときいた	（ときいた）の例文3です。		（ときいた）の例文3です。	I heard that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ときいた scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using ときいた	（ときいた）の例文4です。		（ときいた）の例文4です。	I heard that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ときいた scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using ときいた	（ときいた）の例文5です。		（ときいた）の例文5です。	I heard that	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:ときいた scaffold:pending-content scaffold:pending-audio source:bunpro
+I heard that Tanaka-san is getting married next month.	田中さんが来月結婚すると聞きました。	たなかさんがらいげつけっこんするとききました。	田中さんが来月結婚すると聞きました。	personal hearsay	[sound:a539347c4ea7.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored scaffold:pending-audio
+I heard that store is closing in March.	その店は三月に閉まると聞きました。	そのみせはさんがつにしまるとききました。	その店は三月に閉まると聞きました。	heard about closure	[sound:8f436ec175ed.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored scaffold:pending-audio
+I heard the new café is good, so I went to check it out.	新しいカフェがおいしいと聞いたので、行ってみました。	あたらしいかふぇがおいしいときいたので、いってみました。	新しいカフェがおいしいと聞いたので、行ってみました。	heard → acted on information	[sound:5ff30bf314b3.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored scaffold:pending-audio
+I heard he's not feeling well — is he okay?	彼は体調が悪いと聞きましたが、大丈夫ですか。	かれはたいちょうがわるいとききましたが、だいじょうぶですか。	彼は体調が悪いと聞きましたが、大丈夫ですか。	concern based on hearsay	[sound:058c544e9abf.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored scaffold:pending-audio
+I heard this medicine is effective, so I'll try it.	この薬は効くと聞いたので、試してみます。	このくすりはきくときいたので、ためしてみます。	この薬は効くと聞いたので、試してみます。	heard advice prompts action	[sound:468032b7555b.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using あれ	（あれ）の例文1です。		（あれ）の例文1です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using あれ	（あれ）の例文2です。		（あれ）の例文2です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using あれ	（あれ）の例文3です。		（あれ）の例文3です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using あれ	（あれ）の例文4です。		（あれ）の例文4です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using あれ	（あれ）の例文5です。		（あれ）の例文5です。	That (over there)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:あれ scaffold:pending-content scaffold:pending-audio source:bunpro
+That over there is Mt. Fuji.	あれは富士山です。	あれはふじやまです。	あれは富士山です。	distant landmark	[sound:58a162164eb1.mp3]	module:01-n5 jlpt:n5 point:あれ source:authored scaffold:pending-audio
+What is that building over there?	あれは何の建物ですか。	あれはなにのたてものですか。	あれは何の建物ですか。	asking about distant object	[sound:d7a84eb224f8.mp3]	module:01-n5 jlpt:n5 point:あれ source:authored scaffold:pending-audio
+Please look at that over there.	あれを見てください。	あれをみてください。	あれを見てください。	directing attention	[sound:adc7a147dfce.mp3]	module:01-n5 jlpt:n5 point:あれ source:authored scaffold:pending-audio
+That over there is my car.	あれは私の車です。	あれはわたしのくるまです。	あれは私の車です。	identifying distant object	[sound:00d11c6632a9.mp3]	module:01-n5 jlpt:n5 point:あれ source:authored scaffold:pending-audio
+That over there is a tall building.	あれは高い建物です。	あれはたかいたてものです。	あれは高い建物です。	describing distant object	[sound:a35533dfc11a.mp3]	module:01-n5 jlpt:n5 point:あれ source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using かかる (Time/Price)	（かかる (Time/Price)）の例文1です。		（かかる (Time/Price)）の例文1です。	Costs (money), Takes (time)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using かかる (Time/Price)	（かかる (Time/Price)）の例文2です。		（かかる (Time/Price)）の例文2です。	Costs (money), Takes (time)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using かかる (Time/Price)	（かかる (Time/Price)）の例文3です。		（かかる (Time/Price)）の例文3です。	Costs (money), Takes (time)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using かかる (Time/Price)	（かかる (Time/Price)）の例文4です。		（かかる (Time/Price)）の例文4です。	Costs (money), Takes (time)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using かかる (Time/Price)	（かかる (Time/Price)）の例文5です。		（かかる (Time/Price)）の例文5です。	Costs (money), Takes (time)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost scaffold:pending-content scaffold:pending-audio source:bunpro
+It takes ten minutes to walk to the station from here.	ここから駅まで歩いて十分かかります。	ここからえきまであるいてじゅうぶんかかります。	ここから駅まで歩いて十分かかります。	travel time with かかる	[sound:86e38e4579e4.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored scaffold:pending-audio
+This repair cost fifty thousand yen.	この修理には五万円かかりました。	このしゅうりにはごまんえんかかりました。	この修理には五万円かかりました。	repair cost with かかる	[sound:3599984063a6.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored scaffold:pending-audio
+How much money does moving cost?	引っ越しにはどのくらいお金がかかりますか。	ひっこしにはどのくらいおかねがかかりますか。	引っ越しにはどのくらいお金がかかりますか。	asking about moving costs	[sound:da332ebac663.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored scaffold:pending-audio
+I think this job will take about a week.	この仕事は一週間かかると思います。	このしごとはいっしゅうかんかかるとおもいます。	この仕事は一週間かかると思います。	time estimation	[sound:f96fc9becf8d.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored scaffold:pending-audio
+Getting a new passport takes a little time.	新しいパスポートを取るのに少し時間がかかります。	あたらしいぱすぽーとをとるのにすこしじかんがかかります。	新しいパスポートを取るのに少し時間がかかります。	administrative time cost	[sound:7f0ade8b85de.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored scaffold:pending-audio

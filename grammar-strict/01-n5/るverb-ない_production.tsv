@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using る-Verb (Negative)	（る-Verb (Negative)）の例文1です。		（る-Verb (Negative)）の例文1です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:るverb-ない scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using る-Verb (Negative)	（る-Verb (Negative)）の例文2です。		（る-Verb (Negative)）の例文2です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:るverb-ない scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using る-Verb (Negative)	（る-Verb (Negative)）の例文3です。		（る-Verb (Negative)）の例文3です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:るverb-ない scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using る-Verb (Negative)	（る-Verb (Negative)）の例文4です。		（る-Verb (Negative)）の例文4です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:るverb-ない scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using る-Verb (Negative)	（る-Verb (Negative)）の例文5です。		（る-Verb (Negative)）の例文5です。	Will/Does/Do (not)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:るverb-ない scaffold:pending-content scaffold:pending-audio source:bunpro
+I don't eat meat.	肉を食べない。	にくをたべない。	肉を食べない。	ichidan 食べる → 食べない	[sound:2d5ff2a17faa.mp3]	module:01-n5 jlpt:n5 point:るverb-ない source:authored scaffold:pending-audio
+I don't watch TV.	テレビを見ない。	てれびをみない。	テレビを見ない。	ichidan 見る → 見ない	[sound:603f07aa0b0c.mp3]	module:01-n5 jlpt:n5 point:るverb-ない source:authored scaffold:pending-audio
+He doesn't sleep much.	彼はあまり寝ない。	かれはあまりねない。	彼はあまり寝ない。	ichidan 寝る → 寝ない	[sound:1cfc36d560d2.mp3]	module:01-n5 jlpt:n5 point:るverb-ない source:authored scaffold:pending-audio
+Some people don't eat breakfast.	朝ごはんを食べない人もいます。	あさごはんをたべないひともいます。	朝ごはんを食べない人もいます。	noun-modifying negative	[sound:572cefe4cc80.mp3]	module:01-n5 jlpt:n5 point:るverb-ない source:authored scaffold:pending-audio
+I don't answer difficult questions.	難しい問題は答えない。	むずかしいもんだいはこたえない。	難しい問題は答えない。	ichidan 答える → 答えない	[sound:604b67d1f6a2.mp3]	module:01-n5 jlpt:n5 point:るverb-ない source:authored scaffold:pending-audio

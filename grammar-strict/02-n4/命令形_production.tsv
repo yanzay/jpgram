@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using 命令形	（命令形）の例文1です。		（命令形）の例文1です。	(Verb)!, Do (something)!	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:命令形 scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using 命令形	（命令形）の例文2です。		（命令形）の例文2です。	(Verb)!, Do (something)!	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:命令形 scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using 命令形	（命令形）の例文3です。		（命令形）の例文3です。	(Verb)!, Do (something)!	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:命令形 scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using 命令形	（命令形）の例文4です。		（命令形）の例文4です。	(Verb)!, Do (something)!	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:命令形 scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using 命令形	（命令形）の例文5です。		（命令形）の例文5です。	(Verb)!, Do (something)!	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:命令形 scaffold:pending-content scaffold:pending-audio source:bunpro
+Danger! Stop!	危ない！止まれ！	あぶない！とまれ！	危ない！止まれ！	urgent command, imperative 止まれ	[sound:fe9310daaf6d.mp3]	module:02-n4 jlpt:n4 point:命令形 source:authored scaffold:pending-audio
+Be quiet! We're in class.	静かにしろ！授業中だぞ。	しずかにしろ！じゅぎょうちゅうだぞ。	静かにしろ！授業中だぞ。	しろ is する imperative	[sound:221d9f29692a.mp3]	module:02-n4 jlpt:n4 point:命令形 source:authored scaffold:pending-audio
+Come quickly. I'm waiting.	早く来い。待っているぞ。	はやくこい。まっているぞ。	早く来い。待っているぞ。	来い imperative of 来る	[sound:8d2f6af54c50.mp3]	module:02-n4 jlpt:n4 point:命令形 source:authored scaffold:pending-audio
+Don't give up. Push through to the end.	諦めるな。最後まで頑張れ。	あきらめるな。さいごまでがんばれ。	諦めるな。最後まで頑張れ。	negative imperative + positive imperative	[sound:9b7823e1145d.mp3]	module:02-n4 jlpt:n4 point:命令形 source:authored scaffold:pending-audio
+Turn right at the next traffic light.	次の信号で右に曲がれ。	つぎのしんごうでみぎにまがれ。	次の信号で右に曲がれ。	directions as command	[sound:13f1ef31bcee.mp3]	module:02-n4 jlpt:n4 point:命令形 source:authored scaffold:pending-audio
