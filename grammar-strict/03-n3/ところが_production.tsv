@@ -2,16 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-What does '〜ところだ' mean in present tense?	〜ところだ（now）	かれはいま、たべているところだ。	彼は今、食べているところだ。	Right now, in the process of	[sound:85fc8ad0ca67.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen
-Complete: 'I'm about to ___'	〜ところだ（about to）	いまからえいがをみるところだ。	今から映画を見るところだ。	About to start action	[sound:2825079eb5d6.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top1k source:shin-kanzen
-Which form means 'just finished'?	〜たところだ	たべたところだ。	食べたところだ。	Just completed action	[sound:dfcc5f7cf39e.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Fill: 'At the exact moment when ___'	〜ところへ/に	いっってきたところへ、かれがあらわれた。	入ってきたところへ、彼が現れた。	At that exact moment	[sound:e2ab49a1fa74.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
-What describes the state after an action?	〜ところの	かったところのほん。	買ったところの本。	The book just bought	[sound:f5be649f8dc4.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Complete: 'While ___'	〜ているところ	よんでいるところ。	読んでいるところ。	In the process of reading	[sound:771c0ce0422d.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Which marks critical point?	〜ところ（critical point）	そのじゅうようなところをみおとした。	その重要なところを見落とした。	That crucial point overlooked	[sound:7e800e61e47f.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
-Fill: 'By the time he ___'	〜ところまで	きたところまでせつめいした。	来たところまで説明した。	Explained up to his arrival	[sound:6ebbacc4c415.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
-What shows recent past?	〜たところ	ちょうしょくをとったところ、まんぷくになった。	朝食をとったところ、満腹になった。	After eating breakfast, felt full	[sound:236e1681c7ab.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
-Complete: 'Except for ___'	〜ところ以外	そのてんをのぞく。	その点を除く。	Except that point	[sound:768a5fc91586.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
+Say "I prepared carefully. However, the presentation went badly." using ところが.	ところが	じゅんびをした。ところが、はっぴょうはうまくいかなかった。	準備をした。ところが、発表はうまくいかなかった。	ところが: unexpected negative after careful preparation	[sound:41058b55e33c.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "We planned to win. However, we lost easily." using ところが.	ところが	かつとおもっていた。ところが、かんたんにまけてしまった。	勝つと思っていた。ところが、簡単に負けてしまった。	ところが with sports expectation + failed result	[sound:c589684a141c.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I thought he was honest. However, it turned out to be a lie." using ところが.	ところが	しょうじきだとおもっていた。ところが、うそだった。	正直だと思っていた。ところが、嘘だった。	ところが revealing a shocking truth after an assumption	[sound:36f44ad0ac88.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I looked forward to the trip. However, it rained the whole time." using ところが.	ところが	たのしみにしていた。ところが、ずっとあめだった。	楽しみにしていた。ところが、ずっと雨だった。	ところが = the disappointment of reality vs. expectation	[sound:53636ee7f737.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "We invested a lot. However, sales didn't increase." using ところが.	ところが	とうしをした。ところが、うりあげはふえなかった。	投資をした。ところが、売上は増えなかった。	ところが in business context: effort + unexpected poor result	[sound:0b9fc0cf16a6.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored
