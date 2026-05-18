@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-The president has already gone home.	社長はもうお帰りになりました。	しゃちょうはもうおかえりになりました。	社長はもうお帰りになりました。	exalts president's action	[sound:0db7d242a204.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
-The teacher always arrives early.	先生はいつもお早くお越しになります。	せんせいはいつもおはやくおこしになります。	先生はいつもお早くお越しになります。	honorific arrival of teacher	[sound:9ccd4d09c0af.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
-Has the manager read this report?	部長はこの報告書をお読みになりましたか。	ぶちょうはこのほうこくしょをおよみになりましたか。	部長はこの報告書をお読みになりましたか。	honorific question about manager	[sound:581f8181799c.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
-Has the guest already eaten?	お客様はもうお召し上がりになりましたか。	おきゃくさまはもうおめしあがりになりましたか。	お客様はもうお召し上がりになりましたか。	honorific eating of customer	[sound:c6791bcdae2b.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
-The teacher wrote their book.	先生がご著書をお書きになりました。	せんせいがごちょしょをおかきになりました。	先生がご著書をお書きになりました。	honorific writing action	[sound:b66f4a84e0a0.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+The president has already gone home.	社長はもうお帰りになりました。	しゃちょうはもうおかえりになりました。	社長はもうお帰りになりました。	exalts president's action	[sound:0db7d242a204.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored source:shin-kanzen frequency:top5k complexity:standard
+The teacher always arrives early.	先生はいつもお早くお越しになります。	せんせいはいつもおはやくおこしになります。	先生はいつもお早くお越しになります。	honorific arrival of teacher	[sound:9ccd4d09c0af.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored source:shin-kanzen frequency:top1k complexity:standard
+Has the manager read this report?	部長はこの報告書をお読みになりましたか。	ぶちょうはこのほうこくしょをおよみになりましたか。	部長はこの報告書をお読みになりましたか。	honorific question about manager	[sound:581f8181799c.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored source:shin-kanzen frequency:top10k complexity:standard
+Has the guest already eaten?	お客様はもうお召し上がりになりましたか。	おきゃくさまはもうおめしあがりになりましたか。	お客様はもうお召し上がりになりましたか。	honorific eating of customer	[sound:c6791bcdae2b.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored source:shin-kanzen frequency:low complexity:standard
+The teacher wrote their book.	先生がご著書をお書きになりました。	せんせいがごちょしょをおかきになりました。	先生がご著書をお書きになりました。	honorific writing action	[sound:b66f4a84e0a0.mp3]	module:02-n4 jlpt:n4 point:お-になる source:authored source:shin-kanzen frequency:low complexity:standard

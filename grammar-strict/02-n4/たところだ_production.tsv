@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say "I just arrived" using たところだ.	たところだ	ちょうど着いたところです。	ちょうど着いたところです。	たところだ = the action just reached completion moments ago	[sound:56406cb245de.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "she just left" using たところだ.	たところだ	かのじょはさっきでかけたところです。	彼女はさっき出かけたところです。	さっき + たところだ emphasises immediacy	[sound:054fa485c2e0.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "I just finished the report" using たところだ.	たところだ	レポートをちょうど書き終えたところです。	レポートをちょうど書き終えたところです。	書き終える + たところだ = just completed writing	[sound:cfbe8955af71.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "we just started the meeting" using たところだ.	たところだ	会議はちょうど始まったところです。	会議はちょうど始まったところです。	たところだ signals very recent start	[sound:c9c3bfe43f96.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "I just ate, so I'm not hungry" using たところだ.	たところだ	ちょうど食べたところなので、お腹は空いていません。	ちょうど食べたところなので、お腹は空いていません。	たところなので explains why the result state holds	[sound:1a67ae521959.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
+"Say ""I just arrived"" using たところだ."	たところだ	ちょうど着いたところです。	ちょうど着いたところです。	たところだ = the action just reached completion moments ago	[sound:56406cb245de.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
+"Say ""she just left"" using たところだ."	たところだ	かのじょはさっきでかけたところです。	彼女はさっき出かけたところです。	さっき + たところだ emphasises immediacy	[sound:054fa485c2e0.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k
+"Say ""I just finished the report"" using たところだ."	たところだ	レポートをちょうど書き終えたところです。	レポートをちょうど書き終えたところです。	書き終える + たところだ = just completed writing	[sound:cfbe8955af71.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
+"Say ""we just started the meeting"" using たところだ."	たところだ	会議はちょうど始まったところです。	会議はちょうど始まったところです。	たところだ signals very recent start	[sound:c9c3bfe43f96.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored
+"Say ""I just ate, so I'm not hungry"" using たところだ."	たところだ	ちょうど食べたところなので、お腹は空いていません。	ちょうど食べたところなので、お腹は空いていません。	たところなので explains why the result state holds	[sound:1a67ae521959.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k

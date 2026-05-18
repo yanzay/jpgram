@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say "I waited until 10 o'clock."	まで	十時まで待ちました。	十時まで待ちました。	まで = temporal endpoint; compare に (point) vs まで (span)	[sound:326f035ac183.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "even children know this (surprising scope)."	まで	子供まで知っている。	子供まで知っている。	まで = even; marks unexpected inclusion	[sound:c0d7ebbb96e6.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "I studied until midnight."	まで	夜中まで勉強した。	夜中まで勉強した。	まで extends the span to an endpoint	[sound:154ad5b88d13.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "even the president came" (unexpected).	まで	社長まで来てくれた。	社長まで来てくれた。	まで = even ~ (emphatic / surprising scope)	[sound:c2af7c86f610.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored
-Say "she cried even at work" (strong reaction).	まで	彼女は職場でまで泣いた。	彼女は職場でまで泣いた。	でまで = even at [place]; double-particle emphatic	[sound:c4d2c075d695.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored
+"Say ""I waited until 10 o'clock."""	まで	十時まで待ちました。	十時まで待ちました。	まで = temporal endpoint; compare に (point) vs まで (span)	[sound:326f035ac183.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top1k complexity:intro
+"Say ""even children know this (surprising scope)."""	まで	子供まで知っている。	子供まで知っている。	まで = even; marks unexpected inclusion	[sound:c0d7ebbb96e6.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top1k complexity:intro
+"Say ""I studied until midnight."""	まで	夜中まで勉強した。	夜中まで勉強した。	まで extends the span to an endpoint	[sound:154ad5b88d13.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k complexity:intro
+"Say ""even the president came"" (unexpected)."	まで	社長まで来てくれた。	社長まで来てくれた。	まで = even ~ (emphatic / surprising scope)	[sound:c2af7c86f610.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k complexity:intro
+"Say ""she cried even at work"" (strong reaction)."	まで	彼女は職場でまで泣いた。	彼女は職場でまで泣いた。	でまで = even at [place]; double-particle emphatic	[sound:c4d2c075d695.mp3]	module:02-n4 jlpt:n4 point:まで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:low complexity:intro
