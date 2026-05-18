@@ -2,16 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-What noun marks a point in time?	ところ	かれがきたところに、あめがふった。	彼が来たところに、雨が降った。	Marks specific moment in sequence	[sound:7e85c071ee08.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
-Complete: 'During the ___'	あいだ	かいぎのまに、みながねていた。	会議の間に、皆が寝ていた。	Period of duration	[sound:94a410efd109.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Which marks a time span?	うち	わかいうちに、どりょくしよう。	若いうちに、努力しよう。	While young (time period)	[sound:f28e05adb2c3.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
-Fill: 'At the moment of ___'	ところ（moment）	はしっているところをみた。	走っているところを見た。	Catches action in progress	[sound:8aa72a113b9d.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-What noun describes a space or location?	あたり	えきのあたりであいましょう。	駅のあたりで会いましょう。	Around the station area	[sound:c7a3cc932c8f.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top1k source:shin-kanzen
-Complete: 'Side by side ___'	そば	せんせいのそばにすわった。	先生のそばに座った。	Beside the teacher	[sound:fedcd3e6a707.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Which marks 'reason' contextually?	わけ	かれはおきんがないわけで、かえさない。	彼はお金がないわけで、返さない。	Explanation for situation	[sound:be82a74a69f9.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
-Fill: 'Directly opposite ___'	むこう	かわのむこうがわ。	川の向こう側。	Other side of river	[sound:d364eae1e9a7.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-What noun describes approximate quantity?	ほど	いちじかんほどまった。	1時間ほど待った。	About/approximately (time/quantity)	[sound:d111841d5891.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Complete: 'In front of ___'	まえ（front）	えきのまえでまとう。	駅の前で待とう。	In front of station	[sound:00c8c5177afe.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
+Say "please do exactly as the manual says" (use とおり).	とおり	まにゅあるのとおりにしてください。	マニュアルのとおりにしてください。	Noun + のとおりに: follow exactly as written	[sound:3187d8d6738a.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored
+Say "things went as planned" (use とおり).	とおり	けいかくどおりにすすんだ。	計画どおりに進んだ。	どおり attaches to nouns: exactly as planned	[sound:5ca175b62916.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored
+Say "he did exactly as I told him" (use とおり).	とおり	わたしがいったとおりにかれはした。	私が言ったとおりに彼はした。	V-た + とおりに: as one said/did	[sound:9d58be3255bd.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored
+Say "the results were exactly as predicted" (use とおり).	とおり	けっかはよそうしたとおりだった。	結果は予想したとおりだった。	とおり as predicate: it was exactly as expected	[sound:cff21584e4a1.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored
+Say "please proceed as directed" (use とおり).	とおり	しじのとおりにすすめてください。	指示のとおりに進めてください。	Noun + のとおりに in workplace instruction context	[sound:a7e792314bdd.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored

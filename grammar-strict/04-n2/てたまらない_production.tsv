@@ -2,16 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
 #deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
 
-What structure expresses possibility?	ーかもしれない	あしたはあめかもしれない。	明日は雨かもしれない。	Marks possibility or uncertainty	[sound:f51fde625e1c.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Complete: 'Must ___'	ーばかりか	まちがいない。	間違いない。	Certainty marker	[sound:896a2bff4015.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
-Which marks conditional necessity?	ーなければならない	まいにちべんきょうしなければならない。	毎日勉強しなければならない。	Must do (obligation)	[sound:c0b7a1c9ed82.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k source:shin-kanzen
-Fill: 'Can do ___'	ーことができる、ーられる	およぐことができる。	泳ぐことができる。	Ability or permission	[sound:58e360570186.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-What shows supposition?	ーようだ、ーみたいだ	かれはいかっているようだ。	彼は怒っているようだ。	Seems like, appears to be	[sound:68af14be6a66.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Complete: 'Probably ___'	ーだろう、ーでしょう	あしたははれるだろう。	明日は晴れるだろう。	Probability marker	[sound:2269a15bb217.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Which expresses permission?	ーてもいい	ここにすわってもいいですか。	ここに座ってもいいですか。	Asking or giving permission	[sound:f92f96eeb47b.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k source:shin-kanzen
-Fill: 'Don't have to ___'	ーなくてもいい	こんにちはこなくてもいい。	今日は来なくてもいい。	Not necessary	[sound:3b464177ca78.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
-What marks habitual possibility?	ーことがある	ときどきあめがふることがある。	時々雨が降ることがある。	Sometimes happens	[sound:422c11f5ff21.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Complete: 'Used to ___'	ーたことがある	むかし、およぎにいったことがある。	昔、泳ぎに行ったことがある。	Past experience	[sound:8a3bec97a3fb.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
+Say "I'm unbearably sleepy" using てたまらない.	てたまらない	ねむくてたまらない。	眠くてたまらない。	い-adj-く + てたまらない: unbearable state	[sound:feaa174b9c59.mp3]	module:04-n2 jlpt:n4 point:てたまらない complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I want to eat it so badly I can't stand it" using てたまらない.	てたまらない	たべたくてたまらない。	食べたくてたまらない。	-たい + くてたまらない: overwhelming desire	[sound:a5d543ebc3cd.mp3]	module:04-n2 jlpt:n4 point:てたまらない complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I'm unbearably cold" using てたまらない.	てたまらない	さむくてたまらない。	寒くてたまらない。	physical discomfort expressed with てたまらない	[sound:fb9a3853f703.mp3]	module:04-n2 jlpt:n4 point:てたまらない complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I'm so worried I can't bear it" using てたまらない.	てたまらない	しんぱいでたまらない。	心配でたまらない。	な-adj + で + たまらない: emotional state	[sound:f8afbddebc8a.mp3]	module:04-n2 jlpt:n4 point:てたまらない complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I want to go home so badly" using てたまらない.	てたまらない	いえにかえりたくてたまらない。	家に帰りたくてたまらない。	V-たい + くてたまらない: intense longing	[sound:9c37b9a2e768.mp3]	module:04-n2 jlpt:n4 point:てたまらない complexity:standard frequency:top5k source:shin-kanzen source:authored
