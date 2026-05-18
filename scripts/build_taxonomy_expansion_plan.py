@@ -33,7 +33,7 @@ from grammar_reference import (  # noqa: E402
 
 OUT_JSON = ROOT / "research-reports/taxonomy_expansion_plan.json"
 OUT_MD = ROOT / "research-reports/taxonomy_expansion_plan.md"
-GRAMMAR_DIR = ROOT / "grammar"
+GRAMMAR_DIR = ROOT / "grammar-strict"
 
 
 def grammar_row_counts() -> dict[str, int]:
