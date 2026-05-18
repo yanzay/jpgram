@@ -960,3 +960,8 @@ l1-yes-no_negative-questions		13-l1	bunpro:exempt/l1-interference		https://www.i
 onomatopoeia		10-onomatopoeia	bunpro:exempt/onomatopoeia		https://www.imabi.org/search?q=onomatopoeia	sk:auto/unknown	djg:auto/onomatopoeia	auto-generated mapping; refine sources as curated
 pitch-accent	n5	00-foundation	bunpro:exempt/pitch-accent		https://www.imabi.org/search?q=pitch-accent	sk:auto/n5	djg:auto/pitch-accent	auto-generated mapping; refine sources as curated
 pitch-accent-primer	n5	00-foundation	bunpro:exempt/pitch-accent		https://www.imabi.org/search?q=pitch-accent-primer	sk:auto/n5	djg:auto/pitch-accent-primer	auto-generated mapping; refine sources as curated
+copula	n5	00-foundation	bunpro:exempt/copula			sk:n5/copula	djg:p53	strict-deck; Foundation module: です/だ copula grid; exempt from Bunpro coverage
+particles-core	n5	00-foundation	bunpro:exempt/particles-core			sk:n5/particles	djg:p68	strict-deck; Foundation module: は・が・を・に・で・へ・と・も・から・まで
+numbers-counters	n5	00-foundation	bunpro:exempt/numbers-counters			sk:n5/numbers	djg:p182	strict-deck; Foundation module: counters つ・人・本・枚・匹・台・冊・回
+time-expressions	n5	00-foundation	bunpro:exempt/time-expressions			sk:n5/time	djg:auto/time	strict-deck; Foundation module: 今日・昨日・明日・〜時・〜分・先週・来月 etc.
+demonstratives	n5	00-foundation	bunpro:exempt/demonstratives			sk:n5/dem	djg:p139	strict-deck; Foundation module: これ/それ/あれ/どれ + この/その/あの/どの + ここ/そこ/あそこ
