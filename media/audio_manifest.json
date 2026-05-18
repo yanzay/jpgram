@@ -2321,6 +2321,14 @@
       "sha256": "e3506ea1676ddd2c1aa4322baf4b5f179263764c0d6ccc904cda4717c64b22a5",
       "size": 14976
     },
+    "06873fe3f3f1": {
+      "text": "その質問に対して、彼は何も答えなかった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8576d75a06411b086f53a02d56bb37a12df600802b71ea29fb0096edf0778a87",
+      "size": 32064
+    },
     "069088dd1d94": {
       "text": "すべてが彼のせいだというわけではない。",
       "voice": "ja-JP-Neural2-B",
@@ -7841,6 +7849,14 @@
       "sha256": "09656a28ca49dff4fb457eecf96091c855fd6ee03158dc0d88d2bb1155967a6f",
       "size": 20352
     },
+    "17301e013a67": {
+      "text": "子供に対して親切にしてあげてください。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "64d684b69432df39fd421737bf6dc504451f861ae81db860fe50cf84bf30681b",
+      "size": 25728
+    },
     "17313ac79cea": {
       "text": "一緒に映画を見よう。",
       "voice": "ja-JP-Neural2-B",
@@ -11793,6 +11809,14 @@
       "sha256": "815613bf74c8ad844d0a030ab19112dfce3705c6b3b61a2ea9f72a1496b3a62b",
       "size": 21696
     },
+    "23a3762595de": {
+      "text": "技術が進歩するにつれて、機械の性能も向上する。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3fae6ff250d1353ae4c78d63e82a28c426514c713d9e37259f19da44ccc3b9e2",
+      "size": 38400
+    },
     "23aa6326a014": {
       "text": "傷つけることに忍びない。",
       "voice": "ja-JP-Neural2-B",
@@ -15216,14 +15240,6 @@
       "lang": "ja-JP",
       "sha256": "12b3c4c2657795ad3b7e6cbac0d4dac5399faf8e3ee3ee67485134ba18adc5ff",
       "size": 25536
-    },
-    "2d7f85a22985": {
-      "text": "その店にはあまり行かない。なぜかというと、いつも混んでいて落ち着けないからだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0aab1269d51d43e96d372431b4db525f336359d44898466f45eee5e4975dd2ed",
-      "size": 52608
     },
     "2d7fc42e61b4": {
       "text": "兄にもまして優秀だ。",
@@ -24561,6 +24577,14 @@
       "sha256": "ad08131ee855971e7bf596738a7278547618da8f968395329cb8a988a758ec4d",
       "size": 42048
     },
+    "4aced727284e": {
+      "text": "季節が変わるにつれて、景色も変わっていく。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d280a156ee5771c3412bbc61074250cccca2e4ee7435e4a0d5dd7f52bc34f7fd",
+      "size": 30912
+    },
     "4ad24fe617f9": {
       "text": "電車が来ました。",
       "voice": "ja-JP-Neural2-B",
@@ -24871,6 +24895,14 @@
       "rate": 1.0,
       "lang": "ja-JP",
       "sha256": "3f23c8a359e02302232264bcf5f68570b4d5a0781886f54653388e48d296a93a",
+      "size": 32256
+    },
+    "4bbc5e0996e0": {
+      "text": "危機に対して、政府は迅速に対応した。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e6345c5beea1672c904e45d626582d34ab88eb8956fe258096b30b1b7d80e749",
       "size": 32256
     },
     "4bbc85818161": {
@@ -27536,6 +27568,14 @@
       "lang": "ja-JP",
       "sha256": "09db97f8c32d78d083ca1ca64c0405569134c18104a3a1ebd212e9579e484873",
       "size": 19392
+    },
+    "54634291c61b": {
+      "text": "練習を重ねるにつれて、演奏が上手くなった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "8d1d3055faebaec471a8274632309a5c09d6d3ead3b783c52dd429710ebbb02e",
+      "size": 33216
     },
     "5469ad9399c4": {
       "text": "彼の言葉は本心に違いない。",
@@ -33497,6 +33537,14 @@
       "sha256": "a90384e1c093c161d725f12a3156ca0bb6a4e6de29045ebfaeeca5a6ca7e9457",
       "size": 21120
     },
+    "65f8f471c78f": {
+      "text": "社会が変化するにつれて、価値観も多様になった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "059b2c8510a959f7ed6a50bfcc0ae32c3bc0f0c41093e25313dfa357bae91b33",
+      "size": 35520
+    },
     "66033eca8c96": {
       "text": "苦手なものの、頑張っている。",
       "voice": "ja-JP-Neural2-B",
@@ -33928,14 +33976,6 @@
       "lang": "ja-JP",
       "sha256": "c8dbb8642b73ffc221dd868a30b11c5d04107f4ef97683bc3e0027b43ddaf307",
       "size": 27072
-    },
-    "67b66f7807d3": {
-      "text": "その映画が好きじゃない。なぜかというと、暴力シーンが多くて不快だからだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e6b9afc75124fc27ed38e93b25997bbd0e1fa830d6fedbf8143c1d89432852a8",
-      "size": 52032
     },
     "67be9c56fcdb": {
       "text": "犬と猫と、どちらが好きですか。",
@@ -34463,6 +34503,14 @@
       "rate": 1.0,
       "lang": "ja-JP",
       "sha256": "d93ddef710929111daac26d0b55f359daa59258f80f47ea63fab87cf44928649",
+      "size": 33024
+    },
+    "69568b08f33b": {
+      "text": "友人の親切に対して、深く感謝しています。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6439db67935679693630732c505b5e7980073983a3d08076377f3ba012c34d9f",
       "size": 33024
     },
     "69587606d36d": {
@@ -37033,14 +37081,6 @@
       "sha256": "8efd7aab74b3030436f2c12cad9f42a575d663d2632339a6ae3fc77d82cb772d",
       "size": 6144
     },
-    "7183d3cd8b57": {
-      "text": "彼女は毎朝5時に起きる。どうしてかというと、通勤に一時間半かかるからだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "98368fadeda4d6e2815c2a50913a2f0c6f15c6aa9bc50c4caeaf299827d1e13c",
-      "size": 57792
-    },
     "7185b89812d8": {
       "text": "いい天気でしょう。",
       "voice": "ja-JP-Neural2-B",
@@ -38625,6 +38665,14 @@
       "sha256": "72b16cf96a8e00bec32c8bc3d857de1a4ce7dab8f35172c7e618c60045693798",
       "size": 36096
     },
+    "76808b23bb60": {
+      "text": "なぜかというと、暴力シーンが多くて不快だからだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "7fac22f0decd9dfcdcadfc36accbedbbe7dfa808e71b90e62b030bf117293972",
+      "size": 35904
+    },
     "7689484e33dd": {
       "text": "先生が学生に宿題をさせた。",
       "voice": "ja-JP-Neural2-B",
@@ -39696,6 +39744,14 @@
       "lang": "ja-JP",
       "sha256": "f8c420057a592751f51306700c195ccf0e7ed62652673c2a953228761df06c46",
       "size": 33024
+    },
+    "798d076714ca": {
+      "text": "人口が増えるにつれて、住宅問題も深刻になった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "cd0d40d7b1a4a2a66d43d38eb727ed9fcb13cb33a6cbc48c261da6dfc30d7e50",
+      "size": 38400
     },
     "79948fdd4c53": {
       "text": "時間があるうちに、終わらせる。",
@@ -40824,6 +40880,14 @@
       "lang": "ja-JP",
       "sha256": "fd0a82cc6cee019cd25f1e2e5b872663762d8030c5cababe9f21c9b55e96dcb5",
       "size": 30336
+    },
+    "7d695abeeb1c": {
+      "text": "経済が発展するにつれて、生活水準も上がった。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "9d7e82863ccebf688997968d7580f17114e221b73914afeae528930f2599dcde",
+      "size": 37056
     },
     "7d6adf475ea3": {
       "text": "彼女は何か言いたそうにしていた。",
@@ -42624,6 +42688,14 @@
       "lang": "ja-JP",
       "sha256": "d3d82742ca9fe3848fbd8d2ca9637302ee297e1d083beb1e75ccb08dc3a56e89",
       "size": 31296
+    },
+    "82fdb2140e2e": {
+      "text": "彼女の提案に対して、部長は反対した。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6c68cbcb22004fb94debd7f7a2284e6a715db635ce0f7aac07c84fe4e30420b6",
+      "size": 32448
     },
     "82ff0fd4da6b": {
       "text": "日本に住んでいます",
@@ -46321,6 +46393,14 @@
       "sha256": "d55640daf2b34555986db945e7fa7299a29e75c4e1e36fcd8447f1c5995c1646",
       "size": 16512
     },
+    "8e6f97503cbf": {
+      "text": "時間が経つにつれて、傷の痛みは和らいだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "96ebf5728cbe6ba6be80cfc1d68105d9de91556e13910e76ee2bd46e2becb38f",
+      "size": 33024
+    },
     "8e742bf60aba": {
       "text": "彼の心情に共感することを避けがたい。",
       "voice": "ja-JP-Neural2-B",
@@ -47344,6 +47424,14 @@
       "lang": "ja-JP",
       "sha256": "d949619f66c5d7335e360aa6115d6f60f3d64fff1405a1e7390988c76976b76d",
       "size": 32640
+    },
+    "91eae3c32f68": {
+      "text": "現代の若者に対して、上の世代は不満を持つことが多い。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "68db17333b6337c065e979f1c72399209e00ee14487c0daac18d429fcda4dcac",
+      "size": 42816
     },
     "91f08acd2113": {
       "text": "見つかったが最後、逃げられない。",
@@ -53593,6 +53681,14 @@
       "sha256": "a4b914863a49779c926214514a7cb60733b9e782700eff48857277e020f64649",
       "size": 24000
     },
+    "a7806ede0a48": {
+      "text": "どうしてかというと、通勤に一時間半かかるからだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b92398b82bee5a09fe2fddcc6fb71e9c42eb09ad7e4adfc7faa828a6fd0e3f58",
+      "size": 37440
+    },
     "a7835016f3be": {
       "text": "壁に絵が掛けてあります。",
       "voice": "ja-JP-Neural2-B",
@@ -54568,6 +54664,14 @@
       "lang": "ja-JP",
       "sha256": "6b9b9a8fdc073f263e39f9e6f55e87d290e69aee2745aea85a665c3dc2b2a230",
       "size": 33024
+    },
+    "aa552ecf54d2": {
+      "text": "日本に対して、中国とアメリカでは見方が異なる。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "044cabe02abe15e9fbf39abe350368e2690eb4ca4814660e605552ba37b51379",
+      "size": 36864
     },
     "aa58970642fa": {
       "text": "時間に遅れてはならない。",
@@ -72969,14 +73073,6 @@
       "sha256": "83d0e61680e20c141f238e242ea76b01f8e53d484c3bee3a907482306c350fbe",
       "size": 21504
     },
-    "e1b701135d6a": {
-      "text": "最近ジムに通っている。なぜかというと、健康診断で血圧が高いと指摘されたからだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "16cc79f135f30baed61c7964664c99f312d9a75736ad65c288af5e7672564a86",
-      "size": 61056
-    },
     "e1c282c8816e": {
       "text": "以前は辛い食べ物が苦手でしたが、今は食べられるようになりました。",
       "voice": "ja-JP-Neural2-B",
@@ -73257,6 +73353,14 @@
       "sha256": "9c4fdfa2b4a517f2e5587a4a0e90cf6fa8789df894e3390b90e9ba83793d12f9",
       "size": 29184
     },
+    "e28c015f77d3": {
+      "text": "年を取るにつれて、記憶力が落ちることがある。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e36f465c9a48ea373a791bf1dc6354146105e7d23b016d25f47728d4065d8196",
+      "size": 34176
+    },
     "e2908ed54a50": {
       "text": "式が始まるまでに、席に着いてください。",
       "voice": "ja-JP-Neural2-B",
@@ -73408,6 +73512,14 @@
       "lang": "ja-JP",
       "sha256": "8e4fb676acf2278da3d34ff397b0faf429bf8eeba9daf468c100503a115b4240",
       "size": 36288
+    },
+    "e2e22ac84a3d": {
+      "text": "なぜかというと、健康診断で血圧が高いと指摘されたからだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "5e17d1672c4800d8a3e04e2c65e28012e60f9c9f52d9f7fafc34943345b06db9",
+      "size": 43968
     },
     "e2ea03695353": {
       "text": "経験がある人を募集しています。",
@@ -81505,6 +81617,14 @@
       "sha256": "2cf25d79f606232b8037b623646ff6b5b605b42aa47ad5748761bd7ce14eabe2",
       "size": 38400
     },
+    "fc0cbc027f8a": {
+      "text": "先生に対して敬語を使うべきだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3da830f56f4819fc7f90cd761a4bc65652c4305847697e7505c7ee5361e8eb1c",
+      "size": 24192
+    },
     "fc11c82c55d6": {
       "text": "飛び込もうとしたが、躊躇した。",
       "voice": "ja-JP-Neural2-B",
@@ -81664,6 +81784,14 @@
       "lang": "ja-JP",
       "sha256": "4f4d5ba2580f36ebdee64208ac0fd7a23b6060fe349932067815e790b3ec9585",
       "size": 21312
+    },
+    "fc5fac35ef5a": {
+      "text": "なぜかというと、いつも混んでいて落ち着けないからだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f04721b336f100d10d88fde268b24f5d7a4ec80e9bf3e185eb2949e4a8606c8f",
+      "size": 34944
     },
     "fc7bc680f850": {
       "text": "本を買ったばかりです。",
