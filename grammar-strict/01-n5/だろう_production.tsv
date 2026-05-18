@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-It will probably rain tomorrow.	明日は雨が降るだろう。	あしたはあめがふるだろう。	明日は雨が降るだろう。	weather probability	[sound:978c79112e81.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro
-He'll probably come.	彼は来るだろう。	かれはくるだろう。	彼は来るだろう。	probability of arrival	[sound:655ae8c590b6.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
-That's true, right?	それは本当だろう？	それはほんとうだろう？	それは本当だろう？	seeking confirmation	[sound:4c4b59c73978.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro
-She is probably already asleep.	彼女はもう寝ているだろう。	かのじょはもうねているだろう。	彼女はもう寝ているだろう。	probability of state	[sound:d8bb7e8871d9.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
-The test was probably difficult.	テストは難しかっただろう。	てすとはむずかしかっただろう。	テストは難しかっただろう。	past probability	[sound:b05ea3239b7d.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+It will probably rain tomorrow.	明日は雨が降るだろう。	あしたはあめがふるだろう。	明日は雨が降るだろう。	weather probability	[sound:978c79112e81.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored source:shin-kanzen frequency:top1k complexity:intro
+He'll probably come.	彼は来るだろう。	かれはくるだろう。	彼は来るだろう。	probability of arrival	[sound:655ae8c590b6.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored source:shin-kanzen frequency:top5k complexity:intro
+That's true, right?	それは本当だろう？	それはほんとうだろう？	それは本当だろう？	seeking confirmation	[sound:4c4b59c73978.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored source:shin-kanzen frequency:top1k complexity:intro
+She is probably already asleep.	彼女はもう寝ているだろう。	かのじょはもうねているだろう。	彼女はもう寝ているだろう。	probability of state	[sound:d8bb7e8871d9.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored source:shin-kanzen frequency:top5k complexity:standard
+The test was probably difficult.	テストは難しかっただろう。	てすとはむずかしかっただろう。	テストは難しかっただろう。	past probability	[sound:b05ea3239b7d.mp3]	module:01-n5 jlpt:n5 point:だろう source:authored source:shin-kanzen frequency:top10k complexity:standard

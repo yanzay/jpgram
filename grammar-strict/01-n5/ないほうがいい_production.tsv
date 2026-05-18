@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-You shouldn't eat late at night.	夜遅く食べないほうがいいです。	よるおそくたべないほうがいいです。	夜遅く食べないほうがいいです。	health advice (negative)	[sound:7780dd052a55.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
-You'd better not say that.	そのことを言わないほうがいい。	そのことをいわないほうがいい。	そのことを言わないほうがいい。	social advice	[sound:c078354fb496.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored scaffold:pending-audio source:shin-kanzen complexity:standard
-You'd better not go out on rainy days.	雨の日は出かけないほうがいい。	あめのひはでかけないほうがいい。	雨の日は出かけないほうがいい。	weather advice	[sound:924daec82279.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
-You shouldn't eat too many sweets.	甘いものをたくさん食べないほうがいいです。	あまいものをたくさんたべないほうがいいです。	甘いものをたくさん食べないほうがいいです。	health advice	[sound:2662d57a30bd.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
-You'd better not stay up too late.	夜遅くまで起きていないほうがいいですよ。	よるおそくまでおきていないほうがいいですよ。	夜遅くまで起きていないほうがいいですよ。	sleep advice	[sound:26d1193c91a5.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+You shouldn't eat late at night.	夜遅く食べないほうがいいです。	よるおそくたべないほうがいいです。	夜遅く食べないほうがいいです。	health advice (negative)	[sound:7780dd052a55.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored source:shin-kanzen frequency:top1k complexity:standard
+You'd better not say that.	そのことを言わないほうがいい。	そのことをいわないほうがいい。	そのことを言わないほうがいい。	social advice	[sound:c078354fb496.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored source:shin-kanzen complexity:standard
+You'd better not go out on rainy days.	雨の日は出かけないほうがいい。	あめのひはでかけないほうがいい。	雨の日は出かけないほうがいい。	weather advice	[sound:924daec82279.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored source:shin-kanzen frequency:top10k complexity:standard
+You shouldn't eat too many sweets.	甘いものをたくさん食べないほうがいいです。	あまいものをたくさんたべないほうがいいです。	甘いものをたくさん食べないほうがいいです。	health advice	[sound:2662d57a30bd.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored source:shin-kanzen frequency:top1k complexity:standard
+You'd better not stay up too late.	夜遅くまで起きていないほうがいいですよ。	よるおそくまでおきていないほうがいいですよ。	夜遅くまで起きていないほうがいいですよ。	sleep advice	[sound:26d1193c91a5.mp3]	module:01-n5 jlpt:n5 point:ないほうがいい source:authored source:shin-kanzen frequency:top1k complexity:standard
