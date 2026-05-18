@@ -36,7 +36,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-VERSION = "0.11.1"
+VERSION = "0.11.3"
 DECK_NAME = "Japanese Grammar"
 GRAMMAR_DIR = Path("grammar-strict")
 MEDIA_DIR = Path("media")
