@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
+#notetype:Production
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+
+Say "the documents are ready" in very formal register.	ございます	しょるいはこちらにございます。	書類はこちらにございます。	ございます = polite formal copula replacing あります	[sound:18d1499e940d.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "this is our newest product" in keigo (business context).	でございます	こちらが弊社の最新製品でございます。	こちらが弊社の最新製品でございます。	でございます = ultra-polite formal equivalent of です	[sound:580b2e605aa6.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "I understand" humbly in business Japanese.	ございます	かしこまりました。よくわかりました。ありがとうございます。	かしこまりました。よくわかりました。ありがとうございます。	ありがとうございます = standard polite thanks formula	[sound:08033145e72e.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:standard frequency:top5k source:shin-kanzen source:authored
+Tell a customer "there are still seats available" (formal).	ございます	おせきはまだございます。	お席はまだございます。	ございます = formal あります for presence of items	[sound:08bb6f623f13.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:standard frequency:top5k source:shin-kanzen source:authored
+Say "our business hours are 9 to 6" in keigo.	でございます	えいぎょうじかんはくじからろくじまででございます。	営業時間は九時から六時まででございます。	でございます marks ultra-polite statement of fact	[sound:9aaa25abc4f1.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:standard frequency:top5k source:shin-kanzen source:authored
