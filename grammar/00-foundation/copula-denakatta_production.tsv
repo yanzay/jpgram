@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-She was not the culprit.	彼女は犯人ではなかった。	かのじょははんにんではなかった。	彼女は犯人ではなかった。	Formal past denial	[sound:50234c32cf57.mp3]	module:00-foundation jlpt:n5 register:casual point:copula-denakatta pos:aux point:copula complexity:intro frequency:top10k source:curated-jpgram

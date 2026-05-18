@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-I just ate a little while ago, so I'm full.	さっき食べたばかりなので、お腹がいっぱいです。	さっきたべたばかりなので、おなかがいっぱいです。	さっき食べたばかりなので、お腹がいっぱいです。	just ate, still feeling full	[sound:6f56622110c7.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio
-I just came to Japan and am not used to it yet.	日本に来たばかりで、まだ慣れていません。	にほんにきたばかりで、まだなれていません。	日本に来たばかりで、まだ慣れていません。	recent arrival, not yet adjusted	[sound:caa7a8ef849b.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio
-I just watched this movie.	この映画は見たばかりです。	このえいがはみたばかりです。	この映画は見たばかりです。	recently watched	[sound:ef1c24b721ef.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio
-Right after I graduated, work was tough.	卒業したばかりの頃は、仕事が大変でした。	そつぎょうしたばかりのころは、しごとがたいへんでした。	卒業したばかりの頃は、仕事が大変でした。	just-after period of graduation	[sound:6bb23d7421f4.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio
-I just woke up and my head is still foggy.	起きたばかりで、まだ頭がぼんやりしています。	おきたばかりで、まだあたまがぼんやりしています。	起きたばかりで、まだ頭がぼんやりしています。	just-awoken state	[sound:38ab22904b10.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio
+I just ate a little while ago, so I'm full.	さっき食べたばかりなので、お腹がいっぱいです。	さっきたべたばかりなので、おなかがいっぱいです。	さっき食べたばかりなので、お腹がいっぱいです。	just ate, still feeling full	[sound:6f56622110c7.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I just came to Japan and am not used to it yet.	日本に来たばかりで、まだ慣れていません。	にほんにきたばかりで、まだなれていません。	日本に来たばかりで、まだ慣れていません。	recent arrival, not yet adjusted	[sound:caa7a8ef849b.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+I just watched this movie.	この映画は見たばかりです。	このえいがはみたばかりです。	この映画は見たばかりです。	recently watched	[sound:ef1c24b721ef.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+Right after I graduated, work was tough.	卒業したばかりの頃は、仕事が大変でした。	そつぎょうしたばかりのころは、しごとがたいへんでした。	卒業したばかりの頃は、仕事が大変でした。	just-after period of graduation	[sound:6bb23d7421f4.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I just woke up and my head is still foggy.	起きたばかりで、まだ頭がぼんやりしています。	おきたばかりで、まだあたまがぼんやりしています。	起きたばかりで、まだ頭がぼんやりしています。	just-awoken state	[sound:38ab22904b10.mp3]	module:02-n4 jlpt:n4 point:たばかり source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard

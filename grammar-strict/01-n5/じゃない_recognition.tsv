@@ -5,37 +5,37 @@
 #
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
 
-ここで待ったら？	ここでまったら？	How about waiting here?	Soft suggestion	〜たら？	Polite suggestion	Rising tone	〜たらどう？	[sound:767b00158f93.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-午後来たら？	ごごきたら？	How about coming in the afternoon?	Schedule suggestion	〜たら？	Timing proposal	Conversational	〜たらどう？	[sound:78c82bd008b9.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top10k source:imabi
-早く寝たら？	はやくねたら？	Why not sleep early?	Health suggestion	〜たら？	Wellness advice	Gentle	〜たらどう？	[sound:be27487f970e.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-ってどういう意味？	ってどういういみ？	What does that mean?	Quotative inquiry	〜って	Quotation marker	Clarification	〜というのは	[sound:534efc402ee6.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-『本当だって』って言ってた。	『ほんとうだって』っていってた。	They said 'it's true.'	Nested quotation	〜って	Speech report	Nested quote	〜と言っていた	[sound:b6fba63a14a0.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top1k source:imabi
-雨だって言ったじゃん。	あめだってせんだじゃん。	You said it's raining!	Accusation reference	〜って	Reminder of statement	Confrontation	〜と言った	[sound:f9113afe3862.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-昨日体調悪いんで来られなかった。	きのうたいちょうわるいんできられなかった。	I felt unwell yesterday so couldn't come.	Causal explanation	んで←ので	Casual reason	Informal	ので	[sound:641ef40eb4cd.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top10k source:imabi
-時間がないんで急いでます。	じかんがないんでいそいでます。	Don't have time so hurrying.	Time pressure	んで	Reason explanation	Informal	ので	[sound:aafa2d2dfe57.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top5k source:imabi
-忙しいんで手短に。	いそがしいんでてみじかに。	Busy so I'll be brief.	Efficiency excuse	んで	Reason for brevity	Casual	ので	[sound:2a5a565e755b.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-だろ？	だろ？	Right?	Casual confirmation	だろ？	Seeking agreement	Conversational	でしょ？	[sound:8da196b9e903.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-大丈夫だろ？	だいじょうぶだろ？	You're okay, right?	Concern check	だろ？	Confirmation	Casual	でしょ？	[sound:24ada269b255.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-やってみたらいいでしょ？	やってみたらいいでしょ？	Wouldn't it be good to try?	Casual proposal	でしょ？	Polite suggestion	Gentle	ではないでしょうか	[sound:bf097ec9940f.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-じゃない？	じゃない？	Isn't it?	Disagreement marker	じゃない	Negation + challenge	Argumentative	ではない	[sound:716632d3f84e.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-それ、違うじゃん。	それ、ちがうじゃん。	That's wrong.	Disagreement	じゃん	Contradiction	Firm	ではない	[sound:bc347dacc4b9.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-好きじゃん。	すきじゃん。	I like it.	Casual assertion	じゃん	Affirmation	Conversational	じゃない	[sound:07e5f52ca260.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-だから疲れるし。	だからつかれるし。	That's why I get tired.	Reason + soft conclusion	〜し	Trailing reason	Casual explanation	から	[sound:1e6273bd475d.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-面倒くさいし、やめとこう。	めんどうくさいし、やめとこう。	It's troublesome and so let's skip it.	Multiple reasons	〜し	Soft justification	Casual decision	から	[sound:0170a518832f.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top10k source:imabi
-美しいし、珍しいし。	うつくしいし、めずらしいし。	It's beautiful and rare.	Enumeration	〜し	Multiple qualities	Casual listing	し	[sound:8a2b854bd081.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top5k source:imabi
-これ、食べたら？	これ、たべたら？	How about eating this?	Offer suggestion	〜たら？	Polite offer	Conversational	〜たらどう？	[sound:d024fd236826.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-返したら？	かえしたら？	How about returning it?	Return suggestion	〜たら？	Action proposal	Gentle	〜たらどう？	[sound:dce6bfb721c5.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-「本当だ」って思った。	「ほんとうだ」っておもった。	I thought 'it's true.'	Internal quotation	〜って	Thought report	Introspection	〜と思った	[sound:d5966b9d40c1.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-あした、誰が来るんだろ？	あした、だれがくるんだろ？	Who will come tomorrow?	Rhetorical wondering	だろ	Casual speculation	Conversational	でしょう	[sound:81afbd312e42.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-何なんだろう？	なんなんだろう？	What is it?	Curiosity expression	だろう	Wondering	Casual	でしょう	[sound:c31877e29405.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-天気が悪いし、今日は休もう。	てんきがわるいし、きょうはやすもう。	Weather's bad so let's rest today.	Reason + decision	〜し	Justification	Casual	から	[sound:ceaa508aefb9.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top1k source:imabi
-遊んでみたら？	あそんでみたら？	How about trying to play?	Experience suggestion	〜たら？	Trial proposal	Conversational	〜たらどう？	[sound:02af7f21616c.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-大丈夫じゃん。	だいじょうぶじゃん。	You're okay.	Casual confirmation	じゃん	Affirmation	Conversational	じゃない	[sound:f48ee8d14e69.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-昨日やったんで今日は大丈夫。	きのうやったんできょうはだいじょうぶ。	Did it yesterday so today's fine.	Past action reason	んで	Reason reference	Casual	ので	[sound:d7a3d38a1ee4.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top1k source:imabi
-読んだら？	よんだら？	How about reading it?	Activity suggestion	〜たら？	Proposal	Gentle	〜たらどう？	[sound:4506e90e9196.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi
-安いし、買おう。	やすいし、かおう。	It's cheap so let's buy it.	Reason + decision	〜し	Justification	Casual	から	[sound:16047e8121ab.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-誰も来てないし、帰ろう。	だれもこてないし、かえろう。	No one came so let's go home.	Observation + decision	〜し	Soft reasoning	Casual	から	[sound:9deb660900ee.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top10k source:imabi
-上手い使い方だって思う。	じょうずなつかいかただっておもう。	I think it's a skillful way to use it.	Opinion attribution	〜って	Thought marker	Casual	〜と思う	[sound:152e207b6437.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top5k source:imabi
-仕事が大変だし。	しごとがたいへんだし。	Work is tough, you know.	Trailing justification	〜し	Incomplete reason	Casual	から	[sound:0cc0dbb78911.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-新しいし、これにしよう。	あたらしいし、これにしよう。	It's new so let's go with this.	Feature-based decision	〜し	Quality reason	Casual	から	[sound:e50aa3ede61e.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
-背が高いし、かっこいい。	せがたかいし、かっこいい。	He's tall and cool.	Enumeration + comment	〜し	Trait listing	Casual	し	[sound:1d413356cf58.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi
+ここで待ったら？	ここでまったら？	How about waiting here?	Soft suggestion	〜たら？	Polite suggestion	Rising tone	〜たらどう？	[sound:767b00158f93.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+午後来たら？	ごごきたら？	How about coming in the afternoon?	Schedule suggestion	〜たら？	Timing proposal	Conversational	〜たらどう？	[sound:78c82bd008b9.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top10k source:imabi jlpt:n5 source:shin-kanzen
+早く寝たら？	はやくねたら？	Why not sleep early?	Health suggestion	〜たら？	Wellness advice	Gentle	〜たらどう？	[sound:be27487f970e.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+ってどういう意味？	ってどういういみ？	What does that mean?	Quotative inquiry	〜って	Quotation marker	Clarification	〜というのは	[sound:534efc402ee6.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+『本当だって』って言ってた。	『ほんとうだって』っていってた。	They said 'it's true.'	Nested quotation	〜って	Speech report	Nested quote	〜と言っていた	[sound:b6fba63a14a0.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+雨だって言ったじゃん。	あめだってせんだじゃん。	You said it's raining!	Accusation reference	〜って	Reminder of statement	Confrontation	〜と言った	[sound:f9113afe3862.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+昨日体調悪いんで来られなかった。	きのうたいちょうわるいんできられなかった。	I felt unwell yesterday so couldn't come.	Causal explanation	んで←ので	Casual reason	Informal	ので	[sound:641ef40eb4cd.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top10k source:imabi jlpt:n5 source:shin-kanzen
+時間がないんで急いでます。	じかんがないんでいそいでます。	Don't have time so hurrying.	Time pressure	んで	Reason explanation	Informal	ので	[sound:aafa2d2dfe57.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top5k source:imabi jlpt:n5 source:shin-kanzen
+忙しいんで手短に。	いそがしいんでてみじかに。	Busy so I'll be brief.	Efficiency excuse	んで	Reason for brevity	Casual	ので	[sound:2a5a565e755b.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+だろ？	だろ？	Right?	Casual confirmation	だろ？	Seeking agreement	Conversational	でしょ？	[sound:8da196b9e903.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+大丈夫だろ？	だいじょうぶだろ？	You're okay, right?	Concern check	だろ？	Confirmation	Casual	でしょ？	[sound:24ada269b255.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+やってみたらいいでしょ？	やってみたらいいでしょ？	Wouldn't it be good to try?	Casual proposal	でしょ？	Polite suggestion	Gentle	ではないでしょうか	[sound:bf097ec9940f.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+じゃない？	じゃない？	Isn't it?	Disagreement marker	じゃない	Negation + challenge	Argumentative	ではない	[sound:716632d3f84e.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+それ、違うじゃん。	それ、ちがうじゃん。	That's wrong.	Disagreement	じゃん	Contradiction	Firm	ではない	[sound:bc347dacc4b9.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+好きじゃん。	すきじゃん。	I like it.	Casual assertion	じゃん	Affirmation	Conversational	じゃない	[sound:07e5f52ca260.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+だから疲れるし。	だからつかれるし。	That's why I get tired.	Reason + soft conclusion	〜し	Trailing reason	Casual explanation	から	[sound:1e6273bd475d.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+面倒くさいし、やめとこう。	めんどうくさいし、やめとこう。	It's troublesome and so let's skip it.	Multiple reasons	〜し	Soft justification	Casual decision	から	[sound:0170a518832f.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top10k source:imabi jlpt:n5 source:shin-kanzen
+美しいし、珍しいし。	うつくしいし、めずらしいし。	It's beautiful and rare.	Enumeration	〜し	Multiple qualities	Casual listing	し	[sound:8a2b854bd081.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top5k source:imabi jlpt:n5 source:shin-kanzen
+これ、食べたら？	これ、たべたら？	How about eating this?	Offer suggestion	〜たら？	Polite offer	Conversational	〜たらどう？	[sound:d024fd236826.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+返したら？	かえしたら？	How about returning it?	Return suggestion	〜たら？	Action proposal	Gentle	〜たらどう？	[sound:dce6bfb721c5.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+「本当だ」って思った。	「ほんとうだ」っておもった。	I thought 'it's true.'	Internal quotation	〜って	Thought report	Introspection	〜と思った	[sound:d5966b9d40c1.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+あした、誰が来るんだろ？	あした、だれがくるんだろ？	Who will come tomorrow?	Rhetorical wondering	だろ	Casual speculation	Conversational	でしょう	[sound:81afbd312e42.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+何なんだろう？	なんなんだろう？	What is it?	Curiosity expression	だろう	Wondering	Casual	でしょう	[sound:c31877e29405.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+天気が悪いし、今日は休もう。	てんきがわるいし、きょうはやすもう。	Weather's bad so let's rest today.	Reason + decision	〜し	Justification	Casual	から	[sound:ceaa508aefb9.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+遊んでみたら？	あそんでみたら？	How about trying to play?	Experience suggestion	〜たら？	Trial proposal	Conversational	〜たらどう？	[sound:02af7f21616c.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+大丈夫じゃん。	だいじょうぶじゃん。	You're okay.	Casual confirmation	じゃん	Affirmation	Conversational	じゃない	[sound:f48ee8d14e69.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+昨日やったんで今日は大丈夫。	きのうやったんできょうはだいじょうぶ。	Did it yesterday so today's fine.	Past action reason	んで	Reason reference	Casual	ので	[sound:d7a3d38a1ee4.mp3]	module:01-n5 point:じゃない complexity:standard frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+読んだら？	よんだら？	How about reading it?	Activity suggestion	〜たら？	Proposal	Gentle	〜たらどう？	[sound:4506e90e9196.mp3]	module:01-n5 point:じゃない complexity:intro source:imabi jlpt:n5 source:shin-kanzen
+安いし、買おう。	やすいし、かおう。	It's cheap so let's buy it.	Reason + decision	〜し	Justification	Casual	から	[sound:16047e8121ab.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+誰も来てないし、帰ろう。	だれもこてないし、かえろう。	No one came so let's go home.	Observation + decision	〜し	Soft reasoning	Casual	から	[sound:9deb660900ee.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top10k source:imabi jlpt:n5 source:shin-kanzen
+上手い使い方だって思う。	じょうずなつかいかただっておもう。	I think it's a skillful way to use it.	Opinion attribution	〜って	Thought marker	Casual	〜と思う	[sound:152e207b6437.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top5k source:imabi jlpt:n5 source:shin-kanzen
+仕事が大変だし。	しごとがたいへんだし。	Work is tough, you know.	Trailing justification	〜し	Incomplete reason	Casual	から	[sound:0cc0dbb78911.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+新しいし、これにしよう。	あたらしいし、これにしよう。	It's new so let's go with this.	Feature-based decision	〜し	Quality reason	Casual	から	[sound:e50aa3ede61e.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen
+背が高いし、かっこいい。	せがたかいし、かっこいい。	He's tall and cool.	Enumeration + comment	〜し	Trait listing	Casual	し	[sound:1d413356cf58.mp3]	module:01-n5 point:じゃない complexity:intro frequency:top1k source:imabi jlpt:n5 source:shin-kanzen

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
 
-I can't help but worry about her.	彼女のことが心配でならない。	かのじょのことがしんぱいでならない。	彼女のことが心配でならない。	てならない: worry is involuntary and irrepressible	[sound:fba24315a53b.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio
-I can't help but miss my hometown.	故郷が恋しくてならない。	こきょうがこいしくてならない。	故郷が恋しくてならない。	てならない: longing for home overwhelms the speaker	[sound:8e689ab6e463.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio
-I can't stop regretting that failure.	あの時の失敗が悔やまれてならない。	あのときのしっぱいがくやまれてならない。	あの時の失敗が悔やまれてならない。	てならない: regret surfaces involuntarily and continuously	[sound:cd5d34ba5914.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio
-I can't help but wonder why things turned out this way.	なぜこうなったのか、不思議でならない。	なぜこうなったのか、ふしぎでならない。	なぜこうなったのか、不思議でならない。	てならない: bewilderment persists beyond speaker's control	[sound:fabcff879481.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio
-I can't stop being bothered by what he said.	彼の言葉が気になってならない。	かれのことばがきになってならない。	彼の言葉が気になってならない。	てならない: preoccupation with his words is irresistible	[sound:93f72c9e7fa8.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio
+I can't help but worry about her.	彼女のことが心配でならない。	かのじょのことがしんぱいでならない。	彼女のことが心配でならない。	てならない: worry is involuntary and irrepressible	[sound:fba24315a53b.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I can't help but miss my hometown.	故郷が恋しくてならない。	こきょうがこいしくてならない。	故郷が恋しくてならない。	てならない: longing for home overwhelms the speaker	[sound:8e689ab6e463.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+I can't stop regretting that failure.	あの時の失敗が悔やまれてならない。	あのときのしっぱいがくやまれてならない。	あの時の失敗が悔やまれてならない。	てならない: regret surfaces involuntarily and continuously	[sound:cd5d34ba5914.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I can't help but wonder why things turned out this way.	なぜこうなったのか、不思議でならない。	なぜこうなったのか、ふしぎでならない。	なぜこうなったのか、不思議でならない。	てならない: bewilderment persists beyond speaker's control	[sound:fabcff879481.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I can't stop being bothered by what he said.	彼の言葉が気になってならない。	かれのことばがきになってならない。	彼の言葉が気になってならない。	てならない: preoccupation with his words is irresistible	[sound:93f72c9e7fa8.mp3]	module:04-n2 jlpt:n2 point:てならない source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard

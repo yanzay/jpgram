@@ -5,11 +5,11 @@
 #
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
 
-[sound:99cfaa23b48e.mp3]	汝何ぞ来たりや	なんじなにぞきたりや	Why did you come.	modern か	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard
-[sound:ba8331bd5c6b.mp3]	この者の身のたけや	このもののみのたけや	What is this person's height.	modern か	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard
-[sound:2b3321594684.mp3]	王の命なるに	おうのいのちなるに	In that it is the king's word.	modern の・が	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard
-[sound:a8186ad805c0.mp3]	彼の言葉なり	かのことばなり	It is his words.	modern ～の・～である	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi complexity:standard
-[sound:6541dd912f39.mp3]	罪を犯し	つみをおかし	Commit a crime (object marker).	modern を	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard
-[sound:05a817ab6496.mp3]	命を失わん	いのちをうしなわん	Will lose one's life.	modern を	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard
-[sound:8025c4bc4e5f.mp3]	火よ燃えよ	ひよもえよ	O fire, burn.	modern ～よ・～ね	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi complexity:standard
-[sound:3646557081a9.mp3]	知識よりして	ちしきよりして	From knowledge.	modern から・に	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard
+[sound:99cfaa23b48e.mp3]	汝何ぞ来たりや	なんじなにぞきたりや	Why did you come.	modern か	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:ba8331bd5c6b.mp3]	この者の身のたけや	このもののみのたけや	What is this person's height.	modern か	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:2b3321594684.mp3]	王の命なるに	おうのいのちなるに	In that it is the king's word.	modern の・が	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:a8186ad805c0.mp3]	彼の言葉なり	かのことばなり	It is his words.	modern ～の・～である	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:6541dd912f39.mp3]	罪を犯し	つみをおかし	Commit a crime (object marker).	modern を	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:05a817ab6496.mp3]	命を失わん	いのちをうしなわん	Will lose one's life.	modern を	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:8025c4bc4e5f.mp3]	火よ燃えよ	ひよもえよ	O fire, burn.	modern ～よ・～ね	module:03-n3 point:こそ complexity:intro frequency:top5k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:3646557081a9.mp3]	知識よりして	ちしきよりして	From knowledge.	modern から・に	module:03-n3 point:こそ complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen

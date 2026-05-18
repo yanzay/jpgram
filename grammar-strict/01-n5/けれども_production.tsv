@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-It's raining, but I'll go.	雨が降っていますけれども、行きます。	あめがふっていますけれども、いきます。	雨が降っていますけれども、行きます。	concession + decision	[sound:03f8aea1121d.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio
-It's difficult, but interesting.	難しいですけれども、面白いです。	むずかしいですけれども、おもしろいです。	難しいですけれども、面白いです。	contrast	[sound:1c09ab8f61b0.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio
-It's expensive, but I'll buy it.	高いけれども、買います。	たかいけれども、かいます。	高いけれども、買います。	contrast	[sound:0d0b5bb96cdd.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio
-I studied, but I don't understand well.	勉強しましたけれども、よく分かりません。	べんきょうしましたけれども、よくわかりません。	勉強しましたけれども、よく分かりません。	effort + outcome	[sound:4734bc5870cd.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio
-That store is far, but it's popular.	あの店は遠いけれども、人気があります。	あのみせはとおいけれども、にんきがあります。	あの店は遠いけれども、人気があります。	drawback + reality	[sound:e4789ca13845.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio
+It's raining, but I'll go.	雨が降っていますけれども、行きます。	あめがふっていますけれども、いきます。	雨が降っていますけれども、行きます。	concession + decision	[sound:03f8aea1121d.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+It's difficult, but interesting.	難しいですけれども、面白いです。	むずかしいですけれども、おもしろいです。	難しいですけれども、面白いです。	contrast	[sound:1c09ab8f61b0.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+It's expensive, but I'll buy it.	高いけれども、買います。	たかいけれども、かいます。	高いけれども、買います。	contrast	[sound:0d0b5bb96cdd.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro
+I studied, but I don't understand well.	勉強しましたけれども、よく分かりません。	べんきょうしましたけれども、よくわかりません。	勉強しましたけれども、よく分かりません。	effort + outcome	[sound:4734bc5870cd.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+That store is far, but it's popular.	あの店は遠いけれども、人気があります。	あのみせはとおいけれども、にんきがあります。	あの店は遠いけれども、人気があります。	drawback + reality	[sound:e4789ca13845.mp3]	module:01-n5 jlpt:n5 point:けれども source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-The book I read yesterday was interesting.	昨日読んだ本は面白かった。	きのうよんだほんはおもしろかった。	昨日読んだ本は面白かった。	past clause modifies 本	[sound:3bb13e037680.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio
-The cake my mother made is delicious.	母が作ったケーキは美味しい。	ははがつくったけーきはおいしい。	母が作ったケーキは美味しい。	past action modifies cake	[sound:2cec241eb3ea.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio
-The clothes I bought last year are already small.	去年買った服はもう小さい。	きょねんかったふくはもうちいさい。	去年買った服はもう小さい。	past purchase modifies 服	[sound:da9e6b472f77.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio
-What he said was true.	彼が言ったことは本当でした。	かれがいったことはほんとうでした。	彼が言ったことは本当でした。	past statement modifies こと	[sound:a27d5e8ad033.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio
-I'll show you the photo I took in Kyoto.	京都で撮った写真を見せます。	きょうとでとったしゃしんをみせます。	京都で撮った写真を見せます。	past action modifies 写真	[sound:dd4ec0840fa4.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio
+The book I read yesterday was interesting.	昨日読んだ本は面白かった。	きのうよんだほんはおもしろかった。	昨日読んだ本は面白かった。	past clause modifies 本	[sound:3bb13e037680.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+The cake my mother made is delicious.	母が作ったケーキは美味しい。	ははがつくったけーきはおいしい。	母が作ったケーキは美味しい。	past action modifies cake	[sound:2cec241eb3ea.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+The clothes I bought last year are already small.	去年買った服はもう小さい。	きょねんかったふくはもうちいさい。	去年買った服はもう小さい。	past purchase modifies 服	[sound:da9e6b472f77.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+What he said was true.	彼が言ったことは本当でした。	かれがいったことはほんとうでした。	彼が言ったことは本当でした。	past statement modifies こと	[sound:a27d5e8ad033.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I'll show you the photo I took in Kyoto.	京都で撮った写真を見せます。	きょうとでとったしゃしんをみせます。	京都で撮った写真を見せます。	past action modifies 写真	[sound:dd4ec0840fa4.mp3]	module:01-n5 jlpt:n5 point:verb-た-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard

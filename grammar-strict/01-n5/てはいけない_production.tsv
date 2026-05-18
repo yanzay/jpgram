@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-You must not smoke here.	ここでタバコを吸ってはいけません。	ここでたばこをすってはいけません。	ここでタバコを吸ってはいけません。	prohibition (polite)	[sound:ee894559c9cf.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio
-You must not talk during class.	授業中話してはいけません。	じゅぎょうちゅうはなしてはいけません。	授業中話してはいけません。	school rule	[sound:28662a8aeba9.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio
-You must not park your car here.	ここに車を止めてはいけません。	ここにくるまをとめてはいけません。	ここに車を止めてはいけません。	parking rule	[sound:70511e6715b5.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio
-Children must not enter here.	子供がここに入ってはいけない。	こどもがここにはいってはいけない。	子供がここに入ってはいけない。	plain prohibition	[sound:3241a1938d36.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio
-You must not tell lies.	嘘をついてはいけません。	うそをついてはいけません。	嘘をついてはいけません。	moral prohibition	[sound:16d556170713.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio
+You must not smoke here.	ここでタバコを吸ってはいけません。	ここでたばこをすってはいけません。	ここでタバコを吸ってはいけません。	prohibition (polite)	[sound:ee894559c9cf.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio source:shin-kanzen complexity:standard
+You must not talk during class.	授業中話してはいけません。	じゅぎょうちゅうはなしてはいけません。	授業中話してはいけません。	school rule	[sound:28662a8aeba9.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+You must not park your car here.	ここに車を止めてはいけません。	ここにくるまをとめてはいけません。	ここに車を止めてはいけません。	parking rule	[sound:70511e6715b5.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+Children must not enter here.	子供がここに入ってはいけない。	こどもがここにはいってはいけない。	子供がここに入ってはいけない。	plain prohibition	[sound:3241a1938d36.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+You must not tell lies.	嘘をついてはいけません。	うそをついてはいけません。	嘘をついてはいけません。	moral prohibition	[sound:16d556170713.mp3]	module:01-n5 jlpt:n5 point:てはいけない source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro

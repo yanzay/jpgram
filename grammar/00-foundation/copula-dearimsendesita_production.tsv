@@ -1,8 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-I was not a student.	僕は学生ではありませんでした。	ぼくはがくせいではありませんでした。	僕は学生ではありませんでした。	Polite past denial	[sound:4772028c2ed1.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-dearimsendesita pos:aux point:copula complexity:standard frequency:top5k source:curated-jpgram
-She was not the culprit.	彼女は犯人ではありませんでした。	かのじょははんにんではありませんでした。	彼女は犯人ではありませんでした。	Polite past denial	[sound:601557ae839a.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-dearimsendesita pos:aux point:copula complexity:standard frequency:top10k source:curated-jpgram

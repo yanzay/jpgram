@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-I go to Kyoto every day.	彼は毎日京都へ行きます。	かれはまいにちきょうとへいきます。	彼は毎日京都へ行きます。	Irregular: unique te-form 行って	[sound:e0e9eab0af87.mp3]	module:00-foundation jlpt:n5 point:verb-irregular-iku pos:v point:verb-groups complexity:intro frequency:top10k source:curated-jpgram

@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-"The listener is there. If the thing is there too, we say ""それ""."	聞き手はそこ。その物がそこなら「それ」。	ききてはそこ。そのぶつがそこなら「それ」。	聞き手はそこ。その物がそこなら「それ」。	Proximity rule: where the listener is	[sound:4ee309326b2d.mp3]	module:00-foundation jlpt:n5 point:demonstrative-rule-so pos:n nb:proximity-rule point:demonstratives complexity:standard frequency:top1k source:curated-jpgram

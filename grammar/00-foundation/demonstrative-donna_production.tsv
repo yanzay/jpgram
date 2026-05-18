@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-What kind of work do you do?	どんな仕事をしていますか？	どんなしごとをしていますか？	どんな仕事をしていますか？	Ask what kind is being referred to	[sound:007b2b8955ab.mp3]	module:00-foundation jlpt:n5 point:demonstrative-donna pos:adj point:demonstratives complexity:standard frequency:top1k source:curated-jpgram

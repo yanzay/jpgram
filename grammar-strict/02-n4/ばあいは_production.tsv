@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-In case of emergency, please press this button.	緊急の場合は、このボタンを押してください。	きんきゅうのばあいは、このぼたんをおしてください。	緊急の場合は、このボタンを押してください。	situational conditional	[sound:f8b18a76f07f.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio
-In case of rain, the game will be cancelled.	雨の場合は、試合が中止になります。	あめのばあいは、しあいがちゅうしになります。	雨の場合は、試合が中止になります。	weather contingency	[sound:59c4b5990708.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio
-If there's a problem, please contact us immediately.	問題がある場合は、すぐに連絡してください。	もんだいがあるばあいは、すぐにれんらくしてください。	問題がある場合は、すぐに連絡してください。	problem scenario instruction	[sound:6f46380fe08b.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio
-If you can't participate, please let us know in advance.	参加できない場合は、事前に知らせてください。	さんかできないばあいは、じぜんにしらせてください。	参加できない場合は、事前に知らせてください。	absence scenario instruction	[sound:f644aea47335.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio
-If you don't understand, you're welcome to ask.	わからない場合は、質問してもいいですよ。	わからないばあいは、しつもんしてもいいですよ。	わからない場合は、質問してもいいですよ。	confusion scenario permission	[sound:1d7bb49f64b6.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio
+In case of emergency, please press this button.	緊急の場合は、このボタンを押してください。	きんきゅうのばあいは、このぼたんをおしてください。	緊急の場合は、このボタンを押してください。	situational conditional	[sound:f8b18a76f07f.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+In case of rain, the game will be cancelled.	雨の場合は、試合が中止になります。	あめのばあいは、しあいがちゅうしになります。	雨の場合は、試合が中止になります。	weather contingency	[sound:59c4b5990708.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+If there's a problem, please contact us immediately.	問題がある場合は、すぐに連絡してください。	もんだいがあるばあいは、すぐにれんらくしてください。	問題がある場合は、すぐに連絡してください。	problem scenario instruction	[sound:6f46380fe08b.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+If you can't participate, please let us know in advance.	参加できない場合は、事前に知らせてください。	さんかできないばあいは、じぜんにしらせてください。	参加できない場合は、事前に知らせてください。	absence scenario instruction	[sound:f644aea47335.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+If you don't understand, you're welcome to ask.	わからない場合は、質問してもいいですよ。	わからないばあいは、しつもんしてもいいですよ。	わからない場合は、質問してもいいですよ。	confusion scenario permission	[sound:1d7bb49f64b6.mp3]	module:02-n4 jlpt:n4 point:ばあいは source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard

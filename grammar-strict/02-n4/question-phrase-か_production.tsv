@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-I haven't decided yet where to go.	どこに行くか、まだ決めていません。	どこにいくか、まだきめていません。	どこに行くか、まだ決めていません。	どこ question embedded as object	[sound:9e0ae5cb2d29.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio
-I don't know what is correct.	何が正しいか、わかりません。	なにがただしいか、わかりません。	何が正しいか、わかりません。	何 question embedded	[sound:3bbcd64cd699.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio
-Do you know whether he will come?	彼が来るかどうか、知っていますか。	かれがくるかどうか、しっていますか。	彼が来るかどうか、知っていますか。	yes/no question embedded	[sound:0095d1870a2f.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio
-I have no idea when it will end.	いつ終わるか、見当もつきません。	いつおわるか、けんとうもつきません。	いつ終わるか、見当もつきません。	いつ question embedded	[sound:02d86f3254fd.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio
-Please explain why this happened.	なぜそうなったか、説明してください。	なぜそうなったか、せつめいしてください。	なぜそうなったか、説明してください。	なぜ reason question embedded	[sound:b749a927ce1c.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio
+I haven't decided yet where to go.	どこに行くか、まだ決めていません。	どこにいくか、まだきめていません。	どこに行くか、まだ決めていません。	どこ question embedded as object	[sound:9e0ae5cb2d29.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+I don't know what is correct.	何が正しいか、わかりません。	なにがただしいか、わかりません。	何が正しいか、わかりません。	何 question embedded	[sound:3bbcd64cd699.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+Do you know whether he will come?	彼が来るかどうか、知っていますか。	かれがくるかどうか、しっていますか。	彼が来るかどうか、知っていますか。	yes/no question embedded	[sound:0095d1870a2f.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I have no idea when it will end.	いつ終わるか、見当もつきません。	いつおわるか、けんとうもつきません。	いつ終わるか、見当もつきません。	いつ question embedded	[sound:02d86f3254fd.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+Please explain why this happened.	なぜそうなったか、説明してください。	なぜそうなったか、せつめいしてください。	なぜそうなったか、説明してください。	なぜ reason question embedded	[sound:b749a927ce1c.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard

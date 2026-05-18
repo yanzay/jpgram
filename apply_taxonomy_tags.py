@@ -22,7 +22,7 @@ import re
 import sys
 from pathlib import Path
 
-GRAMMAR_DIR = Path("grammar")
+GRAMMAR_DIR = Path("grammar-strict")
 
 MODULE_TO_JLPT = {
     "01-n5": "n5", "02-n4": "n4", "03-n3": "n3",

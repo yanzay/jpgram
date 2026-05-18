@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-I'm thinking of starting to study English next year.	来年から英語を習おうと思っています。	らいねんからえいごをならおうとおもっています。	来年から英語を習おうと思っています。	future intention with ようと思う	[sound:93ebc1c67154.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio
-I decided I would quit smoking for my health.	健康のために、たばこをやめようと思いました。	けんこうのために、たばこをやめようとおもいました。	健康のために、たばこをやめようと思いました。	past decision with ようと思う	[sound:bc4bab09b543.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio
-I think I'll start waking up earlier.	もっと早起きしようと思います。	もっとはやおきしようとおもいます。	もっと早起きしようと思います。	new resolution	[sound:d5a477a29cd6.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio
-I think I'll try looking into that issue.	その問題について調べてみようと思います。	そのもんだいについてしらべてみようとおもいます。	その問題について調べてみようと思います。	exploratory intention	[sound:3a89bd67c802.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio
-I'm thinking about working abroad after graduation.	卒業後は海外で働こうと思っています。	そつぎょうごはかいがいではたらこうとおもっています。	卒業後は海外で働こうと思っています。	post-graduation plan	[sound:a9bbecc6ed8b.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio
+I'm thinking of starting to study English next year.	来年から英語を習おうと思っています。	らいねんからえいごをならおうとおもっています。	来年から英語を習おうと思っています。	future intention with ようと思う	[sound:93ebc1c67154.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+I decided I would quit smoking for my health.	健康のために、たばこをやめようと思いました。	けんこうのために、たばこをやめようとおもいました。	健康のために、たばこをやめようと思いました。	past decision with ようと思う	[sound:bc4bab09b543.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I think I'll start waking up earlier.	もっと早起きしようと思います。	もっとはやおきしようとおもいます。	もっと早起きしようと思います。	new resolution	[sound:d5a477a29cd6.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio source:shin-kanzen complexity:standard
+I think I'll try looking into that issue.	その問題について調べてみようと思います。	そのもんだいについてしらべてみようとおもいます。	その問題について調べてみようと思います。	exploratory intention	[sound:3a89bd67c802.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+I'm thinking about working abroad after graduation.	卒業後は海外で働こうと思っています。	そつぎょうごはかいがいではたらこうとおもっています。	卒業後は海外で働こうと思っています。	post-graduation plan	[sound:a9bbecc6ed8b.mp3]	module:02-n4 jlpt:n4 point:ようと思う-おうと思う source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

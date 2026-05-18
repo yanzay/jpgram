@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Once I finish writing the report, I'll send it.	レポートを書きおわったら、送ります。	れぽーとをかきおわったら、おくります。	レポートを書きおわったら、送ります。	書きおわる: finish writing	[sound:9d04f1710cbd.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio
-After finishing eating, I washed the dishes.	ご飯を食べおわって、皿を洗いました。	ごはんをたべおわって、さらをあらいました。	ご飯を食べおわって、皿を洗いました。	食べおわる: finish eating	[sound:4ea16b2c62cf.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio
-It took three days to finish reading this book.	この本を読みおわるのに三日かかりました。	このほんをよみおわるのにみっかかかりました。	この本を読みおわるのに三日かかりました。	読みおわる: finish reading	[sound:41176eef1b03.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio
-You can play games after you finish your homework.	宿題をしおわってから、ゲームをしてもいいよ。	しゅくだいをしおわってから、げーむをしてもいいよ。	宿題をしおわってから、ゲームをしてもいいよ。	しおわる: finish doing homework	[sound:d73837e5fd4b.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio
-When we finished watching the movie, it was already midnight.	映画を見おわったとき、もう夜中の十二時でした。	えいがをみおわったとき、もうよなかのじゅうにじでした。	映画を見おわったとき、もう夜中の十二時でした。	見おわる: finish watching	[sound:df9e7956258a.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio
+Once I finish writing the report, I'll send it.	レポートを書きおわったら、送ります。	れぽーとをかきおわったら、おくります。	レポートを書きおわったら、送ります。	書きおわる: finish writing	[sound:9d04f1710cbd.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio source:shin-kanzen complexity:standard
+After finishing eating, I washed the dishes.	ご飯を食べおわって、皿を洗いました。	ごはんをたべおわって、さらをあらいました。	ご飯を食べおわって、皿を洗いました。	食べおわる: finish eating	[sound:4ea16b2c62cf.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+It took three days to finish reading this book.	この本を読みおわるのに三日かかりました。	このほんをよみおわるのにみっかかかりました。	この本を読みおわるのに三日かかりました。	読みおわる: finish reading	[sound:41176eef1b03.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+You can play games after you finish your homework.	宿題をしおわってから、ゲームをしてもいいよ。	しゅくだいをしおわってから、げーむをしてもいいよ。	宿題をしおわってから、ゲームをしてもいいよ。	しおわる: finish doing homework	[sound:d73837e5fd4b.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+When we finished watching the movie, it was already midnight.	映画を見おわったとき、もう夜中の十二時でした。	えいがをみおわったとき、もうよなかのじゅうにじでした。	映画を見おわったとき、もう夜中の十二時でした。	見おわる: finish watching	[sound:df9e7956258a.mp3]	module:02-n4 jlpt:n4 point:おわる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

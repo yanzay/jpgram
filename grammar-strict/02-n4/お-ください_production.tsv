@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Please take a seat.	どうぞお座りください。	どうぞおすわりください。	どうぞお座りください。	formal welcoming request	[sound:650cdf17fe0a.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio
-Please come this way.	こちらへお越しください。	こちらへおこしください。	こちらへお越しください。	directing guest honorifically	[sound:6e82290745fc.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio
-If you have any opinions, please let us know.	ご意見がございましたら、お知らせください。	ごいけんがございましたら、おしらせください。	ご意見がございましたら、お知らせください。	honorific invitation for feedback	[sound:11fefe4a45ee.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio
-Please wait. I'll be right there.	お待ちください。すぐ参ります。	おまちください。すぐまいります。	お待ちください。すぐ参ります。	customer-service wait request	[sound:f1c61cc30b7a.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio
-For more details, please read this.	詳しくはこちらをお読みください。	くわしくはこちらをおよみください。	詳しくはこちらをお読みください。	formal reading instruction	[sound:d80f2edd5e8c.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio
+Please take a seat.	どうぞお座りください。	どうぞおすわりください。	どうぞお座りください。	formal welcoming request	[sound:650cdf17fe0a.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio source:shin-kanzen complexity:intro
+Please come this way.	こちらへお越しください。	こちらへおこしください。	こちらへお越しください。	directing guest honorifically	[sound:6e82290745fc.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio source:shin-kanzen complexity:intro
+If you have any opinions, please let us know.	ご意見がございましたら、お知らせください。	ごいけんがございましたら、おしらせください。	ご意見がございましたら、お知らせください。	honorific invitation for feedback	[sound:11fefe4a45ee.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+Please wait. I'll be right there.	お待ちください。すぐ参ります。	おまちください。すぐまいります。	お待ちください。すぐ参ります。	customer-service wait request	[sound:f1c61cc30b7a.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio source:shin-kanzen complexity:standard
+For more details, please read this.	詳しくはこちらをお読みください。	くわしくはこちらをおよみください。	詳しくはこちらをお読みください。	formal reading instruction	[sound:d80f2edd5e8c.mp3]	module:02-n4 jlpt:n4 point:お-ください source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

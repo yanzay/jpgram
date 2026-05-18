@@ -4,8 +4,8 @@
 #notetype:Recognition
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
 
-どれがあなたのかばんですか。	どれがあなたのかばんですか。	Which one is your bag?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:9b536c244d06.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio
-どれを買いますか。	どれをかいますか。	Which one will you buy?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:ad2490eb3de1.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio
-どれが一番美味しいですか。	どれがいちばんおいしいですか。	Which one is the most delicious?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:1081e5adf0e2.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio
-どれにしますか。	どれにしますか。	Which one will you choose?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:da5ec47bb8d3.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio
-どれが好きですか。	どれがすきですか。	Which one do you like?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:60a28aff9bf5.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio
+どれがあなたのかばんですか。	どれがあなたのかばんですか。	Which one is your bag?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:9b536c244d06.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio source:shin-kanzen complexity:standard
+どれを買いますか。	どれをかいますか。	Which one will you buy?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:ad2490eb3de1.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio source:shin-kanzen complexity:intro
+どれが一番美味しいですか。	どれがいちばんおいしいですか。	Which one is the most delicious?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:1081e5adf0e2.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+どれにしますか。	どれにしますか。	Which one will you choose?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:da5ec47bb8d3.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio source:shin-kanzen complexity:intro
+どれが好きですか。	どれがすきですか。	Which one do you like?	どれ (which — pronoun)	どれ + が / を …	asks which (one) of three or more		どれ pronoun; どの + noun	[sound:60a28aff9bf5.mp3]	module:01-n5 jlpt:n5 point:どれ source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro

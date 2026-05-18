@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-My Japanese is getting better and better.	日本語がどんどん上手になっています。	にほんごがどんどんじょうずになっています。	日本語がどんどん上手になっています。	rapid progressive improvement	[sound:228fb95a8896.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio
-The problems got harder and harder.	問題がどんどん難しくなっていきました。	もんだいがどんどんむずかしくなっていきました。	問題がどんどん難しくなっていきました。	escalating difficulty	[sound:bc3847464cd5.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio
-The line is getting longer and longer.	列がどんどん長くなっている。	れつがどんどんながくなっている。	列がどんどん長くなっている。	rapidly growing queue	[sound:2e8bc0dae5dd.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio
-New buildings are being built one after another.	新しいビルがどんどん建っています。	あたらしいびるがどんどんたっています。	新しいビルがどんどん建っています。	rapid construction pace	[sound:4af3a41840cd.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio
-Please eat as much as you like (keep eating).	どんどん食べてください。	どんどんたべてください。	どんどん食べてください。	どんどん = at a good pace	[sound:688941c2b665.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio
+My Japanese is getting better and better.	日本語がどんどん上手になっています。	にほんごがどんどんじょうずになっています。	日本語がどんどん上手になっています。	rapid progressive improvement	[sound:228fb95a8896.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+The problems got harder and harder.	問題がどんどん難しくなっていきました。	もんだいがどんどんむずかしくなっていきました。	問題がどんどん難しくなっていきました。	escalating difficulty	[sound:bc3847464cd5.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+The line is getting longer and longer.	列がどんどん長くなっている。	れつがどんどんながくなっている。	列がどんどん長くなっている。	rapidly growing queue	[sound:2e8bc0dae5dd.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+New buildings are being built one after another.	新しいビルがどんどん建っています。	あたらしいびるがどんどんたっています。	新しいビルがどんどん建っています。	rapid construction pace	[sound:4af3a41840cd.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+Please eat as much as you like (keep eating).	どんどん食べてください。	どんどんたべてください。	どんどん食べてください。	どんどん = at a good pace	[sound:688941c2b665.mp3]	module:02-n4 jlpt:n4 point:どんどん source:authored scaffold:pending-audio source:shin-kanzen complexity:intro

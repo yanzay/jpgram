@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-There are various animals: cats, dogs, and so on.	猫たり犬たり、いろいろな動物がいる。	ねこたり、いぬたり、いろいろなどうぶつがいる。	猫たり犬たり、いろいろな動物がいる。	Classical: enumerate alternatives; modern form uses ～たり～たり	[sound:e80ed9ae4e6f.mp3]	module:00-foundation jlpt:n5 register:classical point:copula-tari pos:aux nb:classical-carryover point:copula complexity:standard frequency:top1k source:curated-jpgram

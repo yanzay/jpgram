@@ -1,8 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-If you're a student, you can use the library.	学生なら、図書館が使える。	がくせいなら、としょかんがつかえる。	学生なら、図書館が使える。	Conditional with presupposition	[sound:33b6cccfb7f4.mp3]	module:00-foundation jlpt:n5 register:casual point:copula-nara pos:aux point:copula complexity:intro frequency:top1k source:curated-jpgram
-If you're Japanese, you should know.	日本人なら、知っているはずだ。	にほんじんなら、しっているはずだ。	日本人なら、知っているはずだ。	Conditional with presupposition	[sound:848ce7ca1e32.mp3]	module:00-foundation jlpt:n5 register:casual point:copula-nara pos:aux point:copula complexity:standard frequency:top10k source:curated-jpgram

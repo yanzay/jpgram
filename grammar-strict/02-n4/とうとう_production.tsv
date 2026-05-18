@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-I finally passed the exam!	とうとう試験に合格しました！	とうとうしけんにごうかくしました！	とうとう試験に合格しました！	after long effort, success achieved	[sound:b075ca32707e.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio
-She finally broke down and cried.	とうとう彼女は泣き出してしまいました。	とうとうかのじょはなきだしてしまいました。	とうとう彼女は泣き出してしまいました。	inevitably happened after tension	[sound:34f0a6556c9a.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio
-After three years of construction, the bridge was finally completed.	三年間の工事が終わって、とうとう橋が完成しました。	さんねんかんのこうじがおわって、とうとうはしがかんせいしました。	三年間の工事が終わって、とうとう橋が完成しました。	long project finally done	[sound:f498a9671f16.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio
-Spring has finally arrived.	とうとう春が来ました。	とうとうはるがきました。	とうとう春が来ました。	awaited season's arrival	[sound:2cbfee58175c.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio
-My old computer finally broke down.	とうとう古いパソコンが壊れてしまいました。	とうとうふるいぱそこんがこわれてしまいました。	とうとう古いパソコンが壊れてしまいました。	inevitable end arrived	[sound:b7d9c87bef90.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio
+I finally passed the exam!	とうとう試験に合格しました！	とうとうしけんにごうかくしました！	とうとう試験に合格しました！	after long effort, success achieved	[sound:b075ca32707e.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+She finally broke down and cried.	とうとう彼女は泣き出してしまいました。	とうとうかのじょはなきだしてしまいました。	とうとう彼女は泣き出してしまいました。	inevitably happened after tension	[sound:34f0a6556c9a.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+After three years of construction, the bridge was finally completed.	三年間の工事が終わって、とうとう橋が完成しました。	さんねんかんのこうじがおわって、とうとうはしがかんせいしました。	三年間の工事が終わって、とうとう橋が完成しました。	long project finally done	[sound:f498a9671f16.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+Spring has finally arrived.	とうとう春が来ました。	とうとうはるがきました。	とうとう春が来ました。	awaited season's arrival	[sound:2cbfee58175c.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+My old computer finally broke down.	とうとう古いパソコンが壊れてしまいました。	とうとうふるいぱそこんがこわれてしまいました。	とうとう古いパソコンが壊れてしまいました。	inevitable end arrived	[sound:b7d9c87bef90.mp3]	module:02-n4 jlpt:n4 point:とうとう source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
