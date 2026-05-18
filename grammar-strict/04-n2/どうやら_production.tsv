@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
 
-Say: example 1 using どうやら	（どうやら）の例文1です。		（どうやら）の例文1です。	Apparently, Looks Like, Seems like	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:どうやら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using どうやら	（どうやら）の例文2です。		（どうやら）の例文2です。	Apparently, Looks Like, Seems like	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:どうやら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using どうやら	（どうやら）の例文3です。		（どうやら）の例文3です。	Apparently, Looks Like, Seems like	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:どうやら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using どうやら	（どうやら）の例文4です。		（どうやら）の例文4です。	Apparently, Looks Like, Seems like	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:どうやら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using どうやら	（どうやら）の例文5です。		（どうやら）の例文5です。	Apparently, Looks Like, Seems like	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:どうやら scaffold:pending-content scaffold:pending-audio source:bunpro
+It seems the trains are running late.	どうやら電車が遅れているらしい。	どうやらでんしゃがおくれているらしい。	どうやら電車が遅れているらしい。	どうやら: delay inferred from available observable signs	[sound:4da14b908abd.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored scaffold:pending-audio
+She appears to be angry, from what I can tell.	どうやら彼女は怒っているようだ。	どうやらかのじょはおこっているようだ。	どうやら彼女は怒っているようだ。	どうやら: anger inferred from visible behavioral cues	[sound:8bfae804eb06.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored scaffold:pending-audio
+It seems there was a misunderstanding.	どうやら誤解があったようですね。	どうやらごかいがあったようですね。	どうやら誤解があったようですね。	どうやら: misunderstanding inferred from exchange so far	[sound:0b6d752e3875.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored scaffold:pending-audio
+Apparently there was an accident next door last night.	どうやら昨夜、隣で事故があったらしい。	どうやらさくや、となりでじこがあったらしい。	どうやら昨夜、隣で事故があったらしい。	どうやら: accident inferred from indirect neighborhood signs	[sound:c2d27ce28cd5.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored scaffold:pending-audio
+It appears my package hasn't arrived.	どうやら私の荷物が届いていないようだ。	どうやらわたしのにもつがとどいていないようだ。	どうやら私の荷物が届いていないようだ。	どうやら: non-arrival inferred from absence of package	[sound:7b63e1d06453.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored scaffold:pending-audio

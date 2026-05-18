@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using もらう	（もらう）の例文1です。		（もらう）の例文1です。	To receive, To get, To obtain	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:もらう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using もらう	（もらう）の例文2です。		（もらう）の例文2です。	To receive, To get, To obtain	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:もらう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using もらう	（もらう）の例文3です。		（もらう）の例文3です。	To receive, To get, To obtain	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:もらう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using もらう	（もらう）の例文4です。		（もらう）の例文4です。	To receive, To get, To obtain	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:もらう scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using もらう	（もらう）の例文5です。		（もらう）の例文5です。	To receive, To get, To obtain	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:もらう scaffold:pending-content scaffold:pending-audio source:bunpro
+I received a letter from my friend.	友達から手紙をもらいました。	ともだちからてがみをもらいました。	友達から手紙をもらいました。	receiving with から	[sound:36172736e1cf.mp3]	module:01-n5 jlpt:n5 point:もらう source:authored scaffold:pending-audio
+I received advice from my teacher.	先生にアドバイスをもらいました。	せんせいにあどばいすをもらいました。	先生にアドバイスをもらいました。	receiving with に	[sound:b5ffb3a518e5.mp3]	module:01-n5 jlpt:n5 point:もらう source:authored scaffold:pending-audio
+I received a present on my birthday.	誕生日にプレゼントをもらった。	たんじょうひにぷれぜんとをもらった。	誕生日にプレゼントをもらった。	occasion receiving	[sound:e5224bd10c6e.mp3]	module:01-n5 jlpt:n5 point:もらう source:authored scaffold:pending-audio
+I got an old bicycle from my older brother.	兄に古い自転車をもらった。	あににふるいじてんしゃをもらった。	兄に古い自転車をもらった。	family giving	[sound:f84f021dac6c.mp3]	module:01-n5 jlpt:n5 point:もらう source:authored scaffold:pending-audio
+I had him help me.	彼に手伝ってもらいました。	かれにてつだってもらいました。	彼に手伝ってもらいました。	te-form + もらう (receive a favor)	[sound:87d8f07537b1.mp3]	module:01-n5 jlpt:n5 point:もらう source:authored scaffold:pending-audio

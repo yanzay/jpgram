@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using 聞こえる	（聞こえる）の例文1です。		（聞こえる）の例文1です。	To be audible, To sound (like), (Can) hear, To be heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:聞こえる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using 聞こえる	（聞こえる）の例文2です。		（聞こえる）の例文2です。	To be audible, To sound (like), (Can) hear, To be heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:聞こえる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using 聞こえる	（聞こえる）の例文3です。		（聞こえる）の例文3です。	To be audible, To sound (like), (Can) hear, To be heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:聞こえる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using 聞こえる	（聞こえる）の例文4です。		（聞こえる）の例文4です。	To be audible, To sound (like), (Can) hear, To be heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:聞こえる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using 聞こえる	（聞こえる）の例文5です。		（聞こえる）の例文5です。	To be audible, To sound (like), (Can) hear, To be heard	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:聞こえる scaffold:pending-content scaffold:pending-audio source:bunpro
+I can hear music from the next room.	隣の部屋から音楽が聞こえます。	となりのへやからおんがくがきこえます。	隣の部屋から音楽が聞こえます。	passively hearing sound	[sound:0668fce936eb.mp3]	module:02-n4 jlpt:n4 point:聞こえる source:authored scaffold:pending-audio
+I could hear children's voices coming from outside.	外から子どもたちの声が聞こえてきました。	そとからこどもたちのこえがきこえてきました。	外から子どもたちの声が聞こえてきました。	natural sound reaching speaker	[sound:9b5269b0ccdc.mp3]	module:02-n4 jlpt:n4 point:聞こえる source:authored scaffold:pending-audio
+You can barely hear sounds from outside inside this building.	この建物の中では、外の音がほとんど聞こえません。	このたてもののなかでは、そとのおとがほとんどきこえません。	この建物の中では、外の音がほとんど聞こえません。	soundproofed space	[sound:bb98f675a168.mp3]	module:02-n4 jlpt:n4 point:聞こえる source:authored scaffold:pending-audio
+I could hear the sound of thunder in the distance.	遠くで雷の音が聞こえた。	とおくでかみなりのおとがきこえた。	遠くで雷の音が聞こえた。	distant natural sound	[sound:736ce98e447d.mp3]	module:02-n4 jlpt:n4 point:聞こえる source:authored scaffold:pending-audio
+His voice was so quiet it couldn't be heard from the back row.	彼の声が小さくて、後ろの席まで聞こえなかった。	かれのこえがちいさくて、うしろのせきまできこえなかった。	彼の声が小さくて、後ろの席まで聞こえなかった。	inability to hear due to low volume	[sound:a697d6b061f9.mp3]	module:02-n4 jlpt:n4 point:聞こえる source:authored scaffold:pending-audio

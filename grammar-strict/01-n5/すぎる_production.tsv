@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using すぎる	（すぎる）の例文1です。		（すぎる）の例文1です。	Too much, Very	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:すぎる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using すぎる	（すぎる）の例文2です。		（すぎる）の例文2です。	Too much, Very	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:すぎる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using すぎる	（すぎる）の例文3です。		（すぎる）の例文3です。	Too much, Very	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:すぎる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using すぎる	（すぎる）の例文4です。		（すぎる）の例文4です。	Too much, Very	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:すぎる scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using すぎる	（すぎる）の例文5です。		（すぎる）の例文5です。	Too much, Very	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:すぎる scaffold:pending-content scaffold:pending-audio source:bunpro
+I ate too much.	食べすぎました。	たべすぎました。	食べすぎました。	verb + すぎる	[sound:e7068a7dd3c9.mp3]	module:01-n5 jlpt:n5 point:すぎる source:authored scaffold:pending-audio
+This book is too difficult.	この本は難しすぎる。	このほんはむずかしすぎる。	この本は難しすぎる。	い-adj + すぎる	[sound:e0c1935a7a3e.mp3]	module:01-n5 jlpt:n5 point:すぎる source:authored scaffold:pending-audio
+I drank too much yesterday.	昨日は飲みすぎた。	きのうはのみすぎた。	昨日は飲みすぎた。	verb + すぎる past	[sound:375060acab0c.mp3]	module:01-n5 jlpt:n5 point:すぎる source:authored scaffold:pending-audio
+This room is too quiet.	この部屋は静かすぎる。	このへやはしずかすぎる。	この部屋は静かすぎる。	な-adj + すぎる	[sound:9349bc040f42.mp3]	module:01-n5 jlpt:n5 point:すぎる source:authored scaffold:pending-audio
+The price is too high.	値段が高すぎます。	ねだんがたかすぎます。	値段が高すぎます。	い-adj + すぎる	[sound:293d4f03a574.mp3]	module:01-n5 jlpt:n5 point:すぎる source:authored scaffold:pending-audio

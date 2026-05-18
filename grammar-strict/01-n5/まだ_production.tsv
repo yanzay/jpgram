@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using まだ	（まだ）の例文1です。		（まだ）の例文1です。	Still	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:まだ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using まだ	（まだ）の例文2です。		（まだ）の例文2です。	Still	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:まだ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using まだ	（まだ）の例文3です。		（まだ）の例文3です。	Still	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:まだ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using まだ	（まだ）の例文4です。		（まだ）の例文4です。	Still	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:まだ scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using まだ	（まだ）の例文5です。		（まだ）の例文5です。	Still	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:まだ scaffold:pending-content scaffold:pending-audio source:bunpro
+He is still a student.	彼はまだ学生です。	かれはまだがくせいです。	彼はまだ学生です。	ongoing state	[sound:bee7a78eea79.mp3]	module:01-n5 jlpt:n5 point:まだ source:authored scaffold:pending-audio
+I haven't finished my homework yet.	宿題はまだ終わっていません。	しゅくだいはまだおわっていません。	宿題はまだ終わっていません。	not yet (negative)	[sound:b18e81ab90e3.mp3]	module:01-n5 jlpt:n5 point:まだ source:authored scaffold:pending-audio
+It is still raining.	雨はまだ降っています。	あめはまだふっています。	雨はまだ降っています。	ongoing weather	[sound:327074f24531.mp3]	module:01-n5 jlpt:n5 point:まだ source:authored scaffold:pending-audio
+There is still time.	まだ時間があります。	まだじかんがあります。	まだ時間があります。	still existing	[sound:4321ede0d2c3.mp3]	module:01-n5 jlpt:n5 point:まだ source:authored scaffold:pending-audio
+I haven't eaten yet.	まだ食べていません。	まだたべていません。	まだ食べていません。	not yet eaten	[sound:705e86fd24a6.mp3]	module:01-n5 jlpt:n5 point:まだ source:authored scaffold:pending-audio

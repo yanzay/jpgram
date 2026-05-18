@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using にきがつく	（にきがつく）の例文1です。		（にきがつく）の例文1です。	To notice (that), To realize (that)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にきがつく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using にきがつく	（にきがつく）の例文2です。		（にきがつく）の例文2です。	To notice (that), To realize (that)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にきがつく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using にきがつく	（にきがつく）の例文3です。		（にきがつく）の例文3です。	To notice (that), To realize (that)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にきがつく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using にきがつく	（にきがつく）の例文4です。		（にきがつく）の例文4です。	To notice (that), To realize (that)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にきがつく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using にきがつく	（にきがつく）の例文5です。		（にきがつく）の例文5です。	To notice (that), To realize (that)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:にきがつく scaffold:pending-content scaffold:pending-audio source:bunpro
+I noticed my wallet was missing.	財布がないことに気がついた。	さいふがないことにきがついた。	財布がないことに気がついた。	realized missing item	[sound:d70e79a2f2e7.mp3]	module:02-n4 jlpt:n4 point:にきがつく source:authored scaffold:pending-audio
+I noticed the typo and fixed it immediately.	誤字に気がついて、すぐ直しました。	ごじにきがついて、すぐなおしました。	誤字に気がついて、すぐ直しました。	noticed error → corrected	[sound:119b759d2a72.mp3]	module:02-n4 jlpt:n4 point:にきがつく source:authored scaffold:pending-audio
+I didn't notice that she had arrived.	彼女が来ていることに気がつかなかった。	かのじょがきていることにきがつかなかった。	彼女が来ていることに気がつかなかった。	failure to notice presence	[sound:1fa18d090bbd.mp3]	module:02-n4 jlpt:n4 point:にきがつく source:authored scaffold:pending-audio
+I'm glad I noticed the problem early.	問題に早めに気がついてよかった。	もんだいにはやめにきがついてよかった。	問題に早めに気がついてよかった。	relief at early noticing	[sound:6d58f9ac90d9.mp3]	module:02-n4 jlpt:n4 point:にきがつく source:authored scaffold:pending-audio
+While talking, I realized my own mistake.	話しているうちに、自分の間違いに気がつきました。	はなしているうちに、じぶんのまちがいにきがつきました。	話しているうちに、自分の間違いに気がつきました。	gradual self-realization	[sound:9b06500f5632.mp3]	module:02-n4 jlpt:n4 point:にきがつく source:authored scaffold:pending-audio

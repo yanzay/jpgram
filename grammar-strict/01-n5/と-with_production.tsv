@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using と	（と）の例文1です。		（と）の例文1です。	With	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-with scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using と	（と）の例文2です。		（と）の例文2です。	With	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-with scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using と	（と）の例文3です。		（と）の例文3です。	With	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-with scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using と	（と）の例文4です。		（と）の例文4です。	With	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-with scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using と	（と）の例文5です。		（と）の例文5です。	With	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-with scaffold:pending-content scaffold:pending-audio source:bunpro
+I watched a movie with my friend.	友達と映画を見ました。	ともだちとえいがをみました。	友達と映画を見ました。	companion in the action	[sound:68ce5022b616.mp3]	module:01-n5 jlpt:n5 point:と-with source:authored scaffold:pending-audio
+I went to the supermarket with my mother.	母とスーパーに行きました。	ははとすーぱーにいきました。	母とスーパーに行きました。	going together	[sound:4711383c0b94.mp3]	module:01-n5 jlpt:n5 point:と-with source:authored scaffold:pending-audio
+I walk in the park with my dog.	犬と公園を散歩します。	いぬとこうえんをさんぽします。	犬と公園を散歩します。	walking companion	[sound:00f6ccdbe8bd.mp3]	module:01-n5 jlpt:n5 point:と-with source:authored scaffold:pending-audio
+I'm studying Japanese with him.	彼と日本語を勉強しています。	かれとにほんごをべんきょうしています。	彼と日本語を勉強しています。	studying together	[sound:bdded6ff4235.mp3]	module:01-n5 jlpt:n5 point:と-with source:authored scaffold:pending-audio
+I'll talk with the teacher tomorrow.	明日先生と話します。	あしたせんせいとはなします。	明日先生と話します。	future conversation partner	[sound:f5a99d3bd054.mp3]	module:01-n5 jlpt:n5 point:と-with source:authored scaffold:pending-audio

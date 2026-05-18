@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
 
-Say: example 1 using それなら	（それなら）の例文1です。		（それなら）の例文1です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using それなら	（それなら）の例文2です。		（それなら）の例文2です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using それなら	（それなら）の例文3です。		（それなら）の例文3です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using それなら	（それなら）の例文4です。		（それなら）の例文4です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using それなら	（それなら）の例文5です。		（それなら）の例文5です。	Then, If that's the case	[sound:0003cbbf8429.mp3]	module:04-n2 jlpt:n2 point:それなら scaffold:pending-content scaffold:pending-audio source:bunpro
+'I'm hungry.' 'In that case, go ahead and eat first.'	「お腹が空いた」「それなら先に食べていいよ」	「おなかがあいた」「それならさきにたべていいよ」	「お腹が空いた」「それなら先に食べていいよ」	それなら: hunger triggers permission as logical response	[sound:6a28d6dfbd0b.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored scaffold:pending-audio
+In that case, let me do it instead.	それなら、私が代わりにやりましょう。	それなら、わたしがかわりにやりましょう。	それなら、私が代わりにやりましょう。	それなら: situation triggers practical substitute offer	[sound:51136fe40c0f.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored scaffold:pending-audio
+'I hear the trains are delayed.' 'In that case, let's leave early.'	「電車が遅れているそうだ」「それなら早めに出よう」	「でんしゃがおくれているそうだ」「それならはやめにでよう」	「電車が遅れているそうだ」「それなら早めに出よう」	それなら: delay information prompts contingency action	[sound:1dc6ddd060ff.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored scaffold:pending-audio
+If that's the case, we may want to revisit the conditions a bit.	それなら、もう少し条件を見直した方がいいかもしれない。	それなら、もうすこしじょうけんをみなおしたほうがいいかもしれない。	それなら、もう少し条件を見直した方がいいかもしれない。	それなら: new information triggers reconsideration	[sound:6068a547b346.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored scaffold:pending-audio
+'It seems she won't come.' 'In that case, let's change the number of people.'	「彼女は来ないらしい」「それなら人数を変えよう」	「かのじょはこないらしい」「それならにんずうをかえよう」	「彼女は来ないらしい」「それなら人数を変えよう」	それなら: absence news directly triggers planning adjustment	[sound:2f103195ba1d.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using Noun + まで	（Noun + まで）の例文1です。		（Noun + まで）の例文1です。	Until, Till,  To (but no further than)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:noun-まで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using Noun + まで	（Noun + まで）の例文2です。		（Noun + まで）の例文2です。	Until, Till,  To (but no further than)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:noun-まで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using Noun + まで	（Noun + まで）の例文3です。		（Noun + まで）の例文3です。	Until, Till,  To (but no further than)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:noun-まで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using Noun + まで	（Noun + まで）の例文4です。		（Noun + まで）の例文4です。	Until, Till,  To (but no further than)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:noun-まで scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using Noun + まで	（Noun + まで）の例文5です。		（Noun + まで）の例文5です。	Until, Till,  To (but no further than)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:noun-まで scaffold:pending-content scaffold:pending-audio source:bunpro
+I walked to the station.	駅まで歩きました。	えきまであるきました。	駅まで歩きました。	spatial endpoint	[sound:101252b952e8.mp3]	module:01-n5 jlpt:n5 point:noun-まで source:authored scaffold:pending-audio
+I work until five.	五時まで働きます。	ごじまではたらきます。	五時まで働きます。	time endpoint	[sound:6962b620bb80.mp3]	module:01-n5 jlpt:n5 point:noun-まで source:authored scaffold:pending-audio
+I go from Tokyo to Osaka by bullet train.	東京から大阪まで新幹線で行きます。	とうきょうからおおさかまでしんかんせんでいきます。	東京から大阪まで新幹線で行きます。	paired with から	[sound:638f77448e87.mp3]	module:01-n5 jlpt:n5 point:noun-まで source:authored scaffold:pending-audio
+I'm free until Saturday.	土曜日まで暇です。	どようひまでひまです。	土曜日まで暇です。	time endpoint	[sound:7bebfc3e3945.mp3]	module:01-n5 jlpt:n5 point:noun-まで source:authored scaffold:pending-audio
+This road continues up to the school.	この道は学校まで続きます。	このみちはがっこうまでつづきます。	この道は学校まで続きます。	physical extent	[sound:3a45beea1bdc.mp3]	module:01-n5 jlpt:n5 point:noun-まで source:authored scaffold:pending-audio

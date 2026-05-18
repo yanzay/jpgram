@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using する (Cost)	（する (Cost)）の例文1です。		（する (Cost)）の例文1です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using する (Cost)	（する (Cost)）の例文2です。		（する (Cost)）の例文2です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using する (Cost)	（する (Cost)）の例文3です。		（する (Cost)）の例文3です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using する (Cost)	（する (Cost)）の例文4です。		（する (Cost)）の例文4です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using する (Cost)	（する (Cost)）の例文5です。		（する (Cost)）の例文5です。	Cost (money), Run you about (a certain price)	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:する-cost scaffold:pending-content scaffold:pending-audio source:bunpro
+This watch costs thirty thousand yen.	この時計は三万円します。	このとけいはさんまんえんします。	この時計は三万円します。	price with する	[sound:13fde5ba3653.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored scaffold:pending-audio
+That trip will cost quite a lot, won't it?	その旅行はかなりするんじゃないですか。	そのりょこうはかなりするんじゃないですか。	その旅行はかなりするんじゃないですか。	vague expensive cost	[sound:ce2abb4cdfdf.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored scaffold:pending-audio
+Lunch here costs one thousand yen.	ここのランチは千円します。	ここのらんちはせんえんします。	ここのランチは千円します。	restaurant price	[sound:6ede18090aa0.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored scaffold:pending-audio
+The repair cost was higher than I thought.	修理代は思ったより高くしました。	しゅうりだいはおもったよりたかくしました。	修理代は思ったより高くしました。	cost exceeded expectation	[sound:c5c820a621c5.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored scaffold:pending-audio
+I think this coat costs more than fifty thousand yen.	このコートは五万円以上すると思います。	このこーとはごまんえんいじょうするとおもいます。	このコートは五万円以上すると思います。	estimated cost with する	[sound:031074fb0264.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored scaffold:pending-audio

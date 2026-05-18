@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using う-Verb (Past)	（う-Verb (Past)）の例文1です。		（う-Verb (Past)）の例文1です。	う - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using う-Verb (Past)	（う-Verb (Past)）の例文2です。		（う-Verb (Past)）の例文2です。	う - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using う-Verb (Past)	（う-Verb (Past)）の例文3です。		（う-Verb (Past)）の例文3です。	う - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using う-Verb (Past)	（う-Verb (Past)）の例文4です。		（う-Verb (Past)）の例文4です。	う - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using う-Verb (Past)	（う-Verb (Past)）の例文5です。		（う-Verb (Past)）の例文5です。	う - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:う-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
+I drank water yesterday.	昨日水を飲んだ。	きのうみずをのんだ。	昨日水を飲んだ。	godan 飲む → 飲んだ	[sound:5ec1321a4558.mp3]	module:01-n5 jlpt:n5 point:う-verb-past source:authored scaffold:pending-audio
+I wrote a letter.	手紙を書いた。	てがみをかいた。	手紙を書いた。	godan 書く → 書いた	[sound:79e177d75942.mp3]	module:01-n5 jlpt:n5 point:う-verb-past source:authored scaffold:pending-audio
+I talked with my friend.	友達と話した。	ともだちとはなした。	友達と話した。	godan 話す → 話した	[sound:47f10cee2b89.mp3]	module:01-n5 jlpt:n5 point:う-verb-past source:authored scaffold:pending-audio
+I bought new shoes.	新しい靴を買った。	あたらしいくつをかった。	新しい靴を買った。	godan 買う → 買った	[sound:feaf78af6532.mp3]	module:01-n5 jlpt:n5 point:う-verb-past source:authored scaffold:pending-audio
+I went to school by train.	電車で学校に行った。	でんしゃでがっこうにいった。	電車で学校に行った。	godan 行く → 行った	[sound:2edfad2fb903.mp3]	module:01-n5 jlpt:n5 point:う-verb-past source:authored scaffold:pending-audio

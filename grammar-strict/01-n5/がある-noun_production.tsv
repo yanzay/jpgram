@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using がある + Noun	（がある + Noun）の例文1です。		（がある + Noun）の例文1です。	Noun (B) that has Noun (A), Noun (B) with Noun (A)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある-noun scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using がある + Noun	（がある + Noun）の例文2です。		（がある + Noun）の例文2です。	Noun (B) that has Noun (A), Noun (B) with Noun (A)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある-noun scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using がある + Noun	（がある + Noun）の例文3です。		（がある + Noun）の例文3です。	Noun (B) that has Noun (A), Noun (B) with Noun (A)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある-noun scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using がある + Noun	（がある + Noun）の例文4です。		（がある + Noun）の例文4です。	Noun (B) that has Noun (A), Noun (B) with Noun (A)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある-noun scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using がある + Noun	（がある + Noun）の例文5です。		（がある + Noun）の例文5です。	Noun (B) that has Noun (A), Noun (B) with Noun (A)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:がある-noun scaffold:pending-content scaffold:pending-audio source:bunpro
+I want to live in a house with a garden.	庭がある家に住みたいです。	にわがあるいえにすみたいです。	庭がある家に住みたいです。	noun modifier 'with garden'	[sound:fac00d3f0fc3.mp3]	module:01-n5 jlpt:n5 point:がある-noun source:authored scaffold:pending-audio
+A room with a window is good.	窓がある部屋がいいです。	まどがあるへやがいいです。	窓がある部屋がいいです。	modifier specifying feature	[sound:e29c1f85a927.mp3]	module:01-n5 jlpt:n5 point:がある-noun source:authored scaffold:pending-audio
+I want to do meaningful work.	意味がある仕事をしたいです。	いみがあるしごとをしたいです。	意味がある仕事をしたいです。	abstract noun modifier	[sound:b5f08407a50c.mp3]	module:01-n5 jlpt:n5 point:がある-noun source:authored scaffold:pending-audio
+I'm looking for a hotel with a pool.	プールがあるホテルを探しています。	ぷーるがあるほてるをさがしています。	プールがあるホテルを探しています。	facility modifier	[sound:088ee7b25ab4.mp3]	module:01-n5 jlpt:n5 point:がある-noun source:authored scaffold:pending-audio
+We are recruiting people with experience.	経験がある人を募集しています。	けいけんがあるひとをぼしゅうしています。	経験がある人を募集しています。	attribute modifier	[sound:e2ea03695353.mp3]	module:01-n5 jlpt:n5 point:がある-noun source:authored scaffold:pending-audio

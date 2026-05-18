@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using る-Verb (Past)	（る-Verb (Past)）の例文1です。		（る-Verb (Past)）の例文1です。	る - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:る-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using る-Verb (Past)	（る-Verb (Past)）の例文2です。		（る-Verb (Past)）の例文2です。	る - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:る-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using る-Verb (Past)	（る-Verb (Past)）の例文3です。		（る-Verb (Past)）の例文3です。	る - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:る-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using る-Verb (Past)	（る-Verb (Past)）の例文4です。		（る-Verb (Past)）の例文4です。	る - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:る-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using る-Verb (Past)	（る-Verb (Past)）の例文5です。		（る-Verb (Past)）の例文5です。	る - Verbs (Past tense)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:る-verb-past scaffold:pending-content scaffold:pending-audio source:bunpro
+I ate breakfast.	朝ごはんを食べた。	あさごはんをたべた。	朝ごはんを食べた。	ichidan 食べる → 食べた	[sound:dafb80998b94.mp3]	module:01-n5 jlpt:n5 point:る-verb-past source:authored scaffold:pending-audio
+I watched a movie yesterday.	昨日映画を見た。	きのうえいがをみた。	昨日映画を見た。	ichidan 見る → 見た	[sound:3eb1d10c7c27.mp3]	module:01-n5 jlpt:n5 point:る-verb-past source:authored scaffold:pending-audio
+I slept well last night.	昨夜よく寝た。	さくやよくねた。	昨夜よく寝た。	ichidan 寝る → 寝た	[sound:3cb34945b44a.mp3]	module:01-n5 jlpt:n5 point:る-verb-past source:authored scaffold:pending-audio
+I put on a coat.	コートを着た。	こーとをきた。	コートを着た。	ichidan 着る → 着た	[sound:8a0b26fed678.mp3]	module:01-n5 jlpt:n5 point:る-verb-past source:authored scaffold:pending-audio
+I memorized the homework.	宿題を覚えた。	しゅくだいをおぼえた。	宿題を覚えた。	ichidan 覚える → 覚えた	[sound:a45cb67f0c50.mp3]	module:01-n5 jlpt:n5 point:る-verb-past source:authored scaffold:pending-audio

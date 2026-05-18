@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Say: example 1 using といい	（といい）の例文1です。		（といい）の例文1です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using といい	（といい）の例文2です。		（といい）の例文2です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using といい	（といい）の例文3です。		（といい）の例文3です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using といい	（といい）の例文4です。		（といい）の例文4です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using といい	（といい）の例文5です。		（といい）の例文5です。	I hope, I wish, You should, It would be good	[sound:0003cbbf8429.mp3]	module:02-n4 jlpt:n4 point:といい scaffold:pending-content scaffold:pending-audio source:bunpro
+I hope it's sunny tomorrow.	明日、晴れるといいですね。	あした、はれるといいですね。	明日、晴れるといいですね。	weather hope	[sound:a7add7d52ee4.mp3]	module:02-n4 jlpt:n4 point:といい source:authored scaffold:pending-audio
+I hope I can pass the exam.	試験に合格できるといいな。	しけんにごうかくできるといいな。	試験に合格できるといいな。	self-directed hope	[sound:2474c7cb0e12.mp3]	module:02-n4 jlpt:n4 point:といい source:authored scaffold:pending-audio
+I hope he recovers quickly.	彼が早く回復するといいと思います。	かれがはやくかいふくするといいとおもいます。	彼が早く回復するといいと思います。	hope for someone else	[sound:4c6f9481acb1.mp3]	module:02-n4 jlpt:n4 point:といい source:authored scaffold:pending-audio
+I hope it goes well.	うまくいくといいね。	うまくいくといいね。	うまくいくといいね。	casual shared hope	[sound:c259fe1a7087.mp3]	module:02-n4 jlpt:n4 point:といい source:authored scaffold:pending-audio
+I wish I could get better at Japanese.	もっと日本語が上手になるといいんですが。	もっとにほんごがじょうずになるといいんですが。	もっと日本語が上手になるといいんですが。	自己hope for improvement	[sound:dca712d415f8.mp3]	module:02-n4 jlpt:n4 point:といい source:authored scaffold:pending-audio

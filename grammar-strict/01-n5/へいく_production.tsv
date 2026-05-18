@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using へいく	（へいく）の例文1です。		（へいく）の例文1です。	To go to, To head toward	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:へいく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using へいく	（へいく）の例文2です。		（へいく）の例文2です。	To go to, To head toward	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:へいく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using へいく	（へいく）の例文3です。		（へいく）の例文3です。	To go to, To head toward	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:へいく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using へいく	（へいく）の例文4です。		（へいく）の例文4です。	To go to, To head toward	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:へいく scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using へいく	（へいく）の例文5です。		（へいく）の例文5です。	To go to, To head toward	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:へいく scaffold:pending-content scaffold:pending-audio source:bunpro
+I go to school.	学校へ行きます。	がっこうへいきます。	学校へ行きます。	direction with motion	[sound:1c6cc033d32b.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored scaffold:pending-audio
+I'll go to Tokyo tomorrow.	明日東京へ行きます。	あしたとうきょうへいきます。	明日東京へ行きます。	future motion	[sound:6f8d03dbe60e.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored scaffold:pending-audio
+I went to the park with my dog.	公園へ犬と行きました。	こうえんへいぬといきました。	公園へ犬と行きました。	past motion + companion	[sound:f1703a7998b6.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored scaffold:pending-audio
+I want to go to the sea.	海へ行きたいです。	うみへいきたいです。	海へ行きたいです。	destination + desire	[sound:737e54316550.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored scaffold:pending-audio
+Mom went to the store.	母は店へ行きました。	はははみせへいきました。	母は店へ行きました。	third-person motion	[sound:e24468c3d3c1.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored scaffold:pending-audio

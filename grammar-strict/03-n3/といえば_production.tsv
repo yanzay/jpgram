@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Say: example 1 using といえば	（といえば）の例文1です。		（といえば）の例文1です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using といえば	（といえば）の例文2です。		（といえば）の例文2です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using といえば	（といえば）の例文3です。		（といえば）の例文3です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using といえば	（といえば）の例文4です。		（といえば）の例文4です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using といえば	（といえば）の例文5です。		（といえば）の例文5です。	Speaking of, If it were the case that	[sound:0003cbbf8429.mp3]	module:03-n3 jlpt:n3 point:といえば scaffold:pending-content scaffold:pending-audio source:bunpro
+When people think of Kyoto, many picture Kinkakuji and Kiyomizudera.	京都といえば、金閣寺や清水寺を思い浮かべる人が多い。	きょうとといえば、きんかくじやしみずてらをおもいうかべるひとがおおい。	京都といえば、金閣寺や清水寺を思い浮かべる人が多い。	canonical city → famous landmarks association	[sound:f44a97b9ba5a.mp3]	module:03-n3 jlpt:n3 point:といえば source:authored scaffold:pending-audio
+When it comes to summer, it's got to be watermelon and shaved ice, right?	夏といえばやっぱりスイカとかき氷ですよね。	なつといえばやっぱりすいかとかきごおりですよね。	夏といえばやっぱりスイカとかき氷ですよね。	seasonal topic triggers iconic food associations	[sound:58a1c664b21d.mp3]	module:03-n3 jlpt:n3 point:といえば source:authored scaffold:pending-audio
+Speaking of Japanese anime, there are many works that are popular overseas too.	日本のアニメといえば、海外でも人気のある作品が多い。	にほんのあにめといえば、かいがいでもにんきのあるさくひんがおおい。	日本のアニメといえば、海外でも人気のある作品が多い。	category → globally expected attribute	[sound:01bee0be0acf.mp3]	module:03-n3 jlpt:n3 point:といえば source:authored scaffold:pending-audio
+Come to think of it, speaking of Tanaka-san, I heard she moved recently.	そういえば、田中さんといえば最近引っ越したって聞いたよ。	そういえば、たなかさんといえばさいきんひっこしたってきいたよ。	そういえば、田中さんといえば最近引っ越したって聞いたよ。	person's name triggers memory/related news	[sound:0b1b06fbf00a.mp3]	module:03-n3 jlpt:n3 point:といえば source:authored scaffold:pending-audio
+Speaking of health foods, smoothies have been drawing particular attention lately.	健康食といえば、最近はスムージーが特に注目されている。	けんこうしょくといえば、さいきんはすむーじーがとくにちゅうもくされている。	健康食といえば、最近はスムージーが特に注目されている。	topic category → current trend association	[sound:6971d5de511e.mp3]	module:03-n3 jlpt:n3 point:といえば source:authored scaffold:pending-audio

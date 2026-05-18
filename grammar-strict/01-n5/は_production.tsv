@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using は	（は）の例文1です。		（は）の例文1です。	As for... (Highlights sentence topic)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:は scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using は	（は）の例文2です。		（は）の例文2です。	As for... (Highlights sentence topic)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:は scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using は	（は）の例文3です。		（は）の例文3です。	As for... (Highlights sentence topic)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:は scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using は	（は）の例文4です。		（は）の例文4です。	As for... (Highlights sentence topic)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:は scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using は	（は）の例文5です。		（は）の例文5です。	As for... (Highlights sentence topic)	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:は scaffold:pending-content scaffold:pending-audio source:bunpro
+I am a student.	私は学生です。	わたしはがくせいです。	私は学生です。	は marks 私 as the topic	[sound:82ed3f2dfc72.mp3]	module:01-n5 jlpt:n5 point:は source:authored scaffold:pending-audio
+Cats are cute.	猫はかわいいです。	ねこはかわいいです。	猫はかわいいです。	general statement about cats	[sound:422ff5c1401b.mp3]	module:01-n5 jlpt:n5 point:は source:authored scaffold:pending-audio
+Tokyo is a big city.	東京は大きい町です。	とうきょうはおおきいまちです。	東京は大きい町です。	topic = Tokyo; comment describes it	[sound:21fd5a941199.mp3]	module:01-n5 jlpt:n5 point:は source:authored scaffold:pending-audio
+Today it is raining.	今日は雨が降っています。	きょうはあめがふっています。	今日は雨が降っています。	time word as topic	[sound:7c3fbf491bfa.mp3]	module:01-n5 jlpt:n5 point:は source:authored scaffold:pending-audio
+My name is Tanaka.	私の名前は田中です。	わたしのなまえはたなかです。	私の名前は田中です。	introduce the topic 'my name'	[sound:c7fffa713622.mp3]	module:01-n5 jlpt:n5 point:は source:authored scaffold:pending-audio

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-Say: example 1 using と	（と）の例文1です。		（と）の例文1です。	And	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-and scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 2 using と	（と）の例文2です。		（と）の例文2です。	And	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-and scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 3 using と	（と）の例文3です。		（と）の例文3です。	And	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-and scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 4 using と	（と）の例文4です。		（と）の例文4です。	And	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-and scaffold:pending-content scaffold:pending-audio source:bunpro
-Say: example 5 using と	（と）の例文5です。		（と）の例文5です。	And	[sound:0003cbbf8429.mp3]	module:01-n5 jlpt:n5 point:と-and scaffold:pending-content scaffold:pending-audio source:bunpro
+I bought bread and milk.	パンと牛乳を買いました。	ぱんとぎゅうにゅうをかいました。	パンと牛乳を買いました。	two-item exhaustive list	[sound:51c252c6bddb.mp3]	module:01-n5 jlpt:n5 point:と-and source:authored scaffold:pending-audio
+I have a dog and a cat.	犬と猫がいます。	いぬとねこがいます。	犬と猫がいます。	exhaustive list of pets	[sound:a6501716ea7b.mp3]	module:01-n5 jlpt:n5 point:と-and source:authored scaffold:pending-audio
+I brought a book and a notebook.	本とノートを持ってきました。	ほんとのーとをもってきました。	本とノートを持ってきました。	two items, complete list	[sound:025fe8b7161c.mp3]	module:01-n5 jlpt:n5 point:と-and source:authored scaffold:pending-audio
+My older brother and older sister are students.	兄と姉は学生です。	あにとあねはがくせいです。	兄と姉は学生です。	joining two people	[sound:ba7043544aa0.mp3]	module:01-n5 jlpt:n5 point:と-and source:authored scaffold:pending-audio
+I ordered coffee and cake.	コーヒーとケーキを注文しました。	こーひーとけーきをちゅうもんしました。	コーヒーとケーキを注文しました。	ordering exactly these two	[sound:f6f40fb2fb7e.mp3]	module:01-n5 jlpt:n5 point:と-and source:authored scaffold:pending-audio
