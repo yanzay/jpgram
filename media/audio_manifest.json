@@ -1169,14 +1169,6 @@
       "sha256": "16f1f45f9e03bfc7256c2593babca0d27c771796a66001c165b5448d4a0a1ac0",
       "size": 15936
     },
-    "03f4eac0c352": {
-      "text": "帰るわい",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c7c38319e9f68cc8c93493a2e368cab005ba627533db1727c856923af5868890",
-      "size": 8448
-    },
     "03f65015f9e6": {
       "text": "忙しい",
       "voice": "ja-JP-Neural2-B",
@@ -2352,14 +2344,6 @@
       "lang": "ja-JP",
       "sha256": "12a8de83c5385f55527293a930a79a1130054857b2a4910e142ea2cb04c29f00",
       "size": 22656
-    },
-    "071f3656f931": {
-      "text": "何だってじゃねーかー",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "ae9b77393272be6475cdd940509d0fab6bd92aedf64cb7d494340251f6d5078d",
-      "size": 14208
     },
     "0722de913e4f": {
       "text": "どれも好きです。",
@@ -3904,14 +3888,6 @@
       "lang": "ja-JP",
       "sha256": "1277c8ca8325d2575e6123e648cb49f9fd53f253b197530e24ff801d4f123f5d",
       "size": 12672
-    },
-    "0ba8aaa0ede2": {
-      "text": "できるじゃねーかー",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "80ac3bf7d9b6f83025a7405cbe5aa03cd17a5313953c85e05fcdbbca1dfd2f75",
-      "size": 11328
     },
     "0bc202fea1c0": {
       "text": "雪が降りそうです。",
@@ -9319,14 +9295,6 @@
       "rate": 1.0,
       "lang": "ja-JP",
       "sha256": "c2ee2d8a697b1144cc1b6b30a6c16613eb50bb89fd581ad691a8916661622310",
-      "size": 8640
-    },
-    "1d788a4741c1": {
-      "text": "できるやぜ",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "42704157222a507f2d415aabab083851f90c778fcc7e995813c14e825cfccc29",
       "size": 8640
     },
     "1d7bb49f64b6": {
@@ -17800,14 +17768,6 @@
       "lang": "ja-JP",
       "sha256": "38a5692f14cc571049b9972ef467cb44bb7a788c39c910c31c85b58cbd1fa156",
       "size": 26304
-    },
-    "398eb32aaaa8": {
-      "text": "好きなってよ",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "7d5f15a2703d2567574efd918935b390f6ed3302cf577496c04c971229ee10e7",
-      "size": 9024
     },
     "3995e84761c5": {
       "text": "説明もろくにしないで作業を始めた。",
@@ -29752,14 +29712,6 @@
       "lang": "ja-JP",
       "sha256": "85acc5d2ddbc82234ab9f419c5a66917b88d12f132f67f95fa694a42b6f2788b",
       "size": 18624
-    },
-    "6059d570eded": {
-      "text": "本当だやぜ",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c0d5d6fb2e6190fb06ce0dc649a6e6e05260e6dc6c2d48a17a218651ff409ca3",
-      "size": 10560
     },
     "605d0b1d4d2f": {
       "text": "仕事なら、得意です vs 仕事をしたら、得意です。",
@@ -63505,14 +63457,6 @@
       "sha256": "07398b159527fdaacbb24bcdcc22bc745d9ae72f4a971dcc9c56bdfb6f5a69ea",
       "size": 27456
     },
-    "cf939cfe9872": {
-      "text": "分かってよ",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9f86cd64a50e5c0a2b0767c055520e812e3979c23a161c98f5b9fae6cccbd26b",
-      "size": 8640
-    },
     "cf93dd17ed8c": {
       "text": "ノブを回すと、ドアが開きます。",
       "voice": "ja-JP-Neural2-B",
@@ -65040,14 +64984,6 @@
       "lang": "ja-JP",
       "sha256": "d84e9fc471d883c1994aae4da2bf1729e9fc7fbdce120ee63d45bfb62e2929f6",
       "size": 23616
-    },
-    "d4e1f7617301": {
-      "text": "知ってるわい",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f54840b2047b6f9d735b1e4e2966de4b73769a565114c41c960507064459ba6e",
-      "size": 9792
     },
     "d4fc2eb175d3": {
       "text": "泣いたっていいじゃない。悲しいんだもの。",
