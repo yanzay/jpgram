@@ -2,41 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-That game is intense.	Grotesque → extreme	えぐい、そのげーむ。	えぐい、そのゲーム。	Extreme reaction	[sound:28f2b985b243.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen
-That's seriously intense.	えぐい + やん	えぐいやん、まじで。	えぐいやん、マジで。	Emphasis particle	[sound:daad27b12e08.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-That's so true, I get it.	それ + な affirmation	それな、わかるわ。	それな、わかるわ。	Relatable response	[sound:89db8feb6247.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-That's seriously funny.	マジ + ウケる	まじ、ウケる。	まじ、ウケる。	Laugh response	[sound:832df564fabe.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-Chill vibes are nice.	Chill English origin	ちる、いいよね。	チル、いいよね。	Relaxation praise	[sound:5e40896b49ed.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-Dude, that look is wild.	ヤバい ambiguous	やばい、そのみたため。	ヤバい、その見た目。	Reaction particle	[sound:aeaeef366b4d.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-The plan fell apart.	ポシャる failure	ぽしゃったよ、けいかく。	ポシャったよ、計画。	Failure consequence	[sound:700b0984cc29.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top5k source:tofugu jlpt:n5 source:shin-kanzen
-Let's take Insta-worthy shots.	映える visual	ばえるしゃしんとろう。	バエる写真撮ろう。	Photo planning	[sound:7bad2f7bcdda.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-I like oversized clothes.	だぶだぶ loose	だぶだぶのふくがすき。	だぶだぶの服が好き。	Oversized style	[sound:82b37554abda.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-Super duper cute.	チョー super + cute	ちょーかわいい。	チョーかわいい。	Cuteness expression	[sound:f89ddfcc336f.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-That's totally retro.	ザ quintessential	ざ、れとろだね。	ザ、レトロだね。	Classic type	[sound:77a53ffad861.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-That's super funny.	めっちゃ very + funny	めっちゃおもろい。	めっちゃおもろい。	Humor emphasis	[sound:c9cbcaf3dc61.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-I'm too lazy to study.	ダルい → ダルダル	だるだるでべんきょうできない。	ダルダルで勉強できない。	Mood description	[sound:3902e7eb71a5.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-That sense of humor is hilarious.	ウケる amuse	ウケる、そのせんす。	ウケる、そのセンス。	Funny reaction	[sound:8307d7d92f27.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:low source:tofugu jlpt:n5 source:shin-kanzen
-I ignored it.	Skip/pass over	するーわざもってる。	スルー技持ってる。	Ignored response	[sound:0a154df21211.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:low source:tofugu jlpt:n5 source:shin-kanzen
-I have no intention to deal with it.	サッ quick	さっするきないな。	サッする気ないな。	Quick dismissal	[sound:5e1f2bd10a21.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top5k source:tofugu jlpt:n5 source:shin-kanzen
-Seriously, isn't that crazy?	ジツ truth/reality	じつ、やばくない。	ジツ、やばくない？	Rhetorical question	[sound:bb1828977b0a.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-It's a crappy game.	クソ crap/bad	くそげーだよ。	クソゲーだよ。	Harsh judgment	[sound:baf4038d9107.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-Seriously, it's tough.	本当に truly	ほんと、つらい。	ホント、つらい。	Empathetic statement	[sound:b012a3e87b0c.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-Roger that, understood.	ザンス understating	ざんす、りょうかい。	ザンス、了解。	Quick confirmation	[sound:b56f52d7938f.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:low source:tofugu jlpt:n5 source:shin-kanzen
-Oh no, I ate it all.	ヤバい surprise	やばい、ぜんぶたべちゃった。	ヤバい、全部食べちゃった。	Mild panic reaction	[sound:17eac5401fad.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-You're in a great mood.	上がる → アゲアゲ	あげあげだね。	アゲアゲだね。	High spirits	[sound:06f23c31eade.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-Supporting my favorite is fun.	推し favorite activity	おしかつ、たのしい。	推し活、楽しい。	Fan life	[sound:881b460a4735.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-That post went viral.	Buzz English origin	ばずった、そのとうこう。	バズった、その投稿。	Viral moment	[sound:505dfaa6fa26.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-My favorite's new song is amazing.	推し new song	おしのしんきょく、さいこう。	推しの新曲、最高。	Music praise	[sound:a722cf183c5a.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen
-Fan activities are fun.	オタ activity	おたかつたのしいな。	オタ活楽しいな。	Fun hobby	[sound:885203b653dc.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen
-That fan bag is cute.	痛 character items	いたばっぐ、かわいい。	痛バッグ、かわいい。	Fashion appreciation	[sound:825db0919859.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen
-I'm working on my personal brand.	Self-produce English	せるふぷろでゅーすちゅう。	セルフプロデュース中。	Identity work	[sound:12cc6a44fde1.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen
-I'm going for Insta-worthy shots.	インスタ映え aesthetic	いんすたばえ、ねらってる。	インスタ映え、狙ってる。	Photo strategy	[sound:08c1d22d74e7.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-My fandom interest crashed hard.	推し活 vertical drop	おしかつすいちょくらっか。	推し活垂直落下。	Obsession end	[sound:28aea80081d9.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:low source:tofugu jlpt:n5 source:shin-kanzen
-TikTok is trending.	TikTok popular	てぃっくとっくりゅうこうってる。	TikTok流行ってる。	Trend observation	[sound:20d82f2fe557.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen
-I gave my favorite my support points.	推し favorite points	おしにおしぽい。	推しに推しポイ。	Fan support action	[sound:ebe92f8b327b.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-I support my favorite member.	推し member	おしめんおしてる。	推しメン推してる。	Member preference	[sound:8137686eb5f3.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen
-I'm working hard on my fandom activities.	推し事 fandom work	おしとあゆむ。	推しと歩む。	Dedication expression	[sound:e2ab9a3966d1.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:low source:tofugu jlpt:n5 source:shin-kanzen
-I'm being swayed by my favorite.	推し sway	おしにふりまわされる。	推しに振り回される。	Obsession acknowledgment	[sound:a161b355181f.mp3]	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen
+Say "what is that?" (pointing to something near the listener).	それ	それはなんですか。	それは何ですか。	それ replaces the noun when pointing to sth near listener	[sound:f8ce7709f220.mp3]	module:01-n5 jlpt:n5 point:それ complexity:intro frequency:top1k source:shin-kanzen source:authored
+Say "that is my bag."	それ	それはわたしのかばんです。	それは私のかばんです。	それ as subject + noun + です pattern	[sound:eea23c53f06a.mp3]	module:01-n5 jlpt:n5 point:それ complexity:intro frequency:top1k source:shin-kanzen source:authored
+Say "please give me that."	それ	それをください。	それをください。	それ + を + ください for requesting a near-listener object	[sound:767f957ccc28.mp3]	module:01-n5 jlpt:n5 point:それ complexity:intro frequency:top1k source:shin-kanzen source:authored
+Say "that is expensive."	それ	それはたかいです。	それは高いです。	それ as topic + adjective statement	[sound:9391e0238903.mp3]	module:01-n5 jlpt:n5 point:それ complexity:intro frequency:top1k source:shin-kanzen source:authored
+Say "when did you buy that?" (referring to what listener just showed you).	それ	それはいつかいましたか。	それはいつ買いましたか。	それ (anaphoric) referring to recently shown object	[sound:6ea06c6d2b3d.mp3]	module:01-n5 jlpt:n5 point:それ complexity:intro frequency:top1k source:shin-kanzen source:authored
