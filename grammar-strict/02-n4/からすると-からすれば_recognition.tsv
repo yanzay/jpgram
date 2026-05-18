@@ -1,0 +1,11 @@
+#separator:tab
+#html:true
+#columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
+#notetype:Recognition
+#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+
+この証拠からすると、彼が犯人だと思われる。	このしょうこからすると、かれがはんにんだとおもわれる。	Judging from this evidence, he appears to be the culprit.	からすると (judging from evidence)	N + からすると / からすれば	draws a conclusion based on a piece of evidence	judging from this	からすると = judging from X; から見ると = from the perspective of; によると = according to	[sound:83331cbdc872.mp3]	module:02-n4 jlpt:n4 point:からすると-からすれば complexity:standard frequency:top5k source:shin-kanzen source:authored
+彼の表情からすれば、話は本当のようだ。	かれのひょうじょうからすれば、はなしはほんとうのようだ。	Judging from his expression, the story seems true.	からすれば (inference from observation)	N + からすれば	inference drawn from a visible cue or observable fact	from his expression	からすれば = same as からすると; ば-form slightly more emphatic/conditional	[sound:3b2a862decf9.mp3]	module:02-n4 jlpt:n4 point:からすると-からすれば complexity:standard frequency:top5k source:shin-kanzen source:authored
+実力からすると、優勝は難しくないだろう。	じつりょくからすると、ゆうしょうはむずかしくないだろう。	Judging from his ability, winning should not be difficult.	からすると (ability-based inference)	N + からすると + prediction	assesses a likely outcome based on known capability	from his ability	からすると is common in evaluative contexts: 成績・実力・経験・様子 etc.	[sound:f7a6f298f09c.mp3]	module:02-n4 jlpt:n4 point:からすると-からすれば complexity:standard frequency:top5k source:shin-kanzen source:authored
+外の音からすると、まだ雨が降っているようだ。	そとのおとからすると、まだあめがふっているようだ。	Judging from the sound outside, it seems it's still raining.	からすると (sensory inference)	Noun (sensory) + からすると + inference	auditory or sensory cue used as evidence	from the sound	からすると with sensory nouns (音・様子・状況): very natural combination	[sound:25b9c70ef204.mp3]	module:02-n4 jlpt:n4 point:からすると-からすれば complexity:standard frequency:top5k source:shin-kanzen source:authored
+この数字からすれば、計画は順調に進んでいる。	このすうじからすれば、けいかくはじゅんちょうにすすんでいる。	Judging from these figures, the plan is progressing smoothly.	からすれば (data-based)	N (data) + からすれば + evaluation	draws an assessment from quantitative evidence	from the figures	からすれば is common in business/analytical contexts with data or indicators	[sound:9400720beb69.mp3]	module:02-n4 jlpt:n4 point:からすると-からすれば complexity:standard frequency:top5k source:shin-kanzen source:authored
