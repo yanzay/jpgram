@@ -4,30 +4,30 @@
 #notetype:Recognition
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
 
-あいつは必ず来るにちがいない	あいつはかならずくるにちがいない	He will certainly come.	-にちがいない	certainty / no doubt	prediction			[sound:cfdf565be43d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top5k source:shin-kanzen
-これは間違いなく最高傑作にちがいない	これはまちがいなくさいこうけっさくにちがいない	This is undoubtedly a masterpiece.	-にちがいない	certainty / no doubt	inference			[sound:9d36002afb57.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:low source:shin-kanzen
-雨が降るにちがいない	あめがふるにちがいない	It will definitely rain.	-にちがいない	certainty / no doubt	prediction			[sound:d2a7d2ac401c.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
-彼は忙しいにちがいない	かれはいそがしいにちがいない	He must be busy.	-にちがいない	certainty / no doubt	inference			[sound:7b55b68fe3d7.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
-誰かが来たにちがいない	だれかがきたにちがいない	Someone definitely came.	-にちがいない	certainty / no doubt	inference			[sound:1b7ac3c69efe.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
-それは違うにちがいない	それはちがうにちがいない	That must be wrong.	-にちがいない	certainty / no doubt	inference			[sound:08617ade0229.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
-田中さんは来るはずだ	たなかさんはくるはずだ	Tanaka should come (as expected).	-はずだ	supposed to / expectation	expectation			[sound:383f96e8f1bd.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+あいつは必ず来るにちがいない	あいつはかならずくるにちがいない	He will certainly come.	-にちがいない	V-plain + に違いない	prediction			[sound:cfdf565be43d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top5k source:shin-kanzen
+これは間違いなく最高傑作にちがいない	これはまちがいなくさいこうけっさくにちがいない	This is undoubtedly a masterpiece.	-にちがいない	V-plain + に違いない	inference			[sound:9d36002afb57.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:low source:shin-kanzen
+雨が降るにちがいない	あめがふるにちがいない	It will definitely rain.	-にちがいない	V-plain + に違いない	prediction			[sound:d2a7d2ac401c.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+彼は忙しいにちがいない	かれはいそがしいにちがいない	He must be busy.	-にちがいない	V-plain + に違いない	inference			[sound:7b55b68fe3d7.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+誰かが来たにちがいない	だれかがきたにちがいない	Someone definitely came.	-にちがいない	V-plain + に違いない	inference			[sound:1b7ac3c69efe.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+それは違うにちがいない	それはちがうにちがいない	That must be wrong.	-にちがいない	V-plain + に違いない	inference			[sound:08617ade0229.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+田中さんは来るはずだ	たなかさんはくるはずだ	Tanaka should come (as expected).	-はずだ	V-plain / N + の + はずだ	expectation			[sound:383f96e8f1bd.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
 昨日届くはずだった	きのうとどくはずだった	It was supposed to arrive yesterday.	-はずだった	supposed to / past expectation	expectation			[sound:3e2e5fe62024.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
-完成するはずだ	かんせいするはずだ	It's supposed to be completed.	-はずだ	supposed to / expectation	expectation			[sound:4e33097d9997.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
-そんなはずがない	そんなはずがない	That can't be right.	-はずがない	contradiction / disbelief	negation			[sound:8bf3f33df4fb.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
-君が知らないはずがない	きみがしらないはずがない	You can't not know.	-はずがない	contradiction / disbelief	negation			[sound:785e8619c4ee.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
-彼が嘘をつくはずがない	かれがうそをつくはずがない	He can't be lying.	-はずがない	contradiction / disbelief	negation			[sound:ffe8bbba5559.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
-すぐに着くはずだ	すぐにつくはずだ	It should arrive soon.	-はずだ	supposed to / expectation	expectation			[sound:372bda617596.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+完成するはずだ	かんせいするはずだ	It's supposed to be completed.	-はずだ	V-plain / N + の + はずだ	expectation			[sound:4e33097d9997.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+そんなはずがない	そんなはずがない	That can't be right.	-はずがない	V-plain / N + の + はずがない	negation			[sound:8bf3f33df4fb.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
+君が知らないはずがない	きみがしらないはずがない	You can't not know.	-はずがない	V-plain / N + の + はずがない	negation			[sound:785e8619c4ee.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+彼が嘘をつくはずがない	かれがうそをつくはずがない	He can't be lying.	-はずがない	V-plain / N + の + はずがない	negation			[sound:ffe8bbba5559.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+すぐに着くはずだ	すぐにつくはずだ	It should arrive soon.	-はずだ	V-plain / N + の + はずだ	expectation			[sound:372bda617596.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
 これで終わるはずだった	これでおわるはずだった	This was supposed to end it.	-はずだった	supposed to / past expectation	expectation			[sound:db190e193def.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
 天気が良くなると思う	てんきがよくなるとおもう	I think the weather will improve.	-と思う	conjecture / opinion	opinion			[sound:b365e600edb0.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
 彼は優秀だと思われる	かれはゆうしゅうだとおもわれる	He is thought to be excellent.	-と思われる	passive conjecture	inference			[sound:da2edc7a0041.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
 これは間違いだと見られる	これはまちがいだとみられる	This appears to be a mistake.	-と見られる	appearance / seems	inference			[sound:9113ceefb368.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top10k source:shin-kanzen
 雨が降ると思う	あめがふるとおもう	I think it will rain.	-と思う	conjecture / opinion	opinion			[sound:e614e993e8a8.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
 その判断は適切だと思われる	そのはんだんはてきせつだとおもわれる	That decision seems appropriate.	-と思われる	passive conjecture	inference			[sound:92df95dfffa2.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard frequency:top10k source:shin-kanzen
-彼は来そうにない	かれはこそうにない	He doesn't seem likely to come.	-そうにない	negative appearance	negation			[sound:c2160ee5722a.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
-上手くいきそうもない	うまくいきそうもない	It doesn't look like it will go well.	-そうもない	negative appearance	negation			[sound:3735cfd9573b.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
-改善されそうにない	かいぜんされそうにない	It doesn't appear to improve.	-そうにない	negative appearance	negation			[sound:3b8cebd3809f.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
-終わりそうもない	おわりそうもない	It doesn't seem to be ending.	-そうもない	negative appearance	negation			[sound:3776cce0cf90.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
-成功しそうにない	せいこうしそうにない	It doesn't look like it will succeed.	-そうにない	negative appearance	negation			[sound:95582954473d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+彼は来そうにない	かれはこそうにない	He doesn't seem likely to come.	-そうにない	V-stem + そうにない / そうもない	negation			[sound:c2160ee5722a.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+上手くいきそうもない	うまくいきそうもない	It doesn't look like it will go well.	-そうもない	V-stem + そうにない / そうもない	negation			[sound:3735cfd9573b.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
+改善されそうにない	かいぜんされそうにない	It doesn't appear to improve.	-そうにない	V-stem + そうにない / そうもない	negation			[sound:3b8cebd3809f.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
+終わりそうもない	おわりそうもない	It doesn't seem to be ending.	-そうもない	V-stem + そうにない / そうもない	negation			[sound:3776cce0cf90.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top5k source:shin-kanzen
+成功しそうにない	せいこうしそうにない	It doesn't look like it will succeed.	-そうにない	V-stem + そうにない / そうもない	negation			[sound:95582954473d.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top10k source:shin-kanzen
 明日は晴れるだろう	あしたははれるだろう	It will probably be sunny tomorrow (speaker judgment).	-だろう	conjecture / judgment	conjecture			[sound:69ca16b5db76.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
 これはそうでしょう	これはそうでしょう	This is probably so (interactive).	-でしょう	conjecture / politeness	conjecture			[sound:3770522c0158.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro source:shin-kanzen
 雨が降るだろう	あめがふるだろう	Rain will probably fall.	-だろう	conjecture / judgment	conjecture			[sound:210470741473.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:intro frequency:top1k source:shin-kanzen
