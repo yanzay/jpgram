@@ -27,3 +27,7 @@ jobs:
       - name: Validate strict Bunpro-atomic deck
         run: |
           python3 scripts/strict_deck_audit.py --skip-bunpro-fetch --require-full-bunpro-resolution
+      - name: Content quality gate
+        run: |
+          pip install pykakasi --index-url https://pypi.org/simple/ -q
+          python3 validate_content_quality.py
