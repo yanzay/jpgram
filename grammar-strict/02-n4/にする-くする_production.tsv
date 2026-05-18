@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Please make the room clean.	部屋をきれいにしてください。	へやをきれいにしてください。	部屋をきれいにしてください。	にする: cause room to become clean	[sound:3d292f2fa6c3.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio
-Please turn the music up louder.	音楽の音を大きくしてください。	おんがくのおとをおおきくしてください。	音楽の音を大きくしてください。	くする: increase volume	[sound:f7dc9dd0c1ef.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio
-I made the soup a little thinner.	スープを少し薄くしました。	すーぷをすこしうすくしました。	スープを少し薄くしました。	くする: reduce concentration	[sound:af5ea6493ada.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio
-Could you make this outfit a bit shorter?	この服をもう少し短くしてもらえますか。	このふくをもうすこしみじかくしてもらえますか。	この服をもう少し短くしてもらえますか。	alteration request with くする	[sound:648773c73538.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio
-I want to make my work more efficient.	仕事をもっと効率的にしたいと思っています。	しごとをもっとこうりつてきにしたいとおもっています。	仕事をもっと効率的にしたいと思っています。	にする: change to more efficient state	[sound:7e827c6dbeb4.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio
+Please make the room clean.	部屋をきれいにしてください。	へやをきれいにしてください。	部屋をきれいにしてください。	にする: cause room to become clean	[sound:3d292f2fa6c3.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+Please turn the music up louder.	音楽の音を大きくしてください。	おんがくのおとをおおきくしてください。	音楽の音を大きくしてください。	くする: increase volume	[sound:f7dc9dd0c1ef.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I made the soup a little thinner.	スープを少し薄くしました。	すーぷをすこしうすくしました。	スープを少し薄くしました。	くする: reduce concentration	[sound:af5ea6493ada.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+Could you make this outfit a bit shorter?	この服をもう少し短くしてもらえますか。	このふくをもうすこしみじかくしてもらえますか。	この服をもう少し短くしてもらえますか。	alteration request with くする	[sound:648773c73538.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+I want to make my work more efficient.	仕事をもっと効率的にしたいと思っています。	しごとをもっとこうりつてきにしたいとおもっています。	仕事をもっと効率的にしたいと思っています。	にする: change to more efficient state	[sound:7e827c6dbeb4.mp3]	module:02-n4 jlpt:n4 point:にする-くする source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard

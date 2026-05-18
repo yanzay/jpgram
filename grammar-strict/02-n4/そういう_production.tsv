@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-For that kind of problem, it's better to consult a teacher.	そういう問題は先生に相談した方がいいですよ。	そういうもんだいはせんせいにそうだんしたほうがいいですよ。	そういう問題は先生に相談した方がいいですよ。	refers back to problem type	[sound:0987e8fc7888.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio
-You shouldn't say that kind of thing to a friend.	そういうことは友達に言わない方がいい。	そういうことはともだちにいわないほうがいい。	そういうことは友達に言わない方がいい。	that type of statement	[sound:78c53a00bdab.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio
-For that reason, I've become unable to participate.	そういうわけで、参加できなくなりました。	そういうわけで、さんかできなくなりました。	そういうわけで、参加できなくなりました。	そういうわけで = for that reason	[sound:c06adf4f2eb2.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio
-That's just the kind of person he is.	彼はそういう人なんですよ。	かれはそういうひとなんですよ。	彼はそういう人なんですよ。	characterizing type of person	[sound:df098afa843f.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio
-I think that kind of thinking is a bit outdated.	そういう考え方は少し古いと思います。	そういうかんがえかたはすこしふるいとおもいます。	そういう考え方は少し古いと思います。	referring to type of thinking	[sound:32c285bb7576.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio
+For that kind of problem, it's better to consult a teacher.	そういう問題は先生に相談した方がいいですよ。	そういうもんだいはせんせいにそうだんしたほうがいいですよ。	そういう問題は先生に相談した方がいいですよ。	refers back to problem type	[sound:0987e8fc7888.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+You shouldn't say that kind of thing to a friend.	そういうことは友達に言わない方がいい。	そういうことはともだちにいわないほうがいい。	そういうことは友達に言わない方がいい。	that type of statement	[sound:78c53a00bdab.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+For that reason, I've become unable to participate.	そういうわけで、参加できなくなりました。	そういうわけで、さんかできなくなりました。	そういうわけで、参加できなくなりました。	そういうわけで = for that reason	[sound:c06adf4f2eb2.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+That's just the kind of person he is.	彼はそういう人なんですよ。	かれはそういうひとなんですよ。	彼はそういう人なんですよ。	characterizing type of person	[sound:df098afa843f.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I think that kind of thinking is a bit outdated.	そういう考え方は少し古いと思います。	そういうかんがえかたはすこしふるいとおもいます。	そういう考え方は少し古いと思います。	referring to type of thinking	[sound:32c285bb7576.mp3]	module:02-n4 jlpt:n4 point:そういう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

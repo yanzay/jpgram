@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-Apparently Tanaka-san is getting married next week.	田中さんは来週結婚するらしいですよ。	たなかさんはらいしゅうけっこんするらしいですよ。	田中さんは来週結婚するらしいですよ。	hearsay about future event	[sound:c6c2e5f36807.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio
-That movie is apparently very interesting.	あの映画はとても面白いらしいです。	あのえいがはとてもおもしろいらしいです。	あの映画はとても面白いらしいです。	hearsay recommendation	[sound:64b36dd9b998.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio
-Apparently the new café is always crowded.	新しいカフェはいつも混んでいるらしい。	あたらしいかふぇはいつもこんでいるらしい。	新しいカフェはいつも混んでいるらしい。	reported crowd situation	[sound:504ed0f6c719.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio
-It seems he wasn't feeling well yesterday.	彼は昨日体調が悪かったらしいです。	かれはきのうたいちょうがわるかったらしいです。	彼は昨日体調が悪かったらしいです。	inferred past condition	[sound:48d6b85e0ac2.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio
-Apparently this area used to be the sea.	このあたりはむかし海だったらしいですよ。	このあたりはむかしうみだったらしいですよ。	このあたりはむかし海だったらしいですよ。	historical inference from evidence/report	[sound:ee7b6f252b9e.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio
+Apparently Tanaka-san is getting married next week.	田中さんは来週結婚するらしいですよ。	たなかさんはらいしゅうけっこんするらしいですよ。	田中さんは来週結婚するらしいですよ。	hearsay about future event	[sound:c6c2e5f36807.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+That movie is apparently very interesting.	あの映画はとても面白いらしいです。	あのえいがはとてもおもしろいらしいです。	あの映画はとても面白いらしいです。	hearsay recommendation	[sound:64b36dd9b998.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+Apparently the new café is always crowded.	新しいカフェはいつも混んでいるらしい。	あたらしいかふぇはいつもこんでいるらしい。	新しいカフェはいつも混んでいるらしい。	reported crowd situation	[sound:504ed0f6c719.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+It seems he wasn't feeling well yesterday.	彼は昨日体調が悪かったらしいです。	かれはきのうたいちょうがわるかったらしいです。	彼は昨日体調が悪かったらしいです。	inferred past condition	[sound:48d6b85e0ac2.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+Apparently this area used to be the sea.	このあたりはむかし海だったらしいですよ。	このあたりはむかしうみだったらしいですよ。	このあたりはむかし海だったらしいですよ。	historical inference from evidence/report	[sound:ee7b6f252b9e.mp3]	module:02-n4 jlpt:n4 point:らしい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard

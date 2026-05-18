@@ -1,8 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-Talk → speech-base + polite marker.	話す → 話し + ます	はなす → はなし + ます	話す → 話し + ます	Combine masu-stem + various suffixes	[sound:acfab9bcbbc5.mp3]	module:00-foundation jlpt:n5 point:masu-stem pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram
-Eat → eating-base + polite marker.	食べる → 食べ + ます	たべる → たべ + ます	食べる → 食べ + ます	Combine masu-stem + various suffixes	[sound:4d41d05c14da.mp3]	module:00-foundation jlpt:n5 point:masu-stem pos:v point:verb-groups complexity:intro frequency:top1k source:curated-jpgram

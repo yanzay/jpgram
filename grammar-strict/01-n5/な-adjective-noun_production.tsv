@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-I want to live in a quiet room.	静かな部屋に住みたいです。	しずかなへやにすみたいです。	静かな部屋に住みたいです。	attributive な-adj	[sound:773c1740dad5.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio
-I read books I like.	好きな本を読みます。	すきなほんをよみます。	好きな本を読みます。	attributive な-adj	[sound:1141023e5bef.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio
-There are many kind people.	親切な人が多いです。	しんせつなひとがおおいです。	親切な人が多いです。	attributive な-adj	[sound:e8fc78ec0cf3.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio
-I bought a convenient tool.	便利な道具を買いました。	べんりなどうぐをかいました。	便利な道具を買いました。	attributive な-adj	[sound:fac3ce891aa4.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio
-Do you know a famous writer?	有名な作家を知っていますか。	ゆうめいなさっかをしっていますか。	有名な作家を知っていますか。	attributive な-adj	[sound:fdcad1fa592a.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio
+I want to live in a quiet room.	静かな部屋に住みたいです。	しずかなへやにすみたいです。	静かな部屋に住みたいです。	attributive な-adj	[sound:773c1740dad5.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I read books I like.	好きな本を読みます。	すきなほんをよみます。	好きな本を読みます。	attributive な-adj	[sound:1141023e5bef.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+There are many kind people.	親切な人が多いです。	しんせつなひとがおおいです。	親切な人が多いです。	attributive な-adj	[sound:e8fc78ec0cf3.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+I bought a convenient tool.	便利な道具を買いました。	べんりなどうぐをかいました。	便利な道具を買いました。	attributive な-adj	[sound:fac3ce891aa4.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+Do you know a famous writer?	有名な作家を知っていますか。	ゆうめいなさっかをしっていますか。	有名な作家を知っていますか。	attributive な-adj	[sound:fdcad1fa592a.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

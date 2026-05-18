@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-This room is spacious. On top of that, it gets good sunlight.	この部屋は広い。それに、日当たりもいい。	このへやはひろい。それに、ひあたりもいい。	この部屋は広い。それに、日当たりもいい。	adding another positive point	[sound:cab058a2d222.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio
-He is kind. Moreover, he's smart too.	彼は親切です。それに、頭もいいです。	かれはしんせつです。それに、あたまもいいです。	彼は親切です。それに、頭もいいです。	second positive quality added	[sound:3d10660290e0.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio
-I have a cold. On top of that, I have a fever.	風邪を引いています。それに、熱もあります。	かぜをひいています。それに、ねつもあります。	風邪を引いています。それに、熱もあります。	worse condition added	[sound:ea5a23bcfd01.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio
-I'm busy today. Besides, I'm tired too.	今日は忙しい。それに、疲れてもいる。	きょうはいそがしい。それに、つかれてもいる。	今日は忙しい。それに、疲れてもいる。	compound reason	[sound:5e80faff7721.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio
-This dish is cheap. What's more, it's delicious.	この料理は安い。それに、おいしい。	このりょうりはやすい。それに、おいしい。	この料理は安い。それに、おいしい。	two good points stacked	[sound:5edb441cf6ef.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio
+This room is spacious. On top of that, it gets good sunlight.	この部屋は広い。それに、日当たりもいい。	このへやはひろい。それに、ひあたりもいい。	この部屋は広い。それに、日当たりもいい。	adding another positive point	[sound:cab058a2d222.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+He is kind. Moreover, he's smart too.	彼は親切です。それに、頭もいいです。	かれはしんせつです。それに、あたまもいいです。	彼は親切です。それに、頭もいいです。	second positive quality added	[sound:3d10660290e0.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I have a cold. On top of that, I have a fever.	風邪を引いています。それに、熱もあります。	かぜをひいています。それに、ねつもあります。	風邪を引いています。それに、熱もあります。	worse condition added	[sound:ea5a23bcfd01.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I'm busy today. Besides, I'm tired too.	今日は忙しい。それに、疲れてもいる。	きょうはいそがしい。それに、つかれてもいる。	今日は忙しい。それに、疲れてもいる。	compound reason	[sound:5e80faff7721.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+This dish is cheap. What's more, it's delicious.	この料理は安い。それに、おいしい。	このりょうりはやすい。それに、おいしい。	この料理は安い。それに、おいしい。	two good points stacked	[sound:5edb441cf6ef.mp3]	module:02-n4 jlpt:n4 point:それに source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-This region is rapidly urbanizing.	この地域は急速に都市化しています。	このちいきはきゅうそくにとしかしています。	この地域は急速に都市化しています。	都市化 = urbanization process	[sound:30acba8c3526.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio
-The digitalization of society is progressing.	社会のデジタル化が進んでいます。	しゃかいのでじたるかがすすんでいます。	社会のデジタル化が進んでいます。	デジタル化 = digitalization	[sound:8b93110db1bc.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio
-The problem has become more complex.	問題が複雑化してきた。	もんだいがふくざつかしてきた。	問題が複雑化してきた。	複雑化 = becoming complex	[sound:05d89830b648.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio
-That technology was put into practical use.	その技術が実用化されました。	そのぎじゅつがじつようかされました。	その技術が実用化されました。	実用化 = practical application	[sound:1e18353ecdfe.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio
-Declining birthrate is a major social issue in Japan.	少子化は日本の大きな社会問題です。	しょうしかはにほんのおおきなしゃかいもんだいです。	少子化は日本の大きな社会問題です。	少子化 = falling birthrate trend	[sound:934331d494c8.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio
+This region is rapidly urbanizing.	この地域は急速に都市化しています。	このちいきはきゅうそくにとしかしています。	この地域は急速に都市化しています。	都市化 = urbanization process	[sound:30acba8c3526.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+The digitalization of society is progressing.	社会のデジタル化が進んでいます。	しゃかいのでじたるかがすすんでいます。	社会のデジタル化が進んでいます。	デジタル化 = digitalization	[sound:8b93110db1bc.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+The problem has become more complex.	問題が複雑化してきた。	もんだいがふくざつかしてきた。	問題が複雑化してきた。	複雑化 = becoming complex	[sound:05d89830b648.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+That technology was put into practical use.	その技術が実用化されました。	そのぎじゅつがじつようかされました。	その技術が実用化されました。	実用化 = practical application	[sound:1e18353ecdfe.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+Declining birthrate is a major social issue in Japan.	少子化は日本の大きな社会問題です。	しょうしかはにほんのおおきなしゃかいもんだいです。	少子化は日本の大きな社会問題です。	少子化 = falling birthrate trend	[sound:934331d494c8.mp3]	module:02-n4 jlpt:n4 point:化する source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

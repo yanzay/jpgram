@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-I want you to reply faster.	もっと早く返事してほしいです。	もっとはやくへんじしてほしいです。	もっと早く返事してほしいです。	speaker wants faster action from other	[sound:96e243a690bf.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio
-I'd like you to be a bit quieter.	もう少し静かにしてほしいんですが。	もうすこししずかにしてほしいんですが。	もう少し静かにしてほしいんですが。	polite request with てほしい	[sound:fe3113cd4aaf.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio
-I want you to be honest with me.	正直に話してほしい。	しょうじきにはなしてほしい。	正直に話してほしい。	want other to be truthful	[sound:c99fd2c9764d.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio
-I want my child to eat vegetables every day.	子どもに毎日野菜を食べてほしいと思っています。	こどもにまいにちやさいをたべてほしいとおもっています。	子どもに毎日野菜を食べてほしいと思っています。	parent's wish about child's behavior	[sound:0d7f2eafa3d3.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio
-I want you to always stay by my side.	ずっとそばにいてほしい。	ずっとそばにいてほしい。	ずっとそばにいてほしい。	emotional wish for presence	[sound:b9e47773d33a.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio
+I want you to reply faster.	もっと早く返事してほしいです。	もっとはやくへんじしてほしいです。	もっと早く返事してほしいです。	speaker wants faster action from other	[sound:96e243a690bf.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I'd like you to be a bit quieter.	もう少し静かにしてほしいんですが。	もうすこししずかにしてほしいんですが。	もう少し静かにしてほしいんですが。	polite request with てほしい	[sound:fe3113cd4aaf.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+I want you to be honest with me.	正直に話してほしい。	しょうじきにはなしてほしい。	正直に話してほしい。	want other to be truthful	[sound:c99fd2c9764d.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+I want my child to eat vegetables every day.	子どもに毎日野菜を食べてほしいと思っています。	こどもにまいにちやさいをたべてほしいとおもっています。	子どもに毎日野菜を食べてほしいと思っています。	parent's wish about child's behavior	[sound:0d7f2eafa3d3.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I want you to always stay by my side.	ずっとそばにいてほしい。	ずっとそばにいてほしい。	ずっとそばにいてほしい。	emotional wish for presence	[sound:b9e47773d33a.mp3]	module:02-n4 jlpt:n4 point:てほしい source:authored scaffold:pending-audio source:shin-kanzen complexity:intro

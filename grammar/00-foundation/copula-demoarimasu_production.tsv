@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-He is also a scholar. (has the aspect of being a scholar).	彼は学者でもあります。	かれはがっかでもあります。	彼は学者でもあります。	"Formal aspect: ""also has the quality of being"""	[sound:24c2ff22d918.mp3]	module:00-foundation jlpt:n5 register:formal point:copula-demoarimasu pos:aux point:copula complexity:intro frequency:top10k source:curated-jpgram

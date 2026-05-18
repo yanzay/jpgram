@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-After doing my homework, I'll watch TV.	宿題をしてから、テレビを見ます。	しゅくだいをしてから、てれびをみます。	宿題をしてから、テレビを見ます。	finish A then B	[sound:ccba0ad413d6.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio
-After eating, I'll go out.	ご飯を食べてから、出かけます。	ごはんをたべてから、でかけます。	ご飯を食べてから、出かけます。	post-eating action	[sound:477138b04775.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio
-After taking a shower, I went to bed.	シャワーを浴びてから、寝た。	しゃわーをあびてから、ねた。	シャワーを浴びてから、寝た。	post-shower action	[sound:8e013ca38f85.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio
-After studying, I play.	勉強してから、遊びます。	べんきょうしてから、あそびます。	勉強してから、遊びます。	study before fun	[sound:f1bd4404d2a8.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio
-After getting off the train, I walked.	電車を降りてから、歩きました。	でんしゃをおりてから、あるきました。	電車を降りてから、歩きました。	post-step action	[sound:68c8f5e26779.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio
+After doing my homework, I'll watch TV.	宿題をしてから、テレビを見ます。	しゅくだいをしてから、てれびをみます。	宿題をしてから、テレビを見ます。	finish A then B	[sound:ccba0ad413d6.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+After eating, I'll go out.	ご飯を食べてから、出かけます。	ごはんをたべてから、でかけます。	ご飯を食べてから、出かけます。	post-eating action	[sound:477138b04775.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+After taking a shower, I went to bed.	シャワーを浴びてから、寝た。	しゃわーをあびてから、ねた。	シャワーを浴びてから、寝た。	post-shower action	[sound:8e013ca38f85.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+After studying, I play.	勉強してから、遊びます。	べんきょうしてから、あそびます。	勉強してから、遊びます。	study before fun	[sound:f1bd4404d2a8.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+After getting off the train, I walked.	電車を降りてから、歩きました。	でんしゃをおりてから、あるきました。	電車を降りてから、歩きました。	post-step action	[sound:68c8f5e26779.mp3]	module:01-n5 jlpt:n5 point:てから source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard

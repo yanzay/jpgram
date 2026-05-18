@@ -1,9 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-I was a student.	私は学生でした。	わたしはがくせいでした。	私は学生でした。	Polite past identity	[sound:e25b2934d4a6.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desita pos:aux point:copula complexity:intro frequency:top1k source:curated-jpgram
-She was famous.	彼女は有名でした。	かのじょはゆうめいでした。	彼女は有名でした。	Polite past identity	[sound:9db17476cad8.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desita pos:aux point:copula complexity:intro frequency:top5k source:curated-jpgram
-Last year was a difficult year.	去年は難しい年でした。	きょねんはむずかしいねんでした。	去年は難しい年でした。	Polite past identity	[sound:9e8a15d796bf.mp3]	module:00-foundation jlpt:n5 register:polite point:copula-desita pos:aux point:copula complexity:intro frequency:top1k source:curated-jpgram

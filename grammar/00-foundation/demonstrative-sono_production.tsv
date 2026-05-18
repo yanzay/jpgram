@@ -1,7 +1,0 @@
-#separator:tab
-#html:true
-#columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
-#notetype:Production
-#deck:Japanese Grammar::00 - Foundation::Production
-#
-Did you watch that movie?	その映画を見ましたか？	そのえいがをみましたか？	その映画を見ましたか？	Modify nouns; near-listener reference	[sound:2948512b7b39.mp3]	module:00-foundation jlpt:n5 point:demonstrative-sono pos:adj point:demonstratives complexity:intro frequency:top1k source:curated-jpgram

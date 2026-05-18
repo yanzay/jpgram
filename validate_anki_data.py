@@ -29,10 +29,10 @@ from pathlib import Path
 
 from build_anki_package import NOTE_TYPES, detect_note_type
 
-GRAMMAR_DIR = Path("grammar")
+GRAMMAR_DIR = Path("grammar-strict")
 MEDIA_DIR = Path("media/audio")
 MANIFEST_PATH = Path("media/audio_manifest.json")
-TAXONOMY_PATH = Path("data/grammar_taxonomy.tsv")
+TAXONOMY_PATH = Path("data/grammar_taxonomy_bunpro.tsv")
 
 _CLOZE_RE = re.compile(r"\{\{c\d+::[^}]+\}\}")
 _ANY_CLOZE_RE = re.compile(r"\{\{c\d+::")
@@ -155,13 +155,14 @@ def lint_file(path: Path,
         if _PLACEHOLDER_RE.search(audio_field):
             errs.append(f"{path}:{ln}: WAVE-0 placeholder audio "
                         f"reached grammar/ — regenerate via build_audio.py")
-        # Audio reference resolution.
+        # Audio reference resolution (skipped for rows awaiting TTS generation).
+        pending_audio = "scaffold:pending-audio" in tag_tokens
         for m in _SOUND_RE.finditer(audio_field):
             ref = m.group(1)
             stem = ref.rsplit(".", 1)[0]
             on_disk = (MEDIA_DIR / ref).exists()
             in_manifest = stem in manifest_keys
-            if not on_disk and not in_manifest:
+            if not on_disk and not in_manifest and not pending_audio:
                 errs.append(f"{path}:{ln}: audio ref [sound:{ref}] not "
                             f"in media/audio/ and not in manifest")
             audio_users[ref].append(f"{path}:{ln}")

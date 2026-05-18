@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-I waited about 30 minutes.	三十分くらい待ちました。	さんじゅうふんくらいまちました。	三十分くらい待ちました。	approximate time	[sound:24e36a595eee.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio
-It takes about five minutes to school.	学校まで五分くらいかかります。	がっこうまでごふんくらいかかります。	学校まで五分くらいかかります。	approximate duration	[sound:9d3b05d74595.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio
-There were about 100 people.	百人くらいいました。	ひゃくにんくらいいました。	百人くらいいました。	approximate number	[sound:94ade8134c1d.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio
-It's about 1,000 yen.	千円くらいです。	せんえんくらいです。	千円くらいです。	approximate price	[sound:340e2830584d.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio
-I studied for about three hours.	三時間くらい勉強しました。	さんじかんくらいべんきょうしました。	三時間くらい勉強しました。	approximate study time	[sound:7f389347bfa6.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio
+I waited about 30 minutes.	三十分くらい待ちました。	さんじゅうふんくらいまちました。	三十分くらい待ちました。	approximate time	[sound:24e36a595eee.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+It takes about five minutes to school.	学校まで五分くらいかかります。	がっこうまでごふんくらいかかります。	学校まで五分くらいかかります。	approximate duration	[sound:9d3b05d74595.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+There were about 100 people.	百人くらいいました。	ひゃくにんくらいいました。	百人くらいいました。	approximate number	[sound:94ade8134c1d.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro
+It's about 1,000 yen.	千円くらいです。	せんえんくらいです。	千円くらいです。	approximate price	[sound:340e2830584d.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+I studied for about three hours.	三時間くらい勉強しました。	さんじかんくらいべんきょうしました。	三時間くらい勉強しました。	approximate study time	[sound:7f389347bfa6.mp3]	module:01-n5 jlpt:n5 point:くらい1 source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard

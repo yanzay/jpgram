@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
 
-Please write your name here.	こちらにお名前をお書きください。	こちらにおなまえをおかきください。	こちらにお名前をお書きください。	お〜: honorific prefix elevates standard write-request	[sound:90a787587a7d.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio
-Please wait for a moment.	しばらくお待ちください。	しばらくおまちください。	しばらくお待ちください。	お〜: honorific お-prefix on waiting request	[sound:bcc2a2ba8364.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio
-We look forward to your attendance.	ご来場をお待ち申し上げております。	ごらいじょうをおまちもうしあげております。	ご来場をお待ち申し上げております。	お〜: maximum honorific wait-expression for formal event	[sound:b9d02d6e6ebb.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio
-Please inquire if you have any questions.	ご不明な点はお問い合わせください。	ごふめいなてんはおといあわせください。	ご不明な点はお問い合わせください。	お〜: honorific inquiry request for customer-facing context	[sound:fea4c0b9736f.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio
-We kindly ask for your confirmation.	ご確認のほどよろしくお願いいたします。	ごかくにんのほどよろしくおねがいいたします。	ご確認のほどよろしくお願いいたします。	お〜: highly formal confirmation request using 願いいたします	[sound:6f85eb606002.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio
+Please write your name here.	こちらにお名前をお書きください。	こちらにおなまえをおかきください。	こちらにお名前をお書きください。	お〜: honorific prefix elevates standard write-request	[sound:90a787587a7d.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+Please wait for a moment.	しばらくお待ちください。	しばらくおまちください。	しばらくお待ちください。	お〜: honorific お-prefix on waiting request	[sound:bcc2a2ba8364.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio source:shin-kanzen complexity:intro
+We look forward to your attendance.	ご来場をお待ち申し上げております。	ごらいじょうをおまちもうしあげております。	ご来場をお待ち申し上げております。	お〜: maximum honorific wait-expression for formal event	[sound:b9d02d6e6ebb.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+Please inquire if you have any questions.	ご不明な点はお問い合わせください。	ごふめいなてんはおといあわせください。	ご不明な点はお問い合わせください。	お〜: honorific inquiry request for customer-facing context	[sound:fea4c0b9736f.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio source:shin-kanzen frequency:low complexity:standard
+We kindly ask for your confirmation.	ご確認のほどよろしくお願いいたします。	ごかくにんのほどよろしくおねがいいたします。	ご確認のほどよろしくお願いいたします。	お〜: highly formal confirmation request using 願いいたします	[sound:6f85eb606002.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

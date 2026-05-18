@@ -16,8 +16,8 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-GRAMMAR_DIR = Path("grammar")
-TAXONOMY_PATH = Path("data/grammar_taxonomy.tsv")
+GRAMMAR_DIR = Path("grammar-strict")
+TAXONOMY_PATH = Path("data/grammar_taxonomy_bunpro.tsv")
 
 
 def load_taxonomy_points(taxonomy_path: Path) -> tuple[set[str], list[str]]:

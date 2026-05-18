@@ -13,11 +13,11 @@
 [sound:1a5d96be05de.mp3]	新しくなかった___す。	新しくなかったです。	あたらしくなかったです。	It was not new.	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen complexity:standard
 [sound:610e23239df2.mp3]	新しくて便利___す。	新しくて便利です。	あたらしくてべんりです。	It's new and convenient.	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:top1k source:shin-kanzen complexity:standard
 [sound:209272a97e39.mp3]	新しく改良しました。	新しく改良しました。	あたらしくかいりょうしました。	Improved it to be new.	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:low source:shin-kanzen complexity:standard
-[sound:63472d5b92b6.mp3]	関西人やん。	関西人やん。	かんさいじんやん。	You're from Kansai.	module:01-n5 point:いい complexity:intro frequency:low source:imabi complexity:standard
-[sound:5f4467e1d30f.mp3]	可愛いやん。	可愛いやん。	かわいいやん。	You're cute!	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard
-[sound:302030cb581c.mp3]	そんなんやん。	そんなんやん。	そんなんやん。	It's like that.	module:01-n5 point:いい complexity:intro source:imabi complexity:standard
-[sound:ad5033f9c58b.mp3]	違うやん。	違うやん。	ちがうやん。	It's different!	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard
-[sound:93f719c7f9bb.mp3]	好きやん。	好きやん。	すきやん。	You like it!	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard
-[sound:035c8336cd2b.mp3]	それ、違うやねん。	それ、違うやねん。	それ、ちがうやねん。	That's wrong, you see.	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard
-[sound:9715a6a7d329.mp3]	違うやねんて。	違うやねんて。	ちがうやねんて。	I'm telling you it's different.	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard
-[sound:f418948e6f09.mp3]	本当やん。	本当やん。	ほんまやん。	That's right.	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard
+[sound:63472d5b92b6.mp3]	関西人やん。	関西人やん。	かんさいじんやん。	You're from Kansai.	module:01-n5 point:いい complexity:intro frequency:low source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:5f4467e1d30f.mp3]	可愛いやん。	可愛いやん。	かわいいやん。	You're cute!	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:302030cb581c.mp3]	そんなんやん。	そんなんやん。	そんなんやん。	It's like that.	module:01-n5 point:いい complexity:intro source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:ad5033f9c58b.mp3]	違うやん。	違うやん。	ちがうやん。	It's different!	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:93f719c7f9bb.mp3]	好きやん。	好きやん。	すきやん。	You like it!	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:035c8336cd2b.mp3]	それ、違うやねん。	それ、違うやねん。	それ、ちがうやねん。	That's wrong, you see.	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:9715a6a7d329.mp3]	違うやねんて。	違うやねんて。	ちがうやねんて。	I'm telling you it's different.	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n5 source:shin-kanzen
+[sound:f418948e6f09.mp3]	本当やん。	本当やん。	ほんまやん。	That's right.	module:01-n5 point:いい complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n5 source:shin-kanzen

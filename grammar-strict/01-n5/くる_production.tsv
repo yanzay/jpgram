@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
 
-My friend is coming to my house tomorrow.	明日友達がうちに来ます。	あしたともだちがうちにきます。	明日友達がうちに来ます。	polite future of 来る	[sound:e9c3a04aa60e.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio
-He came early in the morning.	彼は朝早く来ました。	かれはあさはやくきました。	彼は朝早く来ました。	polite past of 来る	[sound:958b8be86c80.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio
-It has started raining.	雨が降って来た。	あめがふってきた。	雨が降って来た。	auxiliary use ~てくる	[sound:7bc942975922.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio
-The train isn't coming.	電車が来ません。	でんしゃがきません。	電車が来ません。	polite negative	[sound:4fb7f31fd7a7.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio
-The dog came toward me.	犬がこっちに来た。	いぬがこっちにきた。	犬がこっちに来た。	plain past	[sound:02e4315c8cfe.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio
+My friend is coming to my house tomorrow.	明日友達がうちに来ます。	あしたともだちがうちにきます。	明日友達がうちに来ます。	polite future of 来る	[sound:e9c3a04aa60e.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+He came early in the morning.	彼は朝早く来ました。	かれはあさはやくきました。	彼は朝早く来ました。	polite past of 来る	[sound:958b8be86c80.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+It has started raining.	雨が降って来た。	あめがふってきた。	雨が降って来た。	auxiliary use ~てくる	[sound:7bc942975922.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+The train isn't coming.	電車が来ません。	でんしゃがきません。	電車が来ません。	polite negative	[sound:4fb7f31fd7a7.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+The dog came toward me.	犬がこっちに来た。	いぬがこっちにきた。	犬がこっちに来た。	plain past	[sound:02e4315c8cfe.mp3]	module:01-n5 jlpt:n5 point:くる source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro

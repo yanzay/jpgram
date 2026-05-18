@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-I'm glad I brought my umbrella. It started raining.	傘を持ってきてよかった。雨が降ってきた。	かさをもってきてよかった。あめがふってきた。	傘を持ってきてよかった。雨が降ってきた。	relief that advance action paid off	[sound:3e85444bf923.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio
-I'm glad I studied Japanese.	日本語を勉強してよかったと思います。	にほんごをべんきょうしてよかったとおもいます。	日本語を勉強してよかったと思います。	retrospective satisfaction	[sound:f2df719e4274.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio
-I'm glad I booked early. It was fully booked.	早めに予約してよかったです。満席でした。	はやめによやくしてよかったです。まんせきでした。	早めに予約してよかったです。満席でした。	early action prevented problem	[sound:04c75bc570ad.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio
-I'm glad I told the truth. I feel much better.	正直に話してよかった。すっきりしました。	しょうじきにはなしてよかった。すっきりしました。	正直に話してよかった。すっきりしました。	relief after honest conversation	[sound:80bd40c53d2e.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio
-I feel glad I chose this university.	この大学を選んでよかったと感じています。	このだいがくをえらんでよかったとかんじています。	この大学を選んでよかったと感じています。	satisfaction with past decision	[sound:e28613d88b03.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio
+I'm glad I brought my umbrella. It started raining.	傘を持ってきてよかった。雨が降ってきた。	かさをもってきてよかった。あめがふってきた。	傘を持ってきてよかった。雨が降ってきた。	relief that advance action paid off	[sound:3e85444bf923.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+I'm glad I studied Japanese.	日本語を勉強してよかったと思います。	にほんごをべんきょうしてよかったとおもいます。	日本語を勉強してよかったと思います。	retrospective satisfaction	[sound:f2df719e4274.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I'm glad I booked early. It was fully booked.	早めに予約してよかったです。満席でした。	はやめによやくしてよかったです。まんせきでした。	早めに予約してよかったです。満席でした。	early action prevented problem	[sound:04c75bc570ad.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+I'm glad I told the truth. I feel much better.	正直に話してよかった。すっきりしました。	しょうじきにはなしてよかった。すっきりしました。	正直に話してよかった。すっきりしました。	relief after honest conversation	[sound:80bd40c53d2e.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+I feel glad I chose this university.	この大学を選んでよかったと感じています。	このだいがくをえらんでよかったとかんじています。	この大学を選んでよかったと感じています。	satisfaction with past decision	[sound:e28613d88b03.mp3]	module:02-n4 jlpt:n4 point:てよかった source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

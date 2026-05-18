@@ -5,67 +5,67 @@
 #
 #deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
 
-Negation (古典).	古典否定	かれはこのしごとをせぬ	彼はこの仕事をせぬ	古い否定形	[sound:d9047be5782a.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-Volitional (古典).	古典意志	わがはいはこれをなさん	我輩はこれを為さん	古い意志形	[sound:5f5389920648.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-Should/must (古典).	古典当為	まなべし	学べし	～べき・～はずだ	[sound:434b63631d27.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-Ought/should (古典).	古典当為	いくべきか	行くべきか	～べき・～はずだ	[sound:2d2e34c7b342.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-Must not (古典).	古典禁止	するべからず	するべからず	～べきではない	[sound:e904fd8d8d08.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-Forbidden (古典).	古典禁止	けっしてやるべまじ	決してやるべまじ	～てはいけない	[sound:0e1a030ad5d8.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-Therefore not (古典).	古典否定	それゆえにいかぬ	それ故に行かぬ	古い否定形	[sound:3258f3176a39.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-Neg perfective (古典).	古典過去否定	しるざり	知るざり	～ぬかった	[sound:0f5d75732ff3.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-Is such a person (古典).	古典完了	かれはかかるにんたり	彼はかかる人たり	～た・～である	[sound:08721444351b.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-I am (literary 様).	古典敬語	わがやからそうろう	我が輩そうろう	おります・あります	[sound:23b22c16c75d.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-Who would say that.	古典意志否定	だれがそれをいわん	誰がそれを言わん	～ようない	[sound:a8af8fa33a0e.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-Cannot help but go.	古典必然	いかざるべからず	行かざるべからず	～ないわけにはいかない	[sound:e8e4e8ed36e7.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-How would you know.	古典修辞	なんじなにぞしらん	汝何ぞ知らん	～ようか	[sound:a1ddd757a97f.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-Whether believing or not.	古典選択	しんじたりしんじずたり	信じたり信じずたり	～たり～たり	[sound:85eddb44ff1b.mp3]	module:03-n3 point:べき complexity:standard source:imabi
-Come (command).	古典命令	きたれ	来たれ	～ろ・～よ	[sound:eb13e6491447.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-If do/when do.	古典仮定	するなら	するなら	～たら・～ば	[sound:e8de11727ace.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-Appears/seems.	古典完了	みえたり	見えたり	～た・～である	[sound:db888d20ef52.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-Person who doesn't know.	古典否定形容詞化	しらぬにん	知らぬ人	～ない人	[sound:635e292ad4a7.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-Should do/must do.	古典当為	なすべし	為すべし	～べき・～はずだ	[sound:7c41f61ff6f7.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-He is the one who went.	古典完了当為	かれこそいきたるべし	彼こそ行きたるべし	～たはずだ	[sound:c30f718895fd.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-Want to hear disciple's words.	古典願望	でしのことばきかまほし	弟子の言葉聞かまほし	～たい・～ほしい	[sound:acba18a40de0.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-What has happened.	古典疑問完了	いかにしたりや	如何にしたりや	～たのか	[sound:a348a2062377.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-There exists such a person.	古典存在	このごときものあり	此の如き者あり	いる・ある	[sound:2ac11c012b62.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-I know this.	古典完了	われこれをしれり	我これを知れり	～た・～である	[sound:23883d306a0d.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-In the distant future.	古典未来推測	とおからんみらいに	遠からん未来に	～だろう・～でしょう	[sound:0398c38f895c.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-All people will die.	古典必然未来	にんはみなしなん	人は皆死なん	～だろう	[sound:68ffa7ac9336.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-I wish it would succeed.	古典願望	ねがわくばせいこうせん	願わくば成功せん	～ように	[sound:73f2caf6a981.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-It is not words of negation.	古典存在否定	ひていのことばにはあらず	否定の言葉にはあらず	ない・ではない	[sound:66880239c277.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-He is reasonable indeed.	古典評価	かれはむべなるかな	彼はむべなるかな	～のは当然だ	[sound:a3d8600ca2ee.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-A person to be regretted.	古典当為完了	おしむべきじんぶつなり	惜しむべき人物なり	～べき～である	[sound:11d943dfceef.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-You must also go.	古典必然	くんもいかねばならぬ	君も行かねばならぬ	～なければならない	[sound:7def5d879fa4.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-Cease only after death.	古典時間表現	ししてのちやむ	死して後已む	～た後	[sound:4930129eb4da.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi
-Though so saying.	古典譲歩	ぜんくいえども	然くいえども	といっても・けれども	[sound:e32c7a83c002.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-Appears as if.	古典様態	ごとくみえる	如く見える	～のように・～ごとく	[sound:d3e82e766081.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-Goes without saying.	古典修辞否定	いわずもがな	言わずもがな	言わずとも明らか	[sound:d18f09296243.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-Finally reaching.	古典到達	ついにいたりて	終に至りて	～に至る	[sound:5755390b7be1.mp3]	module:03-n3 point:べき complexity:intro source:imabi
-Will lose the way.	古典未来	みちをけんうしなわん	道を見失わん	～だろう・～でしょう	[sound:ca8d3555ef82.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi
-Such things are rare.	古典述語形容詞	このごときはまれなり	此の如きは稀なり	珍しい・まれだ	[sound:115ece647202.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi
-Accomplished nothing.	古典過去否定完了	なにもなさざりし	何も為さざりし	～なかった	[sound:83eb36f7fd24.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi
-Should (strong obligation)	動詞(原形) + べき	すべきではありません	すべき	Strong duty	[sound:ef594bfb5311.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Can (ability)	動詞(て形) + できる	できません	できます	Ability to do	[sound:e382e8be9a15.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-May (permission)	動詞(て形) + もいい	てはいけません	てもいいです	Permission granted	[sound:ca7e82a37528.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Will (intention)	動詞(辞書形) + つもり	予定です	つもりです	Speaker's plan	[sound:8fb892cf517b.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Must (necessity)	動詞(ない) + ければならない	なくてはいけません	なければなりません	Required action	[sound:888e767b758b.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Will (prediction)	動詞(辞書形) + だろう	そうだ	だろう	Likely outcome	[sound:aa758a018c0f.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Might (possibility)	動詞(辞書形) + かもしれない	かもしれない	かもしれません	Uncertain future	[sound:89f2b686561f.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Try to (effort/intention)	動詞(辞書形) + ようにする	ようにしろ	ようにする	Trying action	[sound:4249bdc7da22.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Can (ability/possibility)	動詞(辞書形) + ことができる	ことができません	ことができます	Achievable action	[sound:3ac812c0a1c1.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Have to (casual must)	動詞(ない) + くちゃ	なくちゃいけない	なくちゃ	Casual obligation	[sound:c4e716d30cdf.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Better to (mild advice)	動詞(過去) + ほうがいい	ほうがいいではない	ほうがいいです	Comparative suggestion	[sound:380eebe6a37e.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Come to / become able	動詞(辞書形) + ようになる	ようにする	ようになります	Natural progression	[sound:6517ca6b16b4.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Do (command)	動詞(て形) + なさい	しなさい	なさい	Authority command	[sound:c7b1acd99447.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Forbidden (strict)	動詞(て形) + はいけない	禁止ではありません	禁止です	Absolute ban	[sound:33ad67878f15.mp3]	module:03-n3 point:べき frequency:top10k complexity:intro source:curated-jpgram
-Cannot help but (compulsion)	動詞(ない) + ずにいられない	ずには	ずにいられません	Unable to avoid	[sound:cf4a7a5d51d6.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Apparently (hearsay)	名詞 + らしい	らしくない	らしい	Seemingly/apparently	[sound:ae05ce463286.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Seems like (appearance)	名詞 + みたいです	みたいではない	みたいです	Looks like	[sound:f0d941a47f45.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-In order to (purpose)	動詞(辞書形) + ために	ためではなく	ために	Purpose clause	[sound:090b46100aa3.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Surely (certainty)	きっと + 文	もしかして	きっと	High confidence	[sound:ce5cc2bb34dd.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Definitely (absolute)	絶対に + 動詞	ひょっとして	絶対に	No question	[sound:0a87631ea342.mp3]	module:03-n3 point:べき frequency:top10k complexity:intro source:curated-jpgram
-No choice but (only way)	動詞(辞書形) + しかない	しかないではない	しかない	No alternative	[sound:e2341280ae3b.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Depends on (conditional)	名詞 + 次第です	次第ではない	次第です	Condition-based	[sound:54e672b8baab.mp3]	module:03-n3 point:べき frequency:top10k complexity:intro source:curated-jpgram
-End up -ing (result)	動詞(辞書形) + ことになる	ことになります	ことになります	Unavoidable result	[sound:b1963fc1782e.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-Not only (extent)	動詞(た) + ばかりではなく	ばかりではなく	ばかりではなく	Extends beyond	[sound:5b7cf683cec2.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
-There's no need to (optional)	動詞(辞書形) + ことはない	ことはないでしょう	ことはない	Not required	[sound:92708a13727f.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram
+Negation (古典).	古典否定	かれはこのしごとをせぬ	彼はこの仕事をせぬ	古い否定形	[sound:d9047be5782a.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+Volitional (古典).	古典意志	わがはいはこれをなさん	我輩はこれを為さん	古い意志形	[sound:5f5389920648.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+Should/must (古典).	古典当為	まなべし	学べし	～べき・～はずだ	[sound:434b63631d27.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+Ought/should (古典).	古典当為	いくべきか	行くべきか	～べき・～はずだ	[sound:2d2e34c7b342.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+Must not (古典).	古典禁止	するべからず	するべからず	～べきではない	[sound:e904fd8d8d08.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+Forbidden (古典).	古典禁止	けっしてやるべまじ	決してやるべまじ	～てはいけない	[sound:0e1a030ad5d8.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+Therefore not (古典).	古典否定	それゆえにいかぬ	それ故に行かぬ	古い否定形	[sound:3258f3176a39.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+Neg perfective (古典).	古典過去否定	しるざり	知るざり	～ぬかった	[sound:0f5d75732ff3.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+Is such a person (古典).	古典完了	かれはかかるにんたり	彼はかかる人たり	～た・～である	[sound:08721444351b.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+I am (literary 様).	古典敬語	わがやからそうろう	我が輩そうろう	おります・あります	[sound:23b22c16c75d.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+Who would say that.	古典意志否定	だれがそれをいわん	誰がそれを言わん	～ようない	[sound:a8af8fa33a0e.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+Cannot help but go.	古典必然	いかざるべからず	行かざるべからず	～ないわけにはいかない	[sound:e8e4e8ed36e7.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+How would you know.	古典修辞	なんじなにぞしらん	汝何ぞ知らん	～ようか	[sound:a1ddd757a97f.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+Whether believing or not.	古典選択	しんじたりしんじずたり	信じたり信じずたり	～たり～たり	[sound:85eddb44ff1b.mp3]	module:03-n3 point:べき complexity:standard source:imabi jlpt:n3 source:shin-kanzen
+Come (command).	古典命令	きたれ	来たれ	～ろ・～よ	[sound:eb13e6491447.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+If do/when do.	古典仮定	するなら	するなら	～たら・～ば	[sound:e8de11727ace.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+Appears/seems.	古典完了	みえたり	見えたり	～た・～である	[sound:db888d20ef52.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+Person who doesn't know.	古典否定形容詞化	しらぬにん	知らぬ人	～ない人	[sound:635e292ad4a7.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+Should do/must do.	古典当為	なすべし	為すべし	～べき・～はずだ	[sound:7c41f61ff6f7.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+He is the one who went.	古典完了当為	かれこそいきたるべし	彼こそ行きたるべし	～たはずだ	[sound:c30f718895fd.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+Want to hear disciple's words.	古典願望	でしのことばきかまほし	弟子の言葉聞かまほし	～たい・～ほしい	[sound:acba18a40de0.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+What has happened.	古典疑問完了	いかにしたりや	如何にしたりや	～たのか	[sound:a348a2062377.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+There exists such a person.	古典存在	このごときものあり	此の如き者あり	いる・ある	[sound:2ac11c012b62.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+I know this.	古典完了	われこれをしれり	我これを知れり	～た・～である	[sound:23883d306a0d.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+In the distant future.	古典未来推測	とおからんみらいに	遠からん未来に	～だろう・～でしょう	[sound:0398c38f895c.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+All people will die.	古典必然未来	にんはみなしなん	人は皆死なん	～だろう	[sound:68ffa7ac9336.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+I wish it would succeed.	古典願望	ねがわくばせいこうせん	願わくば成功せん	～ように	[sound:73f2caf6a981.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+It is not words of negation.	古典存在否定	ひていのことばにはあらず	否定の言葉にはあらず	ない・ではない	[sound:66880239c277.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+He is reasonable indeed.	古典評価	かれはむべなるかな	彼はむべなるかな	～のは当然だ	[sound:a3d8600ca2ee.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+A person to be regretted.	古典当為完了	おしむべきじんぶつなり	惜しむべき人物なり	～べき～である	[sound:11d943dfceef.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+You must also go.	古典必然	くんもいかねばならぬ	君も行かねばならぬ	～なければならない	[sound:7def5d879fa4.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+Cease only after death.	古典時間表現	ししてのちやむ	死して後已む	～た後	[sound:4930129eb4da.mp3]	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 source:shin-kanzen
+Though so saying.	古典譲歩	ぜんくいえども	然くいえども	といっても・けれども	[sound:e32c7a83c002.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+Appears as if.	古典様態	ごとくみえる	如く見える	～のように・～ごとく	[sound:d3e82e766081.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+Goes without saying.	古典修辞否定	いわずもがな	言わずもがな	言わずとも明らか	[sound:d18f09296243.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+Finally reaching.	古典到達	ついにいたりて	終に至りて	～に至る	[sound:5755390b7be1.mp3]	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 source:shin-kanzen
+Will lose the way.	古典未来	みちをけんうしなわん	道を見失わん	～だろう・～でしょう	[sound:ca8d3555ef82.mp3]	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3 source:shin-kanzen
+Such things are rare.	古典述語形容詞	このごときはまれなり	此の如きは稀なり	珍しい・まれだ	[sound:115ece647202.mp3]	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3 source:shin-kanzen
+Accomplished nothing.	古典過去否定完了	なにもなさざりし	何も為さざりし	～なかった	[sound:83eb36f7fd24.mp3]	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3 source:shin-kanzen
+Should (strong obligation)	動詞(原形) + べき	すべきではありません	すべき	Strong duty	[sound:ef594bfb5311.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Can (ability)	動詞(て形) + できる	できません	できます	Ability to do	[sound:e382e8be9a15.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+May (permission)	動詞(て形) + もいい	てはいけません	てもいいです	Permission granted	[sound:ca7e82a37528.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Will (intention)	動詞(辞書形) + つもり	予定です	つもりです	Speaker's plan	[sound:8fb892cf517b.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Must (necessity)	動詞(ない) + ければならない	なくてはいけません	なければなりません	Required action	[sound:888e767b758b.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Will (prediction)	動詞(辞書形) + だろう	そうだ	だろう	Likely outcome	[sound:aa758a018c0f.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Might (possibility)	動詞(辞書形) + かもしれない	かもしれない	かもしれません	Uncertain future	[sound:89f2b686561f.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Try to (effort/intention)	動詞(辞書形) + ようにする	ようにしろ	ようにする	Trying action	[sound:4249bdc7da22.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Can (ability/possibility)	動詞(辞書形) + ことができる	ことができません	ことができます	Achievable action	[sound:3ac812c0a1c1.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Have to (casual must)	動詞(ない) + くちゃ	なくちゃいけない	なくちゃ	Casual obligation	[sound:c4e716d30cdf.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Better to (mild advice)	動詞(過去) + ほうがいい	ほうがいいではない	ほうがいいです	Comparative suggestion	[sound:380eebe6a37e.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Come to / become able	動詞(辞書形) + ようになる	ようにする	ようになります	Natural progression	[sound:6517ca6b16b4.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Do (command)	動詞(て形) + なさい	しなさい	なさい	Authority command	[sound:c7b1acd99447.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Forbidden (strict)	動詞(て形) + はいけない	禁止ではありません	禁止です	Absolute ban	[sound:33ad67878f15.mp3]	module:03-n3 point:べき frequency:top10k complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Cannot help but (compulsion)	動詞(ない) + ずにいられない	ずには	ずにいられません	Unable to avoid	[sound:cf4a7a5d51d6.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Apparently (hearsay)	名詞 + らしい	らしくない	らしい	Seemingly/apparently	[sound:ae05ce463286.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Seems like (appearance)	名詞 + みたいです	みたいではない	みたいです	Looks like	[sound:f0d941a47f45.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+In order to (purpose)	動詞(辞書形) + ために	ためではなく	ために	Purpose clause	[sound:090b46100aa3.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Surely (certainty)	きっと + 文	もしかして	きっと	High confidence	[sound:ce5cc2bb34dd.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Definitely (absolute)	絶対に + 動詞	ひょっとして	絶対に	No question	[sound:0a87631ea342.mp3]	module:03-n3 point:べき frequency:top10k complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+No choice but (only way)	動詞(辞書形) + しかない	しかないではない	しかない	No alternative	[sound:e2341280ae3b.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Depends on (conditional)	名詞 + 次第です	次第ではない	次第です	Condition-based	[sound:54e672b8baab.mp3]	module:03-n3 point:べき frequency:top10k complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+End up -ing (result)	動詞(辞書形) + ことになる	ことになります	ことになります	Unavoidable result	[sound:b1963fc1782e.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+Not only (extent)	動詞(た) + ばかりではなく	ばかりではなく	ばかりではなく	Extends beyond	[sound:5b7cf683cec2.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen
+There's no need to (optional)	動詞(辞書形) + ことはない	ことはないでしょう	ことはない	Not required	[sound:92708a13727f.mp3]	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3 source:shin-kanzen

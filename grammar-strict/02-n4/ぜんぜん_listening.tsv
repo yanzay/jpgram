@@ -5,11 +5,11 @@
 #
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Listening
 
-[sound:dcd3c7d63441.mp3]	クソ！失敗した。	くそ。しっぱいした。	Damn it! I failed.	Curse word	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:top5k source:tofugu complexity:standard
-[sound:89690af55dc9.mp3]	うるせー、うるさいよ。	うるせー、うるさいよ。	Shut up, you're loud.	Dismissive anger	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard
-[sound:69a299ec047d.mp3]	うぜー、そいつ。	うぜー、そいつ。	That guy is annoying as hell.	Rude dismissal	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard
-[sound:25db661d2cee.mp3]	うずい、その人。	うずい、そのひと。	That person bugs me.	Subtle disapproval	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:top1k source:tofugu complexity:standard
-[sound:c0a525a354f3.mp3]	ダスい、そのセンス。	ださい、そのせんす。	That sense is totally uncool.	Negative comment	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:low source:tofugu complexity:standard
-[sound:14c7b6413f6e.mp3]	アホだな。	あほだな。	That's stupid.	Mild curse	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard
-[sound:c9125de7846e.mp3]	アホだよ、本当に。	あほだよ、ほんとうに。	You're seriously dumb.	Mockery expression	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:top1k source:tofugu complexity:standard
-[sound:12af1e0acfbe.mp3]	クソアホ！	くそあほ。	Damn idiot!	Harsh curse	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard
+[sound:dcd3c7d63441.mp3]	クソ！失敗した。	くそ。しっぱいした。	Damn it! I failed.	Curse word	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:top5k source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:89690af55dc9.mp3]	うるせー、うるさいよ。	うるせー、うるさいよ。	Shut up, you're loud.	Dismissive anger	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:69a299ec047d.mp3]	うぜー、そいつ。	うぜー、そいつ。	That guy is annoying as hell.	Rude dismissal	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:25db661d2cee.mp3]	うずい、その人。	うずい、そのひと。	That person bugs me.	Subtle disapproval	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:top1k source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:c0a525a354f3.mp3]	ダスい、そのセンス。	ださい、そのせんす。	That sense is totally uncool.	Negative comment	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:low source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:14c7b6413f6e.mp3]	アホだな。	あほだな。	That's stupid.	Mild curse	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:c9125de7846e.mp3]	アホだよ、本当に。	あほだよ、ほんとうに。	You're seriously dumb.	Mockery expression	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro frequency:top1k source:tofugu complexity:standard jlpt:n4 source:shin-kanzen
+[sound:12af1e0acfbe.mp3]	クソアホ！	くそあほ。	Damn idiot!	Harsh curse	register:slang register:vulgar module:02-n4 point:ぜんぜん complexity:intro source:tofugu complexity:standard jlpt:n4 source:shin-kanzen

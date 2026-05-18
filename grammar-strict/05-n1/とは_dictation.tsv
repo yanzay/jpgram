@@ -5,11 +5,11 @@
 #
 #deck:Japanese Grammar (Strict)::05 - N1 Grammar::Dictation
 
-[sound:b82243ae42fc.mp3]	させていただく。	させていただく。	させていただく。	I humbly request permission to do.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
-[sound:2ce803fd53a6.mp3]	させていただいてもよろしい___しょうか。	させていただいてもよろしいでしょうか。	させていただいてもよろしいでしょうか。	May I humbly do this?	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
-[sound:e8c1b0dcf416.mp3]	たまわる。	たまわる。	たまわる。	I humbly receive (archaic).	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
-[sound:ed731e70fd21.mp3]	させていただきました。	させていただきました。	させていただきました。	I humbly did.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
-[sound:7ce85ab81407.mp3]	そのようなことをさせていただけると___。	そのようなことをさせていただけるとは。	そのようなことをさせていただけるとは。	I can scarcely believe I am permitted to do such a thing.	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
-[sound:7d3b2fdea228.mp3]	この度___お約束をさせていただきたく。	この度はお約束をさせていただきたく。	このどはおやくそくをさせていただきたく。	This time I wish to humbly make a promise.	module:05-n1 point:とは complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives
-[sound:d10e28418715.mp3]	させていただくこと___できました。	させていただくことができました。	させていただくことができました。	I was able to humbly do.	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives
-[sound:d4cfa7592053.mp3]	されるよう___なった。	されるようになった。	されるようになった。	He/she came to be done to (passive as honorific).	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives
+[sound:b82243ae42fc.mp3]	させていただく。	させていただく。	させていただく。	I humbly request permission to do.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:2ce803fd53a6.mp3]	させていただいてもよろしい___しょうか。	させていただいてもよろしいでしょうか。	させていただいてもよろしいでしょうか。	May I humbly do this?	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:e8c1b0dcf416.mp3]	たまわる。	たまわる。	たまわる。	I humbly receive (archaic).	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:ed731e70fd21.mp3]	させていただきました。	させていただきました。	させていただきました。	I humbly did.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:7ce85ab81407.mp3]	そのようなことをさせていただけると___。	そのようなことをさせていただけるとは。	そのようなことをさせていただけるとは。	I can scarcely believe I am permitted to do such a thing.	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:7d3b2fdea228.mp3]	この度___お約束をさせていただきたく。	この度はお約束をさせていただきたく。	このどはおやくそくをさせていただきたく。	This time I wish to humbly make a promise.	module:05-n1 point:とは complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:d10e28418715.mp3]	させていただくこと___できました。	させていただくことができました。	させていただくことができました。	I was able to humbly do.	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1 source:shin-kanzen
+[sound:d4cfa7592053.mp3]	されるよう___なった。	されるようになった。	されるようになった。	He/she came to be done to (passive as honorific).	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives jlpt:n1 source:shin-kanzen

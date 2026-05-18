@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
 
-This cake looks delicious.	このケーキ、おいしそうですね。	このけーき、おいしそうですね。	このケーキ、おいしそうですね。	visual appearance suggestive	[sound:9e702a3b4c3f.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio
-The sky is getting dark — it looks like it'll rain.	空が暗くなって、雨が降りそうです。	そらがくらくなって、あめがふりそうです。	空が暗くなって、雨が降りそうです。	visual cue for imminent rain	[sound:072de81d14f8.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio
-He looks tired.	彼は疲れていそうな顔をしています。	かれはつかれていそうなかおをしています。	彼は疲れていそうな顔をしています。	facial appearance of fatigue	[sound:27cd228dcfc1.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio
-This bag looks sturdy and seems like it'll last.	このバッグは丈夫そうで、長く使えそうです。	このばっぐはじょうぶそうで、ながくつかえそうです。	このバッグは丈夫そうで、長く使えそうです。	appearance of durability	[sound:e5c28865c4cc.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio
-She had an expression that looked like she was about to cry.	彼女は泣きそうな表情をしていた。	かのじょはなきそうなひょうじょうをしていた。	彼女は泣きそうな表情をしていた。	emotional appearance	[sound:86fce686280e.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio
+This cake looks delicious.	このケーキ、おいしそうですね。	このけーき、おいしそうですね。	このケーキ、おいしそうですね。	visual appearance suggestive	[sound:9e702a3b4c3f.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:standard
+The sky is getting dark — it looks like it'll rain.	空が暗くなって、雨が降りそうです。	そらがくらくなって、あめがふりそうです。	空が暗くなって、雨が降りそうです。	visual cue for imminent rain	[sound:072de81d14f8.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:standard
+He looks tired.	彼は疲れていそうな顔をしています。	かれはつかれていそうなかおをしています。	彼は疲れていそうな顔をしています。	facial appearance of fatigue	[sound:27cd228dcfc1.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+This bag looks sturdy and seems like it'll last.	このバッグは丈夫そうで、長く使えそうです。	このばっぐはじょうぶそうで、ながくつかえそうです。	このバッグは丈夫そうで、長く使えそうです。	appearance of durability	[sound:e5c28865c4cc.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard
+She had an expression that looked like she was about to cry.	彼女は泣きそうな表情をしていた。	かのじょはなきそうなひょうじょうをしていた。	彼女は泣きそうな表情をしていた。	emotional appearance	[sound:86fce686280e.mp3]	module:02-n4 jlpt:n4 point:そう source:authored scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:standard

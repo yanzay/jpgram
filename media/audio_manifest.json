@@ -4545,14 +4545,6 @@
       "sha256": "e666a6a962430fc340bec5b480afb2cc673ba52a9839396c66da64a8e7ebff5b",
       "size": 18048
     },
-    "0faee1f40b35": {
-      "text": "患者さんがお医者さんにご相談いたしました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "ce16eb9e97e473676619ef529a1cf3ea9cd0846f29be6249405f3d6d3c1f84ac",
-      "size": 29184
-    },
     "0fb4c43468a0": {
       "text": "うーん、約束を破るわけにはいかない。",
       "voice": "ja-JP-Neural2-B",
@@ -12601,6 +12593,14 @@
       "sha256": "fd07d2054692cda2ede15325fbd366f4400ebc8e69745fe851bc317e69690b72",
       "size": 12096
     },
+    "306df42bbd03": {
+      "text": "お父さんが朝ご飯を召し上がります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "17aea5c20a74301e0a6b46d7cb303047818a90c077b5df2077b744a6c666ff16",
+      "size": 24384
+    },
     "306f53998051": {
       "text": "この図書館は毎月何冊助成する。",
       "voice": "ja-JP-Neural2-B",
@@ -15153,6 +15153,14 @@
       "sha256": "bf76536776078acab207500c267909b229b814b020291f942c1f8edfb284135e",
       "size": 16320
     },
+    "3bfd18e72ad6": {
+      "text": "こちらの製品は高品質でございます。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "a32589ab38b522bf717714b4e7e37ff7cf2b49fec70ef5e0cc42a074ae7affe5",
+      "size": 25344
+    },
     "3c01c77f19cd": {
       "text": "い",
       "voice": "ja-JP-Neural2-B",
@@ -16336,14 +16344,6 @@
       "lang": "ja-JP",
       "sha256": "bb5b5c5f4f1dde250dd62b69884792a10d9f84c117c938246f14474d5810d910",
       "size": 57216
-    },
-    "4061297e4b6a": {
-      "text": "このご提案はございますか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4599697f5343091507462646c9b4b6f4ff4d1fc41d55c233c2ee422f94025a51",
-      "size": 18624
     },
     "40613d472fe5": {
       "text": "毎日の勉強。",
@@ -22865,14 +22865,6 @@
       "sha256": "a183f51e210650416c868bf1d64f4d38c0441f8253b43cfc563bcc68951f7c7b",
       "size": 13440
     },
-    "5a0d20fe86ff": {
-      "text": "このような天候の時に雨がお降りになります。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0248eb405c573069c988b34e4565f74c5d3f479c5461337635d28d6e4f6f256c",
-      "size": 32064
-    },
     "5a17615691af": {
       "text": "明日から禁煙することにします。",
       "voice": "ja-JP-Neural2-B",
@@ -24889,6 +24881,14 @@
       "sha256": "62bd3d756395b4b7bf18d9fb7af7a341f8d91b8dad59cc83f65fc1198dd73439",
       "size": 19968
     },
+    "60cbb70aab92": {
+      "text": "患者さんがお医者さんにご相談になりました。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "09d24d51bfe8f00ea54bcfa0d9c4a43448c24215ae7fa6e4ab6fca357cee35a9",
+      "size": 29952
+    },
     "60df7e2e96f5": {
       "text": "できる限り頑張ります。",
       "voice": "ja-JP-Neural2-B",
@@ -26440,14 +26440,6 @@
       "lang": "ja-JP",
       "sha256": "ff57ea15988b5d9ed2fe5f6f7ec070a9f155072bd99c542835c35ed024306a45",
       "size": 16320
-    },
-    "667739106667": {
-      "text": "お父さんが朝ご飯を召し上がられます。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4df69b827f611faf0dba0d9a27bcd6da22447480909a050e0fdaa31e4f6889ca",
-      "size": 25344
     },
     "66880239c277": {
       "text": "否定の言葉にはあらず",
@@ -31393,14 +31385,6 @@
       "sha256": "3e9461e8d59335a865dccccfa057013e0ffd3068b9ca0cd2039e60ba912f9f36",
       "size": 25536
     },
-    "7b6ddc6dcf46": {
-      "text": "ご覧になっていただきたいのですが。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "af8c3d94a8b77f54d0940f0dfe739529f4ef8ad57bc6cf46b1935d015db96392",
-      "size": 19968
-    },
     "7b7b05e16d65": {
       "text": "[sound:8cc5a711266e.mp3]",
       "voice": "ja-JP-Neural2-B",
@@ -32208,6 +32192,14 @@
       "lang": "ja-JP",
       "sha256": "4d410a3131c8b35267b212bb8c35a74329ef7adf36285b29986ee2fb86d3248b",
       "size": 4032
+    },
+    "7ec0a4b5ac47": {
+      "text": "ご覧いただきたいのですが。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "3f492f0dd574d9601be8187133a8a8634073305b0ebf1565f1dd6622f6429623",
+      "size": 17088
     },
     "7ec67e17b99e": {
       "text": "社会人はマナーを守るべきだ。",
@@ -44393,6 +44385,14 @@
       "sha256": "820c831f63c89b54bba6cf0291472abbf89e0072590a74703e071086cca2932d",
       "size": 21312
     },
+    "b08b706bb2d1": {
+      "text": "このご提案でよろしいでしょうか。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "b6caf27f98e63f641a60f8b46612a15c525f9c21d982706e3c69a55e541e477d",
+      "size": 21504
+    },
     "b08bee2a35bd": {
       "text": "彼は来ないわけに はいかない。",
       "voice": "ja-JP-Neural2-B",
@@ -47936,6 +47936,14 @@
       "lang": "ja-JP",
       "sha256": "1511dc22dbbcfc4d4e9d81f539ed945e4756eaf9b931204d5d3287551750effa",
       "size": 20544
+    },
+    "bf5341be6e6b": {
+      "text": "このような天候の時に雨が降ります。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "4eb63774cca66496abcd64a2c9aee6dd130df11b1ae38f6dc9854002b36fef93",
+      "size": 24960
     },
     "bf559a003bb4": {
       "text": "いかなる苦難とて諦めない。",
@@ -58520,14 +58528,6 @@
       "lang": "ja-JP",
       "sha256": "6c3f7819c195fe06159a348af326c70526efc1500a3d0b78a9f784daa8e91fce",
       "size": 16704
-    },
-    "e71e21d7fe60": {
-      "text": "こちらの製品は品質がでございます。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "75c996bbf3c43e14d43ec46601c5e277c62dc02174a1ea7688f3af32ba5e2827",
-      "size": 24192
     },
     "e721d664df8d": {
       "text": "プロだけあって上手だ。",
