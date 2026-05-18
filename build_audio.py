@@ -151,6 +151,9 @@ _CLOZE_RE = re.compile(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}")
 _JP_CHAR_RE = re.compile(r"[一-龯ぁ-んァ-ン]")
 
 
+_SOUND_REF_RE = re.compile(r"^\[sound:[^\]]+\]")
+
+
 def collect_sentences() -> List[str]:
     """Return a sorted list of unique Japanese sentences across all corpus TSVs.
 
@@ -160,6 +163,8 @@ def collect_sentences() -> List[str]:
       * contrast TSVs (`*_contrast.tsv`) have `___` placeholders; we substitute
         the Answer column to produce the JP sentence that's actually synthesized.
       * production TSVs (`*_production.tsv`) hash the Sample column, not Prompt.
+      * listening/dictation TSVs have an existing [sound:…] ref in column 0 —
+        no new synthesis needed; these rows are skipped.
     """
     sentences = set()
     if not GRAMMAR_DIR.exists():
@@ -189,6 +194,10 @@ def collect_sentences() -> List[str]:
             else:
                 jp = row[0].strip()
             if not jp:
+                continue
+            # Listening/dictation TSVs store an existing [sound:…] ref in col 0.
+            # Synthesising sha1("[sound:…]") would produce garbage audio; skip.
+            if _SOUND_REF_RE.match(jp):
                 continue
             if is_cloze:
                 jp = _CLOZE_RE.sub(r"\1", jp)
@@ -380,7 +389,19 @@ def main():
                   f"missing-rendered={missing}")
 
     # ── Prune orphans ──
-    desired = {text_hash(s) for s in full_sentences}
+    # An orphan is any MP3 file not referenced by a [sound:…] in any TSV
+    # Audio column. This is stricter than the old sentence-hash check and
+    # correctly removes garbage files (e.g. TTS of "[sound:…]" strings).
+    _SOUND_RE = re.compile(r"\[sound:([a-f0-9]{12})\.mp3\]")
+    referenced_stems: set[str] = set()
+    if GRAMMAR_DIR.exists():
+        for tsv in GRAMMAR_DIR.rglob("*.tsv"):
+            for line in tsv.read_text(encoding="utf-8").splitlines():
+                if line.startswith("#"):
+                    continue
+                for m in _SOUND_RE.finditer(line):
+                    referenced_stems.add(m.group(1))
+
     pruned = 0
     if args.limit and not args.no_prune:
         if not DRY_RUN:
@@ -388,7 +409,7 @@ def main():
         args.no_prune = True
     if not args.no_prune and MEDIA_DIR.exists():
         for mp3 in sorted(MEDIA_DIR.glob("*.mp3")):
-            if mp3.stem not in desired:
+            if mp3.stem not in referenced_stems:
                 if DRY_RUN:
                     print(f"  [dry-run] would prune orphan audio/{mp3.name}")
                 else:
