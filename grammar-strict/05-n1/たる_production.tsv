@@ -2,41 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
 #deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
 
-たる: Formal as/capacity.	Formal as/capacity	かれはいしゃたるしかくをもつ。	彼は医者たる資格を持つ。	Marks role formally	[sound:668b24da893a.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-たる: Formal as/capacity.	Formal as/capacity	ゆうしたるものは…。	勇士たる者は…。	Marks role formally	[sound:1473b1c04575.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-たる: Formal as/capacity.	Formal as/capacity	おとなたるべきせきにん。	大人たるべき責任。	Marks role formally	[sound:99fcd3e65b88.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ごとき: Like/as if.	Like/as if	かのごときじんぶつはまれだ。	彼のごとき人物は稀だ。	Marks similarity; literary	[sound:ae5aaa835cfb.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:low source:shin-kanzen
-ごとき: Like/as if.	Like/as if	はるのごとくあたらしいきもち。	春のごとく新しい気持ち。	Marks similarity; literary	[sound:54a1c00a4142.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top5k source:shin-kanzen
-ごとき: Like/as if.	Like/as if	たいようのごときかがやく。	太陽のごとき輝く。	Marks similarity; literary	[sound:f29ba5a3944a.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ごとき: Like/as if.	Like/as if	おうのごときふるまい。	王のごとき振る舞い。	Marks similarity; literary	[sound:d6e4645a32ab.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ごとく: Like/as.	Like/as	へいたいのごとくこうしんする。	兵隊のごとく行進する。	Marks similarity; adverbial form	[sound:57310d866111.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:low source:shin-kanzen
-ごとく: Like/as.	Like/as	はねのごとくかるい。	羽のごとく軽い。	Marks similarity; adverbial form	[sound:a41bc78f14ba.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ごとく: Like/as.	Like/as	ひのごとくもえる。	火のごとく燃える。	Marks similarity; adverbial form	[sound:f0d1c1424b40.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ごとく: Like/as.	Like/as	みずのごとくながれる。	水のごとく流れる。	Marks similarity; adverbial form	[sound:ba2d5a0f241e.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ごとく: Like/as.	Like/as	かのはなしはものかたりのごとく。	彼の話はもの語りのごとく。	Marks similarity; adverbial form	[sound:e6aadef3882b.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top5k source:shin-kanzen
-ものを: Would have/regret.	Would have/regret	いけばよかったのに。	行けばよかったのに。	Marks counterfactual regret	[sound:41f932c703ed.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro source:shin-kanzen
-ものを: Would have/regret.	Would have/regret	かれがきていれば。	彼が来ていれば。	Marks counterfactual regret	[sound:d7c19675994a.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ものを: Would have/regret.	Would have/regret	もっとはやくしっていたら。	もっと早く知っていたら。	Marks counterfactual regret	[sound:5636486934c2.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro source:shin-kanzen
-ものか: No way/vehement.	No way/vehement	そんなことができるものか。	そんなことができるものか。	Vehement interrogative negation	[sound:e1a73971be8c.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard source:shin-kanzen
-ものか: No way/vehement.	No way/vehement	かれがくるはずがない。	彼が来るはずがない。	Vehement interrogative negation	[sound:b61b5396729a.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top5k source:shin-kanzen
-ものか: No way/vehement.	No way/vehement	そんなかんたんなはずがあるか。	そんな簡単なはずがあるか。	Vehement interrogative negation	[sound:285ce60726c3.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top5k source:shin-kanzen
-ものなら: If you can.	If you can	できるものならみせてみろ。	できるものなら見せてみろ。	Challenges/intense conditional	[sound:eac2753c76e8.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard source:shin-kanzen
-ものなら: If you can.	If you can	ほんとうならよいのに。	本当なら良いのに。	Challenges/intense conditional	[sound:3720c83767a5.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-ものなら: If you can.	If you can	いけるものならいってみろ。	行けるものなら行ってみろ。	Challenges/intense conditional	[sound:199039a4d2df.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard source:shin-kanzen
-とあっては: Given/exceptional.	Given/exceptional	このじょうきょうとあってはしかたがない。	この状況とあっては仕方がない。	Marks exceptional circumstance	[sound:65bb2da00360.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top10k source:shin-kanzen
-とあっては: Given/exceptional.	Given/exceptional	そうとあってはいくしかない。	そうとあっては行くしかない。	Marks exceptional circumstance	[sound:d0b5878d83ae.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top1k source:shin-kanzen
-とあっては: Given/exceptional.	Given/exceptional	きんきゅうとあってはやむをえない。	緊急とあってはやむを得ない。	Marks exceptional circumstance	[sound:df717ee13f46.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:low source:shin-kanzen
-もしくは: Or formal.	Or formal	AもしくはBをえらびなさい。	AもしくはBを選びなさい。	Formal alternative; written	[sound:716d76063634.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard source:shin-kanzen
-あるいは: Or formal.	Or formal	あめあるいはゆきがふるだろう。	雨あるいは雪が降るだろう。	Formal alternative; literary	[sound:0ae597edf898.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top1k source:shin-kanzen
-はたまた: Or poetic.	Or poetic	なにかはたまただれかがくるだろう。	何かはたまた誰かが来るだろう。	Poetic/literary alternative	[sound:53e4aecb94a2.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top10k source:shin-kanzen
-もしくは: Or formal.	Or formal	げつようもしくはかようにきます。	月曜もしくは火曜に来ます。	Formal alternative; written	[sound:2a43cb5adfee.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top10k source:shin-kanzen
-あるいは: Or formal.	Or formal	よむあるいはみることができる。	読むあるいは見ることができる。	Formal alternative; literary	[sound:bc8be55a9506.mp3]	module:05-n1 jlpt:n1 point:たる complexity:standard frequency:top1k source:shin-kanzen
-あるいは: Or formal.	Or formal	けんこうあるいはこうふくがひつよう。	健康あるいは幸福が必要。	Formal alternative; literary	[sound:7f47e9ee9e68.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
-はたまた: Or poetic.	Or poetic	たべてはたまたのむか。	食べてはたまた飲むか。	Poetic/literary alternative	[sound:5866c34d6704.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top1k source:shin-kanzen
-もしくは: Or formal.	Or formal	あかもしくはあおいろがいい。	赤もしくは青色がいい。	Formal alternative; written	[sound:d2c3235c1dbb.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top1k source:shin-kanzen
-あるいは: Or formal.	Or formal	しずかあるいはそーぞーしい。	静かあるいは騒々しい。	Formal alternative; literary	[sound:d8561e32c38f.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:low source:shin-kanzen
-はたまた: Or poetic.	Or poetic	むかしはたまたいまのはなし。	昔はたまた今の話。	Poetic/literary alternative	[sound:0775019bc45a.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top5k source:shin-kanzen
-たる: Formal as/capacity.	Formal as/capacity	いしゃたるしかくのない。	医者たる資格のない。	Marks role formally	[sound:cccc57ca7788.mp3]	module:05-n1 jlpt:n1 point:たる complexity:intro frequency:top10k source:shin-kanzen
+Say "one who is a parent has a duty to protect their children" (formal, using たる).	たる	おやたるものはこどもをまもるぎむがある。	親たる者は子どもを守る義務がある。	たる者 defines the inherent duty associated with a role	[sound:68c13c27fddc.mp3]	module:05-n1 jlpt:n1 point:たる complexity:advanced frequency:top10k source:shin-kanzen source:authored
+Say "as one who is a professional, you must not make excuses" (formal, using たる).	たる	ぷろたるものとして、いいわけをしてはならない。	プロたる者として、言い訳をしてはならない。	たる者として = as befitting a person who holds that role	[sound:07a657344c3f.mp3]	module:05-n1 jlpt:n1 point:たる complexity:advanced frequency:top10k source:shin-kanzen source:authored
+Say "she, being a scientist, approached the problem logically" (using たる).	たる	かがくしゃたるかのじょは、もんだいにろんりてきにとりくんだ。	科学者たる彼女は、問題に論理的に取り組んだ。	Noun + たる + specific person; formal literary register	[sound:88da0d3e63d8.mp3]	module:05-n1 jlpt:n1 point:たる complexity:advanced frequency:top10k source:shin-kanzen source:authored
+Say "what makes a leader is not authority but the trust of followers" (using たる所以).	たる	りーだーたるゆえんはけんいではなく、ぶかのしんらいだ。	リーダーたる所以は権威ではなく、部下の信頼だ。	たる所以 = the defining quality / essence of being X	[sound:d1bc3e4ab546.mp3]	module:05-n1 jlpt:n1 point:たる complexity:advanced frequency:top10k source:shin-kanzen source:authored
+Say "from the position of being a judge, one must be impartial" (using たる立場).	たる	さいばんかんたるたちばから、こうへいでなければならない。	裁判官たる立場から、公平でなければならない。	たる立場から = from the standpoint of one's role as N	[sound:f11ddd2c9da4.mp3]	module:05-n1 jlpt:n1 point:たる complexity:advanced frequency:top10k source:shin-kanzen source:authored
