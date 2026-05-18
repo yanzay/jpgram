@@ -3,6 +3,9 @@ name: pitchaccent-coverage
 on:
   workflow_dispatch:
   push:
+    # Path filters don't apply to tag pushes in GitHub Actions — scope to
+    # branches explicitly so release tags don't trigger this workflow.
+    branches: ["**"]
     paths:
       - "build_pitchaccent.py"
       - "validate_pitchaccent_coverage.py"
@@ -17,6 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true  # words_index.json is an LFS file; without this the pointer lands instead
 
       - name: Set up Python
         uses: actions/setup-python@v5
