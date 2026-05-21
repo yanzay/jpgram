@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Dictation
+#deck:Japanese Grammar::10 - Onomatopoeia::Dictation
 
 [sound:e7676d6c3885.mp3]	ワクワク	ワクワク	わくわく	Excited/thrilled.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
 [sound:e70e6f5442ae.mp3]	ハラハラ	ハラハラ	はらはら	Nervous/anxious.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard

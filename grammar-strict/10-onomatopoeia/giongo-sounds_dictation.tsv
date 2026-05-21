@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Dictation
+#deck:Japanese Grammar::10 - Onomatopoeia::Dictation
 
 [sound:d089c6bae983.mp3]	ワンワン	ワンワン	わんわん	Woof woof.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
 [sound:b52e76022102.mp3]	ニャーニャー	ニャーニャー	にゃーにゃー	Meow meow.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard

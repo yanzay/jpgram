@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 もし雨が降れば、運動会は中止になります。	もしあめがふれば、うんどうかいはちゅうしになります。	If it rains, the athletic meet will be canceled.	Hypothetical/if-then	もし + 条件 + ば + 結果	Hypothetical consequence	If/then structure	と conditional (automatic)	[sound:46f223e47173.mp3]	module:02-n4 jlpt:n4 point:ば complexity:standard frequency:top10k source:shin-kanzen sense:conditionals
 時間があれば、映画に行きたいです。	じかんがあれば、えいがにいきたいです。	If I have time, I want to go to a movie.	Hypothetical condition	条件 + ば + 希望	Conditional desire	If time exists, want to go	と conditional (automatic)	[sound:a8837c12fd99.mp3]	module:02-n4 jlpt:n4 point:ば complexity:standard frequency:top10k source:shin-kanzen sense:conditionals

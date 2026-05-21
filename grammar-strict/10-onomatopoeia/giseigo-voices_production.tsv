@@ -2,35 +2,34 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Production
+#deck:Japanese Grammar::10 - Onomatopoeia::Production
 
-Woof woof.	animal voice	わんわん	ワンワン	actual sound	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Meow.	animal voice	にゃー	ニャー	actual sound	[sound:47d9e36d59dd.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Cock-a-doodle-doo.	animal voice	こけこっこー	コケコッコー	actual sound	[sound:93b6dedc98e1.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Ribbit ribbit.	animal voice	けろけろ	ケロケロ	actual sound	[sound:b88990383761.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Moo.	animal voice	もーもー	モーモー	actual sound	[sound:2014291e78d6.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Oink oink.	animal voice	ぶーぶー	ブーブー	actual sound	[sound:c290aa4fc780.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Chirp chirp.	animal voice	ちゅんちゅん	チュンチュン	actual sound	[sound:98eeb9025bd8.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Neigh/whinny.	animal voice	ひーひー	ヒーヒー	actual sound	[sound:f66b1943c4da.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Quack quack.	animal voice	がーがー	ガーガー	actual sound	[sound:748f805710df.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Meow meow.	animal voice	にゃーにゃー	ニャーニャー	actual sound	[sound:b52e76022102.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Bleat bleat.	animal voice	めーめー	メーメー	actual sound	[sound:9b20d222090b.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Coo coo.	animal voice	ぐーぐー	グーグー	actual sound	[sound:1685633fdc05.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Buzzing.	animal voice	じーじー	ジージー	actual sound	[sound:831f2d9d5b46.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Meow shrill.	animal voice	みーみー	ミーミー	actual sound	[sound:b37d98b1be5a.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Barking loud.	animal voice	じゃーじゃー	ジャージャー	actual sound	[sound:e6856bee684a.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Hoot hoot.	animal voice	ほーほー	ホーホー	actual sound	[sound:ebcd3962f4d1.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Caw caw.	animal voice	かあかあ	カアカア	actual sound	[sound:7d46817fb0c9.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Cat purring.	animal voice	ごろごろ	ゴロゴロ	actual sound	[sound:938a3cd2d0da.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Cat hissing.	animal voice	しゃー	シャー	actual sound	[sound:49c9f6a0e6a2.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Bird squawking.	animal voice	きゃーきゃー	キャーキャー	actual sound	[sound:edb19ea1ac24.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Mouse squeak.	animal voice	くるくる	クルクル	actual sound	[sound:c08cecdc3d07.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Heavy breathing.	animal voice	ふごふご	フゴフゴ	actual sound	[sound:656ad896dd98.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Rabbit hopping.	animal voice	ぱたぱた	パタパタ	actual sound	[sound:7f9b03813dbb.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Goose honking.	animal voice	びゃーびゃー	ビャービャー	actual sound	[sound:aebb5b3fab03.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Bird wing flap.	animal voice	ばっばっ	バッバッ	actual sound	[sound:b89d85e0f22b.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Insect drone.	animal voice	じーっ	ジーッ	actual sound	[sound:6dd371a72acd.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Loud crunching.	animal voice	ばりばり	バリバリ	actual sound	[sound:6795a8db4f92.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Dog howling.	animal voice	わおーん	ワオーン	actual sound	[sound:d257e9287650.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-Bird chirping.	animal voice	ちゅっちゅっ	チュッチュッ	actual sound	[sound:1f54d180b394.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Woof woof.	animal voice	わんわん	ワンワン	giseigo: dog's sustained bark — alarm or greeting; repeated voiced vocalization	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Meow.	animal voice	にゃー	ニャー	giseigo: single cat meow — soft feline call; greeting, request, or complaint	[sound:47d9e36d59dd.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Cock-a-doodle-doo.	animal voice	こけこっこー	コケコッコー	giseigo: rooster's dawn crow — alternating pitch announces morning arrival	[sound:93b6dedc98e1.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Ribbit ribbit.	animal voice	けろけろ	ケロケロ	giseigo: frog's ribbit — repeated nasal croak; wet environment vocalization	[sound:b88990383761.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Moo.	animal voice	もーもー	モーモー	giseigo: cow's moo — rounded labials mimic deep bovine resonance	[sound:2014291e78d6.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Oink oink.	animal voice	ぶーぶー	ブーブー	giseigo: pig's oink — nasal labial sounds; pig grunt and snuffle	[sound:c290aa4fc780.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Chirp chirp.	animal voice	ちゅんちゅん	チュンチュン	giseigo: sparrow's chirp — light staccato call; small garden bird	[sound:98eeb9025bd8.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Neigh/whinny.	animal voice	ひーひー	ヒーヒー	giseigo: horse's high neigh — elongated front vowel; distress or excitement	[sound:f66b1943c4da.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Quack quack.	animal voice	がーがー	ガーガー	giseigo: duck's quack — harsh nasal vowel; waterfowl alarm or feeding call	[sound:748f805710df.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Meow meow.	animal voice	にゃーにゃー	ニャーニャー	giseigo: cat's persistent meowing — repeated demand or prolonged expression	[sound:b52e76022102.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Bleat bleat.	animal voice	めーめー	メーメー	giseigo: sheep's bleat — nasal /m/ + elongated vowel; sheep or goat call	[sound:9b20d222090b.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Coo coo.	animal voice	ぐーぐー	グーグー	giseigo: dove's soft coo — rounded back vowels; peaceful resting bird	[sound:1685633fdc05.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Buzzing.	animal voice	じーじー	ジージー	giseigo: insect buzzing drone — continuous sibilant; cicadas or flies	[sound:831f2d9d5b46.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Meow shrill.	animal voice	みーみー	ミーミー	giseigo: high-pitched shrill meow — small animal insistent call	[sound:b37d98b1be5a.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Barking loud.	animal voice	じゃーじゃー	ジャージャー	giseigo: large dog's continuous alarm bark — sustained loud vocalization	[sound:e6856bee684a.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Hoot hoot.	animal voice	ほーほー	ホーホー	giseigo: owl's hoot — resonant rounded vowels; nocturnal atmospheric call	[sound:ebcd3962f4d1.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Caw caw.	animal voice	かあかあ	カアカア	giseigo: crow's harsh caw — open vowel repetition; scavenging or ominous bird	[sound:7d46817fb0c9.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Cat purring.	animal voice	ごろごろ	ゴロゴロ	giseigo: cat's deep purring — low vibrating resonance; contentment state	[sound:938a3cd2d0da.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Cat hissing.	animal voice	しゃー	シャー	giseigo: cat's aggressive hiss — sharp sibilant; threat or warning display	[sound:49c9f6a0e6a2.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Bird squawking.	animal voice	きゃーきゃー	キャーキャー	giseigo: high-pitched distress squawk — bird alarm or excited crowd shriek	[sound:edb19ea1ac24.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Mouse squeak.	animal voice	くるくる	クルクル	giseigo: mouse's thin squeak — small rodent high-frequency call	[sound:c08cecdc3d07.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Heavy breathing.	animal voice	ふごふご	フゴフゴ	giseigo: labored heavy breathing — obstructed nasal respiration; effort or illness	[sound:656ad896dd98.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Rabbit hopping.	animal voice	ぱたぱた	パタパタ	giseigo: rabbit foot-thumping — light plosive rhythm; hopping or alarm signal	[sound:7f9b03813dbb.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Goose honking.	animal voice	びゃーびゃー	ビャービャー	giseigo: goose's harsh honk — high nasal; distressed or territorial call	[sound:aebb5b3fab03.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Bird wing flap.	animal voice	ばっばっ	バッバッ	giseigo: bird wing-beat sound — sharp plosive mimics stroke of wings	[sound:b89d85e0f22b.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Insect drone.	animal voice	じーっ	ジーッ	giseigo: sustained insect drone — prolonged sibilant; cicada or mosquito	[sound:6dd371a72acd.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Loud crunching.	animal voice	ばりばり	バリバリ	giseigo: aggressive loud crunching — forceful jaw movement; eating hard food	[sound:6795a8db4f92.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Dog howling.	animal voice	わおーん	ワオーン	giseigo: dog's mournful howl — elongated vowel; loneliness or response to sound	[sound:d257e9287650.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+Bird chirping.	animal voice	ちゅっちゅっ	チュッチュッ	giseigo: bird's short staccato chirps — quick communication calls	[sound:1f54d180b394.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar

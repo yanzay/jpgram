@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+#deck:Japanese Grammar::04 - N2 Grammar::Production
 
 "Say ""I had no choice but to accept the result"" using ざるを得ない."	ざるを得ない	けっかをうけいれざるをえなかった。	結果を受け入れざるを得なかった。	"ざるを得なかった = literary past tense of ""had no choice but"""	[sound:4fc882ab63ab.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:advanced frequency:top5k source:shin-kanzen source:authored frequency:low complexity:standard
 "Say ""he was forced to apologize (literary register)"" using ざるを得ない."	ざるを得ない	かれはあやまらざるをえなかった。	彼は謝らざるを得なかった。	ざるを得ない = literary forced action; common in formal writing	[sound:6fb975a2c09d.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:advanced frequency:top5k source:shin-kanzen source:authored complexity:standard

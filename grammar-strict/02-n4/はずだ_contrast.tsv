@@ -2,40 +2,10 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
-
-彼が犯人にちがいない。	はずだ	と思う	にちがいない	にちがいない = must be/surely is (high confidence)	He must be the culprit	[sound:75044f24a2d3.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top10k complexity:intro source:shin-kanzen
-明日は雨が降るにちがいない。	はずだ	と思う	にちがいない	にちがいない = definitely will (strong inference)	It will definitely rain tomorrow	[sound:55173c8368b2.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top1k complexity:standard source:shin-kanzen
-彼はもう来ているはずだ。	にちがいない	と思う	はずだ	はずだ = expected/should have	He should already be here	[sound:de142b627cd5.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top10k complexity:intro source:shin-kanzen
-この試験は難しいはずだ。	にちがいない	と思う	はずだ	はずだ = predicted/expected	This exam should be difficult	[sound:fe79a9905004.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top5k complexity:intro source:shin-kanzen
-彼はいい人だと思う。	にちがいない	はずだ	と思う	と思う = personal opinion/belief	I think he's a good person	[sound:db1e2b83ce6e.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top5k complexity:intro source:shin-kanzen
-明日は天気がいいと思う。	にちがいない	はずだ	と思う	と思う = personal prediction	I think tomorrow will be nice	[sound:bcb16d89b0b6.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top5k complexity:intro source:shin-kanzen
-彼が優勝するにちがいない。	はずだ	と思う	にちがいない	にちがいない = certain/inevitable	He's sure to win	[sound:2e3b366c6956.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top10k complexity:standard source:shin-kanzen
-この計画は成功するはずだ。	にちがいない	と思う	はずだ	はずだ = reasonable expectation	This plan should succeed	[sound:3f08c8a002d6.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top10k complexity:standard source:shin-kanzen
-彼女は怒っていると思う。	にちがいない	はずだ	と思う	と思う = subjective impression	I think she's angry	[sound:d9d25c1cffcd.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top5k complexity:intro source:shin-kanzen
-その事件は未解決にちがいない。	はずだ	と思う	にちがいない	にちがいない = must be/surely	That incident must be unsolved	[sound:00ff92e19bfb.mp3]	module:02-n4 jlpt:n4 register:formal point:はずだ pos:expr frequency:top10k complexity:standard source:shin-kanzen
-彼はここへ来ぬ	いかない	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:b426e4836034.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi jlpt:n4 source:shin-kanzen
-それはせぬことだ	しないことだ	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:7cb77239c0d3.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-此の剣ざるべし	この剣ではない（はず）	modern form	古典形	古典 ざる vs 現代 ない	古典と現代の対比	[sound:243fe7d40498.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-去るべし	行くはずだ	modern form	古典形	古典 べし vs 現代 はずだ	古典と現代の対比	[sound:1009e1c92816.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi jlpt:n4 source:shin-kanzen
-王なりし	王だった	modern form	古典形	古典 ましし vs 現代 だった	古典と現代の対比	[sound:114549de77c4.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi jlpt:n4 source:shin-kanzen
-するな	するな	modern form	古典形	古典 な禁止 vs 現代 な禁止	古典と現代の対比	[sound:3821b0ca69c5.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-ねばならぬ	しなければならない	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:732a3eeb83d3.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-未だ知らざり	まだ知らなかった	modern form	古典形	古典 ざり vs 現代 なかった	古典と現代の対比	[sound:ab43e9d5182a.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi jlpt:n4 source:shin-kanzen
-此の事あり	この事がある	modern form	古典形	古典 あり vs 現代 ある	古典と現代の対比	[sound:7d49077da8dd.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top5k source:imabi jlpt:n4 source:shin-kanzen
-王たり	王である	modern form	古典形	古典 たり vs 現代 である	古典と現代の対比	[sound:fe345c7bf3d0.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi jlpt:n4 source:shin-kanzen
-去らぬ	行かない	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:7ed4633ef098.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-見たり	見た	modern form	古典形	古典 たり vs 現代 た	古典と現代の対比	[sound:066ee4917305.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-愛すべからず	愛すべきではない	modern form	古典形	古典 べからず vs 現代 べきではない	古典と現代の対比	[sound:d95ecd3f6288.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi jlpt:n4 source:shin-kanzen
-知れたり	知れた	modern form	古典形	古典 たり vs 現代 た	古典と現代の対比	[sound:ac7980d7edf6.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-人にあらず	人ではない	modern form	古典形	古典 あらず vs 現代 ではない	古典と現代の対比	[sound:01c7495a765b.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top1k source:imabi jlpt:n4 source:shin-kanzen
-言わぬ	言わない	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:b2b0135dbf44.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-来るべし	来るはずだ	modern form	古典形	古典 べし vs 現代 はずだ	古典と現代の対比	[sound:4029f2000aba.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top1k source:imabi jlpt:n4 source:shin-kanzen
-されたり	された	modern form	古典形	古典 たり vs 現代 た	古典と現代の対比	[sound:6a9e2ab40377.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-往かぬ	行かない	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:99c28369086a.mp3]	module:02-n4 point:はずだ complexity:intro source:imabi jlpt:n4 source:shin-kanzen
-為りたり	なった	modern form	古典形	古典 たり vs 現代 た	古典と現代の対比	[sound:3cbdfbef463c.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top5k source:imabi jlpt:n4 source:shin-kanzen
-知るぞ	知るのだ	modern form	古典形	古典 ぞ vs 現代 のだ	古典と現代の対比	[sound:5aace5cfd11f.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top1k source:imabi jlpt:n4 source:shin-kanzen
-無し	ない	modern form	古典形	古典 無し vs 現代 ない	古典と現代の対比	[sound:583066c0e658.mp3]	module:02-n4 point:はずだ complexity:intro frequency:top10k source:imabi jlpt:n4 source:shin-kanzen
-果てぬ	果てない	modern form	古典形	古典 ぬ vs 現代 ない	古典と現代の対比	[sound:82192e8322ce.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi jlpt:n4 source:shin-kanzen
-結びたり	結んだ	modern form	古典形	古典 たり vs 現代 た	古典と現代の対比	[sound:34a61d04139b.mp3]	module:02-n4 point:はずだ complexity:intro frequency:low source:imabi jlpt:n4 source:shin-kanzen
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
+彼はもう到着している___。（論理的期待）	はずだ	にちがいない	はずだ	はずだ: logical expectation — he should be here by now (based on schedule/reasoning)	expectation=はずだ	[sound:548a5bdc01be.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard confusable-with:にちがいない source:shin-kanzen scaffold:pending-audio
+あんなに練習したから、彼が優勝した___。（確信）	はずだ	にちがいない	にちがいない	にちがいない: confident assertion — no doubt he won; higher certainty than はずだ	certainty=にちがいない	[sound:70f37c6e1c71.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard confusable-with:にちがいない source:shin-kanzen scaffold:pending-audio
+もっと勉強すれば合格できた___。（過去の後悔）	はずだ	はずだった	はずだった	はずだった: expected but didn't happen — unfulfilled expectation (past counterfactual)	unfulfilled=はずだった	[sound:46c3d264817f.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard confusable-with:はずだった source:shin-kanzen scaffold:pending-audio
+この薬を飲めば、熱が下がる___。（当然の帰結）	はずだ	べきだ	はずだ	はずだ: expected natural outcome (should go down); べきだ: moral/logical obligation	natural outcome=はずだ; obligation=べきだ	[sound:5b65cdd3abc3.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard confusable-with:べきだ source:shin-kanzen scaffold:pending-audio
+嘘をついてはいけない___。（道徳的義務）	はずだ	べきだ	べきだ	べきだ: moral obligation — one ought to do X; not about expectation	moral=べきだ	[sound:4cea94527650.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard confusable-with:べきだ source:shin-kanzen scaffold:pending-audio
+彼女は10時には来る___のに、まだ来ない。（期待外れ）	はずだ	にちがいない	はずだ	はずだ + のに: expectation unmet — she should be here by 10 but she isn't	expectation unmet=はずだ+のに	[sound:0247424e7fc3.mp3]	module:02-n4 jlpt:n4 point:はずだ complexity:standard confusable-with:にちがいない source:shin-kanzen scaffold:pending-audio

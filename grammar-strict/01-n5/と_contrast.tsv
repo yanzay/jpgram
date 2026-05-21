@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
 
 春になると、___ vs 春なら、___。	桜が咲く	桜が好きだ	桜が咲く	と = automatic result	と = what naturally happens	[sound:e58b3f9e76d1.mp3]	module:01-n5 jlpt:n5 register:neutral point:と pos:expr frequency:top1k complexity:standard confusable-with:桜が好きだ source:shin-kanzen sense:conditionals
 水を熱すると、___ vs 水を熱せば、___。	沸く	沸くはず	沸く	と = automatic law	と = expected outcome	[sound:ed2457124569.mp3]	module:01-n5 jlpt:n5 register:neutral point:と pos:expr frequency:low complexity:standard confusable-with:沸くはず source:shin-kanzen sense:conditionals

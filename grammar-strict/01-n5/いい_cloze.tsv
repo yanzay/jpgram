@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Cloze
+#deck:Japanese Grammar::01 - N5 Grammar::Cloze
 
 暑{{c1::い}}です。	あつ{{c1::い}}です。	it is hot [polite]	[sound:685082d0018b.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen
 暑{{c1::かった}}です。	あつ{{c1::かった}}です。	it was hot [past]	[sound:b184715a9d8a.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen

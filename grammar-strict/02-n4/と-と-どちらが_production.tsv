@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 Between dogs and cats, which do you like better?	犬と猫と、どちらが好きですか。	いぬとねこと、どちらがすきですか。	犬と猫と、どちらが好きですか。	two-option preference question	[sound:67be9c56fcdb.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored source:shin-kanzen frequency:top1k complexity:standard
 Between Tokyo and Osaka, which is easier to live in?	東京と大阪と、どちらが住みやすいですか。	とうきょうとおおさかと、どちらがすみやすいですか。	東京と大阪と、どちらが住みやすいですか。	city comparison question	[sound:5c06ed969c07.mp3]	module:02-n4 jlpt:n4 point:と-と-どちらが source:authored source:shin-kanzen frequency:top10k complexity:standard

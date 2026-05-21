@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-It might rain tomorrow.	明日は雨が降るかもしれません。	あしたはあめがふるかもしれません。	明日は雨が降るかもしれません。	weather uncertainty	[sound:810e5eb22d11.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top1k complexity:standard
-He might not come, you know.	彼は来ないかもしれないですね。	かれはこないかもしれないですね。	彼は来ないかもしれないですね。	uncertain about someone's attendance	[sound:719ecafca238.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
-If you take this medicine, you might feel better.	この薬を飲めば、もっと楽になるかもしれません。	このくすりをのめば、もっとらくになるかもしれません。	この薬を飲めば、もっと楽になるかもしれません。	conditional possibility	[sound:572055b94256.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
-My interpretation might be wrong.	私の解釈が間違っているかもしれません。	わたしのかいしゃくがまちがっているかもしれません。	私の解釈が間違っているかもしれません。	uncertainty about own understanding	[sound:18fcfdc9239a.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
-If I try a little harder, I might win.	もう少し頑張れば、優勝できるかもしれない。	もうすこしがんばれば、ゆうしょうできるかもしれない。	もう少し頑張れば、優勝できるかもしれない。	motivation through possibility	[sound:621ca30ca1b4.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
+It might rain tomorrow.	明日は雨が降るかもしれません。	あしたはあめがふるかもしれません。	明日は雨が降るかもしれません。	かもしれない: possibility modal — might/maybe X; less certain than だろう	[sound:810e5eb22d11.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top1k complexity:standard
+He might not come, you know.	彼は来ないかもしれないですね。	かれはこないかもしれないですね。	彼は来ないかもしれないですね。	かもしれない vs だろう: certainty — かもしれない ≈ 50%; だろう ≈ 70%	[sound:719ecafca238.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
+If you take this medicine, you might feel better.	この薬を飲めば、もっと楽になるかもしれません。	このくすりをのめば、もっとらくになるかもしれません。	この薬を飲めば、もっと楽になるかもしれません。	かもしれない: neutral speculation — no emotional weight; just uncertainty	[sound:572055b94256.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
+My interpretation might be wrong.	私の解釈が間違っているかもしれません。	わたしのかいしゃくがまちがっているかもしれません。	私の解釈が間違っているかもしれません。	かもしれない vs と思う: source — かもしれない = possibility; と思う = speaker's view	[sound:18fcfdc9239a.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard
+If I try a little harder, I might win.	もう少し頑張れば、優勝できるかもしれない。	もうすこしがんばれば、ゆうしょうできるかもしれない。	もう少し頑張れば、優勝できるかもしれない。	かもしれない: written/spoken — appropriate in all registers	[sound:621ca30ca1b4.mp3]	module:02-n4 jlpt:n4 point:かもしれない source:authored source:shin-kanzen frequency:top10k complexity:standard

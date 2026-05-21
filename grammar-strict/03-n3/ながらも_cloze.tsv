@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
 実はあんなに勉強したのに、{{c1::試験に落ちた}}。	じつはあんなにべんきょうしたのに、{{c1::しけんにおちた}}。	Studied so much, yet failed exam.	[sound:a5720ece0223.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen
 実は毎日練習しているのに、{{c1::上手にならない}}。	じつはまいにちれんしゅうしているのに、{{c1::じょうずにならない}}。	Practice daily, yet don't improve.	[sound:35b9e59d29cf.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top10k source:shin-kanzen

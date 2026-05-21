@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+#deck:Japanese Grammar::13 - L1 Interference::Contrast
 
 日本に住んでいます	日本に住みます	日本に住んでいます	日本に住んでいます	I am living in Japan (state)	State/resultative requires ている	[sound:82ff0fd4da6b.mp3]	module:13-l1 point:l1-tense-aspect frequency:top10k complexity:intro confusable-with:日本に住みます source:curated-jpgram
 彼女がいます	彼女をいます	彼女がいます	彼女がいます	I have a girlfriend (state)	State/resultative requires ている	[sound:8211be96f404.mp3]	module:13-l1 point:l1-tense-aspect frequency:top5k complexity:intro confusable-with:彼女をいます source:curated-jpgram

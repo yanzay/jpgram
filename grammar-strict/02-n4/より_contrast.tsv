@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 水___飲みました。	だけ	しか	だけ	だけ = neutral only; no negation. しか = only (requires negation).	Positive verb → だけ. Negative → しか.	[sound:02c52cf0d6fe.mp3]	module:02-n4 jlpt:n4 point:より complexity:intro confusable-with:しか frequency:top1k source:shin-kanzen
 間違い___します。	ばかり	だけ	ばかり	ばかり = emphasis on repetition/excess. だけ = neutral.	Mistakes keep happening → ばかり.	[sound:cd69dc6ba476.mp3]	module:02-n4 jlpt:n4 point:より complexity:intro confusable-with:だけ frequency:top10k source:shin-kanzen

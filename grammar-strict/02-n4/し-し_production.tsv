@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-This apartment is cheap, and it's close to the station — it's perfect.	このアパートは安いし、駅にも近いし、最高です。	このあぱーとはやすいし、えきにもちかいし、さいこうです。	このアパートは安いし、駅にも近いし、最高です。	two reasons, positive conclusion	[sound:41a6c5a175ce.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
-He's smart, and kind, and popular.	彼は頭もいいし、優しいし、人気があります。	かれはあたまもいいし、やさしいし、にんきがあります。	彼は頭もいいし、優しいし、人気があります。	listing positive qualities	[sound:758436b3f38a.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
-It's raining, and I'm tired, so I'm staying home today.	雨も降っているし、疲れているし、今日は家にいます。	あめもふっているし、つかれているし、きょうはいえにいます。	雨も降っているし、疲れているし、今日は家にいます。	multiple reasons for decision	[sound:4584ebc11e32.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
-I'm hungry and I have time, so let's go for lunch.	お腹も空いたし、時間もあるし、ランチに行こう。	おなかもあいたし、じかんもあるし、らんちにいこう。	お腹も空いたし、時間もあるし、ランチに行こう。	reasons leading to suggestion	[sound:8db3d2214c7b.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:low complexity:standard
-She's good at singing and dancing — she's truly talented.	彼女は歌もうまいし、踊りもうまいし、本当に才能がある。	かのじょはうたもうまいし、おどりもうまいし、ほんとうにさいのうがある。	彼女は歌もうまいし、踊りもうまいし、本当に才能がある。	two skills support talent claim	[sound:f0e3fe2aa0ef.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
+This apartment is cheap, and it's close to the station — it's perfect.	このアパートは安いし、駅にも近いし、最高です。	このあぱーとはやすいし、えきにもちかいし、さいこうです。	このアパートは安いし、駅にも近いし、最高です。	し: parallel reason listing — X し Y し = both X and Y (as multiple reasons)	[sound:41a6c5a175ce.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
+He's smart, and kind, and popular.	彼は頭もいいし、優しいし、人気があります。	かれはあたまもいいし、やさしいし、にんきがあります。	彼は頭もいいし、優しいし、人気があります。	し: stacking causes — lists cumulative reasons for a conclusion	[sound:758436b3f38a.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
+It's raining, and I'm tired, so I'm staying home today.	雨も降っているし、疲れているし、今日は家にいます。	あめもふっているし、つかれているし、きょうはいえにいます。	雨も降っているし、疲れているし、今日は家にいます。	し: softened enumeration — less exhaustive than て; suggests there are more	[sound:4584ebc11e32.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard
+I'm hungry and I have time, so let's go for lunch.	お腹も空いたし、時間もあるし、ランチに行こう。	おなかもあいたし、じかんもあるし、らんちにいこう。	お腹も空いたし、時間もあるし、ランチに行こう。	〜し〜し: two-part reason — gives two examples of supporting evidence	[sound:8db3d2214c7b.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:low complexity:standard
+She's good at singing and dancing — she's truly talented.	彼女は歌もうまいし、踊りもうまいし、本当に才能がある。	かのじょはうたもうまいし、おどりもうまいし、ほんとうにさいのうがある。	彼女は歌もうまいし、踊りもうまいし、本当に才能がある。	し: casual discourse connector — common in spoken Japanese for listing facts	[sound:f0e3fe2aa0ef.mp3]	module:02-n4 jlpt:n4 point:し-し source:authored source:shin-kanzen frequency:top10k complexity:standard

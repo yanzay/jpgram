@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
 
 私は___。	行こう	行きましょう	行こう	plain volitional vs polite suggestion	よう = plain / ましょう = polite	[sound:73d2a740a324.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr frequency:top1k complexity:intro confusable-with:行きましょう source:shin-kanzen
 一緒に___。	食べよう	食べましょう	食べましょう	casual group action vs polite proposal	ましょう = more formal	[sound:cc73f3d7f44f.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr frequency:top1k complexity:intro confusable-with:食べよう source:shin-kanzen

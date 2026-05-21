@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Recognition
+#deck:Japanese Grammar::13 - L1 Interference::Recognition
 
 日本に住んでいます	にっぽんにすんでいます	I am living in Japan (state)	contrast-derived	日本に住んでいます	I am living in Japan (state)	State/resultative requires ている	日本に住みます vs 日本に住んでいます	[sound:82ff0fd4da6b.mp3]	module:13-l1 point:l1-tense-aspect frequency:top10k complexity:intro confusable-with:日本に住みます source:curated-jpgram
 彼女がいます	かのじょがいます	I have a girlfriend (state)	contrast-derived	彼女がいます	I have a girlfriend (state)	State/resultative requires ている	彼女をいます vs 彼女がいます	[sound:8211be96f404.mp3]	module:13-l1 point:l1-tense-aspect frequency:top5k complexity:intro confusable-with:彼女をいます source:curated-jpgram
@@ -30,6 +29,6 @@
 その時、彼はもう帰っていました	そのとき、かれはもうかえっていました	By that time, he had already left	contrast-derived	その時、彼はもう帰っていました	By that time, he had already left	State/resultative requires ている	その時、彼はもう帰ります vs その時、彼はもう帰っていました	[sound:257f903ad766.mp3]	module:13-l1 point:l1-tense-aspect frequency:top5k complexity:standard confusable-with:その時-彼はもう帰ります source:curated-jpgram
 私たちはすでに準備をしていました	わたしたちはすでにじゅんびをしていました	We had already prepared	contrast-derived	私たちはすでに準備をしていました	We had already prepared	State/resultative requires ている	私たちはすでに準備をします vs 私たちはすでに準備をしていました	[sound:126d4e540d49.mp3]	module:13-l1 point:l1-tense-aspect frequency:top5k complexity:standard confusable-with:私たちはすでに準備をします source:curated-jpgram
 昨日、勉強していました	きのう、べんきょうしていました	I was studying yesterday (ongoing past)	contrast-derived	昨日、勉強していました	I was studying yesterday (ongoing past)	State/resultative requires ている	昨日、勉強します vs 昨日、勉強していました	[sound:c4e68f833c92.mp3]	module:13-l1 point:l1-tense-aspect frequency:top1k complexity:intro confusable-with:昨日-勉強します source:curated-jpgram
-朝、8時に寝ていました	あさ、8ときにねていました	I was sleeping at 8 in the morning	contrast-derived	朝、8時に寝ていました	I was sleeping at 8 in the morning	State/resultative requires ている	朝、8時に寝ます vs 朝、8時に寝ていました	[sound:6945b63fc45b.mp3]	module:13-l1 point:l1-tense-aspect frequency:top1k complexity:intro confusable-with:朝-8時に寝ます source:curated-jpgram
-6月までに、卒業しているでしょう	6がつまでに、そつぎょうしているでしょう	By June, I will have graduated	contrast-derived	6月までに、卒業しているでしょう	By June, I will have graduated	State/resultative requires ている	6月までに、卒業するでしょう vs 6月までに、卒業しているでしょう	[sound:49d09771edf8.mp3]	module:13-l1 point:l1-tense-aspect frequency:top5k complexity:standard confusable-with:6月までに-卒業するでしょう source:curated-jpgram
+朝、8時に寝ていました	あさ、はちじにねていました	I was sleeping at 8 in the morning	contrast-derived	朝、8時に寝ていました	I was sleeping at 8 in the morning	State/resultative requires ている	朝、8時に寝ます vs 朝、8時に寝ていました	[sound:6945b63fc45b.mp3]	module:13-l1 point:l1-tense-aspect frequency:top1k complexity:intro confusable-with:朝-8時に寝ます source:curated-jpgram
+6月までに、卒業しているでしょう	ろくがつまでに、そつぎょうしているでしょう	By June, I will have graduated	contrast-derived	6月までに、卒業しているでしょう	By June, I will have graduated	State/resultative requires ている	6月までに、卒業するでしょう vs 6月までに、卒業しているでしょう	[sound:49d09771edf8.mp3]	module:13-l1 point:l1-tense-aspect frequency:top5k complexity:standard confusable-with:6月までに-卒業するでしょう source:curated-jpgram
 来週までに、終わっているはずです	らいしゅうまでに、おわっているはずです	It should be finished by next week	contrast-derived	来週までに、終わっているはずです	It should be finished by next week	State/resultative requires ている	来週までに、終わるはずです vs 来週までに、終わっているはずです	[sound:e727c9078c6e.mp3]	module:13-l1 point:l1-tense-aspect frequency:top1k complexity:standard confusable-with:来週までに-終わるはずです source:curated-jpgram

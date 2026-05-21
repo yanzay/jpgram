@@ -2,10 +2,10 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
+#deck:Japanese Grammar::01 - N5 Grammar::Recognition
 
-どの本が好きですか。	どのほんがすきですか。	Which book do you like?	どの (which + Noun)	どの + Noun	asks which (of three or more)		どの three+ options; どちら for two	[sound:e2a2d05609fe.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
-どのバスに乗りますか。	どのばすにのりますか。	Which bus will you take?	どの (which + Noun)	どの + Noun	asks which (of three or more)		どの three+ options; どちら for two	[sound:da66cfc4fb62.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
-どの色がいいですか。	どのいろがいいですか。	Which color is good?	どの (which + Noun)	どの + Noun	asks which (of three or more)		どの three+ options; どちら for two	[sound:aa1e3323eca2.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
-どの店に行きましょうか。	どのみせにいきましょうか。	Which store shall we go to?	どの (which + Noun)	どの + Noun	asks which (of three or more)		どの three+ options; どちら for two	[sound:8d3890e4f387.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top10k complexity:intro
-どの人が先生ですか。	どのひとがせんせいですか。	Which person is the teacher?	どの (which + Noun)	どの + Noun	asks which (of three or more)		どの three+ options; どちら for two	[sound:c9181c9d34bf.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
+どの本が好きですか。	どのほんがすきですか。	Which book do you like?	どの (which + Noun)	どの + Noun	asks which (of three or more)	asking among many books	どの three+ options; どちら for two	[sound:e2a2d05609fe.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
+どのバスに乗りますか。	どのばすにのりますか。	Which bus will you take?	どの (which + Noun)	どの + Noun	asks which (of three or more)	choice among buses	どの three+ options; どちら for two	[sound:da66cfc4fb62.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
+どの色がいいですか。	どのいろがいいですか。	Which color is good?	どの (which + Noun)	どの + Noun	asks which (of three or more)	asking preference	どの three+ options; どちら for two	[sound:aa1e3323eca2.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro
+どの店に行きましょうか。	どのみせにいきましょうか。	Which store shall we go to?	どの (which + Noun)	どの + Noun	asks which (of three or more)	asking destination	どの three+ options; どちら for two	[sound:8d3890e4f387.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top10k complexity:intro
+どの人が先生ですか。	どのひとがせんせいですか。	Which person is the teacher?	どの (which + Noun)	どの + Noun	asks which (of three or more)	identifying person	どの three+ options; どちら for two	[sound:c9181c9d34bf.mp3]	module:01-n5 jlpt:n5 point:どの source:authored source:shin-kanzen frequency:top1k complexity:intro

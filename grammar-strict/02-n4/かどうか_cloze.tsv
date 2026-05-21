@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 ところで雨が降ろうとしている{{c1::ところが}}、彼は外に出た。	ところであめがふろうとしている{{c1::ところが}}、かれはそとにでた。	ところが	[sound:3d5ded99fdf3.mp3]	module:02-n4 jlpt:n4 point:かどうか complexity:standard frequency:top10k source:shin-kanzen
 ところで危うく事故に遭う{{c1::ところだった}}。	ところであやうくじこにあう{{c1::ところだった}}。	ところだった	[sound:a6ab61d73e91.mp3]	module:02-n4 jlpt:n4 point:かどうか complexity:standard frequency:top10k source:shin-kanzen

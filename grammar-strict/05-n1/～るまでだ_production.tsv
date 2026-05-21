@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+#deck:Japanese Grammar::05 - N1 Grammar::Production
 
 If I fail, all I have to do is try again.	失敗したら、またやり直すまでだ。	しっぱいしたら、またやりなおすまでだ。	失敗したら、またやり直すまでだ。	〜るまでだ: calm resolve reduces failure to just restarting	[sound:cd752da891db.mp3]	module:05-n1 jlpt:n1 point:～るまでだ source:authored source:shin-kanzen frequency:top5k complexity:standard
 If it doesn't work, the only thing left is to give up.	ダメなら諦めるまでだ。	だめならあきらめるまでだ。	ダメなら諦めるまでだ。	〜るまでだ: giving up is the calm final fallback	[sound:c189969e6c5a.mp3]	module:05-n1 jlpt:n1 point:～るまでだ source:authored source:shin-kanzen frequency:top10k complexity:intro

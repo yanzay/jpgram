@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
 彼女は{{c1::笑ってばかり}}いた。	かのじょは{{c1::わらってばかり}}いた。	smiled repeatedly (and did nothing else)	[sound:d4166dd9f4a7.mp3]	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:top5k complexity:intro source:shin-kanzen
 新しい服を買ったばかりに、{{c1::破れてしまった}}。	あたらしいふくをかったばかりに、{{c1::やぶれてしまった}}。	tore immediately after purchase	[sound:b6999abd34ac.mp3]	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:top5k frequency:top1k source:shin-kanzen

@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 {{c1::彼は学生らしいです。}}	かれはがくせいらしいです。	typical quality	[sound:6d01c5a1c973.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
 {{c1::明日は雨のようです。}}	あしたはあめのようです。	appearance/conjecture	[sound:89fed13423dc.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top1k complexity:intro source:shin-kanzen sense:evidentials

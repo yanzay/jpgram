@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
 
 兄が妹に宿題を教えた。	あげる	もらう	あげる	brother does action	あげる = giver perspective	[sound:8665c1c390d9.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:intro confusable-with:もらう source:shin-kanzen
 妹が兄に宿題を教えてもらった。	あげる	もらう	もらう	sister receives	もらう = receiver perspective	[sound:11de1e3c7a4b.mp3]	module:01-n5 jlpt:n5 point:あげる frequency:top10k complexity:standard confusable-with:あげる source:shin-kanzen

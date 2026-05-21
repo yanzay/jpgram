@@ -1,12 +1,17 @@
 # Japanese Grammar Anki Package (Strict Deck)
 
 A Bunpro-atomic Japanese-grammar Anki deck covering all 945 Bunpro grammar
-points from N5 through N1, with two card types per point: **Recognition** and
-**Production**. Each point has exactly 5 authored sentences with readings,
-translations, and pedagogical `why` notes.
+points from N5 through N1, with two primary card types per point:
+**Recognition** and **Production**, plus secondary Cloze / Contrast /
+Dictation / Listening cards on a subset of points.
 
-> **Status:** Complete. All 945 Bunpro grammar points authored across N5–N1.
-> Bunpro reverse coverage: 100% (945/945). Audit: PASS.
+> **Status:** Coverage 100% (945/945 Bunpro points). **Content-quality
+> remediation in progress** — see
+> [`research-reports/AUDIT_2026-05-19_SUMMARY.md`](research-reports/AUDIT_2026-05-19_SUMMARY.md)
+> and [`IMPROVEMENT_PLAN.md`](IMPROVEMENT_PLAN.md). Until Phase 2 lands,
+> ~70% of secondary cards (cloze/dictation/listening) and ~12% of production
+> files have known content/filename drift. The `coverage_audit.py` gate
+> verifies row counts, not row quality.
 
 ## Coverage
 
@@ -83,7 +88,9 @@ python build_audio.py              # synthesize all sentences
 
 Content lives in `content/<level>_strict_content.py` as a Python `CONTENT` dict.
 Each entry has `label`, `formula`, `main_use`, `contrast`, and `sentences`
-(exactly 5, each with `jp`, `en`, `why` ≤ 8 words).
+(target: 5 atomic sentences per point, each with `jp`, `en`, `why` ≤ 8 words).
+Some legacy files exceed the 5-sentence cap and are tracked in the
+improvement plan.
 
 After editing a content file, regenerate:
 
@@ -106,6 +113,16 @@ After editing a content file, regenerate:
 .venv/bin/python scripts/strict_deck_audit.py
 # Expected: strict_deck_audit: exit=0  bunpro_reverse_coverage: pct=100.0% covered=945/945
 ```
+
+**This script checks coverage only, not content quality.** For the
+content-quality audit and remediation roadmap see:
+
+- [`research-reports/AUDIT_2026-05-19_SUMMARY.md`](research-reports/AUDIT_2026-05-19_SUMMARY.md) — top-level findings
+- [`research-reports/audit_strict_correctness.md`](research-reports/audit_strict_correctness.md) — Japanese grammar/readings
+- [`research-reports/audit_strict_pedagogy.md`](research-reports/audit_strict_pedagogy.md) — card-design pedagogy
+- [`research-reports/audit_strict_secondary_cards.md`](research-reports/audit_strict_secondary_cards.md) — cloze/contrast/dictation defects
+- [`research-reports/audit_strict_en_consistency.md`](research-reports/audit_strict_en_consistency.md) — English glosses + cross-card consistency
+- [`IMPROVEMENT_PLAN.md`](IMPROVEMENT_PLAN.md) — prioritized fix roadmap
 
 ## License
 

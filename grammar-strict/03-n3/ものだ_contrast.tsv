@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 人は誰もが死ぬ___。	ことだ	ものだ	ものだ	ものだ = inevitable fact/natural; ことだ = literary 'one should'	Fact vs norm	[sound:e00340affea0.mp3]	module:03-n3 jlpt:n3 point:ものだ complexity:intro confusable-with:ことだ frequency:top1k source:shin-kanzen
 子供の頃、毎日遊ぶ___。	ことだった	ものだった	ものだった	ものだった = nostalgic habit; ことだった = not natural here	Nostalgia vs prescription	[sound:cb0bbc98f9a7.mp3]	module:03-n3 jlpt:n3 point:ものだ complexity:intro confusable-with:ことだった frequency:top1k source:shin-kanzen

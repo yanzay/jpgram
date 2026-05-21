@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 会議が___。	始まるところ	始まったところ	始まるところ	imminent future vs just happened	するところ = about to / したところ = just finished	[sound:eac1e99fa1bb.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:始まったところ source:shin-kanzen
 彼は___食べています。	食べるところ	食べているところ	食べているところ	about to eat vs actively eating	進行中 = currently happening	[sound:f452e543641b.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr frequency:top5k complexity:intro confusable-with:食べるところ source:shin-kanzen

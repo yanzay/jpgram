@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-There's nothing she doesn't know. She knows everything.	彼女が知らないことはない。何でも知っている。	かのじょがしらないことはない。なにでもしっている。	彼女が知らないことはない。何でも知っている。	double negative = total knowledge	[sound:e2635dc15540.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
-I've traveled the world so much there's almost nowhere I can't go.	行けない場所はないくらい、世界中を旅した。	いけないばしょはないくらい、せかいちゅうをたびした。	行けない場所はないくらい、世界中を旅した。	double negative intensifies breadth	[sound:b9a36ebba246.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
-There's nothing I can't eat. I eat anything.	食べられないものはない。何でも食べます。	たべられないものはない。なにでもたべます。	食べられないものはない。何でも食べます。	no food is off-limits	[sound:b378874b198b.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
-There's nothing I can't ask him. He always helps.	彼に頼めないことはない。いつも助けてくれる。	かれにたのめないことはない。いつもたすけてくれる。	彼に頼めないことはない。いつも助けてくれる。	total reliance expressed via double negative	[sound:e2cc0ec90187.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:low complexity:standard
-If you try, there's nothing you can't do.	努力すれば、できないことはない。	どりょくすれば、できないことはない。	努力すれば、できないことはない。	motivational double negative	[sound:8c31570af5fa.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
+There's nothing she doesn't know. She knows everything.	彼女が知らないことはない。何でも知っている。	かのじょがしらないことはない。なにでもしっている。	彼女が知らないことはない。何でも知っている。	〜ないことはない: litotes — 'it's not that there isn't X' = there IS some X	[sound:e2635dc15540.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
+I've traveled the world so much there's almost nowhere I can't go.	行けない場所はないくらい、世界中を旅した。	いけないばしょはないくらい、せかいちゅうをたびした。	行けない場所はないくらい、世界中を旅した。	〜ないことはない: double negative affirmation — can't say there's none	[sound:b9a36ebba246.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
+There's nothing I can't eat. I eat anything.	食べられないものはない。何でも食べます。	たべられないものはない。なにでもたべます。	食べられないものはない。何でも食べます。	〜ないことはない vs ある: subtle difference — indirect admission vs direct statement	[sound:b378874b198b.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard
+There's nothing I can't ask him. He always helps.	彼に頼めないことはない。いつも助けてくれる。	かれにたのめないことはない。いつもたすけてくれる。	彼に頼めないことはない。いつも助けてくれる。	〜ないことはない: hedged possibility — 'it's not impossible'	[sound:e2cc0ec90187.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:low complexity:standard
+If you try, there's nothing you can't do.	努力すれば、できないことはない。	どりょくすれば、できないことはない。	努力すれば、できないことはない。	〜ないわけではない: similar litotes — 'it's not the case that I don't'	[sound:8c31570af5fa.mp3]	module:02-n4 jlpt:n4 point:ない-はない source:authored source:shin-kanzen frequency:top10k complexity:standard

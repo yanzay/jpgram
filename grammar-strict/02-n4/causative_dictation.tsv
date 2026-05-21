@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Dictation
+#deck:Japanese Grammar::02 - N4 Grammar::Dictation
 
 [sound:b93a16a77505.mp3]	子どもに野菜___食べさせた。	子どもに野菜を食べさせた。	こどもにやさいをたべさせた。	I made the child eat vegetables.	module:02-n4 jlpt:n4 point:causative complexity:standard frequency:top5k source:shin-kanzen
 [sound:2232aef2bf4e.mp3]	学生に宿題___させている。	学生に宿題をさせている。	がくせいにしゅくだいをさせている。	I am making the students do homework.	module:02-n4 jlpt:n4 point:causative complexity:intro frequency:top1k source:shin-kanzen complexity:standard

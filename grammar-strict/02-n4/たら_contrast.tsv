@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 家に帰ったら、___ vs 帰れば、___。	シャワーを浴びる	一番いい	シャワーを浴びる	たら = event narrative	たら = what happened	[sound:9226d4b3bb9d.mp3]	module:02-n4 jlpt:n4 register:neutral point:たら pos:expr frequency:top1k complexity:standard confusable-with:一番いい source:shin-kanzen sense:conditionals
 ドアを開けたら、___ vs 開ければ、___。	猫がいた	いつもそう	猫がいた	たら = specific event	たら = what occurred	[sound:0900941d96b5.mp3]	module:02-n4 jlpt:n4 register:neutral point:たら pos:expr frequency:top1k complexity:standard confusable-with:いつもそう source:shin-kanzen sense:conditionals

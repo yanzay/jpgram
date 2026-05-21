@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::00 - Foundation::Recognition
+#deck:Japanese Grammar::00 - Foundation::Recognition
 
 今日、図書館に行きます。	きょう、としょかんにいきます。	Today I am going to the library.	今日 (today)	今日 (きょう)	reference to the current day	today	今日/きょう ≠ 本日/ほんじつ (formal)	[sound:afb129892f81.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:time-expressions source:curated-jpgram frequency:top10k complexity:intro
 昨日、雨が降りました。	きのう、あめがふりました。	It rained yesterday.	昨日 (yesterday)	昨日 (きのう)	reference to the previous day	yesterday	昨日=きのう (spoken); 昨日=さくじつ (formal/written)	[sound:c438f6a4abc3.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:time-expressions source:curated-jpgram frequency:top1k complexity:intro

@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Cloze
+#deck:Japanese Grammar::04 - N2 Grammar::Cloze
 
 この課題は完成 {{c1::せざるを得ない}}。	このかだいはかんせい {{c1::せざるをえない}}。	Must complete this task — No alternative	[sound:fdd7e5e640a8.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro frequency:top10k source:shin-kanzen
 政府は対策を取ら {{c1::ざるを得ない}}。	せいふはたいさくをとら {{c1::ざるをえない}}。	Government must take measures — Forced action	[sound:ff9b4b05d421.mp3]	module:04-n2 jlpt:n2 point:ものか complexity:intro frequency:low source:shin-kanzen

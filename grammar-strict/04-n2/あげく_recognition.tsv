@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Recognition
+#deck:Japanese Grammar::04 - N2 Grammar::Recognition
 
 長い交渉の挙句、合意に達した。	ながいこうしょうのあげく、ごういにたっした。	After long negotiations, an agreement was reached.	あげく (in the end)	N + の + あげく	Formal result after long process	After a long X, finally Y	すえに: similar formal result	[sound:befb670f88e0.mp3]	module:04-n2 jlpt:n2 point:あげく complexity:standard frequency:low source:shin-kanzen
 苦労の挙句、夢を実現した。	くろうのあげく、ゆめをじつげんした。	After hardship, he realized his dream.	あげく	N + の + あげく	Formal result	After struggle, achieved Y	すえに: similar formal result	[sound:075be73e8dc3.mp3]	module:04-n2 jlpt:n2 point:あげく complexity:intro frequency:top10k source:shin-kanzen

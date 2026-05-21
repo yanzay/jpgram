@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Cloze
+#deck:Japanese Grammar::04 - N2 Grammar::Cloze
 
 日本 {{c1::および}} アメリカが協力する。	にほん {{c1::およぴ}} あめりかがきょうりょくする。	Japan and America cooperate — Formal listing	[sound:63d03eaa88d5.mp3]	module:04-n2 jlpt:n2 point:および complexity:standard frequency:top10k source:shin-kanzen
 男性 {{c1::および}} 女性が対象である。	だんせい {{c1::およぴ}} じょせいがたいしょうである。	Men and women are targets — Inclusive	[sound:55b8f578af35.mp3]	module:04-n2 jlpt:n2 point:および complexity:intro frequency:top10k source:shin-kanzen

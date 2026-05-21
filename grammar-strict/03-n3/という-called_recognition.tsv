@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
 
 「わびさび」という概念は日本独自の美意識だ。	「わびさび」というがいねんはにほんどくじのびいしきだ。	"The concept called ""wabi-sabi"" is a uniquely Japanese aesthetic."	という (defining/naming)	N/Phrase + という + Noun	defines or introduces a name/term the listener may be unfamiliar with	called/known as	"という = ""called / known as""; very common for introducing terms or proper nouns to a listener"	[sound:9cc28bc7ff47.mp3]	module:03-n3 jlpt:n3 point:という-called complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:low
 山田太郎という方からお電話がありました。	やまだたろうというかたからおでんわがありました。	There was a phone call from someone called Yamada Taro.	という (identifying a person)	Name + という + 方・人	introduces a person by name, implying the listener may not know them	someone called	という + 方/人 = politely introduces an unfamiliar person to the listener	[sound:7de75e497bfc.mp3]	module:03-n3 jlpt:n3 point:という-called complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k complexity:advanced

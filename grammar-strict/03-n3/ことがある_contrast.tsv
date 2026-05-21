@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 私は日本に行った___。	ことがある	たことがある	たことがある	たことがある = specific past experience (went once or more). ことがある = possible/occasional event.	Personal experience = たことがある. General possibility = ことがある.	[sound:fc122be940d1.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:intro confusable-with:ことがある frequency:top10k source:shin-kanzen
 雨の日に事故が起こった___。	ことがある	たことがある	ことがある	たことがある = happened specifically to me. ことがある = can happen (general).	My incident = たことがある. Possible event = ことがある.	[sound:30666d7ef7af.mp3]	module:03-n3 jlpt:n3 point:ことがある complexity:standard confusable-with:たことがある frequency:top5k source:shin-kanzen

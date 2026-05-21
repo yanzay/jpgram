@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I go to the gym three times a week.	週に三回、ジムに通っています。	しゅうにさんかい、じむにかよっています。	週に三回、ジムに通っています。	に marks frequency period	[sound:2262a1083f5b.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top10k complexity:standard
-I take medicine twice a day.	一日に二回、薬を飲んでいます。	いちにちににかい、くすりをのんでいます。	一日に二回、薬を飲んでいます。	daily dosage frequency	[sound:e60af344e3d8.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top1k complexity:standard
-I go to the hair salon once a month.	一ヶ月に一度、美容院に行きます。	いちかげつにいちど、びよういんにいきます。	一ヶ月に一度、美容院に行きます。	monthly frequency	[sound:ca73528a6099.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:low complexity:standard
-We take a family trip once a year.	年に一回、家族で旅行します。	ねんにいっかい、かぞくでりょこうします。	年に一回、家族で旅行します。	annual frequency	[sound:2791a7eb3750.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top1k complexity:standard
-A bus comes once an hour.	一時間に一本、バスが来ます。	いちじかんにいちぽん、ばすがきます。	一時間に一本、バスが来ます。	hourly bus frequency	[sound:4c2194d567f9.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top10k complexity:standard
+I go to the gym three times a week.	週に三回、ジムに通っています。	しゅうにさんかい、じむにかよっています。	週に三回、ジムに通っています。	に: rate base marker — X回に1回 = once every X; frequency denominator	[sound:2262a1083f5b.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top10k complexity:standard
+I take medicine twice a day.	一日に二回、薬を飲んでいます。	いちにちににかい、くすりをのんでいます。	一日に二回、薬を飲んでいます。	に: per-unit marker — 一日に3回 = 3 times per day	[sound:e60af344e3d8.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top1k complexity:standard
+I go to the hair salon once a month.	一ヶ月に一度、美容院に行きます。	いちかげつにいちど、びよういんにいきます。	一ヶ月に一度、美容院に行きます。	に + number: frequency base — how many times per unit	[sound:ca73528a6099.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:low complexity:standard
+We take a family trip once a year.	年に一回、家族で旅行します。	ねんにいっかい、かぞくでりょこうします。	年に一回、家族で旅行します。	に: distribution — marks the base unit for a ratio or rate	[sound:2791a7eb3750.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top1k complexity:standard
+A bus comes once an hour.	一時間に一本、バスが来ます。	いちじかんにいちぽん、ばすがきます。	一時間に一本、バスが来ます。	〜に〜回: rate expression — [unit] + に + [frequency]	[sound:4c2194d567f9.mp3]	module:02-n4 jlpt:n4 point:に-frequency source:authored source:shin-kanzen frequency:top10k complexity:standard

@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Recognition
+#deck:Japanese Grammar::13 - L1 Interference::Recognition
 
 私が買った本	わたしがかったほん	The book that I bought	Relative clause	動詞(過去) + 名詞	Pre-modification pattern	verb comes BEFORE noun	本が私が買った (wrong word order)	[sound:5417661ab018.mp3]	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram
 田中さんが書いた記事	たなかさんがかいたきじ	The article that Tanaka wrote	Relative clause	動詞(過去) + 名詞	Pre-modification	past verb BEFORE article	記事が田中さんが書いた	[sound:821430f63c65.mp3]	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram

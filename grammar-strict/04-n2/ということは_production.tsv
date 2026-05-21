@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+#deck:Japanese Grammar::04 - N2 Grammar::Production
 
 'The exam is tomorrow.' 'That means tonight is crunch time, huh.'	「試験は明日だ」「ということは、今夜が勝負だね」	「しけんはあしただ」「ということは、こんやがしょうぶだね」	「試験は明日だ」「ということは、今夜が勝負だね」	ということは: tonight's importance inferred from tomorrow's deadline	[sound:86d358b2a703.mp3]	module:04-n2 jlpt:n2 point:ということは source:authored source:shin-kanzen frequency:low complexity:standard
 The fact that he's not coming might mean something happened.	彼が来ないということは、何かあったのかもしれない。	かれがこないということは、なにかあったのかもしれない。	彼が来ないということは、何かあったのかもしれない。	ということは: absence interpreted as sign of possible incident	[sound:878926a03b35.mp3]	module:04-n2 jlpt:n2 point:ということは source:authored source:shin-kanzen frequency:top10k complexity:standard

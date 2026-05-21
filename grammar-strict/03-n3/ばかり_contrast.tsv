@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 彼は毎日ビデオゲームをしてばかりいる。	をしてばかり	をしてだけ	ばかり	Use 'をしてばかり' for this grammatical context.	ばかり = only/exclusively (actions/states).	[sound:86abe9336ab5.mp3]	module:03-n3 jlpt:n3 point:ばかり complexity:standard frequency:top10k source:shin-kanzen
 私は時間があったら、本を読むばかりだ。	ばかり	しか	ばかり	Use 'ばかり' for this grammatical context.	ばかり = only/exclusively (actions/states).	[sound:ed80906d63d6.mp3]	module:03-n3 jlpt:n3 point:ばかり complexity:standard confusable-with:しか frequency:top1k source:shin-kanzen

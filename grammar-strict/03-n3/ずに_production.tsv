@@ -2,16 +2,15 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
-What structure links contrasting ideas?	ーが	わたしはすきだが、かれはきらいだ。	私は好きだが、彼は嫌いだ。	Marks contrast between clauses	[sound:ec3e0200c2ff.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Complete: 'Although it's difficult, ___'	ーけれども	むずかしいけれども、がんばる。	難しいけれども、頑張る。	Formal concessive conjunction	[sound:c6894ec21d71.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Which structure shows temporal sequence?	ーたら	たべたら、ねむくなった。	食べたら、眠くなった。	After eating, became sleepy	[sound:d09982722563.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Fill: 'If you go, ___'	ーたら、ーなら	いったら、たのしいだろう。	行ったら、楽しいだろう。	Conditional consequence	[sound:4fd8d92f2469.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-What links cause and effect formally?	ーため	びょうきのため、やすんだ。	病気のため、休んだ。	Marks formal causal relationship	[sound:1ca3cac035e6.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Complete: 'Furthermore, ___'	ーのうえ	せがたかいのうえ、あたまがいい。	背が高いのうえ、頭がいい。	Adds another advantage	[sound:ae481045ac4d.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
-Which marks 'besides, moreover'?	ーばかりか	おとうとばかりか、あにもきた。	弟ばかりか、兄も来た。	Not only...but also	[sound:ea578cc19b33.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
-Fill: 'At the moment when ___'	ーとたんに	あらわれたとたんに、さわぎがおきた。	現れたとたんに、騒ぎが起きた。	Immediate consequence	[sound:2725129c8c83.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k frequency:top10k source:shin-kanzen
-What structure shows negation of first clause?	ーのではなく	いったのではなく、おくった。	行ったのではなく、送った。	Not A but B	[sound:dec51d1dda81.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k complexity:intro source:shin-kanzen
-Complete: 'As a result, ___'	ーため（に）	どりょくしたけっか、せいこうした。	努力した結果、成功した。	Outcome of action	[sound:8ab51e0431a2.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
+Say you went to school without eating breakfast.	ずに	ちょうしょくをたべずに、がっこうにいった。	朝食を食べずに、学校に行った。	ずに: absence-of-prior-action — ate nothing before going; literary negative ず	[sound:93d3d8a24a50.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you left the room without saying anything.	ずに	なにもいわずに、へやをでた。	何も言わずに、部屋を出た。	ずに: silent departure — speech omitted before action; formal register	[sound:7bdded46d707.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you went out without taking an umbrella.	ずに	かさをもたずに、でかけてしまった。	傘を持たずに、出かけてしまった。	ずに: omitted preparation — forgot umbrella; failure to take action first	[sound:baf781a175c9.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you worked all day without resting.	ずに	やすまずに、いちにちじゅうはたらいた。	休まずに、一日中働いた。	ずに: sustained effort without break — no rest taken throughout the day	[sound:5d07e0ea6302.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you decided without consulting anyone.	ずに	だれにもそうだんせずに、きめてしまった。	誰にも相談せずに、決めてしまった。	ずに: unilateral decision — consultation step skipped; formal literary form	[sound:743e30f119be.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say he read the book without stopping.	ずに	とちゅうでとまらずに、ほんをよみきった。	途中で止まらずに、本を読み切った。	ずに: continuous action — no interruption from start to completion	[sound:baffbbbbd7f4.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say she spoke without hesitation.	ずに	ためらわずに、はっきりいった。	ためらわずに、はっきり言った。	ずに: bypassed inhibition — hesitation skipped; direct speech resulted	[sound:93eade75305f.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you submitted without reviewing.	ずに	かくにんせずに、ていしゅつしてしまった。	確認せずに、提出してしまった。	ずに: skipped verification — review step omitted before submission	[sound:7bfdf83b3962.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say he left without apologizing.	ずに	あやまらずに、そのばをはなれた。	謝らずに、その場を離れた。	ずに: omitted social duty — apology expected but not given; regret nuance	[sound:5eaffd45ec4e.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+Say she graduated without giving up.	ずに	あきらめずに、そつぎょうした。	諦めずに、卒業した。	ずに: sustained persistence — quitting never occurred; achieved through not stopping	[sound:91430e679185.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio

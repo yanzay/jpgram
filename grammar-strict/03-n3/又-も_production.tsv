@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 He can play guitar. Furthermore, he's also good at piano.	彼はギターが弾ける。又、ピアノも上手だ。	かれはぎたーがひける。また、ぴあのもじょうずだ。	彼はギターが弾ける。又、ピアノも上手だ。	又: adds distinct new point at sentence boundary	[sound:d6eaf2fefa18.mp3]	module:03-n3 jlpt:n3 point:又-も source:authored source:shin-kanzen frequency:top10k complexity:standard
 This medicine works for headaches. It is also said to be effective for fatigue recovery.	この薬は頭痛に効く。又、疲労回復にも役立つとされている。	このくすりはずつうにきく。また、ひろうかいふくにもやくだつとされている。	この薬は頭痛に効く。又、疲労回復にも役立つとされている。	又: second benefit listed as separate discourse point	[sound:741af8a46ba7.mp3]	module:03-n3 jlpt:n3 point:又-も source:authored source:shin-kanzen frequency:low complexity:advanced

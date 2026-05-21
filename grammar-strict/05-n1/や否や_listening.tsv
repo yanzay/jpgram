@@ -2,11 +2,10 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Listening
+#deck:Japanese Grammar::05 - N1 Grammar::Listening
 
 [sound:bb8c7090b0a2.mp3]	彼が来たや否や皆が黙った。	かれがきたやひやみながだまった。	や否や: No sooner/as soon as.	All went silent instantly	module:05-n1 jlpt:n1 point:や否や complexity:standard frequency:top10k source:shin-kanzen
-[sound:66169e81583b.mp3]	ドアを開けたや否や光が入った。	どあをひらけたやひやひかりがいっった。	や否や: No sooner/as soon as.	Light poured in instantly	module:05-n1 jlpt:n1 point:や否や complexity:standard frequency:top10k source:shin-kanzen
+[sound:66169e81583b.mp3]	ドアを開けたや否や光が入った。	どあをあけたやいなやひかりがはいった。	や否や: No sooner/as soon as.	Light poured in instantly	module:05-n1 jlpt:n1 point:や否や complexity:standard frequency:top10k source:shin-kanzen
 [sound:69b107d3160b.mp3]	彼が話したや否や反発があった。	かれがはなしたやひやはんぱつがあった。	や否や: No sooner/as soon as.	Opposition arose instantly	module:05-n1 jlpt:n1 point:や否や complexity:standard frequency:low source:shin-kanzen
 [sound:e065cde4a80f.mp3]	彼は歩きながらに考えた。	かれはあるきながらにかんがえた。	ながらに: While literary.	He thought while walking	module:05-n1 jlpt:n1 point:や否や complexity:intro frequency:top10k source:shin-kanzen complexity:standard
 [sound:a01895bc8709.mp3]	学びながらにして成長した。	まなびながらにしてせいちょうした。	ながらにして: While literary.	Grew while learning	module:05-n1 jlpt:n1 point:や否や complexity:standard frequency:top10k source:shin-kanzen

@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 He is rarely late, but today he was late for once.	彼はめったに遅刻しないが、今日は珍しく遅れた。	かれはめったにちこくしないが、きょうはめずらしくおくれた。	彼はめったに遅刻しないが、今日は珍しく遅れた。	めったに-ない: rarity makes today's event notable	[sound:ea48a19e69e7.mp3]	module:03-n3 jlpt:n3 point:めったに-ない source:authored source:shin-kanzen frequency:top10k complexity:standard
 It rarely snows in this area.	この地域ではめったに雪が降らない。	このちいきではめったにゆきがふらない。	この地域ではめったに雪が降らない。	めったに-ない: low-frequency weather event	[sound:4b8028f90c33.mp3]	module:03-n3 jlpt:n3 point:めったに-ない source:authored source:shin-kanzen frequency:top10k complexity:standard

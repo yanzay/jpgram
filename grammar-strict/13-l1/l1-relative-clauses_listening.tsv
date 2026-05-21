@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Listening
+#deck:Japanese Grammar::13 - L1 Interference::Listening
 
 [sound:5417661ab018.mp3]	私が買った本	わたしがかったほん	The book that I bought	verb comes BEFORE noun	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram complexity:standard
 [sound:821430f63c65.mp3]	田中さんが書いた記事	たなかさんがかいたきじ	The article that Tanaka wrote	past verb BEFORE article	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram complexity:standard

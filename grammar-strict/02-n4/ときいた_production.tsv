@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I heard that Tanaka-san is getting married next month.	田中さんが来月結婚すると聞きました。	たなかさんがらいげつけっこんするとききました。	田中さんが来月結婚すると聞きました。	personal hearsay	[sound:a539347c4ea7.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored source:shin-kanzen frequency:top10k complexity:standard
 I heard that store is closing in March.	その店は三月に閉まると聞きました。	そのみせはさんがつにしまるとききました。	その店は三月に閉まると聞きました。	heard about closure	[sound:8f436ec175ed.mp3]	module:02-n4 jlpt:n4 point:ときいた source:authored source:shin-kanzen frequency:top5k complexity:standard

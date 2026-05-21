@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Listening
+#deck:Japanese Grammar::01 - N5 Grammar::Listening
 
 [sound:e8bf91fd21dd.mp3]	私は友達に荷物を持ってあげました。	わたしはともだちににもつをもってあげました。	I helped my friend by carrying luggage.	do favor for equal	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top1k source:shin-kanzen
 [sound:c5c6aa121e9a.mp3]	姉が妹に宿題を教えてあげた。	あねがいもうとにしゅくだいをおしえてあげた。	The older sister taught homework to the younger sister.	do favor for junior	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top10k source:shin-kanzen

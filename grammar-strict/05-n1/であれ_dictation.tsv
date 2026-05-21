@@ -2,14 +2,10 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Dictation
+#deck:Japanese Grammar::05 - N1 Grammar::Dictation
 
-[sound:c52d5c0745af.mp3]	もし雨だとしたら、イベント___延期される。	もし雨だとしたら、イベントは延期される。	もしあめだとしたら、いべんとはえんきされる。	If it rains, the event will be postponed.	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen
-[sound:c5f6fb374381.mp3]	彼___来たとしたら、どうしよう。	彼が来たとしたら、どうしよう。	かれがきたとしたら、どうしよう。	What if he comes?	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen
-[sound:b6240aae752b.mp3]	値段___上がるとしたら、いつだろう。	値段が上がるとしたら、いつだろう。	ねだんがあがるとしたら、いつだろう。	If prices go up, when might it be?	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top5k source:shin-kanzen
-[sound:0ded5c59e310.mp3]	その話___本当だとしたら、大変だ。	その話が本当だとしたら、大変だ。	そのはなしがほんとうだとしたら、たいへんだ。	If that's true, it's serious.	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top1k source:shin-kanzen
-[sound:687b1bf6409f.mp3]	彼___来なかったとしたら、残念だ。	彼が来なかったとしたら、残念だ。	かれがこなかったとしたら、ざんねんだ。	If he didn't come, it's unfortunate.	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen
-[sound:3924d5975c67.mp3]	彼___来るとすると、遅刻するだろう。	彼が来るとすると、遅刻するだろう。	かれがくるとすると、ちこくするだろう。	Supposing he comes, he'll probably be late.	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen
-[sound:8f9817ecde1d.mp3]	いくら給料が増えるとすると、生活___楽になる。	いくら給料が増えるとすると、生活は楽になる。	いくらきゅうりょうがふえるとすると、せいかつはらくになる。	Even if salary increases, life becomes easier.	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen
-[sound:49da5a6f6158.mp3]	その計画___成功するとすると、大きな変化が起きる。	その計画が成功するとすると、大きな変化が起きる。	そのけいかくがせいこうするとすると、おおきなへんかがおきる。	If that plan succeeds, big changes occur.	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen
+[sound:bc7840e38efa.mp3]	理由が何___、遅刻は許されない。	理由が何であれ、遅刻は許されない。	りゆうがなにであれ、ちこくはゆるされない。	Whatever the reason, being late is unacceptable.	module:05-n1 jlpt:n1 point:であれ complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:e53b8248e65c.mp3]	プロ___アマチュア___、ルールは同じだ。	プロであれアマチュアであれ、ルールは同じだ。	ぷろであれあまちゅあであれ、るーるはおなじだ。	Whether pro or amateur, the rules are the same.	module:05-n1 jlpt:n1 point:であれ complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:b36daab2dcec.mp3]	大人___子供___、命の価値は同じだ。	大人であれ子供であれ、命の価値は同じだ。	おとなであれこどもであれ、いのちのかちはおなじだ。	Whether adult or child, life's value is equal.	module:05-n1 jlpt:n1 point:であれ complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:392b51b97c38.mp3]	困難な状況___、諦めない。	困難な状況であれ、諦めない。	こんなんなじょうきょうであれ、あきらめない。	Even in a difficult situation, I won't give up.	module:05-n1 jlpt:n1 point:であれ complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:e8348e83a076.mp3]	相手が誰___、礼儀を忘れない。	相手が誰であれ、礼儀を忘れない。	あいてがだれであれ、れいぎをわすれない。	Whoever the other person is, I won't forget courtesy.	module:05-n1 jlpt:n1 point:であれ complexity:standard source:shin-kanzen scaffold:pending-audio

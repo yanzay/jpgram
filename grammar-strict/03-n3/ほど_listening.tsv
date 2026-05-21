@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+#deck:Japanese Grammar::03 - N3 Grammar::Listening
 
 [sound:10a2f91e5fd1.mp3]	それほど難しくない。	それほどむずかしくない。	It's not that difficult.	Nothing as X as this; more X = more Y	module:03-n3 jlpt:n3 point:ほど complexity:intro frequency:top10k source:shin-kanzen complexity:standard
 [sound:cca8fdba55a5.mp3]	時間ほど大切なものはない。	じかんほどたいせつなものはない。	There's nothing as precious as time.	Nothing as X as this; more X = more Y	module:03-n3 jlpt:n3 point:ほど complexity:standard frequency:top1k source:shin-kanzen

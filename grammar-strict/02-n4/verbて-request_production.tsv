@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 Wait a sec.	ちょっと待って。	ちょっとまって。	ちょっと待って。	casual: please wait	[sound:d2c5de69a4f8.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored source:shin-kanzen complexity:intro
 Come quickly. It's about to start.	早く来て。もう始まるよ。	はやくきて。もうはじまるよ。	早く来て。もう始まるよ。	urgent casual request	[sound:b86c5a7aa695.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored source:shin-kanzen frequency:top10k complexity:intro

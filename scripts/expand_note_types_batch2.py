@@ -181,6 +181,10 @@ def main() -> int:
             for _, row, _ in source_rows:
                 # Cloze schema:
                 # Text Reading Hint Audio Tags
+                # Reject whole-sentence cloze (entire JP is deleted — teaches nothing).
+                plain = strip_cloze(row[0])
+                if not plain.strip() or plain.strip() == row[0].strip():
+                    continue
                 out_rows.append(
                     [
                         strip_cloze(row[0]),

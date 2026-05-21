@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+#deck:Japanese Grammar::04 - N2 Grammar::Production
 
 'I'm hungry.' 'In that case, go ahead and eat first.'	「お腹が空いた」「それなら先に食べていいよ」	「おなかがあいた」「それならさきにたべていいよ」	「お腹が空いた」「それなら先に食べていいよ」	それなら: hunger triggers permission as logical response	[sound:6a28d6dfbd0b.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored source:shin-kanzen frequency:top10k complexity:standard
 In that case, let me do it instead.	それなら、私が代わりにやりましょう。	それなら、わたしがかわりにやりましょう。	それなら、私が代わりにやりましょう。	それなら: situation triggers practical substitute offer	[sound:51136fe40c0f.mp3]	module:04-n2 jlpt:n2 point:それなら source:authored source:shin-kanzen frequency:top5k complexity:standard

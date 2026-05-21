@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 "Say ""please do exactly as the manual says"" (use とおり)."	とおり	まにゅあるのとおりにしてください。	マニュアルのとおりにしてください。	Noun + のとおりに: follow exactly as written	[sound:3187d8d6738a.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored
 "Say ""things went as planned"" (use とおり)."	とおり	けいかくどおりにすすんだ。	計画どおりに進んだ。	どおり attaches to nouns: exactly as planned	[sound:5ca175b62916.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top1k source:shin-kanzen source:authored frequency:top5k complexity:intro

@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Recognition
+#deck:Japanese Grammar::04 - N2 Grammar::Recognition
 
 そこに行ったらいいよ	そこにいったらいいよ	That place is great, you know.	assertion/recommendation	Sentence + よ (assertion: informing or insisting)	adds emphasis/assertion	seeks no response	vs ね	[sound:3654606dba81.mp3]	pos:sfp register:casual module:04-n2 point:とも complexity:intro source:dictionary-of-jp-grammar jlpt:n2 source:shin-kanzen
 明日が締め切りだよ	あしたがしめきりだよ	Tomorrow's the deadline, you know.	assertion	Sentence + よ (assertion: informing or insisting)	states fact emphatically	asserts knowledge	vs な	[sound:0a13df424dcf.mp3]	pos:sfp register:casual module:04-n2 point:とも complexity:intro frequency:low source:dictionary-of-jp-grammar jlpt:n2 source:shin-kanzen

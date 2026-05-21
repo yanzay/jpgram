@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Dictation
+#deck:Japanese Grammar::05 - N1 Grammar::Dictation
 
 [sound:b82243ae42fc.mp3]	させていただく。	させていただく。	させていただく。	I humbly request permission to do.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar complexity:standard sense:keigo-alternatives jlpt:n1 source:shin-kanzen
 [sound:2ce803fd53a6.mp3]	させていただいてもよろしい___しょうか。	させていただいてもよろしいでしょうか。	させていただいてもよろしいでしょうか。	May I humbly do this?	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1 source:shin-kanzen

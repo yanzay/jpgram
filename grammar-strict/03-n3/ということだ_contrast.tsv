@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 彼が遅刻するわけがない。	はずだ	べきだ	わけだ	わけだ = it's not the case that	He can't possibly be late	[sound:fd53684138bb.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top10k complexity:intro source:shin-kanzen
 そういうわけで、断らないといけない。	はずだ	べきだ	わけだ	わけだ = that's why/reason being	For that reason, must refuse	[sound:648c34fff707.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr complexity:standard source:shin-kanzen

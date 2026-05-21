@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Listening
+#deck:Japanese Grammar::02 - N4 Grammar::Listening
 
 [sound:ab9586244d47.mp3]	子どもは医者に予防接種をさせられた。	こどもはいしゃによぼうせっしゅをさせられた。	The child was forced to get vaccinated by the doctor.	Child forced to endure	module:02-n4 jlpt:n4 point:causative-passive complexity:standard frequency:top10k source:shin-kanzen
 [sound:b27bad4b2589.mp3]	労働者は長時間働かされた。	ろうどうしゃはちょうじかんはたらかされた。	Workers were forced to work long hours.	Workers as victims	module:02-n4 jlpt:n4 point:causative-passive complexity:standard frequency:top10k source:shin-kanzen

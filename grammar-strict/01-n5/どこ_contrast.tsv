@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Contrast
+#deck:Japanese Grammar::01 - N5 Grammar::Contrast
 
 誰 vs 何違い	誰	何	誰	誰=who (people); 何=what (things)	People: 誰	[sound:a5fb904e75f0.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:何 source:shin-kanzen
 どこ vs どちら違い	どこ	どちら	どこ	どこ=where; どちら=which direction	Place: どこ	[sound:fc2a4bb47467.mp3]	module:01-n5 jlpt:n5 point:どこ frequency:top10k complexity:intro confusable-with:どちら source:shin-kanzen

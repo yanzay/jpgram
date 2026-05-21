@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 あなたのせいで / おかげで、試験に落ちた。	せいで	おかげで	せいで	せいで = blame; おかげで = gratitude (wrong tone)	Negative vs positive cause	[sound:67c3702c9424.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard confusable-with:おかげで frequency:top5k source:shin-kanzen
 先生の指導のおかげで / せいで、成績が上がった。	おかげで	せいで	おかげで	おかげで = gratitude; せいで = blame (wrong)	Positive result from teacher	[sound:408ecf067cb7.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard confusable-with:せいで frequency:top10k source:shin-kanzen

@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
 
 友達は明日来るそうです。	ともだちはあしたくるそうです。	I heard that my friend is coming tomorrow.	-そう (hearsay)	V-plain / N + だ + そうだ	V-plain + そうだ	report from source	plain	[sound:9eca04176d40.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:intro frequency:top1k source:shin-kanzen sense:evidentials
 雨が降るそうですね。	あめがふるそうですね。	I heard it will rain.	-そう (hearsay)	V-plain / N + だ + そうだ	V-plain + そうだ	indirect info	plain + そう	[sound:cf42b73d3684.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:intro frequency:top1k source:shin-kanzen sense:evidentials

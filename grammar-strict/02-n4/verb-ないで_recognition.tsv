@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 朝ごはんを食べないで学校に行った。	あさごはんをたべないでがっこうにいった。	I went to school without eating breakfast.	ないで (without doing)	V-ないで + next action	performs action B while omitting/skipping action A	without V-ing	ないで = without doing (omission); ずに = same but more formal/literary	[sound:cb927e098476.mp3]	module:02-n4 jlpt:n4 point:verb-ないで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top1k
 傘を持たないで出かけたら、雨に降られた。	かさをもたないででかけたら、あめにふられた。	Because I went out without an umbrella, I got rained on.	ないで (omission with consequence)	V-ないで + 出かける	action omitted leads to a consequence	went out without	ないで can imply the omission caused the subsequent problem	[sound:598bc9e78f08.mp3]	module:02-n4 jlpt:n4 point:verb-ないで complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k

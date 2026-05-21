@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 子どもが泣いたかと思うと、次の瞬間には笑っていた。	こどもがないたかとおもうと、つぎのしゅんかんにはわらっていた。	The child cried, and the next moment was smiling.	「かと思うと temporal sequence」	V-ta + かと思うと / V-ta + かと思ったら	Immediately after — 'no sooner...than' — rapid succession	First action barely done, second already happens	vs たら (general consequence) / ばかりか (addition)	[sound:d378d65cee41.mp3]	module:02-n4 jlpt:n4 point:ながら complexity:standard frequency:top10k source:shin-kanzen
 彼が部屋を出たかと思ったら、もう帰ってきた。	かれがへやをでたかとおもったら、もうかえってきた。	He left the room, and then came back.	「かと思うと temporal sequence」	V-ta + かと思うと / V-ta + かと思ったら	Immediately after — 'no sooner...than' — rapid succession	First action barely done, second already happens	vs たら (general consequence) / ばかりか (addition)	[sound:f60cbd9f6d21.mp3]	module:02-n4 jlpt:n4 point:ながら complexity:standard frequency:top10k source:shin-kanzen

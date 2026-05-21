@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 朝起き{{c1::たら}}、外は雨でした。	あさおき{{c1::たら}}、そとはあめでした。	when woke	[sound:b9cc3a627701.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top1k complexity:intro source:shin-kanzen sense:conditionals
 冷蔵庫を開け{{c1::たら}}、牛乳がありました。	れいぞうこをひらけ{{c1::たら}}、ぎゅうにゅうがありました。	when opened	[sound:ec9408e7e7f5.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top1k complexity:standard source:shin-kanzen sense:conditionals
@@ -13,4 +13,4 @@
 テストが終わっ{{c1::たら}}、遊びに行こう。	てすとがおわっ{{c1::たら}}、あそびにいこう。	when test finishes	[sound:2d81f80b019c.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top5k complexity:standard source:shin-kanzen sense:conditionals
 お金が貯まっ{{c1::たら}}、新しい車を買う。	おきんがたまっ{{c1::たら}}、あたらしいくるまをかう。	when money accumulates	[sound:6c7e680a500f.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top10k complexity:standard source:shin-kanzen sense:conditionals
 夜中に電話が鳴っ{{c1::たら}}、びっくりした。	よなかにでんわがなっ{{c1::たら}}、びっくりした。	when phone rang at night	[sound:d20ec04cc3bc.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top10k complexity:standard source:shin-kanzen sense:conditionals
-大学に入っ{{c1::たら}}、人生が変わった。	だいがくにいっっ{{c1::たら}}、じんせいがかわった。	when entered university	[sound:cd2e64f5ed87.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top10k complexity:standard source:shin-kanzen sense:conditionals
+大学に入っ{{c1::たら}}、人生が変わった。	だいがくにはいっ{{c1::たら}}、じんせいがかわった。	when entered university	[sound:cd2e64f5ed87.mp3]	module:02-n4 jlpt:n4 point:たら frequency:top10k complexity:standard source:shin-kanzen sense:conditionals

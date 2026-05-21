@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Has the teacher already confirmed it?	先生はもうご確認なさいましたか。	せんせいはもうごかくにんなさいましたか。	先生はもうご確認なさいましたか。	honorific confirmation question	[sound:96b5d281c4b7.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:top10k complexity:standard
-What would you like to order?	お客様は何をご注文なさいますか。	おきゃくさまはなにをごちゅうもんなさいますか。	お客様は何をご注文なさいますか。	honorific ordering question	[sound:8bd2e7388b45.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:top10k complexity:standard
-The president always comes in early in the morning.	社長はいつも早朝に出勤なさいます。	しゃちょうはいつもそうちょうにしゅっきんなさいます。	社長はいつも早朝に出勤なさいます。	honorific commuting habit	[sound:057930491419.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:low complexity:standard
-How do you think about it?	どのようにお考えなさいますか。	どのようにおかんがえなさいますか。	どのようにお考えなさいますか。	honorific opinion question	[sound:23624a55fed8.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:top10k complexity:standard
+Has the teacher already confirmed it?	先生はもうご確認なさいましたか。	せんせいはもうごかくにんなさいましたか。	先生はもうご確認なさいましたか。	なさる: honorific する — does (respectful); elevates the subject	[sound:96b5d281c4b7.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:top10k complexity:standard
+What would you like to order?	お客様は何をご注文なさいますか。	おきゃくさまはなにをごちゅうもんなさいますか。	お客様は何をご注文なさいますか。	なさる: 尊敬語 equivalent of する — subject is socially superior	[sound:8bd2e7388b45.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:top10k complexity:standard
+The president always comes in early in the morning.	社長はいつも早朝に出勤なさいます。	しゃちょうはいつもそうちょうにしゅっきんなさいます。	社長はいつも早朝に出勤なさいます。	なさる vs いたす: direction — なさる = honors subject; いたす = humbles speaker	[sound:057930491419.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:low complexity:standard
+How do you think about it?	どのようにお考えなさいますか。	どのようにおかんがえなさいますか。	どのようにお考えなさいますか。	なさい: imperative of なさる — respectful command (e.g. parent to child)	[sound:23624a55fed8.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:top10k complexity:standard
 I hear the manager will adopt that proposal.	部長はその提案を採用なさるそうです。	ぶちょうはそのていあんをさいようなさるそうです。	部長はその提案を採用なさるそうです。	honorific + hearsay	[sound:c010c9fde5e4.mp3]	module:02-n4 jlpt:n4 point:なさる source:authored source:shin-kanzen frequency:low complexity:standard

@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 部屋をきれいにしてください。	へやをきれいにしてください。	Please make the room clean.	にする (make X into a state)	な-Adj + にする	transform something to the named state (transitive)	make it ~ (な-adj)	にする = transitive change-of-state; になる = intransitive change-of-state	[sound:3d292f2fa6c3.mp3]	module:02-n4 jlpt:n4 point:にする-くする complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top1k
 音量を大きくしてもいいですか。	おんりょうをおおきくしてもいいですか。	May I make the volume louder?	くする (make X more ~)	い-Adj-く + する	increase or change a property expressed by an い-adjective	make it louder	くする = transitive い-adj change; くなる = intransitive counterpart	[sound:1fd837ddc8eb.mp3]	module:02-n4 jlpt:n4 point:にする-くする complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k

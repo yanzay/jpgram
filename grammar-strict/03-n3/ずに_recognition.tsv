@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
 
 彼は頭が良い。それに、努力家だ。	かれはあたまがよい。それに、どりょくかだ。	He's intelligent. And moreover, he's hardworking.	Sequential addition	それに + [additional point] (moreover; on top of that)	Building positive points	Additional advantage	82ba5a9617b6	[sound:82ba5a9617b6.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:top10k source:shin-kanzen
 不景気だ。それにしても、我が社は成長している。	ふけいきだ。それにしても、わがしゃはせいちょうしている。	It's a recession. Despite that, our company is growing.	Defiant resilience	それにしても	Counter economic trend	Macro downturn	51e4239e3650	[sound:51e4239e3650.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard frequency:low source:shin-kanzen

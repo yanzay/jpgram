@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 The temperature rose suddenly.	気温が急に上がった。	きおんがきゅうにあがった。	気温が急に上がった。	上がる: intransitive — temperature rises on its own	[sound:1b0c4c8332a1.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる source:authored source:shin-kanzen frequency:top10k complexity:intro
 The government decided to raise the minimum wage.	政府は最低賃金を上げることを決定した。	せいふはさいていちんぎんをあげることをけっていした。	政府は最低賃金を上げることを決定した。	上げる: transitive — agent raises the wage	[sound:2dbc759c5e1d.mp3]	module:03-n3 jlpt:n3 point:上がる-上げる source:authored source:shin-kanzen frequency:low complexity:standard

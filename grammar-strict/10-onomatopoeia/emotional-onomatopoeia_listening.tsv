@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Listening
+#deck:Japanese Grammar::10 - Onomatopoeia::Listening
 
 [sound:e7676d6c3885.mp3]	ワクワク	わくわく	Excited/thrilled.	excited anticipation	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
 [sound:e70e6f5442ae.mp3]	ハラハラ	はらはら	Nervous/anxious.	worried tension	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard

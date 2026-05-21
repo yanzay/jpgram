@@ -2,14 +2,9 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Dictation
-
-[sound:c3ba4c6f2bf1.mp3]	何ぞ知らん	何ぞ知らん	なにぞしらん	How would one know.	module:03-n3 point:つまり complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:f9a23777825a.mp3]	も___より然るべし	もとより然るべし	もとよりしかるべし	Naturally it should be so.	module:03-n3 point:つまり complexity:intro source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:e8f638347e78.mp3]	然くして	然くして	ぜんくして	Thus/in this way.	module:03-n3 point:つまり complexity:intro source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:3e1bb87f8390.mp3]	如何なる者ぞや	如何なる者ぞや	いかなるものぞや	What kind of person is it.	module:03-n3 point:つまり complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:9a47eab64ec9.mp3]	きわめて美し	きわめて美し	きわめてうつくし	Extremely beautiful.	module:03-n3 point:つまり complexity:intro frequency:low source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:87519f1b836e.mp3]	古人のいわく	古人のいわく	こじんのいわく	The ancients say.	module:03-n3 point:つまり complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:1a4f64e6a220.mp3]	故___行く	故に行く	ゆえにいく	Therefore he goes.	module:03-n3 point:つまり complexity:intro frequency:low source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:b661c5df104a.mp3]	不幸___して死す	不幸にして死す	ふこうにしてしす	Unfortunately he dies.	module:03-n3 point:つまり complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+#deck:Japanese Grammar::03 - N3 Grammar::Dictation
+[sound:17ad544b1ab1.mp3]	彼は来られない、___会議は延期だ。	彼は来られない、つまり会議は延期だ。	かれはこられない、つまりかいぎはえんきだ。	He can't come, in other words the meeting is postponed.	module:03-n3 jlpt:n3 point:つまり complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:e21e2775cb59.mp3]	財布を忘れた、___お金が払えない。	財布を忘れた、つまりお金が払えない。	さいふをわすれた、つまりおかねがはらえない。	Forgot my wallet, meaning I can't pay.	module:03-n3 jlpt:n3 point:つまり complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:c658a07794c8.mp3]	練習を続けた、___合格は当然だ。	練習を続けた、つまり合格は当然だ。	れんしゅうをつづけた、つまりごうかくはとうぜんだ。	Kept practicing, so passing was natural.	module:03-n3 jlpt:n3 point:つまり complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:eba2d637b640.mp3]	彼女は断った、___興味がないということだ。	彼女は断った、つまり興味がないということだ。	かのじょはことわった、つまりきょうみがないということだ。	She declined, meaning she's not interested.	module:03-n3 jlpt:n3 point:つまり complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:383749159c21.mp3]	全員が同意した、___計画は決定だ。	全員が同意した、つまり計画は決定だ。	ぜんいんがどういした、つまりけいかくはけっていだ。	Everyone agreed, in other words the plan is decided.	module:03-n3 jlpt:n3 point:つまり complexity:standard source:shin-kanzen scaffold:pending-audio

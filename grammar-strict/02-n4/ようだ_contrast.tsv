@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 彼は病気らしい。	ようだ	みたい	らしい	らしい = hearsay/report (indirect info)	I hear he's sick	[sound:df59eeb3b994.mp3]	module:02-n4 jlpt:n4 register:formal point:ようだ pos:expr frequency:top5k complexity:intro source:shin-kanzen
 天気が悪くなるらしい。	ようだ	みたい	らしい	らしい = reported forecast	I hear weather will get worse	[sound:8fb5dc28314f.mp3]	module:02-n4 jlpt:n4 register:formal point:ようだ pos:expr frequency:top10k complexity:intro source:shin-kanzen

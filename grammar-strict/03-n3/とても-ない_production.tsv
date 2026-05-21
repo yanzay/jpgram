@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 There's so much of it; there's no way I can eat it all.	こんなに量が多くて、とても全部は食べられない。	こんなにりょうがおおくて、とてもぜんぶはたべられない。	こんなに量が多くて、とても全部は食べられない。	とても-ない: volume makes completion impossible	[sound:477fba3841a6.mp3]	module:03-n3 jlpt:n3 point:とても-ない source:authored source:shin-kanzen frequency:top10k complexity:standard
 What he's saying is absolutely impossible to believe.	彼の言っていることは、とても信じられない。	かれのいっていることは、とてもしんじられない。	彼の言っていることは、とても信じられない。	とても-ない: claim is beyond believability	[sound:3a527e1e187c.mp3]	module:03-n3 jlpt:n3 point:とても-ない source:authored source:shin-kanzen frequency:top5k complexity:standard

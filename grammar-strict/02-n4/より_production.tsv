@@ -2,21 +2,20 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Add は for topic: 私___学生です	は	わたしは	は	は = topic particle	[sound:1fa0519cfd09.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add が for subject: 誰___来ましたか	が	だれが	が	が = subject particle	[sound:a142816563b3.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add に for target: 友達___会いました	に	ともだちに	に	に = goal/target	[sound:de3d1ecc94b2.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add を for object: 本___読みました	を	ほんを	を	を = object particle	[sound:eba95ba0c666.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add で for means: ペン___書いてください	で	ぺんで	で	で = means/tool	[sound:7350618fcec3.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add まで for endpoint: 東京___バスで行きます	まで	とうきょうまで	まで	まで = up to	[sound:50bd04b02e14.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add から for start: 月曜日___始まります	から	げつようび	から	から = from/since	[sound:32c7a85f193a.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add と for and: 私___兄___三人です	と	わたし...あに	と	と = and	[sound:a986a7bc9e03.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add に for destination: 毎日学校___行きます	に	まいにちがっこう	に	に = destination	[sound:de3d1ecc94b2.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add から for source: 友達___手紙をもらいました	から	ともだち	から	から = from	[sound:32c7a85f193a.mp3]	module:02-n4 jlpt:n4 point:より complexity:advanced source:shin-kanzen complexity:intro
-Add で for location: 公園___遊びました	で	こうえん	で	で = location	[sound:7350618fcec3.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add と for accompaniment: 家族___行きました	と	かぞく	と	と = with/together	[sound:a986a7bc9e03.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add の for possession: 彼の___本です	の	かれの	の	の = possession	[sound:56377d14d4ef.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add も for also: 私___学生です	も	わたしも	も	も = also/too	[sound:3c6945772d72.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
-Add ね for emphasis: 天気___いいですね	は	てんき	は	は = topic	[sound:1fa0519cfd09.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen complexity:intro
+Say the train is faster than the bus.	より	でんしゃはばすよりはやい。	電車はバスより速い。	より: speed comparison baseline — bus as lower-ranked reference point	[sound:51fa1904d566.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say today is colder than yesterday.	より	きょうはきのうよりさむい。	今日は昨日より寒い。	より: temporal comparison — yesterday used as baseline for today's rating	[sound:9d558e1efe3a.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say it was harder than expected.	より	よそうよりむずかしかった。	予想より難しかった。	より: expectation as baseline — actual difficulty exceeded prior prediction	[sound:6345ad3df179.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say his Japanese is better than yours.	より	かれはわたしよりにほんごがじょうずだ。	彼は私より日本語が上手だ。	より: skill ranking — his ability rated above speaker's as comparison point	[sound:d56c577e5225.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say the building was bigger than imagined.	より	そうぞうよりおおきなたてものだった。	想像より大きな建物だった。	より: mental image as baseline — real size exceeded the imagined reference	[sound:6e7caabab606.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say health is more important than money.	より	けんこうはおかねよりたいせつだ。	健康はお金より大切だ。	より: value comparison — money as lower-ranked baseline for health's value	[sound:f840c5f85710.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say children are more energetic than adults.	より	こどもはおとなよりげんきだ。	子供は大人より元気だ。	より: demographic comparison — adults as baseline; children rated higher	[sound:4b397bd81cda.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say spring is warmer than winter.	より	はるはふゆよりあたたかい。	春は冬より暖かい。	より: seasonal ranking — winter as colder baseline for spring comparison	[sound:8022186444da.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say she was older than she looked.	より	かのじょはみためよりとしうえだった。	彼女は見た目より年上だった。	より: appearance as baseline — actual age exceeded visual impression	[sound:b9705cd66626.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say running is faster than walking.	より	あるくよりはしるほうがはやい。	歩くより走る方が速い。	より: action comparison — walking as slower baseline; running rated above	[sound:9134998b0b8d.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say the movie was more interesting than its reputation.	より	そのえいがはひょうばんよりおもしろかった。	その映画は評判より面白かった。	より: reputation as baseline — actual experience exceeded advance reputation	[sound:4d40b4ebe66d.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say the real thing was more beautiful than the photo.	より	ほんものはしゃしんよりうつくしかった。	本物は写真より美しかった。	より: medium as baseline — photo is reference; real thing surpasses it	[sound:c232c9f7983f.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say the grades were better than expected.	より	せいせきはよそうよりよかった。	成績は予想よりよかった。	より: forecast as baseline — actual result exceeded the predicted outcome	[sound:7b5d0abbb9b1.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say the problem was harder than the textbook.	より	もんだいはきょうかしょよりむずかしかった。	問題は教科書より難しかった。	より: source material as baseline — real problem exceeded the textbook level	[sound:285742d97377.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio
+Say summer is hotter than spring.	より	なつははるよりあつい。	夏は春より暑い。	より: seasonal ranking — spring as cooler baseline; summer rated higher	[sound:fa224074ebdd.mp3]	module:02-n4 jlpt:n4 point:より complexity:standard source:shin-kanzen scaffold:pending-audio

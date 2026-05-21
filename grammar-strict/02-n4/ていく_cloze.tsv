@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 {{c1::今勉強している。}}	いまべんきょうしている。	ongoing action with ている	[sound:0a880b4012e4.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
 {{c1::窓が開いてある。}}	まどがひらいてある。	state resultant with てある	[sound:16290eee525c.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
@@ -20,7 +20,7 @@
 {{c1::本が棚に積んであります。}}	ほんがたなにつんであります。	arranged state	[sound:6a7e6a582d0d.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top5k complexity:intro
 {{c1::スキーをしてみたいですか。}}	すきーをしてみたいですか。	desire to attempt	[sound:62f7d183170d.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top10k complexity:intro
 {{c1::雪が積もっていく。}}	ゆきがつもっていく。	progressive accumulation	[sound:2c98eb7942e1.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
-{{c1::ここで5年働いている。}}	ここで5ねんはたらいている。	continuing state	[sound:5d9e0e3643f8.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
+{{c1::ここで5年働いている。}}	ここでごねんはたらいている。	continuing state	[sound:5d9e0e3643f8.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
 {{c1::チケットを今から予約しておきます。}}	ちけっとをいまからよやくしておきます。	advance preparation	[sound:50cf518339c6.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:advanced source:shin-kanzen sense:te-iru-family frequency:top5k complexity:intro
 {{c1::花が咲いてしまった。}}	はながさいてしまった。	unexpected completion	[sound:addce8983495.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:top1k complexity:intro
 {{c1::夕日を眺めている。}}	ゆうひをながめている。	ongoing observation	[sound:40f1606d3866.mp3]	module:02-n4 jlpt:n4 register:neutral point:ていく pos:expr complexity:standard source:shin-kanzen sense:te-iru-family frequency:low complexity:intro

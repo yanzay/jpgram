@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 Could you give me a hand?	ちょっと手伝ってくれない？	ちょっとてつだってくれない？	ちょっと手伝ってくれない？	casual favor request	[sound:e3e8a68ed2b2.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored source:shin-kanzen frequency:top1k complexity:standard
 Could I ask you to carry this luggage?	この荷物を運んでもらえませんか。	このにもつをはこんでもらえませんか。	この荷物を運んでもらえませんか。	polite favor request	[sound:6d6d4a27d3b9.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored source:shin-kanzen frequency:top10k complexity:standard

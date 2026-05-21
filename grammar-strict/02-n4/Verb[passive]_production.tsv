@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 This book is read all over the world.	この本は世界中で読まれています。	このほんはせかいちゅうでよまれています。	この本は世界中で読まれています。	impersonal passive, focus on book	[sound:4f4b1bc434a8.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] source:authored source:shin-kanzen frequency:top5k complexity:standard
 I was bitten on the hand by a dog.	犬に手を噛まれました。	いぬにてをかまれました。	犬に手を噛まれました。	adversative passive, harm to speaker	[sound:64ea12c32093.mp3]	module:02-n4 jlpt:n4 point:Verb[passive] source:authored source:shin-kanzen frequency:top1k complexity:intro

@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 彼は毎日勉強しているのに、試験に落ちた。	-のに	-けども	のに	-のに = result contradicts expectation	Result contradicts expectation; consequence surprising.	[sound:86c9947573f1.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:top5k source:shin-kanzen
 実は値段は高いとはいえ、品質は最高だ。	-とはいえ	-にもかかわらず	とはいえ	-とはいえ acknowledges concession	Acknowledges point but continues despite it.	[sound:5f71de23367d.mp3]	module:03-n3 jlpt:n3 point:ながらも complexity:standard frequency:low source:shin-kanzen

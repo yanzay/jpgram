@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Besides this cake, there are other delicious desserts.	このケーキの他にも、おいしいデザートがありますよ。	このけーきのほかにも、おいしいでざーとがありますよ。	このケーキの他にも、おいしいデザートがありますよ。	ほかにも = also more exist	[sound:c7726e3f2fab.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
-Do you have any other requests?	他には何かご要望はありますか。	ほかにはなにかごようぼうはありますか。	他には何かご要望はありますか。	ほかには in customer service	[sound:c292de51ba19.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:low complexity:standard
-Besides this problem, there are many other things to resolve.	この問題の他にも、解決すべきことはたくさんあります。	このもんだいのほかにも、かいけつすべきことはたくさんあります。	この問題の他にも、解決すべきことはたくさんあります。	ほかにも adds to the issue list	[sound:40d5ee3c963f.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
-There might be other better methods too.	他にもっといい方法があるかもしれません。	ほかにもっといいほうほうがあるかもしれません。	他にもっといい方法があるかもしれません。	ほかにも possibility	[sound:74b8f0605704.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
-I have nothing else. This is all.	他には何も持っていません。これだけです。	ほかにはなにももっていません。これだけです。	他には何も持っていません。これだけです。	ほかには negates additional items	[sound:90c449699d10.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
+Besides this cake, there are other delicious desserts.	このケーキの他にも、おいしいデザートがありますよ。	このけーきのほかにも、おいしいでざーとがありますよ。	このケーキの他にも、おいしいデザートがありますよ。	ほかにも: there are also others — more options/items exist beyond those mentioned	[sound:c7726e3f2fab.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
+Do you have any other requests?	他には何かご要望はありますか。	ほかにはなにかごようぼうはありますか。	他には何かご要望はありますか。	ほかには: as for other options — what else is there? framing	[sound:c292de51ba19.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:low complexity:standard
+Besides this problem, there are many other things to resolve.	この問題の他にも、解決すべきことはたくさんあります。	このもんだいのほかにも、かいけつすべきことはたくさんあります。	この問題の他にも、解決すべきことはたくさんあります。	ほかに vs 他に: same word — kanji/kana variants	[sound:40d5ee3c963f.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
+There might be other better methods too.	他にもっといい方法があるかもしれません。	ほかにもっといいほうほうがあるかもしれません。	他にもっといい方法があるかもしれません。	ほかにも〜がある: more things exist — additional items in the set	[sound:74b8f0605704.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard
+I have nothing else. This is all.	他には何も持っていません。これだけです。	ほかにはなにももっていません。これだけです。	他には何も持っていません。これだけです。	ほかには〜ない: there's nothing else — only X; no alternatives	[sound:90c449699d10.mp3]	module:02-n4 jlpt:n4 point:ほかにも-ほかには source:authored source:shin-kanzen frequency:top10k complexity:standard

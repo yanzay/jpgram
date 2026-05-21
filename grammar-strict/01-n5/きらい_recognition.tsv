@@ -2,10 +2,10 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
+#deck:Japanese Grammar::01 - N5 Grammar::Recognition
 
-私は虫が嫌いです。	わたしはむしがきらいです。	I dislike insects.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike		嫌い (な-adj) takes が like 好き	[sound:f5c9fdee26ea.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
-彼は野菜が嫌いだ。	かれはやさいがきらいだ。	He dislikes vegetables.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike		嫌い (な-adj) takes が like 好き	[sound:ed3043cf422a.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
-雨の日が嫌いです。	あめのひがきらいです。	I don't like rainy days.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike		嫌い (な-adj) takes が like 好き	[sound:3b9691fa647c.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
-嘘をつく人が嫌いです。	うそをつくひとがきらいです。	I dislike people who lie.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike		嫌い (な-adj) takes が like 好き	[sound:d5f5fc202917.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
-あの先生は数学が嫌いな生徒に優しい。	あのせんせいはすうがくがきらいなせいとにやさしい。	That teacher is kind to students who dislike math.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike		嫌い (な-adj) takes が like 好き	[sound:cf9d0bef6da1.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:standard
+私は虫が嫌いです。	わたしはむしがきらいです。	I dislike insects.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike	object with が	嫌い (な-adj) takes が like 好き	[sound:f5c9fdee26ea.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
+彼は野菜が嫌いだ。	かれはやさいがきらいだ。	He dislikes vegetables.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike	plain dislike	嫌い (な-adj) takes が like 好き	[sound:ed3043cf422a.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
+雨の日が嫌いです。	あめのひがきらいです。	I don't like rainy days.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike	type-of-day dislike	嫌い (な-adj) takes が like 好き	[sound:3b9691fa647c.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
+嘘をつく人が嫌いです。	うそをつくひとがきらいです。	I dislike people who lie.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike	modifier + 人 + が	嫌い (な-adj) takes が like 好き	[sound:d5f5fc202917.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:intro
+あの先生は数学が嫌いな生徒に優しい。	あのせんせいはすうがくがきらいなせいとにやさしい。	That teacher is kind to students who dislike math.	嫌い (dislike)	(Topic) は + Object + が + 嫌い(です)	states dislike	嫌い modifying 生徒	嫌い (な-adj) takes が like 好き	[sound:cf9d0bef6da1.mp3]	module:01-n5 jlpt:n5 point:きらい source:authored source:shin-kanzen frequency:top5k complexity:standard

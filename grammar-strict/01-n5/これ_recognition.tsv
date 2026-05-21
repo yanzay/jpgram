@@ -2,10 +2,10 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
+#deck:Japanese Grammar::01 - N5 Grammar::Recognition
 
-これは本です。	これはほんです。	This is a book.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker		これ near speaker; それ near listener; あれ far from both	[sound:1012a2633b91.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top1k complexity:intro
-これをください。	これをください。	Please give me this.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker		これ near speaker; それ near listener; あれ far from both	[sound:29c8fa41c8c3.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen complexity:intro
-これは美味しいです。	これはおいしいです。	This is delicious.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker		これ near speaker; それ near listener; あれ far from both	[sound:820e01e6aa52.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top1k complexity:intro
-これは何ですか。	これはなにですか。	What is this?	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker		これ near speaker; それ near listener; あれ far from both	[sound:7770e30a4148.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top10k complexity:intro
-これが私のかばんです。	これがわたしのかばんです。	This is my bag.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker		これ near speaker; それ near listener; あれ far from both	[sound:c5ff5fc63a1f.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top1k complexity:intro
+これは本です。	これはほんです。	This is a book.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker	near speaker, identifying	これ near speaker; それ near listener; あれ far from both	[sound:1012a2633b91.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top1k complexity:intro
+これをください。	これをください。	Please give me this.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker	near speaker, requesting	これ near speaker; それ near listener; あれ far from both	[sound:29c8fa41c8c3.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen complexity:intro
+これは美味しいです。	これはおいしいです。	This is delicious.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker	near speaker, evaluating	これ near speaker; それ near listener; あれ far from both	[sound:820e01e6aa52.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top1k complexity:intro
+これは何ですか。	これはなにですか。	What is this?	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker	near speaker, asking	これ near speaker; それ near listener; あれ far from both	[sound:7770e30a4148.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top10k complexity:intro
+これが私のかばんです。	これがわたしのかばんです。	This is my bag.	これ (this — pronoun)	これ + は/が/を …	refers to something near the speaker	identifying with が	これ near speaker; それ near listener; あれ far from both	[sound:c5ff5fc63a1f.mp3]	module:01-n5 jlpt:n5 point:これ source:authored source:shin-kanzen frequency:top1k complexity:intro

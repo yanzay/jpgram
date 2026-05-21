@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 雨なら、___ vs 雨が降ったら、___。	いいでしょう	つらいでしょう	いいでしょう	なら = given topic	なら = open condition	[sound:f3d0d84cae44.mp3]	module:02-n4 jlpt:n4 register:neutral point:なら pos:expr frequency:top1k complexity:standard confusable-with:つらいでしょう source:shin-kanzen sense:conditionals
 食べ物なら、___ vs 食べ物を食べたら、___。	好きなものが多い	満腹になる	好きなものが多い	なら = topic generalization	なら = about the topic	[sound:d5b6f7bd7793.mp3]	module:02-n4 jlpt:n4 register:neutral point:なら pos:expr frequency:top1k complexity:standard confusable-with:満腹になる source:shin-kanzen sense:conditionals

@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+#deck:Japanese Grammar::13 - L1 Interference::Contrast
 
 学生です	学生です	学生です	学生です	I am a student (no article needed)	Drop English 'a'	[sound:1156be0eef82.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:学生です source:curated-jpgram
 猫を飼っています	猫を飼っています	猫を飼っています	猫を飼っています	I am raising a cat (no article)	Drop English 'a'	[sound:ea558070b6b6.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:猫を飼っています source:curated-jpgram
