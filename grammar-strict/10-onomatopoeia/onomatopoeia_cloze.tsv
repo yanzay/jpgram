@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Cloze
+#deck:Japanese Grammar::10 - Onomatopoeia::Cloze
 
 雨が{{c1::ざーざー}}と降っている。	あめが{{c1::ざーざー}}とふっている。	heavy rain falling outside	[sound:1ae8b3bec68b.mp3]	module:10-onomatopoeia point:onomatopoeia complexity:intro frequency:top1k source:dictionary-of-jp-grammar
 雪が{{c1::ふわふわ}}と降ってくる。	ゆきが{{c1::ふわふわ}}とふってくる。	snow falling softly	[sound:839c0d2cda24.mp3]	module:10-onomatopoeia point:onomatopoeia complexity:intro frequency:top1k source:dictionary-of-jp-grammar

@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I fell and hurt my knee.	転んで、膝を怪我しました。	ころんで、ひざをけがしました。	転んで、膝を怪我しました。	て: falling caused the injury	[sound:c3d47ce833cb.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 source:authored source:shin-kanzen frequency:low complexity:intro
 The train was delayed and I didn't make it to the meeting.	電車が遅れて、会議に間に合いませんでした。	でんしゃがおくれて、かいぎにまにあいませんでした。	電車が遅れて、会議に間に合いませんでした。	て: delay caused missing meeting	[sound:d6c245289663.mp3]	module:02-n4 jlpt:n4 point:verbて-b2 source:authored source:shin-kanzen frequency:top10k complexity:standard

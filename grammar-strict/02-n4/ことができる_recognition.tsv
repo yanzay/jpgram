@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 猫がいます。	ねこがいます。	There is a cat.	existence-animate	A がいます	animate existence (living things)	animals/people	ない	[sound:50172ce2ea62.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:intro frequency:top1k source:shin-kanzen
 机がいますか？	つくえがいますか。	Is there a desk?	existence-animate-question	A が + います + か	question animate existence	question form	ない	[sound:b502281a9e97.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:intro frequency:top1k source:shin-kanzen

@@ -2,35 +2,10 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Contrast
-
-努力すべし	ねばならない	〜べきだ	べし	Classical obligation	〜べし is more formal/ancient	[sound:a4e75ceea016.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-行くべきではない	〜べからず	〜べきではない	べからず	Classical prohibition	〜べからず: archaic prohibition	[sound:8b099d590c0c.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-見ざる	見ない	見ざる	ざる	Classical negation	〜ざる is ancient form	[sound:2b51c890ca97.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-言わざる	言わない	言わざる	ざる	Classical negation	〜ざる in literary context	[sound:822c584e4eb3.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-知りぬ	知らない	知りぬ	ぬ	Classical negation	〜ぬ is archaic form	[sound:eb6f4e315f35.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-去りぬ	去らない	去りぬ	ぬ	Classical negation	〜ぬ marks classical past	[sound:20b5095207bd.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-医者たり	医者だ	医者たり	たり	Copular state	〜たり marks profession	[sound:eec1e9c18b9f.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-彼は賢き者たり	彼は賢い	たり	〜たり	Copular state	〜たり is literary copula	[sound:792a83ff8500.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-学ぶべし	学ぶべきだ	学ぶべし	べし	Classical obligation	〜べし marks duty/obligation	[sound:214630a2c23c.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-傷つけるべからず	傷つけてはいけない	傷つけるべからず	べからず	Classical prohibition	〜べからず is strict prohibition	[sound:9cb12cf33617.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-認めざる	認めない	認めざる	ざる	Classical negation	〜ざる negates action	[sound:e5c67a9372f5.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-止まりぬ	止まらない	止まりぬ	ぬ	Classical negation	〜ぬ is permanent negation	[sound:769526cdccaa.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-医者たるべし	医者であるべきだ	医者たるべし	たり	Copular state	〜たり+べし compound form	[sound:4d00abf6de7e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-学者たる身	学者である身	学者たる身	たり	Copular state	〜たり shows status	[sound:48d86077ccf1.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-起こるまじ	起こるはずがない	起こるまじ	まじ	Negative assumption	〜まじ negates possibility	[sound:ff163e9d49af.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-知るまじき秘密	知るはずのない秘密	知るまじき秘密	まじ	Negative assumption	〜まじき is forbidden	[sound:5a63efad4c2a.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-来ぬ	来ない	来ぬ	ぬ	Classical negation	〜ぬ negates arrival	[sound:5181f091825e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-言わぬことあり	言わないことがある	言わぬことあり	ぬ	Classical negation	〜ぬ + ことあり pattern	[sound:19c815c67393.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-行かむ	行こう	行かむ	む	Volitional/future	〜む is volitional intention	[sound:d9e356e5b973.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro source:shin-kanzen
-何をなさんとするか	何をしようとしているか	何をなさんとするか	ん	Volitional/future	〜ん contraction	[sound:64e434ccceb4.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-死なんとす	死のうとしている	死なんとす	ん	Volitional/future	〜ん+とす shows imminent	[sound:147b498ddbd2.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-彼は医者たり	彼は医者だ	彼は医者たり	たり	Copular state	〜たり simple state	[sound:9adf768e5c16.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
-昨日来たけり	昨日来たらしい	昨日来たけり	けり	Retrospective perfect	〜けり marks hindsight	[sound:419f1966ad7f.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-何があったけむ	何があったであろう	何があったけむ	けむ	Conjectural past	〜けむ conjectures past	[sound:7995535dbfb0.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-言うべきことあり	言うべきことがある	言うべきことあり	べし	Classical obligation	〜べし+ことあり pattern	[sound:f07415e936d2.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-見るまじきもの	見るべきではないもの	見るまじきもの	まじ	Negative assumption	〜まじき negates viewing	[sound:935600856a2e.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
-知らぬが仏	知らないが仏	知らぬが仏	ぬ	Classical negation	〜ぬ in idiom	[sound:9ab4d3d88bbd.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-行きし人	行った人	行きし人	し	Perfective past	〜し marks classical past	[sound:7061dfa6f5fc.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top10k source:shin-kanzen
-彼は去りぬ	彼は去った	彼は去りぬ	ぬ	Classical negation	〜ぬ marks completion	[sound:6da6a272b345.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top5k source:shin-kanzen
-その話は本当たり	その話は本当だ	その話は本当たり	たり	Copular state	〜たり identifies truth	[sound:e20e2a9d66f9.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:intro frequency:top1k source:shin-kanzen
+#deck:Japanese Grammar::04 - N2 Grammar::Contrast
+費用の問題で、計画を変更せ___を得ない。	ざる	ず	ざる	ざるを得ない: no choice but to — classical neg ざる + を得ない; forced by circumstance	forced=ざるを得ない	[sound:ffb1aa48d733.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard confusable-with:なければならない source:shin-kanzen scaffold:pending-audio
+体調が悪くて、休ま___を得ない。	ざる	ず	ざる	ざるを得ない: compelled to rest — not by duty but by circumstances	circumstances force=ざるを得ない	[sound:1f1672da72d3.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard confusable-with:なければならない source:shin-kanzen scaffold:pending-audio
+毎日早く起きなければ___。（義務・当然）	ならない	ざるを得ない	ならない	なければならない: obligation/duty; ざるを得ない: unavoidable due to circumstances	duty=ならない; forced=ざるを得ない	[sound:041f911e35d1.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard confusable-with:なければならない source:shin-kanzen scaffold:pending-audio
+彼は自分の失敗を認め___を得なかった。	ざる	ず	ざる	ざるを得なかった: was forced to (past) — had no choice but to admit it	past forced=ざるを得なかった	[sound:b552dd530e47.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard confusable-with:なければならない source:shin-kanzen scaffold:pending-audio
+知ら___者は仕方がない。（古典的否定）	ざる	ない	ざる	ざる: classical neg form of ない — attaches to 未然形 (irrealis); formal literary	classical neg=ざる	[sound:3b0eb2a6c4bb.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard confusable-with:ない source:shin-kanzen scaffold:pending-audio
+そうせ___を得なかった状況だった。	ざる	ず	ざる	ざるを得ない stem: classical irrealis + ざる + を得ない; する→せ+ざる+を得ない	する→せ+ざる	[sound:9a528831e552.mp3]	module:04-n2 jlpt:n2 point:ざる complexity:standard confusable-with:なければならない source:shin-kanzen scaffold:pending-audio

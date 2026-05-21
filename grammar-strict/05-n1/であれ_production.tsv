@@ -2,8 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+#deck:Japanese Grammar::05 - N1 Grammar::Production
 
 If it rains, the event will be postponed.	V-plain + としたら	もしあめだとしたら、いべんとはえんきされる。	もし雨だとしたら、イベントは延期される。	Hypothetical 'supposing/if' — formal speculation about consequences	[sound:c52d5c0745af.mp3]	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen sense:conditional-alternatives
 What if he comes?	V-plain + としたら	かれがきたとしたら、どうしよう。	彼が来たとしたら、どうしよう。	Hypothetical 'supposing/if' — formal speculation about consequences	[sound:c5f6fb374381.mp3]	module:05-n1 jlpt:n1 point:であれ complexity:standard frequency:top10k source:shin-kanzen sense:conditional-alternatives

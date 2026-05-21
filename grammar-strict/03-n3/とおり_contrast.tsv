@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 彼が来たところに、___が降った。	雨	雪	雨	Both possible but rain more common	Moment of arrival + rain	[sound:7e85c071ee08.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k frequency:top10k confusable-with:雪 source:shin-kanzen
 会議の___に、皆が寝ていた。	間	中	間	間 = during; 中 = within	During meeting period	[sound:94a410efd109.mp3]	module:03-n3 jlpt:n3 point:とおり complexity:standard frequency:top5k confusable-with:中 source:shin-kanzen

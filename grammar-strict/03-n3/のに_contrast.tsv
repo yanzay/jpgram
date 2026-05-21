@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 彼は来たのに、___話さなかった。	何も	全く	何も	Both work but 何も more natural in negative context	何も = nothing at all	[sound:4fd13bc4c3e2.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k confusable-with:全く source:shin-kanzen
 雨___、皆が外に出た。	なのに	ので	なのに	のに = expectation violation; ので = reason/cause	のに for contradiction	[sound:1e010020a3a2.mp3]	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k frequency:top10k complexity:intro confusable-with:ので source:shin-kanzen

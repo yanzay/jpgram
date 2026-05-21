@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Cloze
+#deck:Japanese Grammar::05 - N1 Grammar::Cloze
 
 この危機{{c1::にあって}}冷静が必要だ。	このききにあってれいせいがひつようだ。	in crisis	[sound:66f33da3a3e1.mp3]	module:05-n1 jlpt:n1 point:に足る complexity:intro frequency:low source:shin-kanzen
 困難の中{{c1::にあっても}}希望を失わない。	こんなんのなかにあってもきぼうをうしなわない。	even in difficulty	[sound:0016fe6f6bb2.mp3]	module:05-n1 jlpt:n1 point:に足る complexity:standard frequency:top10k source:shin-kanzen

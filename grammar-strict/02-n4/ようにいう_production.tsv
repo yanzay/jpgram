@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 The teacher told the students to be quiet.	先生は学生に静かにするように言いました。	せんせいはがくせいにしずかにするようにいいました。	先生は学生に静かにするように言いました。	indirect command via ようにいう	[sound:7a4650cadca1.mp3]	module:02-n4 jlpt:n4 point:ようにいう source:authored source:shin-kanzen frequency:top1k complexity:standard
 I was told by my mother to come home early.	母に早く帰ってくるように言われました。	ははにはやくかえってくるようにいわれました。	母に早く帰ってくるように言われました。	passive receive of indirect command	[sound:fdbdd9d0cd9c.mp3]	module:02-n4 jlpt:n4 point:ようにいう source:authored source:shin-kanzen frequency:top1k complexity:standard

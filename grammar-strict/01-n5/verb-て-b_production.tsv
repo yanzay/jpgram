@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I go to school and study.	学校に行って、勉強します。	がっこうにいって、べんきょうします。	学校に行って、勉強します。	A leads to B	[sound:bf36c90703d4.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top1k complexity:intro
-I finished my homework and watched TV.	宿題を終わって、テレビを見ました。	しゅくだいをおわって、てれびをみました。	宿題を終わって、テレビを見ました。	completion of A leads to B	[sound:e7e138e10543.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top1k complexity:standard
-I take the train and go to work.	電車に乗って、会社に行きます。	でんしゃにのって、かいしゃにいきます。	電車に乗って、会社に行きます。	means + result	[sound:350d41367a75.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top10k complexity:standard
-I made the meal and ate with family.	ご飯を作って、家族と食べた。	ごはんをつくって、かぞくとたべた。	ご飯を作って、家族と食べた。	preparation then action	[sound:b738a8172206.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top10k complexity:standard
-I bought a book and read it at home.	本を買って、家で読みました。	ほんをかって、いえでよみました。	本を買って、家で読みました。	purchase then action	[sound:a1effc3e3a0f.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top10k complexity:standard
+I go to school and study.	学校に行って、勉強します。	がっこうにいって、べんきょうします。	学校に行って、勉強します。	V-て: causal result — state X causes / leads to outcome Y	[sound:bf36c90703d4.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top1k complexity:intro
+I finished my homework and watched TV.	宿題を終わって、テレビを見ました。	しゅくだいをおわって、てれびをみました。	宿題を終わって、テレビを見ました。	V-て: emotive cause — feeling X causes involuntary action Y	[sound:e7e138e10543.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top1k complexity:standard
+I take the train and go to work.	電車に乗って、会社に行きます。	でんしゃにのって、かいしゃにいきます。	電車に乗って、会社に行きます。	V-て: negative consequence — bad state X leads to problem Y	[sound:350d41367a75.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top10k complexity:standard
+I made the meal and ate with family.	ご飯を作って、家族と食べた。	ごはんをつくって、かぞくとたべた。	ご飯を作って、家族と食べた。	V-て: physical → behavioral — physical state triggers next behavior	[sound:b738a8172206.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top10k complexity:standard
+I bought a book and read it at home.	本を買って、家で読みました。	ほんをかって、いえでよみました。	本を買って、家で読みました。	V-て: enabling sequence — completing X makes Y possible	[sound:a1effc3e3a0f.mp3]	module:01-n5 jlpt:n5 point:verb-て-b source:authored source:shin-kanzen frequency:top10k complexity:standard

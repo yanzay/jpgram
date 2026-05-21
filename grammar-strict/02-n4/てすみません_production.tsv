@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I'm sorry for being late. The train was delayed.	遅れてすみません。電車が遅延しました。	おくれてすみません。でんしゃがちえんしました。	遅れてすみません。電車が遅延しました。	apology for lateness	[sound:f8b063945701.mp3]	module:02-n4 jlpt:n4 point:てすみません source:authored source:shin-kanzen frequency:top10k complexity:standard
 I'm sorry for being so noisy.	うるさくしてすみませんでした。	うるさくしてすみませんでした。	うるさくしてすみませんでした。	apology for past noisy behavior	[sound:6dcdee2843ab.mp3]	module:02-n4 jlpt:n4 point:てすみません source:authored source:shin-kanzen complexity:standard

@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Cloze
+#deck:Japanese Grammar::04 - N2 Grammar::Cloze
 
 金がないくせに、{{c1::贅沢を言う}}。	きんがないくせに、{{c1::ぜいたくをいう}}。	makes extravagant demands	[sound:022673684574.mp3]	module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
 小さいわりに、{{c1::強い}}。	ちーさいわりに、{{c1::つよい}}。	strong	[sound:bc88e3f38793.mp3]	module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen

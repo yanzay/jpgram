@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Recognition
+#deck:Japanese Grammar::13 - L1 Interference::Recognition
 
 学生です	がくせいです	I am a student (no article needed)	contrast-derived	学生です	I am a student (no article needed)	Drop English 'a'	学生です vs 学生です	[sound:1156be0eef82.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:学生です source:curated-jpgram
 猫を飼っています	ねこをかっています	I am raising a cat (no article)	contrast-derived	猫を飼っています	I am raising a cat (no article)	Drop English 'a'	猫を飼っています vs 猫を飼っています	[sound:ea558070b6b6.mp3]	module:13-l1 point:l1-articles-and-number frequency:top1k complexity:intro confusable-with:猫を飼っています source:curated-jpgram

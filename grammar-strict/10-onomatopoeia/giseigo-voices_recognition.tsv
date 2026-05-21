@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Recognition
+#deck:Japanese Grammar::10 - Onomatopoeia::Recognition
 
 ワンワン	わんわん	Woof woof.	Dog bark	animal voice	actual sound	dog sound	meow (ニャー)	[sound:d089c6bae983.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
 ニャー	にゃー	Meow.	Cat cry	animal voice	actual sound	cat sound	woof (ワン)	[sound:47d9e36d59dd.mp3]	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar

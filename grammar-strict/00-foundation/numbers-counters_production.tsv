@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::00 - Foundation::Production
+#deck:Japanese Grammar::00 - Foundation::Production
 
 "Say ""There are three cats"" using 匹."	匹	ねこがさんびきいます。	猫が三匹います。	三匹=さんびき (rendaku: び not ひ)	[sound:1d50f09b0e8e.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:numbers-counters source:curated-jpgram frequency:top1k complexity:intro
 "Say ""I bought two books"" using 冊."	冊	ほんをにさつかいました。	本を二冊買いました。	冊 counts bound volumes	[sound:feccd2fb4ddd.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:numbers-counters source:curated-jpgram frequency:top1k complexity:intro

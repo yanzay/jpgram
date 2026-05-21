@@ -2,30 +2,10 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
-
-彼は明日来る___。	そうだ（報告）	そうだ（外観）	そうだ（報告）	Hearsay=plain. Appearance=stem (来そう).	hearsay: plain	[sound:09a9e49f0141.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうだ-外観 frequency:top5k source:shin-kanzen
-雨は___。	降るそうです	降りそうです	降りそうです	Visual observation=降りそう (stem).	appearance: stem	[sound:6fd63e3ced23.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:降るそうです frequency:top1k source:shin-kanzen
-この食事は___。	おいしいそうです	おいしそうです	おいしそうです	Appearance=おいしそう (stem).	food: stem	[sound:daa828f65869.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:おいしいそうです frequency:top5k source:shin-kanzen
-先生は病気だ___。	そうです（報告）	そうです（外観）	そうです（報告）	Reported info=plain.	hearsay	[sound:91b444bba414.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうです-外観 frequency:top1k source:shin-kanzen
-天気予報では雨が___。	降るそうです	降りそうです	降るそうです	Forecast (hearsay)=降るそう.	forecast: hearsay	[sound:0b6fa96d0870.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:降りそうです frequency:top5k source:shin-kanzen
-その花は___。	きれいなそうです	きれいそうです	きれいそうです	Visual: きれいそう (stem).	appearance	[sound:6f60019ac3d6.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:きれいなそうです frequency:top1k source:shin-kanzen
-新作映画は___。	面白いそうです	面白そうです	面白そうです	Visual judgment: 面白そう.	visual: stem	[sound:fc5b5ab887fd.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:面白いそうです frequency:top10k source:shin-kanzen
-彼の意見は___。	正しいそうです	正しそうです	正しそうです	Appearance of truth: 正しそう.	appearance	[sound:217478e803e7.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:正しいそうです frequency:top5k source:shin-kanzen
-ニュースによると、株価は___。	上がるそうです	上がりそうです	上がるそうです	Report (hearsay): 上がるそう.	news: hearsay	[sound:233fd14d42aa.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:上がりそうです frequency:top10k source:shin-kanzen
-朝日は___。	出るそうです	出そうです	出そうです	Visual: 出そう (stem).	observable	[sound:dc7e3d9baa22.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:出るそうです frequency:top5k source:shin-kanzen
-彼女は怒っている___。	ようです	らしいです	ようです	Observed: ようだ. Report: らしい.	observed: ようだ	[sound:ccc41370b550.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:らしいです frequency:top5k source:shin-kanzen
-その話は本当___。	みたいです	らしいです	らしいです	Report (hearsay): らしい. Casual: みたい.	report: らしい	[sound:a3baa8e0bfd1.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:みたいです frequency:top1k source:shin-kanzen
-彼は学生___。	みたいです	のようです	のようです	Typical: ようだ. Casual: みたい.	typical: ようだ	[sound:76cb89befad4.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:みたいです frequency:top5k source:shin-kanzen
-最近流行っている___。	そうです	らしいです	らしいです	Trend (report): らしい.	trend: らしい	[sound:8fd0fbfd2734.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうです frequency:top10k source:shin-kanzen
-子供たちが何か隠している___。	みたいです	ようです	みたいです	Casual: みたい. Formal: ようだ.	casual: みたい	[sound:b319bec028a5.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:ようです frequency:top10k source:shin-kanzen
-彼の態度は何か___。	おかしいそうです	おかしいようです	おかしいようです	Observed behavior: ようだ.	observed	[sound:3dfa2ee71dec.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:おかしいそうです frequency:top10k source:shin-kanzen
-その病気は危険___。	らしいです	そうです	らしいです	Report (hearsay): らしい.	medical report	[sound:85182d3a27f8.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうです frequency:top5k source:shin-kanzen
-風が強い___。	みたいですね	ようですね	ようですね	Visual/sensory: ようだ.	weather	[sound:5fa56bcd7039.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:みたいですね frequency:top1k source:shin-kanzen
-猫が何か食べている___。	みたいです	ようです	ようです	Observable: ようだ or みたい.	animal behavior	[sound:350fa11bf103.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:みたいです frequency:top10k source:shin-kanzen
-その店は新しい___。	そうですね	ようですね	ようですね	Visual impression: ようだ.	appearance	[sound:dd4cfa963955.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうですね frequency:top1k source:shin-kanzen
-彼は怖い___。	みたいです	っぽいです	っぽいです	Character: っぽい. Observation: みたい.	character: っぽい	[sound:10637b5e4695.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:みたいです frequency:top5k source:shin-kanzen
-この色は暗い___。	そうです	っぽいです	っぽいです	Slight: っぽい. Direct: そう.	slight: っぽい	[sound:5453317dedfa.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうです frequency:top1k source:shin-kanzen
-部屋は汚い___。	そうです	っぽいです	っぽいです	Tendency: っぽい. Visual: そう.	tendency: っぽい	[sound:14cea6cc1645.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:そうです frequency:top1k source:shin-kanzen
-その人は怪しい___。	ようです	っぽいです	っぽいです	Character: っぽい. Behavior: ようだ.	character: っぽい	[sound:70e02806fd1d.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro confusable-with:ようです frequency:low source:shin-kanzen
-子供___行動をしている。	みたいな	っぽい	っぽい	Attribute: っぽい. Observation: みたい.	attribute: っぽい	[sound:e482de63178e.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:みたいな frequency:top10k source:shin-kanzen
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
+彼の話し方は子ども___。（傾向）	っぽい	みたい	っぽい	っぽい: informal -ish / tendency — speaker's subjective impression; slight negative nuance	informal impression=っぽい	[sound:5c7a43e1f0b4.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:みたい source:shin-kanzen scaffold:pending-audio
+外が暗くて、雨が降る___。（見た目）	っぽい	みたい	みたい	みたい: looks like / seems like (based on observation); more neutral than っぽい	looks like=みたい	[sound:022191c0960a.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:みたい source:shin-kanzen scaffold:pending-audio
+最近彼女は忘れ___。（習慣的傾向）	っぽい	らしい	っぽい	っぽい: chronic tendency toward X — she tends to forget things (behavioral pattern)	behavioral tendency=っぽい	[sound:53dedb83c6d0.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:らしい source:shin-kanzen scaffold:pending-audio
+彼の服は医者___。（証拠からの推測）	っぽい	らしい	らしい	らしい: inference from evidence — his clothes suggest a doctor; objective evidence	evidence-based=らしい	[sound:1c4dc192459d.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:らしい source:shin-kanzen scaffold:pending-audio
+この布は安っ___。（素材の印象）	ぽい	みたい	ぽい	っぽい with nouns: 安っぽい = cheap-looking; often negative impression	noun+っぽい=looks cheap	[sound:b7e05cab4f04.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:みたい source:shin-kanzen scaffold:pending-audio
+彼は本当に男___性格だ。（典型的）	らしい	っぽい	らしい	らしい (noun-attached): typical of X — 男らしい = manly, typical of a man; positive	typical of=らしい	[sound:171a28903a03.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:standard confusable-with:らしい source:shin-kanzen scaffold:pending-audio

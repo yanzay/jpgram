@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 When I was a child, I couldn't play the piano.	子どものころ、ピアノが弾けませんでした。	こどものころ、ぴあのがはじけませんでした。	子どものころ、ピアノが弾けませんでした。	potential in past negative	[sound:a6ea609c62b6.mp3]	module:02-n4 jlpt:n4 point:Verb[potential] source:authored source:shin-kanzen frequency:top10k complexity:standard
 Can you read this kanji?	この漢字が読めますか。	このかんじがよめますか。	この漢字が読めますか。	question about ability	[sound:9751f48a3c38.mp3]	module:02-n4 jlpt:n4 point:Verb[potential] source:authored source:shin-kanzen frequency:top1k complexity:intro

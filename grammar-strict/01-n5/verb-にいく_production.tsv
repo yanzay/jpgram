@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
 
 I'm going (out) to eat.	ご飯を食べに行きます。	ごはんをたべにいきます。	ご飯を食べに行きます。	purpose: eat → go	[sound:445f3c1e3120.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top10k complexity:intro
-I went to the library to borrow a book.	本を借りに図書館へ行きました。	ほんをかりにとしょかんへいきました。	本を借りに図書館へ行きました。	purpose: borrow	[sound:729b2a3c7689.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top10k complexity:standard
+I went to the library to borrow a book.	本を借りに図書館へ行きました。	ほんをかりにとしょかんへいきました。	本を借りに図書館へ行きました。	V-stem + に + 行く: movement with purpose — masu-stem 借り + に (purpose) + 行く; 'go in order to borrow'	[sound:729b2a3c7689.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top10k complexity:standard
 Won't you go see a movie?	映画を見に行きませんか。	えいがをみにいきませんか。	映画を見に行きませんか。	invite (purpose)	[sound:8e42b7f1671d.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top10k complexity:intro
-I'll go to Tokyo to meet a friend.	友達に会いに東京へ行く。	ともだちにあいにとうきょうへいく。	友達に会いに東京へ行く。	purpose: meet	[sound:2dd6cb034f2d.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top1k complexity:intro
+I'll go to Tokyo to meet a friend.	友達に会いに東京へ行く。	ともだちにあいにとうきょうへいく。	友達に会いに東京へ行く。	V-stem + に + 行く: purpose motion — stem 会い + に + 行く; に marks the goal/purpose of movement, not just direction	[sound:2dd6cb034f2d.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top1k complexity:intro
 I came to do shopping.	買い物をしに来ました。	かいものをしにきました。	買い物をしに来ました。	purpose: shop → came	[sound:a1efb731d856.mp3]	module:01-n5 jlpt:n5 point:verb-にいく source:authored source:shin-kanzen frequency:top10k complexity:intro

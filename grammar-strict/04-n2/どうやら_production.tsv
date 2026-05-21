@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+#deck:Japanese Grammar::04 - N2 Grammar::Production
 
 It seems the trains are running late.	どうやら電車が遅れているらしい。	どうやらでんしゃがおくれているらしい。	どうやら電車が遅れているらしい。	どうやら: delay inferred from available observable signs	[sound:4da14b908abd.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored source:shin-kanzen frequency:top10k complexity:standard
 She appears to be angry, from what I can tell.	どうやら彼女は怒っているようだ。	どうやらかのじょはおこっているようだ。	どうやら彼女は怒っているようだ。	どうやら: anger inferred from visible behavioral cues	[sound:8bfae804eb06.mp3]	module:04-n2 jlpt:n2 point:どうやら source:authored source:shin-kanzen frequency:top5k complexity:standard

@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
 
 このクラスで一番背が高い。	このくらすでいちばんせがたかい。	He's the tallest in this class.	Superlative -ばん	N + の + 中で + 一番 + Adj (superlative: most ~ in group)	Rank supremacy	Clear comparison	648b6c11128d	[sound:671b638d4b16.mp3]	module:03-n3 jlpt:n3 point:だらけ complexity:standard frequency:top1k source:shin-kanzen
 彼は会社で一番売上が高い営業だ。	かれはかいしゃでいちばんうりあげがたかいえいぎょうだ。	He's the top salesman in the company by revenue.	Sales supremacy	N + の + 中で + 一番 + Adj (superlative: most ~ in group)	Performance ranking	Revenue leader	ae4519ae2c8d	[sound:dbd16bc9a63d.mp3]	module:03-n3 jlpt:n3 point:だらけ complexity:standard frequency:low source:shin-kanzen

@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 子供に野菜を食べ{{c1::させた}}。	こどもにやさいをたべ{{c1::させた}}	make eat	[sound:89a23c09c9d4.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro source:shin-kanzen
 学生に宿題を{{c1::させている}}。	がくせいにしゅくだいをさせている。	make do homework	[sound:2232aef2bf4e.mp3]	module:02-n4 jlpt:n4 point:causative frequency:top1k complexity:intro source:shin-kanzen

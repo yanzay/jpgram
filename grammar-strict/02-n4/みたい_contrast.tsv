@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 彼は学生らしい vs 学生のようだ。	らしい	ようだ	らしい	らしい = typical quality/rumor	らしい = characteristic	[sound:840cb552ca14.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top5k complexity:standard confusable-with:ようだ source:shin-kanzen sense:evidentials
 明日は雨のようだ vs 雨みたいです。	ようだ	みたい	ようだ	ようだ = formal conjecture	ようだ = observation	[sound:c3bced4cc2f5.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top1k complexity:standard confusable-with:みたい source:shin-kanzen sense:evidentials

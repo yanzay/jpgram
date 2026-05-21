@@ -2,10 +2,10 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Recognition
+#deck:Japanese Grammar::01 - N5 Grammar::Recognition
 
-学校へ行きます。	がっこうへいきます。	I go to school.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion		へ emphasizes direction; に emphasizes endpoint	[sound:1c6cc033d32b.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
-明日東京へ行きます。	あしたとうきょうへいきます。	I'll go to Tokyo tomorrow.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion		へ emphasizes direction; に emphasizes endpoint	[sound:6f8d03dbe60e.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
-公園へ犬と行きました。	こうえんへいぬといきました。	I went to the park with my dog.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion		へ emphasizes direction; に emphasizes endpoint	[sound:f1703a7998b6.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
-海へ行きたいです。	うみへいきたいです。	I want to go to the sea.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion		へ emphasizes direction; に emphasizes endpoint	[sound:737e54316550.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
-母は店へ行きました。	はははみせへいきました。	Mom went to the store.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion		へ emphasizes direction; に emphasizes endpoint	[sound:e24468c3d3c1.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
+学校へ行きます。	がっこうへいきます。	I go to school.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion	direction with motion	へ emphasizes direction; に emphasizes endpoint	[sound:1c6cc033d32b.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
+明日東京へ行きます。	あしたとうきょうへいきます。	I'll go to Tokyo tomorrow.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion	future motion	へ emphasizes direction; に emphasizes endpoint	[sound:6f8d03dbe60e.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
+公園へ犬と行きました。	こうえんへいぬといきました。	I went to the park with my dog.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion	past motion + companion	へ emphasizes direction; に emphasizes endpoint	[sound:f1703a7998b6.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
+海へ行きたいです。	うみへいきたいです。	I want to go to the sea.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion	destination + desire	へ emphasizes direction; に emphasizes endpoint	[sound:737e54316550.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro
+母は店へ行きました。	はははみせへいきました。	Mom went to the store.	へ + 行く (go to a destination)	Place + へ + 行く	states direction/destination of motion	third-person motion	へ emphasizes direction; に emphasizes endpoint	[sound:e24468c3d3c1.mp3]	module:01-n5 jlpt:n5 point:へいく source:authored source:shin-kanzen frequency:top10k complexity:intro

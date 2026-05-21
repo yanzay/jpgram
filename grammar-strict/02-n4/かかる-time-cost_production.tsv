@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-It takes ten minutes to walk to the station from here.	ここから駅まで歩いて十分かかります。	ここからえきまであるいてじゅうぶんかかります。	ここから駅まで歩いて十分かかります。	travel time with かかる	[sound:86e38e4579e4.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top5k complexity:standard
-This repair cost fifty thousand yen.	この修理には五万円かかりました。	このしゅうりにはごまんえんかかりました。	この修理には五万円かかりました。	repair cost with かかる	[sound:3599984063a6.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top10k complexity:standard
-How much money does moving cost?	引っ越しにはどのくらいお金がかかりますか。	ひっこしにはどのくらいおかねがかかりますか。	引っ越しにはどのくらいお金がかかりますか。	asking about moving costs	[sound:da332ebac663.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:low complexity:standard
-I think this job will take about a week.	この仕事は一週間かかると思います。	このしごとはいっしゅうかんかかるとおもいます。	この仕事は一週間かかると思います。	time estimation	[sound:f96fc9becf8d.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top10k complexity:standard
-Getting a new passport takes a little time.	新しいパスポートを取るのに少し時間がかかります。	あたらしいぱすぽーとをとるのにすこしじかんがかかります。	新しいパスポートを取るのに少し時間がかかります。	administrative time cost	[sound:7f0ade8b85de.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top10k complexity:standard
+It takes ten minutes to walk to the station from here.	ここから駅まで歩いて十分かかります。	ここからえきまであるいてじゅうぶんかかります。	ここから駅まで歩いて十分かかります。	かかる: time/cost required — takes X time / costs X money	[sound:86e38e4579e4.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top5k complexity:standard
+This repair cost fifty thousand yen.	この修理には五万円かかりました。	このしゅうりにはごまんえんかかりました。	この修理には五万円かかりました。	〜かかる: resource consumption — activity consumes N amount	[sound:3599984063a6.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top10k complexity:standard
+How much money does moving cost?	引っ越しにはどのくらいお金がかかりますか。	ひっこしにはどのくらいおかねがかかりますか。	引っ越しにはどのくらいお金がかかりますか。	時間がかかる: time cost — the duration needed for X	[sound:da332ebac663.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:low complexity:standard
+I think this job will take about a week.	この仕事は一週間かかると思います。	このしごとはいっしゅうかんかかるとおもいます。	この仕事は一週間かかると思います。	お金がかかる: financial cost — the monetary expense required	[sound:f96fc9becf8d.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top10k complexity:standard
+Getting a new passport takes a little time.	新しいパスポートを取るのに少し時間がかかります。	あたらしいぱすぽーとをとるのにすこしじかんがかかります。	新しいパスポートを取るのに少し時間がかかります。	かかる vs いる: require vs exist — かかる = costs; いる = is needed	[sound:7f0ade8b85de.mp3]	module:02-n4 jlpt:n4 point:かかる-time-cost source:authored source:shin-kanzen frequency:top10k complexity:standard

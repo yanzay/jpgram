@@ -2,15 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I will go to the store.	店に行こう。	みせにいこう。	店に行こう。	volitional intention with よう	[sound:c6f6a4f56030.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-Let's have coffee together.	一緒にコーヒーを飲みましょう。	いっしょにこーひーをのみましょう。	一緒にコーヒーを飲みましょう。	polite suggestion with ましょう	[sound:b94e0ff1559d.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k
-I'm thinking of studying abroad.	留学しようと思う。	りゅうがくしようとおもう。	留学しようと思う。	intention expression with ようと思う	[sound:3896e8e32e5f.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:intro
-I plan to graduate next year.	来年卒業するつもりです。	らいねんそつぎょうするつもりです。	来年卒業するつもりです。	firm plan with つもり	[sound:e583e6101b4c.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
-We will try our best.	全力を尽くそう。	ぜんりょくをつくそう。	全力を尽くそう。	collective determination	[sound:e7ceb2d8c901.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:low complexity:intro
-Let's start the meeting.	会議を始めましょう。	かいぎをはじめましょう。	会議を始めましょう。	polite proposal	[sound:91d5becac7a5.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
-I intend to finish by Friday.	金曜日までに終わらせるつもりだ。	きんようびまでにおわらせるつもりだ。	金曜日までに終わらせるつもりだ。	clear intention	[sound:a26cc97185f1.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k
-I'm going to call my mother.	母に電話しようと思っています。	ははにでんわしようとおもっています。	母に電話しようと思っています。	planned action	[sound:1291a6039cf3.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k
-Shall we go to the beach?	ビーチに行きましょうか。	びーちにいきましょうか。	ビーチに行きましょうか。	polite question suggestion	[sound:db52f0d91fe0.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
-I plan to change jobs next month.	来月仕事を変えるつもりです。	らいげつしごとをかえるつもりです。	来月仕事を変えるつもりです。	definite plan	[sound:3f07f0d419c2.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:advanced source:shin-kanzen frequency:top5k complexity:standard
+Invite someone to go together.	ましょう	いっしょにいきましょう。	一緒に行きましょう。	ましょう: polite collective invitation — speaker includes self in proposed action	[sound:951ccfb53e7d.mp3]	module:01-n5 jlpt:n5 point:ましょう complexity:standard source:shin-kanzen scaffold:pending-audio
+Suggest starting the meeting now.	ましょう	そろそろはじめましょう。	そろそろ始めましょう。	ましょう: temporal suggestion — 'soon' signals the timing of the polite proposal	[sound:ddc0928f16dd.mp3]	module:01-n5 jlpt:n5 point:ましょう complexity:standard source:shin-kanzen scaffold:pending-audio
+Suggest taking a break.	ましょう	すこしきゅうけいしましょう。	少し休憩しましょう。	ましょう: mutual-benefit proposal — suggests pause that benefits all parties	[sound:d3c3b0bcbdb5.mp3]	module:01-n5 jlpt:n5 point:ましょう complexity:standard source:shin-kanzen scaffold:pending-audio
+Suggest confirming once more.	ましょう	もういちどかくにんしましょう。	もう一度確認しましょう。	ましょう: collaborative verification — joint double-checking proposed together	[sound:439c2ef038a5.mp3]	module:01-n5 jlpt:n5 point:ましょう complexity:standard source:shin-kanzen scaffold:pending-audio
+Rally everyone to do their best.	ましょう	いっしょにがんばりましょう。	一緒に頑張りましょう。	ましょう: collective encouragement — shared determination voiced politely	[sound:59166d790f6d.mp3]	module:01-n5 jlpt:n5 point:ましょう complexity:standard source:shin-kanzen scaffold:pending-audio

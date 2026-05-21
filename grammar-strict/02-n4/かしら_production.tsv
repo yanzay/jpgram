@@ -2,8 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 Whose are we talking about?	かしら	だれのことかしら	誰のことかしら	female rhetorical question	[sound:2cc950f02b01.mp3]	pos:sfp register:feminine module:02-n4 point:かしら complexity:intro frequency:top1k source:dictionary-of-jp-grammar jlpt:n4 source:shin-kanzen
 I wonder what happened.	かしら	どうしたのかしら	どうしたのかしら	female musing aloud	[sound:8e79ab7a290b.mp3]	pos:sfp register:feminine module:02-n4 point:かしら complexity:intro source:dictionary-of-jp-grammar jlpt:n4 source:shin-kanzen

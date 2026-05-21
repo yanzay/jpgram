@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 面白いよ。	面白いね。	面白いよ。	よ	よ asserts strongly; ね seeks agreement.	よ = my opinion; ね = shared?	[sound:97cccc914669.mp3]	module:02-n4 point:かしら complexity:intro frequency:top1k source:dictionary-of-jp-grammar jlpt:n4 source:shin-kanzen
 大変だよ。	大変だね。	大変だよ。	よ	よ emphasizes difficulty emphatically.	よ = heavy emphasis; ね = softer	[sound:501e4f541bd7.mp3]	module:02-n4 point:かしら complexity:intro frequency:top1k source:dictionary-of-jp-grammar jlpt:n4 source:shin-kanzen

@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I'll drink coffee or tea.	コーヒーかお茶を飲みます。	こーひーかおちゃをのみます。	コーヒーかお茶を飲みます。	alternative items	[sound:08727ac4e83a.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top10k complexity:standard
-I'll go by train or bus.	電車かバスで行きます。	でんしゃかばすでいきます。	電車かバスで行きます。	alternative means	[sound:a23e867eef8e.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top10k complexity:intro
-Please choose meat or fish.	肉か魚を選んでください。	にくかさかなをえらんでください。	肉か魚を選んでください。	alternative choice	[sound:b97b7b680c3f.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top1k complexity:intro
-Let's meet on Saturday or Sunday.	土曜日か日曜日に会いましょう。	どようひかにちようひにあいましょう。	土曜日か日曜日に会いましょう。	alternative days	[sound:bc71bb3affa6.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top1k complexity:standard
-I'll buy the red one or the white one.	赤いのか白いのを買います。	あかいのかしろいのをかいます。	赤いのか白いのを買います。	alternative items	[sound:8ba8730c683c.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top1k complexity:standard
+I'll drink coffee or tea.	コーヒーかお茶を飲みます。	こーひーかおちゃをのみます。	コーヒーかお茶を飲みます。	か: disjunctive or — X か Y = either X or Y; one of the two	[sound:08727ac4e83a.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top10k complexity:standard
+I'll go by train or bus.	電車かバスで行きます。	でんしゃかばすでいきます。	電車かバスで行きます。	か vs や: completeness — か = exhaustive pair; や = partial listing	[sound:a23e867eef8e.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top10k complexity:intro
+Please choose meat or fish.	肉か魚を選んでください。	にくかさかなをえらんでください。	肉か魚を選んでください。	〜か〜か: either-or framing — presents exactly two choices	[sound:b97b7b680c3f.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top1k complexity:intro
+Let's meet on Saturday or Sunday.	土曜日か日曜日に会いましょう。	どようびかにちようびにあいましょう。	土曜日か日曜日に会いましょう。	か: embedded yes/no — embeds a binary question into main clause	[sound:bc71bb3affa6.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top1k complexity:standard
+I'll buy the red one or the white one.	赤いのか白いのを買います。	あかいのかしろいのをかいます。	赤いのか白いのを買います。	〜かどうか: whether-or-not — explicit binary uncertainty frame	[sound:8ba8730c683c.mp3]	module:01-n5 jlpt:n5 point:か-or source:authored source:shin-kanzen frequency:top1k complexity:standard

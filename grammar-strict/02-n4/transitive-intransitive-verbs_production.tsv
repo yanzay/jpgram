@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I opened the door. (transitive)	私がドアを開けました。（他動詞）	わたしがどあをあけました。（たどうし）	私がドアを開けました。（他動詞）	開ける: agent acts on door	[sound:c73dff89579e.mp3]	module:02-n4 jlpt:n4 point:transitive-intransitive-verbs source:authored source:shin-kanzen frequency:low complexity:standard
 The door opened. (intransitive)	ドアが開きました。（自動詞）	どあがひらきました。（じどうし）	ドアが開きました。（自動詞）	開く: door changes state on its own	[sound:445d3c256796.mp3]	module:02-n4 jlpt:n4 point:transitive-intransitive-verbs source:authored source:shin-kanzen frequency:top10k complexity:standard

@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 Even if it rains, we'll continue the game.	雨が降っても、試合は続けます。	あめがふっても、しあいはつづけます。	雨が降っても、試合は続けます。	rain doesn't change the plan	[sound:3000f526f125.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:top5k complexity:standard
 No matter how tired I am, I won't give up.	どんなに疲れても、諦めません。	どんなにつかれても、あきらめません。	どんなに疲れても、諦めません。	concession: fatigue doesn't stop me	[sound:76a5853b11e0.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:low complexity:standard

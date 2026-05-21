@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+#deck:Japanese Grammar::04 - N2 Grammar::Production
 
 I will go, but I might be late.	行くことは行くが、遅れるかもしれない。	いくことはいくが、おくれるかもしれない。	行くことは行くが、遅れるかもしれない。	ことは〜が: going is conceded, then lateness is qualified	[sound:673c9587ca8c.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored source:shin-kanzen frequency:top5k complexity:standard
 I do know it, but not in detail.	知っていることは知っているが、詳しくはない。	しっていることはしっているが、くわしくはない。	知っていることは知っているが、詳しくはない。	ことは〜が: knowing is conceded, depth is qualified	[sound:28b0b1007f7b.mp3]	module:04-n2 jlpt:n2 point:ことは-が source:authored source:shin-kanzen complexity:standard

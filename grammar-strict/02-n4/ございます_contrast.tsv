@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Contrast
+#deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 先生が___にきた	いらした	参りました	いらした	いらした = honorific (about teacher); 参りました = humble (about self)	Choose by subject	[sound:45b1b8879eea.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:intro confusable-with:参りました frequency:top1k source:shin-kanzen
 私がお___します	返事	返事	返事	Both use お prefix, but context matters: honorific vs humble verb forms	Teacher/authority → honorific	[sound:9fa1b304fbff.mp3]	module:02-n4 jlpt:n4 point:ございます complexity:intro confusable-with:返事 frequency:top1k source:shin-kanzen

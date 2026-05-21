@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Dictation
+#deck:Japanese Grammar::03 - N3 Grammar::Dictation
 
 [sound:10a2f91e5fd1.mp3]	それほど難しくない。	それほど難しくない。	それほどむずかしくない。	It's not that difficult.	module:03-n3 jlpt:n3 point:ほど complexity:intro frequency:top10k source:shin-kanzen complexity:standard
 [sound:cca8fdba55a5.mp3]	時間ほど大切なもの___ない。	時間ほど大切なものはない。	じかんほどたいせつなものはない。	There's nothing as precious as time.	module:03-n3 jlpt:n3 point:ほど complexity:standard frequency:top1k source:shin-kanzen

@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Please give this dish a try.	この料理、食べてみてください。	このりょうり、たべてみてください。	この料理、食べてみてください。	try eating to see taste	[sound:bdeeca0ec9bb.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top1k complexity:standard
-I'll try doing it myself once.	一度、自分でやってみます。	いちど、じぶんでやってみます。	一度、自分でやってみます。	attempt to see if possible	[sound:d94bf869f8a1.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top5k complexity:intro
-When I tried using the new app, it was very convenient.	新しいアプリを使ってみたら、とても便利でした。	あたらしいあぷりをつかってみたら、とてもべんりでした。	新しいアプリを使ってみたら、とても便利でした。	tried and found result	[sound:24a0935715a5.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top1k complexity:standard
-Let's try asking the teacher.	先生に聞いてみましょう。	せんせいにきいてみましょう。	先生に聞いてみましょう。	try asking to get answer	[sound:401be7f846fc.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top1k complexity:intro
-I tried reading the menu in Japanese.	日本語でメニューを読んでみました。	にほんごでめにゅーをよんでみました。	日本語でメニューを読んでみました。	experimental attempt at reading	[sound:0c285c7ed0da.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:low complexity:standard
+Please give this dish a try.	この料理、食べてみてください。	このりょうり、たべてみてください。	この料理、食べてみてください。	V-てみる: try-doing — attempt X to see how it goes	[sound:bdeeca0ec9bb.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top1k complexity:standard
+I'll try doing it myself once.	一度、自分でやってみます。	いちど、じぶんでやってみます。	一度、自分でやってみます。	V-てみる: experimental action — speaker tries X with curiosity	[sound:d94bf869f8a1.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top5k complexity:intro
+When I tried using the new app, it was very convenient.	新しいアプリを使ってみたら、とても便利でした。	あたらしいあぷりをつかってみたら、とてもべんりでした。	新しいアプリを使ってみたら、とても便利でした。	V-てみる: exploratory frame — 'let me see what happens if I do X'	[sound:24a0935715a5.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top1k complexity:standard
+Let's try asking the teacher.	先生に聞いてみましょう。	せんせいにきいてみましょう。	先生に聞いてみましょう。	V-てみてください: invitation to try — please try doing X	[sound:401be7f846fc.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:top1k complexity:intro
+I tried reading the menu in Japanese.	日本語でメニューを読んでみました。	にほんごでめにゅーをよんでみました。	日本語でメニューを読んでみました。	V-てみたら: after trying — discovered something upon trying X	[sound:0c285c7ed0da.mp3]	module:02-n4 jlpt:n4 point:てみる source:authored source:shin-kanzen frequency:low complexity:standard

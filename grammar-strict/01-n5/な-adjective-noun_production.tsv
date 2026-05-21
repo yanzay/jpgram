@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I want to live in a quiet room.	静かな部屋に住みたいです。	しずかなへやにすみたいです。	静かな部屋に住みたいです。	attributive な-adj	[sound:773c1740dad5.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top10k complexity:standard
-I read books I like.	好きな本を読みます。	すきなほんをよみます。	好きな本を読みます。	attributive な-adj	[sound:1141023e5bef.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top10k complexity:intro
-There are many kind people.	親切な人が多いです。	しんせつなひとがおおいです。	親切な人が多いです。	attributive な-adj	[sound:e8fc78ec0cf3.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top5k complexity:intro
-I bought a convenient tool.	便利な道具を買いました。	べんりなどうぐをかいました。	便利な道具を買いました。	attributive な-adj	[sound:fac3ce891aa4.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top5k complexity:intro
-Do you know a famous writer?	有名な作家を知っていますか。	ゆうめいなさっかをしっていますか。	有名な作家を知っていますか。	attributive な-adj	[sound:fdcad1fa592a.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top10k complexity:standard
+I want to live in a quiet room.	静かな部屋に住みたいです。	しずかなへやにすみたいです。	静かな部屋に住みたいです。	な-adj + な + N: な links adjective to noun — drop な in predicate position	[sound:773c1740dad5.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top10k complexity:standard
+I read books I like.	好きな本を読みます。	すきなほんをよみます。	好きな本を読みます。	な-adj + な + N: use な only before a noun; predicate form drops it (元気だ)	[sound:1141023e5bef.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top10k complexity:intro
+There are many kind people.	親切な人が多いです。	しんせつなひとがおおいです。	親切な人が多いです。	な-adj + な + N: contrast with い-adj which never takes な before noun	[sound:e8fc78ec0cf3.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top5k complexity:intro
+I bought a convenient tool.	便利な道具を買いました。	べんりなどうぐをかいました。	便利な道具を買いました。	な-adj + な + N: negative attributive uses じゃない + N, not なくない + N	[sound:fac3ce891aa4.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top5k complexity:intro
+Do you know a famous writer?	有名な作家を知っていますか。	ゆうめいなさっかをしっていますか。	有名な作家を知っていますか。	な-adj + な + N: な-adj stem is also adverbial base (元気 + に = energetically)	[sound:fdcad1fa592a.mp3]	module:01-n5 jlpt:n5 point:な-adjective-noun source:authored source:shin-kanzen frequency:top10k complexity:standard

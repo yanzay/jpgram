@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 "Say ""I prepared carefully. However, the presentation went badly."" using ところが."	ところが	じゅんびをした。ところが、はっぴょうはうまくいかなかった。	準備をした。ところが、発表はうまくいかなかった。	ところが: unexpected negative after careful preparation	[sound:41058b55e33c.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k
 "Say ""We planned to win. However, we lost easily."" using ところが."	ところが	かつとおもっていた。ところが、かんたんにまけてしまった。	勝つと思っていた。ところが、簡単に負けてしまった。	ところが with sports expectation + failed result	[sound:c589684a141c.mp3]	module:03-n3 jlpt:n3 point:ところが complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k

@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 'I heard Tanaka-san is changing jobs. Did you know?' 'First I've heard of it.'	「田中さん、転職するんだって。知ってた?」「初耳だよ。」	「たなかさん、てんしょくするんだって。しってた？」「はつみみだよ。」	「田中さん、転職するんだって。知ってた？」「初耳だよ。」	んだって: casual third-hand news to a peer	[sound:680b39c39ff4.mp3]	module:03-n3 jlpt:n3 point:んだって source:authored source:shin-kanzen frequency:low complexity:standard
 I heard that shop is closing next month. That's a shame.	あのお店、来月閉店するんだって。残念だね。	あのおみせ、らいげつへいてんするんだって。ざんねんだね。	あのお店、来月閉店するんだって。残念だね。	んだって: reported information about a place	[sound:655663ecc39d.mp3]	module:03-n3 jlpt:n3 point:んだって source:authored source:shin-kanzen frequency:top5k complexity:standard

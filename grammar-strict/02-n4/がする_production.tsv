@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I can smell something good from the kitchen.	キッチンからいいにおいがします。	きっちんからいいにおいがします。	キッチンからいいにおいがします。	passive smell sensation	[sound:37f4d395ef61.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen complexity:standard
-My head hurts and I feel nauseous.	頭が痛くて、吐き気がします。	あたまがいたくて、はきけがします。	頭が痛くて、吐き気がします。	physical feeling	[sound:9b5f1074380e.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:low complexity:standard
-I can hear a strange sound somewhere.	どこかで変な音がします。	どこかでへんなおとがします。	どこかで変な音がします。	sound perception	[sound:4f7b865285af.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:top5k complexity:intro
-I have a bad feeling for some reason.	なんとなく嫌な予感がします。	なんとなくいやなよかんがします。	なんとなく嫌な予感がします。	intuitive feeling	[sound:0185ebd50a51.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:low complexity:standard
-This meat has a slightly strange taste.	この肉は少し変な味がする。	このにくはすこしへんなあじがする。	この肉は少し変な味がする。	taste perception	[sound:706f7a7eb4d5.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:top5k complexity:standard
+My head hurts and I feel nauseous.	頭が痛くて、吐き気がします。	あたまがいたくて、はきけがします。	頭が痛くて、吐き気がします。	がする: perceptual expression — a sound/smell/feeling is perceived	[sound:9b5f1074380e.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:low complexity:standard
+I can hear a strange sound somewhere.	どこかで変な音がします。	どこかでへんなおとがします。	どこかで変な音がします。	においがする: smell detected — speaker perceives an odor	[sound:4f7b865285af.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:top5k complexity:intro
+I have a bad feeling for some reason.	なんとなく嫌な予感がします。	なんとなくいやなよかんがします。	なんとなく嫌な予感がします。	音がする: sound heard — a sound is being heard	[sound:0185ebd50a51.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:low complexity:standard
+This meat has a slightly strange taste.	この肉は少し変な味がする。	このにくはすこしへんなあじがする。	この肉は少し変な味がする。	〜がする: involuntary perception — the stimulus reaches the senses	[sound:706f7a7eb4d5.mp3]	module:02-n4 jlpt:n4 point:がする source:authored source:shin-kanzen frequency:top5k complexity:standard

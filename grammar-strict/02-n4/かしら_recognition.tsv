@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 面白いよ。	おもしろいよ。	よ asserts strongly; ね seeks agreement.	contrast-derived	Sentence + よ (assertion: informing or insisting)	よ asserts strongly; ね seeks agreement.	よ = my opinion; ね = shared?	面白いね。 vs 面白いよ。	[sound:97cccc914669.mp3]	module:02-n4 point:かしら complexity:intro frequency:top1k source:dictionary-of-jp-grammar jlpt:n4 source:shin-kanzen
 大変だよ。	たいへんだよ。	よ emphasizes difficulty emphatically.	contrast-derived	Sentence + よ (assertion: informing or insisting)	よ emphasizes difficulty emphatically.	よ = heavy emphasis; ね = softer	大変だね。 vs 大変だよ。	[sound:501e4f541bd7.mp3]	module:02-n4 point:かしら complexity:intro frequency:top1k source:dictionary-of-jp-grammar jlpt:n4 source:shin-kanzen

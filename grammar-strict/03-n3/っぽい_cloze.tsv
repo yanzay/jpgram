@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
 実は友達は明日来る{{c1::そうです}}。	じつはともだちはあしたくる{{c1::そうです}}。	hearsay: plain + そう	[sound:b12d92633cc3.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro frequency:top10k source:shin-kanzen
 実は空は雨が降り{{c1::そうです}}。	じつはそらはあめがおり{{c1::そうです}}。	appearance: stem + そう	[sound:e443f50a1d1b.mp3]	module:03-n3 jlpt:n3 point:っぽい complexity:intro frequency:top10k source:shin-kanzen

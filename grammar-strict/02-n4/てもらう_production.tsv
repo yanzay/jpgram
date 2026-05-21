@@ -2,41 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I was made by the teacher to do homework.	noun + に + V-せ / さ-せられる	わたしはせんせいにしゅくだいをさせられた。	私は先生に宿題をさせられた。	forced action	[sound:3a0a358579d7.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top1k source:shin-kanzen
-He is being made by his parents to study.	noun + に + V-さ-せられ-ている	かれはおやにべんきょうさせられている。	彼は親に勉強させられている。	ongoing force	[sound:a8c04e2ad5e5.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top5k source:shin-kanzen
-I humbly consulted with my teacher.	V-させ + ていただく	せんせいにそうだんさせていただきました。	先生に相談させていただきました。	humble request	[sound:ed94f20d492b.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top5k source:shin-kanzen
-I would like to humbly take on this project.	V-させ + ていただきたい	このあんけんをたんとうさせていただきたいです。	この案件を担当させていただきたいです。	formal request	[sound:49a2f7b8003c.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-Open the door (transitive).	object + を + V	どあをひらける。	ドアを開ける。	transitive	[sound:147af2399824.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top1k source:shin-kanzen
-The door opens (intransitive).	subject + が + V	どあがひらく。	ドアが開く。	intransitive	[sound:49276ea08fc4.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top1k source:shin-kanzen
-Start the machine (transitive).	object + を + V	きかいをはじめる。	機械を始める。	transitive	[sound:0ccd7dc8c0a5.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top10k source:shin-kanzen
-The machine starts (intransitive).	subject + が + V	きかいがはじまる。	機械が始まる。	intransitive	[sound:87c7b483a3e2.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top10k source:shin-kanzen
-I was impressed by that story (felt impressed).	noun + に + V-ら-れ-た	そのはなしにはかんしんさせられた。	その話には感心させられた。	involuntary admiration	[sound:a5a844a450ef.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-I was struck by his talent (couldn't help being amazed).	noun + に + V-ら-れ-た	かのさいのうにはおどろかされた。	彼の才能には驚かされた。	involuntary amazement	[sound:9671e6a98c6c.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top10k source:shin-kanzen
-I was captivated by the beautiful scenery.	noun + に + V-ら-れ-た	うつくしいけしきにこころうばわれた。	美しい景色に心奪われた。	involuntary captivation	[sound:96ba9239d4d7.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top5k source:shin-kanzen
-I had my son help.	noun + に + V-わ-せ-た	むすこにてつだわせた。	息子に手伝わせた。	causative simple	[sound:4675266928f6.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top5k source:shin-kanzen
-I was made by my brother to prepare.	noun + に + V-ら-れ-た	あににしたくさせられた。	兄に支度させられた。	forced preparation	[sound:cd577cb42297.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top5k source:shin-kanzen
-I will humbly report to Tanaka.	noun + に + V-させ + ていただく	たなかさんにほうこくさせていただきます。	田中さんに報告させていただきます。	formal report	[sound:6da38b6625a8.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-Close the window (transitive).	object + を + V	まどをとじる。	窓を閉じる。	transitive	[sound:783b3546b30a.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top10k source:shin-kanzen
-The window closes (intransitive).	subject + が + V	まどがとじる。	窓が閉じる。	intransitive	[sound:a232dfcf0bf6.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top10k source:shin-kanzen
-I had the servant carry the luggage.	noun + に + object + を + V-ばせ	しようにんににもつをはこばせた。	使用人に荷物を運ばせた。	causative action	[sound:d36229799d9f.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:low source:shin-kanzen
-I had him execute the mission.	noun + に + object + を + V-さ-せ-た	かれににんむをじっこうさせた。	彼に任務を実行させた。	causative execution	[sound:2abf6e7f427a.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:low source:shin-kanzen
-I was made by my subordinate to organize documents.	noun + に + object + を + V-ら-れ-た	ぶかにしょるいをせいりさせられた。	部下に書類を整理させられた。	passive force	[sound:62a10cade145.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:low source:shin-kanzen
-Thanks to the teacher's guidance, I was able to pass.	noun + の + おかげで + V	せんせいのしどうのおかげでごうかくできた。	先生の指導のおかげで合格できた。	passive benefit	[sound:1e957d9d5d59.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-I was allowed/given the opportunity to watch that movie.	V-させ + てもらう	そのえいがをみさせてもらった。	その映画を見させてもらった。	permitted passive	[sound:ad6edb3c57cb.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top1k source:shin-kanzen
-I was allowed by my parents to go to university.	verb + させ + てもらう	おやにだいがくへいかせてもらった。	親に大学へ行かせてもらった。	permitted passive	[sound:281c7b1a1956.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top5k source:shin-kanzen
-He was made by the doctor to undergo an examination.	noun + に + verb + させられた	かれはいしゃにしんさつさせられた。	彼は医者に診察させられた。	medical	[sound:4339a90f8576.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-I had the children draw pictures.	noun + に + verb + させた	こどもたちにえをえがかせた。	子どもたちに絵を描かせた。	children art	[sound:23c54da3ddaa.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top5k source:shin-kanzen
-I would like to humbly have that person guide us.	verb + させ + ていただきたい	そのにんにあんないさせていただきたい。	その人に案内させていただきたい。	formal guidance	[sound:ee228087f1e0.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top5k source:shin-kanzen
-I was allowed to listen to her sing.	verb + させ + てもらう	かのじょにうたわせてもらった。	彼女に歌わせてもらった。	musical	[sound:0e0e79d0f104.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top5k source:shin-kanzen
-I had the students give presentations.	noun + に + verb + させた	がくせいたちにはっぴょうさせた。	学生たちに発表させた。	education	[sound:f7969623cbc9.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top10k source:shin-kanzen
-I received instruction from my senior (humble).	noun + に + V-て + いただく	せんぱいにしどうしていただきました。	先輩に指導していただきました。	respectful receipt	[sound:43c5a1592858.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-I received the company's support.	noun + を + いただく	かいしゃのしえんをいただいた。	会社の支援をいただいた。	honorific receipt	[sound:69fe2064193a.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:top1k source:shin-kanzen
-I was allowed to write a letter by Tanaka.	verb + させ + てもらう	たなかさんにてがみをかかせてもらいました。	田中さんに手紙を書かせてもらいました。	permission	[sound:76c8112deabc.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-Could I humbly be promoted to department head?	verb + させ + ていただける	ぶちょうにしょうしんさせていただけますでしょうか。	部長に昇進させていただけますでしょうか。	formal request	[sound:d84d21576f92.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:low source:shin-kanzen
-I would like to humbly ask you a question.	verb + させ + ていただきたい	せんせいにしつもんさせていただきたいのですが。	先生に質問させていただきたいのですが。	formal query	[sound:250deeb8e7ac.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top1k source:shin-kanzen
-I was impressed by his effort.	noun + に + V-させられた	かのどりょくにかんしんさせられた。	彼の努力に感心させられた。	passive admiration	[sound:c24c3b76a37c.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-I was amazed by that incident and got shaken.	noun + に + V-させられて	そのじけんにはおどろかされて、どうようした。	その事件には驚かされて、動揺した。	shocked	[sound:42dfd377d52c.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard frequency:top10k source:shin-kanzen
-I entrusted the work to my subordinate.	noun + に + object + を + V-わせた	ぶかにしごとをまかさせた。	部下に仕事を任させた。	entrust	[sound:0f36dce44512.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:intro frequency:low source:shin-kanzen
+Say you had the teacher correct your essay.	てもらう	せんせいにさくぶんをなおしてもらった。	先生に作文を直してもらった。	recipient subject receives favor from teacher	[sound:917f2a79d3aa.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you had your friend take a photo.	てもらう	ともだちにしゃしんをとってもらった。	友達に写真を撮ってもらった。	V-てもらう: receive favor — I had X done for my benefit	[sound:9aea6e396f71.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you had your father drive you to the station.	てもらう	ちちにえきまでおくってもらった。	父に駅まで送ってもらった。	beneficiary perspective: I received the action	[sound:aa5c10162513.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you had the doctor prescribe medicine.	てもらう	いしゃにくすりをしょほうしてもらった。	医者に薬を処方してもらった。	てもらう vs てくれる: framing — もらう = I receive; くれる = they give	[sound:df337f1119c4.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
+Ask if you can have him explain it.	てもらう	せつめいしてもらえますか。	説明してもらえますか。	request for favor: can I receive the action?	[sound:8cb1a67f4e0f.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio

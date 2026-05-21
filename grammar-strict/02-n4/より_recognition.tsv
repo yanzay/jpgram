@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 彼は私より背が高い。	かれはわたしよりせがたかい。	He is taller than me.	comparison	A より B	A is more X than B	marks comparison baseline	もっと	[sound:6279698ea70c.mp3]	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top5k source:shin-kanzen
 日本より韓国が好きです。	にほんよりかんこくがすきです。	I prefer Korea to Japan.	comparison	A より B が好き	prefer B more than A	baseline for comparison	のほう	[sound:fbd226ee8fed.mp3]	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top10k source:shin-kanzen

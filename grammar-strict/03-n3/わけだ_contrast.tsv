@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Contrast
+#deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
 彼が来たのは理由があるからで、___。	わけだ	わけではない	わけだ	わけだ = 'it makes sense that'; わけではない = 'it's not that'	Positive assertion vs negation	[sound:a435ba1c2023.mp3]	module:03-n3 jlpt:n3 point:わけだ complexity:standard confusable-with:わけではない frequency:top10k source:shin-kanzen
 失敗したことは確かだが、___。	わけだ	わけではない	わけではない	わけだ asserts; わけではない denies	Fact vs interpretation	[sound:b3765fa7a670.mp3]	module:03-n3 jlpt:n3 point:わけだ complexity:standard confusable-with:わけだ frequency:top5k source:shin-kanzen

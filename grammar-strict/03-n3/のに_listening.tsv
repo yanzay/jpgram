@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+#deck:Japanese Grammar::03 - N3 Grammar::Listening
 
 [sound:7b37cdaa19b7.mp3]	あんなに勉強したのに、試験に落ちた。	あんなにべんきょうしたのに、しけんにおちた。	I studied so much, yet I failed the exam.	Despite effort	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top5k source:shin-kanzen
 [sound:e9ec6ff0f3d5.mp3]	毎日練習しているのに、上手にならない。	まいにちれんしゅうしているのに、じょうずにならない。	I practice daily, yet I don't improve.	Despite routine	module:03-n3 jlpt:n3 point:のに complexity:standard frequency:top1k source:shin-kanzen

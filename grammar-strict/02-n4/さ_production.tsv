@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I was moved by the beauty of the mountains.	山の美しさに感動しました。	やまのうつくしさにかんどうしました。	山の美しさに感動しました。	美しい → 美しさ: beauty as noun	[sound:ee99ab1b34de.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:low complexity:standard
 I like the spiciness of this dish.	この料理の辛さが好きです。	このりょうりのつらさがすきです。	この料理の辛さが好きです。	辛い → 辛さ: degree of spiciness	[sound:906c782786b2.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:top1k complexity:standard
-The darkness of the room is bad for your eyes.	部屋の暗さが目に悪いです。	へやのくらさがめにわるいです。	部屋の暗さが目に悪いです。	暗い → 暗さ	[sound:ae07996fa5d9.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:top1k complexity:standard
+The darkness of the room is bad for your eyes.	部屋の暗さが目に悪いです。	へやのくらさがめにわるいです。	部屋の暗さが目に悪いです。	暗い → 暗さ: 〜さ nominalizer — replace い with さ; 暗さ = darkness, the degree of being dark; abstract noun from adjective	[sound:ae07996fa5d9.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:top1k complexity:standard
 I was helped by her kindness.	彼女の優しさに助けられました。	かのじょのやさしさにたすけられました。	彼女の優しさに助けられました。	優しい → 優しさ: kindness as noun	[sound:0a5bbf349751.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:low complexity:standard
-I'm really feeling the difficulty of Japanese.	日本語の難しさを実感しています。	にほんごのむずかしさをじっかんしています。	日本語の難しさを実感しています。	難しい → 難しさ	[sound:8b86700a938c.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:low complexity:standard
+I'm really feeling the difficulty of Japanese.	日本語の難しさを実感しています。	にほんごのむずかしさをじっかんしています。	日本語の難しさを実感しています。	難しい → 難しさ: 〜さ nominalizer — い-adj → noun of degree; 難しさ = difficulty; captures the quality as an abstract concept	[sound:8b86700a938c.mp3]	module:02-n4 jlpt:n4 point:さ source:authored source:shin-kanzen frequency:low complexity:standard

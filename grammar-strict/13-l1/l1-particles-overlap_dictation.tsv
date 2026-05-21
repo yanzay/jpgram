@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Prompt	Answer	Reading	EN	Tags
 #notetype:Dictation
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Dictation
+#deck:Japanese Grammar::13 - L1 Interference::Dictation
 
 [sound:dde69ffca21a.mp3]	学校___います	学校にいます	がっこうにいます	I am at school (location)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram complexity:standard
 [sound:ae940f4b97d3.mp3]	学校___勉強します	学校で勉強します	がっこうでべんきょうします	I study at school (action context)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram complexity:standard

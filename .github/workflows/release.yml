@@ -1,0 +1,61 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate grammar data
+        run: python3 validate_anki_data.py
+
+      - name: Validate point taxonomy mapping
+        run: python3 validate_grammar_taxonomy.py
+
+      - name: Grammar completeness audit
+        run: |
+          python3 scripts/grammar_completeness_audit.py \
+            --skip-bunpro-fetch --enforce-note-types --allow-partial-point-usage
+
+      - name: Validate strict Bunpro-atomic deck
+        run: |
+          python3 scripts/strict_deck_audit.py \
+            --skip-bunpro-fetch --require-full-bunpro-resolution
+
+      - name: Publish draft release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${GITHUB_REF_NAME}"
+          # Wait up to 60 s for the draft to be created by release.sh
+          for i in $(seq 1 12); do
+            STATE=$(gh release view "$TAG" --json isDraft -q '.isDraft' 2>/dev/null || echo "missing")
+            if [ "$STATE" = "true" ]; then
+              gh release edit "$TAG" --draft=false
+              echo "Release $TAG published."
+              exit 0
+            elif [ "$STATE" = "false" ]; then
+              echo "Release $TAG already published (no action needed)."
+              exit 0
+            fi
+            echo "Waiting for draft release $TAG... ($i/12)"
+            sleep 5
+          done
+          echo "Warning: draft release not found after 60 s — skipping publish step."

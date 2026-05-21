@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
 彼は{{c1::来るに違いない}}	かれはくるにちがいない	must come	[sound:210ce2936a1e.mp3]	module:03-n3 jlpt:n3 point:に違いない complexity:intro frequency:top10k source:shin-kanzen
 {{c1::雨が降るはずだ}}	あめがふるはずだ	should rain	[sound:f326e87570d7.mp3]	module:03-n3 jlpt:n3 point:に違いない complexity:intro frequency:top1k source:shin-kanzen

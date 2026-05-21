@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::05 - N1 Grammar::Production
+#deck:Japanese Grammar::05 - N1 Grammar::Production
 
 "Say ""no sooner had she seen him than she burst into tears"" using が早いか."	が早いか	かのじょはかれをみるがはやいか、なきだした。	彼女は彼を見るが早いか、泣き出した。	が早いか = literary; two events with almost no gap	[sound:67fb23a4512f.mp3]	module:05-n1 jlpt:n1 point:が早いか complexity:advanced frequency:top10k source:shin-kanzen source:authored complexity:standard
 "Say ""no sooner had the bell rung than the children ran out"" using が早いか."	が早いか	ベルがなるがはやいか、こどもたちはかけだした。	ベルが鳴るが早いか、子供たちは駆け出した。	が早いか = instantaneous succession; literary register	[sound:591237948cda.mp3]	module:05-n1 jlpt:n1 point:が早いか complexity:advanced frequency:top10k source:shin-kanzen source:authored complexity:standard

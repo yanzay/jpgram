@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I'd like to go, but I don't have the time.	行きたいんですが、時間がなくて。	いきたいんですが、じかんがなくて。	行きたいんですが、時間がなくて。	polite soft contrast	[sound:b70a399958d8.mp3]	module:02-n4 jlpt:n4 point:んだけど-んですが source:authored source:shin-kanzen frequency:top10k complexity:standard
 I'm not sure — could you explain?	わからないんですが、教えてもらえますか。	わからないんですが、おしえてもらえますか。	わからないんですが、教えてもらえますか。	polite request after stating confusion	[sound:110fb48b1444.mp3]	module:02-n4 jlpt:n4 point:んだけど-んですが source:authored source:shin-kanzen frequency:top10k complexity:standard

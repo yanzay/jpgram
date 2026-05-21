@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Recognition
+#deck:Japanese Grammar::03 - N3 Grammar::Recognition
 
 彼女は歌が上手なだけでなく、ダンスも一流だ。	かのじょはうたがじょうずなだけでなく、だんすもいちりゅうだ。	She is not only good at singing but also a top-class dancer.	だけでなく〜も (not only A but also B)	N/Adj + だけでなく + B + も	adds an unexpected further quality beyond the stated one	not only but also	だけでなく〜も = N3; ばかりでなく〜も = similar; に限らず = formal	[sound:a5e1a4ff9c6d.mp3]	module:03-n3 jlpt:n3 point:だけでなく-て-も complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:low
 日本語の勉強は聴解だけでなく、読み書きも大切だ。	にほんごのべんきょうはちょうかいだけでなく、よみかきもたいせつだ。	Japanese study requires not only listening but also reading and writing.	だけでなく (multi-skill)	N + だけでなく + N + も	highlights that a subject requires multiple dimensions	not just listening	だけでなく commonly used to broaden scope beyond the obvious first point	[sound:bbfac61064c9.mp3]	module:03-n3 jlpt:n3 point:だけでなく-て-も complexity:standard frequency:top5k source:shin-kanzen source:authored frequency:top10k

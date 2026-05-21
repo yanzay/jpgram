@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 忙しい{{c1::なら}}、休んでください。	いそがしい{{c1::なら}}、やすんでください。	if busy	[sound:fbecc48cf274.mp3]	module:02-n4 jlpt:n4 point:なら frequency:top1k complexity:intro source:shin-kanzen sense:conditionals
 京都に行く{{c1::なら}}、清水寺は外せません。	きょうとにいく{{c1::なら}}、きよみずでらははずせません。	if Kyoto	[sound:1b725805f766.mp3]	module:02-n4 jlpt:n4 point:なら frequency:top5k complexity:standard source:shin-kanzen sense:conditionals

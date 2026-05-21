@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Listening
+#deck:Japanese Grammar::10 - Onomatopoeia::Listening
 
 [sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog barking	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
 [sound:b52e76022102.mp3]	ニャーニャー	にゃーにゃー	Meow meow.	cat crying	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard

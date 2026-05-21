@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 雨が降{{c1::れば}}、行きません。	あめがふ{{c1::れば}}、いきません。	if rain	[sound:ae1e49e24daf.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top10k complexity:intro source:shin-kanzen sense:conditionals
 毎日勉強{{c1::すれば}}、上手になります。	まいにちべんきょう{{c1::すれば}}、じょうずになります。	if study	[sound:64a9c0710749.mp3]	module:02-n4 jlpt:n4 point:ば frequency:top1k complexity:standard source:shin-kanzen sense:conditionals

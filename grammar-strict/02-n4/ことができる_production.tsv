@@ -2,31 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Say: 'I like reading'	私は読書が好きです。	わたしはどくしょがすきです。	私は読書が好きです。	好き + noun	[sound:8ba387efdf36.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top10k complexity:intro
-Say: 'I want to eat'	私は食べたいです。	わたしはたべたいです。	私は食べたいです。	たい = want to	[sound:2f77e0a2107a.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:intro source:shin-kanzen frequency:top1k
-Say: 'It is fun to play'	遊ぶことは楽しいです。	あそぶことはたのしいです。	遊ぶことは楽しいです。	こと nominalization	[sound:64c0a5ca726c.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-Say: 'Please explain it'	それを説明してください。	それをせつめいしてください。	それを説明してください。	te-form + ください	[sound:d74af4b3ca0f.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top5k complexity:intro
-Say: 'I have to go'	私は行かなければなりません。	わたしはいかなければなりません。	私は行かなければなりません。	なければならない	[sound:cc99cb2a1bf6.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:intro source:shin-kanzen frequency:top1k complexity:standard
-Say: 'You can't do it'	あなたはそれができません。	あなたはそれができません。	あなたはそれができません。	できる negative	[sound:1b7a67c3eb44.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen
-Say: 'It will be sunny'	明日は晴れるでしょう。	あしたははれるでしょう。	明日は晴れるでしょう。	でしょう=probably	[sound:102e15384eff.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-Say: 'Please come here'	ここに来てください。	ここにきてください。	ここに来てください。	来る + て + ください	[sound:4e90c072bd6f.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top10k complexity:intro
-Say: 'I know'	私は知っています。	わたしはしっています。	私は知っています。	ている=knowledge state	[sound:3c17c8fff433.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:intro source:shin-kanzen frequency:top1k
-Say: 'It started raining'	雨が降り始めました。	あめがふりはじめました。	雨が降り始めました。	始める=start	[sound:ad16a353665e.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-Say: 'It stopped raining'	雨が降るのをやめました。	あめがふるのをやめました。	雨が降るのをやめました。	やめる=stop	[sound:ce332b3c9f49.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-Say: 'I remember you'	私はあなたを覚えています。	わたしはあなたをおぼえています。	私はあなたを覚えています。	覚える=remember	[sound:2183d0a2bb1a.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:low
-Say: 'I forgot the key'	私は鍵を忘れました。	わたしはかぎをわすれました。	私は鍵を忘れました。	忘れる=forget	[sound:caf78ab72cde.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-Say: 'It's okay'	大丈夫です。	だいじょうぶです。	大丈夫です。	大丈夫=fine	[sound:9a493f082a41.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:intro source:shin-kanzen frequency:top1k
-Say: 'Nothing is wrong'	何も悪くありません。	なにもわるくありません。	何も悪くありません。	悪い=bad/wrong	[sound:bd33e29dca5a.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen frequency:top10k complexity:intro
-I can eat sushi.	寿司が食べられる。	すしがたべられる。	寿司が食べられる。	potential form with object	[sound:d6310c248ee2.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen complexity:intro
-Can you speak English?	英語が話せますか。	えいごがはなせますか。	英語が話せますか。	ability question	[sound:4d8c398df291.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-I can't swim very well.	泳ぐことができません。	およぐことができません。	泳ぐことができません。	negative potential	[sound:13cb7da50ebc.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
-He can play the piano.	ピアノが弾ける。	ぴあのがひける。	ピアノが弾ける。	musical skill	[sound:c40a2ab1f9b0.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
-I can understand Japanese.	日本語が理解できる。	にほんごがりかいできる。	日本語が理解できる。	comprehension ability	[sound:ac91195c5b8a.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top10k complexity:intro
-She can drive a car.	車が運転できます。	くるまがうんてんできます。	車が運転できます。	driving ability	[sound:0ec26f1c9728.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
-Can you help me?	手伝うことができますか。	てつだうことができますか。	手伝うことができますか。	polite request with potential	[sound:043312e079fa.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
-I can't remember the password.	パスワードが思い出せない。	ぱすわーどがおもいだせない。	パスワードが思い出せない。	negative recall	[sound:127ce7d64177.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:advanced source:shin-kanzen frequency:top10k complexity:standard
-They can finish by tomorrow.	明日までに終わらせられます。	あしたまでにおわらせられます。	明日までに終わらせられます。	completion ability	[sound:5400310cc331.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top1k
-I can use chopsticks.	箸が使える。	はしがつかえる。	箸が使える。	tool usage	[sound:98218e2c3737.mp3]	module:02-n4 jlpt:n4 register:neutral point:ことができる pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
+Say you can speak Japanese.	ことができる	わたしはにほんごをはなすことができる。	私は日本語を話すことができる。	ことができる: general learned ability — acquired skill formally stated	[sound:5ff08392162f.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
+Say she can play the piano.	ことができる	かのじょはぴあのをひくことができる。	彼女はピアノを弾くことができる。	ことができる: talent-based ability — specific skill the person has developed	[sound:66b4c8d1df8a.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
+Say photos cannot be taken here.	ことができる	ここではしゃしんをとることができない。	ここでは写真を撮ることができない。	ことができない: situational prohibition — rule prevents the action in this context	[sound:a53f91252750.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you could climb trees as a child.	ことができる	こどものころはきにのぼることができた。	子供の頃は木に登ることができた。	ことができた: past ability — capability existed at an earlier stage of life	[sound:7550b889c045.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
+Say from next month you can join meetings.	ことができる	らいげつからかいぎにさんかすることができます。	来月から会議に参加することができます。	ことができます: future-enabled ability — a circumstance change grants the capability	[sound:00ac5850db89.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio

@@ -29,6 +29,11 @@ from pathlib import Path
 
 from build_anki_package import NOTE_TYPES, detect_note_type
 
+_READING_KANJI_RE = re.compile(r"[一-龯]")
+_READING_DIGIT_RE = re.compile(r"[0-9０-９]")
+_READING_SYMBOL_RE = re.compile(r"[℃°]")
+_READING_SOKUON_DOUBLE_RE = re.compile(r"っっ|ーー|ゅゅ|ょょ|ゃゃ")
+
 GRAMMAR_DIR = Path("grammar-strict")
 MEDIA_DIR = Path("media/audio")
 MANIFEST_PATH = Path("media/audio_manifest.json")
@@ -36,6 +41,8 @@ TAXONOMY_PATH = Path("data/grammar_taxonomy_bunpro.tsv")
 
 _CLOZE_RE = re.compile(r"\{\{c\d+::[^}]+\}\}")
 _ANY_CLOZE_RE = re.compile(r"\{\{c\d+::")
+_INVENTED_CLASSICAL_RE = re.compile(r"べまじ|るざり|とやもしれない|やひや|ぜんくして")
+_META_EN_RE = re.compile(r" = |Use '|attaches to")
 _SOUND_RE = re.compile(r"\[sound:([^\]]+)\]")
 _PLACEHOLDER_RE = re.compile(r"\[sound:WAVE\d+_PLACEHOLDER\.mp3\]", re.I)
 _FAKE_HASH_RE = re.compile(r"\[sound:[0-9a-f]{12}\.mp3\]", re.I)  # may be legit
@@ -102,7 +109,12 @@ def lint_file(path: Path,
         if raw.startswith("#columns:"):
             header = raw[len("#columns:"):].split("\t")
             continue
-        if not raw or raw.startswith("#"):
+        if not raw:
+            continue
+        if raw == "#":
+            errs.append(f"WARN: {path}:{ln}: stray bare '#' line — remove it")
+            continue
+        if raw.startswith("#"):
             continue
         data.append((ln, raw))
 
@@ -167,6 +179,27 @@ def lint_file(path: Path,
                             f"in media/audio/ and not in manifest")
             audio_users[ref].append(f"{path}:{ln}")
 
+        # Invented-classical form check (CRITICAL: teaches non-existent Japanese)
+        jp_field = row[0]
+        if _INVENTED_CLASSICAL_RE.search(jp_field):
+            errs.append(f"{path}:{ln}: invented classical form in JP field: {jp_field[:60]!r}")
+
+        # Meta-EN check (EN must be a translation, not a teaching note)
+        if "EN" in header:
+            en_val = row[header.index("EN")].strip()
+            if en_val and _META_EN_RE.search(en_val):
+                errs.append(f"{path}:{ln}: meta-commentary in EN column: {en_val[:60]!r}")
+
+        # Whole-sentence cloze check — WARN only; these files are excluded from build via
+        # --exclude-broken. Fixing them requires Phase 2 content rewrites.
+        if nt == "Cloze" and "Text" in header:
+            text_field = row[header.index("Text")]
+            remainder = _CLOZE_RE.sub("", text_field).strip()
+            if not _JP_CHAR_RE.search(remainder):
+                errs.append(
+                    f"WARN: {path}:{ln}: whole-sentence cloze — no JP context outside the deletion"
+                )
+
         source_text = _source_sentence(nt, header, row).strip()
         if _PLACEHOLDER_TOKEN_RE.search(source_text):
             errs.append(f"{path}:{ln}: placeholder token leaked into source sentence")
@@ -190,6 +223,20 @@ def lint_file(path: Path,
             reading = row[header.index("Reading")].strip()
             if _PLACEHOLDER_TOKEN_RE.search(reading):
                 errs.append(f"{path}:{ln}: placeholder token leaked into Reading")
+            if reading:
+                # Strip cloze markers ({{c1::content}}, {c1::content}, etc.) before
+                # structural checks so the digit in "c1" doesn't fire false positives.
+                # Uses permissive 1-2 braces to handle malformed markers in existing files.
+                reading_stripped = re.sub(r"\{{1,2}c\d+::([^:}]*)(?::[^}]*)?\}{1,2}", r"\1", reading)
+                if _READING_KANJI_RE.search(reading_stripped):
+                    errs.append(f"{path}:{ln}: Reading contains kanji: {reading[:40]!r}")
+                if _READING_DIGIT_RE.search(reading_stripped):
+                    errs.append(f"{path}:{ln}: Reading contains Arabic digits: {reading[:40]!r}")
+                if _READING_SYMBOL_RE.search(reading_stripped):
+                    errs.append(f"{path}:{ln}: Reading contains ℃/° symbol: {reading[:40]!r}")
+                m = _READING_SOKUON_DOUBLE_RE.search(reading_stripped)
+                if m:
+                    errs.append(f"{path}:{ln}: Reading has sokuon doubling {m.group()!r}: {reading[:40]!r}")
 
         key = tuple(row)
         seen[key] += 1
@@ -216,6 +263,28 @@ def main() -> int:
     for f in files:
         all_errs.extend(lint_file(f, audio_users, manifest_keys, taxonomy_points))
 
+    # Recognition twin parity: production and recognition for the same point
+    # should have the same row count (±2). Large divergence = orphaned file.
+    prod_counts: dict[tuple, int] = {}
+    recog_counts: dict[tuple, int] = {}
+    for f in files:
+        count = sum(
+            1 for raw in f.read_text(encoding="utf-8").splitlines()
+            if raw and not raw.startswith("#")
+        )
+        if f.stem.endswith("_production"):
+            prod_counts[(f.parent, f.stem[:-len("_production")])] = count
+        elif f.stem.endswith("_recognition"):
+            recog_counts[(f.parent, f.stem[:-len("_recognition")])] = count
+    for key, prod_n in prod_counts.items():
+        recog_n = recog_counts.get(key)
+        if recog_n is not None and abs(prod_n - recog_n) > 2:
+            parent, point = key
+            all_errs.append(
+                f"WARN: {parent}/{point}: production={prod_n} rows, "
+                f"recognition={recog_n} rows — difference > 2"
+            )
+
     # Cross-corpus checks: an audio filename used by >1 note is fine
     # (same JP sentence appears in multiple cards), but used by >1
     # DIFFERENT JP texts would mean a hash collision — investigate.
@@ -230,14 +299,19 @@ def main() -> int:
                 f"WARN: audio {ref} referenced from {len(users)} rows — "
                 f"verify it's the same JP sentence everywhere")
 
-    if not all_errs:
+    hard_errs = [e for e in all_errs if not e.startswith("WARN:")]
+    warnings   = [e for e in all_errs if e.startswith("WARN:")]
+    for w in warnings:
+        print(w)
+    if not hard_errs:
+        suffix = f" {len(warnings)} warning(s)." if warnings else ""
         print(f"✓ {len(files)} TSV file(s) clean. "
               f"{len(audio_users)} audio refs total, "
-              f"{len(manifest_keys)} known-good in manifest.")
+              f"{len(manifest_keys)} known-good in manifest.{suffix}")
         return 0
-    for e in all_errs:
+    for e in hard_errs:
         print(e)
-    print(f"\n✗ {len(all_errs)} error(s) across {len(files)} file(s).")
+    print(f"\n✗ {len(hard_errs)} error(s), {len(warnings)} warning(s) across {len(files)} file(s).")
     return 1
 
 

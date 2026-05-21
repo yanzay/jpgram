@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Listening
+#deck:Japanese Grammar::10 - Onomatopoeia::Listening
 
 [sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
 [sound:47d9e36d59dd.mp3]	ニャー	にゃー	Meow.	cat sound	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard

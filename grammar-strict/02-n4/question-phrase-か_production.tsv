@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 I haven't decided yet where to go.	どこに行くか、まだ決めていません。	どこにいくか、まだきめていません。	どこに行くか、まだ決めていません。	どこ question embedded as object	[sound:9e0ae5cb2d29.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored source:shin-kanzen frequency:low complexity:standard
 I don't know what is correct.	何が正しいか、わかりません。	なにがただしいか、わかりません。	何が正しいか、わかりません。	何 question embedded	[sound:3bbcd64cd699.mp3]	module:02-n4 jlpt:n4 point:question-phrase-か source:authored source:shin-kanzen frequency:top5k complexity:standard

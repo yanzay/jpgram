@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+#deck:Japanese Grammar::13 - L1 Interference::Contrast
 
 田中さんに本をあげました	田中さんに本をくれました	田中さんに本をあげました	田中さんに本をあげました	I gave Tanaka a book (I→other)	Giving away from self	[sound:7b4eb85c75e5.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:田中さんに本をくれました source:curated-jpgram
 先生が本をくださいました	先生が本をあげました	先生が本をくださいました	先生が本をくださいました	The teacher gave me a book (other→me)	Receiving from honored person	[sound:57dcfe84aa69.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:standard confusable-with:先生が本をあげました source:curated-jpgram

@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 {{c1::今出発するところです。}}	いまいではっするところです。	immediate future with するところ	[sound:06913c2855cd.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro
 {{c1::彼は食べているところです。}}	かれはたべているところです。	ongoing action with しているところ	[sound:02e86f267478.mp3]	module:02-n4 jlpt:n4 register:neutral point:るところだ pos:expr complexity:standard source:shin-kanzen frequency:top5k complexity:intro

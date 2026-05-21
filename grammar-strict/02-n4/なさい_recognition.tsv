@@ -2,10 +2,8 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
 # N4 MISC RECOGNITION — 50 cards on -なければならない, -てもいい/-てはいけない, -つもり/-予定/-ことにする, -なさい, -たらどうですか, -による/-によって, -ので vs -から, -のに vs -なのに, そうだ
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 宿題をやらなきゃいけない。	しゅくだいをやらなきゃいけない。	I have to do my homework.	-なきゃ (contraction)	V-negative stem + きゃいけない	Casual strong obligation	Gotta do	Contraction: -なくちゃ	[sound:cf292042d49b.mp3]	module:02-n4 jlpt:n4 point:なさい complexity:standard frequency:top1k source:shin-kanzen
 睡眠をとらなければ健康が悪くなる。	すいみんをとらなければけんこうがわるくなる。	If you don't get sleep, your health will deteriorate.	-なければ (if not / unless)	V-negative stem + なければ	Conditional: if not, then consequence	If not... then...	vs -ないと (similar)	[sound:e2cf473b094e.mp3]	module:02-n4 jlpt:n4 point:なさい complexity:standard frequency:top10k source:shin-kanzen

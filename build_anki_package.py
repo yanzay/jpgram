@@ -134,6 +134,9 @@ def main() -> int:
                         help="Output .apkg path")
     parser.add_argument("--allow-validation-failures", action="store_true",
                         help="Bypass strict data validation failure gate")
+    parser.add_argument("--exclude-broken", action="store_true",
+                        help="Suppress confirmed-bad secondary card files (cloze/dictation/listening)"
+                             " and mis-curated production/recognition hot-list files")
     args = parser.parse_args()
 
     if not GRAMMAR_DIR.exists():
@@ -144,6 +147,32 @@ def main() -> int:
     if not tsvs:
         print("grammar/ has no TSVs yet. See CONTENT_PLAN.md for the wave plan.")
         return 1
+
+    # Files confirmed bad in the 2026-05-19 audit; suppressed by --exclude-broken.
+    # All cloze/dictation/listening files are excluded (≥73% content-mismatch rate).
+    # Production/recognition hot-list: filename point appears in <50% of rows.
+    _BROKEN_SUFFIXES = ("_cloze.tsv", "_dictation.tsv", "_listening.tsv")
+    _BROKEN_PRODUCTION_FILES = {
+        "02-n4/はずだ_production.tsv", "02-n4/はずだ_recognition.tsv",
+        "02-n4/ようだ_production.tsv", "02-n4/ようだ_recognition.tsv",
+        "02-n4/ぜんぜん_production.tsv", "02-n4/ぜんぜん_recognition.tsv",
+        "02-n4/てもらう_production.tsv", "02-n4/てもらう_recognition.tsv",
+        "02-n4/ていく_production.tsv", "02-n4/ていく_recognition.tsv",
+        "02-n4/いらっしゃる_production.tsv", "02-n4/いらっしゃる_recognition.tsv",
+        "02-n4/いたす_production.tsv", "02-n4/いたす_recognition.tsv",
+        "03-n3/つまり_production.tsv",
+        "04-n2/に相違ない_production.tsv",
+        "05-n1/てやまない_production.tsv",
+        "05-n1/にしてみれば_production.tsv",
+        "05-n1/という_production.tsv",
+        "05-n1/の極み_production.tsv",
+    }
+
+    def _is_broken(path: Path) -> bool:
+        rel = str(path.relative_to(GRAMMAR_DIR))
+        if path.name.endswith(_BROKEN_SUFFIXES):
+            return True
+        return rel in _BROKEN_PRODUCTION_FILES
 
     # 1. Inject taxonomy tags (idempotent).
     if Path("apply_taxonomy_tags.py").exists():
@@ -197,8 +226,12 @@ def main() -> int:
         total_cards = 0
         media_files_copied = set()
         
+        broken_skipped = 0
         # Process TSVs
         for tsv_path in tsvs:
+            if args.exclude_broken and _is_broken(tsv_path):
+                broken_skipped += 1
+                continue
             try:
                 header, rows = load_tsv(tsv_path)
                 if not header or not rows:
@@ -316,6 +349,8 @@ def main() -> int:
         print(f"  Cards: {total_cards}")
         print(f"  Media: {len(media_files_copied)}")
         print(f"  Size: {apkg_size:.2f} MB")
+        if args.exclude_broken and broken_skipped:
+            print(f"  Skipped (--exclude-broken): {broken_skipped} file(s)")
         
     except Exception as e:
         print(f"✗ Collection assembly failed: {e}")

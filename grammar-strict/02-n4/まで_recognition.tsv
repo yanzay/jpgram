@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Recognition
+#deck:Japanese Grammar::02 - N4 Grammar::Recognition
 
 猫は動物です。	ねこはどうぶつです。	As for cats, they are animals.	topic-predicate	N + は + Pred	General topic statement	Topic scope, broad generalization	exhaustive-subject が	[sound:cef99300323c.mp3]	module:02-n4 jlpt:n4 point:まで complexity:intro frequency:top1k source:curated-jpgram source:shin-kanzen
 私は行きません。	わたしはいきません。	As for me, I won't go.	topic-negation	N + は + NEG	Negation with topic	Topic precedes negation naturally	exhaustive-subject が	[sound:0c031ce2b91b.mp3]	module:02-n4 jlpt:n4 point:まで complexity:intro frequency:top10k source:curated-jpgram source:shin-kanzen

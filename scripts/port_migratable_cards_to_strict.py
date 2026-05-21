@@ -32,6 +32,33 @@ from grammar_reference import (  # noqa: E402
 LEGACY_GRAMMAR = ROOT / "grammar"
 MIGRATION_REPORT = ROOT / "research-reports/bunpro_migration_report.json"
 
+CLOZE_CONTENT_RE = re.compile(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}")
+
+
+def _cloze_content_matches_point(row: list[str], point_slug: str) -> bool:
+    """Return True if at least one cloze deletion is a substring of point_slug or vice versa."""
+    for cell in row:
+        for m in CLOZE_CONTENT_RE.finditer(cell):
+            content = m.group(1).strip()
+            if content and (point_slug in content or content in point_slug):
+                return True
+    return False
+
+
+def _secondary_card_contains_point(row: list[str], note_type: str, point_slug: str) -> bool:
+    """For Cloze/Contrast/Dictation/Listening rows, verify point appears in the card content."""
+    if note_type == "Cloze":
+        return _cloze_content_matches_point(row, point_slug)
+    # Contrast: Answer or OptionA/B should mention the point
+    if note_type == "Contrast":
+        content = " ".join(row[:5])  # JP OptionA OptionB Answer Why
+        return point_slug in content
+    # Dictation / Listening: Answer or Transcript (field 1 or 2 depending on schema)
+    if note_type in ("Dictation", "Listening"):
+        content = " ".join(row[:4])
+        return point_slug in content
+    return True  # Production/Recognition: no restriction from this script
+
 MODULE_LABEL = {
     "00-foundation": "00 - Foundation",
     "01-n5": "01 - N5 Grammar",
@@ -143,6 +170,10 @@ def main() -> int:
                 skipped_rows += 1
                 continue
             row[-1] = new_tags
+            # Guard: secondary card must contain the target grammar point.
+            if not _secondary_card_contains_point(row, note_type or "Unknown", target_point):
+                skipped_rows += 1
+                continue
             key = (module, target_point, note_type or "Unknown")
             if key not in headers:
                 hb = [ln for ln in header_block if not ln.startswith("#deck:")]

@@ -131,6 +131,12 @@ def generate_recognition_from_cloze(src: Path, dst: Path) -> int:
     idx = {k: i for i, k in enumerate(header)}
     out_rows: list[list[str]] = []
     for r in rows:
+        # Reject whole-sentence cloze (entire JP is deleted — teaches nothing).
+        plain = strip_cloze(r[idx["Text"]])
+        if plain.strip() == r[idx["Text"]].strip():
+            continue  # no cloze marker at all — skip
+        if not plain.strip():
+            continue  # entire sentence is cloze content — skip
         out_rows.append(
             [
                 strip_cloze(r[idx["Text"]]),

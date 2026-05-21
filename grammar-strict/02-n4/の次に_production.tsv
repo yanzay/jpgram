@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-What is the biggest city after Tokyo?	東京の次に大きい都市はどこですか。	とうきょうのつぎにおおきいとしはどこですか。	東京の次に大きい都市はどこですか。	second in size ranking	[sound:5d01933db970.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top10k complexity:standard
-I think the most important thing after breakfast is lunch.	朝食の次に大切なのは昼食だと思います。	ちょうしょくのつぎにたいせつなのはちゅうしょくだとおもいます。	朝食の次に大切なのは昼食だと思います。	second in importance	[sound:57cf3339fec7.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top10k complexity:standard
+What is the biggest city after Tokyo?	東京の次に大きい都市はどこですか。	とうきょうのつぎにおおきいとしはどこですか。	東京の次に大きい都市はどこですか。	の次に: second in order — comes after X in a ranking or sequence	[sound:5d01933db970.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top10k complexity:standard
+I think the most important thing after breakfast is lunch.	朝食の次に大切なのは昼食だと思います。	ちょうしょくのつぎにたいせつなのはちゅうしょくだとおもいます。	朝食の次に大切なのは昼食だと思います。	の次に: comparative second — not the best but the runner-up	[sound:57cf3339fec7.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top10k complexity:standard
 Right after the station, there is a convenience store.	駅の次に、コンビニがあります。	えきのつぎに、こんびにがあります。	駅の次に、コンビニがあります。	physical location: next after	[sound:bd291f63c6c0.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top1k complexity:standard
-After my mother, I'll consult my older brother.	母の次に、兄に相談します。	ははのつぎに、あににそうだんします。	母の次に、兄に相談します。	order of consultation	[sound:c109d18e84d4.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top5k complexity:intro
-After Japanese, I'm best at English.	日本語の次に、英語が得意です。	にほんごのつぎに、えいごがとくいです。	日本語の次に、英語が得意です。	second language by proficiency	[sound:4403986cb43d.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top10k complexity:standard
+After my mother, I'll consult my older brother.	母の次に、兄に相談します。	ははのつぎに、あににそうだんします。	母の次に、兄に相談します。	〜の次に好き: second-favorite — like X second most after Y	[sound:c109d18e84d4.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top5k complexity:intro
+After Japanese, I'm best at English.	日本語の次に、英語が得意です。	にほんごのつぎに、えいごがとくいです。	日本語の次に、英語が得意です。	の次に: sequential position — comes after X in a series	[sound:4403986cb43d.mp3]	module:02-n4 jlpt:n4 point:の次に source:authored source:shin-kanzen frequency:top10k complexity:standard

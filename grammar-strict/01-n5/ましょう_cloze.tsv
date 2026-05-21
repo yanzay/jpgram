@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Cloze
+#deck:Japanese Grammar::01 - N5 Grammar::Cloze
 
 {{c1::店に行こう。}}	みせにいこう。	volitional intention with よう	[sound:c6f6a4f56030.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro
 {{c1::一緒にコーヒーを飲みましょう。}}	いっしょにこーひーをのみましょう。	polite suggestion with ましょう	[sound:b94e0ff1559d.mp3]	module:01-n5 jlpt:n5 register:neutral point:ましょう pos:expr complexity:standard source:shin-kanzen frequency:top1k complexity:intro

@@ -2,7 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#deck:Japanese Grammar (Strict)::00 - Foundation::Recognition
+#deck:Japanese Grammar::00 - Foundation::Recognition
 
 これは何ですか。	これはなんですか。	What is this?	これ (this thing)	これ / それ / あれ / どれ (noun-replacement)	refers to a thing; near speaker	near speaker	これ replaces a noun; この + noun refers to it	[sound:7770e30a4148.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top10k complexity:intro
 それは私のかばんです。	それはわたしのかばんです。	That is my bag.	それ (that thing)	それ (near listener)	refers to a thing; near listener	near listener	それ = near listener; あれ = far from both	[sound:eea23c53f06a.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen source:authored point:demonstratives source:curated-jpgram frequency:top1k complexity:intro

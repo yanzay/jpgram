@@ -99,6 +99,7 @@ def main() -> int:
         reading_idx = cols.index("Reading") if "Reading" in cols else -1
         label_idx   = cols.index("Label")   if "Label"   in cols else -1
         formula_idx = cols.index("Formula") if "Formula" in cols else -1
+        tags_idx    = cols.index("Tags")    if "Tags"    in cols else -1
 
         # ── Per-file label-contamination (recognition, non-collection) ────────
         if is_rec and label_idx >= 0 and slug not in COLLECTION_SLUGS:
@@ -153,8 +154,10 @@ def main() -> int:
             if not jp:
                 continue
 
-            # Missing-audio-file
-            if audio_idx >= 0 and audio_idx < len(parts):
+            # Missing-audio-file (skip rows tagged scaffold:pending-audio)
+            tags_val = parts[tags_idx].strip() if tags_idx >= 0 and tags_idx < len(parts) else ""
+            pending_audio = "scaffold:pending-audio" in tags_val.split()
+            if audio_idx >= 0 and audio_idx < len(parts) and not pending_audio:
                 audio_val = parts[audio_idx].strip()
                 m = re.search(r"\[sound:([a-f0-9]{12}\.mp3)\]", audio_val)
                 if m and m.group(1) not in audio_on_disk:

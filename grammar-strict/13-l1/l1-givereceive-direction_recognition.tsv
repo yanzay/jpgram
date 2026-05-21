@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	Reading	EN	Label	Formula	MainUse	QuickCue	Contrast	Audio	Tags
 #notetype:Recognition
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Recognition
+#deck:Japanese Grammar::13 - L1 Interference::Recognition
 
 田中さんに本をあげました	たなかさんにほんをあげました	I gave Tanaka a book (I→other)	contrast-derived	田中さんに本をあげました	I gave Tanaka a book (I→other)	Giving away from self	田中さんに本をくれました vs 田中さんに本をあげました	[sound:7b4eb85c75e5.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top10k complexity:standard confusable-with:田中さんに本をくれました source:curated-jpgram
 先生が本をくださいました	せんせいがほんをくださいました	The teacher gave me a book (other→me)	contrast-derived	先生が本をくださいました	The teacher gave me a book (other→me)	Receiving from honored person	先生が本をあげました vs 先生が本をくださいました	[sound:57dcfe84aa69.mp3]	module:13-l1 point:l1-givereceive-direction frequency:top1k complexity:standard confusable-with:先生が本をあげました source:curated-jpgram

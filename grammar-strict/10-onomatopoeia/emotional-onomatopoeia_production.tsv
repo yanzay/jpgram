@@ -2,26 +2,25 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#
-#deck:Japanese Grammar (Strict)::10 - Onomatopoeia::Production
+#deck:Japanese Grammar::10 - Onomatopoeia::Production
 
-Excited/thrilled.	emotional	わくわく	ワクワク	emotional state	[sound:e7676d6c3885.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Nervous/anxious.	emotional	はらはら	ハラハラ	emotional state	[sound:e70e6f5442ae.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Annoyed/frustrated.	emotional	いらいら	イライラ	emotional state	[sound:55757f0eae7c.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Excited/nervous heart.	emotional	どきどき	ドキドキ	emotional state	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Dazed/blank.	emotional	ぼーっ	ボーッ	emotional state	[sound:ff9ca079aadd.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Dry/uninspired.	emotional	ぱさぱさ	パサパサ	emotional state	[sound:6448d235a307.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Haggard/exhausted.	emotional	げっそり	ゲッソリ	emotional state	[sound:65d2d2c94da4.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Lazy/sluggish.	emotional	だらだら	ダラダラ	emotional state	[sound:de6e2010b9d3.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Refreshed/clear.	emotional	すっきり	スッキリ	emotional state	[sound:688731bbd538.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Restless/uneasy.	emotional	ざわざわ	ザワザワ	emotional state	[sound:6668b2f9d0a0.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Smug/grinning.	emotional	にやにや	ニヤニヤ	emotional state	[sound:cbb81e91398e.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Irritated/disgusted.	emotional	むかむか	ムカムカ	emotional state	[sound:7494b213d2bd.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Restless/fidgety.	emotional	そわそわ	ソワソワ	emotional state	[sound:da67db651eb4.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Cheerful/elated.	emotional	うきうき	ウキウキ	emotional state	[sound:e563d2f18388.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Deflated/disappointed.	emotional	しゅんと	シュンと	emotional state	[sound:6485e1317d42.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Confused/unclear.	emotional	もやもや	モヤモヤ	emotional state	[sound:b530ed92dcd7.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Dizzy/spinning.	emotional	くらくら	クラクラ	emotional state	[sound:9ed82a8718bc.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Tingling/numb.	emotional	じんじん	ジンジン	emotional state	[sound:96ff4b3aba9e.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Drooping/sad.	emotional	しゅんしゅん	シュンシュン	emotional state	[sound:3f17016c002d.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-Lively/noisy.	emotional	わいわい	ワイワイ	emotional state	[sound:0b7fad0f82d2.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Excited/thrilled.	emotional	わくわく	ワクワク	gijōgo: bubbling anticipation — excited eager state before something awaited	[sound:e7676d6c3885.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Nervous/anxious.	emotional	はらはら	ハラハラ	gijōgo: edge-of-seat anxiety — watching something helplessly; suspenseful worry	[sound:e70e6f5442ae.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Annoyed/frustrated.	emotional	いらいら	イライラ	gijōgo: mounting irritation — frustration building from repeated provocation	[sound:55757f0eae7c.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Excited/nervous heart.	emotional	どきどき	ドキドキ	gijōgo: heart racing from emotion — arousal from excitement or anxiety; dual use	[sound:5969d0688239.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Dazed/blank.	emotional	ぼーっ	ボーッ	gijōgo: unfocused daydream daze — spaced out; mind wandered away	[sound:ff9ca079aadd.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Dry/uninspired.	emotional	ぱさぱさ	パサパサ	gijōgo: dry uninspired flatness — no energy or moisture; dull listless state	[sound:6448d235a307.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Haggard/exhausted.	emotional	げっそり	ゲッソリ	gijōgo: visibly haggard exhaustion — sunken look from sustained fatigue or worry	[sound:65d2d2c94da4.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Lazy/sluggish.	emotional	だらだら	ダラダラ	gijōgo: slack aimless laziness — purposeless lying about; no tension or goal	[sound:de6e2010b9d3.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Refreshed/clear.	emotional	すっきり	スッキリ	gijōgo: clean refreshed clarity — problem resolved; weight lifted from mind	[sound:688731bbd538.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Restless/uneasy.	emotional	ざわざわ	ザワザワ	gijōgo: uneasy collective restlessness — crowd unease; foreboding stirs the air	[sound:6668b2f9d0a0.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Smug/grinning.	emotional	にやにや	ニヤニヤ	gijōgo: smug self-satisfied smirk — private amusement others find off-putting	[sound:cbb81e91398e.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Irritated/disgusted.	emotional	むかむか	ムカムカ	gijōgo: churning nausea or disgust — stomach-turning revulsion; physical or moral	[sound:7494b213d2bd.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Restless/fidgety.	emotional	そわそわ	ソワソワ	gijōgo: fidgety restless anticipation — can't settle; waiting makes body restless	[sound:da67db651eb4.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Cheerful/elated.	emotional	うきうき	ウキウキ	gijōgo: light-hearted buoyancy — happy expectation lifts the spirit	[sound:e563d2f18388.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Deflated/disappointed.	emotional	しゅんと	シュンと	gijōgo: sudden deflation — confidence drops sharply after disappointment or scolding	[sound:6485e1317d42.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Confused/unclear.	emotional	もやもや	モヤモヤ	gijōgo: hazy unresolved mental fog — vague worry or unclear feeling lingers	[sound:b530ed92dcd7.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Dizzy/spinning.	emotional	くらくら	クラクラ	gijōgo: lightheaded spinning — physical dizziness or overwhelm from input	[sound:9ed82a8718bc.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Tingling/numb.	emotional	じんじん	ジンジン	gijōgo: persistent throbbing or tingling — numb limb, dental nerve, frostbite	[sound:96ff4b3aba9e.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Drooping/sad.	emotional	しゅんしゅん	シュンシュン	gijōgo: drooping quiet dejection — energy wilted; head and spirit both hanging	[sound:3f17016c002d.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+Lively/noisy.	emotional	わいわい	ワイワイ	gijōgo: cheerful communal noise — lively group animation; carefree gathering	[sound:0b7fad0f82d2.mp3]	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar

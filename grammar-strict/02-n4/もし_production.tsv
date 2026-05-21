@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-If you have time, would you like to see a movie together?	もし時間があれば、一緒に映画を見ませんか。	もしじかんがあれば、いっしょにえいがをみませんか。	もし時間があれば、一緒に映画を見ませんか。	hypothetical condition for invitation	[sound:8e82d0ade741.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top1k complexity:standard
-If it rains, please bring an umbrella.	もし雨が降ったら、傘を持ってきてください。	もしあめがふったら、かさをもってきてください。	もし雨が降ったら、傘を持ってきてください。	contingency instruction	[sound:701cde331d3d.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top1k complexity:standard
-If I were you, I would change jobs.	もし私があなたなら、転職するでしょう。	もしわたしがあなたなら、てんしょくするでしょう。	もし私があなたなら、転職するでしょう。	counter-factual hypothetical	[sound:f8875d90ef75.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top10k complexity:standard
-If tomorrow isn't sunny, the camping trip will be cancelled.	もし明日晴れなかったら、キャンプは中止です。	もしあしたはれなかったら、きゃんぷはちゅうしです。	もし明日晴れなかったら、キャンプは中止です。	negative condition outcome	[sound:a6e34b1f7266.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top10k complexity:standard
-If anything is troubling you, please say so any time.	もし何か困ることがあったら、いつでも言ってください。	もしなにかこまることがあったら、いつでもいってください。	もし何か困ることがあったら、いつでも言ってください。	open hypothetical invitation	[sound:fe17e272a5dd.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top10k complexity:standard
+If you have time, would you like to see a movie together?	もし時間があれば、一緒に映画を見ませんか。	もしじかんがあれば、いっしょにえいがをみませんか。	もし時間があれば、一緒に映画を見ませんか。	もし: conditional opener — 'if' that sets up a hypothetical	[sound:8e82d0ade741.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top1k complexity:standard
+If it rains, please bring an umbrella.	もし雨が降ったら、傘を持ってきてください。	もしあめがふったら、かさをもってきてください。	もし雨が降ったら、傘を持ってきてください。	もし〜たら/ば/なら: conditional pair — もし requires a conditional clause	[sound:701cde331d3d.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top1k complexity:standard
+If I were you, I would change jobs.	もし私があなたなら、転職するでしょう。	もしわたしがあなたなら、てんしょくするでしょう。	もし私があなたなら、転職するでしょう。	もし vs たとえ: certainty — もし = uncertain hypothetical; たとえ = concessive even-if	[sound:f8875d90ef75.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top10k complexity:standard
+If tomorrow isn't sunny, the camping trip will be cancelled.	もし明日晴れなかったら、キャンプは中止です。	もしあしたはれなかったら、きゃんぷはちゅうしです。	もし明日晴れなかったら、キャンプは中止です。	もしも: stronger hypothetical — more emphatically hypothetical than もし	[sound:a6e34b1f7266.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top10k complexity:standard
+If anything is troubling you, please say so any time.	もし何か困ることがあったら、いつでも言ってください。	もしなにかこまることがあったら、いつでもいってください。	もし何か困ることがあったら、いつでも言ってください。	もし: narrative device — opens an imaginary or uncertain scenario	[sound:fe17e272a5dd.mp3]	module:02-n4 jlpt:n4 point:もし source:authored source:shin-kanzen frequency:top10k complexity:standard

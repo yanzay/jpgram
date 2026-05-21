@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I've got to sleep. I have an early morning tomorrow.	もう寝ないと。明日早いから。	もうねないと。あしたはやいから。	もう寝ないと。明日早いから。	casual necessity, shortened form	[sound:526f8fdc9706.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top1k complexity:standard
-If we don't hurry, we'll miss the train.	急がないと、電車に乗り遅れるよ。	いそがないと、でんしゃにのりおくれるよ。	急がないと、電車に乗り遅れるよ。	if not A → bad B	[sound:57ecac19d268.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top5k complexity:standard
-This won't do. I need to change something.	このままじゃいけない。何か変えないと。	このままじゃいけない。なにかかえないと。	このままじゃいけない。何か変えないと。	informal self-urgency	[sound:b2d2b47d72e1.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top10k complexity:standard
+I've got to sleep. I have an early morning tomorrow.	もう寝ないと。明日早いから。	もうねないと。あしたはやいから。	もう寝ないと。明日早いから。	ないと: must-do consequence — 'if not done, something bad happens'	[sound:526f8fdc9706.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top1k complexity:standard
+If we don't hurry, we'll miss the train.	急がないと、電車に乗り遅れるよ。	いそがないと、でんしゃにのりおくれるよ。	急がないと、電車に乗り遅れるよ。	ないと = なければならない: casual obligation — shortened colloquial must	[sound:57ecac19d268.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top5k complexity:standard
+This won't do. I need to change something.	このままじゃいけない。何か変えないと。	このままじゃいけない。なにかかえないと。	このままじゃいけない。何か変えないと。	〜ないといけない: casual 'have to' — must do X or there's a problem	[sound:b2d2b47d72e1.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top10k complexity:standard
 If you don't take your medicine, you won't get better.	薬を飲まないと、よくならないよ。	くすりをのまないと、よくならないよ。	薬を飲まないと、よくならないよ。	implied negative consequence	[sound:a9c4dda329a1.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top1k complexity:standard
-If I don't practice more, I won't improve.	もっと練習しないと、うまくならない。	もっとれんしゅうしないと、うまくならない。	もっと練習しないと、うまくならない。	condition for improvement	[sound:444fbdca3ddc.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top1k complexity:standard
+If I don't practice more, I won't improve.	もっと練習しないと、うまくならない。	もっとれんしゅうしないと、うまくならない。	もっと練習しないと、うまくならない。	ないと: implicit warning — 'you'd better do X'	[sound:444fbdca3ddc.mp3]	module:02-n4 jlpt:n4 point:ないと source:authored source:shin-kanzen frequency:top1k complexity:standard

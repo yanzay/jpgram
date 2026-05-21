@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
 Allow me to carry your luggage.	荷物をお持ちします。	にもつをおもちします。	荷物をお持ちします。	humble offer of service	[sound:8109d6d676bc.mp3]	module:02-n4 jlpt:n4 point:お-する source:authored source:shin-kanzen frequency:top1k complexity:intro
 I will contact you later.	後ほどご連絡いたします。	のちほどごれんらくいたします。	後ほどご連絡いたします。	humble future action	[sound:00991a942eb1.mp3]	module:02-n4 jlpt:n4 point:お-する source:authored source:shin-kanzen frequency:top5k complexity:intro

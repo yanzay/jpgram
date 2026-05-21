@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 'Why are you crying?' 'Something sad happened.'	「どうして泣いてるの?」「悲しいことがあったの。」	「どうしてないてるの？」「かなしいことがあったの。」	「どうして泣いてるの？」「悲しいことがあったの。」	soft question の + soft explanatory answer の	[sound:4e65b6bfeb41.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored source:shin-kanzen frequency:top5k complexity:standard
 I have to get up early tomorrow. That's why I'm going to bed early tonight.	明日早く起きなきゃいけないの。だから今夜は早く寝る。	あしたはやくおきなきゃいけないの。だからこんやははやくねる。	明日早く起きなきゃいけないの。だから今夜は早く寝る。	の: explains situation/circumstance to the listener	[sound:74c2d1501676.mp3]	module:03-n3 jlpt:n3 point:particle-の source:authored source:shin-kanzen frequency:top5k complexity:standard

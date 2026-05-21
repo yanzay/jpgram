@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Production
+#deck:Japanese Grammar::03 - N3 Grammar::Production
 
 'The work talk is wrapped up, but by the way, how have you been lately?'	「仕事の話は一段落しましたが、ところで、最近どうですか?」	「しごとのはなしはいちだんらくしましたが、ところで、さいきんどうですか？」	「仕事の話は一段落しましたが、ところで、最近どうですか？」	ところで: shifts from work topic to personal	[sound:2a1b075d3822.mp3]	module:03-n3 jlpt:n3 point:ところで source:authored source:shin-kanzen frequency:top10k complexity:advanced
 By the way, has the time for tomorrow's meeting changed?	ところで、明日の会議の時間は変わっていませんか?	ところで、あしたのかいぎのじかんはかわっていませんか？	ところで、明日の会議の時間は変わっていませんか？	ところで: unrelated inquiry injected into conversation	[sound:c4f0b8f2613c.mp3]	module:03-n3 jlpt:n3 point:ところで source:authored source:shin-kanzen frequency:top5k complexity:standard

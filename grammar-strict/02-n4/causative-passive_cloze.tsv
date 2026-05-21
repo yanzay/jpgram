@@ -2,7 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Cloze
+#deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
 子どもは医者に予防接種をさせ{{c1::られた}}。	こどもはいしゃによぼうせっしゅをさせ{c1::られた}.	forced vaccination	[sound:ab9586244d47.mp3]	module:02-n4 jlpt:n4 point:causative-passive frequency:top10k complexity:standard source:shin-kanzen
 労働者は長時間働か{{c1::された}}。	ろうどうしゃはちょうじかんはたらか{c1::された}.	forced labor	[sound:b27bad4b2589.mp3]	module:02-n4 jlpt:n4 point:causative-passive frequency:top10k complexity:intro source:shin-kanzen

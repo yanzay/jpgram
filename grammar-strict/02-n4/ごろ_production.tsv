@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I wake up around six o'clock.	六時ごろに起きます。	ろくじごろにおきます。	六時ごろに起きます。	approximate time of waking	[sound:4d43bb6c0471.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top1k complexity:intro
-The results will come out around next Monday.	来週の月曜日ごろに結果が出ます。	らいしゅうのげつようひごろにけっかがでます。	来週の月曜日ごろに結果が出ます。	approximate future date	[sound:844e953ec7ea.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top10k complexity:standard
-I'll call again around noon.	昼ごろにもう一度電話します。	ひるごろにもういちどでんわします。	昼ごろにもう一度電話します。	rough time for callback	[sound:bf90ef6e5d88.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top5k complexity:standard
+I wake up around six o'clock.	六時ごろに起きます。	ろくじごろにおきます。	六時ごろに起きます。	ごろ: approximate time point — around / approximately at time X	[sound:4d43bb6c0471.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top1k complexity:intro
+The results will come out around next Monday.	来週の月曜日ごろに結果が出ます。	らいしゅうのげつようびごろにけっかがでます。	来週の月曜日ごろに結果が出ます。	ごろ vs まで: point vs duration — ごろ = around when; まで = until	[sound:844e953ec7ea.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top10k complexity:standard
+I'll call again around noon.	昼ごろにもう一度電話します。	ひるごろにもういちどでんわします。	昼ごろにもう一度電話します。	ごろ vs ころ: same word — ごろ/ころ are interchangeable for 'around'	[sound:bf90ef6e5d88.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top5k complexity:standard
 Around when I was a child, I used to swim in the river every day.	子どものころ、毎日川で泳いでいました。	こどものころ、まいにちかわでおよいでいました。	子どものころ、毎日川で泳いでいました。	ごろ marking a life period	[sound:57dae26b31d6.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top5k complexity:standard
-Apparently there used to be a castle around this area.	この辺りに昔、お城があったそうです。	このあたりにむかし、おしろがあったそうです。	この辺りに昔、お城があったそうです。	approximate location (ごろ for area)	[sound:4e1a4e696eb9.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top10k complexity:standard
+Apparently there used to be a castle around this area.	この辺りに昔、お城があったそうです。	このあたりにむかし、おしろがあったそうです。	この辺りに昔、お城があったそうです。	〜ごろに: at approximately — softened time reference	[sound:4e1a4e696eb9.mp3]	module:02-n4 jlpt:n4 point:ごろ source:authored source:shin-kanzen frequency:top10k complexity:standard

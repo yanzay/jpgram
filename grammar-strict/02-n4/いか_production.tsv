@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-People under eighteen (and including eighteen) cannot enter.	十八歳以下の方は入れません。	じゅうはちさいいかのほうはいれません。	十八歳以下の方は入れません。	age threshold with 以下	[sound:a81c09f1ec11.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top5k complexity:standard
-When the temperature drops to zero or below, the roads freeze.	気温が零度以下になると、道が凍ります。	きおんがれいどいかになると、みちがこおります。	気温が零度以下になると、道が凍ります。	at or below zero	[sound:f6c7b35e0a8a.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top10k complexity:standard
-You can clear this game in thirty minutes or less.	このゲームは三十分以下でクリアできます。	このげーむはさんじゅうふんいかでくりあできます。	このゲームは三十分以下でクリアできます。	time limit 以下	[sound:6a99000c993b.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top10k complexity:standard
-I'm looking for a gift that costs five thousand yen or less.	五千円以下のプレゼントを探しています。	ごせんえんいかのぷれぜんとをさがしています。	五千円以下のプレゼントを探しています。	budget ceiling	[sound:0762f7dbb2b1.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top10k complexity:standard
-I'll adjust until the error rate is one percent or below.	エラーが一パーセント以下になるまで調整します。	えらーがいちぱーせんといかになるまでちょうせいします。	エラーが一パーセント以下になるまで調整します。	acceptable threshold	[sound:5b1f6e32df44.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:low complexity:standard
+People under eighteen (and including eighteen) cannot enter.	十八歳以下の方は入れません。	じゅうはちさいいかのほうはいれません。	十八歳以下の方は入れません。	以下: below-or-equal threshold — N 以下 = N or less; includes N	[sound:a81c09f1ec11.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top5k complexity:standard
+When the temperature drops to zero or below, the roads freeze.	気温が零度以下になると、道が凍ります。	きおんがれいどいかになると、みちがこおります。	気温が零度以下になると、道が凍ります。	以下 vs 未満: inclusiveness — 以下 includes N; 未満 excludes N	[sound:f6c7b35e0a8a.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top10k complexity:standard
+You can clear this game in thirty minutes or less.	このゲームは三十分以下でクリアできます。	このげーむはさんじゅうふんいかでくりあできます。	このゲームは三十分以下でクリアできます。	以下: range endpoint — marks the maximum allowed value	[sound:6a99000c993b.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top10k complexity:standard
+I'm looking for a gift that costs five thousand yen or less.	五千円以下のプレゼントを探しています。	ごせんえんいかのぷれぜんとをさがしています。	五千円以下のプレゼントを探しています。	以下: formal written usage — legal/official documents prefer 以下	[sound:0762f7dbb2b1.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:top10k complexity:standard
+I'll adjust until the error rate is one percent or below.	エラーが一パーセント以下になるまで調整します。	えらーがいちぱーせんといかになるまでちょうせいします。	エラーが一パーセント以下になるまで調整します。	以下のとおり: as follows — common written phrase introducing a list	[sound:5b1f6e32df44.mp3]	module:02-n4 jlpt:n4 point:いか source:authored source:shin-kanzen frequency:low complexity:standard

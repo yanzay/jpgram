@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::01 - N5 Grammar::Production
+#deck:Japanese Grammar::01 - N5 Grammar::Production
 
 Studying Japanese is fun.	日本語を勉強するのは楽しいです。	にほんごをべんきょうするのはたのしいです。	日本語を勉強するのは楽しいです。	nominalize the verb 勉強する	[sound:931669acf0ec.mp3]	module:01-n5 jlpt:n5 point:のは source:authored source:shin-kanzen frequency:top10k complexity:standard
 Running is good for your health.	走るのは健康にいい。	はしるのはけんこうにいい。	走るのは健康にいい。	nominalized action as topic	[sound:9769c8b2d8ab.mp3]	module:01-n5 jlpt:n5 point:のは source:authored source:shin-kanzen frequency:top10k complexity:intro

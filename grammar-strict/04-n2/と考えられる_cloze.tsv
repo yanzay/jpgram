@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Cloze
+#deck:Japanese Grammar::04 - N2 Grammar::Cloze
 
 経済が回復すると{{c1::見られている}}。	けいざいがかいふくするとみられている。	Expert assessment	[sound:fe2986b75853.mp3]	module:04-n2 jlpt:n2 point:と考えられる complexity:intro frequency:top10k source:dictionary-of-jp-grammar source:shin-kanzen
 問題は貧困に{{c1::起因する}}。	もんだいはひんこんにきいんする。	Root cause	[sound:c81302bd8f15.mp3]	module:04-n2 jlpt:n2 point:と考えられる complexity:intro frequency:low source:dictionary-of-jp-grammar source:shin-kanzen

@@ -2,8 +2,7 @@
 #html:true
 #columns:Audio	Transcript	Reading	EN	Hint	Tags
 #notetype:Listening
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Listening
+#deck:Japanese Grammar::03 - N3 Grammar::Listening
 
 [sound:da54099f4b89.mp3]	あなたのせいで、試験に落ちた。	あなたのせいで、しけんにおちた。	Because of you, I failed the exam.	Fault/blame emphasis	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k source:shin-kanzen
 [sound:78982a376c31.mp3]	悪い天気のせいで、試合が延期された。	わるいてんきのせいで、しあいがえんきされた。	Due to bad weather, the match was postponed.	Bad weather caused postponement	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top10k source:shin-kanzen

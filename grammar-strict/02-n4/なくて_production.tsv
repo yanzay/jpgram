@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-The train didn't come, so I ended up being late.	電車が来なくて、遅刻してしまいました。	でんしゃがこなくて、ちこくしてしまいました。	電車が来なくて、遅刻してしまいました。	なくて as cause for result	[sound:70b4d504e899.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top10k complexity:standard
-I don't have money, so I can't buy a new computer.	お金がなくて、新しいパソコンが買えません。	おかねがなくて、あたらしいぱそこんがかえません。	お金がなくて、新しいパソコンが買えません。	lack of money prevents purchase	[sound:34c1a8bae421.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top10k complexity:standard
-I had no friends, so I was lonely.	友達がいなくて、寂しかったです。	ともだちがいなくて、さびしかったです。	友達がいなくて、寂しかったです。	absence causes emotional state	[sound:b007f031e9d9.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top1k complexity:standard
-I couldn't understand the meaning and was at a loss.	意味がわからなくて、困りました。	いみがわからなくて、こまりました。	意味がわからなくて、困りました。	incomprehension causes difficulty	[sound:658fa7afc38c.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top1k complexity:standard
-Work was busy and I had no days off, so I got tired.	仕事が忙しくて休みがなくて、疲れました。	しごとがいそがしくてやすみがなくて、つかれました。	仕事が忙しくて休みがなくて、疲れました。	chain of なくて causes fatigue	[sound:21dfde7190b4.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top10k complexity:standard
+The train didn't come, so I ended up being late.	電車が来なくて、遅刻してしまいました。	でんしゃがこなくて、ちこくしてしまいました。	電車が来なくて、遅刻してしまいました。	なくて: negative te-form — not X and (then/so) Y	[sound:70b4d504e899.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top10k complexity:standard
+I don't have money, so I can't buy a new computer.	お金がなくて、新しいパソコンが買えません。	おかねがなくて、あたらしいぱそこんがかえません。	お金がなくて、新しいパソコンが買えません。	なくて: causal negation — 'because of not doing X, Y'	[sound:34c1a8bae421.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top10k complexity:standard
+I had no friends, so I was lonely.	友達がいなくて、寂しかったです。	ともだちがいなくて、さびしかったです。	友達がいなくて、寂しかったです。	なくて + も: even without — 'even if not doing X, still Y'	[sound:b007f031e9d9.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top1k complexity:standard
+I couldn't understand the meaning and was at a loss.	意味がわからなくて、困りました。	いみがわからなくて、こまりました。	意味がわからなくて、困りました。	なくていい: doesn't need to — not necessary to do X	[sound:658fa7afc38c.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top1k complexity:standard
+Work was busy and I had no days off, so I got tired.	仕事が忙しくて休みがなくて、疲れました。	しごとがいそがしくてやすみがなくて、つかれました。	仕事が忙しくて休みがなくて、疲れました。	なくては: must (embedded) — なくてはいけない / なくてはならない	[sound:21dfde7190b4.mp3]	module:02-n4 jlpt:n4 point:なくて source:authored source:shin-kanzen frequency:top10k complexity:standard

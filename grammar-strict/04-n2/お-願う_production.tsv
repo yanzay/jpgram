@@ -2,7 +2,7 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Production
+#deck:Japanese Grammar::04 - N2 Grammar::Production
 
 Please write your name here.	こちらにお名前をお書きください。	こちらにおなまえをおかきください。	こちらにお名前をお書きください。	お〜: honorific prefix elevates standard write-request	[sound:90a787587a7d.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored source:shin-kanzen frequency:top1k complexity:standard
 Please wait for a moment.	しばらくお待ちください。	しばらくおまちください。	しばらくお待ちください。	お〜: honorific お-prefix on waiting request	[sound:bcc2a2ba8364.mp3]	module:04-n2 jlpt:n2 point:お-願う source:authored source:shin-kanzen complexity:intro

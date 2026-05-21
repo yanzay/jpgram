@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+#deck:Japanese Grammar::13 - L1 Interference::Contrast
 
 行きたくないですか		行きたくないですか	行きたくないですか	Don't you want to go? (Yes, I don't)	Right-answer negative agreement	[sound:48c027e99677.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top10k complexity:intro source:curated-jpgram
 好きじゃないですか		好きじゃないですか	好きじゃないですか	Don't you like it? (Right, I don't)	Affirming negative	[sound:c37c1477b4bb.mp3]	module:13-l1 point:l1-yes-no_negative-questions frequency:top1k complexity:intro source:curated-jpgram

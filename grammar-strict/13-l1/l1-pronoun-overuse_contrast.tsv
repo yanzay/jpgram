@@ -2,8 +2,7 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-#
-#deck:Japanese Grammar (Strict)::13 - L1 Interference::Contrast
+#deck:Japanese Grammar::13 - L1 Interference::Contrast
 
 毎日勉強します	毎日私は勉強します	毎日勉強します	毎日勉強します	I study every day	Subject clear from context	[sound:9dac0a26de22.mp3]	module:13-l1 point:l1-pronoun-overuse frequency:top1k complexity:intro confusable-with:毎日私は勉強します source:curated-jpgram
 昨日、映画を見ました	昨日、私は映画を見ました	昨日、映画を見ました	昨日、映画を見ました	Yesterday I watched a movie	Subject clear from past tense	[sound:2df298dbadac.mp3]	module:13-l1 point:l1-pronoun-overuse frequency:top1k complexity:intro confusable-with:昨日-私は映画を見ました source:curated-jpgram

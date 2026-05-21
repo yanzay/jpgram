@@ -2,10 +2,10 @@
 #html:true
 #columns:Prompt	Target	Reading	Sample	Why	Audio	Tags
 #notetype:Production
-#deck:Japanese Grammar (Strict)::02 - N4 Grammar::Production
+#deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I ended up eating all the cake.	ケーキを全部食べてしまいました。	けーきをぜんぶたべてしまいました。	ケーキを全部食べてしまいました。	completed with slight regret	[sound:22b99ab09706.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top5k complexity:standard
-I accidentally deleted the important email!	大切なメールを消してしまった！	たいせつなめーるをけしてしまった！	大切なメールを消してしまった！	accidental, regretful deletion	[sound:ae4433ac16a1.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top1k complexity:standard
-I ended up leaving my wallet on the train.	電車の中で財布を忘れてきてしまいました。	でんしゃのなかでさいふをわすれてきてしまいました。	電車の中で財布を忘れてきてしまいました。	careless loss, regret	[sound:2c4db3530c6c.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top1k complexity:standard
-I wasn't supposed to laugh, but I ended up laughing.	笑っちゃいけないのに、笑ってしまった。	わらっちゃいけないのに、わらってしまった。	笑っちゃいけないのに、笑ってしまった。	couldn't help it; involuntary action	[sound:c0273ee0536a.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen complexity:standard
+I ended up eating all the cake.	ケーキを全部食べてしまいました。	けーきをぜんぶたべてしまいました。	ケーキを全部食べてしまいました。	V-てしまう: completed with regret — finished, often unintentionally	[sound:22b99ab09706.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top5k complexity:standard
+I accidentally deleted the important email!	大切なメールを消してしまった！	たいせつなめーるをけしてしまった！	大切なメールを消してしまった！	V-てしまう: accidental completion — did X (unexpectedly or unfortunately)	[sound:ae4433ac16a1.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top1k complexity:standard
+I ended up leaving my wallet on the train.	電車の中で財布を忘れてきてしまいました。	でんしゃのなかでさいふをわすれてきてしまいました。	電車の中で財布を忘れてきてしまいました。	V-てしまう: irrevocable completion — done and can't be undone	[sound:2c4db3530c6c.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top1k complexity:standard
+I wasn't supposed to laugh, but I ended up laughing.	笑っちゃいけないのに、笑ってしまった。	わらっちゃいけないのに、わらってしまった。	笑っちゃいけないのに、笑ってしまった。	ちゃう/じゃう: casual contraction — spoken form of てしまう	[sound:c0273ee0536a.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen complexity:standard
 I went ahead and finished all the homework.	宿題を全部やっちゃったよ。	しゅくだいをぜんぶやっちゃったよ。	宿題を全部やっちゃったよ。	ちゃう: casual completed action	[sound:29a33ef453df.mp3]	module:02-n4 jlpt:n4 point:てしまう-ちゃう source:authored source:shin-kanzen frequency:top1k complexity:standard

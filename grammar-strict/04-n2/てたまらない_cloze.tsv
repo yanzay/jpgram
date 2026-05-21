@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::04 - N2 Grammar::Cloze
+#deck:Japanese Grammar::04 - N2 Grammar::Cloze
 
 明日は雨{{c1::かもしれない}}。	あしたはあめ{{c1::かもしれない}}。	might rain	[sound:f51fde625e1c.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen
 毎日勉強{{c1::しなければならない}}。	まいにちべんきょう{{c1::しなければならない}}。	must study	[sound:c0b7a1c9ed82.mp3]	module:04-n2 jlpt:n2 point:てたまらない complexity:standard frequency:top5k frequency:top1k complexity:intro source:shin-kanzen

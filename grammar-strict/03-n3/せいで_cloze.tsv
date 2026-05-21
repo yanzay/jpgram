@@ -2,8 +2,7 @@
 #html:true
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
-#
-#deck:Japanese Grammar (Strict)::03 - N3 Grammar::Cloze
+#deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
 雨が降ったので、{{c1::運動会が延期になった}}。	あめがふったので、{{c1::うんどうかいがえんきになった}}。	postponed	[sound:1a56cb0c8060.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
 彼が現れたとたんに、{{c1::みんな静かになった}}。	かれがあらわれたとたんに、{{c1::みんなしずかになった}}。	became quiet immediately	[sound:b8410256fc69.mp3]	module:03-n3 jlpt:n3 point:せいで complexity:standard frequency:top5k frequency:top10k complexity:intro source:shin-kanzen
