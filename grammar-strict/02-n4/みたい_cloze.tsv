@@ -4,13 +4,8 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-{{c1::彼は学生らしいです。}}	かれはがくせいらしいです。	typical quality	[sound:6d01c5a1c973.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
-{{c1::明日は雨のようです。}}	あしたはあめのようです。	appearance/conjecture	[sound:89fed13423dc.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top1k complexity:intro source:shin-kanzen sense:evidentials
-{{c1::彼女は疲れているみたいです。}}	かのじょはつかれているみたいです。	appearance/rumor	[sound:470d7617b208.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top10k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
-{{c1::その建物は古いらしいです。}}	そのたてものはふるいらしいです。	apparent quality	[sound:85668264248c.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top1k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
-{{c1::そのパーティーが楽しかったようです。}}	そのぱーてぃーがたのしかったようです。	apparent past event	[sound:57554ff0f522.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top10k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
-{{c1::彼は優しい人みたいです。}}	かれはやさしいひとみたいです。	appearance/conjecture	[sound:227b9852dc0e.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
-{{c1::その店は閉まっているらしいです。}}	そのみせはしまっているらしいです。	apparent current state	[sound:76d15e25350d.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top1k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
-{{c1::彼らは結婚したようです。}}	かれらはけっこんしたようです。	apparent event	[sound:c7775a3b1505.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top5k complexity:intro source:shin-kanzen sense:evidentials
-{{c1::その料理が美味しいみたいです。}}	そのりょうりがおいしいみたいです。	appearance quality	[sound:39c6b81bc7b9.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top1k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
-{{c1::それは日本の伝統らしいです。}}	それはにほんのでんとうらしいです。	apparent characteristic	[sound:6ef96c77462f.mp3]	module:02-n4 jlpt:n4 register:neutral point:みたい pos:expr frequency:top10k complexity:standard source:shin-kanzen sense:evidentials complexity:intro
+雨が降る{{c1::みたい}}だ。	あめがふる{{c1::みたい}}だ。	conjecture — looks like rain		module:02-n4 jlpt:n4 point:みたい complexity:intro source:authored frequency:top1k scaffold:pending-audio
+彼は学生{{c1::みたい}}だ。	かれはがくせい{{c1::みたい}}だ。	comparison — looks like a student		module:02-n4 jlpt:n4 point:みたい complexity:intro source:authored frequency:top1k scaffold:pending-audio
+子供{{c1::みたい}}に泣いている。	こども{{c1::みたい}}にないている。	comparison — like a child		module:02-n4 jlpt:n4 point:みたい complexity:intro source:authored frequency:top1k scaffold:pending-audio
+風邪を引いた{{c1::みたい}}だ。	かぜをひいた{{c1::みたい}}だ。	conjecture — feels like a cold		module:02-n4 jlpt:n4 point:みたい complexity:intro source:authored frequency:top1k scaffold:pending-audio
+本物{{c1::みたい}}に見える。	ほんもの{{c1::みたい}}にみえる。	comparison — looks real		module:02-n4 jlpt:n4 point:みたい complexity:standard source:authored frequency:top5k scaffold:pending-audio
