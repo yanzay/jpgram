@@ -154,6 +154,87 @@ def test_akeru_transitive_full_sentence():
     assert r == "どあをあけると、さむいかぜがはいってきた。"
 
 
+# ── Regression tests added 2026-05-22 (Phase 1) ─────────────────────────────
+
+
+def test_hikari_to_kage():
+    r = reading("光と影が織りなす場面。")
+    assert "ひかりとかげ" in r
+    assert "ひかとかげ" not in r
+
+
+def test_wakaki_hi():
+    r = reading("若き日にして既に才能を示した。")
+    assert "わかきひ" in r
+    assert "わかきにち" not in r
+
+
+def test_kenkou():
+    r = reading("私の健康が大切だ。")
+    assert "けんこう" in r
+    # UniDic should never give きれい for 健康
+    assert "きれい" not in r
+
+
+def test_yomigaeru():
+    r = reading("会えて蘇った気持ちだ。")
+    assert "よみがえった" in r
+    assert "よみがった" not in r
+
+
+def test_mitame():
+    r = reading("見た目が大事。")
+    assert "みため" in r
+    assert "みたため" not in r
+
+
+def test_okonau_with_wo():
+    r = reading("会議を行う。")
+    assert "おこなう" in r
+
+
+def test_okonau_with_wo_te_form():
+    r = reading("研究を行った。")
+    assert "おこなった" in r
+
+
+def test_iku_with_ni():
+    """行く (motion verb) — make sure okonau override doesn't break 行く."""
+    r = reading("駅に行きました。")
+    assert "いきました" in r
+    assert "おこな" not in r
+
+
+def test_ageru_listening_in_group_safe():
+    """The あげる listening file was fixed; new sentence reads correctly."""
+    r = reading("私は新人の同僚に仕事を教えてあげた。")
+    assert "わたしはしんじん" in r
+    assert "おしえてあげた" in r
+
+
+def test_imminent_imperative_nasai():
+    r = reading("早く起きなさい。")
+    assert "はやくおきなさい" in r
+
+
+def test_polite_suggestion_mashou():
+    r = reading("一緒に映画を見ましょう。")
+    assert "いっしょにえいがをみましょう" in r
+
+
+def test_doko_kara():
+    r = reading("どこから来ましたか？")
+    assert "どこからきましたか" in r
+
+
+def test_pitch_primer_atarashii_kotoba():
+    """Pitch primer fixes: ensure new readings are correct."""
+    assert reading("遊ぶ") == "あそぶ"
+    assert reading("橋") == "はし"
+    assert reading("点") == "てん"
+    assert reading("弟") == "おとうと"
+
+
 if __name__ == "__main__":
     import traceback
     failed = 0
