@@ -4,13 +4,8 @@
 #notetype:Contrast
 #deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
-彼が遅刻するわけがない。	はずだ	べきだ	わけだ	わけだ = it's not the case that	He can't possibly be late	[sound:fd53684138bb.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top10k complexity:intro source:shin-kanzen
-そういうわけで、断らないといけない。	はずだ	べきだ	わけだ	わけだ = that's why/reason being	For that reason, must refuse	[sound:648c34fff707.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr complexity:standard source:shin-kanzen
-彼はそんなはずがない。	わけだ	べきだ	はずだ	はずだ = shouldn't be/expected not to	He can't be like that	[sound:38e2873c2856.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top5k complexity:intro source:shin-kanzen
-明日の天気はいい___。	わけだ	べきだ	はずだ	はずだ = expected/should be (prediction)	Tomorrow's weather should be nice	[sound:44f721e1c057.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top1k complexity:intro source:shin-kanzen
-人間は死ぬ___。	わけだ	はずだ	べきだ	べきだ = ought to/should (normative)	Humans should die (cycle of life)	[sound:9f280c362889.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top10k complexity:intro source:shin-kanzen
-学生は勉強す___。	わけだ	はずだ	べきだ	べきだ = ought to (obligation)	Students should study	[sound:83a08b78fd9f.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top1k complexity:intro source:shin-kanzen
-このわけでは、約束が守れない。	はずだ	べきだ	わけだ	わけだ = the reason/point being	For this reason, can't keep promise	[sound:a7b0427abf8b.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top5k complexity:standard source:shin-kanzen
-もう来ているはずなのに、いない。	わけだ	べきだ	はずだ	はずだ = should have by now	Should be here by now, but isn't	[sound:601d0c4a8189.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top10k complexity:standard source:shin-kanzen
-親孝行すべき時期だ。	わけだ	はずだ	べきだ	べきだ = appropriate/proper time	It's time for filial piety	[sound:d2d95a4c4b2d.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:low complexity:intro source:shin-kanzen
-雨が降るわけではない。	はずだ	べきだ	わけだ	わけだ = it's not that/not necessarily	It's not necessarily going to rain	[sound:8df3ee9145ae.mp3]	module:03-n3 jlpt:n3 register:formal point:ということだ pos:expr frequency:top1k complexity:intro source:shin-kanzen
+彼は今日来ない___。	ということだ	のだ	ということだ	ということだ = reporting hearsay; のだ = speaker's explanation	second-hand report → ということだ		module:03-n3 jlpt:n3 point:ということだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+つまり、賛成___。	ということだ	わけがない	ということだ	ということだ = summary/conclusion of preceding context	summarising conclusion → ということだ		module:03-n3 jlpt:n3 point:ということだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+試合は中止___。	ということだ	になる	ということだ	reporting an announced result vs predicting one	announcement received → ということだ		module:03-n3 jlpt:n3 point:ということだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+不正があった___。	ということだ	のだ	ということだ	hearsay vs personal explanation	reporting indirect info → ということだ		module:03-n3 jlpt:n3 point:ということだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+努力すれば成功する___。	ということだ	かもしれない	ということだ	moral / takeaway statement vs mere speculation	drawn-out conclusion → ということだ		module:03-n3 jlpt:n3 point:ということだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
