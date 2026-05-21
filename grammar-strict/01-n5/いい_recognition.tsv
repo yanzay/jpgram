@@ -44,7 +44,7 @@
 いい天気です。	いいてんきです。	It is good weather.	attr-non-past-irregular	いい / よい (good — irregular い-adjective; よい is formal equivalent)	irregular good	irregular	悪い	[sound:71f6b633b87d.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:top1k source:shin-kanzen
 これはいいです。	これはいいです。	This is good.	pred-non-past-irregular	いい / よい (irregular: pred non-past)	predicate good	positive eval	悪い	[sound:8ad888ca7a60.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen
 よくないです。	よくないです。	It is not good.	neg-irregular	いい → よくない	good negative irregular	irregular neg	悪い	[sound:4daafccbf693.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen
-よかったです。	よかったです。	It was good.	past-irregular	いい → かった	good irregular past	irregular past	悪い	[sound:cdbcbfe58add.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen
+よかったです。	よかったです。	It was good.	past-irregular	いい → かった	いい → よかった: irregular past — the stem changes to よ- in past form	irregular past	悪い	[sound:cdbcbfe58add.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro source:shin-kanzen
 よくて楽しいです。	よくてたのしいです。	It's good and fun.	te-form-irregular	いい → くて	irregular te-form	compound	悪い	[sound:e1d440e2c862.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:top1k source:shin-kanzen
 よく分かりました。	よくわかりました。	I understood well.	adverbial-irregular	いい → よく (irregular adverbial form)	manner well	comprehension	悪い	[sound:a5633b3ec0c2.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:top10k source:shin-kanzen
 赤いリンゴです。	あかいりんごです。	It is a red apple.	attr-red	赤い	color adjective	colors	青い	[sound:2ac659492010.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:top1k source:shin-kanzen

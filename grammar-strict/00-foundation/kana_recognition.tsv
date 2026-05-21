@@ -4,174 +4,174 @@
 #notetype:Recognition
 #deck:Japanese Grammar::00 - Foundation::Recognition
 
-あ	a	Vowel a.	Hiragana base	あ (a)	sound: /a/	kana for /a/		[sound:98fdfc0a7426.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-い	i	Vowel i.	Hiragana base	い (i)	sound: /i/	kana for /i/		[sound:3c01c77f19cd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-う	u	Vowel u.	Hiragana base	う (u)	sound: /u/	kana for /u/		[sound:af2b29a995c7.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-え	e	Vowel e.	Hiragana base	え (e)	sound: /e/	kana for /e/		[sound:a60311a2fc88.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-お	o	Vowel o.	Hiragana base	お (o)	sound: /o/	kana for /o/		[sound:ac6bc7de7112.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-か	ka	Voiceless velar.	Hiragana base	か (ka)	sound: /ka/	kana for /ka/		[sound:288c9e077190.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-き	ki	Voiceless velar.	Hiragana base	き (ki)	sound: /ki/	kana for /ki/		[sound:27acc76c0055.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-く	ku	Voiceless velar.	Hiragana base	く (ku)	sound: /ku/	kana for /ku/		[sound:ac94e112183c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-け	ke	Voiceless velar.	Hiragana base	け (ke)	sound: /ke/	kana for /ke/		[sound:d32afeb0abe6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-こ	ko	Voiceless velar.	Hiragana base	こ (ko)	sound: /ko/	kana for /ko/		[sound:91714b00e5a3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-さ	sa	Voiceless alveolar.	Hiragana base	さ (sa)	sound: /sa/	kana for /sa/		[sound:7a4faed063b6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-し	shi	Voiceless alveolar.	Hiragana base	し (shi)	sound: /shi/	kana for /shi/	つ	[sound:812f45bfcf7e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-す	su	Voiceless alveolar.	Hiragana base	す (su)	sound: /su/	kana for /su/		[sound:5b8252a1e93f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-せ	se	Voiceless alveolar.	Hiragana base	せ (se)	sound: /se/	kana for /se/		[sound:e1c730bd83c3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-そ	so	Voiceless alveolar.	Hiragana base	そ (so)	sound: /so/	kana for /so/		[sound:b345d8cc8368.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-た	ta	Voiceless alveolar.	Hiragana base	た (ta)	sound: /ta/	kana for /ta/		[sound:cf4d17f99d10.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ち	chi	Voiceless alveolar.	Hiragana base	ち (chi)	sound: /chi/	kana for /chi/	し	[sound:e022bea2e9d6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-つ	tsu	Voiceless alveolar.	Hiragana base	つ (tsu)	sound: /tsu/	kana for /tsu/	ち	[sound:0c414c812bd8.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-て	te	Voiceless alveolar.	Hiragana base	て (te)	sound: /te/	kana for /te/		[sound:e2d970611589.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-と	to	Voiceless alveolar.	Hiragana base	と (to)	sound: /to/	kana for /to/		[sound:a986a7bc9e03.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-な	na	Voiced nasal.	Hiragana base	な (na)	sound: /na/	kana for /na/		[sound:478d2f9eb192.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-に	ni	Voiced nasal.	Hiragana base	に (ni)	sound: /ni/	kana for /ni/		[sound:de3d1ecc94b2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぬ	nu	Voiced nasal.	Hiragana base	ぬ (nu)	sound: /nu/	kana for /nu/		[sound:ad142ed0573d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ね	ne	Voiced nasal.	Hiragana base	ね (ne)	sound: /ne/	kana for /ne/		[sound:3a104bbe569e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-の	no	Voiced nasal.	Hiragana base	の (no)	sound: /no/	kana for /no/		[sound:56377d14d4ef.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-は	ha	Voiceless labial.	Hiragana base	は (ha)	sound: /ha/	kana for /ha/		[sound:1fa0519cfd09.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ひ	hi	Voiceless labial.	Hiragana base	ひ (hi)	sound: /hi/	kana for /hi/		[sound:469e92c9cf65.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ふ	fu	Voiceless labial.	Hiragana base	ふ (fu)	sound: /fu/	kana for /fu/		[sound:382a438fd4c5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-へ	he	Voiceless labial.	Hiragana base	へ (he)	sound: /he/	kana for /he/		[sound:72c746d609d4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ほ	ho	Voiceless labial.	Hiragana base	ほ (ho)	sound: /ho/	kana for /ho/		[sound:5a340fe4758d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ま	ma	Voiced labial.	Hiragana base	ま (ma)	sound: /ma/	kana for /ma/		[sound:400805e5a9e2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-み	mi	Voiced labial.	Hiragana base	み (mi)	sound: /mi/	kana for /mi/		[sound:1c5425dae8c9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-む	mu	Voiced labial.	Hiragana base	む (mu)	sound: /mu/	kana for /mu/		[sound:50029791cb9f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-め	me	Voiced labial.	Hiragana base	め (me)	sound: /me/	kana for /me/		[sound:634540f05d98.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-も	mo	Voiced labial.	Hiragana base	も (mo)	sound: /mo/	kana for /mo/		[sound:3c6945772d72.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-や	ya	Glide y.	Hiragana base	や (ya)	sound: /ya/	kana for /ya/		[sound:bdab1b17397d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ゆ	yu	Glide y.	Hiragana base	ゆ (yu)	sound: /yu/	kana for /yu/		[sound:44567171f335.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-よ	yo	Glide y.	Hiragana base	よ (yo)	sound: /yo/	kana for /yo/		[sound:6f46f7d4a286.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ら	ra	Voiced alveolar.	Hiragana base	ら (ra)	sound: /ra/	kana for /ra/		[sound:ba7526a5c03f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-り	ri	Voiced alveolar.	Hiragana base	り (ri)	sound: /ri/	kana for /ri/		[sound:71d1c63e507f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-る	ru	Voiced alveolar.	Hiragana base	る (ru)	sound: /ru/	kana for /ru/		[sound:ffab9d02a311.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-れ	re	Voiced alveolar.	Hiragana base	れ (re)	sound: /re/	kana for /re/		[sound:df82f999c7fb.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ろ	ro	Voiced alveolar.	Hiragana base	ろ (ro)	sound: /ro/	kana for /ro/		[sound:eb766006aba2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-わ	wa	Glide w.	Hiragana base	わ (wa)	sound: /wa/	kana for /wa/		[sound:dedb707d8398.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-を	wo	Particle wo.	Hiragana base	を (wo)	sound: /wo/	kana for /wo/		[sound:eba95ba0c666.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ん	n	Moraic nasal.	Hiragana base	ん (n)	sound: /n/	kana for /n/		[sound:48a866bfdaf9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ア	a	Vowel a.	Katakana base	ア (a)	sound: /a/	kana for /a/		[sound:1b4c4cc65ff2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-イ	i	Vowel i.	Katakana base	イ (i)	sound: /i/	kana for /i/		[sound:b284de61340b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ウ	u	Vowel u.	Katakana base	ウ (u)	sound: /u/	kana for /u/		[sound:86686c311378.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-エ	e	Vowel e.	Katakana base	エ (e)	sound: /e/	kana for /e/		[sound:3707bab0c47b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-オ	o	Vowel o.	Katakana base	オ (o)	sound: /o/	kana for /o/		[sound:06716d34cc81.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-カ	ka	Voiceless velar.	Katakana base	カ (ka)	sound: /ka/	kana for /ka/		[sound:00ed9f08e29e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-キ	ki	Voiceless velar.	Katakana base	キ (ki)	sound: /ki/	kana for /ki/		[sound:408ae436f0e0.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ク	ku	Voiceless velar.	Katakana base	ク (ku)	sound: /ku/	kana for /ku/		[sound:15901a60a347.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ケ	ke	Voiceless velar.	Katakana base	ケ (ke)	sound: /ke/	kana for /ke/		[sound:b50e4b46f608.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-コ	ko	Voiceless velar.	Katakana base	コ (ko)	sound: /ko/	kana for /ko/		[sound:202a6b25e725.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-サ	sa	Voiceless alveolar.	Katakana base	サ (sa)	sound: /sa/	kana for /sa/		[sound:bf2cbaccbc43.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-シ	shi	Voiceless alveolar.	Katakana base	シ (shi)	sound: /shi/	kana for /shi/	ツ	[sound:1afad7703773.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ス	su	Voiceless alveolar.	Katakana base	ス (su)	sound: /su/	kana for /su/		[sound:4df8398708ab.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-セ	se	Voiceless alveolar.	Katakana base	セ (se)	sound: /se/	kana for /se/		[sound:825cec98c430.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ソ	so	Voiceless alveolar.	Katakana base	ソ (so)	sound: /so/	kana for /so/	シ	[sound:7394858d1c1b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-タ	ta	Voiceless alveolar.	Katakana base	タ (ta)	sound: /ta/	kana for /ta/		[sound:056cfad24eb2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-チ	chi	Voiceless alveolar.	Katakana base	チ (chi)	sound: /chi/	kana for /chi/		[sound:7e62c71ff6cf.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ツ	tsu	Voiceless alveolar.	Katakana base	ツ (tsu)	sound: /tsu/	kana for /tsu/	ソ	[sound:ee5fe18a7c76.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-テ	te	Voiceless alveolar.	Katakana base	テ (te)	sound: /te/	kana for /te/		[sound:8996011e5796.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ト	to	Voiceless alveolar.	Katakana base	ト (to)	sound: /to/	kana for /to/		[sound:d729bd2b2767.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ナ	na	Voiced nasal.	Katakana base	ナ (na)	sound: /na/	kana for /na/		[sound:8f67916a925b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ニ	ni	Voiced nasal.	Katakana base	ニ (ni)	sound: /ni/	kana for /ni/		[sound:d8a8e4205aa7.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ヌ	nu	Voiced nasal.	Katakana base	ヌ (nu)	sound: /nu/	kana for /nu/		[sound:065ebce83a18.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ネ	ne	Voiced nasal.	Katakana base	ネ (ne)	sound: /ne/	kana for /ne/		[sound:edc16abe75a1.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ノ	no	Voiced nasal.	Katakana base	ノ (no)	sound: /no/	kana for /no/		[sound:6c807d0ae2cd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ハ	ha	Voiceless labial.	Katakana base	ハ (ha)	sound: /ha/	kana for /ha/		[sound:35104655d4d6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ヒ	hi	Voiceless labial.	Katakana base	ヒ (hi)	sound: /hi/	kana for /hi/		[sound:9da359d5199d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-フ	fu	Voiceless labial.	Katakana base	フ (fu)	sound: /fu/	kana for /fu/		[sound:c2fa87c3ddd2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ヘ	he	Voiceless labial.	Katakana base	ヘ (he)	sound: /he/	kana for /he/		[sound:5cf428be4474.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ホ	ho	Voiceless labial.	Katakana base	ホ (ho)	sound: /ho/	kana for /ho/		[sound:41a11f66f540.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-マ	ma	Voiced labial.	Katakana base	マ (ma)	sound: /ma/	kana for /ma/		[sound:55d42f593ce9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ミ	mi	Voiced labial.	Katakana base	ミ (mi)	sound: /mi/	kana for /mi/		[sound:651d85849d50.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ム	mu	Voiced labial.	Katakana base	ム (mu)	sound: /mu/	kana for /mu/		[sound:c6abfe263593.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-メ	me	Voiced labial.	Katakana base	メ (me)	sound: /me/	kana for /me/		[sound:cfc3325ef061.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-モ	mo	Voiced labial.	Katakana base	モ (mo)	sound: /mo/	kana for /mo/		[sound:577210255a86.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ヤ	ya	Glide y.	Katakana base	ヤ (ya)	sound: /ya/	kana for /ya/		[sound:8e621f06c443.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ユ	yu	Glide y.	Katakana base	ユ (yu)	sound: /yu/	kana for /yu/		[sound:ea633878f249.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ヨ	yo	Glide y.	Katakana base	ヨ (yo)	sound: /yo/	kana for /yo/		[sound:da6c6a6baf77.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ラ	ra	Voiced alveolar.	Katakana base	ラ (ra)	sound: /ra/	kana for /ra/		[sound:d5f1ca173fcd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-リ	ri	Voiced alveolar.	Katakana base	リ (ri)	sound: /ri/	kana for /ri/		[sound:56cb721117e2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ル	ru	Voiced alveolar.	Katakana base	ル (ru)	sound: /ru/	kana for /ru/		[sound:1d672f91e3ff.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-レ	re	Voiced alveolar.	Katakana base	レ (re)	sound: /re/	kana for /re/		[sound:00859a61c08f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ロ	ro	Voiced alveolar.	Katakana base	ロ (ro)	sound: /ro/	kana for /ro/		[sound:4c1fe526f363.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ワ	wa	Glide w.	Katakana base	ワ (wa)	sound: /wa/	kana for /wa/		[sound:a2fbf25469bc.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ヲ	wo	Particle wo.	Katakana base	ヲ (wo)	sound: /wo/	kana for /wo/		[sound:b40c5f345cb9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ン	n	Moraic nasal.	Katakana base	ン (n)	sound: /n/	kana for /n/		[sound:6ad7ee833add.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-が	ga	Voiced ga.	Dakuten	base + dakuten → が	sound: /ga/	kana for /ga/		[sound:a142816563b3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぎ	gi	Voiced gi.	Dakuten	base + dakuten → ぎ	sound: /gi/	kana for /gi/		[sound:9a77c2df496e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぐ	gu	Voiced gu.	Dakuten	base + dakuten → ぐ	sound: /gu/	kana for /gu/		[sound:6e159a91b7ce.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-げ	ge	Voiced ge.	Dakuten	base + dakuten → げ	sound: /ge/	kana for /ge/		[sound:9167af511d53.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ご	go	Voiced go.	Dakuten	base + dakuten → ご	sound: /go/	kana for /go/		[sound:27a87259d93f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ざ	za	Voiced za.	Dakuten	base + dakuten → ざ	sound: /za/	kana for /za/		[sound:d08b42329511.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-じ	ji	Voiced ji.	Dakuten	base + dakuten → じ	sound: /ji/	kana for /ji/		[sound:41f11fe610d4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ず	zu	Voiced zu.	Dakuten	base + dakuten → ず	sound: /zu/	kana for /zu/		[sound:e77eb4831e6a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぜ	ze	Voiced ze.	Dakuten	base + dakuten → ぜ	sound: /ze/	kana for /ze/		[sound:8759dfeb913a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぞ	zo	Voiced zo.	Dakuten	base + dakuten → ぞ	sound: /zo/	kana for /zo/		[sound:bad314622d68.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-だ	da	Voiced da.	Dakuten	base + dakuten → だ	sound: /da/	kana for /da/		[sound:b3d236275fac.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-で	de	Voiced de.	Dakuten	base + dakuten → で	sound: /de/	kana for /de/		[sound:7350618fcec3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ど	do	Voiced do.	Dakuten	base + dakuten → ど	sound: /do/	kana for /do/		[sound:76504d613664.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ば	ba	Voiced ba.	Dakuten	pa-row + handakuten → ば	sound: /ba/	kana for /ba/		[sound:d8c158e0a2d1.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-び	bi	Voiced bi.	Dakuten	pa-row + handakuten → び	sound: /bi/	kana for /bi/		[sound:5fb5aba49978.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぶ	bu	Voiced bu.	Dakuten	pa-row + handakuten → ぶ	sound: /bu/	kana for /bu/		[sound:82b3fbb77164.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-べ	be	Voiced be.	Dakuten	pa-row + handakuten → べ	sound: /be/	kana for /be/		[sound:eefc5770b9dc.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぼ	bo	Voiced bo.	Dakuten	pa-row + handakuten → ぼ	sound: /bo/	kana for /bo/		[sound:7ebddc850724.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぱ	pa	Semi-voiced pa.	Handakuten	ha-row + handakuten → ぱ	sound: /pa/	kana for /pa/		[sound:81223f8ee527.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぴ	pi	Semi-voiced pi.	Handakuten	ha-row + handakuten → ぴ	sound: /pi/	kana for /pi/		[sound:749766f43a50.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぷ	pu	Semi-voiced pu.	Handakuten	ha-row + handakuten → ぷ	sound: /pu/	kana for /pu/		[sound:224fecb16293.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぺ	pe	Semi-voiced pe.	Handakuten	ha-row + handakuten → ぺ	sound: /pe/	kana for /pe/		[sound:bd1d8044336d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぽ	po	Semi-voiced po.	Handakuten	ha-row + handakuten → ぽ	sound: /po/	kana for /po/		[sound:06b58547dc73.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ガ	ga	Voiced ga.	Dakuten	base + dakuten → ガ	sound: /ga/	kana for /ga/		[sound:2cf8934dec55.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ギ	gi	Voiced gi.	Dakuten	base + dakuten → ギ	sound: /gi/	kana for /gi/		[sound:5bbbbf8a5aff.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-グ	gu	Voiced gu.	Dakuten	base + dakuten → グ	sound: /gu/	kana for /gu/		[sound:65429ee5e7b4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ゲ	ge	Voiced ge.	Dakuten	base + dakuten → ゲ	sound: /ge/	kana for /ge/		[sound:df715d6e0967.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ゴ	go	Voiced go.	Dakuten	base + dakuten → ゴ	sound: /go/	kana for /go/		[sound:f684fe6c107a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ザ	za	Voiced za.	Dakuten	base + dakuten → ザ	sound: /za/	kana for /za/		[sound:bdf380ec22e5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ジ	ji	Voiced ji.	Dakuten	base + dakuten → ジ	sound: /ji/	kana for /ji/		[sound:fcd474ce77e4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ズ	zu	Voiced zu.	Dakuten	base + dakuten → ズ	sound: /zu/	kana for /zu/		[sound:3c1a103b5b4f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ゼ	ze	Voiced ze.	Dakuten	base + dakuten → ゼ	sound: /ze/	kana for /ze/		[sound:56c35c37128e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ゾ	zo	Voiced zo.	Dakuten	base + dakuten → ゾ	sound: /zo/	kana for /zo/		[sound:7797100cc0f2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ダ	da	Voiced da.	Dakuten	base + dakuten → ダ	sound: /da/	kana for /da/		[sound:919e596fb58d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-デ	de	Voiced de.	Dakuten	base + dakuten → デ	sound: /de/	kana for /de/		[sound:5dc5d5b8abb3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ド	do	Voiced do.	Dakuten	base + dakuten → ド	sound: /do/	kana for /do/		[sound:a9a84e4c1845.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-バ	ba	Voiced ba.	Dakuten	base + dakuten → バ	sound: /ba/	kana for /ba/		[sound:2768d02f9098.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ビ	bi	Voiced bi.	Dakuten	base + dakuten → ビ	sound: /bi/	kana for /bi/		[sound:d5725b2f8d16.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ブ	bu	Voiced bu.	Dakuten	base + dakuten → ブ	sound: /bu/	kana for /bu/		[sound:c11cd8dd4563.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ベ	be	Voiced be.	Dakuten	base + dakuten → ベ	sound: /be/	kana for /be/		[sound:e24283733b4a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ボ	bo	Voiced bo.	Dakuten	base + dakuten → ボ	sound: /bo/	kana for /bo/		[sound:c6be80a62e61.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-パ	pa	Semi-voiced pa.	Handakuten	ha-row + handakuten → パ	sound: /pa/	kana for /pa/		[sound:d4c65564c4ad.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ピ	pi	Semi-voiced pi.	Handakuten	ha-row + handakuten → ピ	sound: /pi/	kana for /pi/		[sound:2083aa096d7e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-プ	pu	Semi-voiced pu.	Handakuten	ha-row + handakuten → プ	sound: /pu/	kana for /pu/		[sound:a3b8f9e1263b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ペ	pe	Semi-voiced pe.	Handakuten	ha-row + handakuten → ペ	sound: /pe/	kana for /pe/		[sound:8a8021085114.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ポ	po	Semi-voiced po.	Handakuten	ha-row + handakuten → ポ	sound: /po/	kana for /po/		[sound:23239011ca96.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-きゃ	kya	Ki + ya combo.	Yō-on	consonant + ya/yu/yo → きゃ	sound: /kya/	palatal variant of k		[sound:b2b7e45bf39e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-きゅ	kyu	Ki + yu combo.	Yō-on	consonant + ya/yu/yo → きゅ	sound: /kyu/	palatal variant of k		[sound:298ab383a42d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-きょ	kyo	Ki + yo combo.	Yō-on	consonant + ya/yu/yo → きょ	sound: /kyo/	palatal variant of k		[sound:d9ee3c16a677.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-しゃ	sha	Shi + ya combo.	Yō-on	consonant + ya/yu/yo → しゃ	sound: /sha/	palatal variant of s		[sound:b6e3f9666c7a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-しゅ	shu	Shi + yu combo.	Yō-on	consonant + ya/yu/yo → しゅ	sound: /shu/	palatal variant of s		[sound:64d073703829.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-しょ	sho	Shi + yo combo.	Yō-on	consonant + ya/yu/yo → しょ	sound: /sho/	palatal variant of s		[sound:7a5aea55155b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ちゃ	cha	Chi + ya combo.	Yō-on	consonant + ya/yu/yo → ちゃ	sound: /cha/	palatal variant of c		[sound:062957be362f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ちゅ	chu	Chi + yu combo.	Yō-on	consonant + ya/yu/yo → ちゅ	sound: /chu/	palatal variant of c		[sound:619fdc4f9348.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ちょ	cho	Chi + yo combo.	Yō-on	consonant + ya/yu/yo → ちょ	sound: /cho/	palatal variant of c		[sound:4def51326a2d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-にゃ	nya	Ni + ya combo.	Yō-on	consonant + ya/yu/yo → にゃ	sound: /nya/	palatal variant of n		[sound:be4c29664dfd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-にゅ	nyu	Ni + yu combo.	Yō-on	consonant + ya/yu/yo → にゅ	sound: /nyu/	palatal variant of n		[sound:658da3d97ec6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-にょ	nyo	Ni + yo combo.	Yō-on	consonant + ya/yu/yo → にょ	sound: /nyo/	palatal variant of n		[sound:0954bcc57525.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ひゃ	hya	Hi + ya combo.	Yō-on	consonant + ya/yu/yo → ひゃ	sound: /hya/	palatal variant of h		[sound:f28cd0be883a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ひゅ	hyu	Hi + yu combo.	Yō-on	consonant + ya/yu/yo → ひゅ	sound: /hyu/	palatal variant of h		[sound:e0e6bdfbd67b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ひょ	hyo	Hi + yo combo.	Yō-on	consonant + ya/yu/yo → ひょ	sound: /hyo/	palatal variant of h		[sound:0627f890934c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-みゃ	mya	Mi + ya combo.	Yō-on	consonant + ya/yu/yo → みゃ	sound: /mya/	palatal variant of m		[sound:0eb0633f6c68.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-みゅ	myu	Mi + yu combo.	Yō-on	consonant + ya/yu/yo → みゅ	sound: /myu/	palatal variant of m		[sound:5bd384349a78.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-みょ	myo	Mi + yo combo.	Yō-on	consonant + ya/yu/yo → みょ	sound: /myo/	palatal variant of m		[sound:6617e33d9583.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-りゃ	rya	Ri + ya combo.	Yō-on	consonant + ya/yu/yo → りゃ	sound: /rya/	palatal variant of r		[sound:f58558332c0c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-りゅ	ryu	Ri + yu combo.	Yō-on	consonant + ya/yu/yo → りゅ	sound: /ryu/	palatal variant of r		[sound:73c41f0e483e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-りょ	ryo	Ri + yo combo.	Yō-on	consonant + ya/yu/yo → りょ	sound: /ryo/	palatal variant of r		[sound:1ab62bb6d7b6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぎゃ	gya	Gi + ya combo.	Yō-on	consonant + ya/yu/yo → ぎゃ	sound: /gya/	palatal variant of g		[sound:95e3d0ad8f6f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぎゅ	gyu	Gi + yu combo.	Yō-on	consonant + ya/yu/yo → ぎゅ	sound: /gyu/	palatal variant of g		[sound:81a5e9e8a034.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぎょ	gyo	Gi + yo combo.	Yō-on	consonant + ya/yu/yo → ぎょ	sound: /gyo/	palatal variant of g		[sound:08831cb24c9b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-じゃ	ja	Ji + ya combo.	Yō-on	consonant + ya/yu/yo → じゃ	sound: /ja/	palatal variant of j		[sound:d91490197bd6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-じゅ	ju	Ji + yu combo.	Yō-on	consonant + ya/yu/yo → じゅ	sound: /ju/	palatal variant of j		[sound:567ca1db796e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-じょ	jo	Ji + yo combo.	Yō-on	consonant + ya/yu/yo → じょ	sound: /jo/	palatal variant of j		[sound:115759838422.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-びゃ	bya	Bi + ya combo.	Yō-on	consonant + ya/yu/yo → びゃ	sound: /bya/	palatal variant of b		[sound:4d8780b09f52.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-びゅ	byu	Bi + yu combo.	Yō-on	consonant + ya/yu/yo → びゅ	sound: /byu/	palatal variant of b		[sound:747dbd8ebca5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-びょ	byo	Bi + yo combo.	Yō-on	consonant + ya/yu/yo → びょ	sound: /byo/	palatal variant of b		[sound:0a1cc845facd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぴゃ	pya	Pi + ya combo.	Yō-on	consonant + ya/yu/yo → ぴゃ	sound: /pya/	palatal variant of p		[sound:ef826d2af5c0.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぴゅ	pyu	Pi + yu combo.	Yō-on	consonant + ya/yu/yo → ぴゅ	sound: /pyu/	palatal variant of p		[sound:984576b5cea2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
-ぴょ	pyo	Pi + yo combo.	Yō-on	consonant + ya/yu/yo → ぴょ	sound: /pyo/	palatal variant of p		[sound:220216f18a88.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+あ	a	Vowel a.	Hiragana base	あ (a)	sound: /a/ — pure open central vowel; no consonant; hiragana script	kana for /a/		[sound:98fdfc0a7426.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+い	i	Vowel i.	Hiragana base	い (i)	sound: /i/ — close front unrounded vowel; no consonant; hiragana	kana for /i/		[sound:3c01c77f19cd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+う	u	Vowel u.	Hiragana base	う (u)	sound: /ɯ/ — close back unrounded vowel; compressed lips; unique Japanese	kana for /u/		[sound:af2b29a995c7.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+え	e	Vowel e.	Hiragana base	え (e)	sound: /e/ — mid front vowel; no consonant; hiragana	kana for /e/		[sound:a60311a2fc88.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+お	o	Vowel o.	Hiragana base	お (o)	sound: /o/ — mid back rounded vowel; no consonant; hiragana	kana for /o/		[sound:ac6bc7de7112.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+か	ka	Voiceless velar.	Hiragana base	か (ka)	sound: /ka/ — voiceless velar stop /k/ + open vowel /a/	kana for /ka/		[sound:288c9e077190.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+き	ki	Voiceless velar.	Hiragana base	き (ki)	sound: /kʲi/ — voiceless velar /k/ palatalized before front vowel /i/	kana for /ki/		[sound:27acc76c0055.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+く	ku	Voiceless velar.	Hiragana base	く (ku)	sound: /kɯ/ — voiceless velar /k/ + compressed back vowel /ɯ/	kana for /ku/		[sound:ac94e112183c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+け	ke	Voiceless velar.	Hiragana base	け (ke)	sound: /ke/ — voiceless velar stop /k/ + mid front vowel /e/	kana for /ke/		[sound:d32afeb0abe6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+こ	ko	Voiceless velar.	Hiragana base	こ (ko)	sound: /ko/ — voiceless velar stop /k/ + mid back vowel /o/	kana for /ko/		[sound:91714b00e5a3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+さ	sa	Voiceless alveolar.	Hiragana base	さ (sa)	sound: /sa/ — voiceless alveolar sibilant /s/ + /a/	kana for /sa/		[sound:7a4faed063b6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+し	shi	Voiceless alveolar.	Hiragana base	し (shi)	sound: /ʃi/ — さ-row exception: palatalized to /ʃ/; romanized 'shi' not 'si'	kana for /shi/	つ	[sound:812f45bfcf7e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+す	su	Voiceless alveolar.	Hiragana base	す (su)	sound: /sɯ/ — voiceless sibilant /s/ + compressed vowel /ɯ/	kana for /su/		[sound:5b8252a1e93f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+せ	se	Voiceless alveolar.	Hiragana base	せ (se)	sound: /se/ — voiceless sibilant /s/ + mid front /e/	kana for /se/		[sound:e1c730bd83c3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+そ	so	Voiceless alveolar.	Hiragana base	そ (so)	sound: /so/ — voiceless sibilant /s/ + mid back /o/	kana for /so/		[sound:b345d8cc8368.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+た	ta	Voiceless alveolar.	Hiragana base	た (ta)	sound: /ta/ — voiceless alveolar stop /t/ + /a/	kana for /ta/		[sound:cf4d17f99d10.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ち	chi	Voiceless alveolar.	Hiragana base	ち (chi)	sound: /tʃi/ — た-row exception: affricate /tʃ/; romanized 'chi' not 'ti'	kana for /chi/	し	[sound:e022bea2e9d6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+つ	tsu	Voiceless alveolar.	Hiragana base	つ (tsu)	sound: /tsɯ/ — た-row exception: affricate /ts/; romanized 'tsu' not 'tu'	kana for /tsu/	ち	[sound:0c414c812bd8.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+て	te	Voiceless alveolar.	Hiragana base	て (te)	sound: /te/ — voiceless alveolar stop /t/ + mid front /e/	kana for /te/		[sound:e2d970611589.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+と	to	Voiceless alveolar.	Hiragana base	と (to)	sound: /to/ — voiceless alveolar stop /t/ + mid back /o/	kana for /to/		[sound:a986a7bc9e03.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+な	na	Voiced nasal.	Hiragana base	な (na)	sound: /na/ — voiced alveolar nasal /n/ + /a/	kana for /na/		[sound:478d2f9eb192.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+に	ni	Voiced nasal.	Hiragana base	に (ni)	sound: /nʲi/ — voiced nasal /n/ palatalized before front vowel /i/	kana for /ni/		[sound:de3d1ecc94b2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぬ	nu	Voiced nasal.	Hiragana base	ぬ (nu)	sound: /nɯ/ — voiced nasal /n/ + compressed vowel /ɯ/	kana for /nu/		[sound:ad142ed0573d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ね	ne	Voiced nasal.	Hiragana base	ね (ne)	sound: /ne/ — voiced alveolar nasal /n/ + mid front /e/	kana for /ne/		[sound:3a104bbe569e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+の	no	Voiced nasal.	Hiragana base	の (no)	sound: /no/ — voiced alveolar nasal /n/ + mid back /o/	kana for /no/		[sound:56377d14d4ef.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+は	ha	Voiceless labial.	Hiragana base	は (ha)	sound: /ha/ — voiceless glottal fricative /h/ + /a/; は can also read /wa/ as particle	kana for /ha/		[sound:1fa0519cfd09.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ひ	hi	Voiceless labial.	Hiragana base	ひ (hi)	sound: /çi/ — は-row: fricative palatalizes to /ç/ before front /i/	kana for /hi/		[sound:469e92c9cf65.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ふ	fu	Voiceless labial.	Hiragana base	ふ (fu)	sound: /ɸɯ/ — は-row exception: bilabial fricative /ɸ/; no English equivalent	kana for /fu/		[sound:382a438fd4c5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+へ	he	Voiceless labial.	Hiragana base	へ (he)	sound: /he/ — voiceless fricative /h/ + mid front /e/; can also read /e/ as particle	kana for /he/		[sound:72c746d609d4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ほ	ho	Voiceless labial.	Hiragana base	ほ (ho)	sound: /ho/ — voiceless fricative /h/ + mid back /o/	kana for /ho/		[sound:5a340fe4758d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ま	ma	Voiced labial.	Hiragana base	ま (ma)	sound: /ma/ — voiced bilabial nasal /m/ + /a/	kana for /ma/		[sound:400805e5a9e2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+み	mi	Voiced labial.	Hiragana base	み (mi)	sound: /mʲi/ — voiced nasal /m/ palatalized before front /i/	kana for /mi/		[sound:1c5425dae8c9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+む	mu	Voiced labial.	Hiragana base	む (mu)	sound: /mɯ/ — voiced bilabial nasal /m/ + compressed vowel /ɯ/	kana for /mu/		[sound:50029791cb9f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+め	me	Voiced labial.	Hiragana base	め (me)	sound: /me/ — voiced bilabial nasal /m/ + mid front /e/	kana for /me/		[sound:634540f05d98.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+も	mo	Voiced labial.	Hiragana base	も (mo)	sound: /mo/ — voiced bilabial nasal /m/ + mid back /o/	kana for /mo/		[sound:3c6945772d72.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+や	ya	Glide y.	Hiragana base	や (ya)	sound: /ja/ — palatal glide /j/ (like 'y' in 'yes') + open vowel /a/	kana for /ya/		[sound:bdab1b17397d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ゆ	yu	Glide y.	Hiragana base	ゆ (yu)	sound: /jɯ/ — palatal glide /j/ + compressed back vowel /ɯ/	kana for /yu/		[sound:44567171f335.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+よ	yo	Glide y.	Hiragana base	よ (yo)	sound: /jo/ — palatal glide /j/ + mid back vowel /o/	kana for /yo/		[sound:6f46f7d4a286.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ら	ra	Voiced alveolar.	Hiragana base	ら (ra)	sound: /ra/ — voiced alveolar flap/lateral /r/; unique Japanese sound, not English r	kana for /ra/		[sound:ba7526a5c03f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+り	ri	Voiced alveolar.	Hiragana base	り (ri)	sound: /rʲi/ — Japanese /r/ palatalized before front vowel /i/	kana for /ri/		[sound:71d1c63e507f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+る	ru	Voiced alveolar.	Hiragana base	る (ru)	sound: /rɯ/ — voiced alveolar flap /r/ + compressed vowel /ɯ/	kana for /ru/		[sound:ffab9d02a311.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+れ	re	Voiced alveolar.	Hiragana base	れ (re)	sound: /re/ — voiced alveolar flap /r/ + mid front /e/	kana for /re/		[sound:df82f999c7fb.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ろ	ro	Voiced alveolar.	Hiragana base	ろ (ro)	sound: /ro/ — voiced alveolar flap /r/ + mid back /o/	kana for /ro/		[sound:eb766006aba2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+わ	wa	Glide w.	Hiragana base	わ (wa)	sound: /wa/ — labial-velar glide /w/ + open vowel /a/	kana for /wa/		[sound:dedb707d8398.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+を	wo	Particle wo.	Hiragana base	を (wo)	sound: /o/ — modern pronunciation /o/; used exclusively as direct object particle	kana for /wo/		[sound:eba95ba0c666.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ん	n	Moraic nasal.	Hiragana base	ん (n)	sound: /N/ — syllabic nasal mora; assimilates to next consonant; no vowel	kana for /n/		[sound:48a866bfdaf9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ア	a	Vowel a.	Katakana base	ア (a)	sound: /a/ — same phoneme as あ; katakana script used for foreign words and emphasis	kana for /a/		[sound:1b4c4cc65ff2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+イ	i	Vowel i.	Katakana base	イ (i)	sound: /i/ — same phoneme as い; katakana used for loanwords and technical terms	kana for /i/		[sound:b284de61340b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ウ	u	Vowel u.	Katakana base	ウ (u)	sound: /ɯ/ — same phoneme as う; katakana script; compressed back vowel	kana for /u/		[sound:86686c311378.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+エ	e	Vowel e.	Katakana base	エ (e)	sound: /e/ — same phoneme as え; katakana used for foreign-origin words	kana for /e/		[sound:3707bab0c47b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+オ	o	Vowel o.	Katakana base	オ (o)	sound: /o/ — same phoneme as お; katakana used for loanwords and onomatopoeia	kana for /o/		[sound:06716d34cc81.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+カ	ka	Voiceless velar.	Katakana base	カ (ka)	sound: /ka/ — same phoneme as か; katakana script	kana for /ka/		[sound:00ed9f08e29e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+キ	ki	Voiceless velar.	Katakana base	キ (ki)	sound: /kʲi/ — same phoneme as き; katakana	kana for /ki/		[sound:408ae436f0e0.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ク	ku	Voiceless velar.	Katakana base	ク (ku)	sound: /kɯ/ — same phoneme as く; katakana	kana for /ku/		[sound:15901a60a347.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ケ	ke	Voiceless velar.	Katakana base	ケ (ke)	sound: /ke/ — same phoneme as け; katakana	kana for /ke/		[sound:b50e4b46f608.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+コ	ko	Voiceless velar.	Katakana base	コ (ko)	sound: /ko/ — same phoneme as こ; katakana	kana for /ko/		[sound:202a6b25e725.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+サ	sa	Voiceless alveolar.	Katakana base	サ (sa)	sound: /sa/ — same phoneme as さ; katakana	kana for /sa/		[sound:bf2cbaccbc43.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+シ	shi	Voiceless alveolar.	Katakana base	シ (shi)	sound: /ʃi/ — same exception as し; palatalized sibilant; katakana	kana for /shi/	ツ	[sound:1afad7703773.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ス	su	Voiceless alveolar.	Katakana base	ス (su)	sound: /sɯ/ — same phoneme as す; katakana	kana for /su/		[sound:4df8398708ab.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+セ	se	Voiceless alveolar.	Katakana base	セ (se)	sound: /se/ — same phoneme as せ; katakana	kana for /se/		[sound:825cec98c430.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ソ	so	Voiceless alveolar.	Katakana base	ソ (so)	sound: /so/ — same phoneme as そ; katakana	kana for /so/	シ	[sound:7394858d1c1b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+タ	ta	Voiceless alveolar.	Katakana base	タ (ta)	sound: /ta/ — same phoneme as た; katakana	kana for /ta/		[sound:056cfad24eb2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+チ	chi	Voiceless alveolar.	Katakana base	チ (chi)	sound: /tʃi/ — same affricate exception as ち; katakana	kana for /chi/		[sound:7e62c71ff6cf.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ツ	tsu	Voiceless alveolar.	Katakana base	ツ (tsu)	sound: /tsɯ/ — same affricate exception as つ; katakana	kana for /tsu/	ソ	[sound:ee5fe18a7c76.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+テ	te	Voiceless alveolar.	Katakana base	テ (te)	sound: /te/ — same phoneme as て; katakana	kana for /te/		[sound:8996011e5796.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ト	to	Voiceless alveolar.	Katakana base	ト (to)	sound: /to/ — same phoneme as と; katakana	kana for /to/		[sound:d729bd2b2767.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ナ	na	Voiced nasal.	Katakana base	ナ (na)	sound: /na/ — same phoneme as な; katakana	kana for /na/		[sound:8f67916a925b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ニ	ni	Voiced nasal.	Katakana base	ニ (ni)	sound: /nʲi/ — same palatalized nasal as に; katakana	kana for /ni/		[sound:d8a8e4205aa7.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ヌ	nu	Voiced nasal.	Katakana base	ヌ (nu)	sound: /nɯ/ — same phoneme as ぬ; katakana	kana for /nu/		[sound:065ebce83a18.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ネ	ne	Voiced nasal.	Katakana base	ネ (ne)	sound: /ne/ — same phoneme as ね; katakana	kana for /ne/		[sound:edc16abe75a1.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ノ	no	Voiced nasal.	Katakana base	ノ (no)	sound: /no/ — same phoneme as の; katakana	kana for /no/		[sound:6c807d0ae2cd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ハ	ha	Voiceless labial.	Katakana base	ハ (ha)	sound: /ha/ — same phoneme as は; katakana	kana for /ha/		[sound:35104655d4d6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ヒ	hi	Voiceless labial.	Katakana base	ヒ (hi)	sound: /çi/ — same palatal fricative as ひ; katakana	kana for /hi/		[sound:9da359d5199d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+フ	fu	Voiceless labial.	Katakana base	フ (fu)	sound: /ɸɯ/ — same bilabial fricative as ふ; katakana	kana for /fu/		[sound:c2fa87c3ddd2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ヘ	he	Voiceless labial.	Katakana base	ヘ (he)	sound: /he/ — same phoneme as へ; katakana	kana for /he/		[sound:5cf428be4474.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ホ	ho	Voiceless labial.	Katakana base	ホ (ho)	sound: /ho/ — same phoneme as ほ; katakana	kana for /ho/		[sound:41a11f66f540.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+マ	ma	Voiced labial.	Katakana base	マ (ma)	sound: /ma/ — same phoneme as ま; katakana	kana for /ma/		[sound:55d42f593ce9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ミ	mi	Voiced labial.	Katakana base	ミ (mi)	sound: /mʲi/ — same palatalized nasal as み; katakana	kana for /mi/		[sound:651d85849d50.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ム	mu	Voiced labial.	Katakana base	ム (mu)	sound: /mɯ/ — same phoneme as む; katakana	kana for /mu/		[sound:c6abfe263593.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+メ	me	Voiced labial.	Katakana base	メ (me)	sound: /me/ — same phoneme as め; katakana	kana for /me/		[sound:cfc3325ef061.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+モ	mo	Voiced labial.	Katakana base	モ (mo)	sound: /mo/ — same phoneme as も; katakana	kana for /mo/		[sound:577210255a86.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ヤ	ya	Glide y.	Katakana base	ヤ (ya)	sound: /ja/ — same palatal glide as や; katakana	kana for /ya/		[sound:8e621f06c443.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ユ	yu	Glide y.	Katakana base	ユ (yu)	sound: /jɯ/ — same phoneme as ゆ; katakana	kana for /yu/		[sound:ea633878f249.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ヨ	yo	Glide y.	Katakana base	ヨ (yo)	sound: /jo/ — same phoneme as よ; katakana	kana for /yo/		[sound:da6c6a6baf77.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ラ	ra	Voiced alveolar.	Katakana base	ラ (ra)	sound: /ra/ — same alveolar flap as ら; katakana	kana for /ra/		[sound:d5f1ca173fcd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+リ	ri	Voiced alveolar.	Katakana base	リ (ri)	sound: /rʲi/ — same palatalized flap as り; katakana	kana for /ri/		[sound:56cb721117e2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ル	ru	Voiced alveolar.	Katakana base	ル (ru)	sound: /rɯ/ — same phoneme as る; katakana	kana for /ru/		[sound:1d672f91e3ff.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+レ	re	Voiced alveolar.	Katakana base	レ (re)	sound: /re/ — same phoneme as れ; katakana	kana for /re/		[sound:00859a61c08f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ロ	ro	Voiced alveolar.	Katakana base	ロ (ro)	sound: /ro/ — same phoneme as ろ; katakana	kana for /ro/		[sound:4c1fe526f363.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ワ	wa	Glide w.	Katakana base	ワ (wa)	sound: /wa/ — same labial-velar glide as わ; katakana	kana for /wa/		[sound:a2fbf25469bc.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ヲ	wo	Particle wo.	Katakana base	ヲ (wo)	sound: /o/ — katakana form of を; rarely used; object particle in older texts	kana for /wo/		[sound:b40c5f345cb9.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ン	n	Moraic nasal.	Katakana base	ン (n)	sound: /N/ — same syllabic nasal as ん; katakana	kana for /n/		[sound:6ad7ee833add.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+が	ga	Voiced ga.	Dakuten	base + dakuten → が	sound: /ga/ — dakuten ( ゛) voices か-row: /k/→/g/; voiced velar stop	kana for /ga/		[sound:a142816563b3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぎ	gi	Voiced gi.	Dakuten	base + dakuten → ぎ	sound: /gʲi/ — voiced velar /g/ palatalized before front vowel /i/	kana for /gi/		[sound:9a77c2df496e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぐ	gu	Voiced gu.	Dakuten	base + dakuten → ぐ	sound: /gɯ/ — voiced velar stop /g/ + compressed vowel /ɯ/	kana for /gu/		[sound:6e159a91b7ce.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+げ	ge	Voiced ge.	Dakuten	base + dakuten → げ	sound: /ge/ — voiced velar stop /g/ + mid front /e/	kana for /ge/		[sound:9167af511d53.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ご	go	Voiced go.	Dakuten	base + dakuten → ご	sound: /go/ — voiced velar stop /g/ + mid back /o/	kana for /go/		[sound:27a87259d93f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ざ	za	Voiced za.	Dakuten	base + dakuten → ざ	sound: /za/ — dakuten voices さ-row: /s/→/z/; voiced sibilant	kana for /za/		[sound:d08b42329511.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+じ	ji	Voiced ji.	Dakuten	base + dakuten → じ	sound: /dʑi/ or /ʑi/ — voiced さ-row exception; romanized 'ji'	kana for /ji/		[sound:41f11fe610d4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ず	zu	Voiced zu.	Dakuten	base + dakuten → ず	sound: /zɯ/ — voiced sibilant /z/ + compressed vowel /ɯ/	kana for /zu/		[sound:e77eb4831e6a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぜ	ze	Voiced ze.	Dakuten	base + dakuten → ぜ	sound: /ze/ — voiced sibilant /z/ + mid front /e/	kana for /ze/		[sound:8759dfeb913a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぞ	zo	Voiced zo.	Dakuten	base + dakuten → ぞ	sound: /zo/ — voiced sibilant /z/ + mid back /o/	kana for /zo/		[sound:bad314622d68.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+だ	da	Voiced da.	Dakuten	base + dakuten → だ	sound: /da/ — dakuten voices た-row: /t/→/d/; voiced alveolar stop	kana for /da/		[sound:b3d236275fac.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+で	de	Voiced de.	Dakuten	base + dakuten → で	sound: /de/ — voiced alveolar stop /d/ + mid front /e/	kana for /de/		[sound:7350618fcec3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ど	do	Voiced do.	Dakuten	base + dakuten → ど	sound: /do/ — voiced alveolar stop /d/ + mid back /o/	kana for /do/		[sound:76504d613664.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ば	ba	Voiced ba.	Dakuten	pa-row + handakuten → ば	sound: /ba/ — dakuten voices は-row: voiced bilabial stop /b/ + /a/	kana for /ba/		[sound:d8c158e0a2d1.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+び	bi	Voiced bi.	Dakuten	pa-row + handakuten → び	sound: /bʲi/ — voiced bilabial stop /b/ palatalized before front /i/	kana for /bi/		[sound:5fb5aba49978.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぶ	bu	Voiced bu.	Dakuten	pa-row + handakuten → ぶ	sound: /bɯ/ — voiced bilabial stop /b/ + compressed vowel /ɯ/	kana for /bu/		[sound:82b3fbb77164.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+べ	be	Voiced be.	Dakuten	pa-row + handakuten → べ	sound: /be/ — voiced bilabial stop /b/ + mid front /e/	kana for /be/		[sound:eefc5770b9dc.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぼ	bo	Voiced bo.	Dakuten	pa-row + handakuten → ぼ	sound: /bo/ — voiced bilabial stop /b/ + mid back /o/	kana for /bo/		[sound:7ebddc850724.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぱ	pa	Semi-voiced pa.	Handakuten	ha-row + handakuten → ぱ	sound: /pa/ — handakuten (゜) adds bilabial burst; /p/ not in native words	kana for /pa/		[sound:81223f8ee527.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぴ	pi	Semi-voiced pi.	Handakuten	ha-row + handakuten → ぴ	sound: /pʲi/ — handakuten bilabial /p/ palatalized before front /i/	kana for /pi/		[sound:749766f43a50.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぷ	pu	Semi-voiced pu.	Handakuten	ha-row + handakuten → ぷ	sound: /pɯ/ — handakuten bilabial /p/ + compressed vowel /ɯ/	kana for /pu/		[sound:224fecb16293.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぺ	pe	Semi-voiced pe.	Handakuten	ha-row + handakuten → ぺ	sound: /pe/ — handakuten bilabial /p/ + mid front /e/	kana for /pe/		[sound:bd1d8044336d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぽ	po	Semi-voiced po.	Handakuten	ha-row + handakuten → ぽ	sound: /po/ — handakuten bilabial /p/ + mid back /o/	kana for /po/		[sound:06b58547dc73.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ガ	ga	Voiced ga.	Dakuten	base + dakuten → ガ	sound: /ga/ — voiced velar; katakana dakuten form of カ	kana for /ga/		[sound:2cf8934dec55.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ギ	gi	Voiced gi.	Dakuten	base + dakuten → ギ	sound: /gʲi/ — voiced palatalized velar; katakana	kana for /gi/		[sound:5bbbbf8a5aff.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+グ	gu	Voiced gu.	Dakuten	base + dakuten → グ	sound: /gɯ/ — voiced velar + compressed vowel; katakana	kana for /gu/		[sound:65429ee5e7b4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ゲ	ge	Voiced ge.	Dakuten	base + dakuten → ゲ	sound: /ge/ — voiced velar + mid front; katakana	kana for /ge/		[sound:df715d6e0967.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ゴ	go	Voiced go.	Dakuten	base + dakuten → ゴ	sound: /go/ — voiced velar + mid back; katakana	kana for /go/		[sound:f684fe6c107a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ザ	za	Voiced za.	Dakuten	base + dakuten → ザ	sound: /za/ — voiced sibilant; katakana dakuten form of サ	kana for /za/		[sound:bdf380ec22e5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ジ	ji	Voiced ji.	Dakuten	base + dakuten → ジ	sound: /dʑi/ — voiced affricate exception; katakana	kana for /ji/		[sound:fcd474ce77e4.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ズ	zu	Voiced zu.	Dakuten	base + dakuten → ズ	sound: /zɯ/ — voiced sibilant + compressed vowel; katakana	kana for /zu/		[sound:3c1a103b5b4f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ゼ	ze	Voiced ze.	Dakuten	base + dakuten → ゼ	sound: /ze/ — voiced sibilant + mid front; katakana	kana for /ze/		[sound:56c35c37128e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ゾ	zo	Voiced zo.	Dakuten	base + dakuten → ゾ	sound: /zo/ — voiced sibilant + mid back; katakana	kana for /zo/		[sound:7797100cc0f2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ダ	da	Voiced da.	Dakuten	base + dakuten → ダ	sound: /da/ — voiced alveolar stop; katakana dakuten form of タ	kana for /da/		[sound:919e596fb58d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+デ	de	Voiced de.	Dakuten	base + dakuten → デ	sound: /de/ — voiced alveolar stop + mid front; katakana	kana for /de/		[sound:5dc5d5b8abb3.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ド	do	Voiced do.	Dakuten	base + dakuten → ド	sound: /do/ — voiced alveolar stop + mid back; katakana	kana for /do/		[sound:a9a84e4c1845.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+バ	ba	Voiced ba.	Dakuten	base + dakuten → バ	sound: /ba/ — voiced bilabial stop; katakana dakuten form of ハ	kana for /ba/		[sound:2768d02f9098.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ビ	bi	Voiced bi.	Dakuten	base + dakuten → ビ	sound: /bʲi/ — voiced bilabial palatalized; katakana	kana for /bi/		[sound:d5725b2f8d16.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ブ	bu	Voiced bu.	Dakuten	base + dakuten → ブ	sound: /bɯ/ — voiced bilabial + compressed vowel; katakana	kana for /bu/		[sound:c11cd8dd4563.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ベ	be	Voiced be.	Dakuten	base + dakuten → ベ	sound: /be/ — voiced bilabial + mid front; katakana	kana for /be/		[sound:e24283733b4a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ボ	bo	Voiced bo.	Dakuten	base + dakuten → ボ	sound: /bo/ — voiced bilabial + mid back; katakana	kana for /bo/		[sound:c6be80a62e61.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+パ	pa	Semi-voiced pa.	Handakuten	ha-row + handakuten → パ	sound: /pa/ — bilabial burst handakuten; katakana form	kana for /pa/		[sound:d4c65564c4ad.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ピ	pi	Semi-voiced pi.	Handakuten	ha-row + handakuten → ピ	sound: /pʲi/ — bilabial handakuten palatalized; katakana	kana for /pi/		[sound:2083aa096d7e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+プ	pu	Semi-voiced pu.	Handakuten	ha-row + handakuten → プ	sound: /pɯ/ — bilabial handakuten + compressed vowel; katakana	kana for /pu/		[sound:a3b8f9e1263b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ペ	pe	Semi-voiced pe.	Handakuten	ha-row + handakuten → ペ	sound: /pe/ — bilabial handakuten + mid front; katakana	kana for /pe/		[sound:8a8021085114.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ポ	po	Semi-voiced po.	Handakuten	ha-row + handakuten → ポ	sound: /po/ — bilabial handakuten + mid back; katakana	kana for /po/		[sound:23239011ca96.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+きゃ	kya	Ki + ya combo.	Yō-on	consonant + ya/yu/yo → きゃ	sound: /kya/ — combination: き + small ゃ; palatal compound /kʲ/+/a/	palatal variant of k		[sound:b2b7e45bf39e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+きゅ	kyu	Ki + yu combo.	Yō-on	consonant + ya/yu/yo → きゅ	sound: /kyu/ — combination: き + small ゅ; palatal compound /kʲ/+/ɯ/	palatal variant of k		[sound:298ab383a42d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+きょ	kyo	Ki + yo combo.	Yō-on	consonant + ya/yu/yo → きょ	sound: /kyo/ — combination: き + small ょ; palatal compound /kʲ/+/o/	palatal variant of k		[sound:d9ee3c16a677.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+しゃ	sha	Shi + ya combo.	Yō-on	consonant + ya/yu/yo → しゃ	sound: /ʃa/ — combination: し + small ゃ; palatalized sibilant + /a/	palatal variant of s		[sound:b6e3f9666c7a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+しゅ	shu	Shi + yu combo.	Yō-on	consonant + ya/yu/yo → しゅ	sound: /ʃɯ/ — combination: し + small ゅ; romanized 'shu'	palatal variant of s		[sound:64d073703829.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+しょ	sho	Shi + yo combo.	Yō-on	consonant + ya/yu/yo → しょ	sound: /ʃo/ — combination: し + small ょ; romanized 'sho'	palatal variant of s		[sound:7a5aea55155b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ちゃ	cha	Chi + ya combo.	Yō-on	consonant + ya/yu/yo → ちゃ	sound: /tʃa/ — combination: ち + small ゃ; affricate + /a/; romanized 'cha'	palatal variant of c		[sound:062957be362f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ちゅ	chu	Chi + yu combo.	Yō-on	consonant + ya/yu/yo → ちゅ	sound: /tʃɯ/ — combination: ち + small ゅ; romanized 'chu'	palatal variant of c		[sound:619fdc4f9348.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ちょ	cho	Chi + yo combo.	Yō-on	consonant + ya/yu/yo → ちょ	sound: /tʃo/ — combination: ち + small ょ; romanized 'cho'	palatal variant of c		[sound:4def51326a2d.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+にゃ	nya	Ni + ya combo.	Yō-on	consonant + ya/yu/yo → にゃ	sound: /nʲa/ — combination: に + small ゃ; palatalized nasal + /a/	palatal variant of n		[sound:be4c29664dfd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+にゅ	nyu	Ni + yu combo.	Yō-on	consonant + ya/yu/yo → にゅ	sound: /nʲɯ/ — combination: に + small ゅ; palatalized nasal + /ɯ/	palatal variant of n		[sound:658da3d97ec6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+にょ	nyo	Ni + yo combo.	Yō-on	consonant + ya/yu/yo → にょ	sound: /nʲo/ — combination: に + small ょ; palatalized nasal + /o/	palatal variant of n		[sound:0954bcc57525.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ひゃ	hya	Hi + ya combo.	Yō-on	consonant + ya/yu/yo → ひゃ	sound: /hʲa/ — combination: ひ + small ゃ; palatal fricative + /a/	palatal variant of h		[sound:f28cd0be883a.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ひゅ	hyu	Hi + yu combo.	Yō-on	consonant + ya/yu/yo → ひゅ	sound: /hʲɯ/ — combination: ひ + small ゅ; palatal fricative + /ɯ/	palatal variant of h		[sound:e0e6bdfbd67b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ひょ	hyo	Hi + yo combo.	Yō-on	consonant + ya/yu/yo → ひょ	sound: /hʲo/ — combination: ひ + small ょ; palatal fricative + /o/	palatal variant of h		[sound:0627f890934c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+みゃ	mya	Mi + ya combo.	Yō-on	consonant + ya/yu/yo → みゃ	sound: /mʲa/ — combination: み + small ゃ; palatalized nasal /m/+/a/	palatal variant of m		[sound:0eb0633f6c68.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+みゅ	myu	Mi + yu combo.	Yō-on	consonant + ya/yu/yo → みゅ	sound: /mʲɯ/ — combination: み + small ゅ; palatalized nasal /m/+/ɯ/	palatal variant of m		[sound:5bd384349a78.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+みょ	myo	Mi + yo combo.	Yō-on	consonant + ya/yu/yo → みょ	sound: /mʲo/ — combination: み + small ょ; palatalized nasal /m/+/o/	palatal variant of m		[sound:6617e33d9583.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+りゃ	rya	Ri + ya combo.	Yō-on	consonant + ya/yu/yo → りゃ	sound: /rʲa/ — combination: り + small ゃ; palatalized flap /r/+/a/	palatal variant of r		[sound:f58558332c0c.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+りゅ	ryu	Ri + yu combo.	Yō-on	consonant + ya/yu/yo → りゅ	sound: /rʲɯ/ — combination: り + small ゅ; palatalized flap /r/+/ɯ/	palatal variant of r		[sound:73c41f0e483e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+りょ	ryo	Ri + yo combo.	Yō-on	consonant + ya/yu/yo → りょ	sound: /rʲo/ — combination: り + small ょ; palatalized flap /r/+/o/	palatal variant of r		[sound:1ab62bb6d7b6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぎゃ	gya	Gi + ya combo.	Yō-on	consonant + ya/yu/yo → ぎゃ	sound: /gʲa/ — combination: voiced velar ぎ + small ゃ; /g/+/a/	palatal variant of g		[sound:95e3d0ad8f6f.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぎゅ	gyu	Gi + yu combo.	Yō-on	consonant + ya/yu/yo → ぎゅ	sound: /gʲɯ/ — combination: voiced velar ぎ + small ゅ; /g/+/ɯ/	palatal variant of g		[sound:81a5e9e8a034.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぎょ	gyo	Gi + yo combo.	Yō-on	consonant + ya/yu/yo → ぎょ	sound: /gʲo/ — combination: voiced velar ぎ + small ょ; /g/+/o/	palatal variant of g		[sound:08831cb24c9b.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+じゃ	ja	Ji + ya combo.	Yō-on	consonant + ya/yu/yo → じゃ	sound: /dʑa/ — combination: じ + small ゃ; voiced affricate + /a/; 'ja'	palatal variant of j		[sound:d91490197bd6.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+じゅ	ju	Ji + yu combo.	Yō-on	consonant + ya/yu/yo → じゅ	sound: /dʑɯ/ — combination: じ + small ゅ; voiced affricate; 'ju'	palatal variant of j		[sound:567ca1db796e.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+じょ	jo	Ji + yo combo.	Yō-on	consonant + ya/yu/yo → じょ	sound: /dʑo/ — combination: じ + small ょ; voiced affricate; 'jo'	palatal variant of j		[sound:115759838422.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+びゃ	bya	Bi + ya combo.	Yō-on	consonant + ya/yu/yo → びゃ	sound: /bʲa/ — combination: voiced bilabial び + small ゃ; /b/+/a/	palatal variant of b		[sound:4d8780b09f52.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+びゅ	byu	Bi + yu combo.	Yō-on	consonant + ya/yu/yo → びゅ	sound: /bʲɯ/ — combination: voiced bilabial び + small ゅ; /b/+/ɯ/	palatal variant of b		[sound:747dbd8ebca5.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+びょ	byo	Bi + yo combo.	Yō-on	consonant + ya/yu/yo → びょ	sound: /bʲo/ — combination: voiced bilabial び + small ょ; /b/+/o/	palatal variant of b		[sound:0a1cc845facd.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぴゃ	pya	Pi + ya combo.	Yō-on	consonant + ya/yu/yo → ぴゃ	sound: /pʲa/ — combination: handakuten ぴ + small ゃ; bilabial /p/+/a/	palatal variant of p		[sound:ef826d2af5c0.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぴゅ	pyu	Pi + yu combo.	Yō-on	consonant + ya/yu/yo → ぴゅ	sound: /pʲɯ/ — combination: handakuten ぴ + small ゅ; bilabial /p/+/ɯ/	palatal variant of p		[sound:984576b5cea2.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
+ぴょ	pyo	Pi + yo combo.	Yō-on	consonant + ya/yu/yo → ぴょ	sound: /pʲo/ — combination: handakuten ぴ + small ょ; bilabial /p/+/o/	palatal variant of p		[sound:220216f18a88.mp3]	module:00-foundation jlpt:n5 point:kana complexity:intro source:curated-jpgram
