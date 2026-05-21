@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I won't drink alcohol today.	今日はお酒を飲まない。	きょうはおさけをのまない。	今日はお酒を飲まない。	う-verb negative: -u → -a + ない — vowel row shift for negation	[sound:6ebf2a593f86.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored source:shin-kanzen frequency:top10k complexity:intro
-He doesn't talk much.	彼はあまり話さない。	かれはあまりはなさない。	彼はあまり話さない。	う-verb negative: plain form — informal negative; not polite	[sound:c0a09b65e0e6.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored source:shin-kanzen frequency:top5k complexity:intro
-There are many people who don't read the newspaper.	新聞を読まない人が多い。	しんぶんをよまないひとがおおい。	新聞を読まない人が多い。	う-verb negative: godan stem change — う→あ row + ない	[sound:e10b6611dce8.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored source:shin-kanzen frequency:top1k complexity:intro
-Please don't turn off the lights.	電気を消さないでください。	でんきをけさないでください。	電気を消さないでください。	う-verb negative: exception 飲む → 飲まない — む row shifts to ま	[sound:817a39586b22.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored source:shin-kanzen frequency:top1k complexity:standard
-I don't smoke here.	ここでタバコを吸わない。	ここでたばこをすわない。	ここでタバコを吸わない。	う-verb negative: non-past negative — action does not / will not happen	[sound:937a28cce92b.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored source:shin-kanzen complexity:intro
+I won't drink alcohol today.	今日はお酒を飲まない。	きょうはおさけをのまない。	今日はお酒を飲まない。	う-verb negative: -u → -a + ない — vowel row shift for negation	[sound:6ebf2a593f86.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored frequency:top10k complexity:intro
+He doesn't talk much.	彼はあまり話さない。	かれはあまりはなさない。	彼はあまり話さない。	う-verb negative: plain form — informal negative; not polite	[sound:c0a09b65e0e6.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored frequency:top5k complexity:intro
+There are many people who don't read the newspaper.	新聞を読まない人が多い。	しんぶんをよまないひとがおおい。	新聞を読まない人が多い。	う-verb negative: godan stem change — う→あ row + ない	[sound:e10b6611dce8.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored frequency:top1k complexity:intro
+Please don't turn off the lights.	電気を消さないでください。	でんきをけさないでください。	電気を消さないでください。	う-verb negative: exception 飲む → 飲まない — む row shifts to ま	[sound:817a39586b22.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored frequency:top1k complexity:standard
+I don't smoke here.	ここでタバコを吸わない。	ここでたばこをすわない。	ここでタバコを吸わない。	う-verb negative: non-past negative — action does not / will not happen	[sound:937a28cce92b.mp3]	module:01-n5 jlpt:n5 point:うverb--ない source:authored complexity:intro

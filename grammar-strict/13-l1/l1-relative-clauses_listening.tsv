@@ -4,11 +4,11 @@
 #notetype:Listening
 #deck:Japanese Grammar::13 - L1 Interference::Listening
 
-[sound:5417661ab018.mp3]	私が買った本	わたしがかったほん	The book that I bought	verb comes BEFORE noun	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram complexity:standard
-[sound:821430f63c65.mp3]	田中さんが書いた記事	たなかさんがかいたきじ	The article that Tanaka wrote	past verb BEFORE article	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:ce6577e033eb.mp3]	昨日見た映画	きのうみたえいが	The movie that I watched yesterday	time + verb BEFORE movie	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram complexity:standard
-[sound:b6cbe418d421.mp3]	彼が住んでいるアパート	かれがすんでいるあぱーと	The apartment where he lives	present verb BEFORE apartment	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:b7820fc019eb.mp3]	先生が教えている学生	せんせいがおしえているがくせい	The student that the teacher is teaching	progressive verb BEFORE student	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:49071cc71b6a.mp3]	私が知っている人	わたしがしっているひと	The person that I know	know-verb BEFORE person	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram complexity:standard
-[sound:c9b8f965add4.mp3]	子どもたちが遊ぶ公園	こどもたちがあそぶこうえん	The park where children play	verb BEFORE park	module:13-l1 point:l1-relative-clauses frequency:top5k complexity:intro source:curated-jpgram complexity:standard
-[sound:12906aa5e600.mp3]	企業が開発した製品	きぎょうがかいはつしたせいひん	The product that the company developed	past verb BEFORE product	module:13-l1 point:l1-relative-clauses frequency:low complexity:intro source:curated-jpgram complexity:standard
+[sound:5417661ab018.mp3]	私が買った本	わたしがかったほん	The book that I bought	verb comes BEFORE noun	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram
+[sound:821430f63c65.mp3]	田中さんが書いた記事	たなかさんがかいたきじ	The article that Tanaka wrote	past verb BEFORE article	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram
+[sound:ce6577e033eb.mp3]	昨日見た映画	きのうみたえいが	The movie that I watched yesterday	time + verb BEFORE movie	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram
+[sound:b6cbe418d421.mp3]	彼が住んでいるアパート	かれがすんでいるあぱーと	The apartment where he lives	present verb BEFORE apartment	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram
+[sound:b7820fc019eb.mp3]	先生が教えている学生	せんせいがおしえているがくせい	The student that the teacher is teaching	progressive verb BEFORE student	module:13-l1 point:l1-relative-clauses frequency:top10k complexity:intro source:curated-jpgram
+[sound:49071cc71b6a.mp3]	私が知っている人	わたしがしっているひと	The person that I know	know-verb BEFORE person	module:13-l1 point:l1-relative-clauses frequency:top1k complexity:intro source:curated-jpgram
+[sound:c9b8f965add4.mp3]	子どもたちが遊ぶ公園	こどもたちがあそぶこうえん	The park where children play	verb BEFORE park	module:13-l1 point:l1-relative-clauses frequency:top5k complexity:intro source:curated-jpgram
+[sound:12906aa5e600.mp3]	企業が開発した製品	きぎょうがかいはつしたせいひん	The product that the company developed	past verb BEFORE product	module:13-l1 point:l1-relative-clauses frequency:low complexity:intro source:curated-jpgram

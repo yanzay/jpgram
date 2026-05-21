@@ -3,8 +3,8 @@
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
 #deck:Japanese Grammar::03 - N3 Grammar::Cloze
-空が暗くて、雨が降り{{c1::そうだ}}。	そらがくらくて、あめがふり{{c1::そうだ}}。	looks like rain	[sound:24e99fd7de72.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
-あの料理は美味し{{c1::そうだ}}。	あのりょうりはおいし{{c1::そうだ}}。	looks delicious	[sound:ed85823758f6.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:low complexity:intro
-彼は今にも泣き{{c1::そうだ}}。	かれはいまにもなき{{c1::そうだ}}。	about to cry	[sound:e59e49b15984.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro
-彼女は嬉し{{c1::そうだ}}。	かのじょはうれし{{c1::そうだ}}。	looks happy	[sound:57c614c91eda.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k complexity:intro
-この橋は崩れ{{c1::そうだ}}。	このはしはくずれ{{c1::そうだ}}。	might collapse	[sound:35854e9cc0a9.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
+空が暗くて、雨が降り{{c1::そうだ}}。	そらがくらくて、あめがふり{{c1::そうだ}}。	looks like rain	[sound:24e99fd7de72.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
+あの料理は美味し{{c1::そうだ}}。	あのりょうりはおいし{{c1::そうだ}}。	looks delicious	[sound:ed85823758f6.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:low
+彼は今にも泣き{{c1::そうだ}}。	かれはいまにもなき{{c1::そうだ}}。	about to cry	[sound:e59e49b15984.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+彼女は嬉し{{c1::そうだ}}。	かのじょはうれし{{c1::そうだ}}。	looks happy	[sound:57c614c91eda.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k
+この橋は崩れ{{c1::そうだ}}。	このはしはくずれ{{c1::そうだ}}。	might collapse	[sound:35854e9cc0a9.mp3]	module:03-n3 jlpt:n3 point:そうだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k

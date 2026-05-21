@@ -4,19 +4,19 @@
 #notetype:Listening
 #deck:Japanese Grammar::03 - N3 Grammar::Listening
 
-[sound:d9047be5782a.mp3]	彼はこの仕事をせぬ	かれはこのしごとをせぬ	He shall not do this work. (Classical negation)	modern ぬ = ない	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:5f5389920648.mp3]	我輩はこれを為さん	わがはいはこれをなさん	We shall do this. (Classical volitional)	modern ～う/～よう	module:03-n3 point:べき complexity:intro frequency:low source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:434b63631d27.mp3]	学ぶべし	まなぶべし	One must/should learn.	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen scaffold:pending-audio
-[sound:2d2e34c7b342.mp3]	行くべきか	いくべきか	Should I go? (Classical rhetorical)	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:e904fd8d8d08.mp3]	すべからず	すべからず	Must not do. (Classical prohibition)	modern ～はずがない	module:03-n3 point:べき complexity:intro source:imabi complexity:standard jlpt:n3 source:shin-kanzen scaffold:pending-audio
+[sound:d9047be5782a.mp3]	彼はこの仕事をせぬ	かれはこのしごとをせぬ	He shall not do this work. (Classical negation)	modern ぬ = ない	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi jlpt:n3
+[sound:5f5389920648.mp3]	我輩はこれを為さん	わがはいはこれをなさん	We shall do this. (Classical volitional)	modern ～う/～よう	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3
+[sound:434b63631d27.mp3]	学ぶべし	まなぶべし	One must/should learn.	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi jlpt:n3 scaffold:pending-audio
+[sound:2d2e34c7b342.mp3]	行くべきか	いくべきか	Should I go? (Classical rhetorical)	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi jlpt:n3
+[sound:e904fd8d8d08.mp3]	すべからず	すべからず	Must not do. (Classical prohibition)	modern ～はずがない	module:03-n3 point:べき complexity:intro source:imabi jlpt:n3 scaffold:pending-audio
 [sound:594c408d0af1.mp3]	彼は今すぐ謝るべきだ。	かれはいますぐあやまるべきだ。	He should apologize right now.	strong obligation べき	module:03-n3 jlpt:n3 point:べき complexity:standard source:shin-kanzen scaffold:pending-audio
-[sound:3258f3176a39.mp3]	それ故に行かぬ	それゆえにいかぬ	Therefore, do not go. (Classical)	modern いかない	module:03-n3 point:べき complexity:intro frequency:low source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:3258f3176a39.mp3]	それ故に行かぬ	それゆえにいかぬ	Therefore, do not go. (Classical)	modern いかない	module:03-n3 point:べき complexity:intro frequency:low source:imabi jlpt:n3
 [sound:1caa32ce4e5d.mp3]	もっと勉強するべきだった。	もっとべんきょうするべきだった。	I should have studied more.	strong obligation べき	module:03-n3 jlpt:n3 point:べき complexity:standard source:shin-kanzen scaffold:pending-audio
-[sound:ef594bfb5311.mp3]	すべき	すべき	Should (strong obligation)	べき = you MUST (moral)	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:e382e8be9a15.mp3]	できます	できます	Can (ability)	can = CAN DO (skill)	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:ca7e82a37528.mp3]	てもいいです	てもいいです	May (permission)	may = you MAY (allowed)	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:8fb892cf517b.mp3]	つもりです	つもりです	Will (intention)	will = I PLAN to	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:888e767b758b.mp3]	なければなりません	なければなりません	Must (necessity)	must = HAVE TO	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:aa758a018c0f.mp3]	だろう	だろう	Will (prediction)	will = probably WILL	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:89f2b686561f.mp3]	かもしれません	かもしれません	Might (possibility)	might = MAYBE will	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
-[sound:4249bdc7da22.mp3]	ようにする	ようにする	Try to (effort/intention)	try to = try hard	module:03-n3 point:べき complexity:intro source:curated-jpgram complexity:standard jlpt:n3 source:shin-kanzen
+[sound:ef594bfb5311.mp3]	すべき	すべき	Should (strong obligation)	べき = you MUST (moral)	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:e382e8be9a15.mp3]	できます	できます	Can (ability)	can = CAN DO (skill)	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:ca7e82a37528.mp3]	てもいいです	てもいいです	May (permission)	may = you MAY (allowed)	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:8fb892cf517b.mp3]	つもりです	つもりです	Will (intention)	will = I PLAN to	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:888e767b758b.mp3]	なければなりません	なければなりません	Must (necessity)	must = HAVE TO	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:aa758a018c0f.mp3]	だろう	だろう	Will (prediction)	will = probably WILL	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:89f2b686561f.mp3]	かもしれません	かもしれません	Might (possibility)	might = MAYBE will	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3
+[sound:4249bdc7da22.mp3]	ようにする	ようにする	Try to (effort/intention)	try to = try hard	module:03-n3 point:べき complexity:intro source:curated-jpgram jlpt:n3

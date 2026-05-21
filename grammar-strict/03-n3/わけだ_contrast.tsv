@@ -4,8 +4,8 @@
 #notetype:Contrast
 #deck:Japanese Grammar::03 - N3 Grammar::Contrast
 
-毎日練習している。だから上手になる___。	わけだ	はずだ	わけだ	わけだ = drawn conclusion from premise; はずだ = pure logical expectation	follows-from-context → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-彼は5年も日本に住んでいた。道理で日本語が上手な___。	わけだ	ようだ	わけだ	わけだ confirms 'that makes sense / no wonder' from a stated cause	no wonder → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-給料が下がった。家計が苦しくなる___。	わけだ	に違いない	わけだ	わけだ = logical consequence of the prior fact; ちがいない = strong inference	consequential reasoning → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-つまり、私が間違っていた___。	わけだ	ものだ	わけだ	わけだ = arriving at the realisation; ものだ = general truth/exclamation	drawn realisation → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-彼女は何度も練習した。だから自信がある___。	わけだ	だろう	わけだ	わけだ confirms a result that flows from a stated cause	result-from-cause → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+毎日練習している。だから上手になる___。	わけだ	はずだ	わけだ	わけだ = drawn conclusion from premise; はずだ = pure logical expectation	follows-from-context → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio confusable-with:はずだ
+彼は5年も日本に住んでいた。道理で日本語が上手な___。	わけだ	ようだ	わけだ	わけだ confirms 'that makes sense / no wonder' from a stated cause	no wonder → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio confusable-with:ようだ
+給料が下がった。家計が苦しくなる___。	わけだ	に違いない	わけだ	わけだ = logical consequence of the prior fact; ちがいない = strong inference	consequential reasoning → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio confusable-with:に違いない
+つまり、私が間違っていた___。	わけだ	ものだ	わけだ	わけだ = arriving at the realisation; ものだ = general truth/exclamation	drawn realisation → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio confusable-with:ものだ
+彼女は何度も練習した。だから自信がある___。	わけだ	だろう	わけだ	わけだ confirms a result that flows from a stated cause	result-from-cause → わけだ		module:03-n3 jlpt:n3 point:わけだ complexity:standard source:authored frequency:top10k scaffold:pending-audio confusable-with:だろう
