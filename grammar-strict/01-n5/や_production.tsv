@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I bought apples, bananas, and so on.	りんごやバナナを買いました。	りんごやばななをかいました。	りんごやバナナを買いました。	や: partial listing — X や Y (etc.) = X and Y and other similar things	[sound:362c8a17aed9.mp3]	module:01-n5 jlpt:n5 point:や source:authored source:shin-kanzen complexity:standard
-There are books, pens, and other things on the desk.	机の上に本やペンがあります。	つくえのうえにほんやぺんがあります。	机の上に本やペンがあります。	や vs と: completeness — や = there are more items; と = this is the complete list	[sound:78c8342b0b30.mp3]	module:01-n5 jlpt:n5 point:や source:authored source:shin-kanzen frequency:top1k complexity:standard
-I like dogs, cats, and that kind of thing.	犬や猫が好きです。	いぬやねこがすきです。	犬や猫が好きです。	〜や〜など: listing with etc. — や and など together signal partial list	[sound:abecc87019ae.mp3]	module:01-n5 jlpt:n5 point:や source:authored source:shin-kanzen frequency:top1k complexity:intro
-I've been to Tokyo, Osaka, and other places.	東京や大阪に行ったことがあります。	とうきょうやおおさかにいったことがあります。	東京や大阪に行ったことがあります。	や: non-exhaustive conjunction — selects examples from a larger set	[sound:7334f0f48f41.mp3]	module:01-n5 jlpt:n5 point:や source:authored source:shin-kanzen frequency:top10k complexity:standard
-In the morning I eat bread, eggs, and the like.	朝はパンや卵を食べます。	あさはぱんやたまごをたべます。	朝はパンや卵を食べます。	や: informal register — casual spoken listing particle	[sound:edf45ee7e2b2.mp3]	module:01-n5 jlpt:n5 point:や source:authored source:shin-kanzen frequency:top1k complexity:intro
+I bought apples, bananas, and so on.	りんごやバナナを買いました。	りんごやばななをかいました。	りんごやバナナを買いました。	や: partial listing — X や Y (etc.) = X and Y and other similar things	[sound:362c8a17aed9.mp3]	module:01-n5 jlpt:n5 point:や source:authored complexity:standard
+There are books, pens, and other things on the desk.	机の上に本やペンがあります。	つくえのうえにほんやぺんがあります。	机の上に本やペンがあります。	や vs と: completeness — や = there are more items; と = this is the complete list	[sound:78c8342b0b30.mp3]	module:01-n5 jlpt:n5 point:や source:authored frequency:top1k complexity:standard
+I like dogs, cats, and that kind of thing.	犬や猫が好きです。	いぬやねこがすきです。	犬や猫が好きです。	〜や〜など: listing with etc. — や and など together signal partial list	[sound:abecc87019ae.mp3]	module:01-n5 jlpt:n5 point:や source:authored frequency:top1k complexity:intro
+I've been to Tokyo, Osaka, and other places.	東京や大阪に行ったことがあります。	とうきょうやおおさかにいったことがあります。	東京や大阪に行ったことがあります。	や: non-exhaustive conjunction — selects examples from a larger set	[sound:7334f0f48f41.mp3]	module:01-n5 jlpt:n5 point:や source:authored frequency:top10k complexity:standard
+In the morning I eat bread, eggs, and the like.	朝はパンや卵を食べます。	あさはぱんやたまごをたべます。	朝はパンや卵を食べます。	や: informal register — casual spoken listing particle	[sound:edf45ee7e2b2.mp3]	module:01-n5 jlpt:n5 point:や source:authored frequency:top1k complexity:intro

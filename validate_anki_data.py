@@ -50,6 +50,42 @@ _PLACEHOLDER_TOKEN_RE = re.compile(r"\bexample(?:[a-z0-9_-]*)\b", re.I)
 _JP_CHAR_RE = re.compile(r"[一-龯ぁ-んァ-ン]")
 _CLOZE_EXTRACT_RE = re.compile(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}")
 
+# Phase-6 additions:
+_ALLOWED_HEADER_PREFIXES = ("#separator:", "#html:", "#columns:", "#notetype:", "#deck:")
+# Placeholder Label values that indicate authoring scaffolding leaked into shipped content.
+_LABEL_PLACEHOLDER_RE = re.compile(r"^(contrast-derived|TODO|PLACEHOLDER|tbd|FIXME)$", re.I)
+# Directory-prefix → expected JLPT tag value.
+_DIR_TO_JLPT = {
+    "00-foundation": "n5",
+    "01-n5": "n5",
+    "02-n4": "n4",
+    "03-n3": "n3",
+    "04-n2": "n2",
+    "05-n1": "n1",
+    "10-onomatopoeia": None,  # no JLPT constraint
+    "13-l1": None,
+}
+# Slugs that legitimately don't appear verbatim in JP (umbrella/category files).
+_CATEGORY_SLUGS = frozenset({
+    "kana", "copula", "particles-core", "numbers-counters",
+    "demonstratives", "time-expressions", "pitch-accent-primer",
+    "i-adjectives", "interrogatives", "polite-verb-endings",
+    "verb-non-past", "past-tense-い-adjectives", "causative-passive",
+    "causative", "potential", "passive",
+    # Single-character umbrellas (cover broad grammar categories rather than
+    # a single morpheme).
+    "いい", "それ", "どこ", "って", "と", "が", "を", "に", "で", "の",
+    "は", "も", "へ", "や", "か", "から", "まで",
+    # Onomatopoeia bucket files
+    "onomatopoeia",
+    "giongo-sounds", "gitaigo-states", "giseigo-people", "giseigo-voices",
+    "emotional-onomatopoeia",
+    # L1-interference bucket files
+    "l1-tense-aspect", "l1-articles-and-number", "l1-pronoun-overuse",
+    "l1-yes-no_negative-questions", "l1-givereceive-direction",
+    "l1-particles-overlap", "l1-relative-clauses",
+})
+
 
 def _load_manifest_keys() -> set[str]:
     if not MANIFEST_PATH.exists():
@@ -115,8 +151,20 @@ def lint_file(path: Path,
             errs.append(f"WARN: {path}:{ln}: stray bare '#' line — remove it")
             continue
         if raw.startswith("#"):
+            # Phase-6: any header line not in the allowed prefix set is a stray
+            # narrative comment — these confuse some Anki importers.
+            if not raw.startswith(_ALLOWED_HEADER_PREFIXES):
+                errs.append(
+                    f"{path}:{ln}: stray comment '{raw[:60]}' "
+                    f"between standard headers"
+                )
             continue
         data.append((ln, raw))
+
+    # Phase-6: empty data file = authoring scaffold leak.
+    if not data:
+        errs.append(f"{path}: no data rows — authoring scaffold leaked into deck")
+        return errs
 
     if header is None:
         errs.append(f"{path}: missing `#columns:` header")
@@ -190,14 +238,90 @@ def lint_file(path: Path,
             if en_val and _META_EN_RE.search(en_val):
                 errs.append(f"{path}:{ln}: meta-commentary in EN column: {en_val[:60]!r}")
 
-        # Whole-sentence cloze check — WARN only; these files are excluded from build via
-        # --exclude-broken. Fixing them requires Phase 2 content rewrites.
+        # Whole-sentence cloze — promoted from WARN to ERROR after Phase-2
+        # re-curation. Every cloze row must leave some JP context outside
+        # the {{c1::…}} deletion for the learner to anchor on.
         if nt == "Cloze" and "Text" in header:
             text_field = row[header.index("Text")]
             remainder = _CLOZE_RE.sub("", text_field).strip()
             if not _JP_CHAR_RE.search(remainder):
                 errs.append(
-                    f"WARN: {path}:{ln}: whole-sentence cloze — no JP context outside the deletion"
+                    f"{path}:{ln}: whole-sentence cloze — no JP context outside the deletion"
+                )
+
+        # Phase-6: tag-key uniqueness. Anki indexes duplicate-prefix tags
+        # separately ("complexity:intro complexity:standard" → 2 tags),
+        # which inflates the cardinality and breaks filtered decks.
+        seen_prefixes: dict[str, int] = {}
+        for tok in tag_tokens:
+            if ":" in tok:
+                prefix = tok.split(":", 1)[0]
+                seen_prefixes[prefix] = seen_prefixes.get(prefix, 0) + 1
+        for prefix, count in seen_prefixes.items():
+            if count > 1 and prefix in {"complexity", "frequency", "jlpt", "module", "point", "source"}:
+                errs.append(
+                    f"WARN: {path}:{ln}: duplicate tag prefix '{prefix}:' "
+                    f"appears {count}× — keep one"
+                )
+
+        # Phase-6: JLPT tag must match the directory. 01-n5/ → jlpt:n5, etc.
+        # Directory `10-onomatopoeia/` and `13-l1/` have no JLPT constraint.
+        dir_name = path.parent.name
+        expected_jlpt = _DIR_TO_JLPT.get(dir_name)
+        if expected_jlpt is not None:
+            jlpt_tags = [t[len("jlpt:"):] for t in tag_tokens if t.startswith("jlpt:")]
+            if jlpt_tags and not any(j == expected_jlpt for j in jlpt_tags):
+                errs.append(
+                    f"{path}:{ln}: jlpt tag {jlpt_tags} disagrees with "
+                    f"directory ({dir_name} → expected jlpt:{expected_jlpt})"
+                )
+
+        # Phase-6: cloze point-alignment. Each {{c1::TARGET}} must contain
+        # the filename's grammar slug (or a documented category alias)
+        # somewhere in the deleted token OR in the surrounding sentence.
+        if nt == "Cloze":
+            slug = path.stem[:-len("_cloze")]
+            if slug not in _CATEGORY_SLUGS:
+                text_field = row[header.index("Text")] if "Text" in header else row[0]
+                cloze_targets = _CLOZE_EXTRACT_RE.findall(text_field)
+                # Generous: allow slug match in cloze target OR in remaining context.
+                if not any(slug in t for t in cloze_targets) and slug not in text_field:
+                    errs.append(
+                        f"WARN: {path}:{ln}: cloze content doesn't reference "
+                        f"point '{slug}' (off-topic for filename)"
+                    )
+
+        # Phase-6: contrast spot-the-answer. If Answer appears verbatim in JP
+        # AND no ___ placeholder is present AND the JP doesn't show both
+        # options in slash-format, the card degrades to recognition.
+        if nt == "Contrast" and "JP" in header and "Answer" in header \
+                and "OptionA" in header and "OptionB" in header:
+            jp = row[header.index("JP")]
+            ans = row[header.index("Answer")].strip()
+            opt_a = row[header.index("OptionA")]
+            opt_b = row[header.index("OptionB")]
+            if ans and "___" not in jp and ans in jp and ans != jp.strip():
+                # Allow slash-format (both options visible in JP)
+                slash_format = (
+                    opt_a in jp and opt_b in jp
+                    and (f"{opt_a} / {opt_b}" in jp or f"{opt_b} / {opt_a}" in jp
+                         or f"{opt_a}／{opt_b}" in jp or f"{opt_b}／{opt_a}" in jp
+                         or ("vs" in jp and opt_a in jp and opt_b in jp))
+                )
+                if not slash_format:
+                    errs.append(
+                        f"WARN: {path}:{ln}: spot-the-answer — Answer "
+                        f"'{ans}' visible in JP without ___ blank"
+                    )
+
+        # Phase-6: placeholder Label value (authoring sentinel that leaked
+        # into shipped content).
+        if "Label" in header:
+            label_val = row[header.index("Label")].strip()
+            if _LABEL_PLACEHOLDER_RE.match(label_val):
+                errs.append(
+                    f"WARN: {path}:{ln}: placeholder Label '{label_val}' — "
+                    f"replace with a real grammar label"
                 )
 
         source_text = _source_sentence(nt, header, row).strip()
@@ -244,6 +368,64 @@ def lint_file(path: Path,
         if n > 1:
             preview = key[0][:40] if key else ""
             errs.append(f"{path}: duplicate row × {n}: {preview}…")
+
+    # Phase-6: file-level slug↔content integrity. The filename's grammar
+    # slug should appear at least once in some JP source field across the
+    # file's rows (unless this is a documented umbrella/category file).
+    slug = path.stem
+    for suffix in ("_recognition", "_production", "_cloze", "_contrast",
+                   "_dictation", "_listening"):
+        if slug.endswith(suffix):
+            slug = slug[:-len(suffix)]
+            break
+    # Skip aggregator-style slugs (hyphen-joined or numbered variants are
+    # umbrella files that gather multiple sub-points; the slug itself is
+    # rarely a verbatim Japanese string).
+    is_aggregator = (
+        "-" in slug
+        or any(c.isdigit() for c in slug)
+        or len(slug) >= 6  # long multi-morpheme slugs usually aggregate
+    )
+    if slug not in _CATEGORY_SLUGS and not is_aggregator:
+        rows_parsed = []
+        for ln, raw in data:
+            row = next(csv.reader([raw], delimiter="\t", quotechar='"'), None)
+            if row and len(row) == len(expected):
+                rows_parsed.append(row)
+        any_match = False
+        for row in rows_parsed:
+            src = _source_sentence(nt, header, row)
+            if slug in src:
+                any_match = True
+                break
+        if rows_parsed and not any_match:
+            errs.append(
+                f"WARN: {path}: file's grammar slug '{slug}' never appears "
+                f"in any source sentence"
+            )
+
+    # Phase-6: 5-row Recognition back-side variability. After Phase-4,
+    # MainUse should vary per row in addition to QuickCue. Flag files where
+    # all of {Label, Formula, MainUse, Contrast} are identical across rows.
+    if nt == "Recognition" and len(data) == 5 and all(
+        c in header for c in ("Label", "Formula", "MainUse", "QuickCue", "Contrast")
+    ):
+        rows_parsed = []
+        for ln, raw in data:
+            row = next(csv.reader([raw], delimiter="\t", quotechar='"'), None)
+            if row and len(row) == len(expected):
+                rows_parsed.append(row)
+        distinct_counts = {}
+        for col in ("Label", "Formula", "MainUse", "Contrast"):
+            idx = header.index(col)
+            distinct_counts[col] = len({r[idx] for r in rows_parsed})
+        # Pass if at least one of the four varies; otherwise warn.
+        if max(distinct_counts.values(), default=0) < 2:
+            errs.append(
+                f"WARN: {path}: back-side collapse — all of "
+                f"Label/Formula/MainUse/Contrast identical across rows"
+            )
+
     return errs
 
 

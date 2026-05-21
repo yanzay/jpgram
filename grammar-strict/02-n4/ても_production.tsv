@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Even if it rains, we'll continue the game.	雨が降っても、試合は続けます。	あめがふっても、しあいはつづけます。	雨が降っても、試合は続けます。	rain doesn't change the plan	[sound:3000f526f125.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:top5k complexity:standard
-No matter how tired I am, I won't give up.	どんなに疲れても、諦めません。	どんなにつかれても、あきらめません。	どんなに疲れても、諦めません。	concession: fatigue doesn't stop me	[sound:76a5853b11e0.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:low complexity:standard
-No matter how many times I called, there was no answer.	何度電話しても、出ませんでした。	なんどでんわしても、でませんでした。	何度電話しても、出ませんでした。	repeated action with no change in result	[sound:6473f46d08f7.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:top10k complexity:standard
-Even if it's expensive, I want to buy this watch.	高くても、この時計を買いたいです。	たかくても、このとけいをかいたいです。	高くても、この時計を買いたいです。	price concession	[sound:4a42ac982be3.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:top1k complexity:standard
-Even if I hurry, I might not make it in time.	急いでも、もう間に合わないかもしれません。	いそいでも、もうまにあわないかもしれません。	急いでも、もう間に合わないかもしれません。	hurrying doesn't guarantee success	[sound:f21f73ba6292.mp3]	module:02-n4 jlpt:n4 point:ても source:authored source:shin-kanzen frequency:top5k complexity:standard
+Even if it rains, we'll continue the game.	雨が降っても、試合は続けます。	あめがふっても、しあいはつづけます。	雨が降っても、試合は続けます。	rain doesn't change the plan	[sound:3000f526f125.mp3]	module:02-n4 jlpt:n4 point:ても source:authored frequency:top5k complexity:standard
+No matter how tired I am, I won't give up.	どんなに疲れても、諦めません。	どんなにつかれても、あきらめません。	どんなに疲れても、諦めません。	concession: fatigue doesn't stop me	[sound:76a5853b11e0.mp3]	module:02-n4 jlpt:n4 point:ても source:authored frequency:low complexity:standard
+No matter how many times I called, there was no answer.	何度電話しても、出ませんでした。	なんどでんわしても、でませんでした。	何度電話しても、出ませんでした。	repeated action with no change in result	[sound:6473f46d08f7.mp3]	module:02-n4 jlpt:n4 point:ても source:authored frequency:top10k complexity:standard
+Even if it's expensive, I want to buy this watch.	高くても、この時計を買いたいです。	たかくても、このとけいをかいたいです。	高くても、この時計を買いたいです。	price concession	[sound:4a42ac982be3.mp3]	module:02-n4 jlpt:n4 point:ても source:authored frequency:top1k complexity:standard
+Even if I hurry, I might not make it in time.	急いでも、もう間に合わないかもしれません。	いそいでも、もうまにあわないかもしれません。	急いでも、もう間に合わないかもしれません。	hurrying doesn't guarantee success	[sound:f21f73ba6292.mp3]	module:02-n4 jlpt:n4 point:ても source:authored frequency:top5k complexity:standard
