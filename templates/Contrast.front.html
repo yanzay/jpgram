@@ -5,10 +5,17 @@
 
 <div class="card front-section">
   <div class="main-content">
-    <!-- JP text with visible blank: ___
-         Teacher can format as: 「___は水です」or use HTML markup
-    -->
-    <div class="jp jp-large">{{JP}}</div>
+    <!-- JP text with visible blank (___); trailing English hint split out below -->
+    <div class="jp jp-large" id="contrast-jp-front">{{JP}}</div>
+    <div id="contrast-ctx-front" style="display:none;font-size:0.85em;color:var(--muted);font-style:italic;margin-top:0.3em;"></div>
+    <script>
+    (function(){
+      var el=document.getElementById('contrast-jp-front');
+      var ctx=document.getElementById('contrast-ctx-front');
+      var m=el.textContent.match(/^([\s\S]+?)\s*\(([A-Za-z][^)]*)\)\s*$/);
+      if(m){el.textContent=m[1];ctx.textContent='('+m[2]+')';ctx.style.display='block';}
+    })();
+    </script>
 
     <!-- Question prompt -->
     <div style="font-size: 0.95em; color: var(--muted); margin-top: 0.75em;">
@@ -29,12 +36,4 @@
     </div>
   </div>
 
-  <!-- Audio button (NOT auto-played) -->
-  {{#Audio}}
-  <div style="margin-top: 1.5em;">
-    <button class="audio-button" onclick="if(this.getElementsByTagName('audio')[0]){this.getElementsByTagName('audio')[0].play()}">
-      {{Audio}}
-    </button>
-  </div>
-  {{/Audio}}
 </div>

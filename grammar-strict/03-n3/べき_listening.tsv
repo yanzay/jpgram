@@ -6,9 +6,9 @@
 
 [sound:d9047be5782a.mp3]	彼はこの仕事をせぬ	かれはこのしごとをせぬ	He shall not do this work. (Classical negation)	modern ぬ = ない	module:03-n3 point:べき complexity:intro frequency:top5k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
 [sound:5f5389920648.mp3]	我輩はこれを為さん	わがはいはこれをなさん	We shall do this. (Classical volitional)	modern ～う/～よう	module:03-n3 point:べき complexity:intro frequency:low source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:434b63631d27.mp3]	学べし	まなべし	One must/should learn.	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:434b63631d27.mp3]	学ぶべし	まなぶべし	One must/should learn.	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top10k source:imabi complexity:standard jlpt:n3 source:shin-kanzen scaffold:pending-audio
 [sound:2d2e34c7b342.mp3]	行くべきか	いくべきか	Should I go? (Classical rhetorical)	modern べき/はずだ	module:03-n3 point:べき complexity:intro frequency:top1k source:imabi complexity:standard jlpt:n3 source:shin-kanzen
-[sound:e904fd8d8d08.mp3]	するべからず	するべからず	Must not do. (Classical prohibition)	modern ～はずがない	module:03-n3 point:べき complexity:intro source:imabi complexity:standard jlpt:n3 source:shin-kanzen
+[sound:e904fd8d8d08.mp3]	すべからず	すべからず	Must not do. (Classical prohibition)	modern ～はずがない	module:03-n3 point:べき complexity:intro source:imabi complexity:standard jlpt:n3 source:shin-kanzen scaffold:pending-audio
 [sound:594c408d0af1.mp3]	彼は今すぐ謝るべきだ。	かれはいますぐあやまるべきだ。	He should apologize right now.	strong obligation べき	module:03-n3 jlpt:n3 point:べき complexity:standard source:shin-kanzen scaffold:pending-audio
 [sound:3258f3176a39.mp3]	それ故に行かぬ	それゆえにいかぬ	Therefore, do not go. (Classical)	modern いかない	module:03-n3 point:べき complexity:intro frequency:low source:imabi complexity:standard jlpt:n3 source:shin-kanzen
 [sound:1caa32ce4e5d.mp3]	もっと勉強するべきだった。	もっとべんきょうするべきだった。	I should have studied more.	strong obligation べき	module:03-n3 jlpt:n3 point:べき complexity:standard source:shin-kanzen scaffold:pending-audio

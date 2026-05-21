@@ -5,24 +5,47 @@
 
 <div class="card back-section">
   <div class="main-content">
-    <!-- JP text again for reference -->
-    <div class="jp jp-large">{{JP}}</div>
+    <!-- JP text with answer filled in; trailing English hint split out -->
+    <div class="jp jp-large" id="contrast-jp-back">{{JP}}</div>
+    <div id="contrast-ctx-back" style="display:none;font-size:0.85em;color:var(--muted);font-style:italic;margin-top:0.3em;"></div>
+    <script>
+    (function(){
+      var el=document.getElementById('contrast-jp-back');
+      var ctx=document.getElementById('contrast-ctx-back');
+      var m=el.textContent.match(/^([\s\S]+?)\s*\(([A-Za-z][^)]*)\)\s*$/);
+      if(m){el.textContent=m[1];ctx.textContent='('+m[2]+')';ctx.style.display='block';}
+    })();
+    </script>
   </div>
 
-  <!-- Show both options with the correct one highlighted -->
+  <!-- Show both options; JS highlights the one that matches Answer -->
   <div style="display: flex; gap: 1em; margin-top: 1.5em; flex-wrap: wrap;">
-    <!-- Option A -->
-    <div style="flex: 1; min-width: 120px; padding: 1em; border-radius: 0.5em; border: 2px solid var(--border); text-align: center; {{#Answer}}{{#OptionA}}background: var(--success-light); border-color: var(--success);{{/OptionA}}{{/Answer}}">
-      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option A {{#Answer}}{{#OptionA}}<span style="color: var(--success); font-weight: 600;">✓ Correct</span>{{/OptionA}}{{/Answer}}</div>
+    <div id="opt-a" style="flex: 1; min-width: 120px; padding: 1em; border-radius: 0.5em; border: 2px solid var(--border); text-align: center;">
+      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option A <span id="opt-a-badge" style="display:none; color: var(--success); font-weight: 600;">✓ Correct</span></div>
       <div class="jp" style="font-size: 1.3em; font-weight: 600;">{{OptionA}}</div>
     </div>
 
-    <!-- Option B -->
-    <div style="flex: 1; min-width: 120px; padding: 1em; border-radius: 0.5em; border: 2px solid var(--border); text-align: center; {{#Answer}}{{#OptionB}}background: var(--success-light); border-color: var(--success);{{/OptionB}}{{/Answer}}">
-      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option B {{#Answer}}{{#OptionB}}<span style="color: var(--success); font-weight: 600;">✓ Correct</span>{{/OptionB}}{{/Answer}}</div>
+    <div id="opt-b" style="flex: 1; min-width: 120px; padding: 1em; border-radius: 0.5em; border: 2px solid var(--border); text-align: center;">
+      <div style="font-size: 0.85em; color: var(--muted); margin-bottom: 0.25em;">Option B <span id="opt-b-badge" style="display:none; color: var(--success); font-weight: 600;">✓ Correct</span></div>
       <div class="jp" style="font-size: 1.3em; font-weight: 600;">{{OptionB}}</div>
     </div>
   </div>
+
+  <script>
+  (function(){
+    var answer = "{{Answer}}".trim();
+    var optA   = "{{OptionA}}".trim();
+    var optB   = "{{OptionB}}".trim();
+    function highlight(boxId, badgeId) {
+      var box = document.getElementById(boxId);
+      var badge = document.getElementById(badgeId);
+      if (box)   { box.style.background = 'var(--success-light)'; box.style.borderColor = 'var(--success)'; }
+      if (badge) { badge.style.display = 'inline'; }
+    }
+    if (answer && answer === optA) { highlight('opt-a', 'opt-a-badge'); }
+    if (answer && answer === optB) { highlight('opt-b', 'opt-b-badge'); }
+  })();
+  </script>
 
   <!-- Why: explanation of the correct choice -->
   {{#Why}}

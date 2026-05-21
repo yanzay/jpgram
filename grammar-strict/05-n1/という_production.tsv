@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::05 - N1 Grammar::Production
 
-Say you'll never forget this very day.	という	きょうというひをわすれない。	今日という日を忘れない。	という emphatic: this very day, this day we call today	[sound:800d9cb2008d.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio
-Say she read every single book there was.	という	かのじょはほんというほんをぜんぶよんだ。	彼女は本という本を全部読んだ。	N という N: all/every N (exhaustive enumeration)	[sound:7208b37e3f05.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio
-Say I walked every inch of Tokyo.	という	とうきょうというとうきょうをあるきまわった。	東京という東京を歩き回った。	Nという N: every corner of N (exhaustive scope)	[sound:ccdef69c271c.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio
-Express a person called Tanaka came.	という	たなかというひとがきた。	田中という人が来た。	N という N: a/the N called/named N2 (identification)	[sound:3f33c1655674.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio
-Say he spared no effort whatsoever.	という	かれはどりょくというどりょくをおしまなかった。	彼は努力という努力を惜しまなかった。	Nという N: exhaustive negation — not a single N was spared	[sound:2ad85340cb44.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you'll never forget this very day.	という	きょうというひをわすれない。	今日という日を忘れない。	という emphatic: this very day, this day we call today	[sound:800d9cb2008d.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k
+Say she read every single book there was.	という	かのじょはほんというほんをぜんぶよんだ。	彼女は本という本を全部読んだ。	N という N: all/every N (exhaustive enumeration)	[sound:7208b37e3f05.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k
+Say I walked every inch of Tokyo.	という	とうきょうというとうきょうをあるきまわった。	東京という東京を歩き回った。	Nという N: every corner of N (exhaustive scope)	[sound:ccdef69c271c.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
+Express a person called Tanaka came.	という	たなかというひとがきた。	田中という人が来た。	N という N: a/the N called/named N2 (identification)	[sound:3f33c1655674.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+Say he spared no effort whatsoever.	という	かれはどりょくというどりょくをおしまなかった。	彼は努力という努力を惜しまなかった。	Nという N: exhaustive negation — not a single N was spared	[sound:2ad85340cb44.mp3]	module:05-n1 jlpt:n1 point:という complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k

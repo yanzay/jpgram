@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Say you had the teacher correct your essay.	てもらう	せんせいにさくぶんをなおしてもらった。	先生に作文を直してもらった。	recipient subject receives favor from teacher	[sound:917f2a79d3aa.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
-Say you had your friend take a photo.	てもらう	ともだちにしゃしんをとってもらった。	友達に写真を撮ってもらった。	V-てもらう: receive favor — I had X done for my benefit	[sound:9aea6e396f71.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
-Say you had your father drive you to the station.	てもらう	ちちにえきまでおくってもらった。	父に駅まで送ってもらった。	beneficiary perspective: I received the action	[sound:aa5c10162513.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
-Say you had the doctor prescribe medicine.	てもらう	いしゃにくすりをしょほうしてもらった。	医者に薬を処方してもらった。	てもらう vs てくれる: framing — もらう = I receive; くれる = they give	[sound:df337f1119c4.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
-Ask if you can have him explain it.	てもらう	せつめいしてもらえますか。	説明してもらえますか。	request for favor: can I receive the action?	[sound:8cb1a67f4e0f.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio
+Say you had the teacher correct your essay.	てもらう	せんせいにさくぶんをなおしてもらった。	先生に作文を直してもらった。	recipient subject receives favor from teacher	[sound:917f2a79d3aa.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+Say you had your friend take a photo.	てもらう	ともだちにしゃしんをとってもらった。	友達に写真を撮ってもらった。	V-てもらう: receive favor — I had X done for my benefit	[sound:9aea6e396f71.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
+Say you had your father drive you to the station.	てもらう	ちちにえきまでおくってもらった。	父に駅まで送ってもらった。	beneficiary perspective: I received the action	[sound:aa5c10162513.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
+Say you had the doctor prescribe medicine.	てもらう	いしゃにくすりをしょほうしてもらった。	医者に薬を処方してもらった。	てもらう vs てくれる: framing — もらう = I receive; くれる = they give	[sound:df337f1119c4.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
+Ask if you can have him explain it.	てもらう	せつめいしてもらえますか。	説明してもらえますか。	request for favor: can I receive the action?	[sound:8cb1a67f4e0f.mp3]	module:02-n4 jlpt:n4 point:てもらう complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k complexity:intro

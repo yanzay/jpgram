@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Say he seems tired.	ようだ	かれはつかれているようだ。	彼は疲れているようだ。	inference from direct observation	[sound:43c94c56bc0b.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio
-Express this food seems spicy.	ようだ	このりょうりはつらいようだ。	この料理は辛いようだ。	sensory inference	[sound:6f0bf55acc88.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio
-Say she seems to have already left.	ようだ	かのじょはもうかえったようだ。	彼女はもう帰ったようだ。	deduction from observable evidence	[sound:a5df0f416b40.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio
-Express it looks like it will rain.	ようだ	あめがふりそうなようだ。	雨が降りそうなようだ。	inference from weather cues	[sound:4de1fe8e930a.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio
-Say he seems to understand.	ようだ	かれはりかいしているようだ。	彼は理解しているようだ。	inference from behavior	[sound:f2c6b428df62.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio
+Say he seems tired.	ようだ	かれはつかれているようだ。	彼は疲れているようだ。	inference from direct observation	[sound:43c94c56bc0b.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro
+Express this food seems spicy.	ようだ	このりょうりはつらいようだ。	この料理は辛いようだ。	sensory inference	[sound:6f0bf55acc88.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
+Say she seems to have already left.	ようだ	かのじょはもうかえったようだ。	彼女はもう帰ったようだ。	deduction from observable evidence	[sound:a5df0f416b40.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k complexity:intro
+Express it looks like it will rain.	ようだ	あめがふりそうなようだ。	雨が降りそうなようだ。	inference from weather cues	[sound:4de1fe8e930a.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
+Say he seems to understand.	ようだ	かれはりかいしているようだ。	彼は理解しているようだ。	inference from behavior	[sound:f2c6b428df62.mp3]	module:02-n4 jlpt:n4 point:ようだ complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro

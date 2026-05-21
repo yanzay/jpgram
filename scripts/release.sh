@@ -44,8 +44,11 @@ echo "==> Bumping version: ${CURRENT} → ${NEW_VERSION}"
 sed -i '' "s/^VERSION = \"${CURRENT}\"/VERSION = \"${NEW_VERSION}\"/" build_anki_package.py
 
 # ── 3. Build .apkg ───────────────────────────────────────────────────────
+# --exclude-broken suppresses cloze/dictation/listening files until the
+# Phase-2/3/8 re-curation lands (see IMPROVEMENT_PLAN.md). Refine to a
+# per-file allowlist once cleanups complete.
 echo "==> Building japanese_grammar_anki.apkg..."
-python3 build_anki_package.py
+python3 build_anki_package.py --exclude-broken
 echo "    Build complete: $(du -sh japanese_grammar_anki.apkg | cut -f1)"
 
 # ── 4. Commit ────────────────────────────────────────────────────────────
