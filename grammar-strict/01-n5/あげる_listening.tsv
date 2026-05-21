@@ -11,4 +11,4 @@
 [sound:c6b4c3997e53.mp3]	猫に餌をやってあげた。	ねこにえさをやってあげた。	I gave food to the cat.	pet care	module:01-n5 jlpt:n5 point:あげる complexity:intro frequency:top10k source:shin-kanzen complexity:standard
 [sound:c36eda04cbe5.mp3]	彼女に花を買ってあげた。	かのじょにはなをかってあげた。	I bought flowers for my girlfriend.	gift-giving	module:01-n5 jlpt:n5 point:あげる complexity:intro frequency:top5k source:shin-kanzen complexity:standard
 [sound:0a42c881054a.mp3]	子供に本を読んであげました。	こどもにほんをよんであげました。	I read a book to the child.	parenting	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top1k source:shin-kanzen
-[sound:8a4ea4957501.mp3]	同僚が私に仕事を教えてあげた。	どうりょうがわたしにしごとをおしえてあげた。	My colleague taught me the job.	training	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top10k source:shin-kanzen
+[sound:8a4ea4957501.mp3]	私は新人の同僚に仕事を教えてあげた。	わたしはしんじんのどうりょうにしごとをおしえてあげた。	I taught the new colleague the job.	training	module:01-n5 jlpt:n5 point:あげる complexity:standard frequency:top10k source:shin-kanzen scaffold:pending-audio

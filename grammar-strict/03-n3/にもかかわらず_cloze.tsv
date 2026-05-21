@@ -3,8 +3,8 @@
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
 #deck:Japanese Grammar::03 - N3 Grammar::Cloze
-疲れている{{c1::にもかかわらず}}、仕事を続けた。	つかれている{{c1::にもかかわらず}}、しごとをつづけた。	despite tiredness	[sound:e898a9a2321c.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio
-雨が降っている{{c1::にもかかわらず}}、試合は行われた。	あめがふっている{{c1::にもかかわらず}}、しあいはおこなわれた。	despite rain	[sound:2cfd71df7b1a.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio
-高齢{{c1::にもかかわらず}}、彼女は毎日運動する。	こうれい{{c1::にもかかわらず}}、かのじょはまいにちうんどうする。	despite old age	[sound:28542dbdbc38.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio
-努力した{{c1::にもかかわらず}}、合格できなかった。	どりょくした{{c1::にもかかわらず}}、ごうかくできなかった。	despite effort	[sound:3597be9df67c.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio
-反対意見がある{{c1::にもかかわらず}}、計画を実行した。	はんたいいけんがある{{c1::にもかかわらず}}、けいかくをじっこうした。	despite opposition	[sound:b7b930a57dbf.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio
+疲れている{{c1::にもかかわらず}}、仕事を続けた。	つかれている{{c1::にもかかわらず}}、しごとをつづけた。	despite tiredness	[sound:e898a9a2321c.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+雨が降っている{{c1::にもかかわらず}}、試合は行われた。	あめがふっている{{c1::にもかかわらず}}、しあいはおこなわれた。	despite rain	[sound:2cfd71df7b1a.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k
+高齢{{c1::にもかかわらず}}、彼女は毎日運動する。	こうれい{{c1::にもかかわらず}}、かのじょはまいにちうんどうする。	despite old age	[sound:28542dbdbc38.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k
+努力した{{c1::にもかかわらず}}、合格できなかった。	どりょくした{{c1::にもかかわらず}}、ごうかくできなかった。	despite effort	[sound:3597be9df67c.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+反対意見がある{{c1::にもかかわらず}}、計画を実行した。	はんたいいけんがある{{c1::にもかかわらず}}、けいかくをじっこうした。	despite opposition	[sound:b7b930a57dbf.mp3]	module:03-n3 jlpt:n3 point:にもかかわらず complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k

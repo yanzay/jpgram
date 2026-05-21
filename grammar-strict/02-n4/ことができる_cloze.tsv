@@ -4,8 +4,8 @@
 #notetype:Cloze
 #deck:Japanese Grammar::02 - N4 Grammar::Cloze
 
-私は日本語を話す{{c1::ことができる}}。	わたしはにほんごをはなす{{c1::ことができる}}。	speak Japanese	[sound:5ff08392162f.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
-彼女はピアノを弾く{{c1::ことができる}}。	かのじょはぴあのをひく{{c1::ことができる}}。	play piano	[sound:66b4c8d1df8a.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
-ここでは写真を撮る{{c1::ことができない}}。	ここではしゃしんをとる{{c1::ことができない}}。	no photos	[sound:a53f91252750.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
-子供の頃は木に登る{{c1::ことができた}}。	こどものころはきにのぼる{{c1::ことができた}}。	could climb trees	[sound:7550b889c045.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
-来月から会議に参加する{{c1::ことができます}}。	らいげつからかいぎにさんかする{{c1::ことができます}}。	join meetings	[sound:00ac5850db89.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio
+私は日本語を話す{{c1::ことができる}}。	わたしはにほんごをはなす{{c1::ことができる}}。	speak Japanese	[sound:5ff08392162f.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro
+彼女はピアノを弾く{{c1::ことができる}}。	かのじょはぴあのをひく{{c1::ことができる}}。	play piano	[sound:66b4c8d1df8a.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k complexity:intro
+ここでは写真を撮る{{c1::ことができない}}。	ここではしゃしんをとる{{c1::ことができない}}。	no photos	[sound:a53f91252750.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
+子供の頃は木に登る{{c1::ことができた}}。	こどものころはきにのぼる{{c1::ことができた}}。	could climb trees	[sound:7550b889c045.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
+来月から会議に参加する{{c1::ことができます}}。	らいげつからかいぎにさんかする{{c1::ことができます}}。	join meetings	[sound:00ac5850db89.mp3]	module:02-n4 jlpt:n4 point:ことができる complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k

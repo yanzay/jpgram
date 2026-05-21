@@ -2,7 +2,6 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-# N4 MISC CONTRAST — 10 cards: -ので vs -から (5), -のに vs -けど (5)
 #deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 雨なので、外出できません。	-ので	-から	-ので	-ので is objective/neutral reason; -から is subjective/personal reason.	Objective: -ので / Personal: -から	[sound:467d959da7f8.mp3]	module:02-n4 jlpt:n4 point:なさい complexity:intro confusable-with:から frequency:top10k source:shin-kanzen

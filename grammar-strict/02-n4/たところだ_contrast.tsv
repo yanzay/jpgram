@@ -2,7 +2,6 @@
 #html:true
 #columns:JP	OptionA	OptionB	Answer	Why	Tip	Audio	Tags
 #notetype:Contrast
-# TOKORO CONTRAST — 10 cards drilling -るところだ vs -ているところだ vs -たところだ and vs -たばかり
 #deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
 雪が降ろうとしているところだ。	-るところだ	-ているところだ	-るところだ	-るところだ means 'about to happen'; -ているところだ means 'in the middle of happening'.	Imminent: -る- / In progress: -ている-	[sound:958bc365fa46.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard confusable-with:ているところだ frequency:top1k source:shin-kanzen

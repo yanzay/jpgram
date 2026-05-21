@@ -3,8 +3,8 @@
 #columns:Text	Reading	Hint	Audio	Tags
 #notetype:Cloze
 #deck:Japanese Grammar::03 - N3 Grammar::Cloze
-朝食を食べ{{c1::ずに}}、学校に行った。	ちょうしょくをたべ{{c1::ずに}}、がっこうにいった。	without breakfast	[sound:93d3d8a24a50.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
-何も言わ{{c1::ずに}}、部屋を出た。	なにもいわ{{c1::ずに}}、へやをでた。	without speaking	[sound:7bdded46d707.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
-傘を持た{{c1::ずに}}、出かけてしまった。	かさをもた{{c1::ずに}}、でかけてしまった。	without umbrella	[sound:baf781a175c9.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
-休ま{{c1::ずに}}、一日中働いた。	やすま{{c1::ずに}}、いちにちじゅうはたらいた。	without resting	[sound:5d07e0ea6302.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
-誰にも相談せ{{c1::ずに}}、決めてしまった。	だれにもそうだんせ{{c1::ずに}}、きめてしまった。	without consulting	[sound:743e30f119be.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio
+朝食を食べ{{c1::ずに}}、学校に行った。	ちょうしょくをたべ{{c1::ずに}}、がっこうにいった。	without breakfast	[sound:93d3d8a24a50.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
+何も言わ{{c1::ずに}}、部屋を出た。	なにもいわ{{c1::ずに}}、へやをでた。	without speaking	[sound:7bdded46d707.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro
+傘を持た{{c1::ずに}}、出かけてしまった。	かさをもた{{c1::ずに}}、でかけてしまった。	without umbrella	[sound:baf781a175c9.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+休ま{{c1::ずに}}、一日中働いた。	やすま{{c1::ずに}}、いちにちじゅうはたらいた。	without resting	[sound:5d07e0ea6302.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k complexity:intro
+誰にも相談せ{{c1::ずに}}、決めてしまった。	だれにもそうだんせ{{c1::ずに}}、きめてしまった。	without consulting	[sound:743e30f119be.mp3]	module:03-n3 jlpt:n3 point:ずに complexity:standard source:shin-kanzen scaffold:pending-audio frequency:low
