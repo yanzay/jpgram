@@ -40,6 +40,63 @@ ordered route to zero.
 
 ---
 
+## Status — execution log
+
+| Phase | Status | Commit | Effort |
+|---|---|---|---|
+| 0 — Release blockers | ✅ done | `c55c2e6` | 3 hr |
+| 1 — Auto-furigana sweep | ✅ done | `72027d0` | 1 hr |
+| 2 — Cloze re-curation | ✅ done | `697b4cb` | 4 hr |
+| 3A — Contrast spot-the-answer fix | ✅ done | `ad5145d` | 2 hr |
+| 3B — Off-topic contrast re-author | ✅ done | `6f36c92` | 2 hr |
+| 4 — Recognition back-side variability | ✅ done | `e165156` | 2 hr |
+| 6 — Validator promotion | ✅ done | `a0d4690` | 3 hr |
+| 5 — Polysemy splits | ⏳ pending | — | 6 hr |
+| 7 — EN re-audit | ⏸ blocked on API reset | — | 2 hr |
+| 8 — Dictation/listening | ⏳ pending | — | 6 hr |
+| 9 — Final correctness verification | ⏳ pending | — | 4 hr |
+
+**Headline metrics after Phases 0+1+2+3+4+6:**
+
+- 0 errors, 263 warnings (down from baseline 11,500+ when warnings
+  surfaced under the new Phase-6 validators).
+- Reading errors: 150+ → **0** across all `_recognition` / `_production`
+  / `_dictation` / `_listening` files.
+- Whole-sentence cloze warnings: 52 → **0** (validator promoted to
+  hard ERROR).
+- Contrast spot-the-answer rows: 491 → **24** (edge cases only).
+- 5-row Recognition files with monotone back side: 824 / 877 → **0**.
+- Empty `_recognition.tsv` files: 2 → **0**.
+- Ungrammatical N5 rows in `いい_recognition.tsv`: 5 → **0**.
+- Mega-grab-bag mis-curated files (ましょう / なさい / どこ): 3 → **0**.
+- Cloze 100%-off-topic files: 14 → **0**.
+- Malformed `{c1::…}.` cloze syntax rows: 10 → **0**.
+- Pitch-accent primer reading bugs: 4 → **0**; gloss/reading mismatches:
+  2 → **0**; odaka rows misexplained as heiban: 20 → **0**.
+- `Label="contrast-derived"` placeholder leak: 245 → **0**.
+- Duplicate tag-key rows: 1,830 row-instances cleaned (10,520 tokens).
+- JLPT-tag-vs-directory mismatches: 28 → **0** (now ERROR-validated).
+- Invented classical Japanese in `べき_listening.tsv` (するべからず /
+  学べし): 2 → **0**.
+- `release.sh` shipping defective files: was unaddressed, now uses
+  `--exclude-broken`.
+
+**Remaining warnings (263 total)** — all are real, intentionally left
+as WARN until the corresponding content phase addresses them:
+
+- 126 slug-not-in-source — small aggregator-style slugs still not in
+  the category allowlist; will shrink as Phase 5 splits land
+- 59 cloze-off-topic — secondary-card residuals in
+  `01-n5/いい_cloze.tsv` and onomatopoeia files
+- 54 twin-parity (Production rows ≠ Recognition rows) — most large
+  Recognition files (e.g., `05-n1/とは_recognition.tsv` 71 rows) are
+  legitimate content dumps deferred to Phase 5
+- 24 contrast-spot-the-answer — 1-char particle edge cases left by
+  the Phase-3 conversion script (e.g., `かしら_contrast.tsv` rows
+  with Answer=`よ` appearing in a non-uniquely-resolvable JP)
+
+---
+
 ## Headline numbers (post 2026-05-22 re-audit)
 
 | Defect class | Status vs 2026-05-19 | Current count | Severity |
