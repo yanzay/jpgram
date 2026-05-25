@@ -4,13 +4,8 @@
 #notetype:Contrast
 #deck:Japanese Grammar::04 - N2 Grammar::Contrast
 
-不吉めいた雰囲気がある。	ぶる	じみる	めく	めく = appear/suggest (ominous)	Has ominous appearance	[sound:821c1181b250.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:low complexity:intro source:shin-kanzen
-秋めいた天気になってきた。	ぶる	じみる	めく	めく = become/grow (autumnal)	Weather becomes autumnal	[sound:15fdf1e48257.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top1k complexity:standard source:shin-kanzen
-彼は知識人ぶっている。	めく	じみる	ばむ	ぶる = pretend/pose as	He's posing as an intellectual	[sound:0e5e37be832e.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top10k complexity:intro source:shin-kanzen
-大人ぶりたい年代だ。	めく	じみる	ばむ	ぶる = pretend to be/affect	Age where want to act grown-up	[sound:5a1c7753e974.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top10k complexity:intro source:shin-kanzen
-その色は暗くて、淋しい趣がじみている。	めく	ぶる	ばむ	じみる = have quality of/be tinged with	That color has lonely quality	[sound:0ca795556604.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:low complexity:standard source:shin-kanzen
-その態度は傲慢さがじみている。	めく	ぶる	ばむ	じみる = manifest/be tainted by	That attitude manifests arrogance	[sound:0acfa8e9231a.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top10k complexity:standard source:shin-kanzen
-彼女は上品めいた話し方をしている。	ぶる	じみる	ばむ	めく = seem/appear to be	She speaks in seemingly refined manner	[sound:f26a94722cd4.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:low complexity:standard source:shin-kanzen
-その景色は絵画的で優雅さがじみている。	めく	ぶる	ばむ	じみる = be tinged with/manifest	Landscape tinged with elegance	[sound:d5c22238686f.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top10k complexity:standard source:shin-kanzen
-春めいた陽気になった。	ぶる	じみる	ばむ	めく = take on quality of/grow	Weather takes on spring character	[sound:1f64ac81bce2.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top10k complexity:intro source:shin-kanzen
-彼は科学者ぶった口ぶりがうるさい。	めく	じみる	ばむ	ぶる = affect/pose as (irritating)	His scientist-like manner is annoying	[sound:56ea12bc910d.mp3]	module:04-n2 jlpt:n2 register:literary point:かねる pos:expr frequency:top10k complexity:standard source:shin-kanzen
+申し訳ございませんが、ご質問にはお答え___。	しかねます	しかねません	しかねます	かねる = unable to bring oneself to do; かねない = something undesirable might happen	polite refusal → かねる		module:04-n2 jlpt:n2 point:かねる complexity:standard source:authored frequency:top10k scaffold:pending-audio
+そのような結論は、私には判断___。	しかねます	できません	しかねます	かねる = formal/humble inability; できない = neutral inability	formal humble refusal → かねる		module:04-n2 jlpt:n2 point:かねる complexity:standard source:authored frequency:top10k scaffold:pending-audio
+油断していると、大事故にもなり___。	かねない	かねる	かねない	かねない = liable to happen (undesirable); かねる = unable to do	undesirable possibility → かねない		module:04-n2 jlpt:n2 point:かねる complexity:standard source:authored frequency:top10k scaffold:pending-audio
+お引き受け___ご依頼で、申し訳ありません。	しかねる	しがたい	しかねる	しかねる + N: attributive 'a request one cannot accept'; しがたい = hard to do	polite-refusal attribute → しかねる		module:04-n2 jlpt:n2 point:かねる complexity:standard source:authored frequency:top10k scaffold:pending-audio
+この問題は一人では解決し___。	かねます	かねません	かねます	かねます = humble form of かねる; ません ≠ かねません (different polarity)	humble inability → かねます		module:04-n2 jlpt:n2 point:かねる complexity:standard source:authored frequency:top10k scaffold:pending-audio
