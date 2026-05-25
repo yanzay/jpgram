@@ -4,8 +4,8 @@
 #notetype:Cloze
 #deck:Japanese Grammar::04 - N2 Grammar::Cloze
 
-雨{{c1::にもかかわらず}}、試合は予定通り行われた。	あめ{{c1::にもかかわらず}}、しあいはよていどおりおこなわれた。	weather defied		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:top10k scaffold:pending-audio
-努力した{{c1::にもかかわらず}}、結果は出なかった。	どりょくした{{c1::にもかかわらず}}、けっかはでなかった。	effort vs outcome		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:top10k scaffold:pending-audio
-警告した{{c1::にもかかわらず}}、彼は無視した。	けいこくした{{c1::にもかかわらず}}、かれはむしした。	warning ignored		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:low scaffold:pending-audio
-高齢である{{c1::にもかかわらず}}、彼は今も現役だ。	こうれいである{{c1::にもかかわらず}}、かれはいまもげんえきだ。	age defied		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:low scaffold:pending-audio
-危険を承知している{{c1::にもかかわらず}}、彼は続けた。	きけんをしょうちしている{{c1::にもかかわらず}}、かれはつづけた。	knowing the risk		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:low scaffold:pending-audio
+雨{{c1::にもかかわらず}}、試合は予定通り行われた。	あめ{{c1::にもかかわらず}}、しあいはよていどおりおこなわれた。	weather defied		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k
+努力した{{c1::にもかかわらず}}、結果は出なかった。	どりょくした{{c1::にもかかわらず}}、けっかはでなかった。	effort vs outcome		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+警告した{{c1::にもかかわらず}}、彼は無視した。	けいこくした{{c1::にもかかわらず}}、かれはむしした。	warning ignored		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:low scaffold:pending-audio source:shin-kanzen frequency:top10k complexity:intro
+高齢である{{c1::にもかかわらず}}、彼は今も現役だ。	こうれいである{{c1::にもかかわらず}}、かれはいまもげんえきだ。	age defied		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:low scaffold:pending-audio source:shin-kanzen frequency:top10k
+危険を承知している{{c1::にもかかわらず}}、彼は続けた。	きけんをしょうちしている{{c1::にもかかわらず}}、かれはつづけた。	knowing the risk		module:04-n2 jlpt:n2 point:にもかかわらず complexity:standard source:authored frequency:low scaffold:pending-audio source:shin-kanzen frequency:top5k

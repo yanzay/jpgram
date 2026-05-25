@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::03 - N3 Grammar::Production
 
-Today is the day I'll wake up early.	こそ	きょうこそはやくおきるぞ。	今日こそ早く起きるぞ。	今日こそ: emphasises 'this very day' over previous failed attempts		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Likewise, pleased to meet you.	こそ	こちらこそ、よろしくおねがいします。	こちらこそ、よろしくお願いします。	こちらこそ: 'the pleasure is precisely mine' — reciprocity emphasis		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-It is only through failure that we grow.	こそ	しっぱいしてこそ、せいちょうできる。	失敗してこそ、成長できる。	Verb-てこそ: conditional emphasis — only when X, then Y		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-You're the one who's a real leader.	こそ	あなたこそ、ほんとうのりーだーだ。	あなたこそ、本当のリーダーだ。	Pronoun + こそ: 'precisely you' — picking one entity out of many		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-This is exactly the book I was looking for.	こそ	これこそ、わたしがさがしていたほんです。	これこそ、私が探していた本です。	これこそ: 'this and no other' — picks one specific item		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Today is the day I'll wake up early.	こそ	きょうこそはやくおきるぞ。	今日こそ早く起きるぞ。	今日こそ: emphasises 'this very day' over previous failed attempts		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro
+Likewise, pleased to meet you.	こそ	こちらこそ、よろしくおねがいします。	こちらこそ、よろしくお願いします。	こちらこそ: 'the pleasure is precisely mine' — reciprocity emphasis		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+It is only through failure that we grow.	こそ	しっぱいしてこそ、せいちょうできる。	失敗してこそ、成長できる。	Verb-てこそ: conditional emphasis — only when X, then Y		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro
+You're the one who's a real leader.	こそ	あなたこそ、ほんとうのりーだーだ。	あなたこそ、本当のリーダーだ。	Pronoun + こそ: 'precisely you' — picking one entity out of many		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k
+This is exactly the book I was looking for.	こそ	これこそ、わたしがさがしていたほんです。	これこそ、私が探していた本です。	これこそ: 'this and no other' — picks one specific item		module:03-n3 jlpt:n3 point:こそ complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k

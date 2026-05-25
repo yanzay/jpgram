@@ -4,11 +4,11 @@
 #notetype:Dictation
 #deck:Japanese Grammar::10 - Onomatopoeia::Dictation
 
-[sound:d089c6bae983.mp3]	ワンワン	ワンワン	わんわん	Woof woof.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:b52e76022102.mp3]	ニャーニャー	ニャーニャー	にゃーにゃー	Meow meow.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:9c6d1a4da546.mp3]	ガチャン	ガチャン	がちゃん	Clang/click.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:938a3cd2d0da.mp3]	ゴロゴロ	ゴロゴロ	ごろごろ	Rumble/rolling.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:5969d0688239.mp3]	ドキドキ	ドキドキ	どきどき	Thump/pounding.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:9d4f1cd9c7a2.mp3]	ザーザー	ザーザー	ざーざー	Pouring/streaming.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:ddd98d823fd2.mp3]	シッシッ	シッシッ	しっしっ	Shoo/go away.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
-[sound:a8e06dc996d1.mp3]	チョロチョロ	チョロチョロ	ちょろちょろ	Trickling.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar
+[sound:d089c6bae983.mp3]	ワンワン	ワンワン	わんわん	Woof woof.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:b52e76022102.mp3]	ニャーニャー	ニャーニャー	にゃーにゃー	Meow meow.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:9c6d1a4da546.mp3]	ガチャン	ガチャン	がちゃん	Clang/click.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:938a3cd2d0da.mp3]	ゴロゴロ	ゴロゴロ	ごろごろ	Rumble/rolling.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:5969d0688239.mp3]	ドキドキ	ドキドキ	どきどき	Thump/pounding.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:9d4f1cd9c7a2.mp3]	ザーザー	ザーザー	ざーざー	Pouring/streaming.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:ddd98d823fd2.mp3]	シッシッ	シッシッ	しっしっ	Shoo/go away.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:a8e06dc996d1.mp3]	チョロチョロ	チョロチョロ	ちょろちょろ	Trickling.	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard

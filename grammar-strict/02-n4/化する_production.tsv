@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Society is aging.	化する	しゃかいがこうれいかしている。	社会が高齢化している。	高齢化する: demographic transformation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio
-The old factory was modernised.	化する	ふるいこうじょうがきんだいかされた。	古い工場が近代化された。	近代化する: industrial modernisation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio
-The contents of the meeting were put into writing.	化する	かいぎのないようがぶんしょうかされた。	会議の内容が文章化された。	文章化する: oral → written documentation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Digitisation is progressing.	化する	でじたるかがすすんでいる。	デジタル化が進んでいる。	デジタル化する: analog → digital transformation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio
-We need to simplify the system.	化する	せいどをかんそかするひつようがある。	制度を簡素化する必要がある。	簡素化する: process / system simplification		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Society is aging.	化する	しゃかいがこうれいかしている。	社会が高齢化している。	高齢化する: demographic transformation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+The old factory was modernised.	化する	ふるいこうじょうがきんだいかされた。	古い工場が近代化された。	近代化する: industrial modernisation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro
+The contents of the meeting were put into writing.	化する	かいぎのないようがぶんしょうかされた。	会議の内容が文章化された。	文章化する: oral → written documentation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+Digitisation is progressing.	化する	でじたるかがすすんでいる。	デジタル化が進んでいる。	デジタル化する: analog → digital transformation		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro
+We need to simplify the system.	化する	せいどをかんそかするひつようがある。	制度を簡素化する必要がある。	簡素化する: process / system simplification		module:02-n4 jlpt:n4 point:化する complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low

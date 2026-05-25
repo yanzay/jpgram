@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::03 - N3 Grammar::Production
 
-We are recruiting people with experience.	あり	けいけんありのひとをぼしゅうします。	経験ありの人を募集します。	経験あり: noun + あり as a written-formal possession label		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Life has ups and downs.	あり	じんせいはやまありたにあり。	人生は山あり谷あり。	山あり谷あり: literary set phrase using あり		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Licence holders with their own car welcome.	あり	めんきょあり、くるましょゆうのかたかんげい。	免許あり、車所有の方歓迎。	免許あり: noun + あり as a job-listing qualification flag		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Business trips required, about twice a month.	あり	しゅっちょうあり、つきににかいていどです。	出張あり、月に二回程度です。	出張あり: noun + あり in a description list		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Danger ahead — no entry permitted.	あり	これよりさき、きけんありにつきたちいりきんし。	これより先、危険ありにつき立入禁止。	危険あり: posted-sign condition reporting		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio
+We are recruiting people with experience.	あり	けいけんありのひとをぼしゅうします。	経験ありの人を募集します。	経験あり: noun + あり as a written-formal possession label		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low
+Life has ups and downs.	あり	じんせいはやまありたにあり。	人生は山あり谷あり。	山あり谷あり: literary set phrase using あり		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro
+Licence holders with their own car welcome.	あり	めんきょあり、くるましょゆうのかたかんげい。	免許あり、車所有の方歓迎。	免許あり: noun + あり as a job-listing qualification flag		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low complexity:intro
+Business trips required, about twice a month.	あり	しゅっちょうあり、つきににかいていどです。	出張あり、月に二回程度です。	出張あり: noun + あり in a description list		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low
+Danger ahead — no entry permitted.	あり	これよりさき、きけんありにつきたちいりきんし。	これより先、危険ありにつき立入禁止。	危険あり: posted-sign condition reporting		module:03-n3 jlpt:n3 point:あり complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
