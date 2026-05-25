@@ -4,8 +4,8 @@
 #notetype:Contrast
 #deck:Japanese Grammar::13 - L1 Interference::Contrast
 
-___毎日勉強します。	私は	(omit)	(omit)	Japanese drops the subject when it's clear from context — over-using 私は marks the speaker as a learner.	subject obvious → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top1k source:curated-jpgram
-昨日、___映画を見ました。	私は	(omit)	(omit)	Past-tense reportage about one's own day naturally drops 私は in Japanese.	personal report → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top1k source:curated-jpgram
-___何をしていますか。	あなたは	(omit)	(omit)	Direct address with あなたは can sound interrogative or even rude — Japanese drops it.	addressing → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top1k source:curated-jpgram
-(初対面で)___田中です。	私は	(omit)	(omit)	Self-introduction in Japanese never uses 私は in front of the name in normal conversation.	self-introduction → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top10k source:curated-jpgram
-お疲れさま。___お先に失礼します。	私は	(omit)	(omit)	Polite leave-taking phrases never carry 私は; the subject is built into the verb form.	formal leave-taking → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top10k source:curated-jpgram
+___毎日勉強します。	私は	(omit)	(omit)	Japanese drops the subject when it's clear from context — over-using 私は marks the speaker as a learner.	subject obvious → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top1k source:curated-jpgram confusable-with:私は
+昨日、___映画を見ました。	私は	(omit)	(omit)	Past-tense reportage about one's own day naturally drops 私は in Japanese.	personal report → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top1k source:curated-jpgram confusable-with:私は
+___何をしていますか。	あなたは	(omit)	(omit)	Direct address with あなたは can sound interrogative or even rude — Japanese drops it.	addressing → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top1k source:curated-jpgram confusable-with:あなたは
+(初対面で)___田中です。	私は	(omit)	(omit)	Self-introduction in Japanese never uses 私は in front of the name in normal conversation.	self-introduction → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top10k source:curated-jpgram confusable-with:私は
+お疲れさま。___お先に失礼します。	私は	(omit)	(omit)	Polite leave-taking phrases never carry 私は; the subject is built into the verb form.	formal leave-taking → drop pronoun		module:13-l1 point:l1-pronoun-overuse complexity:intro frequency:top10k source:curated-jpgram confusable-with:私は

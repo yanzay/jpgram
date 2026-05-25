@@ -170,10 +170,12 @@ def collect_sentences() -> List[str]:
     if not GRAMMAR_DIR.exists():
         return []
     for tsv in sorted(GRAMMAR_DIR.rglob("*.tsv")):
-        is_cloze    = "cloze"    in tsv.stem.lower()
-        is_contrast = "contrast" in tsv.stem.lower()
-        is_prod     = "production" in tsv.stem.lower()
-        # Find the header so we can index into Answer / Sample columns.
+        is_cloze     = "cloze"     in tsv.stem.lower()
+        is_contrast  = "contrast"  in tsv.stem.lower()
+        is_prod      = "production" in tsv.stem.lower()
+        is_listening = "listening" in tsv.stem.lower()
+        is_dictation = "dictation" in tsv.stem.lower()
+        # Find the header so we can index into Answer / Sample / etc.
         header = None
         for raw in tsv.read_text(encoding="utf-8").splitlines():
             if raw.startswith("#columns:"):
@@ -191,6 +193,17 @@ def collect_sentences() -> List[str]:
                 # Some production rows mistakenly contain English in Sample.
                 # Prefer Sample when it is Japanese; otherwise fall back to Target.
                 jp = sample if sample and _JP_CHAR_RE.search(sample) else (target or sample)
+            elif is_listening and header and "Transcript" in header:
+                # Listening schema: Audio | Transcript | Reading | EN | Hint | Tags
+                # Col 0 is the [sound:…] ref; the JP audio source is Transcript.
+                idx = header.index("Transcript")
+                jp = row[idx].strip() if len(row) > idx else ""
+            elif is_dictation and header and "Answer" in header:
+                # Dictation schema: Audio | Prompt | Answer | Reading | EN | Tags
+                # The audio plays the Answer (full sentence) — Prompt is the
+                # blanked frame the learner sees.
+                idx = header.index("Answer")
+                jp = row[idx].strip() if len(row) > idx else ""
             else:
                 jp = row[0].strip()
             if not jp:

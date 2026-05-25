@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I just got home now.	たところだ	いま、いえについたところです。	今、家に着いたところです。	たところだ: action completed at the present moment		module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-I just finished eating.	たところだ	ちょうどごはんをたべおわったところだ。	ちょうどご飯を食べ終わったところだ。	たところだ: meal-completion right now		module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-The meeting just finished.	たところだ	かいぎがおわったところです。	会議が終わったところです。	たところだ: event endpoint just reached		module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-I just got a call from him.	たところだ	いま、かれからでんわがあったところだ。	今、彼から電話があったところだ。	たところだ: external event at the present moment		module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Just as I started working, a customer arrived.	たところだ	しごとをはじめたところで、おきゃくがきました。	仕事を始めたところで、お客が来ました。	たところで: at the moment X happened, Y also did		module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k scaffold:pending-audio
+I just got home now.	たところだ	いま、いえについたところです。	今、家に着いたところです。	たところだ: action completed at the present moment	[sound:42de40271e4c.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k
+I just finished eating.	たところだ	ちょうどごはんをたべおわったところだ。	ちょうどご飯を食べ終わったところだ。	たところだ: meal-completion right now	[sound:2a089e8a5fea.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k
+The meeting just finished.	たところだ	かいぎがおわったところです。	会議が終わったところです。	たところだ: event endpoint just reached	[sound:41e92560fa0e.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k
+I just got a call from him.	たところだ	いま、かれからでんわがあったところだ。	今、彼から電話があったところだ。	たところだ: external event at the present moment	[sound:60cb3acc18a2.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k
+Just as I started working, a customer arrived.	たところだ	しごとをはじめたところで、おきゃくがきました。	仕事を始めたところで、お客が来ました。	たところで: at the moment X happened, Y also did	[sound:61b0eca9827d.mp3]	module:02-n4 jlpt:n4 point:たところだ complexity:standard source:authored frequency:top10k
