@@ -4,8 +4,8 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 
-トイレはどこにありますか？	といれはどこにありますか？	Where is the bathroom?	どこ (where — location interrogative)	どこ + に / で / へ + V	asks for the location of a thing or action	where is X?	どちら (which-side / two-choice) / どっち (casual)	[sound:31e0ea1d70a0.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro source:shin-kanzen frequency:top1k complexity:standard
-どこから来ましたか？	どこからきましたか？	Where did you come from?	どこから (where-from)	どこ + から + V	asks for origin / source of motion	from where?	どこへ (destination) / どこで (locus of action)	[sound:7a3ce411dd09.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro source:authored frequency:top1k scaffold:pending-audio source:shin-kanzen frequency:top10k
+トイレはどこにありますか？	といれはどこにありますか？	Where is the bathroom?	どこ (where — location interrogative)	どこ + に / で / へ + V	asks for the location of a thing or action	where is X?	どちら (which-side / two-choice) / どっち (casual)	[sound:31e0ea1d70a0.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro source:shin-kanzen frequency:top1k
+どこから来ましたか？	どこからきましたか？	Where did you come from?	どこから (where-from)	どこ + から + V	asks for origin / source of motion	from where?	どこへ (destination) / どこで (locus of action)	[sound:7a3ce411dd09.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro source:authored frequency:top1k scaffold:pending-audio
 どこかに行きたいです。	どこかにいきたいです。	I want to go somewhere.	どこか (indefinite — somewhere)	どこ + か + V	indefinite location ((somewhere))	somewhere (positive)	どこも (with negative = nowhere)	[sound:5bc8f4e898c4.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro frequency:top10k source:shin-kanzen
 どこも行きませんでした。	どこもいきませんでした。	I didn't go anywhere.	どこも + neg (universal-negative — nowhere)	どこ + も + V-neg	universal denial of location	nowhere	どこか + positive (somewhere)	[sound:fab3b87ee1ac.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro frequency:top10k source:shin-kanzen
 どこでも大丈夫です。	どこでもだいじょうぶです。	Anywhere is fine.	どこでも (free-choice — anywhere)	どこ + でも + clause	free choice / no place restriction	anywhere	どこか (some / indefinite)	[sound:84db28d2c6e2.mp3]	module:01-n5 jlpt:n5 point:どこ complexity:intro frequency:top1k source:shin-kanzen

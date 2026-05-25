@@ -148,12 +148,17 @@ def trim_file(path: Path, dry_run: bool) -> tuple[str, int, int, int]:
         # Can't auto-trim; needs hand-authoring
         return ("needs-reauthor", total, 0, total)
 
-    if on_topic_count < 5:
-        # NOT SAFE to auto-trim — would shrink file to <5 rows, breaking
-        # the "≥5 atomic exemplars" promise. Flag for hand-authoring.
+    # Phase-9+ policy: ALWAYS trim if any on-topic rows exist, even if
+    # we end up with <5 rows. A small all-correct file is better than a
+    # bloated mostly-wrong one. Files with <3 on-topic stay flagged
+    # `needs-supplementing` for the caller; files with 0 on-topic stay
+    # untouched as `needs-reauthor` (caller will reauthor in batch).
+    if on_topic_count < 3:
+        if on_topic_count == 0:
+            return ("needs-reauthor", total, 0, total)
         return ("needs-supplementing", total, on_topic_count, total)
 
-    # ≥5 on-topic: trim to on-topic only, cap at 8 for atomic card sets.
+    # ≥3 on-topic: trim to on-topic only, cap at 8 for atomic card sets.
     kept = on_topic_rows[:8]
     if not dry_run and len(kept) != total:
         new_text = "".join(header_lines + kept)
