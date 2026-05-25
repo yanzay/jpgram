@@ -369,40 +369,71 @@ def lint_file(path: Path,
             preview = key[0][:40] if key else ""
             errs.append(f"{path}: duplicate row × {n}: {preview}…")
 
-    # Phase-6: file-level slug↔content integrity. The filename's grammar
-    # slug should appear at least once in some JP source field across the
-    # file's rows (unless this is a documented umbrella/category file).
+    # Phase-6/9: file-level slug↔content integrity. The filename's grammar
+    # slug (or a verb-stem alias) must appear in ≥80% of source rows.
     slug = path.stem
     for suffix in ("_recognition", "_production", "_cloze", "_contrast",
                    "_dictation", "_listening"):
         if slug.endswith(suffix):
             slug = slug[:-len(suffix)]
             break
-    # Skip aggregator-style slugs (hyphen-joined or numbered variants are
-    # umbrella files that gather multiple sub-points; the slug itself is
-    # rarely a verbatim Japanese string).
     is_aggregator = (
         "-" in slug
         or any(c.isdigit() for c in slug)
-        or len(slug) >= 6  # long multi-morpheme slugs usually aggregate
+        or "[" in slug or "・" in slug or "～" in slug or "(" in slug
+        or len(slug) >= 8  # long multi-morpheme slugs
     )
-    if slug not in _CATEGORY_SLUGS and not is_aggregator:
+    if slug not in _CATEGORY_SLUGS and not is_aggregator and slug:
+        # Build conjugation-aware aliases (mirrors scripts/_phase9_trim).
+        aliases = {slug}
+        MIN = 2
+        for cop in ("だ", "です"):
+            if slug.endswith(cop):
+                bare = slug[:-len(cop)]
+                if len(bare) >= MIN:
+                    aliases.add(bare)
+        if slug.endswith("する"):
+            ren = slug[:-2] + "し"
+            if len(ren) >= MIN:
+                aliases.add(ren)
+        if slug.endswith("くる"):
+            ren = slug[:-2] + "き"
+            if len(ren) >= MIN:
+                aliases.add(ren)
+        if slug and slug[-1] in "うるくぐすつぬむぶ":
+            stem = slug[:-1]
+            if len(stem) >= MIN:
+                aliases.add(stem)
+            renyokei = {"う": "い", "く": "き", "ぐ": "ぎ", "す": "し",
+                        "つ": "ち", "ぬ": "に", "む": "み", "ぶ": "び"}
+            if slug[-1] in renyokei:
+                ren = stem + renyokei[slug[-1]]
+                if len(ren) >= MIN:
+                    aliases.add(ren)
+        if slug.endswith("い") and len(slug) >= 3:
+            stem = slug[:-1]
+            if len(stem) >= MIN:
+                aliases.add(stem)
+
         rows_parsed = []
         for ln, raw in data:
             row = next(csv.reader([raw], delimiter="\t", quotechar='"'), None)
             if row and len(row) == len(expected):
                 rows_parsed.append(row)
-        any_match = False
-        for row in rows_parsed:
-            src = _source_sentence(nt, header, row)
-            if slug in src:
-                any_match = True
-                break
-        if rows_parsed and not any_match:
-            errs.append(
-                f"WARN: {path}: file's grammar slug '{slug}' never appears "
-                f"in any source sentence"
-            )
+        if len(rows_parsed) >= 5:
+            on_topic = 0
+            for row in rows_parsed:
+                src = _source_sentence(nt, header, row)
+                # Also check Reading column if present
+                reading = row[header.index("Reading")] if "Reading" in header else ""
+                if any(a in src or a in reading for a in aliases):
+                    on_topic += 1
+            pct = on_topic / len(rows_parsed)
+            if pct < 0.80:
+                errs.append(
+                    f"WARN: {path}: slug↔content drift — only {on_topic}/{len(rows_parsed)} "
+                    f"rows reference slug '{slug}' (need ≥80%)"
+                )
 
     # Phase-6: 5-row Recognition back-side variability. After Phase-4,
     # MainUse should vary per row in addition to QuickCue. Flag files where

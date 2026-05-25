@@ -168,6 +168,11 @@ PHRASE_OVERRIDES: dict[str, str] = {
     # Transitive/intransitive pairs: override to everyday spoken reading
     "開ける": "あける",    # UniDic may give ひらける
     "熱する": "ねっする",  # UniDic: ねつする (undoubled ラ行五段 form)
+    # Phase-9 additions: classical / counter / common compound readings
+    "我あり": "われあり",  # Descartes line: 我思う、ゆえに我あり
+    "一歩": "いっぽ",      # 一+歩 counter — sokuon gemination
+    "富士山": "ふじさん",  # mountain reading (not ふじやま, which is regional/old)
+    "年を取る": "としをとる",  # 年=とし not ねん in this idiom
 }
 
 # Standalone-token fallbacks (UniDic returns the formal/older form by default).

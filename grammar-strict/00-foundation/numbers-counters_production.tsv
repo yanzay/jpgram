@@ -4,9 +4,9 @@
 #notetype:Production
 #deck:Japanese Grammar::00 - Foundation::Production
 
-"Say ""There are three cats"" using 匹."	匹	ねこがさんびきいます。	猫が三匹います。	三匹=さんびき (rendaku: び not ひ)	[sound:1d50f09b0e8e.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro
-"Say ""I bought two books"" using 冊."	冊	ほんをにさつかいました。	本を二冊買いました。	冊 counts bound volumes	[sound:feccd2fb4ddd.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro
-"Say ""Please give me three sheets of paper"" using 枚."	枚	かみをさんまいください。	紙を三枚ください。	枚 for flat objects; さんまい is regular	[sound:f2830a2013e0.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro
-"Say ""I drank one cup of coffee"" using 杯."	杯	こーひーをいっぱいのみました。	コーヒーを一杯飲みました。	一杯=いっぱい (irregular: double consonant)	[sound:0dd0add76de9.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top5k complexity:standard
-"Say ""I practiced five times"" using 回."	回	ごかいれんしゅうしました。	五回練習しました。	回 counts occurrences of actions	[sound:a4e325ac8667.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro
-"Say ""There are two students"" using 人."	人	がくせいがふたりいます。	学生が二人います。	二人=ふたり (irregular native reading)	[sound:b65a185a33ce.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro
+Say (There are three cats) using 匹.	匹	ねこがさんびきいます。	猫が三匹います。	三匹=さんびき (rendaku: び not ひ)	[sound:1d50f09b0e8e.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro source:curated-jpgram
+Say (I bought two books) using 冊.	冊	ほんをにさつかいました。	本を二冊買いました。	冊 counts bound volumes	[sound:feccd2fb4ddd.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro source:curated-jpgram
+Say (Please give me three sheets of paper) using 枚.	枚	かみをさんまいください。	紙を三枚ください。	枚 for flat objects; さんまい is regular	[sound:f2830a2013e0.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro source:curated-jpgram
+Say (I drank one cup of coffee) using 杯.	杯	こーひーをいっぱいのみました。	コーヒーを一杯飲みました。	一杯=いっぱい (irregular: double consonant)	[sound:0dd0add76de9.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top5k complexity:standard source:curated-jpgram
+Say (I practiced five times) using 回.	回	ごかいれんしゅうしました。	五回練習しました。	回 counts occurrences of actions	[sound:a4e325ac8667.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro source:curated-jpgram
+Say (There are two students) using 人.	人	がくせいがふたりいます。	学生が二人います。	二人=ふたり (irregular native reading)	[sound:b65a185a33ce.mp3]	module:00-foundation jlpt:n5 source:shin-kanzen point:numbers-counters frequency:top1k complexity:intro source:curated-jpgram

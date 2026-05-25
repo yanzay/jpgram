@@ -4,8 +4,8 @@
 #notetype:Cloze
 #deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
-子供{{c1::ながらも}}、責任感がある。	こども{{c1::ながらも}}、せきにんかんがある。	concessive — despite being a child		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:top10k scaffold:pending-audio
-残念{{c1::ながらも}}、規則は規則だ。	ざんねん{{c1::ながらも}}、きそくはきそくだ。	concessive — reluctant acceptance		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:top5k scaffold:pending-audio
-小さい{{c1::ながらも}}、立派な家だ。	ちいさい{{c1::ながらも}}、りっぱないえだ。	concessive — small but fine		module:03-n3 jlpt:n3 point:ながらも complexity:intro source:authored frequency:top10k scaffold:pending-audio
-知ってい{{c1::ながらも}}、彼は教えなかった。	しってい{{c1::ながらも}}、かれはおしえなかった。	concessive — withheld despite knowing		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:top10k scaffold:pending-audio
-貧しい{{c1::ながらも}}、家族は幸せだった。	まずしい{{c1::ながらも}}、かぞくはしあわせだった。	concessive — poor but happy		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:low scaffold:pending-audio
+子供{{c1::ながらも}}、責任感がある。	こども{{c1::ながらも}}、せきにんかんがある。	concessive — despite being a child		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro
+残念{{c1::ながらも}}、規則は規則だ。	ざんねん{{c1::ながらも}}、きそくはきそくだ。	concessive — reluctant acceptance		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:top5k scaffold:pending-audio source:shin-kanzen complexity:intro
+小さい{{c1::ながらも}}、立派な家だ。	ちいさい{{c1::ながらも}}、りっぱないえだ。	concessive — small but fine		module:03-n3 jlpt:n3 point:ながらも complexity:intro source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k
+知ってい{{c1::ながらも}}、彼は教えなかった。	しってい{{c1::ながらも}}、かれはおしえなかった。	concessive — withheld despite knowing		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+貧しい{{c1::ながらも}}、家族は幸せだった。	まずしい{{c1::ながらも}}、かぞくはしあわせだった。	concessive — poor but happy		module:03-n3 jlpt:n3 point:ながらも complexity:standard source:authored frequency:low scaffold:pending-audio source:shin-kanzen frequency:top10k
