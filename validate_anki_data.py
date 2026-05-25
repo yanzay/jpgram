@@ -277,18 +277,45 @@ def lint_file(path: Path,
                 )
 
         # Phase-6: cloze point-alignment. Each {{c1::TARGET}} must contain
-        # the filename's grammar slug (or a documented category alias)
-        # somewhere in the deleted token OR in the surrounding sentence.
+        # the filename's grammar slug (or a conjugation alias) somewhere
+        # in the deleted token OR in the surrounding sentence.
         if nt == "Cloze":
-            slug = path.stem[:-len("_cloze")]
-            if slug not in _CATEGORY_SLUGS:
+            slug_c = path.stem[:-len("_cloze")]
+            if slug_c not in _CATEGORY_SLUGS:
+                # Build the same conjugation-aware aliases used by the
+                # file-level slug-drift check above.
+                c_aliases = {slug_c}
+                MIN_C = 2
+                if slug_c and slug_c[-1] in "うるくぐすつぬむぶ":
+                    stem = slug_c[:-1]
+                    if len(stem) >= MIN_C:
+                        c_aliases.add(stem)
+                    renyokei_c = {"う": "い", "く": "き", "ぐ": "ぎ", "す": "し",
+                                  "つ": "ち", "ぬ": "に", "む": "み", "ぶ": "び"}
+                    if slug_c[-1] in renyokei_c:
+                        ren = stem + renyokei_c[slug_c[-1]]
+                        if len(ren) >= MIN_C:
+                            c_aliases.add(ren)
+                if slug_c.endswith("する") and len(slug_c) > 2:
+                    ren = slug_c[:-2] + "し"
+                    if len(ren) >= MIN_C:
+                        c_aliases.add(ren)
+                for cop in ("だ", "です"):
+                    if slug_c.endswith(cop):
+                        bare = slug_c[:-len(cop)]
+                        if len(bare) >= MIN_C:
+                            c_aliases.add(bare)
+                if slug_c.endswith("ない") and len(slug_c) >= 4:
+                    bare = slug_c[:-2]
+                    if len(bare) >= MIN_C:
+                        c_aliases.add(bare)
                 text_field = row[header.index("Text")] if "Text" in header else row[0]
                 cloze_targets = _CLOZE_EXTRACT_RE.findall(text_field)
-                # Generous: allow slug match in cloze target OR in remaining context.
-                if not any(slug in t for t in cloze_targets) and slug not in text_field:
+                if not any(a in t for t in cloze_targets for a in c_aliases) \
+                   and not any(a in text_field for a in c_aliases):
                     errs.append(
                         f"WARN: {path}:{ln}: cloze content doesn't reference "
-                        f"point '{slug}' (off-topic for filename)"
+                        f"point '{slug_c}' (off-topic for filename)"
                     )
 
         # Phase-6: contrast spot-the-answer. If Answer appears verbatim in JP
