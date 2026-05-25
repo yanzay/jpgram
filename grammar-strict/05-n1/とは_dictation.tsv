@@ -4,11 +4,8 @@
 #notetype:Dictation
 #deck:Japanese Grammar::05 - N1 Grammar::Dictation
 
-[sound:b82243ae42fc.mp3]	させていただく。	させていただく。	させていただく。	I humbly request permission to do.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:2ce803fd53a6.mp3]	させていただいてもよろしい___しょうか。	させていただいてもよろしいでしょうか。	させていただいてもよろしいでしょうか。	May I humbly do this?	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:e8c1b0dcf416.mp3]	たまわる。	たまわる。	たまわる。	I humbly receive (archaic).	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:ed731e70fd21.mp3]	させていただきました。	させていただきました。	させていただきました。	I humbly did.	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:7ce85ab81407.mp3]	そのようなことをさせていただけると___。	そのようなことをさせていただけるとは。	そのようなことをさせていただけるとは。	I can scarcely believe I am permitted to do such a thing.	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:7d3b2fdea228.mp3]	この度___お約束をさせていただきたく。	この度はお約束をさせていただきたく。	このどはおやくそくをさせていただきたく。	This time I wish to humbly make a promise.	module:05-n1 point:とは complexity:standard frequency:top10k source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:d10e28418715.mp3]	させていただくこと___できました。	させていただくことができました。	させていただくことができました。	I was able to humbly do.	module:05-n1 point:とは complexity:standard source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
-[sound:d4cfa7592053.mp3]	されるよう___なった。	されるようになった。	されるようになった。	He/she came to be done to (passive as honorific).	module:05-n1 point:とは complexity:intro source:dictionary-of-jp-grammar sense:keigo-alternatives jlpt:n1
+[sound:pending.mp3]	まさか彼が来る___思わなかった。	とは	まさかかれがくるとはおもわなかった。	I never expected him to come.	module:05-n1 jlpt:n1 point:とは complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	自由___何か。	とは	じゆうとはなにか。	What is 'freedom'?	module:05-n1 jlpt:n1 point:とは complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	これほど大変だ___知らなかった。	とは	これほどたいへんだとはしらなかった。	I didn't know it would be this hard.	module:05-n1 jlpt:n1 point:とは complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	友達に裏切られる___、悲しい。	とは	ともだちにうらぎられるとは、かなしい。	To be betrayed by a friend — how sad.	module:05-n1 jlpt:n1 point:とは complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	彼女が結婚する___驚きだ。	とは	かのじょがけっこんするとはおどろきだ。	It's a surprise that she's getting married.	module:05-n1 jlpt:n1 point:とは complexity:standard source:authored frequency:top10k scaffold:pending-audio
