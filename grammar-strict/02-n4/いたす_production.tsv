@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Humbly say you will guide the guest.	いたす	ごあんないいたします。	ご案内いたします。	する → いたす: humble form, speaker lowers self	[sound:3a282de7d4e0.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k
-Humbly say you have confirmed.	いたす	かくにんいたしました。	確認いたしました。	humble completion: confirmed (speaker humbles)	[sound:89b53996517b.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+Humbly say you will guide the guest.	いたす	ごあんないいたします。	ご案内いたします。	する → いたす: humble form, speaker lowers self	[sound:3a282de7d4e0.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top5k complexity:intro
+Humbly say you have confirmed.	いたす	かくにんいたしました。	確認いたしました。	humble completion: confirmed (speaker humbles)	[sound:89b53996517b.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro
 Humbly say you will call them.	いたす	こちらからおでんわいたします。	こちらからお電話いたします。	humble future action toward listener	[sound:8407af997e7d.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top1k
-Humbly say you will send the documents.	いたす	しょるいをおおくりいたします。	書類をお送りいたします。	humble transfer: sending toward listener	[sound:04cf88418bf3.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k
+Humbly say you will send the documents.	いたす	しょるいをおおくりいたします。	書類をお送りいたします。	humble transfer: sending toward listener	[sound:04cf88418bf3.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k complexity:intro
 Humbly introduce yourself in business.	いたす	たなかともうします。よろしくおねがいいたします。	田中と申します。よろしくお願いいたします。	humble self-introduction + request	[sound:720f043c34ca.mp3]	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio frequency:top10k

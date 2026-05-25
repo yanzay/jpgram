@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Wait a sec.	ちょっと待って。	ちょっとまって。	ちょっと待って。	casual: please wait	[sound:d2c5de69a4f8.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored complexity:intro
-Come quickly. It's about to start.	早く来て。もう始まるよ。	はやくきて。もうはじまるよ。	早く来て。もう始まるよ。	urgent casual request	[sound:b86c5a7aa695.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top10k complexity:intro
-Hold this. It's heavy.	これ持って。重いから。	これもって。おもいから。	これ持って。重いから。	casual favor request	[sound:8d4ac0748ac4.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top1k complexity:intro
-Explain it a little more.	もう少し説明して。	もうすこしせつめいして。	もう少し説明して。	casual clarification request	[sound:53179890a310.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top5k complexity:intro
-Be quiet. I'm trying to concentrate.	静かにして。集中したいの。	しずかにして。しゅうちゅうしたいの。	静かにして。集中したいの。	casual silence request	[sound:989f3b06ec19.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top10k complexity:intro
+Wait a sec.	ちょっと待って。	ちょっとまって。	ちょっと待って。	casual: please wait	[sound:d2c5de69a4f8.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored complexity:intro source:shin-kanzen
+Come quickly. It's about to start.	早く来て。もう始まるよ。	はやくきて。もうはじまるよ。	早く来て。もう始まるよ。	urgent casual request	[sound:b86c5a7aa695.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top10k complexity:intro source:shin-kanzen
+Hold this. It's heavy.	これ持って。重いから。	これもって。おもいから。	これ持って。重いから。	casual favor request	[sound:8d4ac0748ac4.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top1k complexity:intro source:shin-kanzen
+Explain it a little more.	もう少し説明して。	もうすこしせつめいして。	もう少し説明して。	casual clarification request	[sound:53179890a310.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top5k complexity:intro source:shin-kanzen
+Be quiet. I'm trying to concentrate.	静かにして。集中したいの。	しずかにして。しゅうちゅうしたいの。	静かにして。集中したいの。	casual silence request	[sound:989f3b06ec19.mp3]	module:02-n4 jlpt:n4 point:verbて-request source:authored frequency:top10k complexity:intro source:shin-kanzen

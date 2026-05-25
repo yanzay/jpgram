@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I hope it's sunny tomorrow.	明日、晴れるといいですね。	あした、はれるといいですね。	明日、晴れるといいですね。	〜といいですね: shared wish/hope — と (resultant state) + いい (good); both speaker and listener hope X happens; softer than 〜てほしい	[sound:a7add7d52ee4.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top1k complexity:intro
-I hope I can pass the exam.	試験に合格できるといいな。	しけんにごうかくできるといいな。	試験に合格できるといいな。	self-directed hope	[sound:2474c7cb0e12.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top10k complexity:standard
-I hope he recovers quickly.	彼が早く回復するといいと思います。	かれがはやくかいふくするといいとおもいます。	彼が早く回復するといいと思います。	hope for someone else	[sound:4c6f9481acb1.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top10k complexity:standard
-I hope it goes well.	うまくいくといいね。	うまくいくといいね。	うまくいくといいね。	casual shared hope	[sound:c259fe1a7087.mp3]	module:02-n4 jlpt:n4 point:といい source:authored complexity:intro
-I wish I could get better at Japanese.	もっと日本語が上手になるといいんですが。	もっとにほんごがじょうずになるといいんですが。	もっと日本語が上手になるといいんですが。	自己hope for improvement	[sound:dca712d415f8.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top10k complexity:standard
+I hope it's sunny tomorrow.	明日、晴れるといいですね。	あした、はれるといいですね。	明日、晴れるといいですね。	〜といいですね: shared wish/hope — と (resultant state) + いい (good); both speaker and listener hope X happens; softer than 〜てほしい	[sound:a7add7d52ee4.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top1k complexity:intro source:shin-kanzen
+I hope I can pass the exam.	試験に合格できるといいな。	しけんにごうかくできるといいな。	試験に合格できるといいな。	self-directed hope	[sound:2474c7cb0e12.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top10k complexity:standard source:shin-kanzen
+I hope he recovers quickly.	彼が早く回復するといいと思います。	かれがはやくかいふくするといいとおもいます。	彼が早く回復するといいと思います。	hope for someone else	[sound:4c6f9481acb1.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top10k complexity:standard source:shin-kanzen
+I hope it goes well.	うまくいくといいね。	うまくいくといいね。	うまくいくといいね。	casual shared hope	[sound:c259fe1a7087.mp3]	module:02-n4 jlpt:n4 point:といい source:authored complexity:intro source:shin-kanzen
+I wish I could get better at Japanese.	もっと日本語が上手になるといいんですが。	もっとにほんごがじょうずになるといいんですが。	もっと日本語が上手になるといいんですが。	自己hope for improvement	[sound:dca712d415f8.mp3]	module:02-n4 jlpt:n4 point:といい source:authored frequency:top10k complexity:standard source:shin-kanzen

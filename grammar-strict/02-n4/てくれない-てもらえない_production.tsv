@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-Could you give me a hand?	ちょっと手伝ってくれない？	ちょっとてつだってくれない？	ちょっと手伝ってくれない？	casual favor request	[sound:e3e8a68ed2b2.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top1k complexity:standard
-Could I ask you to carry this luggage?	この荷物を運んでもらえませんか。	このにもつをはこんでもらえませんか。	この荷物を運んでもらえませんか。	polite favor request	[sound:6d6d4a27d3b9.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top10k complexity:standard
-Could you please be a bit quieter?	もう少し静かにしてもらえませんか。	もうすこししずかにしてもらえませんか。	もう少し静かにしてもらえませんか。	polite request to change behavior	[sound:43a0cb1d8829.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top1k complexity:standard
-Could you sign these documents?	この書類にサインしてくれない？	このしょるいにさいんしてくれない？	この書類にサインしてくれない？	casual signing request	[sound:865162813165.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top10k complexity:standard
-Could you close the window? It's cold.	窓を閉めてもらえますか。寒いので。	まどをしめてもらえますか。さむいので。	窓を閉めてもらえますか。寒いので。	polite request with reason	[sound:174edb280faf.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top1k complexity:standard
+Could you give me a hand?	ちょっと手伝ってくれない？	ちょっとてつだってくれない？	ちょっと手伝ってくれない？	casual favor request	[sound:e3e8a68ed2b2.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top1k complexity:standard source:shin-kanzen
+Could I ask you to carry this luggage?	この荷物を運んでもらえませんか。	このにもつをはこんでもらえませんか。	この荷物を運んでもらえませんか。	polite favor request	[sound:6d6d4a27d3b9.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top10k complexity:standard source:shin-kanzen
+Could you please be a bit quieter?	もう少し静かにしてもらえませんか。	もうすこししずかにしてもらえませんか。	もう少し静かにしてもらえませんか。	polite request to change behavior	[sound:43a0cb1d8829.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top1k complexity:standard source:shin-kanzen
+Could you sign these documents?	この書類にサインしてくれない？	このしょるいにさいんしてくれない？	この書類にサインしてくれない？	casual signing request	[sound:865162813165.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top10k complexity:standard source:shin-kanzen
+Could you close the window? It's cold.	窓を閉めてもらえますか。寒いので。	まどをしめてもらえますか。さむいので。	窓を閉めてもらえますか。寒いので。	polite request with reason	[sound:174edb280faf.mp3]	module:02-n4 jlpt:n4 point:てくれない-てもらえない source:authored frequency:top1k complexity:standard source:shin-kanzen
