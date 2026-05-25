@@ -4,8 +4,8 @@
 #notetype:Listening
 #deck:Japanese Grammar::02 - N4 Grammar::Listening
 
-[sound:e1ef2f1b2f82.mp3]	よろしくお願いいたします。	よろしくおねがいいたします。	Best regards / Please treat me well.	humble します	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio
-[sound:f3ececf7dc8c.mp3]	ただいまご用意いたします。	ただいまごよういいたします。	I will prepare it right away.	humble します	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio
-[sound:bfc583d55de6.mp3]	明日電話いたします。	あしたでんわいたします。	I will call tomorrow.	humble します	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio
-[sound:222ee0a665c7.mp3]	すぐにご確認いたします。	すぐにごかくにんいたします。	I will confirm immediately.	humble します	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio
-[sound:2ef434e383fe.mp3]	担当者がご案内いたします。	たんとうしゃがごあんないいたします。	The person in charge will guide you.	humble します	module:02-n4 jlpt:n4 point:いたす complexity:standard source:shin-kanzen scaffold:pending-audio
+[sound:pending.mp3]	私が説明いたします。	わたしがせつめいいたします。	I will explain (humble).	humble offer to explain	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	後ほどご連絡いたします。	のちほどごれんらくいたします。	I will contact you later (humble).	humble follow-up	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	ご案内いたします。	ごあんないいたします。	I will show you the way (humble).	humble guiding	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	失礼いたします。	しつれいいたします。	Excuse me (humble; entering/leaving).	humble entry / departure	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	お手伝いいたします。	おてつだいいたします。	I will assist you (humble).	humble offer to help	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
