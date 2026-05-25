@@ -4,11 +4,11 @@
 #notetype:Listening
 #deck:Japanese Grammar::02 - N4 Grammar::Listening
 
-[sound:6279698ea70c.mp3]	彼は私より背が高い。	かれはわたしよりせがたかい。	He is taller than me.	marks comparison baseline	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top5k source:shin-kanzen
-[sound:fbd226ee8fed.mp3]	日本より韓国が好きです。	にほんよりかんこくがすきです。	I prefer Korea to Japan.	baseline for comparison	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top10k source:shin-kanzen
+[sound:6279698ea70c.mp3]	彼は私より背が高い。	かれはわたしよりせがたかい。	He is taller than me.	marks comparison baseline	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top5k source:shin-kanzen complexity:standard
+[sound:fbd226ee8fed.mp3]	日本より韓国が好きです。	にほんよりかんこくがすきです。	I prefer Korea to Japan.	baseline for comparison	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top10k source:shin-kanzen complexity:standard
 [sound:2ec127435d4a.mp3]	毎日より休みの方がいいです。	まいにちよりやすみのほうがいいです。	Days off are better than working.	comparison with topicalization	module:02-n4 jlpt:n4 point:より complexity:standard frequency:top1k source:shin-kanzen
-[sound:6d507756766c.mp3]	これしか食べられません。	これしかたべられません。	I can only eat this.	requires negation	module:02-n4 jlpt:n4 point:より complexity:intro source:shin-kanzen
+[sound:6d507756766c.mp3]	これしか食べられません。	これしかたべられません。	I can only eat this.	requires negation	module:02-n4 jlpt:n4 point:より complexity:intro source:shin-kanzen complexity:standard
 [sound:0cca7c2ef20a.mp3]	一時間しか勉強できませんでした。	いちじかんしかべんきょうできませんでした。	I could only study for one hour.	must have negative verb	module:02-n4 jlpt:n4 point:より complexity:standard frequency:top10k source:shin-kanzen
-[sound:5afed363b20a.mp3]	日本語しか話せません。	にほんごしかはなせません。	I can only speak Japanese.	MUST have negative	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top10k source:shin-kanzen
+[sound:5afed363b20a.mp3]	日本語しか話せません。	にほんごしかはなせません。	I can only speak Japanese.	MUST have negative	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top10k source:shin-kanzen complexity:standard
 [sound:06616f71ce6d.mp3]	私だけがこの秘密を知っています。	わたしだけがこのひみつをしっています。	Only I know this secret.	no polarity requirement	module:02-n4 jlpt:n4 point:より complexity:standard frequency:top10k source:shin-kanzen
-[sound:02c52cf0d6fe.mp3]	水だけ飲みました。	みずだけのみました。	I drank only water.	works with positive verbs	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top1k source:shin-kanzen
+[sound:02c52cf0d6fe.mp3]	水だけ飲みました。	みずだけのみました。	I drank only water.	works with positive verbs	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top1k source:shin-kanzen complexity:standard

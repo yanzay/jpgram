@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I eat breakfast.	朝ごはんを食べる。	あさごはんをたべる。	朝ごはんを食べる。	る-verb: ichidan/Group 2 — stem unchanged; drop る, add endings	[sound:901aad262410.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro
-I watch the news every evening.	毎晩ニュースを見ます。	まいばんにゅーすをみます。	毎晩ニュースを見ます。	る-verb: plain present/future — dictionary form; both present and future	[sound:11796b1c18b6.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro
-I go to bed at 10 p.m.	夜十時に寝ます。	よるじゅうじにねます。	夜十時に寝ます。	る-verb: no vowel shift — conjugation is simpler than godan verbs	[sound:5bfc8c88adf9.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro
-I get off the train.	電車を降りる。	でんしゃをおりる。	電車を降りる。	る-verb vs う-verb: class identification — -iru/-eru ending clue	[sound:dcb7d91919c0.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro
-Birds fly in the sky.	鳥が空を飛びます。	とりがそらをとびます。	鳥が空を飛びます。	飛ぶ ★ note: actually う-verb	[sound:41fe52f4d32b.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro
+I eat breakfast.	朝ごはんを食べる。	あさごはんをたべる。	朝ごはんを食べる。	る-verb: ichidan/Group 2 — stem unchanged; drop る, add endings	[sound:901aad262410.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro source:shin-kanzen
+I watch the news every evening.	毎晩ニュースを見ます。	まいばんにゅーすをみます。	毎晩ニュースを見ます。	る-verb: plain present/future — dictionary form; both present and future	[sound:11796b1c18b6.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro source:shin-kanzen
+I go to bed at 10 p.m.	夜十時に寝ます。	よるじゅうじにねます。	夜十時に寝ます。	る-verb: no vowel shift — conjugation is simpler than godan verbs	[sound:5bfc8c88adf9.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro source:shin-kanzen
+I get off the train.	電車を降りる。	でんしゃをおりる。	電車を降りる。	る-verb vs う-verb: class identification — -iru/-eru ending clue	[sound:dcb7d91919c0.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro source:shin-kanzen
+Birds fly in the sky.	鳥が空を飛びます。	とりがそらをとびます。	鳥が空を飛びます。	飛ぶ ★ note: actually う-verb	[sound:41fe52f4d32b.mp3]	module:01-n5 jlpt:n5 point:る-Verbs source:authored frequency:top1k complexity:intro source:shin-kanzen

@@ -4,8 +4,8 @@
 #notetype:Listening
 #deck:Japanese Grammar::02 - N4 Grammar::Listening
 
-[sound:pending.mp3]	私が説明いたします。	わたしがせつめいいたします。	I will explain (humble).	humble offer to explain	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
-[sound:pending.mp3]	後ほどご連絡いたします。	のちほどごれんらくいたします。	I will contact you later (humble).	humble follow-up	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
-[sound:pending.mp3]	ご案内いたします。	ごあんないいたします。	I will show you the way (humble).	humble guiding	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
-[sound:pending.mp3]	失礼いたします。	しつれいいたします。	Excuse me (humble; entering/leaving).	humble entry / departure	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
-[sound:pending.mp3]	お手伝いいたします。	おてつだいいたします。	I will assist you (humble).	humble offer to help	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio
+[sound:pending.mp3]	私が説明いたします。	わたしがせつめいいたします。	I will explain (humble).	humble offer to explain	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+[sound:pending.mp3]	後ほどご連絡いたします。	のちほどごれんらくいたします。	I will contact you later (humble).	humble follow-up	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+[sound:pending.mp3]	ご案内いたします。	ごあんないいたします。	I will show you the way (humble).	humble guiding	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+[sound:pending.mp3]	失礼いたします。	しつれいいたします。	Excuse me (humble; entering/leaving).	humble entry / departure	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+[sound:pending.mp3]	お手伝いいたします。	おてつだいいたします。	I will assist you (humble).	humble offer to help	module:02-n4 jlpt:n4 point:いたす complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen

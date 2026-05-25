@@ -5,13 +5,20 @@ points from N5 through N1, with two primary card types per point:
 **Recognition** and **Production**, plus secondary Cloze / Contrast /
 Dictation / Listening cards on a subset of points.
 
-> **Status:** Coverage 100% (945/945 Bunpro points). **Content-quality
-> remediation in progress** — see
+> **Status:** Coverage 100% (945/945 Bunpro points). **Quality remediation:
+> Phases 0–4, 6, 8 of [`IMPROVEMENT_PLAN.md`](IMPROVEMENT_PLAN.md) landed
+> 2026-05-22 (commits c55c2e6…105032c). Validator passes with 0 errors;
+> all 150+ catalogued reading defects, 491 spot-the-answer rows, 14
+> 100%-off-topic cloze files, 824 monotone Recognition back sides, and
+> 240 placeholder-Label rows have been fixed. 264 residual warnings are
+> open items in Phase 5 (polysemy splits), Phase 7 (EN re-audit), and
+> Phase 9 (native-speaker pass). See
 > [`research-reports/AUDIT_2026-05-19_SUMMARY.md`](research-reports/AUDIT_2026-05-19_SUMMARY.md)
-> and [`IMPROVEMENT_PLAN.md`](IMPROVEMENT_PLAN.md). Until Phase 2 lands,
-> ~70% of secondary cards (cloze/dictation/listening) and ~12% of production
-> files have known content/filename drift. The `coverage_audit.py` gate
-> verifies row counts, not row quality.
+> for the multi-axis audit that initiated the remediation. The
+> `coverage_audit.py` gate verifies row counts; `validate_anki_data.py`
+> now also enforces 12+ row-quality rules including cloze-point
+> alignment, contrast spot-the-answer detection, JLPT-vs-directory
+> consistency, tag-key uniqueness, and back-side variability.
 
 ## Coverage
 

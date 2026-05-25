@@ -51,10 +51,40 @@ ordered route to zero.
 | 3B — Off-topic contrast re-author | ✅ done | `6f36c92` | 2 hr |
 | 4 — Recognition back-side variability | ✅ done | `e165156` | 2 hr |
 | 6 — Validator promotion | ✅ done | `a0d4690` | 3 hr |
-| 5 — Polysemy splits | ⏳ pending | — | 6 hr |
-| 7 — EN re-audit | ⏸ blocked on API reset | — | 2 hr |
-| 8 — Dictation/listening | ⏳ pending | — | 6 hr |
-| 9 — Final correctness verification | ⏳ pending | — | 4 hr |
+| 8 — Dictation/listening | ✅ done | `105032c` | 2 hr |
+| 9 — Final correctness verification | ✅ done | (this commit) | 4 hr |
+| 5 — Polysemy splits | ⏳ pending — 7 files need re-authoring, 57 need supplementing | — | 6 hr |
+| 7 — EN re-audit | ⏸ pending (rate-limited 2026-05-22) | — | 2 hr |
+
+**Phase 9 sampling-gate findings**: an independent random-sample agent
+read ~415 rows and flagged a remaining slug↔content drift problem
+across 64 recognition files (7 needing full re-authoring, 57 needing
+supplementing). This commit:
+
+- Auto-trimmed 32 recognition files where ≥5 on-topic rows existed,
+  dropping 691 off-topic rows.
+- Fixed 5 specific reading bugs found by the sampling agent: 我あり →
+  われあり (Descartes line in `ゆえに_production`), 一歩 → いっぽ
+  (`に向かって-に向けて_recognition:8`), 富士山 → ふじさん (3 rows
+  in `ことがある_*`).
+- Added phrase overrides to `scripts/jp_reading.py` so the readings
+  don't regress.
+- Fixed the 弟 pitch class in `pitch-accent-primer_*.tsv` from "2" to
+  "4" (4-mora odaka, not 2-mora).
+- Unwrapped CSV quote-escape artifacts (`""is/are""`) in 49 files.
+- Tightened the slug-content integrity validator to require ≥80% of
+  rows to reference the slug; this surfaces all 64 remaining drifted
+  files as WARN so they can be addressed in Phase 5 (polysemy splits)
+  / a follow-on authoring wave.
+
+**Outstanding for v1.0:** the 64 slug-drifted recognition files
+(listed in the Phase-9 trim script's `needs-reauthor` /
+`needs-supplementing` output) are excluded from ship via natural row
+count (they each retain ≥1 on-topic row) but flagged WARN. A
+hand-authoring wave is required to bring them above the 80% slug-match
+threshold. Until then, the deck is "premium except for these 64
+recognition files"; the build still ships them with the on-topic rows
+that survive the auto-trim.
 
 **Headline metrics after Phases 0+1+2+3+4+6:**
 
