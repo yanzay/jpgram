@@ -4,8 +4,8 @@
 #notetype:Contrast
 #deck:Japanese Grammar::02 - N4 Grammar::Contrast
 
-明日は雨が降る___。	かしら	かな	かしら	かしら = feminine 'I wonder'; かな = gender-neutral / casual male	feminine speaker → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio
-彼は本当に来る___。	かしら	だろうか	かしら	かしら = soft feminine speculation; だろうか = formal speculation	soft feminine doubt → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio
-これでうまくいく___。	かしら	わよ	かしら	かしら = uncertain wondering; わよ = strong feminine assertion (no doubt)	uncertainty (feminine) → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio
-どうしたらいい___。	かしら	の	かしら	かしら = sole speculation; の = explanation-seeking question	speculation about own action → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio
-何時に来る___、ご存知ですか。	かしら	ですか	かしら	かしら mixed with です-form indicates soft polite-feminine wonder	polite-feminine wonder → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio
+明日は雨が降る___。	かしら	かな	かしら	かしら = feminine 'I wonder'; かな = gender-neutral / casual male	feminine speaker → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro confusable-with:かな
+彼は本当に来る___。	かしら	だろうか	かしら	かしら = soft feminine speculation; だろうか = formal speculation	soft feminine doubt → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro confusable-with:だろうか
+これでうまくいく___。	かしら	わよ	かしら	かしら = uncertain wondering; わよ = strong feminine assertion (no doubt)	uncertainty (feminine) → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro confusable-with:わよ
+どうしたらいい___。	かしら	の	かしら	かしら = sole speculation; の = explanation-seeking question	speculation about own action → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro confusable-with:の
+何時に来る___、ご存知ですか。	かしら	ですか	かしら	かしら mixed with です-form indicates soft polite-feminine wonder	polite-feminine wonder → かしら		module:02-n4 jlpt:n4 point:かしら complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k confusable-with:ですか

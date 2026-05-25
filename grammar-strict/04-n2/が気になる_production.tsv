@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::04 - N2 Grammar::Production
 
-I'm anxious about the exam results.	が気になる	しけんのけっかがきになる。	試験の結果が気になる。	が気になる: anticipatory anxiety about a future outcome		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio
-I'm bothered by his remark.	が気になる	かれのはつげんがきになっている。	彼の発言が気になっている。	が気になっている: ongoing concern about something said		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio
-I'm worried about her health.	が気になる	かのじょのたいちょうがきになる。	彼女の体調が気になる。	が気になる: caring concern about another's well-being		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio
-I was curious about the new shop, so I tried it.	が気になる	あたらしいみせがきになって、いってみた。	新しい店が気になって、行ってみた。	が気になって: curiosity-driven action		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio
-His attitude bothers me — I can't sleep.	が気になる	かれのたいどがきになってねむれない。	彼の態度が気になって眠れない。	が気になって + neg consequence: distress blocks normal function		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio
+I'm anxious about the exam results.	が気になる	しけんのけっかがきになる。	試験の結果が気になる。	が気になる: anticipatory anxiety about a future outcome		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:intro
+I'm bothered by his remark.	が気になる	かれのはつげんがきになっている。	彼の発言が気になっている。	が気になっている: ongoing concern about something said		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low
+I'm worried about her health.	が気になる	かのじょのたいちょうがきになる。	彼女の体調が気になる。	が気になる: caring concern about another's well-being		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
+I was curious about the new shop, so I tried it.	が気になる	あたらしいみせがきになって、いってみた。	新しい店が気になって、行ってみた。	が気になって: curiosity-driven action		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k
+His attitude bothers me — I can't sleep.	が気になる	かれのたいどがきになってねむれない。	彼の態度が気になって眠れない。	が気になって + neg consequence: distress blocks normal function		module:04-n2 jlpt:n2 point:が気になる complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen

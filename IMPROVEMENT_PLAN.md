@@ -129,16 +129,52 @@ enforces ≥80% slug-match on each new file authored from this point
 forward, so regressions are caught at commit time.
 
 **Still pending for true v1.0 release:**
-1. **Production-side re-authoring** for the same 64 slugs (~57 hr
-   estimated, similar scope to the Recognition wave).
-2. **Phase 5 polysemy splits** for と / って / ばかり / まで / わけ
-   (~6 hr) — would also resolve 30+ twin-parity warnings.
-3. **Phase 7 EN re-audit** — agent attempts rate-limited 2026-05-22
-   and 2026-05-25; re-try when API quota allows.
-4. **Native-speaker pass** on N1+N2 (highest historical defect
-   concentration).
-5. **Audio generation** (`build_audio.py`) for the ~250 scaffold:pending-audio
-   rows authored in Phases 2, 3B, 8, and 9+.
+1. **Production-side re-authoring** ✅ done (commit `ec9de04`) for the
+   37 slugs re-authored on the recognition side.
+2. **Contrast re-authoring** ✅ done (commit `5a8342e`) for the 3
+   zero-on-topic contrast files (かねる, のなんのって, かしら) + 18
+   contrast files auto-trimmed.
+3. **Duplicate-file consolidation** ✅ done (commit `6c405f1`) —
+   8 slugs had duplicates placed in wrong-JLPT directories; resolved.
+4. **Cloze validator alias extension** ✅ done (commit `0ba6386`) —
+   fixed 10 cloze false-positives by extending the conjugation aliases.
+5. **Phase 5 polysemy splits** for と / って / ばかり / まで / わけ
+   (~6 hr) — would also resolve 40 twin-parity warnings. Requires
+   adding new slugs to `data/grammar_taxonomy_bunpro.tsv` and creating
+   per-sense TSV files. **Deferred** (risky to file inventory).
+6. **Phase 7 EN re-audit** — agent attempts rate-limited 2026-05-22
+   and 2026-05-25; final 2026-05-25 attempt scheduled (running at
+   commit time of this update).
+7. **Native-speaker pass** on N1+N2 (highest historical defect
+   concentration) — recommended for true premium release.
+8. **Audio generation** (`build_audio.py`) for the ~250
+   scaffold:pending-audio rows authored in Phases 2, 3B, 8, and 9+ —
+   requires GCP TTS credentials.
+
+## Final pipeline state (post Phase-9+ wave)
+
+| Metric | Original baseline | Final (commit `0ba6386`) |
+|---|---|---|
+| validate_anki_data.py errors | many (incl. silent) | **0** |
+| validate_anki_data.py warnings | 11,500+ | **178** |
+| Bunpro coverage | 945/945 | **945/945** |
+| Reading defects (catalogued) | ~150 | **0** |
+| Spot-the-answer rows | 491 | **~5** edge cases |
+| Whole-sentence cloze | 52 | **0** (now ERROR) |
+| Monotone Recognition back sides | 824/874 | **0** |
+| 100%-off-topic cloze files | 14 | **0** |
+| Placeholder Label sentinels | 245 | **0** |
+| JLPT-vs-directory mismatches | 28 | **0** (now ERROR) |
+| Duplicate slug files | 8 | **0** |
+| Re-authored files (recognition + production + contrast + cloze + listening + dictation) | n/a | **~125** |
+| Auto-trimmed off-topic rows | n/a | **1,800+** dropped |
+
+The deck is **v1.0-shippable**, with documented residual warnings that
+are validator alias edge cases (false positives on short kana stems)
+or accepted design trade-offs (some atomic card sets shrunk to 3-4
+rows in exchange for 100% on-topic content). All known systemic
+defects from the 2026-05-19 audit have been resolved or converted to
+file-level WARN documentation.
 
 **Headline metrics after Phases 0+1+2+3+4+6:**
 

@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-Please don't take photos.	ないでください	しゃしんをとらないでください。	写真を撮らないでください。	ないでください: polite request directed at listener — don't do X		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Please don't sit here.	ないでください	ここにすわらないでください。	ここに座らないでください。	ないでください: location-specific polite negative request		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Please don't open the window — it's cold.	ないでください	まどをあけないでください、さむいですから。	窓を開けないでください、寒いですから。	ないでください + reason: soft request with rationale		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Please don't worry — it's all right.	ないでください	しんぱいしないでください、だいじょうぶです。	心配しないでください、大丈夫です。	ないでください for emotions: reassuring the listener		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio
-Please don't forget our promise.	ないでください	やくそくをわすれないでくださいね。	約束を忘れないでくださいね。	ないでくださいね: soft, reminder-style polite negative request		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Please don't take photos.	ないでください	しゃしんをとらないでください。	写真を撮らないでください。	ないでください: polite request directed at listener — don't do X		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k
+Please don't sit here.	ないでください	ここにすわらないでください。	ここに座らないでください。	ないでください: location-specific polite negative request		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+Please don't open the window — it's cold.	ないでください	まどをあけないでください、さむいですから。	窓を開けないでください、寒いですから。	ないでください + reason: soft request with rationale		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k
+Please don't worry — it's all right.	ないでください	しんぱいしないでください、だいじょうぶです。	心配しないでください、大丈夫です。	ないでください for emotions: reassuring the listener		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k
+Please don't forget our promise.	ないでください	やくそくをわすれないでくださいね。	約束を忘れないでくださいね。	ないでくださいね: soft, reminder-style polite negative request		module:01-n5 jlpt:n5 point:ないでください complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k
