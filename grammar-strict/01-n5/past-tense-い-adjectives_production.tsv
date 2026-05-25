@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-It was cold yesterday.	昨日は寒かったです。	きのうはさむかったです。	昨日は寒かったです。	い-adj past: Adj-い → Adj-かった — standard positive past tense of い-adjective	[sound:73074e6f6525.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top1k complexity:intro
-The movie was interesting.	映画は面白かった。	えいがはおもしろかった。	映画は面白かった。	い-adj past neg: Adj-くなかった — past negative; drop い, add くなかった	[sound:bb466ce30781.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top10k complexity:intro
-The test was difficult.	テストは難しかったです。	てすとはむずかしかったです。	テストは難しかったです。	いい → よかった: irregular past form — stem changes to よ; good → was good	[sound:7fb0042f77b3.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top10k complexity:intro
-The weather was good.	天気はよかった。	てんきはよかった。	天気はよかった。	いい → よくなかった: irregular past neg — よ-stem + くなかった; wasn't good	[sound:35f779615bc8.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top1k complexity:intro
-The trip was fun.	旅行は楽しかった。	りょこうはたのしかった。	旅行は楽しかった。	い-adj past polite: 〜かったです — polite past assertion of i-adjective state	[sound:a2fc72b3c551.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top10k complexity:intro
+It was cold yesterday.	昨日は寒かったです。	きのうはさむかったです。	昨日は寒かったです。	い-adj past: Adj-い → Adj-かった — standard positive past tense of い-adjective	[sound:73074e6f6525.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top1k complexity:intro source:shin-kanzen
+The movie was interesting.	映画は面白かった。	えいがはおもしろかった。	映画は面白かった。	い-adj past neg: Adj-くなかった — past negative; drop い, add くなかった	[sound:bb466ce30781.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top10k complexity:intro source:shin-kanzen
+The test was difficult.	テストは難しかったです。	てすとはむずかしかったです。	テストは難しかったです。	いい → よかった: irregular past form — stem changes to よ; good → was good	[sound:7fb0042f77b3.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top10k complexity:intro source:shin-kanzen
+The weather was good.	天気はよかった。	てんきはよかった。	天気はよかった。	いい → よくなかった: irregular past neg — よ-stem + くなかった; wasn't good	[sound:35f779615bc8.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top1k complexity:intro source:shin-kanzen
+The trip was fun.	旅行は楽しかった。	りょこうはたのしかった。	旅行は楽しかった。	い-adj past polite: 〜かったです — polite past assertion of i-adjective state	[sound:a2fc72b3c551.mp3]	module:01-n5 jlpt:n5 point:past-tense-い-adjectives source:authored frequency:top10k complexity:intro source:shin-kanzen

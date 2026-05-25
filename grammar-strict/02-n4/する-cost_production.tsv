@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-This watch costs thirty thousand yen.	この時計は三万円します。	このとけいはさんまんえんします。	この時計は三万円します。	〜する: costs X — 5万円する = costs 50,000 yen	[sound:13fde5ba3653.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top10k complexity:intro
-That trip will cost quite a lot, won't it?	その旅行はかなりするんじゃないですか。	そのりょこうはかなりするんじゃないですか。	その旅行はかなりするんじゃないですか。	〜する: time cost — 2時間する = takes 2 hours	[sound:ce2abb4cdfdf.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top1k complexity:standard
-Lunch here costs one thousand yen.	ここのランチは千円します。	ここのらんちはせんえんします。	ここのランチは千円します。	〜する: pricing verb — price/duration as subject with する	[sound:6ede18090aa0.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:low complexity:standard
-The repair cost was higher than I thought.	修理代は思ったより高くしました。	しゅうりだいはおもったよりたかくしました。	修理代は思ったより高くしました。	〜する vs かかる: expression style — Nがする vs Nがかかる overlap	[sound:c5c820a621c5.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top10k complexity:standard
-I think this coat costs more than fifty thousand yen.	このコートは五万円以上すると思います。	このこーとはごまんえんいじょうするとおもいます。	このコートは五万円以上すると思います。	する: implicit evaluation — price expressed directly via する	[sound:031074fb0264.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top10k complexity:standard
+This watch costs thirty thousand yen.	この時計は三万円します。	このとけいはさんまんえんします。	この時計は三万円します。	〜する: costs X — 5万円する = costs 50,000 yen	[sound:13fde5ba3653.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top10k complexity:intro source:shin-kanzen
+That trip will cost quite a lot, won't it?	その旅行はかなりするんじゃないですか。	そのりょこうはかなりするんじゃないですか。	その旅行はかなりするんじゃないですか。	〜する: time cost — 2時間する = takes 2 hours	[sound:ce2abb4cdfdf.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top1k complexity:standard source:shin-kanzen
+Lunch here costs one thousand yen.	ここのランチは千円します。	ここのらんちはせんえんします。	ここのランチは千円します。	〜する: pricing verb — price/duration as subject with する	[sound:6ede18090aa0.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:low complexity:standard source:shin-kanzen
+The repair cost was higher than I thought.	修理代は思ったより高くしました。	しゅうりだいはおもったよりたかくしました。	修理代は思ったより高くしました。	〜する vs かかる: expression style — Nがする vs Nがかかる overlap	[sound:c5c820a621c5.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top10k complexity:standard source:shin-kanzen
+I think this coat costs more than fifty thousand yen.	このコートは五万円以上すると思います。	このこーとはごまんえんいじょうするとおもいます。	このコートは五万円以上すると思います。	する: implicit evaluation — price expressed directly via する	[sound:031074fb0264.mp3]	module:02-n4 jlpt:n4 point:する-cost source:authored frequency:top10k complexity:standard source:shin-kanzen

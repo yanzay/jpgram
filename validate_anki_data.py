@@ -383,37 +383,59 @@ def lint_file(path: Path,
         or "[" in slug or "・" in slug or "～" in slug or "(" in slug
         or len(slug) >= 8  # long multi-morpheme slugs
     )
+    # Also treat placeholder slugs ("adj限りだ", "のはxの方だ") as aggregators.
+    if "adj" in slug.lower() or "noun" in slug.lower() or "verb" in slug.lower() \
+       or "x" in slug:
+        is_aggregator = True
     if slug not in _CATEGORY_SLUGS and not is_aggregator and slug:
+        # Hardcoded irregular-verb conjugations: relax MIN for short stems.
+        IRREGULAR = {
+            "くる": {"くる", "きた", "きて", "きます", "き", "こない", "こよう"},
+            "する": {"する", "した", "して", "します", "し", "しない", "しよう"},
+            "ある": {"ある", "あり", "あって", "あった", "あります"},
+        }
         # Build conjugation-aware aliases (mirrors scripts/_phase9_trim).
-        aliases = {slug}
-        MIN = 2
-        for cop in ("だ", "です"):
-            if slug.endswith(cop):
-                bare = slug[:-len(cop)]
+        aliases = set()
+        if slug in IRREGULAR:
+            aliases.update(IRREGULAR[slug])
+        else:
+            aliases.add(slug)
+            MIN = 2
+            def _is_kanji(ch):
+                return "一" <= ch <= "鿿"
+            for cop in ("だ", "です"):
+                if slug.endswith(cop):
+                    bare = slug[:-len(cop)]
+                    if len(bare) >= MIN:
+                        aliases.add(bare)
+            # Strip trailing ない (auxiliary): match both 〜ない and 〜ません.
+            if slug.endswith("ない") and len(slug) >= 4:
+                bare = slug[:-2]
                 if len(bare) >= MIN:
                     aliases.add(bare)
-        if slug.endswith("する"):
-            ren = slug[:-2] + "し"
-            if len(ren) >= MIN:
-                aliases.add(ren)
-        if slug.endswith("くる"):
-            ren = slug[:-2] + "き"
-            if len(ren) >= MIN:
-                aliases.add(ren)
-        if slug and slug[-1] in "うるくぐすつぬむぶ":
-            stem = slug[:-1]
-            if len(stem) >= MIN:
-                aliases.add(stem)
-            renyokei = {"う": "い", "く": "き", "ぐ": "ぎ", "す": "し",
-                        "つ": "ち", "ぬ": "に", "む": "み", "ぶ": "び"}
-            if slug[-1] in renyokei:
-                ren = stem + renyokei[slug[-1]]
+            if slug.endswith("する") and len(slug) > 2:
+                ren = slug[:-2] + "し"
                 if len(ren) >= MIN:
                     aliases.add(ren)
-        if slug.endswith("い") and len(slug) >= 3:
-            stem = slug[:-1]
-            if len(stem) >= MIN:
-                aliases.add(stem)
+            if slug.endswith("くる") and len(slug) > 2:
+                ren = slug[:-2] + "き"
+                if len(ren) >= MIN:
+                    aliases.add(ren)
+            if slug and slug[-1] in "うるくぐすつぬむぶ":
+                stem = slug[:-1]
+                # Allow 1-char kanji stems (high semantic density).
+                if len(stem) >= MIN or (len(stem) == 1 and _is_kanji(stem)):
+                    aliases.add(stem)
+                renyokei = {"う": "い", "く": "き", "ぐ": "ぎ", "す": "し",
+                            "つ": "ち", "ぬ": "に", "む": "み", "ぶ": "び"}
+                if slug[-1] in renyokei:
+                    ren = stem + renyokei[slug[-1]]
+                    if len(ren) >= MIN:
+                        aliases.add(ren)
+            if slug.endswith("い") and len(slug) >= 3:
+                stem = slug[:-1]
+                if len(stem) >= MIN:
+                    aliases.add(stem)
 
         rows_parsed = []
         for ln, raw in data:

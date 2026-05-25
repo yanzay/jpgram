@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-I didn't eat meat yesterday.	昨日は肉を食べなかった。	きのうはにくをたべなかった。	昨日は肉を食べなかった。	る-verb neg-past: stem + なかった — negative past; drop る	[sound:337ed9683153.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:top1k complexity:intro
-I didn't watch the movie.	映画を見なかった。	えいがをみなかった。	映画を見なかった。	る-verb neg-past: 食べる → 食べなかった — e-stem negative past	[sound:26242dc49fb6.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:top1k complexity:intro
-I didn't sleep well last night.	昨夜あまり寝なかった。	さくやあまりねなかった。	昨夜あまり寝なかった。	る-verb neg-past: 見る → 見なかった — i-stem negative past	[sound:ce7b2c884c5f.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:top1k complexity:intro
-I didn't open the bag.	鞄を開けなかった。	かばんをあけなかった。	鞄を開けなかった。	る-verb neg-past: polite: ませんでした — formal past negative	[sound:750d66b2d19d.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored complexity:intro
-I didn't remember his name.	彼の名前を覚えなかった。	かれのなまえをおぼえなかった。	彼の名前を覚えなかった。	る-verb neg-past: completed action negated — did not do	[sound:6a0f7f3f80a2.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:low complexity:intro
+I didn't eat meat yesterday.	昨日は肉を食べなかった。	きのうはにくをたべなかった。	昨日は肉を食べなかった。	る-verb neg-past: stem + なかった — negative past; drop る	[sound:337ed9683153.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:top1k complexity:intro source:shin-kanzen
+I didn't watch the movie.	映画を見なかった。	えいがをみなかった。	映画を見なかった。	る-verb neg-past: 食べる → 食べなかった — e-stem negative past	[sound:26242dc49fb6.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:top1k complexity:intro source:shin-kanzen
+I didn't sleep well last night.	昨夜あまり寝なかった。	さくやあまりねなかった。	昨夜あまり寝なかった。	る-verb neg-past: 見る → 見なかった — i-stem negative past	[sound:ce7b2c884c5f.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:top1k complexity:intro source:shin-kanzen
+I didn't open the bag.	鞄を開けなかった。	かばんをあけなかった。	鞄を開けなかった。	る-verb neg-past: polite: ませんでした — formal past negative	[sound:750d66b2d19d.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored complexity:intro source:shin-kanzen
+I didn't remember his name.	彼の名前を覚えなかった。	かれのなまえをおぼえなかった。	彼の名前を覚えなかった。	る-verb neg-past: completed action negated — did not do	[sound:6a0f7f3f80a2.mp3]	module:01-n5 jlpt:n5 point:る-verb-neg-past source:authored frequency:low complexity:intro source:shin-kanzen

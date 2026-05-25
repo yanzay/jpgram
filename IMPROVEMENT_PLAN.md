@@ -86,6 +86,60 @@ threshold. Until then, the deck is "premium except for these 64
 recognition files"; the build still ships them with the on-topic rows
 that survive the auto-trim.
 
+---
+
+## P9+ — Recognition re-authoring wave (commits `00c9c5a` + this)
+
+After Phase 9 surfaced the slug-drift problem, two follow-up waves
+landed:
+
+1. **Trim 27 files** with ≥3 on-topic rows (commit `00c9c5a`): kept
+   only the on-topic rows, accepting smaller card sets (3-4 rows) in
+   exchange for 100%-on-point content. ~110 off-topic rows dropped.
+
+2. **Re-author 37 files** with 0-2 on-topic rows (this commit): wrote
+   5 fresh on-point Recognition rows for each, with per-row varying
+   MainUse + QuickCue, file-level Label/Formula/Contrast, and
+   scaffold:pending-audio in tags. Total: 185 new rows of authored
+   Japanese with metadata.
+
+Files re-authored — N5 (5): くる, する, てはいけない, ないでください,
+なくてはいけない. N4 (8): かもしれない, がる, たところだ, ていた,
+ときいた, なければならない, にみえる, 化する. N3 (11): あり, こそ,
+てもかまわない, に取って, のはxの方だ, の姿, の間に, 切る, 合う.
+N2 (5): が気になる, とも, に応じて, に沿って, 抜く. N1 (10): adj限りだ,
+ても差し支えない, であれ, とばかり, ならばいざ知らず, なりに, に即して,
+びる, ものと思う, んばかりに.
+
+Validator's slug-match alias generator extended for irregular カ変/サ変
+verbs (くる/する/ある), ない-ending auxiliaries (てはいけない →
+also matches てはいけません), 1-char kanji stems (切る → 切),
+placeholder-containing slugs treated as aggregators.
+
+**Residual after P9+**: 244 warnings (down from baseline 11,500+):
+- 117 slug-drift (mostly production-side files paired with re-authored
+  recognitions; a follow-on Production wave would close these)
+- 59 cloze-off-topic (in non-critical 01-n5/いい_cloze and onomatopoeia)
+- 54 twin-parity (Production-Recognition row count imbalance — Phase 5
+  polysemy splits would address)
+- 14 other (back-side-collapse on a few small files, sokuon, etc.)
+
+The remaining 244 are documentation, not blockers. The validator
+enforces ≥80% slug-match on each new file authored from this point
+forward, so regressions are caught at commit time.
+
+**Still pending for true v1.0 release:**
+1. **Production-side re-authoring** for the same 64 slugs (~57 hr
+   estimated, similar scope to the Recognition wave).
+2. **Phase 5 polysemy splits** for と / って / ばかり / まで / わけ
+   (~6 hr) — would also resolve 30+ twin-parity warnings.
+3. **Phase 7 EN re-audit** — agent attempts rate-limited 2026-05-22
+   and 2026-05-25; re-try when API quota allows.
+4. **Native-speaker pass** on N1+N2 (highest historical defect
+   concentration).
+5. **Audio generation** (`build_audio.py`) for the ~250 scaffold:pending-audio
+   rows authored in Phases 2, 3B, 8, and 9+.
+
 **Headline metrics after Phases 0+1+2+3+4+6:**
 
 - 0 errors, 263 warnings (down from baseline 11,500+ when warnings

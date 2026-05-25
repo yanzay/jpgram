@@ -4,11 +4,11 @@
 #notetype:Dictation
 #deck:Japanese Grammar::01 - N5 Grammar::Dictation
 
-[sound:28f2b985b243.mp3]	えぐい、そのゲーム。	えぐい、そのゲーム。	えぐい、そのげーむ。	That game is intense.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5
-[sound:daad27b12e08.mp3]	えぐいやん、マジ___。	えぐいやん、マジで。	えぐいやん、まじで。	That's seriously intense.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5
-[sound:89db8feb6247.mp3]	それな、わかるわ。	それな、わかるわ。	それな、わかるわ。	That's so true, I get it.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5
-[sound:832df564fabe.mp3]	まじ、ウケる。	まじ、ウケる。	まじ、ウケる。	That's seriously funny.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5
-[sound:5e40896b49ed.mp3]	チル、いいよね。	チル、いいよね。	ちる、いいよね。	Chill vibes are nice.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5
-[sound:aeaeef366b4d.mp3]	ヤバい、その見た目。	ヤバい、その見た目。	やばい、そのみため。	Dude, that look is wild.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5
-[sound:700b0984cc29.mp3]	ポシャったよ、計画。	ポシャったよ、計画。	ぽしゃったよ、けいかく。	The plan fell apart.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top5k source:tofugu jlpt:n5
-[sound:7bad2f7bcdda.mp3]	バエる写真撮ろう。	バエる写真撮ろう。	ばえるしゃしんとろう。	Let's take Insta-worthy shots.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5
+[sound:28f2b985b243.mp3]	えぐい、そのゲーム。	えぐい、そのゲーム。	えぐい、そのげーむ。	That game is intense.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top10k source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:daad27b12e08.mp3]	えぐいやん、マジ___。	えぐいやん、マジで。	えぐいやん、まじで。	That's seriously intense.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:89db8feb6247.mp3]	それな、わかるわ。	それな、わかるわ。	それな、わかるわ。	That's so true, I get it.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:832df564fabe.mp3]	まじ、ウケる。	まじ、ウケる。	まじ、ウケる。	That's seriously funny.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:5e40896b49ed.mp3]	チル、いいよね。	チル、いいよね。	ちる、いいよね。	Chill vibes are nice.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:aeaeef366b4d.mp3]	ヤバい、その見た目。	ヤバい、その見た目。	やばい、そのみため。	Dude, that look is wild.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:700b0984cc29.mp3]	ポシャったよ、計画。	ポシャったよ、計画。	ぽしゃったよ、けいかく。	The plan fell apart.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top5k source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
+[sound:7bad2f7bcdda.mp3]	バエる写真撮ろう。	バエる写真撮ろう。	ばえるしゃしんとろう。	Let's take Insta-worthy shots.	register:slang domain:gen-z module:01-n5 point:それ complexity:intro frequency:top1k source:tofugu jlpt:n5 source:shin-kanzen complexity:standard
