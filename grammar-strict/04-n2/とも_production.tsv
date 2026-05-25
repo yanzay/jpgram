@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::04 - N2 Grammar::Production
 
-No matter what happens, I won't give up.	とも	なにがおころうとも、わたしはあきらめない。	何が起ころうとも、私は諦めない。	Verb-volitional + とも: emphatic concessive		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low
-However hard it is, one should continue.	とも	どんなにつらくとも、つづけるべきだ。	どんなに辛くとも、続けるべきだ。	Adj-く + とも: granting an extreme — even then…		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k
-Even if it's far, I will surely go.	とも	とおかろうとも、かならずいきます。	遠かろうとも、必ず行きます。	Adj-かろう + とも: granting an inconvenience		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
-Even if you fail, it's important to challenge yourself.	とも	しっぱいしようとも、ちょうせんすることがたいせつだ。	失敗しようとも、挑戦することが大切だ。	Verb-volitional + とも: granting a feared outcome		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
-Although I know you are busy, please reply.	とも	おいそがしいともぞんじますが、ごへんとうください。	お忙しいとも存じますが、ご返答ください。	Adj + とも: formal-letter concessive (とも存じます)		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:low
+No matter what happens, I won't give up.	とも	なにがおころうとも、わたしはあきらめない。	何が起ころうとも、私は諦めない。	Verb-volitional + とも: emphatic concessive		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio
+However hard it is, one should continue.	とも	どんなにつらくとも、つづけるべきだ。	どんなに辛くとも、続けるべきだ。	Adj-く + とも: granting an extreme — even then…		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Even if it's far, I will surely go.	とも	とおかろうとも、かならずいきます。	遠かろうとも、必ず行きます。	Adj-かろう + とも: granting an inconvenience		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Even if you fail, it's important to challenge yourself.	とも	しっぱいしようとも、ちょうせんすることがたいせつだ。	失敗しようとも、挑戦することが大切だ。	Verb-volitional + とも: granting a feared outcome		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Although I know you are busy, please reply.	とも	おいそがしいともぞんじますが、ごへんとうください。	お忙しいとも存じますが、ご返答ください。	Adj + とも: formal-letter concessive (とも存じます)		module:04-n2 jlpt:n2 point:とも complexity:standard source:authored frequency:top10k scaffold:pending-audio

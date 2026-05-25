@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::02 - N4 Grammar::Production
 
-I heard that he's sick.	ときいた	かれがびょうきだときいた。	彼が病気だと聞いた。	と聞いた: speaker received the information from someone		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top5k complexity:intro
-I heard that the meeting was cancelled.	ときいた	かいぎはちゅうしになったとききました。	会議は中止になったと聞きました。	と聞きました: formal report of received information		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
-I heard from the manager that tomorrow is a day off.	ときいた	てんちょうから、あしたはやすみだときいた。	店長から、明日は休みだと聞いた。	から + と聞いた: information source named explicitly		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen frequency:top1k
-I had heard the exam was next week, but it's been changed.	ときいた	しけんはらいしゅうだときいていたが、へんこうになった。	試験は来週だと聞いていたが、変更になった。	と聞いていた: previously held belief from hearsay		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
-Through rumour, I heard he got married.	ときいた	うわさで、かれがけっこんしたときいた。	噂で、彼が結婚したと聞いた。	噂で + と聞いた: hearsay via informal channels		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
+I heard that he's sick.	ときいた	かれがびょうきだときいた。	彼が病気だと聞いた。	と聞いた: speaker received the information from someone		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio
+I heard that the meeting was cancelled.	ときいた	かいぎはちゅうしになったとききました。	会議は中止になったと聞きました。	と聞きました: formal report of received information		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio
+I heard from the manager that tomorrow is a day off.	ときいた	てんちょうから、あしたはやすみだときいた。	店長から、明日は休みだと聞いた。	から + と聞いた: information source named explicitly		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio
+I had heard the exam was next week, but it's been changed.	ときいた	しけんはらいしゅうだときいていたが、へんこうになった。	試験は来週だと聞いていたが、変更になった。	と聞いていた: previously held belief from hearsay		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio
+Through rumour, I heard he got married.	ときいた	うわさで、かれがけっこんしたときいた。	噂で、彼が結婚したと聞いた。	噂で + と聞いた: hearsay via informal channels		module:02-n4 jlpt:n4 point:ときいた complexity:standard source:authored frequency:top10k scaffold:pending-audio

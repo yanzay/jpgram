@@ -4,11 +4,11 @@
 #notetype:Dictation
 #deck:Japanese Grammar::13 - L1 Interference::Dictation
 
-[sound:dde69ffca21a.mp3]	学校___います	学校にいます	がっこうにいます	I am at school (location)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram complexity:standard
-[sound:ae940f4b97d3.mp3]	学校___勉強します	学校で勉強します	がっこうでべんきょうします	I study at school (action context)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram complexity:standard
-[sound:f13584798bce.mp3]	図書館___います	図書館にいます	としょかんにいます	I am in the library (being there)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram complexity:standard
-[sound:84e88bf5a74c.mp3]	図書館で本___読みます	図書館で本を読みます	としょかんでほんをよみます	I read a book in the library (action)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:3c1c106a15b7.mp3]	電車___行きます	電車で行きます	でんしゃでいきます	I go by train (means)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:985f578e286b.mp3]	東京へ行きます	東京へ行きます	とうきょうへいきます	I go to Tokyo (destination)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:ccccd266c70b.mp3]	田中さん___会いました	田中さんに会いました	たなかさんにあいました	I met Tanaka (target)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram complexity:standard
-[sound:a0b43a304215.mp3]	田中さん___会いました	田中さんと会いました	たなかさんとあいました	I met with Tanaka (together)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram complexity:standard
+[sound:dde69ffca21a.mp3]	学校___います	学校にいます	がっこうにいます	I am at school (location)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram
+[sound:ae940f4b97d3.mp3]	学校___勉強します	学校で勉強します	がっこうでべんきょうします	I study at school (action context)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram
+[sound:f13584798bce.mp3]	図書館___います	図書館にいます	としょかんにいます	I am in the library (being there)	module:13-l1 point:l1-particles-overlap frequency:top1k complexity:intro source:curated-jpgram
+[sound:84e88bf5a74c.mp3]	図書館で本___読みます	図書館で本を読みます	としょかんでほんをよみます	I read a book in the library (action)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram
+[sound:3c1c106a15b7.mp3]	電車___行きます	電車で行きます	でんしゃでいきます	I go by train (means)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram
+[sound:985f578e286b.mp3]	東京へ行きます	東京へ行きます	とうきょうへいきます	I go to Tokyo (destination)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram
+[sound:ccccd266c70b.mp3]	田中さん___会いました	田中さんに会いました	たなかさんにあいました	I met Tanaka (target)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram
+[sound:a0b43a304215.mp3]	田中さん___会いました	田中さんと会いました	たなかさんとあいました	I met with Tanaka (together)	module:13-l1 point:l1-particles-overlap frequency:top10k complexity:intro source:curated-jpgram

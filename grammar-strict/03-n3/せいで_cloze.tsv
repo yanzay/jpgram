@@ -4,8 +4,8 @@
 #notetype:Cloze
 #deck:Japanese Grammar::03 - N3 Grammar::Cloze
 
-雨の{{c1::せいで}}、試合が中止になった。	あめの{{c1::せいで}}、しあいがちゅうしになった。	negative cause — weather		module:03-n3 jlpt:n3 point:せいで complexity:intro source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen complexity:standard
-彼の{{c1::せいで}}失敗した。	かれの{{c1::せいで}}しっぱいした。	negative cause — blaming someone		module:03-n3 jlpt:n3 point:せいで complexity:intro source:authored frequency:top5k scaffold:pending-audio source:shin-kanzen
-寝坊した{{c1::せいで}}、遅刻してしまった。	ねぼうした{{c1::せいで}}、ちこくしてしまった。	negative cause — own fault		module:03-n3 jlpt:n3 point:せいで complexity:standard source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
-暑さの{{c1::せいで}}、食欲がない。	あつさの{{c1::せいで}}、しょくよくがない。	negative cause — discomfort		module:03-n3 jlpt:n3 point:せいで complexity:intro source:authored frequency:top10k scaffold:pending-audio source:shin-kanzen
-自分の{{c1::せいで}}、誰にも頼れない。	じぶんの{{c1::せいで}}、だれにもたよれない。	negative cause — self-blame		module:03-n3 jlpt:n3 point:せいで complexity:standard source:authored frequency:low scaffold:pending-audio source:shin-kanzen frequency:top1k complexity:intro
+雨の{{c1::せいで}}、試合が中止になった。	あめの{{c1::せいで}}、しあいがちゅうしになった。	negative cause — weather		module:03-n3 jlpt:n3 point:せいで complexity:intro source:authored frequency:top10k scaffold:pending-audio
+彼の{{c1::せいで}}失敗した。	かれの{{c1::せいで}}しっぱいした。	negative cause — blaming someone		module:03-n3 jlpt:n3 point:せいで complexity:intro source:authored frequency:top5k scaffold:pending-audio
+寝坊した{{c1::せいで}}、遅刻してしまった。	ねぼうした{{c1::せいで}}、ちこくしてしまった。	negative cause — own fault		module:03-n3 jlpt:n3 point:せいで complexity:standard source:authored frequency:top10k scaffold:pending-audio
+暑さの{{c1::せいで}}、食欲がない。	あつさの{{c1::せいで}}、しょくよくがない。	negative cause — discomfort		module:03-n3 jlpt:n3 point:せいで complexity:intro source:authored frequency:top10k scaffold:pending-audio
+自分の{{c1::せいで}}、誰にも頼れない。	じぶんの{{c1::せいで}}、だれにもたよれない。	negative cause — self-blame		module:03-n3 jlpt:n3 point:せいで complexity:standard source:authored frequency:low scaffold:pending-audio
