@@ -129,14 +129,6 @@
       "sha256": "8fea230ca6444eddbe94ce87a6d26d26d3c517a0a6a3be8d7f6cad9ce730f269",
       "size": 19008
     },
-    "00a147a9a72f": {
-      "text": "季節の変化に伴って、服装も変わる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5a252f9b2109301d585af2ab746984630324538a87549a2a5c9f7318459efc76",
-      "size": 28032
-    },
     "00ac5850db89": {
       "text": "来月から会議に参加することができます。",
       "voice": "ja-JP-Neural2-B",
@@ -545,14 +537,6 @@
       "sha256": "e3d45a989dda79402a2fb33f591503866c0ea12607aaaf7430a9d4975a9293aa",
       "size": 36864
     },
-    "02c52cf0d6fe": {
-      "text": "水だけ飲みました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f100ee55d91076042bee7af78a81a81c5dfd705401984e5d73724bb264e6df08",
-      "size": 13632
-    },
     "02c6d5ae16f9": {
       "text": "規則に反した行動は厳しく罰せられる。",
       "voice": "ja-JP-Neural2-B",
@@ -777,14 +761,6 @@
       "sha256": "35fb08cee7165d67948f7735b9a5d572a43c677580007b1200f52c4164d8f5d2",
       "size": 18816
     },
-    "03f14588e70f": {
-      "text": "増えつつも、足りない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "16f1f45f9e03bfc7256c2593babca0d27c771796a66001c165b5448d4a0a1ac0",
-      "size": 15936
-    },
     "03f65015f9e6": {
       "text": "忙しい",
       "voice": "ja-JP-Neural2-B",
@@ -873,14 +849,6 @@
       "sha256": "39b2e55fa2fa9601aafac3c8c4184aefe6d356ce8d4d1a7dd78e02828797b369",
       "size": 34560
     },
-    "04306ae2e9c6": {
-      "text": "彼女がいるかいないか分からない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d445c3ab37e0ddd32329e6efef030f48029ad961291673fb6f792419f7ec8d05",
-      "size": 19776
-    },
     "04368f628f3c": {
       "text": "絹がツルツルだ",
       "voice": "ja-JP-Neural2-B",
@@ -928,22 +896,6 @@
       "lang": "ja-JP",
       "sha256": "59dcce0864452a386b9e61c33ca0ff666b2117770e2de450960272a93eaeb23c",
       "size": 26304
-    },
-    "047298186453": {
-      "text": "経済が停滞気味というふうな状況だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0f1ac14a830b8fd964e1b45d3eb2f62d6dbc5dfb3fd8ff9500151ac8f6b8c8e6",
-      "size": 26688
-    },
-    "047c83e1a40e": {
-      "text": "彼は気が狂ったとばかりに走り去った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "794fdd3024346cb8798f91a7ff189321b05e13bd22a7912078993b6f04bb570a",
-      "size": 26112
     },
     "0487d7961072": {
       "text": "失敗しても、次に活かせばいい。",
@@ -1033,14 +985,6 @@
       "sha256": "cfd94d27454717d0616c69d4830e2fdfbb4224546bd77c2937543aab52b8a763",
       "size": 37248
     },
-    "04e3ee0cad37": {
-      "text": "仕事が大変で、休みたくてしかたがない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "66e7bc84d7492f021505e38914669dafc2841c1282dae136708ed0b689d2a741",
-      "size": 28416
-    },
     "04e619bddcf0": {
       "text": "鳥みたいに空を飛びたい。",
       "voice": "ja-JP-Neural2-B",
@@ -1073,14 +1017,6 @@
       "sha256": "524fd812dd9a6d88ee951682ae9ccda34cbfc8d28204b0e406e3bbbfacaf34fa",
       "size": 18816
     },
-    "050a41a1de8c": {
-      "text": "歩くにつれ、景色が変わっていった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "bb8f65ee7fc3d51af9cf8b9839f2ee27a7810e745f512988ad0e584613dc33e4",
-      "size": 23616
-    },
     "0514a3a9315e": {
       "text": "列車がちょうど発車するところだ。",
       "voice": "ja-JP-Neural2-B",
@@ -1112,14 +1048,6 @@
       "lang": "ja-JP",
       "sha256": "57572ec706c7cb68876c4a6e4ee658b9152eb7826fc8af3257f9ec15d27b0068",
       "size": 24000
-    },
-    "052a1a45a135": {
-      "text": "この計画が失敗したというのは、計算ミスだった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "aa439ea0c3f466ba3c65450f47ccb193d2f5f7c0b4e05f127b8bc05a29fe8b21",
-      "size": 35712
     },
     "0530ae485784": {
       "text": "嫌いなわけではないが、特別好きでもない。",
@@ -1241,14 +1169,6 @@
       "sha256": "834b671473189f1d5c0de4e56843332e940f3e4b9e15a215d0d50582b5a7ad6b",
       "size": 25728
     },
-    "05a85d472cf0": {
-      "text": "日本語を少ししか話せない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1ae229642b43018a182b182b94b6936df1816c75b245ef7519d712895ae59fb4",
-      "size": 21312
-    },
     "05b550e48031": {
       "text": "この法律に関して、複数の見解がある。",
       "voice": "ja-JP-Neural2-B",
@@ -1312,14 +1232,6 @@
       "lang": "ja-JP",
       "sha256": "aa9841eedab33a94d986d24a41f31191fcf55b11f1a6fed78366d38097334d46",
       "size": 21888
-    },
-    "060230268430": {
-      "text": "その方針を押し通した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d4a976329ffc49ca9e6fb78679d422436c68a6cfe950a36178b8954126482175",
-      "size": 18048
     },
     "0608e6445ef9": {
       "text": "上司が出張中なのをいいことに、さぼってしまった。",
@@ -1480,14 +1392,6 @@
       "lang": "ja-JP",
       "sha256": "35828da1ef109639d4a1ff8031e166f5da51d9b3265ec099032cdd425eafa9e8",
       "size": 29376
-    },
-    "06616f71ce6d": {
-      "text": "私だけがこの秘密を知っています。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "74187e6780089bac6999fff345ebe2b7915dccba8eb7ce8d7b5a98d9c47e0fcb",
-      "size": 22848
     },
     "0668fce936eb": {
       "text": "隣の部屋から音楽が聞こえます。",
@@ -1865,14 +1769,6 @@
       "sha256": "3e8d24f30d35bc83627d88afa8378c8f73932ae74dca5227d93468b60239afe0",
       "size": 21888
     },
-    "07d88eba9ab4": {
-      "text": "いただけるでしょうか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "48dade9bbf9b76c024244583d0ad9bf7a38dbf42723591ae736437a0e77d1b95",
-      "size": 12864
-    },
     "07f6725cb5d2": {
       "text": "親が不在なのをいいことに、夜中まで遊んでいた。",
       "voice": "ja-JP-Neural2-B",
@@ -2129,14 +2025,6 @@
       "sha256": "cc185eb64480a83ad5ebd68fa4cc5160d4caa63b10c5bb022c88f3a66b19276c",
       "size": 23232
     },
-    "09311b90257b": {
-      "text": "誰がそれをしたか知っていますか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9468cba97946d3c716ec8679fd326b9f49da20fcf62b401af29963349c94e4ec",
-      "size": 23040
-    },
     "0937af2595f3": {
       "text": "歩くはおろか、立つことさえできなかった。",
       "voice": "ja-JP-Neural2-B",
@@ -2265,14 +2153,6 @@
       "sha256": "8950a7f9ff3ddf33d4f73f6b23a41725aafc6889c2d2e2ff80f3e6e93562dc80",
       "size": 29184
     },
-    "09a014216a6c": {
-      "text": "目標に向かって走り続けた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "339087b1483130242b3cbfc571db7553b7973d2b9a7dc4660773eb70bfd6a2ca",
-      "size": 22080
-    },
     "09a4e55227fc": {
       "text": "子供ならではの純粋な発想に驚かされた。",
       "voice": "ja-JP-Neural2-B",
@@ -2328,14 +2208,6 @@
       "lang": "ja-JP",
       "sha256": "4a6d9debb0ca1ee44791e9ab5095a8858e7269fa8c2d8e50e97841d0e0190133",
       "size": 30144
-    },
-    "09f462c54f40": {
-      "text": "子どもまでが笑った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "3a1afec38fda34ead5a47caad1aa3bf375a2c07a1ea3c6d895423ec0c614432a",
-      "size": 14592
     },
     "0a0238a217ee": {
       "text": "いつの間にかこのカフェのヘビーユーザーになっていた。",
@@ -2440,14 +2312,6 @@
       "lang": "ja-JP",
       "sha256": "27d2674244467ea7b8d169c96962aa617d91a47d31ebddb95e24a02b32bac000",
       "size": 34752
-    },
-    "0aa26292a663": {
-      "text": "食べ物が美味しくて、止められない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0133592f439c31ab974ca7fe5845ea69de08c198be0ffeb884519229e7466fc8",
-      "size": 21504
     },
     "0aa475aefd72": {
       "text": "噂で、彼が結婚したと聞いた。",
@@ -2584,14 +2448,6 @@
       "lang": "ja-JP",
       "sha256": "4aef19c240391f666fe61137c5b0694465a37ce67bbc69ccc253095313f4c9c2",
       "size": 24192
-    },
-    "0b3d3f93b134": {
-      "text": "年を重ねるとともに、知恵も増す。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "95f2f3d67c5e73cde500380e66d18d1cf0328420defbb61463e617135d17db18",
-      "size": 24384
     },
     "0b3dc3337c4e": {
       "text": "説明を聞いてからでないと、判断できない。",
@@ -2969,22 +2825,6 @@
       "sha256": "40b6770b3d8e2e73f34d325673f277d4b08bbe9a947071b9135b87c79ece8708",
       "size": 20352
     },
-    "0cca7c2ef20a": {
-      "text": "一時間しか勉強できませんでした。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "7c29f43a430c6c74d960b4eb79d2995e4ef930a00d44c7b29adf4d78e2dd1d01",
-      "size": 23232
-    },
-    "0cd31e44ccd2": {
-      "text": "盛りの頃、人気があった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f6d053e28650844bd632741367b6c9794fcaf81d4f5d921405b4ef7fa9bdb09b",
-      "size": 20160
-    },
     "0cd7e21702e0": {
       "text": "そろそろ寝なきゃ。",
       "voice": "ja-JP-Neural2-B",
@@ -3064,22 +2904,6 @@
       "lang": "ja-JP",
       "sha256": "f5aac9f4e88dcece32e79c3a23a0f3ef86df07e3ef49fc959af41bd809e1c962",
       "size": 48000
-    },
-    "0d2009d9645c": {
-      "text": "彼の頭の良さは、驚かずにはいられない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "589127579d68e7125327ffc18f251895cd5a92f51164ac16be583f52fb5e468c",
-      "size": 31488
-    },
-    "0d302fdffe5c": {
-      "text": "この方法しか解決策がない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d8df0d7e37220f6f60cd8677c133e344579a3abdcd3036a65251d57e26f0f72e",
-      "size": 22848
     },
     "0d3512d7f97d": {
       "text": "本は面白いです。",
@@ -3225,14 +3049,6 @@
       "sha256": "0ebc551feb0c3bf1f707e109f830f837c4d369fca219aa07719a33ad2ad51306",
       "size": 21504
     },
-    "0dc29749ecba": {
-      "text": "彼女の行動は理解できず、戸惑ってしようがない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8a311673810eb5281426773bee947ddfdfea47432d5b4ae18164e7d455b4363c",
-      "size": 35712
-    },
     "0dd060de8ba9": {
       "text": "早くしてってば！",
       "voice": "ja-JP-Neural2-B",
@@ -3264,14 +3080,6 @@
       "lang": "ja-JP",
       "sha256": "8ad5f0f7018c80fcfc142a4949f07f8960ec33f34ccd89b66cecc56604afa833",
       "size": 24960
-    },
-    "0de79ad52630": {
-      "text": "英語にしろ、日本語にしろ、練習が大切だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "40c9f5c1079de6f7bb577c1e7194929a87842fa9954e6f4312f829032a27e022",
-      "size": 36672
     },
     "0de7f374c0ae": {
       "text": "どうやってこれをしますか？",
@@ -3905,14 +3713,6 @@
       "sha256": "4d5094b47b287d797dcc42b4f865729f14f289760773aba37998c14f47076832",
       "size": 24576
     },
-    "10dedbbdf9a8": {
-      "text": "彼がそこにいるよもやあるまい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4d5a601941d37ea73da67b49a9e42c3662fa40c74ea952d6bbf2af97cbaa2fb3",
-      "size": 19968
-    },
     "10e08de53ef1": {
       "text": "こんな素晴らしい景色は初めて見ました。",
       "voice": "ja-JP-Neural2-B",
@@ -3936,14 +3736,6 @@
       "lang": "ja-JP",
       "sha256": "8be2e82f8324514cdbaff51005202c43c2434a6aca06c613ceb5451fd8a46470",
       "size": 26880
-    },
-    "10ea3d713196": {
-      "text": "試験に落ちたわけを知りたい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "56b90af87d3d1fa87b8d69a418f30579b3c1c3f90ae282d025349ac0465a2dcf",
-      "size": 19968
     },
     "10fa706a0886": {
       "text": "新型が発売されたということもあって、旧製品の在庫が減った。",
@@ -4465,14 +4257,6 @@
       "sha256": "e3337b604880f50a5718fce22ef29702a167c2211c9400f0fc7a806d2df325e9",
       "size": 30720
     },
-    "1311e772ede6": {
-      "text": "時間が経つにつれ、状況は悪化していった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "35b3b242bf98fc6955b1ecdd3cc8512790c6f007b348d1ebfff555c57beb3bad",
-      "size": 32256
-    },
     "1315988004bc": {
       "text": "音楽を聴きながら、勉強する。vs 音楽を聴きながらも、集中できる。",
       "voice": "ja-JP-Neural2-B",
@@ -4504,14 +4288,6 @@
       "lang": "ja-JP",
       "sha256": "2dfe2590f5521e4e338141b7ef5215bc2c2b1e0800ea0e48073fc540c3adcd24",
       "size": 29760
-    },
-    "13458581dc06": {
-      "text": "任務を完璧に遂行し抜いた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "07547d71822c1c98c4230db53187f85cfbb1adc9116ff74bbd5761001a9020c9",
-      "size": 22272
     },
     "135b2f2ee7c4": {
       "text": "宿題をしたあとで、テレビを見ます。",
@@ -4600,22 +4376,6 @@
       "lang": "ja-JP",
       "sha256": "6ae0cc53ba8fbb8e63e52d0bffcc18e70db89599e9a86c12ca8eece9e3275e70",
       "size": 37632
-    },
-    "13c7721c09bc": {
-      "text": "わけのわからない理由で、辞めてしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "16796af05b700e2baa285eaea4e843f0fe3c210d016c1366c2273715ad1dbbac",
-      "size": 25728
-    },
-    "13c91772f739": {
-      "text": "その結果、売上が倍増した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9ebe082b2ad93ea09890fd496a49fdc30f978fad6cb9a79a0fe6665a90d8ff5e",
-      "size": 23424
     },
     "13cb2e2d33c8": {
       "text": "ガイドラインに沿って作業を進めます。",
@@ -4768,14 +4528,6 @@
       "lang": "ja-JP",
       "sha256": "2d557c64ccd860a0bb11627c17bddbe1105b3031aece6ebe92c159d7d0683a3d",
       "size": 27264
-    },
-    "149ed35b79f8": {
-      "text": "どのくらい続くか不明だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "efa34cc6ec50cc4ceb1044b16b6180809c7568835dbbacaa47e8c9246623d6c8",
-      "size": 18432
     },
     "149f7bb2778c": {
       "text": "彼は荷物を持って出ていった。（移動の方向）",
@@ -4961,14 +4713,6 @@
       "sha256": "40ac458def9b790bd3098deb6d7131d1ac86e30174825c770c1ac33b7335e619",
       "size": 20544
     },
-    "157a75721e06": {
-      "text": "責務を全力で尽くす心構えだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "3d1fcf5932ac7bf94e29d8336a256a8084e5558843a6bd6c10fa80e06f9d1fa8",
-      "size": 25152
-    },
     "15901a60a347": {
       "text": "ク",
       "voice": "ja-JP-Neural2-B",
@@ -5145,14 +4889,6 @@
       "sha256": "14a9636adcb4c55f234dfe48e6d41472d2fbe071f22c34054d27786d0e2ba7da",
       "size": 39936
     },
-    "160c2e3c7e5f": {
-      "text": "難関資格をやり遂げるのが目標だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9dae56795bd00387a82345d91cd5d5c1042bf02442d821358167d0c3acf094d6",
-      "size": 25728
-    },
     "1622d6eb017a": {
       "text": "忘れられるものなら、忘れてしまいたい。",
       "voice": "ja-JP-Neural2-B",
@@ -5232,6 +4968,22 @@
       "lang": "ja-JP",
       "sha256": "7daf6f1397cc63caf2321ea0aedf7c83b355ce9676efe38d3db1a081af87a810",
       "size": 39552
+    },
+    "169bad96d890": {
+      "text": "日本語の勉強を始めたばかりだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "0c15910c44ac3ac27284f3e429a3061aed375d36c2c5e2d39abc227c384fd47a",
+      "size": 23232
+    },
+    "16a8a7326084": {
+      "text": "それは違います。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "f5a1238d9c2bea6d203469e2da49b8cc2a845e198e3bd43020f84a4432523918",
+      "size": 12096
     },
     "16acbbb2827e": {
       "text": "彼女の言葉も又、私の心に深く残っている。",
@@ -5513,14 +5265,6 @@
       "sha256": "ecf7a3b5a4dc8bf68779acfaaf8d233fea57ea1e14edabd8586027c292efa4f6",
       "size": 19584
     },
-    "17d4e2c1ca84": {
-      "text": "どちらにしろ、今日は休みだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "343fbf17f02dbf20b086018f36de400392c0597ce7204f164331df0a6ac8c337",
-      "size": 21120
-    },
     "17de00098c87": {
       "text": "ドアを開けると、寒い風が入ってきた。",
       "voice": "ja-JP-Neural2-B",
@@ -5665,14 +5409,6 @@
       "sha256": "63b1fd4f8202834691c7cda2722eab364039fdbbab588645908e2711baca8adb",
       "size": 24000
     },
-    "189dd662c410": {
-      "text": "諦めるしかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a011e2425ee4f6f911f898dfea44975e9516c2ef68bdf91fae9ccbfad0412b99",
-      "size": 12096
-    },
     "18b9e8285ee5": {
       "text": "朝寝坊することがある。",
       "voice": "ja-JP-Neural2-B",
@@ -5752,14 +5488,6 @@
       "lang": "ja-JP",
       "sha256": "2feed6d8e1fd2387a5cae658641b891347418ba1f3bfed13f0d2112db5c1defc",
       "size": 21696
-    },
-    "1931d039c228": {
-      "text": "年の割に、元気だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "603d0b9b1a85fb54eebe97dae7c3e9ab763e456edb82ddd08c4259d1f6f99da7",
-      "size": 17472
     },
     "194ad1020a40": {
       "text": "彼女は泣き出さんばかりに顔を歪めた。",
@@ -6121,14 +5849,6 @@
       "sha256": "628824f265e63872cdc9aba392727362b535bd03176431112c31a894a862aedd",
       "size": 18432
     },
-    "1ab24d7b5473": {
-      "text": "文法だけを勉強した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1491e030f334bd79a11823ea66ca57c492a671199589b97387b7c8b683e9eda5",
-      "size": 18432
-    },
     "1ab49d212327": {
       "text": "彼女との出会いがきっかけで、日本語を始めた。",
       "voice": "ja-JP-Neural2-B",
@@ -6360,14 +6080,6 @@
       "lang": "ja-JP",
       "sha256": "cf7e9ab34b88c9d323d4a01cf3a0fff863748eeda44a232bb0ed15033028d411",
       "size": 24192
-    },
-    "1b713ab00323": {
-      "text": "勝ったとばかりに喜びを表現した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "87e3d82679d270e674e09e345590b5aa672744bc92ea83eab86e12632716fbac",
-      "size": 24384
     },
     "1b725805f766": {
       "text": "京都に行くなら、清水寺は外せません。",
@@ -6937,14 +6649,6 @@
       "sha256": "6c2ad1b1e084e8fc6ed39f3af94f36ccff45fc31f63fd6a71bfc5b6bddd51932",
       "size": 38208
     },
-    "1e763e285fe9": {
-      "text": "彼がそんなことをするよもやあるまい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "94e5fe50410de97b5c8226bce502deeca1986793b24e3f1ee25ee7f5e04cb031",
-      "size": 23232
-    },
     "1e823f3f891b": {
       "text": "そよそよ",
       "voice": "ja-JP-Neural2-B",
@@ -7025,14 +6729,6 @@
       "sha256": "609f48c6b94b680a2a0598aa69882a91b542d42cdca28aa55408a70d943d5f68",
       "size": 25728
     },
-    "1ec87aecf8b3": {
-      "text": "子どもだけに、注意が必要。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f47b282aa964aa1cfc1446c12d8c17c07c199589c4b74dde5e0c146ad62c1a65",
-      "size": 21888
-    },
     "1ed6f267032e": {
       "text": "今学期を限りに、教壇を離れることにした。",
       "voice": "ja-JP-Neural2-B",
@@ -7073,14 +6769,6 @@
       "sha256": "a18ff2b8237d169b56c6fcabd5b24b2d6271cdf1db4259f81a80a71d9e3800cc",
       "size": 20544
     },
-    "1f03383a6d5d": {
-      "text": "忙しいので、やむを得ず参加できませんでした。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "13f42d3575855bd5ae55a0afdae1b1f12fb0ffa80562de2ee3ea8af436bb7ee3",
-      "size": 32832
-    },
     "1f04bc8e1e06": {
       "text": "冬に雪が降るものだ。",
       "voice": "ja-JP-Neural2-B",
@@ -7112,14 +6800,6 @@
       "lang": "ja-JP",
       "sha256": "5c8c8c05d17bda03a00e00fa4e32d7ead85ffbbd46258784674085b4fd123058",
       "size": 25728
-    },
-    "1f1e3840963a": {
-      "text": "変わりつつある状況。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c0ebf1e5e19c19df5413ca327ca2ac76aa6ef0940d812ee0cc7567c6b783ee5c",
-      "size": 15552
     },
     "1f2597e4b387": {
       "text": "彼女と話せば話すほど、好きになっていった。",
@@ -7169,14 +6849,6 @@
       "sha256": "7a9467c6ef12c580e6d0817e00cb698f308ca72d9af1c7e61728e1515838b3d7",
       "size": 17472
     },
-    "1f681aa6bcef": {
-      "text": "日本並びにアメリカが同意した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4c2e4957c564ca4afe7f98fb249cd633fc081827d121e997f79afe4d69590324",
-      "size": 22464
-    },
     "1f73fc91ca8a": {
       "text": "泥だらけの靴で家に入った。",
       "voice": "ja-JP-Neural2-B",
@@ -7224,14 +6896,6 @@
       "lang": "ja-JP",
       "sha256": "2f4150a9f3b6e109287cabcbf7597fb305a8cf3d10090103055f76daf0f1280c",
       "size": 32448
-    },
-    "1f9ce746ad33": {
-      "text": "年を重ねるにつれて、関心が変わる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "899352f560f31969698c70ab0d2e3977b66c9a81420d0c3ff2b1c877678d5980",
-      "size": 27072
     },
     "1fa0519cfd09": {
       "text": "は",
@@ -7312,14 +6976,6 @@
       "lang": "ja-JP",
       "sha256": "0afc362981dd1948ab295803f677416115614b76d1557865f6e395010c1d8ab5",
       "size": 34944
-    },
-    "2011495c7520": {
-      "text": "新入社員だけに、失敗を恐れるべき。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "206143abfedc9669038d67b39f7cccb731725708c706439dd1dbb7bd289b0f89",
-      "size": 29184
     },
     "2014291e78d6": {
       "text": "モーモー",
@@ -7561,14 +7217,6 @@
       "sha256": "276f83f3f43c49be31c460fb9752a19106f0cb945792edb46bff56f720232292",
       "size": 29376
     },
-    "219237596989": {
-      "text": "私はただ日本語だけでなく、英語も話す。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "081b174a5184dc224e2cf8317b90408cfb33a00dfb4674a5169e63939109beac",
-      "size": 33792
-    },
     "21948833b6b0": {
       "text": "態度からして、彼が本気でないことは明らかだ。",
       "voice": "ja-JP-Neural2-B",
@@ -7752,14 +7400,6 @@
       "lang": "ja-JP",
       "sha256": "123d0e95f25831eb7485fec8469ee26c3a9fa809bcd8051f65ffc425325f3535",
       "size": 25536
-    },
-    "223497621330": {
-      "text": "負けたとばかりに肩を落とした。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f7ad074707054ee64d6ef5f4cbee93e18eb69f84d75dc5ecb197fa7a591c1039",
-      "size": 20736
     },
     "22480f2fc544": {
       "text": "おそらく彼はもう帰ってしまったでしょう。",
@@ -8881,14 +8521,6 @@
       "sha256": "b1cd58314b95fcf4f7aa769db5e951ce6d0781102be160de1f2a303a4bcdbb39",
       "size": 35712
     },
-    "27195570f538": {
-      "text": "終わりつつある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "963c30776cd23800a63a4bc08995b054a6ddd9a7ebf790d981dde908437823ff",
-      "size": 10368
-    },
     "27254c8c6b87": {
       "text": "毎日練習するということが大切です。",
       "voice": "ja-JP-Neural2-B",
@@ -9097,14 +8729,6 @@
       "sha256": "76c14ed93c761d74200a6ba96b2ee7b1e855c54552403393cc838fb4ae20df25",
       "size": 33408
     },
-    "27e20415451c": {
-      "text": "目が覚めたところです。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e65fb14f4a21f883fbaff7438ff8fe55e7616ea7b24d04cd8a54ed3a71b66eda",
-      "size": 14976
-    },
     "27e4a46de9f6": {
       "text": "彼女、もう帰ったって。",
       "voice": "ja-JP-Neural2-B",
@@ -9240,14 +8864,6 @@
       "lang": "ja-JP",
       "sha256": "fb28de42e8ace3604358614d0e92ef05815683195b814b8253081724167807c0",
       "size": 46272
-    },
-    "28722272a2a7": {
-      "text": "そんなことがあり得るのではあるまいか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c2bb0f6e2eb136c7a25bbe2201ea830885b0de9646b4c0639ef526e939e86f22",
-      "size": 22464
     },
     "287a06131f4d": {
       "text": "鍵",
@@ -9449,14 +9065,6 @@
       "sha256": "f18576ae8d5f0009c964bdef5fd4389bec53444ffe757e7c75bdb5a44e5db604",
       "size": 14784
     },
-    "2951ba8bd66f": {
-      "text": "雨が降りつつも、外出した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dcadc5a211493180f6c95f5af4d29b789b76d39d6216fcb9bc6be574e33fb46e",
-      "size": 20544
-    },
     "2959d3629037": {
       "text": "秋の紅葉ときたら、日本は格別の美しさだ。",
       "voice": "ja-JP-Neural2-B",
@@ -9593,14 +9201,6 @@
       "sha256": "e456481091a23546a5dda6e009655c4c771183522c5f2e3fd50768f6b1372b50",
       "size": 10176
     },
-    "29cb05b52f00": {
-      "text": "苦しい状況を切り抜けた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "236ef9afc52d7edd3d4565cc5e8540cde12b05a42c6cb8e9750bed4f273c1985",
-      "size": 19776
-    },
     "29e01ae78d92": {
       "text": "するべきだった",
       "voice": "ja-JP-Neural2-B",
@@ -9649,6 +9249,14 @@
       "sha256": "a73f4829ce8752f2ee473d3eefb081f44c19b743bf714017420bde6506574519",
       "size": 37248
     },
+    "29fda66e8817": {
+      "text": "もう寝るところです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "1def36bbea0f0629b4035261409ade81c70e567dd527615283805021b1b74483",
+      "size": 11904
+    },
     "2a089e8a5fea": {
       "text": "ちょうどご飯を食べ終わったところだ。",
       "voice": "ja-JP-Neural2-B",
@@ -9664,14 +9272,6 @@
       "lang": "ja-JP",
       "sha256": "cc9c830fa5dc3bbac50e85b614204bc3473a5c55a768fdbd229b0079dabef441",
       "size": 45504
-    },
-    "2a1c3606a460": {
-      "text": "わりには、静かだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4f1eaef52e49138e27e6254e90504eccd8d8b994ced616fe3d61adb6f8309fea",
-      "size": 15552
     },
     "2a2379b5b803": {
       "text": "その風景を見てたまらない気分だ。",
@@ -9713,14 +9313,6 @@
       "sha256": "468358e5f3e2d9eb713f639985035f855bdefebbd1e3fe2b4df2b2ede1b2ea1d",
       "size": 31104
     },
-    "2a4d57350acc": {
-      "text": "古いと思いきや、新しかった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "758b46e0110319d299ca5dc4967e3f775829f41ecaff559c04a16453a830f17e",
-      "size": 22656
-    },
     "2a53068bab5c": {
       "text": "わざわざお越しいただき、ありがとうございます。",
       "voice": "ja-JP-Neural2-B",
@@ -9736,14 +9328,6 @@
       "lang": "ja-JP",
       "sha256": "403759baaad003e36b63a57f93b196dbc04898ed2ccf6e17e9b9354f30566454",
       "size": 26304
-    },
-    "2a661ef108f5": {
-      "text": "期待の割に、良くなかった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "7edfd937f262349598317435ad2b1cb69a7bf904de9cf2ef5d82cf182a1aaff8",
-      "size": 20160
     },
     "2a6a55b78bac": {
       "text": "ベルが鳴ったかならないかのうちに、子供たちが飛び出した。",
@@ -9784,14 +9368,6 @@
       "lang": "ja-JP",
       "sha256": "e3ca6b45c220647d1aa023bb9f06c5c3c3629ea5dfa2dd24b5979dcc96068a5f",
       "size": 39168
-    },
-    "2ab7a13e50d1": {
-      "text": "それでは、準備を進めましょう。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "13937c3596f88e2f153857895ed916a862323913e8aca751730dbf79b966ce17",
-      "size": 21888
     },
     "2abb6b0c40fe": {
       "text": "絶対に諦めずに最後までやり遂げてみせる。",
@@ -9953,14 +9529,6 @@
       "sha256": "9393f6bf1502aabf12d48f1de47040d7df2b0febecb0872deb87b5df97198dd2",
       "size": 32640
     },
-    "2b2a8351459a": {
-      "text": "彼はどこに住んでいるか分からない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4a4096cbc3225d94c49161ced1c2aa8c4b062d9bf8e17da5c7205222e06a7ed7",
-      "size": 22656
-    },
     "2b2d15d05701": {
       "text": "実は何か食べたいです。",
       "voice": "ja-JP-Neural2-B",
@@ -10057,14 +9625,6 @@
       "sha256": "d1619bfbe518d7506ffbe0c098e3f2cdc0e7796cab4ee13ee7935caac0dfec4a",
       "size": 22080
     },
-    "2bbc1f1cb53f": {
-      "text": "明日がいつ来るか待っている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2682e21ccdb8b2ec9ad8aa507aa5abdd3e18c0d9d5c2dead197b1aa01368e005",
-      "size": 18816
-    },
     "2bbe3b9005b8": {
       "text": "公園に大きな木があります。",
       "voice": "ja-JP-Neural2-B",
@@ -10112,14 +9672,6 @@
       "lang": "ja-JP",
       "sha256": "caf2d0dcd2e97617c9c6019d544ff07ba1d81136ff0af762ced218f1391c9dcf",
       "size": 21312
-    },
-    "2be6b00647f4": {
-      "text": "走りつつ、息をしている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "3501201b5eb9706d8d9514935eb2f15ed7d7794b7241bf68fb67f19ad9ac0783",
-      "size": 19584
     },
     "2be92906c2ac": {
       "text": "授業がもうすぐ始まるところだ。",
@@ -10329,14 +9881,6 @@
       "sha256": "990fefa6e9e7a9f30b9b2bebaf12763b02eed9dfc873f21e2aabb4b96254ca2c",
       "size": 35904
     },
-    "2ce803fd53a6": {
-      "text": "させていただいてもよろしいでしょうか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "aa545adcaa8e08c4a43dd0cd40c8db1b70e50044a46e7b1d422c6424b8570fe2",
-      "size": 21120
-    },
     "2ce8a0537dac": {
       "text": "環境問題についての議論が、世界中で活発に行われている。",
       "voice": "ja-JP-Neural2-B",
@@ -10488,14 +10032,6 @@
       "lang": "ja-JP",
       "sha256": "7153ac4b8e32ad6c0532c0db7a6f9e9062a56007ccfa889e63d9d5913f00680b",
       "size": 30528
-    },
-    "2dcb038b8e6a": {
-      "text": "いくらかかるか見積もりを取った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "222980dcbcac0dfcbb575d7720460181cd2685feff335c349e3bc3130283429d",
-      "size": 20736
     },
     "2dd6cb034f2d": {
       "text": "友達に会いに東京へ行く。",
@@ -11529,14 +11065,6 @@
       "sha256": "b912e2777b3154cb550288be550e9f103ae37564e11afb436e94ed62cbe9d464",
       "size": 15744
     },
-    "32711717a456": {
-      "text": "ただし、条件がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "64900d74339d3daf42a983a5c0cf85d68812a8cf843b7415e5c0140fc6639ecc",
-      "size": 18048
-    },
     "327e34c903ff": {
       "text": "「怒ってるの？」「別に怒ってないよ。ただ疲れてるだけ。」",
       "voice": "ja-JP-Neural2-B",
@@ -11680,14 +11208,6 @@
       "lang": "ja-JP",
       "sha256": "6f11d91cc0041ccdd91ab71efa17ac1ca868d3cd27e5a5be8fa4a596f997574b",
       "size": 28992
-    },
-    "337c7ade45ea": {
-      "text": "政治並びに経済の改革が必要。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6606ecba283333bc65ecfd1d469f93be1d98c5a8f737b5c8003d2b1f81a34af3",
-      "size": 26688
     },
     "337ed9683153": {
       "text": "昨日は肉を食べなかった。",
@@ -11920,14 +11440,6 @@
       "lang": "ja-JP",
       "sha256": "40e59c47c9304ef231b706ed2e990cd33894205d36f16934c1ebac53a4561468",
       "size": 30912
-    },
-    "34ad6dbbd004": {
-      "text": "先生のおかげで、合格できた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "fa1a63c4ca064a781fb7d97ce80eb3478b3ad42b6868f34ec8f1e63ce569815f",
-      "size": 22272
     },
     "34b476a54f27": {
       "text": "彼は一言きり言って、それ以上は何も語らなかった。",
@@ -12377,14 +11889,6 @@
       "sha256": "ed7d9cd30836cb5cb3a5526d19005afc482af7cb08088f5b3f01db1ce20c7a6f",
       "size": 31296
     },
-    "368c2dccbe5d": {
-      "text": "こんなことが起きるよもやあるまいと思っていた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "06b95544636c7d6409e247bbd509f8410c7c19f7c0493e5de877fc82fe4842f8",
-      "size": 26688
-    },
     "36a45750ad25": {
       "text": "彼は来たばかりだ。",
       "voice": "ja-JP-Neural2-B",
@@ -12616,14 +12120,6 @@
       "lang": "ja-JP",
       "sha256": "f5657f965e307a8fd9f5eb9c153bd12403325e6d9c7b1bf2fd3476832c07c170",
       "size": 33984
-    },
-    "37bff070ef99": {
-      "text": "させていただくことについてお願いいたします。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "57cc2d2800ede2aa286a40f4effb23a6fa45062f34e082bb45417dcdc48ae427",
-      "size": 28800
     },
     "37cbfae14199": {
       "text": "期待されていただけに、失敗した時のショックが大きかった。",
@@ -12929,14 +12425,6 @@
       "sha256": "ccd779d2d55f4a7644eedc00f019283e5c2193f22b22af453ab909d811614fe2",
       "size": 23808
     },
-    "393bc1fadde6": {
-      "text": "先生さえ知らない問題まである。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "680c33eb06051465f45a8d4cae8f54f1f517357edc6796ea0447538d3c47918a",
-      "size": 24384
-    },
     "394ea7ae36ac": {
       "text": "難しくもなんともない。すぐできる。",
       "voice": "ja-JP-Neural2-B",
@@ -13080,14 +12568,6 @@
       "lang": "ja-JP",
       "sha256": "5313b70fefb651113f561b379116be05cf34349ea9bd0d5c7378f672bf9ebd7f",
       "size": 19200
-    },
-    "3a3c847386e8": {
-      "text": "食事だけでなく、飲み物も提供する。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c9dcef16654244c4749099b3392365d7086d9dc3a77ec2f664522902641d8c83",
-      "size": 27456
     },
     "3a45beea1bdc": {
       "text": "この道は学校まで続きます。",
@@ -13281,6 +12761,14 @@
       "sha256": "d1e653c7347b43f9171e7f1901777b7c3e8985ae1523529a3326cb237901e2af",
       "size": 30144
     },
+    "3b0fc6f01ea9": {
+      "text": "電話をかけるところです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "72bd2c86ffa3f6f5892ed01565edaf5b5fa831a7056bd92746ba50706dc50558",
+      "size": 16128
+    },
     "3b150cc15611": {
       "text": "十年ぶりに旧友と再会した。",
       "voice": "ja-JP-Neural2-B",
@@ -13288,14 +12776,6 @@
       "lang": "ja-JP",
       "sha256": "453384f56a9a9bff0d2701eb887af16d56bfbdfc1db0500c229ec79f1d5a6f6a",
       "size": 23040
-    },
-    "3b17a09ae9b4": {
-      "text": "過去並びに現在を参考にする。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9485886135fc01946ed7cea46ff1bd27416998602bb550f9b7cb3d8635a5a94e",
-      "size": 24384
     },
     "3b22c65938a1": {
       "text": "育児のかたわら、ボランティア活動に参加している。",
@@ -13416,6 +12896,14 @@
       "lang": "ja-JP",
       "sha256": "0f65d0873a0a221dc92efbae54b18561f1ff2fcfdee84bfdad32a40ea0d6a416",
       "size": 18432
+    },
+    "3b9d2c425d41": {
+      "text": "会議を始めるところです。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "e39f5449f5596b6f3bac211474c5af60beae71ddb430ad26e0318ede19b0ddd1",
+      "size": 17472
     },
     "3bb13e037680": {
       "text": "昨日読んだ本は面白かった。",
@@ -13664,14 +13152,6 @@
       "lang": "ja-JP",
       "sha256": "bdbc70ca877a8bf278028fc00c06e40456bc6e643e5b3dbb27fd136cd32166f3",
       "size": 23808
-    },
-    "3cbac7828529": {
-      "text": "それくらい簡単にはいかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "608be8acd7efa4c990149a2618d4a5f14ee6c50349627cb45cddd99cb624d6ba",
-      "size": 19776
     },
     "3cbd2748393c": {
       "text": "彼が来るところが、私は帰ることにした。",
@@ -14017,14 +13497,6 @@
       "sha256": "be302dc415e856163432aa477242cf0b129c2a5fb249d30421dbd95c9b74344b",
       "size": 40704
     },
-    "3e91d67104e4": {
-      "text": "様々な困難を乗り越えた経験がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0fe6380a7352855577d58bd0454927006ff0f2be40fe7cca0a5623859b67f76f",
-      "size": 27072
-    },
     "3ea605f30318": {
       "text": "これは間違いだらけの文章だ。",
       "voice": "ja-JP-Neural2-B",
@@ -14177,14 +13649,6 @@
       "sha256": "507dd902df8e653a2bc70de35e99945d538ff07d120f5c5e5aed170f1e126ed4",
       "size": 32448
     },
-    "3f781e1f4570": {
-      "text": "子どもの笑顔は可愛くて、たまらない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "08f24d0385b3e65408963177ecbd73f74cdbb028c0d352b6fe4e02ea80e8f3f6",
-      "size": 25536
-    },
     "3f8398338954": {
       "text": "猛暑の中を毎日通勤している。",
       "voice": "ja-JP-Neural2-B",
@@ -14296,14 +13760,6 @@
       "lang": "ja-JP",
       "sha256": "fa44652dbce5fbec1d8b69c63d49f880e02f74e53edcae51ab90b7a1cb20710d",
       "size": 4032
-    },
-    "400a865a3663": {
-      "text": "失敗したので、謝るしかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "af649df99e493ebea97bbaab667bc071d2dfeadcf9746db1be44e206ac95aabe",
-      "size": 22272
     },
     "400dbbac78d2": {
       "text": "外に出たとたんに、大雨に降られた。",
@@ -14569,14 +14025,6 @@
       "sha256": "5dd560431592b5d60f8aadabcf12ee374aef51ee23e9f487d9c305f8bb3691fa",
       "size": 37056
     },
-    "411474d41f02": {
-      "text": "経験が増えるとともに、自信も深まる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9e9068041a041e637b7ee590ff5efe468e6d6648333b2ff19f38b90e81f68907",
-      "size": 27648
-    },
     "41176eef1b03": {
       "text": "この本を読みおわるのに三日かかりました。",
       "voice": "ja-JP-Neural2-B",
@@ -14665,14 +14113,6 @@
       "sha256": "66ad87a27a76989526569dae0df617dc410bd2158321384fdc77504fc5d938a3",
       "size": 26304
     },
-    "419543a52093": {
-      "text": "日本語だけができます。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "55b738503b269734a8270a4284b121458db337c159e013f333eb51c8e13bf041",
-      "size": 15360
-    },
     "41a11f66f540": {
       "text": "ホ",
       "voice": "ja-JP-Neural2-B",
@@ -14720,14 +14160,6 @@
       "lang": "ja-JP",
       "sha256": "28c92ab7c455f8929fe01698bc72e8ec9513858af52819d0a65dae1c1acd68ba",
       "size": 37440
-    },
-    "41cbebfdff42": {
-      "text": "今度の映画がどうかは見てみないと分からない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "eca236fe82bac940d26c82ecf89dce4b74ea86b3b5bf95002de5fca1eea8c4a5",
-      "size": 29376
     },
     "41d1146abe78": {
       "text": "あの店は今日開いているはずだ。",
@@ -14857,14 +14289,6 @@
       "sha256": "0fe9f0f490e5f1a443d31084447f0eaf19039c53fc497aa7f6a127cd9d0b0b11",
       "size": 25344
     },
-    "4284fd925f63": {
-      "text": "ご説明なさいました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4da00d9fa59b607d76db4312b625664e7e81acb6de42de0a2c8f59364f297ffb",
-      "size": 14976
-    },
     "4287e10d8e5e": {
       "text": "電気が消えるが早いか、火事報知機が鳴った。",
       "voice": "ja-JP-Neural2-B",
@@ -14921,14 +14345,6 @@
       "sha256": "c6be261f2b76a09309211397b8aa7fa2d11b4e3ca059dd5a399e455eb1860e49",
       "size": 25344
     },
-    "42ea1f3df73e": {
-      "text": "金持ちであるにせよ、貧乏であるにせよ、幸せは大切だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9e3c6a6de36d063f136c52990951aa46e784a3b9e2a92c609fc4d686c94203dd",
-      "size": 43584
-    },
     "42ed477923b5": {
       "text": "早起きが大切だ。なぜなら、朝の時間を有効に使えるからだ。",
       "voice": "ja-JP-Neural2-B",
@@ -14944,14 +14360,6 @@
       "lang": "ja-JP",
       "sha256": "863626499225219a1cc7500f18a04d717f4de0b20104263560982be39ceec0f8",
       "size": 30912
-    },
-    "43206613b0b3": {
-      "text": "敵襲だと叫ぶが早いか、皆が逃げた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5276f8d1ca4c6f3d2644ec8425e41976c4c33c9609d399f1c9be8ce664871cbf",
-      "size": 31488
     },
     "4321ede0d2c3": {
       "text": "まだ時間があります。",
@@ -15321,14 +14729,6 @@
       "sha256": "b051fcbd5d0d36fda762e946bcd575e306c2b29a149d67dfa4a260e265398c94",
       "size": 8640
     },
-    "44fc4bf39ec9": {
-      "text": "むしろ反対である。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b692ee8174a228fda67c743840e81ff93286e15c513ac724c1d6fa03a1920044",
-      "size": 13824
-    },
     "4504f81cc2f8": {
       "text": "なぜ来なかったのですか。",
       "voice": "ja-JP-Neural2-B",
@@ -15489,14 +14889,6 @@
       "sha256": "d8d8c0115e9e7c46e65529f7a86a08998e7669a33ac6cdcbcf3af8e5c79a751c",
       "size": 26112
     },
-    "45fdaa211350": {
-      "text": "加えて、財政的支援も提供している。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8a4fc08abe511b1dcc4c78ae44bb58b6344214cc65502c7a4ad91d8c15091f52",
-      "size": 29568
-    },
     "460422b36e06": {
       "text": "二つは比べるべくもない。",
       "voice": "ja-JP-Neural2-B",
@@ -15512,14 +14904,6 @@
       "lang": "ja-JP",
       "sha256": "c0f4e7a287b60ef5bf00338cf26882f60aa928a5f611bc0d26fdadabacc1b96c",
       "size": 25920
-    },
-    "46243fed0c81": {
-      "text": "反対しつつも、従った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "fd40af3bda56fb3f3121f16bbef38b8efbba68b23845e507511235d6446a4de7",
-      "size": 19584
     },
     "4634af168af9": {
       "text": "作業はおおよそ三日で終わる見込みだ。",
@@ -15689,14 +15073,6 @@
       "sha256": "055f19271c2a4cbde197e1ab6fb4b0916c341ca2e0ea0a3cd5824fc6f149c0ab",
       "size": 33216
     },
-    "46fe1292d82b": {
-      "text": "病気で、動きたくてもどうにもならない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2280ee1bd61200f2dd361602fb1ef1da285f43c529cdd00c8239ff30f9dfb6f6",
-      "size": 28224
-    },
     "4700094d51e1": {
       "text": "猫がご飯を食べたがっています。",
       "voice": "ja-JP-Neural2-B",
@@ -15824,14 +15200,6 @@
       "lang": "ja-JP",
       "sha256": "5f4744a2e1b6b3e41c1674ab76d6bce211d9057870b5286da719b78fdc1fad07",
       "size": 20736
-    },
-    "47730636115c": {
-      "text": "社会が急速に変化するというふうだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2bb3b5bfaa47bd78e1b690e9f4c8f9815afd746bc80e855eecf41c45ca45f8a5",
-      "size": 25728
     },
     "477fba3841a6": {
       "text": "こんなに量が多くて、とても全部は食べられない。",
@@ -15985,22 +15353,6 @@
       "sha256": "0b5b115d3e77d47bd4532db84d85f431a5731a98863884c5ae7d2a1f519f1f0a",
       "size": 23616
     },
-    "47f7aeefccdd": {
-      "text": "人口増加に伴い、都市化が進む。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dc3b2a8ccd5283510733a3fa8172e63b4eb522b8f6df846adda645aea17a1d43",
-      "size": 27072
-    },
-    "47fadd1bbad7": {
-      "text": "難易度の割に、簡単だった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2686020b289f8fcd641e89bb784749e774129ba76ede074927ca68514939326e",
-      "size": 20928
-    },
     "4807b1a4d10a": {
       "text": "そこまで言われては、やる気が出るというものだ。",
       "voice": "ja-JP-Neural2-B",
@@ -16016,14 +15368,6 @@
       "lang": "ja-JP",
       "sha256": "eb7df64d0364cc195f6e0608f1d437b08a01c674a9742e65007f4098bfa5d978",
       "size": 16512
-    },
-    "48181be19f7c": {
-      "text": "最後に、安全性が最優先である。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a7386de5fe95bf19948d2d0bb89d4f0a17effe43375ba6ce9aba889e1ccc5fe8",
-      "size": 28224
     },
     "482b7db21c3d": {
       "text": "彼女は世界的に認められた研究者である。",
@@ -16112,14 +15456,6 @@
       "lang": "ja-JP",
       "sha256": "24fae69aa4811459648c1d378a6455c515b318249085efca7145433435c7f9ba",
       "size": 31104
-    },
-    "48a57f45159f": {
-      "text": "どこへ行くにしろ、安全が第一だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dcf227c238c65be129ac6755820412248d9bcad6aee02792fcf9ceafd5ce919c",
-      "size": 26304
     },
     "48a866bfdaf9": {
       "text": "ん",
@@ -16385,14 +15721,6 @@
       "sha256": "aa0051593f3f89d4746db223eb79b91a85c17739dfb2b2948306357bd3f569c6",
       "size": 24000
     },
-    "498f5fbb3247": {
-      "text": "それは違います。いや、違います！",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "20850f1f0d65beb915364db5f31088bb5c6a1c9505c30a9e316d1cc98f1d3948",
-      "size": 24000
-    },
     "498fea1f464b": {
       "text": "痛くてたまらない",
       "voice": "ja-JP-Neural2-B",
@@ -16424,22 +15752,6 @@
       "lang": "ja-JP",
       "sha256": "91d4ced93a283ed53b507bedb948f014d15008113a739ae05c5bd1f2aa888d30",
       "size": 19968
-    },
-    "49ad6b6500eb": {
-      "text": "組織の理念を貫き通す必要がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "243b979f50ac91bb0febc821b32e5c20dd243d1f11d07a5f86e196815c3cf53f",
-      "size": 28032
-    },
-    "49bdde8c61c4": {
-      "text": "同じ失敗を何度も繰り返してしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1bd8ecb0268e4a154b8b6816a80fc6e7f80de1279651239eb8fc692c8b31bf5e",
-      "size": 26496
     },
     "49c54a341b4c": {
       "text": "このパズルはなかなか解けない。かなり難しい。",
@@ -16560,14 +15872,6 @@
       "lang": "ja-JP",
       "sha256": "8d4b0acdc83a497708e07be1dc5319cfd648b076f7f799b6ef60cfcf8db46365",
       "size": 37440
-    },
-    "4a0894dd9edc": {
-      "text": "言わせていただきます。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0581ba7ec925bc8295e1723e891e6f4445c6b8d43e0d2aefa367c2433221b080",
-      "size": 13824
     },
     "4a1e59b105c0": {
       "text": "要するに、予算が足りないということですね。",
@@ -16808,14 +16112,6 @@
       "lang": "ja-JP",
       "sha256": "0b9e9ba4970468629b86dac744701e2c123378819ade14ea1d078a4f7eebcc19",
       "size": 34368
-    },
-    "4af129a228db": {
-      "text": "その為に投資を増やした。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e0c974b5b87f9021d51e91047f876c9ae49681b5939ddd4527476bf4076832e6",
-      "size": 19008
     },
     "4af1addd3fdf": {
       "text": "困ったことに、財布を家に忘れてきてしまった。",
@@ -17417,14 +16713,6 @@
       "sha256": "734918387b1c317e8988e032f6f85403bee03d83c359ab460754f6d358b839f7",
       "size": 22272
     },
-    "4d70b0cd64c5": {
-      "text": "この状況は避けられず、やむを得ない判断だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2714060c8947e21b50c2561660c66aca8a055c6e4064db071b01112682f7c1f6",
-      "size": 34176
-    },
     "4d8780b09f52": {
       "text": "びゃ",
       "voice": "ja-JP-Neural2-B",
@@ -17809,14 +17097,6 @@
       "sha256": "6de3811ef570177ad4d370464ed3441a5a3cce4c798c9f231902ab291cb638eb",
       "size": 31680
     },
-    "4f4845158804": {
-      "text": "時間がないから、早くするしかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "bfae0b108d768c5bd93b144b60e7216b6259bc2ead33272645bd141979e8e617",
-      "size": 24192
-    },
     "4f4b1bc434a8": {
       "text": "この本は世界中で読まれています。",
       "voice": "ja-JP-Neural2-B",
@@ -18153,14 +17433,6 @@
       "sha256": "3ce4226d88ddd9ea8e75c09f67b0497bacddb7c13a78be38b26dd412885acc42",
       "size": 31488
     },
-    "50a1fc7a70f5": {
-      "text": "だけに、期待が大きい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "62d4d8eea77cff2a4b3ad0e832c87635abb399e1672e6ffd6cf56de5794c6046",
-      "size": 19008
-    },
     "50ad11d98720": {
       "text": "多かれ少なかれ、環境が人格に影響する。",
       "voice": "ja-JP-Neural2-B",
@@ -18248,22 +17520,6 @@
       "lang": "ja-JP",
       "sha256": "7765529e99871362fed6acdeff61e5a26aa59999613e6886d7f9c4d613e3ca10",
       "size": 38784
-    },
-    "5160a01411d8": {
-      "text": "仕事をしつつ、趣味も続ける。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1a44f22694aee3586a135b3a11f5edabd90f9eac73c0395bbc13dc8fdb9385e2",
-      "size": 23808
-    },
-    "5160e573b278": {
-      "text": "先生は厳しくもあり優しくもあるというふうな人だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8e6e7d923f6412e83e61f87a1926dfc6a1c49097f46120668fd4077d5bf31aaa",
-      "size": 35712
     },
     "516269741740": {
       "text": "国を守らんがために、命を捧げた。",
@@ -18521,14 +17777,6 @@
       "sha256": "f42cac02e8ee5dcac9a6b97af96d7a19805729fcb01cea92543233e239aff1f9",
       "size": 22272
     },
-    "52907ddac879": {
-      "text": "コーヒーしか飲まない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b628dd3e528893de16a43b4b740ec6c1b02ddc667092bab8d03f9695a71872f6",
-      "size": 14208
-    },
     "5290b6e4262b": {
       "text": "病気を治すべく、彼は研究に打ち込んだ。",
       "voice": "ja-JP-Neural2-B",
@@ -18632,14 +17880,6 @@
       "lang": "ja-JP",
       "sha256": "8ec0642a42416ff379542fd372f3a1c89ad1620d78094acb5ba8ce9a27fd803a",
       "size": 26112
-    },
-    "52e95b102273": {
-      "text": "皆の協力のおかげで、プロジェクトが成功した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "474c368c7af4ab68f8f245509d7107d1a29b21f00192b02029559d4c97a54d1e",
-      "size": 33984
     },
     "52f54d8c919e": {
       "text": "選手たちに試合をさせろ。",
@@ -18816,14 +18056,6 @@
       "lang": "ja-JP",
       "sha256": "c4c33a2fd952b66093420fa9ec804415a7a154369f1007f4eff60a22bedd5241",
       "size": 32448
-    },
-    "540f3a905814": {
-      "text": "そればかりでなく、危険でもある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "25830fcad451083a56314fd34b2d226c5ac41b06e0e3cda4283893916a2f8e1d",
-      "size": 22272
     },
     "5417661ab018": {
       "text": "私が買った本",
@@ -19185,14 +18417,6 @@
       "sha256": "d31294bf1289c171d187bafa6ef8189a8e89aba22ce9c4e7ff320296493e81f9",
       "size": 4032
     },
-    "55f9032d9cdd": {
-      "text": "そのような失礼なことは言わないわけにいかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d60324a953b96e3c49f639476d5b755f890b82aac64241dca0a6822a7f9771f6",
-      "size": 31296
-    },
     "55fdfeeb10da": {
       "text": "進んでは戻り、進んでは戻りで、なかなか前に進めなかった。",
       "voice": "ja-JP-Neural2-B",
@@ -19233,14 +18457,6 @@
       "sha256": "a65e818e1cdf01da209d19f164ebe60378f41f73c14bd85efc1b2ceb439187e0",
       "size": 8064
     },
-    "5633f5a51ea1": {
-      "text": "夢を叶え遂げることを願っている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "08245dad9c6041c9ad7f6ca795ea3ee2127b30e589ad77f4b2cd780e560d94cb",
-      "size": 23808
-    },
     "56377d14d4ef": {
       "text": "の",
       "voice": "ja-JP-Neural2-B",
@@ -19273,14 +18489,6 @@
       "sha256": "3c3545c29cc4dcfa2ffcea4260b1459c2cc904a283d45f2915632c4165fb8426",
       "size": 34752
     },
-    "56611b7b01ba": {
-      "text": "知りつつも、言わなかった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "821d605472b4ebf16801c3efad239198be4dc6049674ad98ee93630678a073f6",
-      "size": 18240
-    },
     "567ca1db796e": {
       "text": "じゅ",
       "voice": "ja-JP-Neural2-B",
@@ -19296,14 +18504,6 @@
       "lang": "ja-JP",
       "sha256": "cbd9a488e01420e70ca05dee5142b2fdd6ecac34d75478218e18ce2e9c8c28e3",
       "size": 23808
-    },
-    "56a223b791de": {
-      "text": "私たちが失敗するよもやあるまい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b0f17c1a3c9431dc83b49f1617426e53a462065e8b4e46edda3e8414fab02353",
-      "size": 23616
     },
     "56a84c0b50eb": {
       "text": "激しい雨もやがて止んで、虹が出た。",
@@ -19665,14 +18865,6 @@
       "sha256": "bd911c55cbec0586faaab05421e9dcfbd3f7a091fb82e2c23b548c5093161ef0",
       "size": 30144
     },
-    "5837314f0a50": {
-      "text": "ご理解いただけますよう。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "230df279b700aa566d73c40ad1d450b35d83e4e49aab9af9e37a060f306cb84d",
-      "size": 15744
-    },
     "583899817a57": {
       "text": "各都道府県から代表者が集まりました。",
       "voice": "ja-JP-Neural2-B",
@@ -19721,14 +18913,6 @@
       "sha256": "59ea71d63a2b550329836ee5ade7eb56afbdb6bae26eb861111506cf1d8562e4",
       "size": 39360
     },
-    "58737a3d3fb5": {
-      "text": "その一言だけに、みんなが笑った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "49fa8d46b77760530cec0e7ce4f965346141dc74a1ee8eaa2018551b58b08854",
-      "size": 24576
-    },
     "587448e4855a": {
       "text": "今日は何もしないつもりです。",
       "voice": "ja-JP-Neural2-B",
@@ -19736,14 +18920,6 @@
       "lang": "ja-JP",
       "sha256": "f66c611a64bfa900c22eb98afbf827b575c4be76ec4fd9260127039cb4f74100",
       "size": 18816
-    },
-    "587c1cf407e4": {
-      "text": "彼女が怒った理由がわからない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "be738a4e3b245b99b002441e0e25462a75cb4e7390cda3fd6d0529f1a5830ffa",
-      "size": 21120
     },
     "5880e515bf01": {
       "text": "どちらかというと、肉より魚の方が好きだ。",
@@ -19808,14 +18984,6 @@
       "lang": "ja-JP",
       "sha256": "f4c0bf7542f3da03ef1ef096a980d1922cedbbb26f0d03c470af6d3c16dc6d22",
       "size": 35136
-    },
-    "58a518178035": {
-      "text": "技術進化に伴い、職業が変わる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b9767addb84f93e479ffe188108ab7263d3c53fcb288d010e7b9b56818aca1f8",
-      "size": 26880
     },
     "58a6326425d0": {
       "text": "彼は何から何まで完璧にこなす人だ。",
@@ -20265,14 +19433,6 @@
       "sha256": "a42e9c267aa3252bf44b4930e29d185377da7cb56926441d58f4f009b79b0a37",
       "size": 34944
     },
-    "5aee83fa39ca": {
-      "text": "どちらにせよ、結果は変わらないだろう。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9a87a47951deafa960aa9ad373dfabd8c0e55c5de1605db00d884b1da78fd513",
-      "size": 26112
-    },
     "5af66408aade": {
       "text": "留学の経験を活かして、通訳の仕事に就いた。",
       "voice": "ja-JP-Neural2-B",
@@ -20281,14 +19441,6 @@
       "sha256": "89825d60b48e5189324a02c1320a0d57bc88d170aad1d96e34fab2c1d950e2bd",
       "size": 37056
     },
-    "5af703568787": {
-      "text": "火事だと言うが早いか、皆が逃げた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a9456e6bff7178640093779e94e272f491406c89e6d535d7729c1909b0efafb9",
-      "size": 28224
-    },
     "5af89a053db5": {
       "text": "説明は以上です。さて、何かご質問はありますか。",
       "voice": "ja-JP-Neural2-B",
@@ -20296,14 +19448,6 @@
       "lang": "ja-JP",
       "sha256": "f357d911b86ecb006ff0f94ece67a8b0418d7d1429c89fee89a7ada08d9843ed",
       "size": 36672
-    },
-    "5afed363b20a": {
-      "text": "日本語しか話せません。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "65dda594e7a6f97c46ccac833b0582be6884b69e78993ed94baa515f18d883a7",
-      "size": 17664
     },
     "5b077058a969": {
       "text": "その話には考えさせられるものがある。",
@@ -20465,14 +19609,6 @@
       "sha256": "20339373e57d9270ead851b75c169b463bb01dfaff823e2f9bee0c571e98f9e4",
       "size": 4416
     },
-    "5bc626d9e43e": {
-      "text": "社会が発展するとともに、問題も複雑になる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5c7b0c91a3d2a07054f67abb32d1d5406835e50b10da8c55233e36345a4b79cb",
-      "size": 35712
-    },
     "5bc8f4e898c4": {
       "text": "どこかに行きたいです。",
       "voice": "ja-JP-Neural2-B",
@@ -20633,14 +19769,6 @@
       "sha256": "5a592284b800e1b637e266ff761bf0549bb59e997c5f0275d8df7372a2afc106",
       "size": 27456
     },
-    "5c84cafba19f": {
-      "text": "新しい法律が成立した。ゆえに社会が変わるだろう。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c9825854c6df1bdd7efb86eb07a3dea5a05b7e80977673913e3118ceab55f517",
-      "size": 39360
-    },
     "5c9b5e271d2f": {
       "text": "彼はいつもきちんとした服装で出勤し、第一印象がいい。",
       "voice": "ja-JP-Neural2-B",
@@ -20737,14 +19865,6 @@
       "sha256": "7db62a8c055d9e3a930cf9368c62107322b1884f848d51cd8b1a33f81fa7defe",
       "size": 19200
     },
-    "5d145e760bdd": {
-      "text": "簡単だと思いきや、複雑だった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "be69aedecee2b1f0cd973b6dcc7dc66e8e8097569e75602adb7c24ff731c800b",
-      "size": 24384
-    },
     "5d1744608aca": {
       "text": "勉強なんか後でもできるよ。今は遊ぼう。",
       "voice": "ja-JP-Neural2-B",
@@ -20816,6 +19936,14 @@
       "lang": "ja-JP",
       "sha256": "628b935cbc5f3c91baa25c0636b4235708cd61f23e43811e831fb9ea8340268c",
       "size": 38400
+    },
+    "5d6dcac5511f": {
+      "text": "髪がボサボサだ",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "6ea2ab018b747106db39754fde191ff5e27bdc02bbc19f83d4c7b23daf31f89d",
+      "size": 12096
     },
     "5d7b443ee875": {
       "text": "入学にあたり、校長先生からお言葉をいただいた。",
@@ -21193,14 +20321,6 @@
       "sha256": "dedb375bc9e541a838c8be3fdae3bcb51a44bdb16cbe1636f8deff4a5c4ccc5a",
       "size": 17088
     },
-    "5ee6f472c7d2": {
-      "text": "お受けさせていただきました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "baffa0dda65ba427f57562abd8e4746d81f41ad47f0928218051f069828f7e50",
-      "size": 15936
-    },
     "5efa85e51abf": {
       "text": "このケーキは美味しいみたいですね。",
       "voice": "ja-JP-Neural2-B",
@@ -21505,14 +20625,6 @@
       "sha256": "56beb28ce660fe45c1f1f7784cd750fae183e5489c3c6e551755c0cd1d221400",
       "size": 37056
     },
-    "602ceeec4c22": {
-      "text": "新入社員を一人前に育て上げるのが先輩の役割だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b8f2703dcbf4db5cb16b09c4fb739e5dc028836b8c01bf2f3444272ee2e27789",
-      "size": 41856
-    },
     "603376ddcad1": {
       "text": "毎日の練習だけあって、彼は上手だ。",
       "voice": "ja-JP-Neural2-B",
@@ -21760,14 +20872,6 @@
       "lang": "ja-JP",
       "sha256": "a03caac995eb1afd49469de07adb74ac8eb0cb5db7bda729c6feb1974e5ab965",
       "size": 13248
-    },
-    "61151c2ebafa": {
-      "text": "病気が悪化するにつれて、気力も失われていった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "39f0af6ad0048722a4d229cf5dde7d144ee535d6a9e373ef18e6036178abf8ac",
-      "size": 35328
     },
     "6131931f87e1": {
       "text": "彼から本をもらいました。",
@@ -22673,14 +21777,6 @@
       "sha256": "a430aa8d2fdd170cfcc717081121625101404599695faa1879a350e7d8537645",
       "size": 4224
     },
-    "654c17cfcdf2": {
-      "text": "本当かどうかのではあるまいか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2fe4cc71d8ed050370243099936aa2452e84c2199425c3bd9f64895b08045705",
-      "size": 20736
-    },
     "655663ecc39d": {
       "text": "あのお店、来月閉店するんだって。残念だね。",
       "voice": "ja-JP-Neural2-B",
@@ -22696,14 +21792,6 @@
       "lang": "ja-JP",
       "sha256": "aed74b91f42c725433ec100b8df22a9504976cbb801810676c520c6f97ab43da",
       "size": 12288
-    },
-    "655dd5dc801b": {
-      "text": "どの本が一番面白いか迷っている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6965d3d82af4def5c0ebe6d38396c2572c8daee0ff155b2c38691dd2d71644cf",
-      "size": 26112
     },
     "6568041aa5e8": {
       "text": "テレビを見ますか。",
@@ -22816,14 +21904,6 @@
       "lang": "ja-JP",
       "sha256": "36289cb59c56d6ec5b459e3550549aa6ba80a6e1a553c93dfa6c9e73903630ad",
       "size": 21120
-    },
-    "65bb12eae22b": {
-      "text": "専門家だけに、意見が貴重。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f143bc82ad360aea15955b45662f69f206eada756cd9743da76442eb59a2b4cf",
-      "size": 22656
     },
     "65c08db3b345": {
       "text": "留学の夢は夢で終わり、行かずじまいだった。",
@@ -23033,14 +22113,6 @@
       "sha256": "133485679de291cf55d710e14a1f39775e429dcf9ac0d0d0c5bb1cef50ffde33",
       "size": 21120
     },
-    "66acf1eced76": {
-      "text": "今日の天気がどんなか見ておきたい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6a89fa506c589a98e52b9447fb631e15f7ebe1b36960fd1d11ecf05b0b860bf7",
-      "size": 20928
-    },
     "66afcdf0bd96": {
       "text": "当然のことだと、皆ものと思っているようだ。",
       "voice": "ja-JP-Neural2-B",
@@ -23112,14 +22184,6 @@
       "lang": "ja-JP",
       "sha256": "b19d7112db37f5bfa63f6d01953076953d23bacbae3ec0f42346e01a2720cf5f",
       "size": 31296
-    },
-    "673c9266e71f": {
-      "text": "資金がないので、やむを得ず規模を縮小した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "90cc6e774522dfa08a0f0ebc259c22c1a3e9f7ea6850066e8f4a2a3a8fe460a6",
-      "size": 33984
     },
     "673c9587ca8c": {
       "text": "行くことは行くが、遅れるかもしれない。",
@@ -23641,14 +22705,6 @@
       "sha256": "6439db67935679693630732c505b5e7980073983a3d08076377f3ba012c34d9f",
       "size": 33024
     },
-    "69587606d36d": {
-      "text": "その話は信じられず、混乱してしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "841c5ada73b8add62ebab956d975901bf43e8bd665cbefc5171ea47368792dbf",
-      "size": 31296
-    },
     "695aad811ab9": {
       "text": "朝",
       "voice": "ja-JP-Neural2-B",
@@ -24033,14 +23089,6 @@
       "sha256": "5fa0ab10171f11509a318722060a46a00d0093083bd79bc241284c3b8a48243b",
       "size": 17856
     },
-    "6b57f6550905": {
-      "text": "彼の優秀さばかりに注目が集まっている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4127981647e7d223ffe246a718357b3302be0a20f762eece47afac9b39c73abb",
-      "size": 29376
-    },
     "6b5954488fc2": {
       "text": "初めてにしても、あまりにミスが多すぎる。",
       "voice": "ja-JP-Neural2-B",
@@ -24385,14 +23433,6 @@
       "sha256": "58d038a26c40eb8260256942d98cf324272e8021d9c2ce4dbd28c332f14aa86a",
       "size": 8256
     },
-    "6d08e167a6d3": {
-      "text": "行くしかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "24f9a489a86b68cb9630e42cd9063879730407ecd736dfb4d863cebb66771fee",
-      "size": 9984
-    },
     "6d0a87af179c": {
       "text": "このボタンを押せば、アラームが鳴る。",
       "voice": "ja-JP-Neural2-B",
@@ -24432,14 +23472,6 @@
       "lang": "ja-JP",
       "sha256": "629593f2b18339e2570b1bf8a3bd125f64bab5c466f4b2ed58b608fa35cb18a3",
       "size": 30336
-    },
-    "6d507756766c": {
-      "text": "これしか食べられません。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c4ff98db7d1e1621b78292589346a41b3ffe18f0bba7645a06bc7770e139822a",
-      "size": 15552
     },
     "6d58f9ac90d9": {
       "text": "問題に早めに気がついてよかった。",
@@ -24785,14 +23817,6 @@
       "sha256": "1e2a36d3d72c602a71dab1107f3171adbdce61e5812b815b9c28bb2f1f7a9d7a",
       "size": 26688
     },
-    "6f1a691586a6": {
-      "text": "この仕事をやり遂げることが目標だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "28c65d536daf6146fe0bf73091448ce1f2e5cbe069dc050f9ee7e16ed49e678d",
-      "size": 24576
-    },
     "6f2450ee2a2b": {
       "text": "その判断に対して、異議がある。",
       "voice": "ja-JP-Neural2-B",
@@ -25073,14 +24097,6 @@
       "sha256": "394b3b992d510d199dc3164f1207d6c197a4a200063344562cb2801f415dade7",
       "size": 41088
     },
-    "7041e2119c46": {
-      "text": "考えさせていただきたい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dfdf8ba0d3cc697b134a1c4aad66a68ae35bff7e6cbe41430300efca9f9b6245",
-      "size": 16896
-    },
     "704a081c615f": {
       "text": "何度頼んでも、全く聞いてくれない。",
       "voice": "ja-JP-Neural2-B",
@@ -25120,14 +24136,6 @@
       "lang": "ja-JP",
       "sha256": "dca524aaa26ca1a7507fc1e133cd053242df5ec206744c59c59d7e74fa160ab4",
       "size": 22848
-    },
-    "70716edd0b02": {
-      "text": "そのぐらい大切なことだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "99758b6999c89443cdb5353ac6cae4feb3c0072cc8b39a070603c04f649fc6d3",
-      "size": 17472
     },
     "70789e8665a3": {
       "text": "きらきら",
@@ -25264,14 +24272,6 @@
       "lang": "ja-JP",
       "sha256": "6dd9b877a44aff90b3471467633c5f32a8ba79007e377b3f8fea6d2deb03ec5c",
       "size": 16896
-    },
-    "7106dd72e0a1": {
-      "text": "新しい制度だということで、みんな戸惑っている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1204909c3e07c82a2ccf76e4e105c0099c75ff570a166b086f97ccf21d5e19e0",
-      "size": 33792
     },
     "710fbb44f25d": {
       "text": "なぜこれを選びましたか。",
@@ -25497,14 +24497,6 @@
       "sha256": "39138e87ea7b3e7b72c153b06246c7719caa589f800e91822996199829d2246d",
       "size": 41664
     },
-    "72367c8b5cda": {
-      "text": "会議を終わったところです。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "566996befbf13ec97bf802d6e23876863a60d461348d430d9f0662eb11486a11",
-      "size": 16896
-    },
     "7245b7141777": {
       "text": "計画を変更せざるを得ない状況になった。",
       "voice": "ja-JP-Neural2-B",
@@ -25585,14 +24577,6 @@
       "sha256": "f535188967658900ccc31e9804c759efe9d3b7c434fa824935120775d256d782",
       "size": 32448
     },
-    "72932008d85a": {
-      "text": "させていただけますならば。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "37f48c1d9324f39ed56175d1e255d6a93ec1e11b774c342ece363156fd78124b",
-      "size": 16128
-    },
     "729b2a3c7689": {
       "text": "本を借りに図書館へ行きました。",
       "voice": "ja-JP-Neural2-B",
@@ -25608,14 +24592,6 @@
       "lang": "ja-JP",
       "sha256": "2224e9177923373e2316f33ecaf54596beaec98c00d8ba130909a4688e2554cc",
       "size": 23808
-    },
-    "72b8757e5ebe": {
-      "text": "どちらにしても、最後は本人の決断。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "cfc92222385aadee83c891c4e07fff0d057d8b2958c59619d342372732468af1",
-      "size": 27264
     },
     "72c746d609d4": {
       "text": "へ",
@@ -25704,14 +24680,6 @@
       "lang": "ja-JP",
       "sha256": "727872a8dd7eaaaac8990e9a09f5e2f4104553186af1819d2d69f767cc4a95bf",
       "size": 26688
-    },
-    "7343c6e29294": {
-      "text": "わりに安い。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b732e2cc15b978b2d092c9c4c55363d909f6eeebc66ca0ceef75546ca6db5622",
-      "size": 10176
     },
     "734485b0cb00": {
       "text": "この問題の解決には時間がかかると考えられる。",
@@ -26049,14 +25017,6 @@
       "sha256": "40450954ad06e6e3e7dcc0134a989fc1a1eeee697eade62a5b0cb09cf13b9357",
       "size": 4608
     },
-    "7489a15d7ab1": {
-      "text": "責任をなすべき行為だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "34496fe419cf43d5ac71a4b5b95733d0a1347dafc7a65c0be42bfedae87b9c2e",
-      "size": 18624
-    },
     "748f805710df": {
       "text": "ガーガー",
       "voice": "ja-JP-Neural2-B",
@@ -26160,14 +25120,6 @@
       "lang": "ja-JP",
       "sha256": "3c142cd49ca904583141ca9b80a029544b1aafe5e985c3f0d0a93448c5400020",
       "size": 30144
-    },
-    "74c1adb8643f": {
-      "text": "何をするにしろ、誠実さが必要だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "bd21b64ed788b58b05adf2842aaeaffdf0c761c1c00f61ff9dd41aac1d3f0a52",
-      "size": 27648
     },
     "74c2d1501676": {
       "text": "明日早く起きなきゃいけないの。だから今夜は早く寝る。",
@@ -26513,14 +25465,6 @@
       "sha256": "91cc2ca045404baf4176876d018920b19f05e13ba72b05c6f983b62d19a8e90e",
       "size": 23040
     },
-    "766d907c6b3c": {
-      "text": "彼の才能には、感心させられた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b68d4e79c8cc9b499ce849fada05f96860b525f51035f38e0c7a0b94a0a6761b",
-      "size": 25152
-    },
     "7671a038d7a8": {
       "text": "失敗した。それでも、諦めなかった。",
       "voice": "ja-JP-Neural2-B",
@@ -26704,14 +25648,6 @@
       "lang": "ja-JP",
       "sha256": "5ed902d83cc2b94f3781237644f7bb63cf6e0e74ecaa0e7608dc05e74be20466",
       "size": 23232
-    },
-    "77058df1ea5e": {
-      "text": "あるいは別の方法を試す。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9349bc602651d6ab950c3c6d39b835315b7ad77e3bd4f5edac381493dde286cb",
-      "size": 21120
     },
     "770c17771f06": {
       "text": "悪天候のため、大会は延期された。そのため、選手たちの調整が難しくなった。",
@@ -26960,14 +25896,6 @@
       "lang": "ja-JP",
       "sha256": "04fe4ba2777be7a9998f665b9099f1defc678d7e802e987c2d461725bdc3a9aa",
       "size": 25536
-    },
-    "7856451f367d": {
-      "text": "彼の話は面白くて、笑い止まらない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9d0292e300dcacd0e355bcfa89e1930614c4fd1cc65a56d6545063fc2beebf70",
-      "size": 28416
     },
     "785b19c38683": {
       "text": "もう買い物に行きません。",
@@ -27225,14 +26153,6 @@
       "sha256": "b51335926b06ef5744e017bcf4bf48c1c13e26c655802b60698f5af673508a86",
       "size": 20544
     },
-    "79abc0e4633a": {
-      "text": "運の悪さばかりのせいにしてはいけない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "87e18466e8696ff35c7b0634e77674f12b14f8ca846dbb5ccc2d21ce542e196d",
-      "size": 27648
-    },
     "79b2d215ab21": {
       "text": "この年にして、まだ現役で活躍している。",
       "voice": "ja-JP-Neural2-B",
@@ -27440,14 +26360,6 @@
       "lang": "ja-JP",
       "sha256": "06fc3018b6a18e6131bfd817f58e30e9f5a32f4b7f92a23c22a0c126115fd180",
       "size": 24000
-    },
-    "7a74815f8ce6": {
-      "text": "何故かというと、時間がなかったからだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1343539e0f00dcb61fe26d451d4198c2a7e0a14ba8d250c72391b7f8780579c2",
-      "size": 28032
     },
     "7a76b5184872": {
       "text": "「スポーツは得意？」「どちらかというと苦手な方かなと思います。」",
@@ -27737,14 +26649,6 @@
       "sha256": "64c54287ac340cfc0f431f913cbfb0e3ca54357d094a8843bfc8878689739237",
       "size": 22272
     },
-    "7bcd164d6740": {
-      "text": "新たな技術を使い熟す段階に入った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5dbe9e14c8f6cebc189f4045b3a18297d699056dc2a079bea9153b1c89a077b3",
-      "size": 28800
-    },
     "7bdded46d707": {
       "text": "何も言わずに、部屋を出た。",
       "voice": "ja-JP-Neural2-B",
@@ -28016,14 +26920,6 @@
       "lang": "ja-JP",
       "sha256": "e60016df7f9b13a5b0514576a0ecc6322e6f0eadb848217b790c66a3df49c3bc",
       "size": 12096
-    },
-    "7d3b2fdea228": {
-      "text": "この度はお約束をさせていただきたく。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a48fd1e59fe8d73d89d2a0531ad0966bb6b6a2b471c6ec9f8ae55bcf59665f70",
-      "size": 24960
     },
     "7d43dce9facf": {
       "text": "心配するな。",
@@ -28425,14 +27321,6 @@
       "sha256": "0c6017d00b8ebfdafe9beb063a3da267f774ac268fd9d2e581ba61396e0f4469",
       "size": 23232
     },
-    "7f3c4ba2df15": {
-      "text": "彼女は穏やかな性格というふうに見える。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8e316d2d0c97b76c85cf703a2d667a6c14cb78694efb1625788e56b51f235428",
-      "size": 27264
-    },
     "7f413933e54a": {
       "text": "上司に頼まれた以上、断らないわけにはいかない。",
       "voice": "ja-JP-Neural2-B",
@@ -28624,14 +27512,6 @@
       "lang": "ja-JP",
       "sha256": "c735bba7830f2416b55e5b8a7dd8c8965eecdb2f630fd3c81561688cbf15f17b",
       "size": 16896
-    },
-    "801fd6770e50": {
-      "text": "その本は日本だけでなく、海外でも人気だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "89a41575b6e1f51a91f70606baadaf380af7fb029d06a82a693453f189addb22",
-      "size": 33984
     },
     "8022186444da": {
       "text": "春は冬より暖かい。",
@@ -28953,14 +27833,6 @@
       "sha256": "d52b578a562e3c7c0d878c64a1a1345eba30bb3af67dc1eeb7e2555f767eaa64",
       "size": 36288
     },
-    "81540aff2f74": {
-      "text": "つまり、予算が足りないということだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b1237f0f5907fd3508058f47c1c59dbce05decfcdec819db2c785c1b56da9192",
-      "size": 23616
-    },
     "815abdbcad52": {
       "text": "聞くともなしに二人の会話が耳に入った。",
       "voice": "ja-JP-Neural2-B",
@@ -29161,14 +28033,6 @@
       "sha256": "3efc6be5352767d3c31c0abe3235489dc016f2a4f84c3669cd8243552af73753",
       "size": 20736
     },
-    "8241e6da45dc": {
-      "text": "困難な状況を乗り越えられた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2ebdac61c67075f2fb08ca2b92428308ae97e326609b684855cb5b8c6bcaf0d8",
-      "size": 21888
-    },
     "8250f8ed0499": {
       "text": "仕事が忙しいのなんのって、休みが取れない。",
       "voice": "ja-JP-Neural2-B",
@@ -29264,14 +28128,6 @@
       "lang": "ja-JP",
       "sha256": "142cc0e6cc8c96cf2869365ea8ce6f1cf2cf4b422eceffc5770263f2e0609408",
       "size": 27648
-    },
-    "82c5af43893f": {
-      "text": "多年の研究が実を結んだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8ed82796305fd0cb1b7a93971041a7d5a64eacabffbc563c576f25a1da56168c",
-      "size": 21120
     },
     "82d1945a1fc6": {
       "text": "試験に合格したということだ。",
@@ -29393,14 +28249,6 @@
       "sha256": "70a578f1717cf0700bc09ce724d8eedf06ccff4f80d442cdd66b3666a1fc0056",
       "size": 15168
     },
-    "8314e7be8faa": {
-      "text": "悪いと思いきや、実は良いことだった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2876636dcb16db19fe4315dcc349ccbb9fcf25da8cd8efef0d3cc9f080bddbce",
-      "size": 28992
-    },
     "831c610d49b0": {
       "text": "子供に絵本を読んであげた。",
       "voice": "ja-JP-Neural2-B",
@@ -29464,14 +28312,6 @@
       "lang": "ja-JP",
       "sha256": "c193cbbe9125d7898b41140cbcc246335844913c6552d5af22be38dbf1365c24",
       "size": 7104
-    },
-    "83370056a4c9": {
-      "text": "何を食べたいか聞いた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2627197990e3e62932752bc92d3540d308cca2ca154ddaf05c2022c03a66f998",
-      "size": 16896
     },
     "8337a2467cd7": {
       "text": "お休みのところを申し訳ありませんが、少しよろしいですか。",
@@ -29552,14 +28392,6 @@
       "lang": "ja-JP",
       "sha256": "1202804fb020d6a4f2248afa03aa6e05f0c97394283eea3cb69ee446b2a58816",
       "size": 48000
-    },
-    "83be9b693027": {
-      "text": "わけのわからない話だが、信じる他ない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5ab3615cd56c5a67b4ef24dc7016e9ebf929ecd4bb84c382cc01c2b531b535d6",
-      "size": 28800
     },
     "83c47f35d11a": {
       "text": "彼に感謝している人は少なくないと思います。",
@@ -30369,14 +29201,6 @@
       "sha256": "7191479e75665aa1d267cf338ab4639299507354f8c83da66a305ba34f5addbd",
       "size": 35136
     },
-    "87ea65cded3d": {
-      "text": "をさせていただきたく存じます。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c1273eb4649788d3b8fe12ef3d81c4322169f4d9ae25913e8148b52c26c935c8",
-      "size": 18816
-    },
     "87f2186b29f6": {
       "text": "そういえば、あのレストランが閉まったって聞いた。",
       "voice": "ja-JP-Neural2-B",
@@ -30384,14 +29208,6 @@
       "lang": "ja-JP",
       "sha256": "4b6737df22e525936f9500a98e6ecdd0a8b2739dfd326eac4aade5c8b7cd8ded",
       "size": 32256
-    },
-    "88010219031d": {
-      "text": "雨が降るということで、運動会は延期になった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "48da0496116dad6db318187d4589775c7a8041220bed91a4a0f232cc712636a0",
-      "size": 34560
     },
     "880cf403ac96": {
       "text": "そういえば、あなたへのメッセージが届いていたよ。",
@@ -30953,14 +29769,6 @@
       "sha256": "69b1926a972af0cba25715bbfd1565803578c7aa65dd8eecb53a37365d6332d3",
       "size": 25728
     },
-    "8a440b5494aa": {
-      "text": "患者に説得し切ることは難しい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9e51884174083b72d1829c5011de09b337177fc4542e0095bcf2a6dd9700365f",
-      "size": 25344
-    },
     "8a4cadbcf414": {
       "text": "傷だらけの顔で帰ってきた。",
       "voice": "ja-JP-Neural2-B",
@@ -31121,14 +29929,6 @@
       "sha256": "7060cdd2ad79f31c6f0152d8b029cab4d953c85d4e1ce4406b095b9ded235eff",
       "size": 19776
     },
-    "8b52fcd58961": {
-      "text": "その香りは良くて、たまらない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d20648931de02d44402c21d7e89b4767b68b6a7179b0df5529f6d652eebc97e2",
-      "size": 21120
-    },
     "8b56ecfb2c81": {
       "text": "スイッチを押すと、すると機械が動き始めた。",
       "voice": "ja-JP-Neural2-B",
@@ -31264,14 +30064,6 @@
       "lang": "ja-JP",
       "sha256": "19bf3b801f9595f7f4961354a732094bfabd1be943ecd898ac4355188843c8c5",
       "size": 36288
-    },
-    "8bc86685ab41": {
-      "text": "たとえどんなにしても、諦めない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "506db45cd7546315997d36654ed1c663a9f6b1752d0608c5399290c159ffde63",
-      "size": 21696
     },
     "8bd132dec939": {
       "text": "三年にわたる研究の成果が発表された。",
@@ -32025,14 +30817,6 @@
       "sha256": "af0d0151b66ab91093edadb76d5df9544ef9f91181ad03874b1fed95a4b174f8",
       "size": 22848
     },
-    "8eef542d96c7": {
-      "text": "在宅勤務またはオフィス勤務を選べる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "04de2fac67936e6723b0541950089ecc91e00c3d4a75aa4b8ab7d3370cb804f5",
-      "size": 28800
-    },
     "8ef6f409c674": {
       "text": "どうすればいいか分からなくて、困っている。",
       "voice": "ja-JP-Neural2-B",
@@ -32233,14 +31017,6 @@
       "sha256": "51c0570836c44b0504cd5ce32c1293dc1563363df631a65aa66d031a7a159e6b",
       "size": 15168
     },
-    "9017105c57b9": {
-      "text": "その映画は見ずにはいられず、見てならない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5041d277adc106fd0b03612f61ac33f3d35724cb76f45be68abe9bd49a12ec4d",
-      "size": 30912
-    },
     "901aad262410": {
       "text": "朝ごはんを食べる。",
       "voice": "ja-JP-Neural2-B",
@@ -32296,14 +31072,6 @@
       "lang": "ja-JP",
       "sha256": "573d3fd123fe8a714930d3b00934b040fe51b055684367c4ad67dcf4c8600a8a",
       "size": 31488
-    },
-    "9059a1f2db4f": {
-      "text": "何にしても、頑張るしかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6d02b773b20e42e2875d3b40c2c2616537e046264b1c4698227cc0a0fe51f409",
-      "size": 20736
     },
     "905be66a0d5f": {
       "text": "この方法はうまくいくはずだ。",
@@ -32392,14 +31160,6 @@
       "lang": "ja-JP",
       "sha256": "640a13b427148d61373e12760232944dd4d5b7e9689f196e319d2f820756b886",
       "size": 26496
-    },
-    "90c7bb99e9e0": {
-      "text": "その料理が美味しいみたい vs 美味しいようです。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "aeb60c1748fe810a782e4698ad6dca76a04994e1b334a1ecd7de354f7d73d0af",
-      "size": 29952
     },
     "90ced8220d01": {
       "text": "彼の動きはぎくしゃくしている。",
@@ -33016,14 +31776,6 @@
       "lang": "ja-JP",
       "sha256": "0014c7a491bd446b89d61f0f72c8e28f166476762206c408e06bcea046611e9c",
       "size": 18048
-    },
-    "934c6292953a": {
-      "text": "気温の上昇に伴って、病気が増えた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1e6742c189eb494e6d5bf7aed795d54ab87475ac482ca2c3c6cbde6cc6cca2c9",
-      "size": 28992
     },
     "935f7fc3dde7": {
       "text": "雨に濡れました",
@@ -33793,14 +32545,6 @@
       "sha256": "f5c7a84695a25cbe7c68ae7998de7bb98974cd6021fe91964abbc6569c6e775e",
       "size": 37248
     },
-    "97285847df90": {
-      "text": "髪がボサボサ",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8471e1786012c48cb5b12eddbf3bc6061a345a091de7842525540323c791c948",
-      "size": 11328
-    },
     "972f527adb13": {
       "text": "コーヒーもお茶も飲みます。",
       "voice": "ja-JP-Neural2-B",
@@ -33944,14 +32688,6 @@
       "lang": "ja-JP",
       "sha256": "986ebe044cbd1d4f1d63301ecc63e692acdbe148acc94f01ef9de8a1e446b770",
       "size": 38592
-    },
-    "97e7e3fdc8e8": {
-      "text": "全力を尽くしました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "924a7338597fe962a195183e6dae113c65f01e2f48f725ec86a7b44945b05c5b",
-      "size": 15168
     },
     "97e7e63a597a": {
       "text": "たまに京都へ行くことがある。",
@@ -34112,14 +32848,6 @@
       "lang": "ja-JP",
       "sha256": "7c4c61937038b4a6643754bb7d2d95ac15754898fed1050cc35d60e00294032c",
       "size": 15360
-    },
-    "98ac0c9adaa4": {
-      "text": "心がワクワク",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a7654454ca4dc93fdc67bd323f7394f59b82d793c4b300c1e622ddbc717a065a",
-      "size": 12480
     },
     "98cd1ae693e7": {
       "text": "彼のように話せるようになりたい。",
@@ -34441,14 +33169,6 @@
       "sha256": "281aa70218c7102ecca21e43228e0a525faa4158d347597f9af8b20d221d68c5",
       "size": 29952
     },
-    "9a342731e73d": {
-      "text": "昨日の出来事だけを覚えている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2d691820309957774b0deb11c80029fbb3ce51ca46edb717221a8b0f7951c71e",
-      "size": 22272
-    },
     "9a3554f797ad": {
       "text": "親孝行しないわけにはいかない。",
       "voice": "ja-JP-Neural2-B",
@@ -34464,14 +33184,6 @@
       "lang": "ja-JP",
       "sha256": "47a0f5f551ae03a4ecef4e0ecadf4af4114e9748f854af3bd1644949f9067718",
       "size": 22848
-    },
-    "9a5a8930474f": {
-      "text": "どうして失敗したか説明してください。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b5725749e59694804d5f763c9a26b2ed5903dd181b2e15dd02c2570f12192055",
-      "size": 23232
     },
     "9a72d9b7215e": {
       "text": "日本語はもとより、英語でも対応できます。",
@@ -34688,14 +33400,6 @@
       "lang": "ja-JP",
       "sha256": "a72ac4703e381d3c75c74b561123012ab8b64a07e887be0746e7946576a5612b",
       "size": 29376
-    },
-    "9babaeb2c8f4": {
-      "text": "あるいはそれが原因かもしれない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "aa949d474062e63a1f96b5f83e4c2fb87711d7ab2a86b86e4cbf81a3b1616153",
-      "size": 21888
     },
     "9bd2196653db": {
       "text": "卒業以来、あの友人とは一度も会っていない。",
@@ -34976,14 +33680,6 @@
       "lang": "ja-JP",
       "sha256": "e5469fc246fb02c921a05d4974169d43b6846b4065004667fae584eb13049c91",
       "size": 25152
-    },
-    "9d36cd28b855": {
-      "text": "ゆえに我々は行動する。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f4b29b8af186f755db2e8dd63fbfa09078f016e6b06deda465d966342251aaa0",
-      "size": 18816
     },
     "9d39a50f5610": {
       "text": "時間なら、ある方がいい vs 時間があったら、ある方がいい。",
@@ -35345,14 +34041,6 @@
       "sha256": "476f729c94b81a1ddd08a0a1bdb0813ec1bc74a3f8ed6b8e9f530a30d76d38f1",
       "size": 20544
     },
-    "9f18f4601c7f": {
-      "text": "努力が実を結んだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0dbfef21dfcf6af9b5945798b13d1e97a8dcf3b3783041e2f02de42c70ff3fd8",
-      "size": 16128
-    },
     "9f20d8f11cc5": {
       "text": "さらに詳しい情報は担当者にお問い合わせください。",
       "voice": "ja-JP-Neural2-B",
@@ -35505,22 +34193,6 @@
       "sha256": "cd5710c8d5126df0ce3d65264d0240d644997666fcf84209065a1f2f110a656b",
       "size": 31296
     },
-    "9fd1f76043dc": {
-      "text": "しかも彼は医者だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9acb3bf72d95e43ddc5fe25e5398d3aa8bd04aad7f7176522f190cd7faa2c6e1",
-      "size": 15360
-    },
-    "9fd2b4596e47": {
-      "text": "わりに簡単だった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6876b77d558fcd0a46bb178b0b87011e3937439fa612dafbfc61004e264c3c5d",
-      "size": 15168
-    },
     "9fd2c2369ca7": {
       "text": "渋滞のせいで、会議に遅れた。",
       "voice": "ja-JP-Neural2-B",
@@ -35601,14 +34273,6 @@
       "sha256": "158698dd416f3c2044bd7a123200e20f9e54e36d3bb2aa88ac33a8aca67e9ce0",
       "size": 17088
     },
-    "a04b4a170c01": {
-      "text": "わけのわからないまま、状況が進んだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "12fbb7c5ee8236eacdf5ee210d3577b5b0cd5ea89e7f78c7c6d542eb495d4116",
-      "size": 26880
-    },
     "a05f15fb809e": {
       "text": "式典に先立ち、リハーサルが行われた。",
       "voice": "ja-JP-Neural2-B",
@@ -35656,14 +34320,6 @@
       "lang": "ja-JP",
       "sha256": "a7d9824f34967fd60f5db3dbf7b1a3cff6d0f03a2ca4cf1ef4c6cd51f3db78c9",
       "size": 31488
-    },
-    "a09ed82f4f4a": {
-      "text": "お返しさせていただきました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f831536418512e7750be1b44564370ef8923c09a36972e78d1ef2d15ddbe0280",
-      "size": 17472
     },
     "a0a4faff93f6": {
       "text": "この先、人口が減っていくだろう。（将来の傾向）",
@@ -35961,14 +34617,6 @@
       "sha256": "5792bcf47c4da9a3e18f7e0d5f527ef37ce19fd7dd4e41cc36e404a22030493d",
       "size": 21120
     },
-    "a2acff5d2144": {
-      "text": "その証拠に出席率が高い。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "bea99c4f58a2feccd6d0d42020bae42489bb1d9dd8559d9c9de5120063ad13eb",
-      "size": 22656
-    },
     "a2e2d019a3f5": {
       "text": "この方法が最も効果的とされている。",
       "voice": "ja-JP-Neural2-B",
@@ -36185,14 +34833,6 @@
       "sha256": "cfd1f0ad1249ac03577e9e947fc343b968a3a448d69ddbc19aafa25a63f7ca65",
       "size": 28032
     },
-    "a42631a9dc1c": {
-      "text": "一度しか会ったことがない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "196b21c70b01bb7bbe2949961d13455b796420d908b48ba129f2b2052033d4ab",
-      "size": 17664
-    },
     "a42ca376e44b": {
       "text": "町ぐるみでその選手を応援している。",
       "voice": "ja-JP-Neural2-B",
@@ -36313,14 +34953,6 @@
       "sha256": "410148ed7bd68a926df9eb47c63aacff8b35eb35fd377b8056e85b80081f3c57",
       "size": 23232
     },
-    "a4bfe65732d1": {
-      "text": "彼は絶望したとばかりに叫んだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c0f5912de8df0d961902b65bcf6c0b26641c6bc3b6db4f82fb6fc12c582ca67d",
-      "size": 23232
-    },
     "a4c7811321a5": {
       "text": "電車に乗って、大阪まで行きました。",
       "voice": "ja-JP-Neural2-B",
@@ -36409,14 +35041,6 @@
       "sha256": "0890dee4b3e3ee2cb35489d4256914a52719d4ecf25cca2070e8409af725e97f",
       "size": 37056
     },
-    "a51642053fb1": {
-      "text": "成功するとばかりに自信満々だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a84dd2047b290dd4c1aa21821187846e395e9cc132d1b9e0a1ea462c59585ee9",
-      "size": 24960
-    },
     "a534ffb7f482": {
       "text": "彼が黙っているところを見ると、賛成していないのだろう。",
       "voice": "ja-JP-Neural2-B",
@@ -36472,14 +35096,6 @@
       "lang": "ja-JP",
       "sha256": "40d8626f336c9dc5f40eb0d3388910669cdaa35afd69ea3d21f8148bf9db68c4",
       "size": 16128
-    },
-    "a57f1cfea96e": {
-      "text": "どんな風になるか楽しみだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5ad5b5086120733cd3d4dd7e6e04dbe7919df8f52c195d57f4eb72b620d96f6d",
-      "size": 18816
     },
     "a58cc7ecf6fc": {
       "text": "長年修行しただけのことはある。技が美しい。",
@@ -36640,14 +35256,6 @@
       "lang": "ja-JP",
       "sha256": "16567d9968c3e83d5756f3f2cc78b231a0efd43d7bd2d19dcca985e44a741ee6",
       "size": 33408
-    },
-    "a63be80d1544": {
-      "text": "ばかりか、逆効果だった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "ad3a395b3371bb2fea58087d28f6287fcefa213205ea6f75d2613d9985e973ba",
-      "size": 19392
     },
     "a63c3d98ca59": {
       "text": "ぎゅぎゅ",
@@ -36993,14 +35601,6 @@
       "sha256": "e267a5b3bca881f5c1acf22e89e8e3d2e67a46f71b067499890b3fa9cd007a4f",
       "size": 33216
     },
-    "a7b6f36c45b5": {
-      "text": "但し、時間制限がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "22a8173cee1c4e9e586b946b03cdddd7d783678109ba6c52cc15a32f064d3939",
-      "size": 20736
-    },
     "a7b87d42a095": {
       "text": "賛成にしろ反対にしろ、意見を述べる機会は平等だ。",
       "voice": "ja-JP-Neural2-B",
@@ -37152,14 +35752,6 @@
       "lang": "ja-JP",
       "sha256": "32434556ee68eb611020fb93df7baab8b58e3d4b0935ed7ba465fe94ff539bca",
       "size": 24768
-    },
-    "a84053a9e1d7": {
-      "text": "彼の意見だけが重要だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "465b0e1a3b4f2efaeb1c208fd3e54eca72f1782cd2eff8010b1de5934361acc7",
-      "size": 19776
     },
     "a84d03f1d2ea": {
       "text": "職人ならではの技が光る一品だ。",
@@ -37361,22 +35953,6 @@
       "sha256": "e5b3d95320909328edfd9adee1ae181b9b7010dfd4a3acf94f6b0aee95b4c247",
       "size": 23808
     },
-    "a8fb19f3c7fa": {
-      "text": "この景色は綺麗で、目を離せない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "948cc719fb51736401f95de3de15e228accfba9fe9c21950bcf1da54117283ff",
-      "size": 25344
-    },
-    "a8fef447a49a": {
-      "text": "本がないということで、図書館に行った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f9dcd39f8662700d87468177ab12930b458ab8fedeee5f65224de04135e2268d",
-      "size": 28416
-    },
     "a906000f8180": {
       "text": "なぜ日本に住みたいですか。",
       "voice": "ja-JP-Neural2-B",
@@ -37488,14 +36064,6 @@
       "lang": "ja-JP",
       "sha256": "01b4ade08e5114db62651ac728188b5964df1002f1df63b71a32c989145882f6",
       "size": 11904
-    },
-    "a9982ef5c86f": {
-      "text": "誰にせよ、このルールは守るべきだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5cb905d0f968189a47a2bd7022da2b3aef827d0fe71543261ece6c15486b3305",
-      "size": 24768
     },
     "a9a1869e9ea8": {
       "text": "恋しくてたまらない",
@@ -37809,14 +36377,6 @@
       "sha256": "9fbc29ec283285db7f52e73b8bee8215ac52966bf2bb87fea94f13b32e9ed8b7",
       "size": 22848
     },
-    "ab179755a9e7": {
-      "text": "このご時世、遊んでいるどころではない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a7594591996ca1e5282c234cfb92ea2924a548a397453cfe87953867ae16b022",
-      "size": 27264
-    },
     "ab1f927845ce": {
       "text": "ぴかぴか",
       "voice": "ja-JP-Neural2-B",
@@ -38001,14 +36561,6 @@
       "sha256": "9f630befeac1d7d2cf35dfb7459689a66c2e12a89970e6b97b6dacfa7c50c434",
       "size": 18048
     },
-    "ac57808dc5c5": {
-      "text": "美しすぎて、見つめずにはいられない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9dce3cbbf4480a23c154852695936b0020b1ede6de3dbfd460e65c2cbdb5b037",
-      "size": 24960
-    },
     "ac57eb12f25e": {
       "text": "完成度以前に、方向性が全く違う。",
       "voice": "ja-JP-Neural2-B",
@@ -38024,22 +36576,6 @@
       "lang": "ja-JP",
       "sha256": "a5d1e5bcd6052d8cf632740f1fddd10d720741c69d7f7bfcafa4826155628e35",
       "size": 26688
-    },
-    "ac5d2b00ceee": {
-      "text": "何時に出発するか教えてください。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8676b7fdbb7b569bb889b5a113df84208b02a960537a59012ec8c00f31bff9c7",
-      "size": 23616
-    },
-    "ac692bae38c8": {
-      "text": "いつにせよ、準備が大切だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b496ea9736d0ae398de96c1310c1f3b85e33de0a8a552f42b3711327898aa91e",
-      "size": 22464
     },
     "ac6ac30bfc68": {
       "text": "この問題の原因は、何といっても準備不足だ。",
@@ -38417,14 +36953,6 @@
       "sha256": "db61f0c1574c322f6bad57c22e0bdd1fc5c1aeb2684c1f10541e592f8eaf0fc1",
       "size": 19584
     },
-    "ae27eaeae8de": {
-      "text": "科学並びに芸術の発展。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "ca17de33cacf93905a13db46ae8b303c9e39829dae3abac1e75c80bc914f5f5e",
-      "size": 21696
-    },
     "ae31603806e6": {
       "text": "昔の人だものだから、新しい技術に不慣れだ。",
       "voice": "ja-JP-Neural2-B",
@@ -38464,14 +36992,6 @@
       "lang": "ja-JP",
       "sha256": "434065c3eea38ad16fb40fd5d32fe57df73d3c73ea29f59a46089294a5bda063",
       "size": 21312
-    },
-    "ae49cb9230fd": {
-      "text": "新しい文化を受け入れ続けている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "718d4e7c09433a524157449e7ddf40b41dd8717ec1326de3d30cd74422afc04f",
-      "size": 24000
     },
     "ae4ce7034945": {
       "text": "親の世代にひきかえ、今の若者は苦労を知らない。",
@@ -38873,14 +37393,6 @@
       "sha256": "a76776a27456a80fbb465704a4655e3ef32a1395f8eebdbbb71c550325588c78",
       "size": 18624
     },
-    "b069d3275436": {
-      "text": "時間がないので、やむを得ず途中で帰った。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "eee76a71009d0ae8710b6fbc58c9fa35aa404e298d35bb43a7e5b30110ad9a63",
-      "size": 31872
-    },
     "b06c6835ae98": {
       "text": "不注意なために、何度も同じミスを繰り返してしまう。",
       "voice": "ja-JP-Neural2-B",
@@ -38961,14 +37473,6 @@
       "sha256": "d76aad3a8e8f76e5ee1088f75b12658a473c2e4275419fc616fca42f3aad2f80",
       "size": 37248
     },
-    "b0b712346e5e": {
-      "text": "子どもの泣き声は大きくて、たまらない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4e53573c952acf5de391b840ba308d0a523ed4e079303c71dd245b5a2d474314",
-      "size": 25536
-    },
     "b0c042654fe4": {
       "text": "情報が不十分だったために、判断を誤ってしまった。",
       "voice": "ja-JP-Neural2-B",
@@ -39023,6 +37527,14 @@
       "rate": 1.0,
       "lang": "ja-JP",
       "sha256": "4cb3c3c391ca9897ff41e3f8a332462ac449e0351cd54c14a1f4d2acdac288d8",
+      "size": 29568
+    },
+    "b1356f8b9bc3": {
+      "text": "その料理が美味しいみたい vs 美味しいようだ。",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "d32322cce7761f6e0688e3777cd5de8b19513b745c01df5e387fe6443712207a",
       "size": 29568
     },
     "b13c1ef23e2d": {
@@ -39169,14 +37681,6 @@
       "sha256": "ec68b144e6f0e1f90ecc3e678be45fc566f4cf4499ec4bd028452f47e7dce6df",
       "size": 11712
     },
-    "b1cf61d6343a": {
-      "text": "仕事ばかりか、プライベートも充実している。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9e8c2cf918c0ef51c657642679777ec6a4c09cfc282c9c8d9d76b0e9a341ed9f",
-      "size": 28800
-    },
     "b1e71fe71c5e": {
       "text": "口論のあげく、二人は別れた。",
       "voice": "ja-JP-Neural2-B",
@@ -39241,14 +37745,6 @@
       "sha256": "fbca2c697bc6f53155870ad62c8d32e39b126d121a843a19118dae84a673cb1a",
       "size": 7296
     },
-    "b239588f7514": {
-      "text": "金銭的な援助だけが可能だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "926df1767797558cbb1d02689e44f4a204bd5a0879e3d68052213822e6fb201f",
-      "size": 23232
-    },
     "b23aa21d6038": {
       "text": "もう少し早く行けばよかったじゃないか。",
       "voice": "ja-JP-Neural2-B",
@@ -39289,14 +37785,6 @@
       "sha256": "c22a3bc72d2ad83fb378e2333b6f1337bb7e62a87adb2e46bd07d976d9a22262",
       "size": 39360
     },
-    "b27167b39dd2": {
-      "text": "時間がないということで、会議は中止になった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c44ea18bcd4b58f0b4a340dac9fb8cb233abaf2b1763d61cf2b930953f966d24",
-      "size": 33024
-    },
     "b271f17a17ee": {
       "text": "今日は寒いですね。",
       "voice": "ja-JP-Neural2-B",
@@ -39336,14 +37824,6 @@
       "lang": "ja-JP",
       "sha256": "0e00031a5ebf8e69c9f28002218af4649b8c53876b1eaa7c645aa61d0418330b",
       "size": 3840
-    },
-    "b2916a590acf": {
-      "text": "彼の話というのは、いつも面白い。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6e0dfd603944994683228893d6a0b3f1119390f05cd2785b434fde9efe687903",
-      "size": 26880
     },
     "b29b65896d1c": {
       "text": "涙が出るくらい嬉しかった。",
@@ -39521,14 +38001,6 @@
       "sha256": "51ceb681ed1a2494067b7faa9b8edb9517cc2b26b82b3cf1df511dae12de03be",
       "size": 37056
     },
-    "b34bb04d3777": {
-      "text": "その小説は面白くて、徹夜してしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "da78a3de2a4279289d2bf6d3dc793e9087afe0954d3d9c43b71d23544b4a88ca",
-      "size": 28800
-    },
     "b3612dba5c2f": {
       "text": "時間がないので、急ぎます。",
       "voice": "ja-JP-Neural2-B",
@@ -39592,14 +38064,6 @@
       "lang": "ja-JP",
       "sha256": "31d89cb046f7be0966b1a88567f601a576f2a949eed1f96b1b2651ef1b91d913",
       "size": 9024
-    },
-    "b3b96997d3dd": {
-      "text": "合格者はこの学校ばかりか、他大学も含む。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0db873a695c89f64a92b2519700fde0c517a52f4a2f05f6aa7279f089d4fed1c",
-      "size": 35712
     },
     "b3bbde20035d": {
       "text": "あまりに暑くて、外を歩く気になれない。",
@@ -39825,6 +38289,14 @@
       "sha256": "61a9b10dfde339484f76b61de9f4fcb46a99eec8574698d2b7d7aee1c61aa2b9",
       "size": 4224
     },
+    "b5168972d63f": {
+      "text": "心がワクワクする",
+      "voice": "ja-JP-Neural2-B",
+      "rate": 1.0,
+      "lang": "ja-JP",
+      "sha256": "c3d93a54b0195149d39ef40936bbb593920bb082d8680b6c49169d37406429ee",
+      "size": 14016
+    },
     "b51e2c48e1c5": {
       "text": "大事な書類を捨てるところだったが、ギリギリで気づいた。",
       "voice": "ja-JP-Neural2-B",
@@ -39977,14 +38449,6 @@
       "sha256": "1970c1de5ce8947f3f52f729a039d9950a74d06761d45a44e22df9bcac6659e7",
       "size": 27264
     },
-    "b5b2b33a0216": {
-      "text": "なぜ遅刻したか理由を聞きたい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "bb3c07695bcc3d3e759174bdaba30185b44d6e3a2311e33d341c8d6ae076e0b0",
-      "size": 21888
-    },
     "b5b8dff96abb": {
       "text": "道順の通りに歩く",
       "voice": "ja-JP-Neural2-B",
@@ -39992,14 +38456,6 @@
       "lang": "ja-JP",
       "sha256": "3c54834b30a8a490d198857fabc3e173bc9a69b1d766094e675d9194461f17d9",
       "size": 17280
-    },
-    "b5c52a105ee2": {
-      "text": "賛成または反対の意見がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8ce94c07aff7781eca6f9f5a5efc5db7c98aac8d06ba1b779cdd12448cf58388",
-      "size": 24576
     },
     "b5ced6208b2c": {
       "text": "泣いては笑い、笑っては泣いて、感情が忙しかった。",
@@ -40192,14 +38648,6 @@
       "lang": "ja-JP",
       "sha256": "5af71c02654dfa61b8a09c8b52e1bf144633052d2527257f3f0baf1d01ce9d77",
       "size": 23232
-    },
-    "b6705d80bcb5": {
-      "text": "誰と一緒にするにしろ、相互尊重が大切だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5926b2c616bbd6d58732c1addcca0e378501990302e62d97438ca3680eeab0fc",
-      "size": 35712
     },
     "b67db01fa999": {
       "text": "積極的な意見と慎重な意見が出た。前者を採用することにした。",
@@ -40529,14 +38977,6 @@
       "sha256": "754501d62843991105803d75b940974fc8cda3d01605af90b7f8fff77451d9a3",
       "size": 30528
     },
-    "b82243ae42fc": {
-      "text": "させていただく。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "8a08ad5c5a59f33e0c12cc1eac85718e34db9fcdeb64fb52adf8e2b52b3338a6",
-      "size": 11136
-    },
     "b82f3a82418b": {
       "text": "英語やフランス語といった外国語を学んでいる。",
       "voice": "ja-JP-Neural2-B",
@@ -40616,14 +39056,6 @@
       "lang": "ja-JP",
       "sha256": "4ca9c3b9625abeca471204cdda3a7c36ecdaa1eeb78781609755f57c83632d58",
       "size": 34752
-    },
-    "b8641170bb4e": {
-      "text": "ご配慮いただけますでしょうか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "533b1115fe1ce17f34a7e11bff0a29c34f59b0cdf0b91daa466e12ab126d6954",
-      "size": 17664
     },
     "b86be83c40f4": {
       "text": "会議の開始は午前10時となっている。",
@@ -40728,14 +39160,6 @@
       "lang": "ja-JP",
       "sha256": "01e807e673608a1cdfbb8c5cd6a6c5ec31eb266382cafb7708392d40a737889f",
       "size": 20160
-    },
-    "b8d5a583b1b7": {
-      "text": "彼の鼻歌は上手でたまらない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "da7bf850bda48b019bfba17effc9a4e9a95e89a1bb4dd0ec72da9adb92221ba3",
-      "size": 22272
     },
     "b8de52d7bea3": {
       "text": "散歩がけに、近所の公園の花が咲いているのを見た。",
@@ -41049,14 +39473,6 @@
       "sha256": "bcd98648cca710cec4c37afff80d4f607629dc491da89970fa47b3b4d0c57368",
       "size": 23040
     },
-    "ba3df0697420": {
-      "text": "部下を育て上げることが管理職の役割だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6b5df4af84f3ac569fb802df6166035f1aa51741b08f0c4385552609699f1e40",
-      "size": 28224
-    },
     "ba3ecbfed959": {
       "text": "このまま円安が続くとすれば、輸入品の価格はさらに上がるだろう。",
       "voice": "ja-JP-Neural2-B",
@@ -41112,14 +39528,6 @@
       "lang": "ja-JP",
       "sha256": "89c0006cd9b06f8f5eb64506bba9935dfff0379a9f2bc3e5871b858a70a88859",
       "size": 18048
-    },
-    "ba736ce0916d": {
-      "text": "彼女の優しさに、思わず泣いてしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "97ed8c637fc6149ee711d6e6ce22eb5aad0e6baa1a7bdc52295e91ff7608b2ec",
-      "size": 29952
     },
     "ba7526a5c03f": {
       "text": "ら",
@@ -41184,14 +39592,6 @@
       "lang": "ja-JP",
       "sha256": "ad1f8d3c9347c497966763b705aef554adadbd8a2d5bc7bf5293a2b97c44f001",
       "size": 5568
-    },
-    "bae25318a255": {
-      "text": "指示に従い、作業を進める。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "889385b334ebf417d24d36d510fe2f14dc18cac3b56f8c3e635fe269624a1864",
-      "size": 23616
     },
     "baf781a175c9": {
       "text": "傘を持たずに、出かけてしまった。",
@@ -41321,14 +39721,6 @@
       "sha256": "06f5b4b313b6e4534d3b4159b7aa6138ec7020a6410fc70dd2248b05449f613f",
       "size": 42240
     },
-    "bb6bb72fe416": {
-      "text": "彼は学生だけではなく、アルバイトもしている。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "59d0eeb975c56f062e23ceeed165d391b826daff59edb18a8abec1596d0a1ced",
-      "size": 32640
-    },
     "bb814b66c424": {
       "text": "勝たんがために、あらゆる努力をした。",
       "voice": "ja-JP-Neural2-B",
@@ -41352,14 +39744,6 @@
       "lang": "ja-JP",
       "sha256": "a32619615338a680171410c143f8906513e7721d05a70def5b3fcf7c2a451cdc",
       "size": 19200
-    },
-    "bb92f5bcc0bc": {
-      "text": "計画が進むというふうになってきた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1e9938f21b389b4cef049bb2952b4e79f7d5969299fed208f5ef9d13681b802e",
-      "size": 23232
     },
     "bb95ca09b69c": {
       "text": "彼女は優れた翻訳家として、業界内で有名だ。",
@@ -41464,22 +39848,6 @@
       "lang": "ja-JP",
       "sha256": "65476ea09ef359e5089cd8f519d207cb447911caeb3728ebb55ea4e03e603056",
       "size": 24384
-    },
-    "bbd7edb37932": {
-      "text": "我慢するしかない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0babf3e630c381bb4b76eebc6957f20ce639890618fa8ffee3bc561a2d2da041",
-      "size": 12672
-    },
-    "bbd9df842354": {
-      "text": "彼女が来ないなんて、信じられず、戸惑ってばかりいた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1ce21ef6189fcd675bc651c4ab3e1bb18e2ff5c977355052882ba956c6a5eb17",
-      "size": 37440
     },
     "bbdd6e6cd705": {
       "text": "電車が止まっているので、タクシーで行くよりしかたない。",
@@ -41704,14 +40072,6 @@
       "lang": "ja-JP",
       "sha256": "bcc7695e663af5fdaa2e1f705c97a0098805ea81dd9ebfe7c39578f94d233a22",
       "size": 36096
-    },
-    "bca160aca8fc": {
-      "text": "さらに重要な点がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e8608a8488323b10a3a1abc906e0eb98ca23215ac90009aaf4f456e062fadbed",
-      "size": 18240
     },
     "bcac57efac82": {
       "text": "彼は先生じゃない。",
@@ -41993,14 +40353,6 @@
       "sha256": "22bf2117caaacfa73e81e9b63be1da618ac63fd448fad14a7b9fe739b5d1117d",
       "size": 7872
     },
-    "bdea96c22fc7": {
-      "text": "選択肢しかありません。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d38a6c05ff293c09b95d85ae5a649f478d9cad72891259ca3cb3b2efca6693a4",
-      "size": 16512
-    },
     "bdec17bcbeef": {
       "text": "早く来てくれればよかったのに。（残念）",
       "voice": "ja-JP-Neural2-B",
@@ -42072,14 +40424,6 @@
       "lang": "ja-JP",
       "sha256": "925e97eaf255a7fddda6d51de5e0b69ed175c4a7f33844c8073ff82fccd52b90",
       "size": 30336
-    },
-    "be3ed9a9f6bc": {
-      "text": "ぐらい緊張したことはない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e453b9f2f7002af4b5cc591ebc6187b5fe3f349c980847533105fb41e8c3ceec",
-      "size": 18816
     },
     "be48804fc656": {
       "text": "音楽を聴きながら、勉強している。",
@@ -42609,14 +40953,6 @@
       "sha256": "731e7be10425115755e2b3fb1edd61c6f46b79c96d21c4466cbd47c9bab29212",
       "size": 19584
     },
-    "c07b92fd9d4d": {
-      "text": "開始だと言うが早いか、問題が起きた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b94e29914f432c581b879c41b758a8f6ad006f856a5a308cc22e914a48d51210",
-      "size": 29952
-    },
     "c089343f28ca": {
       "text": "参加させていただきたいです。",
       "voice": "ja-JP-Neural2-B",
@@ -42921,14 +41257,6 @@
       "sha256": "88b4d814bb335ac754baee8fb8868c2b78133dda4068f6977750cd380b8ceab7",
       "size": 20352
     },
-    "c1c4de8df2e7": {
-      "text": "にしても、結果は同じだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b5c7d5ff2c356993f14e865d86365211db0b3aae1e78910e079eafb1ac036e79",
-      "size": 19392
-    },
     "c1dc222bd08b": {
       "text": "りんごが三つあります。",
       "voice": "ja-JP-Neural2-B",
@@ -42976,14 +41304,6 @@
       "lang": "ja-JP",
       "sha256": "fb062fffe09ed2f74865f64679c7c4700cb9fe2255e476a133f9306f512cb434",
       "size": 19968
-    },
-    "c223b326df00": {
-      "text": "月曜日または火曜日に会議がある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e482eb24bb3425a4e6a5a32d000d645a3f72f3d604f2ac7d083ae841b05850cb",
-      "size": 25920
     },
     "c2251edf3f45": {
       "text": "新製品の情報はたちまち世界中に広まった。",
@@ -43064,14 +41384,6 @@
       "lang": "ja-JP",
       "sha256": "8faf137c99c77b2627374e2df92d655a81c1bf923802018829730ab1d4e1eb14",
       "size": 14976
-    },
-    "c27ab9da686e": {
-      "text": "彼が犯人のではあるまいか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2f54ba543f2a84d1d54408f246cb106e4080f55156e8f81d0c2f7bb831a1972d",
-      "size": 20544
     },
     "c290aa4fc780": {
       "text": "ブーブー",
@@ -43192,14 +41504,6 @@
       "lang": "ja-JP",
       "sha256": "a2ff17e8f2f259480dfef91b85087efe80991cf955d8340339c5dd3ebbbc9402",
       "size": 35520
-    },
-    "c3155960403f": {
-      "text": "その光景には、心奪われてしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c4d552f57ad431f62b5e478f026f479ffb12ed446b706c0e41f0cdd382ed0b1f",
-      "size": 26688
     },
     "c32efa728b5c": {
       "text": "国民生活を守ることが政府の責務とされている。",
@@ -43497,14 +41801,6 @@
       "sha256": "89ffd8228b907246cfbc8a77988c7c51a333f93b2865823790b4ff0e44fcf546",
       "size": 33408
     },
-    "c47c16302855": {
-      "text": "勝ったとばかりに得意になった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6eb315db27e66ca628faddd073c995b364cbe146ef9821d079e29e53b63bf318",
-      "size": 20352
-    },
     "c48df2ff84df": {
       "text": "十年の留学を生き抜いた。",
       "voice": "ja-JP-Neural2-B",
@@ -43632,14 +41928,6 @@
       "lang": "ja-JP",
       "sha256": "5c9818d79f576d74a69863b3c663c4646edac4576721954008bc3fa0b75cc649",
       "size": 15360
-    },
-    "c5122f6fffe6": {
-      "text": "彼の行動は信じられず、笑ってしようがない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4ca3d01d41b518e5e0a7cf1c26c2406e9d88f869725c0fa38bae38940853f683",
-      "size": 33792
     },
     "c544cc9532e8": {
       "text": "日本語が少し話せるくらいで、ビジネスには使えない。",
@@ -44033,14 +42321,6 @@
       "sha256": "194d97372ccdb553d7d9662a00ff33ba43286bde49f0e484ae185751c3b0b2eb",
       "size": 13056
     },
-    "c71045a64291": {
-      "text": "声の大きさが上がるにつれ、周囲も注目した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "47f453b852d6408223d877dcd658017166c8eb0284ae818af2740840d78198fd",
-      "size": 34944
-    },
     "c718f1b035f4": {
       "text": "水だけで三日間生きられるそうです。",
       "voice": "ja-JP-Neural2-B",
@@ -44105,22 +42385,6 @@
       "sha256": "8cd909bbd6e6b2909e3098960785eb6be80e2c1e36d16ea3e93518aa31c9c477",
       "size": 19584
     },
-    "c74d9807fa88": {
-      "text": "彼の不在というのは、仕事が忙しいからだ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2cc89b19147bda5bb99bff4c4f719000c384535b3457e8d689509b038050e08d",
-      "size": 34368
-    },
-    "c75d130b806d": {
-      "text": "予算がないので、やむを得ずプロジェクトを中止した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "7f2452b15a145024a1802a0dd170191853a4666000f5a2e417d9a6083abc1ff0",
-      "size": 35328
-    },
     "c760ce01e3b6": {
       "text": "厳しい指導の下で、多くを学んだ。",
       "voice": "ja-JP-Neural2-B",
@@ -44160,14 +42424,6 @@
       "lang": "ja-JP",
       "sha256": "6bd09dea617bd0d3f572168b5f9fe41db12cec02686b917ae7685a1229251749",
       "size": 20544
-    },
-    "c792d1b9ce9c": {
-      "text": "子どもの成長とともに、親も成長する。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dfe4581f9fd9d03bf835c7b0550d16703cfe3331a7e7572d198c4e90912d68ab",
-      "size": 28416
     },
     "c7aef4fed49a": {
       "text": "高度が上がるにつれて、気温が下がる。",
@@ -44424,14 +42680,6 @@
       "lang": "ja-JP",
       "sha256": "fdf52f9098af8d698efd88a3a2738343c8199e1af8e5730445cdeacba0a4a8f7",
       "size": 18816
-    },
-    "c8d52591d38b": {
-      "text": "夏休みがいつ始まるか確認した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "855a175d1e474cc9148767958c112f32bca219bf60ea4ac7881a4c5641dd0e69",
-      "size": 24576
     },
     "c8e4f47b2116": {
       "text": "長い議論のあげく、結局決まらなかった。",
@@ -44705,14 +42953,6 @@
       "sha256": "41413b6f876e8620263a60ae7949ae6b603b9f105bfe6e91c9446df0656b3109",
       "size": 19008
     },
-    "ca1e5db03b31": {
-      "text": "成功するにせよ、失敗するにせよ、経験になる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "08eb03f13720224ae0ed983eb7d25ef91947e0f46a9151ee7d065058ac806b49",
-      "size": 39168
-    },
     "ca1f2daf7856": {
       "text": "もっと野菜を食べるようにしたいと思います。",
       "voice": "ja-JP-Neural2-B",
@@ -44752,14 +42992,6 @@
       "lang": "ja-JP",
       "sha256": "749039b4734299655130742dbe41bfd0be868df80152c802e039052230627262",
       "size": 25344
-    },
-    "ca36137a26bd": {
-      "text": "努力ばかりでなく、才能も必要だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9fb153b0a518fb321fc06bb697ff619fd8b07ee89f44f4459ece04df48e1243b",
-      "size": 27072
     },
     "ca44a3cec485": {
       "text": "毎朝七時に学校へ来ます。",
@@ -44840,14 +43072,6 @@
       "lang": "ja-JP",
       "sha256": "7259523186e62fac753095ef59dd372536593ff4f13cbd219c6eb6de8cbf467a",
       "size": 26112
-    },
-    "ca8fca45b9a5": {
-      "text": "悔しくて、言葉が出てこない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5667a5e0f0e17b7854bbe705c052692a897feb3532ce20023ef8daf8c5c6107c",
-      "size": 20736
     },
     "ca94ebaa8ae2": {
       "text": "うちの猫ときたら、好き嫌いが多くて困る。",
@@ -45057,14 +43281,6 @@
       "sha256": "4e8cb844011980e664c184b209f0fe9e731b5454f00e243ab0c8cf26c91b38a4",
       "size": 35904
     },
-    "cb3eccef3ac4": {
-      "text": "運動不足だというのは、健康に悪い。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "cadfde2f3e634f24a773d746e820d50e8227194a09b8e65b1a00214355995d67",
-      "size": 27264
-    },
     "cb3ee8575a8f": {
       "text": "や否や",
       "voice": "ja-JP-Neural2-B",
@@ -45096,14 +43312,6 @@
       "lang": "ja-JP",
       "sha256": "3706cefb8ab3aec2602f10d20b6610cbcdb148e6c1098cdabeaaac878ee4ce8c",
       "size": 28608
-    },
-    "cb5371d0059e": {
-      "text": "一方で効率が上がり、一方で負担が増える。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "111ff5b70362de868230054672261b43d25f4657248faa17ac89f73fb9139c34",
-      "size": 32064
     },
     "cb600b8f6974": {
       "text": "天気が良くて、嬉しい。",
@@ -45457,14 +43665,6 @@
       "sha256": "0dd73671b169daa41312861556a39fdc75546eae074713e973a1fcedfcb0a881",
       "size": 15168
     },
-    "ccd7b320c0fd": {
-      "text": "試験に合格したということで、祝いを受けた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "7590f910ba110c757ab8bbc128e3902ec3bf68ce83df18856811c2ab03200ae5",
-      "size": 31296
-    },
     "ccdef69c271c": {
       "text": "東京という東京を歩き回った。",
       "voice": "ja-JP-Neural2-B",
@@ -45512,14 +43712,6 @@
       "lang": "ja-JP",
       "sha256": "46494d0e45d514cbce3b7d716b6c3a4ddfbb98c82716361cee75c76c11d4868b",
       "size": 28608
-    },
-    "cd10faa8651b": {
-      "text": "元気だと思いきや、実は病気だった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d3502f2815e3b7e47296f1c1eec15d563f63565b3573427e9869fc0c973aa5d1",
-      "size": 29568
     },
     "cd113e98b128": {
       "text": "どんな困難に直面しようとであれ、信念を持て。（たとえ〜でも）",
@@ -45696,14 +43888,6 @@
       "lang": "ja-JP",
       "sha256": "34fa4da9123da7bc674bc3f62d6b361e62df0e75efd153e0a5005993d92c5161",
       "size": 24768
-    },
-    "cd9df8316047": {
-      "text": "努力の割に、成果がない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "ebde6a4bda92f4bdfa6e3be859f35fbe800faecd52afa45df34baefebc2b4441",
-      "size": 20736
     },
     "cdb548e27e4f": {
       "text": "そのカフェ、すごくおしゃれだとかで人気らしい。",
@@ -45960,14 +44144,6 @@
       "lang": "ja-JP",
       "sha256": "525f65f313f2fbc370e947c44f2e857e3278e28731b71b946739c3d9a89748c8",
       "size": 19584
-    },
-    "ce9041181f5e": {
-      "text": "くらい難しい試験はない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f15f265907e3648d369be9f0d815cc40cfb796622e0d8d4f72d2412154230dfd",
-      "size": 18816
     },
     "ce9c25b67c25": {
       "text": "宿題をしなければいけない。（義務あり）",
@@ -46489,14 +44665,6 @@
       "sha256": "a97186d236c2313809efa27a99aba3b2d3951a3d020563ef057bc3c79bbf28f0",
       "size": 33024
     },
-    "d10e28418715": {
-      "text": "させていただくことができました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "d29ecf17adf857998dbe81d326dc1e81291e7089b46817902b7cbc661adf1170",
-      "size": 18240
-    },
     "d1176042fd6b": {
       "text": "顔色一つ変えだにしなかった。",
       "voice": "ja-JP-Neural2-B",
@@ -46592,14 +44760,6 @@
       "lang": "ja-JP",
       "sha256": "667fcd2e71e4873e4eba4bd233b70c8fcd57da0e916cc802b6b7b1b4c819a6f6",
       "size": 35712
-    },
-    "d1be18706bf2": {
-      "text": "約束を最後まで通し通した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dde9921161565ea04ce7ae97d85870f9af1fe3ca27f69b934da07c8eaee7f0b3",
-      "size": 22080
     },
     "d1c8cc69ac3f": {
       "text": "暑さと湿気が相まって、非常に過ごしにくい気候だ。",
@@ -47089,14 +45249,6 @@
       "sha256": "41c5f77d953363455f5d849219503d2f85a685881ba2daf6ba8f38e3a01bfdae",
       "size": 12864
     },
-    "d43e21f3e7ab": {
-      "text": "されるおつもりですか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5096bdcb0923dbf2bb14d4d9fd58ca8e03411a3474050135910f1e27c4ee9d1f",
-      "size": 15744
-    },
     "d456486f9a03": {
       "text": "今、ご飯を食べています。",
       "voice": "ja-JP-Neural2-B",
@@ -47112,14 +45264,6 @@
       "lang": "ja-JP",
       "sha256": "5cbe17a17fbacc24cd91a78d3813b604d0d2911891e33b7e220cc1d97e37e740",
       "size": 16704
-    },
-    "d498035d87e0": {
-      "text": "親ばかりでなく、友達も心配している。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "87b75e5d96b35122440604ed4ab433f332b623ec094700f4eb8f2645e8a668ca",
-      "size": 28032
     },
     "d4a44df286d8": {
       "text": "謎ずくめの事件に、警察も困惑している。",
@@ -47176,14 +45320,6 @@
       "lang": "ja-JP",
       "sha256": "43747fedd75f8ec1fd5839b95affbb9eef87f9209e200027a900eb44c9f9e2c4",
       "size": 32064
-    },
-    "d4cfa7592053": {
-      "text": "されるようになった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "9181079076c5908e47edd6ef7bf493dc57586c08047255e3088a9d8a52e3709f",
-      "size": 13440
     },
     "d4da62e2c3ef": {
       "text": "一体いつになったら終わるんだ、この仕事は。",
@@ -47529,14 +45665,6 @@
       "sha256": "4a7a4941e978cad8fa06293b2d89b70f53811e07b9933ba8193a55a1bd8e064e",
       "size": 28032
     },
-    "d628611a0748": {
-      "text": "成長に伴って、責任も増す。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "629a12fe3c8229546f913dfb2542f930a77b2eaba943ae2d67f8cd041f0f83eb",
-      "size": 25152
-    },
     "d63c256d46d6": {
       "text": "結婚を機に、生活習慣を大幅に改善した。",
       "voice": "ja-JP-Neural2-B",
@@ -47688,14 +45816,6 @@
       "lang": "ja-JP",
       "sha256": "49be1375008405ec1d8c9516a3be54d0fc1e37ee506f7e3721a68a544fd4fb9d",
       "size": 23808
-    },
-    "d723bfc85230": {
-      "text": "勉強つつある状況だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4c96b1816c16649b9325caefd2636e2e69181ff15a340179f01d12c657a1f0cf",
-      "size": 18048
     },
     "d729bd2b2767": {
       "text": "ト",
@@ -47952,14 +46072,6 @@
       "lang": "ja-JP",
       "sha256": "fb3bf2e1acdd5518166a074196414d6d9374b73e362d23be0992413134b92164",
       "size": 16896
-    },
-    "d8327630a099": {
-      "text": "だからこそ、この選択をした。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "008a25f0949729d1723e8b9ffb70e7896a577591b7fc2e0fc35de6db7a0a4bbc",
-      "size": 21888
     },
     "d838a17ded5e": {
       "text": "ザワザワと騒がしい。",
@@ -48545,14 +46657,6 @@
       "sha256": "20c4446b9bb03d237e5bcf491cd004c24ec76ef7910d30164588fed7f7a1ab7b",
       "size": 37824
     },
-    "da8923c95a63": {
-      "text": "この計画がどう進むか見守ろう。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a8eff650aa16569cbfc4edbfb6d08008e89b1ef79044836ca1df7ac512ae32ef",
-      "size": 24192
-    },
     "da9bc131fec4": {
       "text": "この病院ではチーム医療型のアプローチを採用している。",
       "voice": "ja-JP-Neural2-B",
@@ -48633,14 +46737,6 @@
       "sha256": "ca54b9c8f90b0bc752b702a818c836700ff234435563ad50b2debac62cc5ccc8",
       "size": 19584
     },
-    "dad1c4d27d47": {
-      "text": "同じ間違いを繰り返してはならない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e93b3924d7912ec63e5d3eb7500dc8215f08a6f61894ff726c53e458f31d3109",
-      "size": 23040
-    },
     "dad4e365f8a9": {
       "text": "電話をかけたら、誰も出ませんでした。",
       "voice": "ja-JP-Neural2-B",
@@ -48688,14 +46784,6 @@
       "lang": "ja-JP",
       "sha256": "14adf96f3497b5b099bbbbd5aeff37928e013afb5ac541fc7235c0f1a8380dcf",
       "size": 35712
-    },
-    "db28932db5fa": {
-      "text": "彼がなぜ来ないか理由が分からない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "dba64b0dd75355cb0d57a6cf9379b39c205569704c03cd1b416635d3eaf9d01d",
-      "size": 23808
     },
     "db32b80e6b78": {
       "text": "この料理は美味しいですね。",
@@ -48769,14 +46857,6 @@
       "sha256": "f915842b9a238901243d59207c3d429035d7490281daf37a399eceb0549a2ec8",
       "size": 40512
     },
-    "dbcd827d096b": {
-      "text": "この仕事は大変で、手に負えない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "1c8b102f7f54b08a4371ada56e363a45630df45897e9862c5a06d3b6062103ab",
-      "size": 24384
-    },
     "dbd3fb5447a7": {
       "text": "彼女の笑顔を見ると、笑わずにはいられない。",
       "voice": "ja-JP-Neural2-B",
@@ -48808,14 +46888,6 @@
       "lang": "ja-JP",
       "sha256": "1c1915609690c8d245ce4412379a18e01e1c2e65bef7993aea3f760f24e8cde6",
       "size": 30336
-    },
-    "dc00698852d1": {
-      "text": "お読みになりました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e90134b43d98f2118bce8154cec5a65a05746820afec9f9ec7b79e87a1583834",
-      "size": 12864
     },
     "dc1a11d20c25": {
       "text": "時間がある上は、手伝おう。",
@@ -48856,30 +46928,6 @@
       "lang": "ja-JP",
       "sha256": "7b2d9374089ca30cf908186a2fadccf93aa894a059154bcbb21df33ecdccbdf6",
       "size": 25344
-    },
-    "dc6cb4ca3195": {
-      "text": "上司だと思いきや、後輩だった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "90a83c211db1d0f4889e2c264dccfdb7252baecaf9ddb3dfbe2020e7da09ea0f",
-      "size": 23424
-    },
-    "dc78ad44dfe7": {
-      "text": "ご報告させていただきたく。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "aed824732532d14af9d8b78b591969e1e0a7c494933a905434703b9dbd207857",
-      "size": 18432
-    },
-    "dc7f95e1316e": {
-      "text": "授業がちょうど終わったところです。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b838c85f8f0ef23af2a0637817adfaf2940d6089ea8d4bd2849f3e563988cbc3",
-      "size": 20352
     },
     "dc8ad9ed2ecf": {
       "text": "ご迷惑をおかけしてすみません。",
@@ -49649,14 +47697,6 @@
       "sha256": "b50ce84f20665a9d36e376173df3456b9d131fbfc57e90bf5310866ede45ed3c",
       "size": 21504
     },
-    "e03df30d2ba0": {
-      "text": "音楽だけでなく、ダンスも得意だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "cbc00f6cb86c999afcdb540d0e467e92941c709a7f4cf0475848bfeff36f674b",
-      "size": 24768
-    },
     "e042c150f7de": {
       "text": "過去の失敗はさておき、これからどうするかが大事だ。",
       "voice": "ja-JP-Neural2-B",
@@ -49880,14 +47920,6 @@
       "lang": "ja-JP",
       "sha256": "cc19eb1a8a81bf7e0ae16ea9230e1d41e15e2f8b9b0ce9c4366b8ab40bdb1cf4",
       "size": 34560
-    },
-    "e11632784317": {
-      "text": "彼にしか分からない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a0dcefd1283bcd454fd33a72fb4c832d1648eac3ae8d61369653dec32e8da668",
-      "size": 14592
     },
     "e117c447c344": {
       "text": "祖母が着物をくれました",
@@ -50128,14 +48160,6 @@
       "lang": "ja-JP",
       "sha256": "e2532b4b5f1835b898b01e4b82752330f54418d8c8ffab8ce52ac3eec4fa1efd",
       "size": 28800
-    },
-    "e23a96221671": {
-      "text": "疲れて、眠くてしかたがない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6937c710a781efd986351bfc28a7f7fd17a5573e5361df9e47369a4d6b8f12f9",
-      "size": 21504
     },
     "e23aea6be101": {
       "text": "走るな。",
@@ -50456,14 +48480,6 @@
       "lang": "ja-JP",
       "sha256": "a668c9088ea9c2cc1c596097179304cedab9eba520993ba57a65c75a1d3af7bc",
       "size": 35904
-    },
-    "e3a6648a28e4": {
-      "text": "進みつつも、進みきれていない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "5597492411cd3e49a08676d8677581d20622e5c896b0006e79ee44b4e80a60ba",
-      "size": 22272
     },
     "e3c52551a83a": {
       "text": "花なら、バラが綺麗です。",
@@ -50817,14 +48833,6 @@
       "sha256": "ab60853f15006e2105c7e57c38021359964522163b661129b53f01d99e54655a",
       "size": 31872
     },
-    "e52f2c4affac": {
-      "text": "終わったと思いきや、続いていた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b3571dfa2869b52a95f0be30f8839d32fdbc502efd5bd8fcb8a3dcda814cdfa5",
-      "size": 21888
-    },
     "e531ad169acb": {
       "text": "つまり、私が間違っていたわけだ。",
       "voice": "ja-JP-Neural2-B",
@@ -51153,14 +49161,6 @@
       "sha256": "9583500684a413840332da00fe1af22d18384babc5aa301683cc7bc907b9c40b",
       "size": 18816
     },
-    "e63b98750896": {
-      "text": "これが最後の機会のではあるまいか。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "74e17f5745a792055b6954f9f3e0e87c2fd6b27eb680340c499383cc3f2dc03c",
-      "size": 22656
-    },
     "e63eebfe145f": {
       "text": "これは誰の本ですか。",
       "voice": "ja-JP-Neural2-B",
@@ -51184,14 +49184,6 @@
       "lang": "ja-JP",
       "sha256": "fa9305c897ebf10e99799dcb1fabe35b104bd74359d7a53183cfda4a2eb0f7e2",
       "size": 15360
-    },
-    "e6620345a3a0": {
-      "text": "彼が来ないというのは、病気らしい。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "a88ca9319bda87e38e1a61255914bbb41707df853c3b48c994f84c10d227c77b",
-      "size": 25344
     },
     "e6763865e088": {
       "text": "制度を簡素化する必要がある。",
@@ -51521,14 +49513,6 @@
       "sha256": "bdc259d22e4c3fde4cd01d76e8b19011af6f9d26e131bf42f9609db6b6421e7e",
       "size": 7872
     },
-    "e7b3e18d04d7": {
-      "text": "計画に従い、段階的に進める。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f1cde9b8b520e5cae38617abf433eb1dd8233c8c583343d2c2dc08e3295331bf",
-      "size": 26688
-    },
     "e7d920d19d1f": {
       "text": "決断した以上は、迷うことなく前に進め。",
       "voice": "ja-JP-Neural2-B",
@@ -51576,14 +49560,6 @@
       "lang": "ja-JP",
       "sha256": "0d177fb00499fd1ff3bcf8513bbc4c4ca354b30e1de6982002895611cb2fd162",
       "size": 24576
-    },
-    "e83d086e7cd1": {
-      "text": "簡単だと思いきや、非常に難しかった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "042dbc47fdf7936dfa3c97ccf222cc93df659768e7a165411ae0f72b22f0ecac",
-      "size": 28992
     },
     "e8687dd8818f": {
       "text": "今、食事をするところです。",
@@ -51737,14 +49713,6 @@
       "sha256": "2df659fc8a5186a070805cc4bb528a99bfc964784666516787ef1652e494ae97",
       "size": 23616
     },
-    "e8c1b0dcf416": {
-      "text": "たまわる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "6c0a87df101970e2538a257b28411d9367b6b69707054e69116b8308668faba7",
-      "size": 7296
-    },
     "e8ca5154780a": {
       "text": "彼は優しいだけでなく、仕事もできる。",
       "voice": "ja-JP-Neural2-B",
@@ -51768,14 +49736,6 @@
       "lang": "ja-JP",
       "sha256": "f222f20ea8328161ebfd27c4ad725aa580978c14fcacc99cc8a78d7076adf3fc",
       "size": 21504
-    },
-    "e8dc4d14d7e5": {
-      "text": "いかにしても、この状況は避けられない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "46caecb07268f3330f3bde30eb7d043ee78fb60cc90b0859514d692979a028c5",
-      "size": 25344
     },
     "e8eb4daeaca0": {
       "text": "本当にうまくいくのだろうか。",
@@ -51840,14 +49800,6 @@
       "lang": "ja-JP",
       "sha256": "a6255a1e77153090910d07ab6346a9ae325c24ff7a73d8af87805f41b268c7a3",
       "size": 21120
-    },
-    "e957e6e80b72": {
-      "text": "したがって対策が必要である。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f419a0d402678036acdd10b2092a976de8ec706f72902ad452fad993cfa650e6",
-      "size": 22272
     },
     "e963623ea974": {
       "text": "一緒に勉強しませんか。",
@@ -52841,14 +50793,6 @@
       "sha256": "e72333491e595a7ad344dff438824f6a1770384078677cd02f3f3a701b590dd4",
       "size": 17088
     },
-    "ed731e70fd21": {
-      "text": "させていただきました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2109012beefbbd396446a874b96528ad69f45694657917c194d0bc055aa2fba8",
-      "size": 14016
-    },
     "ed80906d63d6": {
       "text": "私は時間があったら、本を読むばかりだ。",
       "voice": "ja-JP-Neural2-B",
@@ -53121,14 +51065,6 @@
       "sha256": "2d5a98ecfc93382461a79b66510d76fd4f420e3f2dac46c5b24ab7d2506ca5f0",
       "size": 36672
     },
-    "ee8fd30ed3f4": {
-      "text": "他の国の割に、物価が安い。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e43f23dbc6528faf7ebe707bd732b754fc1120a189c55994c7bf3f45c56cafc6",
-      "size": 24384
-    },
     "ee99ab1b34de": {
       "text": "山の美しさに感動しました。",
       "voice": "ja-JP-Neural2-B",
@@ -53200,14 +51136,6 @@
       "lang": "ja-JP",
       "sha256": "af2633861d517381649e3681d8202a00559ed1b8e70e539b59aff9b5dc0d0abe",
       "size": 38784
-    },
-    "ef0fec7745e2": {
-      "text": "この問題をなす術がない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "2d4c1065c4410292671b70c499248a08fa61b0cdf43d634efe01a2a6de6d6362",
-      "size": 19200
     },
     "ef1c24b721ef": {
       "text": "この映画は見たばかりです。",
@@ -53585,14 +51513,6 @@
       "sha256": "005e060f9550cf6322fa4967876403c916c091df695c991a9e553661517e1998",
       "size": 34368
     },
-    "f0d0a8e1466a": {
-      "text": "いただく権限を与えていただきました。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4c3f3ad1fc2672321f76d31bfaf2845f9441c67f46b9df69c0bf6de18294b965",
-      "size": 23424
-    },
     "f0d3e8d5b696": {
       "text": "今年中に転職する予定はありません。",
       "voice": "ja-JP-Neural2-B",
@@ -53768,14 +51688,6 @@
       "lang": "ja-JP",
       "sha256": "bf83a5299212a2216cfdeb119a5afaa750e7513014b68c360ceccae9877d6fbb",
       "size": 31488
-    },
-    "f17cc9c4aa25": {
-      "text": "驚くばかりでなく、感動した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "c04d167aef9763acb347f1d353bdf23d9bda688670d5d82cd5bc5603a723adc1",
-      "size": 22464
     },
     "f18bf0b92c96": {
       "text": "先生に教えてもらいました",
@@ -54193,14 +52105,6 @@
       "sha256": "8f1a3eff86e45b14bf1d7a649e34fac51e7cadb340f9854521c570a098c44c0f",
       "size": 25920
     },
-    "f3c38a0a3a9a": {
-      "text": "彼が犯人であるはずがない。やむを得ない状況だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "81bdefc7014ab0017c7ee8b5aa2321d538a76350a24a11f2115c3c9cc4f08ae4",
-      "size": 35520
-    },
     "f3c4e82bade5": {
       "text": "一言なりとも謝ってほしかった。",
       "voice": "ja-JP-Neural2-B",
@@ -54369,14 +52273,6 @@
       "sha256": "3c149f30058a32b496ad158a717e328b8382677ee74b7a488ba2172c9d6998cf",
       "size": 25152
     },
-    "f42b7a74669b": {
-      "text": "昨年の成績を大きく上回り遂げた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b59d878de9b05640c36059b6c3ba0a5341dc2f61d3c1c02ffa0bfd82c48104e0",
-      "size": 27840
-    },
     "f436bd1de942": {
       "text": "霧が濃くて、前が見えません。",
       "voice": "ja-JP-Neural2-B",
@@ -54529,14 +52425,6 @@
       "sha256": "c7b9dbcdc37bf232142acc015cc56eba08bc7aed514dc8a9b975bd1d6ba9b7a1",
       "size": 40704
     },
-    "f4c3a39009b1": {
-      "text": "仕事とともに、人間関係も深まる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "b4ebfca81d12a01c3940e1761330d24ba42f2a9804075a805fe77554e95d908a",
-      "size": 28800
-    },
     "f4cf1917a9d2": {
       "text": "選手は練習をさせられた。",
       "voice": "ja-JP-Neural2-B",
@@ -54649,14 +52537,6 @@
       "sha256": "b621fe790f5049e8879ca992bc715b56791abe5244cccef80294ce120f4ec87b",
       "size": 22272
     },
-    "f5277fe78e6b": {
-      "text": "敗れたとばかりに悔しがった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0017be22db73a73ea0e98ec21bdef4afc263f6cd942f17a076a96d43b0154df6",
-      "size": 19968
-    },
     "f52894487a03": {
       "text": "山の如き動じぬ精神を持っている。",
       "voice": "ja-JP-Neural2-B",
@@ -54672,14 +52552,6 @@
       "lang": "ja-JP",
       "sha256": "966c392dd058ff4ab85c67488a8f7688f2a757aa5dbd77b00f7ff1726e313c73",
       "size": 39936
-    },
-    "f55555a0ecc3": {
-      "text": "あるいは彼が知っているかもしれない。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "fc051a8c5856a58d7b7b1f3a241307765e7cb6f696abefd4e04ef6c20720100a",
-      "size": 21696
     },
     "f558b4a5b783": {
       "text": "彼は立ち上がり、静かに部屋を出て行った。",
@@ -54753,14 +52625,6 @@
       "sha256": "1fdf7fd1faa9afe28e6c818255c68761f96dfe50aab2c6e80f0eaa40a6595ccb",
       "size": 33024
     },
-    "f5c3eb6a6cdb": {
-      "text": "それゆえに結果は失敗した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "173a11c5880bc6f09ef22f6b5793305591ff625e2c9e7f5317e122301d691961",
-      "size": 20928
-    },
     "f5c85990016f": {
       "text": "彼は医者なのに、患者を助けなかった。",
       "voice": "ja-JP-Neural2-B",
@@ -54792,14 +52656,6 @@
       "lang": "ja-JP",
       "sha256": "65ec580f01ffc43f136f0bb0c6c31115aa247be8f844ad204172b0190454d29e",
       "size": 28224
-    },
-    "f5dd6c63d4ca": {
-      "text": "申し上げさせていただきます。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "eee077e1552484890fc68545ae6c78dcf10014192137025263c043d53cd18743",
-      "size": 18240
     },
     "f604f14f3093": {
       "text": "プレゼンが心配なあまり、前の晩は眠れなかった。",
@@ -55961,14 +53817,6 @@
       "sha256": "e034a790371c3fdbf88ebc599b31a5a9e16f662fdf9cef056fbde8f6c2133258",
       "size": 18624
     },
-    "fb3f3993c034": {
-      "text": "時間ばかり過ぎてしまった。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "e445e4765011d243dcf4136e2659468890c2b02bf0952a8b74028736baf07bfc",
-      "size": 18240
-    },
     "fb5c95c54200": {
       "text": "仕事をしています",
       "voice": "ja-JP-Neural2-B",
@@ -56056,14 +53904,6 @@
       "lang": "ja-JP",
       "sha256": "8b05b2a848afaa6e613092008f712ab864702722e0dc037ee310e360c5ba629b",
       "size": 18240
-    },
-    "fbbb2c671ed3": {
-      "text": "夜明けだと言うが早いか、出かけた。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "f22af35b1274b42262f258ed87fb823626788e3931bdfa9ca5657e17f498067e",
-      "size": 23808
     },
     "fbbca9472f7d": {
       "text": "どんな仕事であれ、誠実に取り組む。",
@@ -56169,14 +54009,6 @@
       "sha256": "89685c0cbad578f99ef65a3d92d6775833889e58456d9da11157131463996958",
       "size": 14400
     },
-    "fc2b1dba0c70": {
-      "text": "どんなにしても、無理は無理だ。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4c481264454d45ccac4a10b3196bd80d61e9faa31def09d6d15bcbe5853dc7d1",
-      "size": 19968
-    },
     "fc37b20667cf": {
       "text": "月曜日から金曜日まで学校があります。",
       "voice": "ja-JP-Neural2-B",
@@ -56208,14 +54040,6 @@
       "lang": "ja-JP",
       "sha256": "ed97d4b88dff5c9c5226a6ed65d1907fdafa2a93659c1e71f21241feffb02052",
       "size": 29376
-    },
-    "fc49aafa4083": {
-      "text": "英語または中国語で対応できる。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "acb415172b6470f5b801b91809828ac96066022ebb29be42ae675407fa771a5d",
-      "size": 24960
     },
     "fc56c9d2e892": {
       "text": "一流になるべく、修行中だ。",
@@ -56465,14 +54289,6 @@
       "sha256": "7b3efa1aad5a6c3ee6898a756c424c134cab8c7679e31fe3e99fa72a76f2d077",
       "size": 20352
     },
-    "fdcd02e0777f": {
-      "text": "一方、他の見方もある。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "eeab3a0f5a7bae6144f76f3521a94cee6a29859dff60049735add8c88f749e88",
-      "size": 20160
-    },
     "fddd4a046f69": {
       "text": "会社を辞めたばかりだから、今は無職だ。",
       "voice": "ja-JP-Neural2-B",
@@ -56689,14 +54505,6 @@
       "sha256": "9909e02fca7b850e81ab10f1a8d1413be9ede597b7c1eaffb7a3d7735f8bc2bb",
       "size": 28416
     },
-    "febe8e5759f9": {
-      "text": "計画を最後まで通し通した。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "4ea5e4e63c33febeae07104dc77c40d335277d1b0c6452e21955275b380f9b4e",
-      "size": 21504
-    },
     "fec0feac3819": {
       "text": "どんなに美味しそうに見えても、食べ過ぎてはいけない。",
       "voice": "ja-JP-Neural2-B",
@@ -56824,14 +54632,6 @@
       "lang": "ja-JP",
       "sha256": "2e84fa80cdf6a38f9053f75abed80313f2d0bb8f4399db45df023c0f9ea9e41e",
       "size": 23424
-    },
-    "ff3f79b29ab7": {
-      "text": "言い換えると、早急な対応が必要。",
-      "voice": "ja-JP-Neural2-B",
-      "rate": 1.0,
-      "lang": "ja-JP",
-      "sha256": "0e6ac1f1385a50a29f0232e2451495ed0ac17fa073e46dfe434190459fc0daf5",
-      "size": 27264
     },
     "ff4755af309f": {
       "text": "大きなコンサート会場だけあって、音響がいい。",
