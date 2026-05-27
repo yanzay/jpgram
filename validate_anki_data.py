@@ -72,6 +72,9 @@ _CATEGORY_SLUGS = frozenset({
     "i-adjectives", "interrogatives", "polite-verb-endings",
     "verb-non-past", "past-tense-い-adjectives", "causative-passive",
     "causative", "potential", "passive",
+    # Meta-grammatical form names: sentences demonstrate the form but cannot
+    # contain the label word itself.
+    "命令形", "連用形",
     # Single-character umbrellas (cover broad grammar categories rather than
     # a single morpheme).
     "いい", "それ", "どこ", "って", "と", "が", "を", "に", "で", "の",
@@ -86,6 +89,38 @@ _CATEGORY_SLUGS = frozenset({
     "l1-particles-overlap", "l1-relative-clauses",
 })
 
+# Irregular-verb and grammar-construction aliases shared by the slug-drift check
+# and the cloze point-alignment check.
+_IRREGULAR: dict[str, set[str]] = {
+    "くる": {"くる", "きた", "きて", "きます", "き", "こない", "こよう"},
+    "する": {"する", "した", "して", "します", "し", "しない", "しよう"},
+    "ある": {"ある", "あり", "あって", "あった", "あります"},
+    "がる": {"がる", "がっ", "がった", "がり", "たがる", "たがっ", "たがった"},
+    "びる": {"びる", "びた", "びて", "びり"},
+    "に反して": {"に反して", "に反した", "に反し"},
+    "に応えて": {"に応えて", "に応えた", "に応え"},
+    "に際して": {"に際して", "に際した", "に際し"},
+    "にわたって": {"にわたって", "にわたった", "にわたる", "にわたり"},
+    "を踏まえて": {"を踏まえて", "を踏まえた", "を踏まえ"},
+    "たって": {"たって", "だって"},
+    "ては": {"ては", "んでは"},
+    "てならない": {"てならない", "でならない"},
+    "ていては": {"ていては", "でいては"},
+    "て初めて": {"て初めて", "で初めて"},
+    "なりに": {"なりに", "なりの"},
+    "折には": {"折には", "折に"},
+    "に即して": {"に即して", "に即した", "に即し"},
+    "を前提に": {"を前提に", "を前提と"},
+    "ときいた": {"ときいた", "ときき", "ときいて", "ときいてい"},
+    "がいる": {"がいる", "がいます", "がいません", "がい", "います", "いません"},
+    "から言うと": {"から言うと", "から言えば", "から言って", "から言"},
+    "化する": {"化する", "化し", "化さ", "化"},
+    "てもかまわない": {"てもかまわない", "てもかまわ", "でもかまわ",
+                       "かまいません", "かまいます", "かまわない"},
+    "ごろ": {"ごろ", "ころ"},
+    "とおり": {"とおり", "どおり"},
+    "関係がある": {"関係がある", "関係がない", "関係が"},
+}
 
 def _load_manifest_keys() -> set[str]:
     if not MANIFEST_PATH.exists():
@@ -284,31 +319,34 @@ def lint_file(path: Path,
             if slug_c not in _CATEGORY_SLUGS:
                 # Build the same conjugation-aware aliases used by the
                 # file-level slug-drift check above.
-                c_aliases = {slug_c}
-                MIN_C = 2
-                if slug_c and slug_c[-1] in "うるくぐすつぬむぶ":
-                    stem = slug_c[:-1]
-                    if len(stem) >= MIN_C:
-                        c_aliases.add(stem)
-                    renyokei_c = {"う": "い", "く": "き", "ぐ": "ぎ", "す": "し",
-                                  "つ": "ち", "ぬ": "に", "む": "み", "ぶ": "び"}
-                    if slug_c[-1] in renyokei_c:
-                        ren = stem + renyokei_c[slug_c[-1]]
+                if slug_c in _IRREGULAR:
+                    c_aliases = set(_IRREGULAR[slug_c])
+                else:
+                    c_aliases = {slug_c}
+                    MIN_C = 2
+                    if slug_c and slug_c[-1] in "うるくぐすつぬむぶ":
+                        stem = slug_c[:-1]
+                        if len(stem) >= MIN_C:
+                            c_aliases.add(stem)
+                        renyokei_c = {"う": "い", "く": "き", "ぐ": "ぎ", "す": "し",
+                                      "つ": "ち", "ぬ": "に", "む": "み", "ぶ": "び"}
+                        if slug_c[-1] in renyokei_c:
+                            ren = stem + renyokei_c[slug_c[-1]]
+                            if len(ren) >= MIN_C:
+                                c_aliases.add(ren)
+                    if slug_c.endswith("する") and len(slug_c) > 2:
+                        ren = slug_c[:-2] + "し"
                         if len(ren) >= MIN_C:
                             c_aliases.add(ren)
-                if slug_c.endswith("する") and len(slug_c) > 2:
-                    ren = slug_c[:-2] + "し"
-                    if len(ren) >= MIN_C:
-                        c_aliases.add(ren)
-                for cop in ("だ", "です"):
-                    if slug_c.endswith(cop):
-                        bare = slug_c[:-len(cop)]
+                    for cop in ("だ", "です"):
+                        if slug_c.endswith(cop):
+                            bare = slug_c[:-len(cop)]
+                            if len(bare) >= MIN_C:
+                                c_aliases.add(bare)
+                    if slug_c.endswith("ない") and len(slug_c) >= 4:
+                        bare = slug_c[:-2]
                         if len(bare) >= MIN_C:
                             c_aliases.add(bare)
-                if slug_c.endswith("ない") and len(slug_c) >= 4:
-                    bare = slug_c[:-2]
-                    if len(bare) >= MIN_C:
-                        c_aliases.add(bare)
                 text_field = row[header.index("Text")] if "Text" in header else row[0]
                 cloze_targets = _CLOZE_EXTRACT_RE.findall(text_field)
                 if not any(a in t for t in cloze_targets for a in c_aliases) \
@@ -415,16 +453,10 @@ def lint_file(path: Path,
        or "x" in slug:
         is_aggregator = True
     if slug not in _CATEGORY_SLUGS and not is_aggregator and slug:
-        # Hardcoded irregular-verb conjugations: relax MIN for short stems.
-        IRREGULAR = {
-            "くる": {"くる", "きた", "きて", "きます", "き", "こない", "こよう"},
-            "する": {"する", "した", "して", "します", "し", "しない", "しよう"},
-            "ある": {"ある", "あり", "あって", "あった", "あります"},
-        }
         # Build conjugation-aware aliases (mirrors scripts/_phase9_trim).
         aliases = set()
-        if slug in IRREGULAR:
-            aliases.update(IRREGULAR[slug])
+        if slug in _IRREGULAR:
+            aliases.update(_IRREGULAR[slug])
         else:
             aliases.add(slug)
             MIN = 2
@@ -463,6 +495,24 @@ def lint_file(path: Path,
                 stem = slug[:-1]
                 if len(stem) >= MIN:
                     aliases.add(stem)
+            # Kanji→hiragana: if the slug contains kanji, add a reading-based
+            # alias so e.g. 'に取って' also matches hiragana 'にとって'.
+            # Simple heuristic: replace each known kanji with its reading.
+            _KANJI_READINGS = {
+                "取": "と", "言": "い", "聞": "き", "見": "み",
+                "従": "したが",
+                "言う": "いう", "聞く": "きく",
+            }
+            hira = slug
+            for k, v in _KANJI_READINGS.items():
+                hira = hira.replace(k, v)
+            if hira != slug and len(hira) >= MIN:
+                aliases.add(hira)
+                # also add stem of the hiragana form
+                if hira[-1] in "うるくぐすつぬむぶ":
+                    h_stem = hira[:-1]
+                    if len(h_stem) >= MIN:
+                        aliases.add(h_stem)
 
         rows_parsed = []
         for ln, raw in data:
@@ -475,7 +525,12 @@ def lint_file(path: Path,
                 src = _source_sentence(nt, header, row)
                 # Also check Reading column if present
                 reading = row[header.index("Reading")] if "Reading" in header else ""
-                if any(a in src or a in reading for a in aliases):
+                # For Contrast: also check OptionA/OptionB — the slug appears
+                # in one of the two choices even when it isn't the Answer.
+                opt_a = row[header.index("OptionA")] if "OptionA" in header else ""
+                opt_b = row[header.index("OptionB")] if "OptionB" in header else ""
+                if any(a in src or a in reading or a in opt_a or a in opt_b
+                       for a in aliases):
                     on_topic += 1
             pct = on_topic / len(rows_parsed)
             if pct < 0.80:
