@@ -4,7 +4,7 @@
 #notetype:Recognition
 #deck:Japanese Grammar::01 - N5 Grammar::Recognition
 
-この部屋はきれいです。	このへやはきれいです。	This room is clean / pretty.	な-adj predicate	N は + な-Adj + です	な-adj used predicatively (no な before です)	きれい looks like い-adj but is な-adj	きれいな部屋 (attr) vs きれいです (pred)	[sound:9b824f25e1b4.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard frequency:top1k source:shin-kanzen complexity:intro
+この部屋はきれいです。	このへやはきれいです。	This room is clean / pretty.	な-adj predicate	N は + な-Adj + です	な-adj used predicatively (no な before です)	きれい looks like い-adj but is な-adj	きれいな部屋 (attr) vs きれいです (pred)	[sound:9b824f25e1b4.mp3]	module:01-n5 jlpt:n5 point:いい frequency:top1k source:shin-kanzen complexity:intro
 その男性はハンサムです。	そのだんせいははんさむです。	That man is handsome.	な-adj predicate	N は + な-Adj + です	な-adj used predicatively (no な before です)	な only attaches before a noun	ハンサムな男性 (attr) vs ハンサムです (pred)	[sound:ff037b3b819c.mp3]	module:01-n5 jlpt:n5 point:いい complexity:intro frequency:top5k source:shin-kanzen
 この情報は新しくないです。	このじょうほうはあたらしくないです。	This information is not new.	い-adj negative	い-Adj-stem + くない + です	い-adj negation: drop い, add くない	い → くない (single く)	新しい (pos) → 新しくない (neg)	[sound:c879ba09464c.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard frequency:top10k source:shin-kanzen
 その建物は大きかったです。	そのたてものはおおきかったです。	That building was big.	い-adj past	い-Adj-stem + かった + です	い-adj past: drop い, add かった	い → かった (no く)	大きい (pres) → 大きかった (past)	[sound:8e5c76a163ab.mp3]	module:01-n5 jlpt:n5 point:いい complexity:standard frequency:top1k source:shin-kanzen

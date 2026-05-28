@@ -4,6 +4,6 @@
 #notetype:Dictation
 #deck:Japanese Grammar::02 - N4 Grammar::Dictation
 
-[sound:6279698ea70c.mp3]	彼___私より背が高い。	彼は私より背が高い。	かれはわたしよりせがたかい。	He is taller than me.	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top5k source:shin-kanzen complexity:standard
-[sound:fbd226ee8fed.mp3]	日本より韓国___好きです。	日本より韓国が好きです。	にほんよりかんこくがすきです。	I prefer Korea to Japan.	module:02-n4 jlpt:n4 point:より complexity:intro frequency:top10k source:shin-kanzen complexity:standard
+[sound:6279698ea70c.mp3]	彼___私より背が高い。	彼は私より背が高い。	かれはわたしよりせがたかい。	He is taller than me.	module:02-n4 jlpt:n4 point:より frequency:top5k source:shin-kanzen complexity:standard
+[sound:fbd226ee8fed.mp3]	日本より韓国___好きです。	日本より韓国が好きです。	にほんよりかんこくがすきです。	I prefer Korea to Japan.	module:02-n4 jlpt:n4 point:より frequency:top10k source:shin-kanzen complexity:standard
 [sound:2ec127435d4a.mp3]	毎日より休みの方___いいです。	毎日より休みの方がいいです。	まいにちよりやすみのほうがいいです。	Days off are better than working.	module:02-n4 jlpt:n4 point:より complexity:standard frequency:top1k source:shin-kanzen

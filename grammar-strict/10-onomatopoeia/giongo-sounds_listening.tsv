@@ -4,11 +4,11 @@
 #notetype:Listening
 #deck:Japanese Grammar::10 - Onomatopoeia::Listening
 
-[sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog barking	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:b52e76022102.mp3]	ニャーニャー	にゃーにゃー	Meow meow.	cat crying	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:9c6d1a4da546.mp3]	ガチャン	がちゃん	Clang/click.	impact sound	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:938a3cd2d0da.mp3]	ゴロゴロ	ごろごろ	Rumble/rolling.	deep rolling	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:5969d0688239.mp3]	ドキドキ	どきどき	Thump/pounding.	rapid pulse	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:9d4f1cd9c7a2.mp3]	ザーザー	ざーざー	Pouring/streaming.	downpour	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:ddd98d823fd2.mp3]	シッシッ	しっしっ	Shoo/go away.	dismissive sound	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
-[sound:a8e06dc996d1.mp3]	チョロチョロ	ちょろちょろ	Trickling.	trickle of liquid	module:10-onomatopoeia point:giongo-sounds complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:d089c6bae983.mp3]	ワンワン	わんわん	Woof woof.	dog barking	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:b52e76022102.mp3]	ニャーニャー	にゃーにゃー	Meow meow.	cat crying	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:9c6d1a4da546.mp3]	ガチャン	がちゃん	Clang/click.	impact sound	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:938a3cd2d0da.mp3]	ゴロゴロ	ごろごろ	Rumble/rolling.	deep rolling	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:5969d0688239.mp3]	ドキドキ	どきどき	Thump/pounding.	rapid pulse	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:9d4f1cd9c7a2.mp3]	ザーザー	ざーざー	Pouring/streaming.	downpour	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:ddd98d823fd2.mp3]	シッシッ	しっしっ	Shoo/go away.	dismissive sound	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
+[sound:a8e06dc996d1.mp3]	チョロチョロ	ちょろちょろ	Trickling.	trickle of liquid	module:10-onomatopoeia point:giongo-sounds source:dictionary-of-jp-grammar complexity:standard
