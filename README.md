@@ -5,20 +5,17 @@ points from N5 through N1, with two primary card types per point:
 **Recognition** and **Production**, plus secondary Cloze / Contrast /
 Dictation / Listening cards on a subset of points.
 
-> **Status:** Coverage 100% (945/945 Bunpro points). **Quality remediation:
-> Phases 0–4, 6, 8 of [`IMPROVEMENT_PLAN.md`](IMPROVEMENT_PLAN.md) landed
-> 2026-05-22 (commits c55c2e6…105032c). Validator passes with 0 errors;
-> all 150+ catalogued reading defects, 491 spot-the-answer rows, 14
-> 100%-off-topic cloze files, 824 monotone Recognition back sides, and
-> 240 placeholder-Label rows have been fixed. 264 residual warnings are
-> open items in Phase 5 (polysemy splits), Phase 7 (EN re-audit), and
-> Phase 9 (native-speaker pass). See
-> [`research-reports/AUDIT_2026-05-19_SUMMARY.md`](research-reports/AUDIT_2026-05-19_SUMMARY.md)
-> for the multi-axis audit that initiated the remediation. The
-> `coverage_audit.py` gate verifies row counts; `validate_anki_data.py`
-> now also enforces 12+ row-quality rules including cloze-point
-> alignment, contrast spot-the-answer detection, JLPT-vs-directory
-> consistency, tag-key uniqueness, and back-side variability.
+> **Status:** v1.0.0 — Coverage 100% (945/945 Bunpro points). All
+> improvement phases complete. Validator passes with 0 errors and 31
+> accepted twin-parity warnings. All 150+ catalogued reading defects,
+> 491 spot-the-answer rows, 14 100%-off-topic cloze files, 824 monotone
+> Recognition back sides, and 240 placeholder-Label rows have been fixed.
+> An automated native-speaker pass (2026-05-28) resolved 77 additional
+> N1/N2 defects including a systemic 中=じゅう reading sweep.
+> `validate_anki_data.py` enforces 12+ row-quality rules including
+> cloze-point alignment, contrast spot-the-answer detection,
+> JLPT-vs-directory consistency, tag-key uniqueness, and back-side
+> variability.
 
 ## Coverage
 
