@@ -54,6 +54,32 @@ _CLOZE_EXTRACT_RE = re.compile(r"\{\{c\d+::([^:}]+)(?:::[^}]+)?\}\}")
 _ALLOWED_HEADER_PREFIXES = ("#separator:", "#html:", "#columns:", "#notetype:", "#deck:")
 # Placeholder Label values that indicate authoring scaffolding leaked into shipped content.
 _LABEL_PLACEHOLDER_RE = re.compile(r"^(contrast-derived|TODO|PLACEHOLDER|tbd|FIXME)$", re.I)
+# Phase-7.5: MainUse-vs-JP conjugation drift. Catches the parity-mirrored bug
+# class (な, polite-verb-endings, う-verb-neg-past, る-verb-neg-past, ようと思う)
+# where MainUse describes a specific polite-form surface that doesn't appear
+# in the row's JP. Conservative keyword list — surfaces below are distinctive
+# enough that incidental occurrences are rare; combined with the form-reference
+# bracket check, false-positive rate is low.
+_MAINUSE_DRIFT_SURFACES = ("ませんでした", "ましょう", "ません", "ました")
+def _mainuse_drift_ref_re(surface: str) -> re.Pattern:
+    return re.compile(
+        r"(?:^|[\s「『（(=:V])"
+        + re.escape(surface)
+        + r"(?:$|[\s」』）)、,.:：—\-])"
+    )
+_MAINUSE_DRIFT_CONTRAST_RE = re.compile(
+    r"\b(vs|or|instead of|not|less\s+\w+\s+than)\b|≠|⇔|×",
+    re.IGNORECASE,
+)
+def _mainuse_drift_is_contrastive(text: str, surface: str) -> bool:
+    """If the cell contains an explicit contrast marker (X vs Y, X ≠ Y,
+    'less … than', etc.), the surface is likely being referenced as a
+    contrast for the form the row teaches — not a drift defect."""
+    return bool(_MAINUSE_DRIFT_CONTRAST_RE.search(text))
+# Phase-7.5: garbled contrast Tip. Script-glue = a Latin lowercase letter
+# directly adjacent to a kana/kanji character with no separator. Uppercase
+# Latin (V, N, A) is intentional grammatical shorthand and is allowed.
+_TIP_SCRIPT_GLUE_RE = re.compile(r"[a-z][ぁ-んァ-ヴ一-龯]|[ぁ-んァ-ヴ一-龯][a-z]")
 # Directory-prefix → expected JLPT tag value.
 _DIR_TO_JLPT = {
     "00-foundation": "n5",
@@ -426,6 +452,41 @@ def lint_file(path: Path,
                 m = _READING_SOKUON_DOUBLE_RE.search(reading_stripped)
                 if m:
                     errs.append(f"{path}:{ln}: Reading has sokuon doubling {m.group()!r}: {reading[:40]!r}")
+
+        # Phase-7.5: MainUse-vs-JP conjugation drift (Recognition + Production).
+        if nt == "Recognition" and "MainUse" in header:
+            mu = row[header.index("MainUse")]
+            jp = row[0]
+            for surface in _MAINUSE_DRIFT_SURFACES:
+                if surface not in mu or surface in jp:
+                    continue
+                if _mainuse_drift_ref_re(surface).search(mu) and not _mainuse_drift_is_contrastive(mu, surface):
+                    errs.append(
+                        f"WARN: {path}:{ln}: MainUse references '{surface}' "
+                        f"as a form but JP lacks that surface"
+                    )
+                    break
+        elif nt == "Production" and "Why" in header and "Sample" in header:
+            why = row[header.index("Why")]
+            sample = row[header.index("Sample")]
+            for surface in _MAINUSE_DRIFT_SURFACES:
+                if surface not in why or surface in sample:
+                    continue
+                if _mainuse_drift_ref_re(surface).search(why) and not _mainuse_drift_is_contrastive(why, surface):
+                    errs.append(
+                        f"WARN: {path}:{ln}: Why references '{surface}' "
+                        f"as a form but Sample lacks that surface"
+                    )
+                    break
+
+        # Phase-7.5: garbled contrast Tip — script-glue between Latin lowercase
+        # and Japanese characters (e.g., 'forcedを得ない').
+        if nt == "Contrast" and "Tip" in header:
+            tip = row[header.index("Tip")]
+            if _TIP_SCRIPT_GLUE_RE.search(tip):
+                errs.append(
+                    f"WARN: {path}:{ln}: Tip has Latin↔JP script glue: {tip!r}"
+                )
 
         key = tuple(row)
         seen[key] += 1
