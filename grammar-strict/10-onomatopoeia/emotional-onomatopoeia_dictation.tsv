@@ -4,11 +4,11 @@
 #notetype:Dictation
 #deck:Japanese Grammar::10 - Onomatopoeia::Dictation
 
-[sound:e7676d6c3885.mp3]	ワクワク	ワクワク	わくわく	Excited/thrilled.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:e70e6f5442ae.mp3]	ハラハラ	ハラハラ	はらはら	Nervous/anxious.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:55757f0eae7c.mp3]	イライラ	イライラ	いらいら	Annoyed/frustrated.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:5969d0688239.mp3]	ドキドキ	ドキドキ	どきどき	Excited/nervous heart.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:ff9ca079aadd.mp3]	ボーッ	ボーッ	ぼーっ	Dazed/blank.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:6448d235a307.mp3]	パサパサ	パサパサ	ぱさぱさ	Dry/uninspired.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:65d2d2c94da4.mp3]	ゲッソリ	ゲッソリ	げっそり	Haggard/exhausted.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
-[sound:de6e2010b9d3.mp3]	ダラダラ	ダラダラ	だらだら	Lazy/sluggish.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar
+[sound:e7676d6c3885.mp3]	ワクワク	ワクワク	わくわく	Excited/thrilled.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:e70e6f5442ae.mp3]	ハラハラ	ハラハラ	はらはら	Nervous/anxious.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:55757f0eae7c.mp3]	イライラ	イライラ	いらいら	Annoyed/frustrated.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:5969d0688239.mp3]	ドキドキ	ドキドキ	どきどき	Excited/nervous heart.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:ff9ca079aadd.mp3]	ボーッ	ボーッ	ぼーっ	Dazed/blank.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:6448d235a307.mp3]	パサパサ	パサパサ	ぱさぱさ	Dry/uninspired.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:65d2d2c94da4.mp3]	ゲッソリ	ゲッソリ	げっそり	Haggard/exhausted.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:de6e2010b9d3.mp3]	ダラダラ	ダラダラ	だらだら	Lazy/sluggish.	module:10-onomatopoeia point:emotional-onomatopoeia complexity:intro source:dictionary-of-jp-grammar complexity:standard

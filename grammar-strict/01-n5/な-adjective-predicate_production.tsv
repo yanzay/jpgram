@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::01 - N5 Grammar::Production
 
-This town is convenient.	この街は便利です。	このまちはべんりです。	この街は便利です。	predicate な-adj (no な)	[sound:a954bfcfbb1f.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:authored frequency:top10k complexity:intro
-He is a famous singer.	彼は有名な歌手です。	かれはゆうめいなかしゅです。	彼は有名な歌手です。	な before 歌手, predicate です	[sound:b6b97ab14664.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:authored frequency:top10k complexity:intro
-The classroom was quiet.	教室は静かでした。	きょうしつはしずかでした。	教室は静かでした。	な-adj past polite	[sound:9839057dc701.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:authored frequency:top1k complexity:intro
-She is kind.	彼女は親切だ。	かのじょはしんせつだ。	彼女は親切だ。	plain な-adj predicate	[sound:7791bf07d3a6.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:authored frequency:top5k complexity:intro
-The problem is easy.	問題は簡単です。	もんだいはかんたんです。	問題は簡単です。	な-adj + です: polite predicate — な-adjective drops な before だ/です; 簡単(な) + です; never 簡単なです in predicate	[sound:01331a4a566e.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:authored frequency:top5k complexity:intro
+This town is convenient.	この街は便利です。	このまちはべんりです。	この街は便利です。	predicate な-adj (no な)	[sound:a954bfcfbb1f.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:shin-kanzen frequency:top10k complexity:intro
+He is a famous singer.	彼は有名な歌手です。	かれはゆうめいなかしゅです。	彼は有名な歌手です。	な before 歌手, predicate です	[sound:b6b97ab14664.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:shin-kanzen frequency:top10k complexity:intro
+The classroom was quiet.	教室は静かでした。	きょうしつはしずかでした。	教室は静かでした。	な-adj past polite	[sound:9839057dc701.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:shin-kanzen frequency:top1k complexity:intro
+She is kind.	彼女は親切だ。	かのじょはしんせつだ。	彼女は親切だ。	plain な-adj predicate	[sound:7791bf07d3a6.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:shin-kanzen frequency:top5k complexity:intro
+The problem is easy.	問題は簡単です。	もんだいはかんたんです。	問題は簡単です。	な-adj + です: polite predicate — な-adjective drops な before だ/です; 簡単(な) + です; never 簡単なです in predicate	[sound:01331a4a566e.mp3]	module:01-n5 jlpt:n5 point:な-adjective-predicate source:shin-kanzen frequency:top5k complexity:intro

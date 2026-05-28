@@ -4,11 +4,11 @@
 #notetype:Dictation
 #deck:Japanese Grammar::10 - Onomatopoeia::Dictation
 
-[sound:d089c6bae983.mp3]	ワンワン	ワンワン	わんわん	Woof woof.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:47d9e36d59dd.mp3]	ニャー	ニャー	にゃー	Meow.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:93b6dedc98e1.mp3]	コケコッコー	コケコッコー	こけこっこー	Cock-a-doodle-doo.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:b88990383761.mp3]	ケロケロ	ケロケロ	けろけろ	Ribbit ribbit.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:2014291e78d6.mp3]	モーモー	モーモー	もーもー	Moo.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:c290aa4fc780.mp3]	ブーブー	ブーブー	ぶーぶー	Oink oink.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:98eeb9025bd8.mp3]	チュンチュン	チュンチュン	ちゅんちゅん	Chirp chirp.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
-[sound:f66b1943c4da.mp3]	ヒーヒー	ヒーヒー	ひーひー	Neigh/whinny.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar
+[sound:d089c6bae983.mp3]	ワンワン	ワンワン	わんわん	Woof woof.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:47d9e36d59dd.mp3]	ニャー	ニャー	にゃー	Meow.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:93b6dedc98e1.mp3]	コケコッコー	コケコッコー	こけこっこー	Cock-a-doodle-doo.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:b88990383761.mp3]	ケロケロ	ケロケロ	けろけろ	Ribbit ribbit.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:2014291e78d6.mp3]	モーモー	モーモー	もーもー	Moo.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:c290aa4fc780.mp3]	ブーブー	ブーブー	ぶーぶー	Oink oink.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:98eeb9025bd8.mp3]	チュンチュン	チュンチュン	ちゅんちゅん	Chirp chirp.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
+[sound:f66b1943c4da.mp3]	ヒーヒー	ヒーヒー	ひーひー	Neigh/whinny.	module:10-onomatopoeia point:giseigo-voices complexity:intro source:dictionary-of-jp-grammar complexity:standard
