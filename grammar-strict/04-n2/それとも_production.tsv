@@ -4,8 +4,8 @@
 #notetype:Production
 #deck:Japanese Grammar::04 - N2 Grammar::Production
 
-Will you have coffee, or rather tea?	コーヒーにしますか、それとも紅茶にしますか？	こーひーにしますか、それともこうちゃにしますか？	コーヒーにしますか、それとも紅茶にしますか？	それとも: two beverage options presented for choice	[sound:fa0f25ca7d6d.mp3]	module:04-n2 jlpt:n2 point:それとも source:authored frequency:top1k complexity:standard
-Are you coming today, or would you prefer tomorrow?	今日来ますか、それとも明日にしますか？	きょうきますか、それともあしたにしますか？	今日来ますか、それとも明日にしますか？	それとも: time alternatives offered for scheduling	[sound:fd49895c7ff2.mp3]	module:04-n2 jlpt:n2 point:それとも source:authored frequency:top10k complexity:standard
-Will you do it yourself, or ask someone else?	自分でやりますか、それとも誰かに頼みますか？	じぶんでやりますか、それともだれかにたのみますか？	自分でやりますか、それとも誰かに頼みますか？	それとも: execution method alternatives contrasted	[sound:a373c1164de3.mp3]	module:04-n2 jlpt:n2 point:それとも source:authored frequency:top1k complexity:standard
-Will you go by train, or by car?	電車で行きますか、それとも車で行きますか？	でんしゃでいきますか、それともくるまでいきますか？	電車で行きますか、それとも車で行きますか？	それとも: two transport options presented	[sound:8a2fdd691c5d.mp3]	module:04-n2 jlpt:n2 point:それとも source:authored frequency:top10k complexity:standard
-Would you like Japanese food, or Western food?	和食にしますか、それとも洋食にしますか？	わしょくにしますか、それともようしょくにしますか？	和食にしますか、それとも洋食にしますか？	それとも: cuisine choice between two exclusive options	[sound:8367e132d46a.mp3]	module:04-n2 jlpt:n2 point:それとも source:authored complexity:standard
+Will you have coffee, or rather tea?	コーヒーにしますか、それとも紅茶にしますか？	こーひーにしますか、それともこうちゃにしますか？	コーヒーにしますか、それとも紅茶にしますか？	それとも: two beverage options presented for choice	[sound:fa0f25ca7d6d.mp3]	module:04-n2 jlpt:n2 point:それとも source:shin-kanzen frequency:top1k complexity:standard
+Are you coming today, or would you prefer tomorrow?	今日来ますか、それとも明日にしますか？	きょうきますか、それともあしたにしますか？	今日来ますか、それとも明日にしますか？	それとも: time alternatives offered for scheduling	[sound:fd49895c7ff2.mp3]	module:04-n2 jlpt:n2 point:それとも source:shin-kanzen frequency:top10k complexity:standard
+Will you do it yourself, or ask someone else?	自分でやりますか、それとも誰かに頼みますか？	じぶんでやりますか、それともだれかにたのみますか？	自分でやりますか、それとも誰かに頼みますか？	それとも: execution method alternatives contrasted	[sound:a373c1164de3.mp3]	module:04-n2 jlpt:n2 point:それとも source:shin-kanzen frequency:top1k complexity:standard
+Will you go by train, or by car?	電車で行きますか、それとも車で行きますか？	でんしゃでいきますか、それともくるまでいきますか？	電車で行きますか、それとも車で行きますか？	それとも: two transport options presented	[sound:8a2fdd691c5d.mp3]	module:04-n2 jlpt:n2 point:それとも source:shin-kanzen frequency:top10k complexity:standard
+Would you like Japanese food, or Western food?	和食にしますか、それとも洋食にしますか？	わしょくにしますか、それともようしょくにしますか？	和食にしますか、それとも洋食にしますか？	それとも: cuisine choice between two exclusive options	[sound:8367e132d46a.mp3]	module:04-n2 jlpt:n2 point:それとも source:shin-kanzen complexity:standard
