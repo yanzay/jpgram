@@ -1,26 +1,15 @@
-# Japanese Grammar Anki Package (Strict Deck)
+# Japanese Grammar Anki Package
 
 A Bunpro-atomic Japanese-grammar Anki deck covering all 945 Bunpro grammar
 points from N5 through N1, with two primary card types per point:
 **Recognition** and **Production**, plus secondary Cloze / Contrast /
 Dictation / Listening cards on a subset of points.
 
-> **Status:** v1.0.0 — Coverage 100% (945/945 Bunpro points). All
-> improvement phases complete. Validator passes with 0 errors and 31
-> accepted twin-parity warnings. All 150+ catalogued reading defects,
-> 491 spot-the-answer rows, 14 100%-off-topic cloze files, 824 monotone
-> Recognition back sides, and 240 placeholder-Label rows have been fixed.
-> An automated native-speaker pass (2026-05-28) resolved 77 additional
-> N1/N2 defects including a systemic 中=じゅう reading sweep.
-> `validate_anki_data.py` enforces 12+ row-quality rules including
-> cloze-point alignment, contrast spot-the-answer detection,
-> JLPT-vs-directory consistency, tag-key uniqueness, and back-side
-> variability.
-
 ## Coverage
 
-| Level | Points | Files |
-|-------|--------|-------|
+| Level | Points | Directory |
+|-------|--------|-----------|
+| Foundation | — | `grammar-strict/00-foundation/` |
 | N5 | 122 | `grammar-strict/01-n5/` |
 | N4 | 160 | `grammar-strict/02-n4/` |
 | N3 | 194 | `grammar-strict/03-n3/` |
@@ -28,16 +17,28 @@ Dictation / Listening cards on a subset of points.
 | N1 | 169 | `grammar-strict/05-n1/` |
 | **Total** | **945** | |
 
-Foundation cards (kana, particles, copula) live in `grammar-strict/00-foundation/`.
+Foundation cards (kana, particles, copula, numbers, time, demonstratives)
+live in `grammar-strict/00-foundation/`.
 
 ## Card types
 
 | Note type | Front | Back |
-|---|---|---|
+|-----------|-------|------|
 | **Recognition** | JP sentence + 🔊 | label · formula · main use · quick cue · contrast |
 | **Production** | English prompt + target form | model JP + reading + why + 🔊 |
+| **Cloze** | sentence with `{{c1::…}}` blank + hint | full sentence + reading + 🔊 |
+| **Contrast** | JP with `___` + option A / B + 🔊 | correct answer highlighted + why + tip |
+| **Dictation** | 🔊 only | transcript + reading |
+| **Listening** | 🔊 only | transcript + meaning |
 
-Fields: `JP · Reading · EN · Label · Formula · MainUse · QuickCue · Contrast · Audio · Tags`
+### Fields
+
+| Note type | Fields |
+|-----------|--------|
+| Recognition | `JP · Reading · EN · Label · Formula · MainUse · QuickCue · Contrast · Audio · Tags` |
+| Production | `Prompt · Target · Reading · Sample · Why · Audio · Tags` |
+| Cloze | `Text · Reading · Hint · Audio · Tags` |
+| Contrast | `JP · OptionA · OptionB · Answer · Why · Tip · Audio · Tags` |
 
 ## Repository layout
 
@@ -60,12 +61,23 @@ scripts/
   coverage_audit.py            Internal + Bunpro coverage gates
   bunpro_reverse_coverage.py   Verifies all 945 Bunpro points covered
 
+templates/              HTML + CSS card templates for all note types
+draft/                  Schema-only example TSVs (not picked up by build)
+
 data/
   grammar_taxonomy_bunpro.tsv  Bunpro slug → point metadata
-  grammar-refs/                Cached Bunpro index JSON
+  grammar_taxonomy.tsv         Full cross-reference taxonomy
+  grammar-refs/                Cached Bunpro/Tofugu/Imabi index files
+  dictionaries/                UniDic, JMDict, MeCab dictionaries
+  frequency-lists/             BCCWJ-derived frequency rankings
+  pitch-accent/                NHK pitch accent dictionary
 
-build_anki_package.py   Assembles grammar-strict/ → japanese_grammar_strict.apkg
+build_anki_package.py   Assembles grammar-strict/ → japanese_grammar_anki.apkg
 build_audio.py          Google Cloud TTS: one MP3 per unique JP sentence (idempotent)
+build_furigana.py       Injects <ruby> furigana into Reading fields
+build_pitchaccent.py    Injects pitch-accent overlays
+validate_anki_data.py   Validates all TSVs (12+ quality rules)
+apply_taxonomy_tags.py  Injects register/frequency/domain/JLPT tags
 ```
 
 ## Quick start
@@ -77,11 +89,12 @@ pip install -r requirements.txt
 
 # 2. Verify deck integrity
 .venv/bin/python scripts/strict_deck_audit.py
+# Expected: strict_deck_audit: exit=0  bunpro_reverse_coverage: pct=100.0% covered=945/945
 
 # 3. Build Anki package
 python build_anki_package.py
 
-# 4. (Optional) Generate audio — requires GCP credentials
+# 4. Generate audio — requires GCP credentials
 # Drop service-account JSON at .secrets/gcp-adc.json or use:
 #   gcloud auth application-default login
 python build_audio.py --dry-run    # cost preview
@@ -93,10 +106,8 @@ python build_audio.py              # synthesize all sentences
 Content lives in `content/<level>_strict_content.py` as a Python `CONTENT` dict.
 Each entry has `label`, `formula`, `main_use`, `contrast`, and `sentences`
 (target: 5 atomic sentences per point, each with `jp`, `en`, `why` ≤ 8 words).
-Some legacy files exceed the 5-sentence cap and are tracked in the
-improvement plan.
 
-After editing a content file, regenerate:
+After editing a content file, regenerate TSVs:
 
 ```bash
 .venv/bin/python scripts/generate_strict_content.py \
@@ -104,29 +115,88 @@ After editing a content file, regenerate:
     --module <module>    # e.g. 01-n5, 02-n4, …, 05-n1
 ```
 
-## Audio pipeline
-
-* Filename: `sha1(jp_sentence)[:12].mp3`
-* Re-running `build_audio.py` only synthesizes new/changed sentences
-* Default voice: `ja-JP-Neural2-B` (female), alt `ja-JP-Neural2-C` (male)
-* Manifest: `media/audio_manifest.json`
-
-## Audit
+To author a new TSV from scratch, copy the matching schema example from
+`draft/` into `grammar-strict/<module>/`, rename it
+`<point-slug>_<notetype>.tsv`, fill in real rows, then:
 
 ```bash
-.venv/bin/python scripts/strict_deck_audit.py
-# Expected: strict_deck_audit: exit=0  bunpro_reverse_coverage: pct=100.0% covered=945/945
+python apply_taxonomy_tags.py
+python validate_anki_data.py
 ```
 
-**This script checks coverage only, not content quality.** For the
-content-quality audit and remediation roadmap see:
+### Validator rules
 
-- [`research-reports/AUDIT_2026-05-19_SUMMARY.md`](research-reports/AUDIT_2026-05-19_SUMMARY.md) — top-level findings
-- [`research-reports/audit_strict_correctness.md`](research-reports/audit_strict_correctness.md) — Japanese grammar/readings
-- [`research-reports/audit_strict_pedagogy.md`](research-reports/audit_strict_pedagogy.md) — card-design pedagogy
-- [`research-reports/audit_strict_secondary_cards.md`](research-reports/audit_strict_secondary_cards.md) — cloze/contrast/dictation defects
-- [`research-reports/audit_strict_en_consistency.md`](research-reports/audit_strict_en_consistency.md) — English glosses + cross-card consistency
-- [`IMPROVEMENT_PLAN.md`](IMPROVEMENT_PLAN.md) — prioritized fix roadmap
+`validate_anki_data.py` enforces hard errors on:
+- Empty data files (no rows)
+- Whole-sentence cloze (entire JP wrapped in `{{c1::…}}`)
+- Cloze point-alignment (≥80% of cloze deletions must match the filename slug)
+- Contrast spot-the-answer (answer literal in JP with no `___` placeholder)
+- Tag-key uniqueness per row (no duplicate `jlpt:`, `complexity:`, etc.)
+- JLPT-tag-vs-directory consistency
+- Placeholder leak (`Label="contrast-derived"` or `TODO` in non-tag fields)
+- Reading-column cloze-marker parity
+
+## Audio pipeline
+
+- **Filename**: `sha1(jp_sentence)[:12].mp3`
+- **Voice**: `ja-JP-Neural2-B` (female); set `--voice ja-JP-Neural2-C` for male
+- **Idempotent**: re-running only synthesizes new or changed sentences
+- **Manifest**: `media/audio_manifest.json`
+- Re-run after any content change: `python build_audio.py`
+
+## Anki settings
+
+### FSRS
+
+Use FSRS (Anki ≥ 23.10):
+
+| Setting | Value |
+|---------|-------|
+| Desired retention | 0.90 |
+| Maximum interval | 365 days |
+| Easy bonus | 1.30 |
+| Hard interval | 1.20 |
+| Bury siblings | ON |
+
+Bury siblings keeps recognition + production for the same point from
+appearing on the same day.
+
+### Presets
+
+The deck ships with two options presets:
+
+- **Japanese Grammar** — main preset (10 new cards/day, FSRS, sibling burying),
+  bound to Module 00 on fresh import.
+- **Japanese Grammar (opt-in)** — 0 new cards/day, bound to all other modules.
+  Unlock a module by switching its preset to the main one.
+
+### Study path
+
+| Phase | Weeks | Module | Notes |
+|-------|-------|--------|-------|
+| 1. Foundation | 1–4 | 00 | Kana, particles, copula. Everything else builds on this. |
+| 2. N5 grammar | 5–16 | 01 | Core morphology: te-form, -ます, -たい, conditionals |
+| 3. N4 grammar | 17–28 | 02 | Passive, causative, giving/receiving, evidentials |
+| 4. N3 grammar | 29–44 | 03 | The watershed — half of intermediate Japanese lives here |
+| 5. N2 grammar | 45–60 | 04 | News and business prose |
+| 6. N1 grammar | 61–80 | 05 | Literary register, abstract relational nouns |
+
+### Card display
+
+- **Show audio button on front** — yes
+- **Hide reading on front** — yes (furigana only on back)
+- **Auto-play audio on flip** — recommended ON for the first 6 months
+
+## Source authorities
+
+When sources disagree on a point, priority order:
+
+1. **Makino & Tsutsui** — *Dictionary of Basic / Intermediate / Advanced Japanese Grammar* — definitive for N5–N3 nuance
+2. **Shin Kanzen Master Grammar** (新完全マスター文法) N1–N5 — JLPT-aligned standard
+3. **Martin** — *A Reference Grammar of Japanese* — historical/structural backstop
+4. **Imabi.org** + **Tofugu** — cross-checks for modern usage nuance
+5. **NHK 日本語発音アクセント新辞典** — pitch accent
+6. **Bunpro grammar tree** — master grammar-point checklist (N5 → N1)
 
 ## License
 
