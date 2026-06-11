@@ -160,3 +160,80 @@ def test_recognition_quickcue_must_not_duplicate_mainuse(tmp_path, monkeypatch):
     )
 
     assert any("Recognition QuickCue duplicates MainUse/Formula" in err for err in errors)
+
+
+def test_l1_file_requires_language_specific_deck_and_tag(tmp_path, monkeypatch):
+    monkeypatch.setattr(validator, "MEDIA_DIR", tmp_path)
+
+    l1_dir = tmp_path / "13-l1"
+    l1_dir.mkdir()
+    tsv = l1_dir / "l1-pronoun-overuse_recognition.tsv"
+    tsv.write_text(
+        "\n".join(
+            [
+                "#separator:tab",
+                "#html:true",
+                "#columns:JP\tReading\tEN\tLabel\tFormula\tMainUse\tQuickCue\tContrast\tAudio\tTags",
+                "#notetype:Recognition",
+                "#deck:Japanese Grammar::13 - L1 Interference::Recognition",
+                (
+                    "毎日勉強します\tまいにちべんきょうします\t"
+                    "I study every day.\tpronoun omission\tcontext + predicate\t"
+                    "subject omission\tdrop English pronoun\t"
+                    "私は毎日勉強します vs 毎日勉強します\t\t"
+                    "module:13-l1 point:l1-pronoun-overuse source:test "
+                    "frequency:top1k complexity:intro"
+                ),
+            ]
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    errors = validator.lint_file(
+        tsv,
+        audio_users=defaultdict(list),
+        manifest_keys=set(),
+        taxonomy_points=set(),
+    )
+
+    assert any("L1 deck must be language-specific" in err for err in errors)
+    assert any("missing L1 language tag `l1:english`" in err for err in errors)
+
+
+def test_l1_language_specific_deck_and_tag_pass(tmp_path, monkeypatch):
+    monkeypatch.setattr(validator, "MEDIA_DIR", tmp_path)
+
+    l1_dir = tmp_path / "13-l1"
+    l1_dir.mkdir()
+    tsv = l1_dir / "l1-pronoun-overuse_recognition.tsv"
+    tsv.write_text(
+        "\n".join(
+            [
+                "#separator:tab",
+                "#html:true",
+                "#columns:JP\tReading\tEN\tLabel\tFormula\tMainUse\tQuickCue\tContrast\tAudio\tTags",
+                "#notetype:Recognition",
+                "#deck:Japanese Grammar::13 - L1 Interference::English::Recognition",
+                (
+                    "毎日勉強します\tまいにちべんきょうします\t"
+                    "I study every day.\tpronoun omission\tcontext + predicate\t"
+                    "subject omission\tdrop English pronoun\t"
+                    "私は毎日勉強します vs 毎日勉強します\t\t"
+                    "module:13-l1 point:l1-pronoun-overuse l1:english source:test "
+                    "frequency:top1k complexity:intro"
+                ),
+            ]
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    errors = validator.lint_file(
+        tsv,
+        audio_users=defaultdict(list),
+        manifest_keys=set(),
+        taxonomy_points=set(),
+    )
+
+    assert not [err for err in errors if "L1" in err]

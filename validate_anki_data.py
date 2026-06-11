@@ -31,7 +31,13 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from build_anki_package import NOTE_TYPES, detect_note_type
+from build_anki_package import (
+    DECK_NAME,
+    L1_LANGUAGE_BY_POINT,
+    NOTE_TYPES,
+    detect_note_type,
+    l1_language_tag,
+)
 
 _READING_KANJI_RE = re.compile(r"[一-龯]")
 _READING_DIGIT_RE = re.compile(r"[0-9０-９]")
@@ -210,6 +216,15 @@ def _audio_hash(text: str) -> str:
     return hashlib.sha1(text.strip().encode("utf-8")).hexdigest()[:12]
 
 
+def _point_slug_from_path(path: Path) -> str:
+    slug = path.stem
+    for suffix in ("_recognition", "_production", "_cloze", "_contrast",
+                   "_dictation", "_listening"):
+        if slug.endswith(suffix):
+            return slug[:-len(suffix)]
+    return slug
+
+
 def lint_file(path: Path,
               audio_users: dict[str, list[str]],
               manifest_keys: set[str],
@@ -219,11 +234,14 @@ def lint_file(path: Path,
     expected = NOTE_TYPES[nt]
     text = path.read_text(encoding="utf-8")
     header = None
+    deck_header = None
     data: list[tuple[int, str]] = []
     for ln, raw in enumerate(text.splitlines(), 1):
         if raw.startswith("#columns:"):
             header = raw[len("#columns:"):].split("\t")
             continue
+        if raw.startswith("#deck:"):
+            deck_header = raw[len("#deck:"):].strip()
         if not raw:
             continue
         if raw == "#":
@@ -251,6 +269,23 @@ def lint_file(path: Path,
     if header != expected:
         errs.append(f"{path}: header {header} != expected {expected} "
                     f"(note type {nt})")
+
+    l1_expected_tag = None
+    if path.parent.name == "13-l1":
+        point = _point_slug_from_path(path)
+        language = L1_LANGUAGE_BY_POINT.get(point)
+        if not language:
+            errs.append(f"{path}: unknown L1 source language for point '{point}'")
+        else:
+            expected_deck = (
+                f"{DECK_NAME}::13 - L1 Interference::{language}::{nt}"
+            )
+            l1_expected_tag = l1_language_tag(language)
+            if deck_header != expected_deck:
+                errs.append(
+                    f"{path}: L1 deck must be language-specific; expected "
+                    f"`#deck:{expected_deck}`"
+                )
 
     seen: Counter[tuple[str, str]] = Counter()
     for ln, raw in data:
@@ -286,6 +321,18 @@ def lint_file(path: Path,
                 errs.append(f"{path}:{ln}: coarse point tag '{p}' is not allowed")
             elif taxonomy_points and p not in taxonomy_points:
                 errs.append(f"{path}:{ln}: point '{p}' missing from data/grammar_taxonomy.tsv")
+        if l1_expected_tag:
+            l1_tags = [t for t in tag_tokens if t.startswith("l1:")]
+            if l1_expected_tag not in l1_tags:
+                errs.append(
+                    f"{path}:{ln}: missing L1 language tag `{l1_expected_tag}`"
+                )
+            unexpected_l1_tags = sorted(t for t in l1_tags if t != l1_expected_tag)
+            if unexpected_l1_tags:
+                errs.append(
+                    f"{path}:{ln}: wrong L1 language tag(s) "
+                    f"{unexpected_l1_tags}; expected `{l1_expected_tag}`"
+                )
 
         # Audio column — every note type has it; usually the second-to-last.
         audio_field = ""

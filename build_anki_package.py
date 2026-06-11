@@ -36,12 +36,53 @@ import subprocess
 import sys
 from pathlib import Path
 
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 DECK_NAME = "Japanese Grammar"
 GRAMMAR_DIR = Path("grammar-strict")
 MEDIA_DIR = Path("media")
 OUTPUT = Path("japanese_grammar_anki.apkg")
 CHANGELOG_URL = "https://github.com/yanzay/jpgram/blob/main/CHANGELOG.md"
+
+
+L1_LANGUAGE_BY_POINT = {
+    "l1-tense-aspect": "English",
+    "l1-articles-and-number": "English",
+    "l1-pronoun-overuse": "English",
+    "l1-yes-no_negative-questions": "English",
+    "l1-givereceive-direction": "English",
+    "l1-particles-overlap": "English",
+    "l1-relative-clauses": "English",
+}
+
+
+def l1_language_for_point(point: str):
+    return L1_LANGUAGE_BY_POINT.get(point)
+
+
+def l1_language_tag(language: str) -> str:
+    return f"l1:{language.lower().replace(' ', '-')}"
+
+
+DECK_OPTION_PRESETS = {
+    # name, new cards/day, reviews/day
+    "default": ("JPGram · Default", 20, 200),
+    "root": ("JPGram · Root Cap", 30, 300),
+    "foundation_parent": ("JPGram · Foundation Parent", 18, 180),
+    "level_parent": ("JPGram · JLPT Level Parent", 20, 200),
+    "supplement_parent": ("JPGram · Supplemental Parent", 8, 80),
+    "l1_parent": ("JPGram · L1 Parent", 6, 60),
+    "recognition": ("JPGram · Recognition", 12, 120),
+    "production": ("JPGram · Production", 8, 100),
+    "cloze": ("JPGram · Cloze", 5, 60),
+    "contrast": ("JPGram · Contrast", 5, 70),
+    "listening": ("JPGram · Listening", 4, 50),
+    "dictation": ("JPGram · Dictation", 3, 45),
+    "l1_recognition": ("JPGram · L1 Recognition", 5, 60),
+    "l1_production": ("JPGram · L1 Production", 4, 50),
+    "l1_contrast": ("JPGram · L1 Contrast", 4, 50),
+    "l1_listening": ("JPGram · L1 Listening", 3, 40),
+    "l1_dictation": ("JPGram · L1 Dictation", 3, 40),
+}
 
 
 # ── Note-type schema ─────────────────────────────────────────────────────
@@ -243,7 +284,10 @@ def main() -> int:
                     print(f"  ⚠ Unknown note type '{note_type_str}' in {tsv_path}, skipping")
                     continue
                 
-                deck_str = _extract_header(tsv_path, "deck", DECK_NAME)
+                deck_str = _resolve_deck_name(
+                    tsv_path,
+                    _extract_header(tsv_path, "deck", DECK_NAME),
+                )
                 if deck_str not in deck_ids:
                     deck_ids[deck_str] = _get_or_create_deck(col, deck_str)
                 
@@ -324,6 +368,8 @@ def main() -> int:
                 return 8
             
             print(f"  ✓ Copied {media_copied} media file(s)")
+
+        _assign_deck_options(col)
         
         # Export to .apkg manually (bypass AnkiPackageExporter issues)
         col.close()
@@ -393,6 +439,37 @@ def _extract_header(tsv_path: Path, key: str, default: str) -> str:
     return default
 
 
+def _point_slug_from_path(tsv_path: Path) -> str:
+    slug = tsv_path.stem
+    for suffix in ("_recognition", "_production", "_cloze", "_contrast",
+                   "_dictation", "_listening"):
+        if slug.endswith(suffix):
+            return slug[:-len(suffix)]
+    return slug
+
+
+def _resolve_deck_name(tsv_path: Path, deck_name: str) -> str:
+    """Normalize deck headers that need derived hierarchy.
+
+    L1 interference must be separated by source language, because mixing
+    English-specific transfer cards with future L1s breaks the pedagogy.
+    """
+    if tsv_path.parent.name != "13-l1":
+        return deck_name
+
+    point = _point_slug_from_path(tsv_path)
+    language = l1_language_for_point(point)
+    if not language:
+        return deck_name
+
+    parts = deck_name.split("::")
+    if len(parts) >= 4 and parts[1] == "13 - L1 Interference":
+        return deck_name
+    if len(parts) == 3 and parts[1] == "13 - L1 Interference":
+        return "::".join([parts[0], parts[1], language, parts[2]])
+    return deck_name
+
+
 # Ordered subdeck names for note-type subdecks.
 # TSV headers use bare names; these prefixes force a consistent display order.
 _SUBDECK_ORDER = {
@@ -415,6 +492,80 @@ def _order_deck_name(deck_str: str) -> str:
 def _get_or_create_deck(col, deck_name: str) -> int:
     """Get or create a deck by hierarchical name (e.g. 'A::B::C')."""
     return col.decks.id(_order_deck_name(deck_name))
+
+
+def _create_deck_option_presets(col) -> dict[str, int]:
+    base = col.decks.get_config(1)
+    if base is None:
+        raise RuntimeError("Anki default deck config is missing")
+
+    config_ids: dict[str, int] = {}
+    for key, (name, new_per_day, reviews_per_day) in DECK_OPTION_PRESETS.items():
+        if key == "default":
+            conf = base
+            conf["name"] = name
+        else:
+            conf = col.decks.add_config(name, base)
+
+        conf["new"]["perDay"] = new_per_day
+        conf["rev"]["perDay"] = reviews_per_day
+        conf["new"]["bury"] = True
+        conf["rev"]["bury"] = True
+        conf["buryInterdayLearning"] = True
+        conf["newPerDayMinimum"] = 0
+        conf["desiredRetention"] = 0.9
+        conf["sm2Retention"] = 0.9
+        col.decks.update_config(conf)
+        config_ids[key] = int(conf["id"])
+    return config_ids
+
+
+def _deck_option_key(deck_name: str) -> str:
+    parts = deck_name.replace("\x1f", "::").split("::")
+    if deck_name == "Default":
+        return "default"
+    if parts == [DECK_NAME]:
+        return "root"
+
+    module = parts[1] if len(parts) > 1 else ""
+    leaf = parts[-1] if parts else ""
+    is_l1 = module == "13 - L1 Interference"
+
+    if leaf in _SUBDECK_ORDER.values():
+        bare_leaf = leaf.split("·", 1)[1].strip()
+    else:
+        bare_leaf = leaf
+
+    if is_l1:
+        l1_key = f"l1_{bare_leaf.lower()}"
+        if l1_key in DECK_OPTION_PRESETS:
+            return l1_key
+        return "l1_parent"
+
+    leaf_key = bare_leaf.lower()
+    if leaf_key in DECK_OPTION_PRESETS:
+        return leaf_key
+
+    if module == "00 - Foundation":
+        return "foundation_parent"
+    if module == "10 - Onomatopoeia" or module.startswith(("06 -", "07 -", "08 -", "09 -", "11 -", "12 -")):
+        return "supplement_parent"
+    if re.match(r"0[1-5] - N[1-5] Grammar", module):
+        return "level_parent"
+    return "default"
+
+
+def _assign_deck_options(col) -> None:
+    config_ids = _create_deck_option_presets(col)
+    changed = 0
+    for deck in col.decks.all():
+        key = _deck_option_key(deck["name"])
+        conf_id = config_ids[key]
+        if deck.get("conf") != conf_id:
+            deck["conf"] = conf_id
+            col.decks.save(deck)
+            changed += 1
+    print(f"  ✓ Assigned deck options to {changed} deck(s)")
 
 
 def _create_note_types(col):
