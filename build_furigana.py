@@ -35,7 +35,7 @@ from typing import Dict, List
 
 INDEX_PATH = Path("media/furigana_index.json")
 WORDS_PATH = Path("media/words_index.json")
-GRAMMAR_DIR = Path("grammar")
+GRAMMAR_DIR = Path("grammar-strict")
 
 INDEX_VERSION = 1
 
@@ -108,18 +108,33 @@ def collect_sentences() -> List[str]:
         return []
     import csv
     for tsv in sorted(GRAMMAR_DIR.rglob("*.tsv")):
-        is_cloze = "cloze" in tsv.parts or tsv.name.startswith("cloze_")
+        header = None
         for raw in tsv.read_text(encoding="utf-8").splitlines():
+            if raw.startswith("#columns:"):
+                header = raw[len("#columns:"):].split("\t")
+                continue
             if not raw or raw.startswith("#"):
                 continue
-            row = next(csv.reader([raw], delimiter="\t", quotechar='"'))
-            if not row:
+            if not header:
                 continue
-            jp = row[0].strip()
+            row = next(csv.reader([raw], delimiter="\t", quotechar='"'))
+            if not row or len(row) != len(header):
+                continue
+            cells = dict(zip(header, row))
+            if "Sample" in cells:
+                jp = cells["Sample"].strip()
+            elif "Text" in cells:
+                jp = _CLOZE_RE.sub(r"\1", cells["Text"].strip())
+            elif "Transcript" in cells:
+                jp = cells["Transcript"].strip()
+            elif "Answer" in cells:
+                jp = cells["Answer"].strip()
+            else:
+                jp = cells.get("JP", row[0]).strip()
+            if "___" in jp and "Answer" in cells:
+                jp = jp.replace("___", cells["Answer"].strip())
             if not jp:
                 continue
-            if is_cloze:
-                jp = _CLOZE_RE.sub(r"\1", jp)
             sentences.add(jp)
     return sorted(sentences)
 

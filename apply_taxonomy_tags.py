@@ -23,6 +23,7 @@ import sys
 from pathlib import Path
 
 GRAMMAR_DIR = Path("grammar-strict")
+UNIQUE_TAG_PREFIXES = {"complexity", "frequency", "jlpt", "module", "point", "source"}
 
 MODULE_TO_JLPT = {
     "01-n5": "n5", "02-n4": "n4", "03-n3": "n3",
@@ -167,13 +168,29 @@ def derive_confusable_tags(row: list[str], header: list[str]) -> list[str]:
 
 
 def merge_tags(existing: str, new: list[str]) -> str:
-    """Merge tag strings, de-duplicate, preserve order (existing first)."""
+    """Merge tag strings, de-duplicate, preserve order (existing first).
+
+    Controlled axes such as complexity/source/point are unique per row:
+    keep the first existing value and do not append another value for the
+    same prefix.
+    """
     seen: dict[str, None] = {}
+    seen_prefixes: set[str] = set()
     for t in (existing or "").split():
         if t:
+            prefix = t.split(":", 1)[0] if ":" in t else ""
+            if prefix in UNIQUE_TAG_PREFIXES:
+                if prefix in seen_prefixes:
+                    continue
+                seen_prefixes.add(prefix)
             seen[t] = None
     for t in new:
         if t:
+            prefix = t.split(":", 1)[0] if ":" in t else ""
+            if prefix in UNIQUE_TAG_PREFIXES and prefix in seen_prefixes:
+                continue
+            if prefix in UNIQUE_TAG_PREFIXES:
+                seen_prefixes.add(prefix)
             seen[t] = None
     return " ".join(seen.keys())
 

@@ -10,6 +10,9 @@ Checks:
   * tags column is well-formed (space-separated tokens, no commas)
   * cloze rows contain at least one {{c…::…}} marker
   * no duplicate rows (within a file) by (sentence, second_field)
+  * recognition QuickCue does not duplicate MainUse or Formula
+  * production prompts do not expose Japanese form hints on the front side
+  * recognition EN fields are translations, not production-style prompts
   * **NEW** [sound:WAVE0_PLACEHOLDER.mp3] never reaches grammar/
   * **NEW** every [sound:X.mp3] reference resolves to media/audio/X.mp3
             OR is registered in media/audio_manifest.json
@@ -21,6 +24,7 @@ Exit code: 0 if clean, 1 on any error.
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 import re
 import sys
@@ -43,7 +47,13 @@ _CLOZE_RE = re.compile(r"\{\{c\d+::[^}]+\}\}")
 _ANY_CLOZE_RE = re.compile(r"\{\{c\d+::")
 _INVENTED_CLASSICAL_RE = re.compile(r"べまじ|るざり|とやもしれない|やひや|ぜんくして")
 _META_EN_RE = re.compile(r" = |Use '|attaches to")
+_RECOGNITION_EN_PROMPT_RE = re.compile(r"^\s*Say(?:\s|\(|:)", re.I)
+_PRODUCTION_PROMPT_FORM_LEAK_RE = re.compile(
+    r"\b(?:use|using)\b[^.?!。]*[一-龯ぁ-んァ-ンー]",
+    re.I,
+)
 _SOUND_RE = re.compile(r"\[sound:([^\]]+)\]")
+_HASH_AUDIO_RE = re.compile(r"^[0-9a-f]{12}(?:_alt)?\.mp3$", re.I)
 _PLACEHOLDER_RE = re.compile(r"\[sound:WAVE\d+_PLACEHOLDER\.mp3\]", re.I)
 _FAKE_HASH_RE = re.compile(r"\[sound:[0-9a-f]{12}\.mp3\]", re.I)  # may be legit
 _PLACEHOLDER_TOKEN_RE = re.compile(r"\bexample(?:[a-z0-9_-]*)\b", re.I)
@@ -184,12 +194,20 @@ def _source_sentence(nt: str, header: list[str], row: list[str]) -> str:
     if nt == "Contrast":
         jp = row[header.index("JP")].strip() if "JP" in header else row[0].strip()
         ans = row[header.index("Answer")].strip() if "Answer" in header else ""
-        return jp.replace("___", ans) if jp and ans else jp
+        if jp and ans:
+            source = jp.replace("___", "" if ans == "(omit)" else ans)
+        else:
+            source = jp
+        return re.sub(r"\s*\([^)]+\)\s*", "", source).strip()
     if nt == "Listening":
         return row[header.index("Transcript")].strip() if "Transcript" in header else row[0].strip()
     if nt == "Dictation":
         return row[header.index("Answer")].strip() if "Answer" in header else row[0].strip()
     return row[0].strip()
+
+
+def _audio_hash(text: str) -> str:
+    return hashlib.sha1(text.strip().encode("utf-8")).hexdigest()[:12]
 
 
 def lint_file(path: Path,
@@ -259,6 +277,7 @@ def lint_file(path: Path,
             errs.append(f"{path}:{ln}: comma in tags — Anki uses spaces")
         tag_tokens = tags.split()
         allow_non_jp = "allow:non-japanese-source" in tag_tokens
+        source_text = _source_sentence(nt, header, row).strip()
         point_tags = [t[len("point:"):] for t in tag_tokens if t.startswith("point:")]
         if not point_tags:
             errs.append(f"{path}:{ln}: missing point:* tag")
@@ -286,6 +305,16 @@ def lint_file(path: Path,
             if not on_disk and not in_manifest and not pending_audio:
                 errs.append(f"{path}:{ln}: audio ref [sound:{ref}] not "
                             f"in media/audio/ and not in manifest")
+            if (
+                not pending_audio
+                and source_text
+                and _HASH_AUDIO_RE.fullmatch(ref)
+                and stem.replace("_alt", "") != _audio_hash(source_text)
+            ):
+                errs.append(
+                    f"{path}:{ln}: audio ref [sound:{ref}] does not match "
+                    "current source sentence; regenerate via build_audio.py"
+                )
             audio_users[ref].append(f"{path}:{ln}")
 
         # Invented-classical form check (CRITICAL: teaches non-existent Japanese)
@@ -298,6 +327,11 @@ def lint_file(path: Path,
             en_val = row[header.index("EN")].strip()
             if en_val and _META_EN_RE.search(en_val):
                 errs.append(f"{path}:{ln}: meta-commentary in EN column: {en_val[:60]!r}")
+            if nt == "Recognition" and en_val and _RECOGNITION_EN_PROMPT_RE.search(en_val):
+                errs.append(
+                    f"{path}:{ln}: production-style prompt leaked into Recognition EN: "
+                    f"{en_val[:60]!r}"
+                )
 
         # Whole-sentence cloze — promoted from WARN to ERROR after Phase-2
         # re-curation. Every cloze row must leave some JP context outside
@@ -415,7 +449,37 @@ def lint_file(path: Path,
                     f"replace with a real grammar label"
                 )
 
-        source_text = _source_sentence(nt, header, row).strip()
+        if nt == "Recognition" and all(c in header for c in ("MainUse", "QuickCue", "Formula")):
+            mainuse_val = row[header.index("MainUse")].strip()
+            quickcue_val = row[header.index("QuickCue")].strip()
+            formula_val = row[header.index("Formula")].strip()
+            if quickcue_val and quickcue_val.casefold() in {
+                mainuse_val.casefold(),
+                formula_val.casefold(),
+            }:
+                errs.append(
+                    f"{path}:{ln}: Recognition QuickCue duplicates "
+                    "MainUse/Formula; leave it blank or add a distinct mnemonic"
+                )
+
+        # Production cards must not put the full model answer in Target.
+        # The front template may change over time, so keep the data contract
+        # itself clean: Target is a form/pattern, Sample is the answer.
+        if nt == "Production" and "Target" in header and "Sample" in header:
+            prompt_val = row[header.index("Prompt")].strip() if "Prompt" in header else ""
+            target_val = row[header.index("Target")].strip()
+            sample_val = row[header.index("Sample")].strip()
+            if prompt_val and _PRODUCTION_PROMPT_FORM_LEAK_RE.search(prompt_val):
+                errs.append(
+                    f"{path}:{ln}: Production Prompt exposes a Japanese form hint; "
+                    "keep Target/answer cues off the front"
+                )
+            if target_val and target_val == sample_val:
+                errs.append(
+                    f"{path}:{ln}: Production Target duplicates Sample; "
+                    "Target must be a form/pattern, not the full answer"
+                )
+
         if _PLACEHOLDER_TOKEN_RE.search(source_text):
             errs.append(f"{path}:{ln}: placeholder token leaked into source sentence")
         if nt != "Contrast" and "___" in source_text:
@@ -641,8 +705,9 @@ def main() -> int:
     for f in files:
         all_errs.extend(lint_file(f, audio_users, manifest_keys, taxonomy_points))
 
-    # Recognition twin parity: production and recognition for the same point
-    # should have the same row count (±2). Large divergence = orphaned file.
+    # Recognition/production floor: a premium point should provide enough
+    # examples for both noticing and retrieval. Extra curated examples are
+    # fine; missing a five-row floor is not.
     prod_counts: dict[tuple, int] = {}
     recog_counts: dict[tuple, int] = {}
     for f in files:
@@ -654,13 +719,14 @@ def main() -> int:
             prod_counts[(f.parent, f.stem[:-len("_production")])] = count
         elif f.stem.endswith("_recognition"):
             recog_counts[(f.parent, f.stem[:-len("_recognition")])] = count
-    for key, prod_n in prod_counts.items():
-        recog_n = recog_counts.get(key)
-        if recog_n is not None and abs(prod_n - recog_n) > 2:
+    for key in sorted(set(prod_counts) & set(recog_counts)):
+        prod_n = prod_counts[key]
+        recog_n = recog_counts[key]
+        if prod_n < 5 or recog_n < 5:
             parent, point = key
             all_errs.append(
-                f"WARN: {parent}/{point}: production={prod_n} rows, "
-                f"recognition={recog_n} rows — difference > 2"
+                f"WARN: {parent}/{point}: recognition/production floor not met "
+                f"(production={prod_n}, recognition={recog_n}, need ≥5 each)"
             )
 
     # Cross-corpus checks: an audio filename used by >1 note is fine

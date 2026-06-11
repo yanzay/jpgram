@@ -120,6 +120,7 @@ def write_production(path: Path, *, module: str, slug: str, entry: dict) -> None
     deck_label = MODULE_LABELS[module]
     jlpt = MODULE_JLPT[module]
     main_use = entry.get("main_use", "")
+    target_form = entry.get("target") or entry.get("target_form") or entry.get("formula") or slug
 
     lines: list[str] = list(PRODUCTION_HEADER) + [
         f"#deck:Japanese Grammar (Strict)::{deck_label}::Production",
@@ -131,7 +132,7 @@ def write_production(path: Path, *, module: str, slug: str, entry: dict) -> None
         why = s.get("why") or s.get("quick_cue") or main_use
         row = [
             prompt,
-            jp,
+            s.get("target") or s.get("target_form") or target_form,
             reading(jp),
             jp,
             why,

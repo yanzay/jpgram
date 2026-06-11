@@ -7,6 +7,8 @@ zstandard>=0.22
 # Required by build_audio.py. Without these the deck still builds,
 # it just ships without TTS audio.
 google-cloud-texttospeech>=2.16.0
+# No-auth neural fallback used when Google ADC is unavailable.
+edge-tts>=7.2.8
 
 # ── Tier-2 (furigana / pitch-accent; optional but recommended) ─────
 # Required by build_furigana.py + build_pitchaccent.py. Without these

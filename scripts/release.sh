@@ -20,12 +20,23 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 BUMP="${1:-patch}"
+PYTHON="${PYTHON:-.venv/bin/python}"
+if [[ ! -x "$PYTHON" ]]; then
+  PYTHON="python3"
+fi
 
 # ── 1. Quick local validation ────────────────────────────────────────────
 echo "==> Validating grammar data..."
-python3 validate_anki_data.py
-python3 validate_grammar_taxonomy.py
-python3 scripts/strict_deck_audit.py --skip-bunpro-fetch --require-full-bunpro-resolution
+"$PYTHON" validate_anki_data.py
+"$PYTHON" validate_content_quality.py --strict
+"$PYTHON" validate_grammar_taxonomy.py
+"$PYTHON" validate_pitchaccent_coverage.py
+"$PYTHON" scripts/strict_deck_audit.py \
+  --skip-bunpro-fetch \
+  --enforce-note-types \
+  --require-full-bunpro-resolution \
+  --min-reverse-coverage-pct 100
+"$PYTHON" -m pytest -q
 echo "    Validation passed."
 
 # ── 2. Bump version ──────────────────────────────────────────────────────
@@ -44,11 +55,8 @@ echo "==> Bumping version: ${CURRENT} → ${NEW_VERSION}"
 sed -i '' "s/^VERSION = \"${CURRENT}\"/VERSION = \"${NEW_VERSION}\"/" build_anki_package.py
 
 # ── 3. Build .apkg ───────────────────────────────────────────────────────
-# --exclude-broken suppresses cloze/dictation/listening files until the
-# Phase-2/3/8 re-curation lands (see IMPROVEMENT_PLAN.md). Refine to a
-# per-file allowlist once cleanups complete.
 echo "==> Building japanese_grammar_anki.apkg..."
-python3 build_anki_package.py --exclude-broken
+"$PYTHON" build_anki_package.py
 echo "    Build complete: $(du -sh japanese_grammar_anki.apkg | cut -f1)"
 
 # ── 4. Commit ────────────────────────────────────────────────────────────

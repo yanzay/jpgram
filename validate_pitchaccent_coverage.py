@@ -31,7 +31,17 @@ def main() -> int:
         print(f"✗ missing {INDEX_PATH}; run build_pitchaccent.py first")
         return 2
 
-    data = json.loads(INDEX_PATH.read_text(encoding="utf-8"))
+    raw = INDEX_PATH.read_text(encoding="utf-8")
+    if raw.startswith("version https://git-lfs.github.com/spec/"):
+        print(f"✗ {INDEX_PATH} is a Git LFS pointer, not the JSON index")
+        print("  Run `git lfs pull --include=media/pitchaccent_index.json` or rebuild with `python build_pitchaccent.py`.")
+        return 2
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as e:
+        print(f"✗ {INDEX_PATH} is not valid JSON: {e}")
+        print("  Rebuild with `python build_pitchaccent.py` after `python build_furigana.py`.")
+        return 2
     cov = float(data.get("coverage_percent", 0.0))
     wcov = float(data.get("weighted_coverage_percent", 0.0))
     lcov = float(data.get("lexical_coverage_percent", 0.0))

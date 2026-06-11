@@ -118,6 +118,21 @@ def _run_hook(label: str, argv: list[str]) -> int:
     return rc
 
 
+def _is_lfs_pointer(path: Path) -> bool:
+    try:
+        return path.read_bytes()[:64].startswith(b"version https://git-lfs.github.com/spec/")
+    except OSError:
+        return False
+
+
+def _looks_like_mp3(path: Path) -> bool:
+    try:
+        head = path.read_bytes()[:4]
+    except OSError:
+        return False
+    return head.startswith(b"ID3") or (len(head) >= 2 and head[0] == 0xFF and (head[1] & 0xE0) == 0xE0)
+
+
 def main() -> int:
     import argparse
     import shutil
@@ -134,9 +149,6 @@ def main() -> int:
                         help="Output .apkg path")
     parser.add_argument("--allow-validation-failures", action="store_true",
                         help="Bypass strict data validation failure gate")
-    parser.add_argument("--exclude-broken", action="store_true",
-                        help="Suppress confirmed-bad secondary card files (cloze/dictation/listening)"
-                             " and mis-curated production/recognition hot-list files")
     args = parser.parse_args()
 
     if not GRAMMAR_DIR.exists():
@@ -147,32 +159,6 @@ def main() -> int:
     if not tsvs:
         print("grammar/ has no TSVs yet. See CONTENT_PLAN.md for the wave plan.")
         return 1
-
-    # Files confirmed bad in the 2026-05-19 audit; suppressed by --exclude-broken.
-    # All cloze/dictation/listening files are excluded (≥73% content-mismatch rate).
-    # Production/recognition hot-list: filename point appears in <50% of rows.
-    _BROKEN_SUFFIXES = ("_cloze.tsv", "_dictation.tsv", "_listening.tsv")
-    _BROKEN_PRODUCTION_FILES = {
-        "02-n4/はずだ_production.tsv", "02-n4/はずだ_recognition.tsv",
-        "02-n4/ようだ_production.tsv", "02-n4/ようだ_recognition.tsv",
-        "02-n4/ぜんぜん_production.tsv", "02-n4/ぜんぜん_recognition.tsv",
-        "02-n4/てもらう_production.tsv", "02-n4/てもらう_recognition.tsv",
-        "02-n4/ていく_production.tsv", "02-n4/ていく_recognition.tsv",
-        "02-n4/いらっしゃる_production.tsv", "02-n4/いらっしゃる_recognition.tsv",
-        "02-n4/いたす_production.tsv", "02-n4/いたす_recognition.tsv",
-        "03-n3/つまり_production.tsv",
-        "04-n2/に相違ない_production.tsv",
-        "05-n1/てやまない_production.tsv",
-        "05-n1/にしてみれば_production.tsv",
-        "05-n1/という_production.tsv",
-        "05-n1/の極み_production.tsv",
-    }
-
-    def _is_broken(path: Path) -> bool:
-        rel = str(path.relative_to(GRAMMAR_DIR))
-        if path.name.endswith(_BROKEN_SUFFIXES):
-            return True
-        return rel in _BROKEN_PRODUCTION_FILES
 
     # 1. Inject taxonomy tags (idempotent).
     if Path("apply_taxonomy_tags.py").exists():
@@ -189,6 +175,15 @@ def main() -> int:
     if validation_result != 0 and args.allow_validation_failures:
         print("  ⚠ Validation failed but bypassed by --allow-validation-failures")
 
+    if Path("validate_content_quality.py").exists():
+        content_quality_result = _run_hook(
+            "validate_content_quality",
+            [sys.executable, "validate_content_quality.py", "--strict"],
+        )
+        if content_quality_result != 0 and not args.allow_validation_failures:
+            print("  ✗ Content quality validation failed (strict gate); aborting build.")
+            return 6
+
     # 2b. Validate point-level taxonomy coverage.
     if Path("validate_grammar_taxonomy.py").exists():
         taxonomy_result = _run_hook(
@@ -198,6 +193,15 @@ def main() -> int:
         if taxonomy_result != 0 and not args.allow_validation_failures:
             print("  ✗ Taxonomy validation failed (strict gate); aborting build.")
             return 5
+
+    if Path("validate_pitchaccent_coverage.py").exists():
+        pitch_result = _run_hook(
+            "validate_pitchaccent_coverage",
+            [sys.executable, "validate_pitchaccent_coverage.py"],
+        )
+        if pitch_result != 0 and not args.allow_validation_failures:
+            print("  ✗ Pitch-accent coverage failed (strict gate); aborting build.")
+            return 7
 
     print(f"\nBuilding {args.out} (v{VERSION}) from {len(tsvs)} TSV(s)…")
     
@@ -226,12 +230,8 @@ def main() -> int:
         total_cards = 0
         media_files_copied = set()
         
-        broken_skipped = 0
         # Process TSVs
         for tsv_path in tsvs:
-            if args.exclude_broken and _is_broken(tsv_path):
-                broken_skipped += 1
-                continue
             try:
                 header, rows = load_tsv(tsv_path)
                 if not header or not rows:
@@ -299,13 +299,29 @@ def main() -> int:
         # Copy media files
         if not args.no_audio and media_files_copied:
             media_copied = 0
+            media_errors: list[str] = []
             for fname in media_files_copied:
                 src = MEDIA_DIR / "audio" / fname
-                if src.exists():
-                    dst = Path(col.media.dir()) / fname
-                    if not dst.exists():
-                        shutil.copy2(src, dst)
-                        media_copied += 1
+                if not src.exists():
+                    media_errors.append(f"missing media/audio/{fname}")
+                    continue
+                if _is_lfs_pointer(src):
+                    media_errors.append(f"media/audio/{fname} is a Git LFS pointer")
+                    continue
+                if not _looks_like_mp3(src):
+                    media_errors.append(f"media/audio/{fname} does not look like an MP3")
+                    continue
+                dst = Path(col.media.dir()) / fname
+                if not dst.exists():
+                    shutil.copy2(src, dst)
+                    media_copied += 1
+            if media_errors:
+                print("  ✗ Media validation failed:")
+                for err in media_errors[:20]:
+                    print(f"    - {err}")
+                if len(media_errors) > 20:
+                    print(f"    ... and {len(media_errors) - 20} more")
+                return 8
             
             print(f"  ✓ Copied {media_copied} media file(s)")
         
@@ -349,8 +365,6 @@ def main() -> int:
         print(f"  Cards: {total_cards}")
         print(f"  Media: {len(media_files_copied)}")
         print(f"  Size: {apkg_size:.2f} MB")
-        if args.exclude_broken and broken_skipped:
-            print(f"  Skipped (--exclude-broken): {broken_skipped} file(s)")
         
     except Exception as e:
         print(f"✗ Collection assembly failed: {e}")

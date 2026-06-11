@@ -173,6 +173,12 @@ PHRASE_OVERRIDES: dict[str, str] = {
     "一歩": "いっぽ",      # 一+歩 counter — sokuon gemination
     "富士山": "ふじさん",  # mountain reading (not ふじやま, which is regional/old)
     "年を取る": "としをとる",  # 年=とし not ねん in this idiom
+    # Food/spice contexts: 辛い is からい, not つらい.
+    "辛い食べ物": "からいたべもの",
+    "料理は辛い": "りょうりはからい",
+    "料理の辛さ": "りょうりのからさ",
+    # Avoid 昨日 + 本 being segmented as 昨(さく) + 日本(にほん).
+    "昨日本": "きのうほん",
 }
 
 # Standalone-token fallbacks (UniDic returns the formal/older form by default).

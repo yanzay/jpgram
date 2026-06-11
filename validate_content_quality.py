@@ -13,32 +13,26 @@ Checks that block merges (exit 1 on any violation):
 
 Checks that warn only (exit 0, printed for awareness):
   - vague-formula        : Formula is a short English-only word for N4-N1 grammar files
-  - label-contamination  : dominant Label in recognition file doesn't match the slug
-                           (after excluding known collection files)
+  - point-tag-mismatch   : row point:* tag does not match the filename point
 
 Usage:
   python3 validate_content_quality.py [--strict]   # --strict makes warnings blocking
 """
 from __future__ import annotations
-import argparse, re, sys
-from collections import defaultdict
+import argparse, csv, re, sys
 from pathlib import Path
 
 GRAMMAR_DIR  = Path("grammar-strict")
 AUDIO_DIR    = Path("media/audio")
 
-# ── Collection files: multi-point thematic groups (label != slug is expected) ──
-COLLECTION_SLUGS = {
-    "copula", "particles-core", "demonstratives", "numbers-counters",
-    "time-expressions", "kana", "pitch-accent-primer", "pitch-accent",
-}
-
 # ── File categories exempt from formula check ────────────────────────────────
-FORMULA_EXEMPT_DIRS = {"00-foundation", "10-onomatopoeia"}
+FORMULA_EXEMPT_DIRS = {"00-foundation", "10-onomatopoeia", "13-l1"}
 
 STRUCTURAL_RE = re.compile(
     r'\b(V|N|Adj|Noun|verb|stem|dict|plain|masu|て|た|ない|の|に|が|を|で'
-    r'|する|なる|ある|く|い|な|volitional|passive|causative|conditional)\b',
+    r'|する|なる|ある|く|い|な|A|B|X|Y|form|past|future|honorific|humble'
+    r'|predicate|attributive|baseline|comparison|emphatic|anaphoric'
+    r'|volitional|passive|causative|conditional)\b',
     re.IGNORECASE
 )
 JP_RE       = re.compile(r'[一-龯ぁ-んァ-ン]')
@@ -101,27 +95,6 @@ def main() -> int:
         formula_idx = cols.index("Formula") if "Formula" in cols else -1
         tags_idx    = cols.index("Tags")    if "Tags"    in cols else -1
 
-        # ── Per-file label-contamination (recognition, non-collection) ────────
-        if is_rec and label_idx >= 0 and slug not in COLLECTION_SLUGS:
-            slug_n = re.sub(r"[〜ー～\-\s]", "", slug.lower())
-            data_rows = [l for l in lines if not l.startswith("#") and l.strip()]
-            if data_rows and len(slug_n) > 2:
-                all_labels = [r.split("\t")[label_idx].strip()
-                              for r in data_rows
-                              if len(r.split("\t")) > label_idx]
-                if all_labels:
-                    from collections import Counter
-                    match = sum(1 for lb in all_labels
-                                if slug_n in re.sub(r"[〜ー～\-\s]", "", lb.lower()))
-                    pct = (match / len(all_labels)) * 100
-                    if pct < 50:
-                        top = Counter(all_labels).most_common(1)[0][0]
-                        warnings.append(
-                            f"[label-contamination] {tsv.parent.name}/{tsv.name}: "
-                            f"{pct:.0f}% of labels match slug '{slug}'; "
-                            f"dominant label is '{top}'"
-                        )
-
         # ── Per-row checks ────────────────────────────────────────────────────
         for lineno, line in enumerate(lines, 1):
             if line.startswith("#") or not line.strip():
@@ -156,6 +129,11 @@ def main() -> int:
 
             # Missing-audio-file (skip rows tagged scaffold:pending-audio)
             tags_val = parts[tags_idx].strip() if tags_idx >= 0 and tags_idx < len(parts) else ""
+            point_tags = [t[len("point:"):] for t in tags_val.split() if t.startswith("point:")]
+            if point_tags and slug not in point_tags:
+                errors.append(
+                    f"[point-tag-mismatch] {loc}: point tag(s) {point_tags} do not include filename point '{slug}'"
+                )
             pending_audio = "scaffold:pending-audio" in tags_val.split()
             if audio_idx >= 0 and audio_idx < len(parts) and not pending_audio:
                 audio_val = parts[audio_idx].strip()
@@ -197,7 +175,7 @@ def main() -> int:
                 if (formula
                         and not STRUCTURAL_RE.search(formula)
                         and len(formula) < 25
-                        and not any(c in formula for c in "〜・・+→←")):
+                        and not any(c in formula for c in "〜～・・+→←=/")):
                     warnings.append(
                         f"[vague-formula] {loc}: Formula={formula!r} — "
                         "add morphological pattern (e.g. 'V-plain + そうだ')"

@@ -216,9 +216,11 @@ def collect_sentences() -> List[str]:
                 jp = _CLOZE_RE.sub(r"\1", jp)
             if is_contrast and header and "Answer" in header and len(row) > header.index("Answer"):
                 ans = row[header.index("Answer")].strip()
-                jp = jp.replace("___", ans)
-                # Strip trailing English context hint: "私は学生です。(introducing myself)" → "私は学生です。"
-                jp = re.sub(r'\s*\([^)]+\)\s*$', '', jp).strip()
+                jp = jp.replace("___", "" if ans == "(omit)" else ans)
+                # Strip teaching context hints before TTS:
+                # "私は学生です。(introducing myself)" -> "私は学生です。"
+                # "(初対面で)田中です。" -> "田中です。"
+                jp = re.sub(r'\s*\([^)]+\)\s*', '', jp).strip()
             sentences.add(jp)
     return sorted(sentences)
 

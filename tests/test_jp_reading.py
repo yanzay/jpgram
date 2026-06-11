@@ -235,6 +235,18 @@ def test_pitch_primer_atarashii_kotoba():
     assert reading("弟") == "おとうと"
 
 
+def test_spicy_karai_food_contexts():
+    assert "からいたべもの" in reading("辛い食べ物が食べられるようになりました。")
+    assert "このりょうりはからい" in reading("この料理は辛いようだ。")
+    assert "このりょうりのからさ" in reading("この料理の辛さが好きです。")
+
+
+def test_yesterday_book_not_saku_nihon():
+    r = reading("昨日本を読みました。")
+    assert "きのうほんをよみました" in r
+    assert "さくにほん" not in r
+
+
 if __name__ == "__main__":
     import traceback
     failed = 0

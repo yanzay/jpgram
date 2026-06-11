@@ -1,5 +1,5 @@
 <!-- Production.front.html
-     Presents: Large EN prompt, hint of Target grammar form (small), audio NOT auto-played
+     Presents: Large EN prompt only, audio NOT auto-played
      Fields: Prompt, Target, Reading, Sample, Why, Audio, Tags
   -->
 
@@ -7,13 +7,6 @@
   <div class="main-content">
     <!-- Large English prompt: the question the student must answer -->
     <div class="en-large">{{Prompt}}</div>
-
-    <!-- Small hint: show the grammar form/structure without spoiling the full answer -->
-    {{#Target}}
-    <div style="font-size: 0.9em; color: var(--muted); margin-top: 0.5em;">
-      <small>Form hint: <code class="formula">{{Target}}</code></small>
-    </div>
-    {{/Target}}
   </div>
 
 </div>
