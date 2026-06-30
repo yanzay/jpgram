@@ -30,3 +30,6 @@ research-reports/
 # Research-time scratch directories
 anki_decks/
 anki_package_import/
+
+# Built Anki deck — published to GitHub Releases, not committed
+*.apkg
